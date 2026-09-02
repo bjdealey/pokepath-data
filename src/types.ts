@@ -54,6 +54,13 @@ export interface Trainer {
   team: TrainerPokemon[];
 }
 
+/** An item findable at a location (name + how it's obtained). */
+export interface LocationItem {
+  item: string;
+  slug: string;
+  method: string; // Floor | Itemfinder | Hidden | Gift | …
+}
+
 /** A wild encounter from an Emerald pokearth encounter table (mon + rate + level). */
 export interface EmeraldEncounter {
   pokemon: string;

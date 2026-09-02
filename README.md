@@ -13,13 +13,14 @@ node src/run.ts pokemon 1-386      # full national dex (Gen-3 pages)
 node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
+node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts trainers           # scrape Emerald gyms + Elite Four → trainers + story
 node src/run.ts battles            # crawl Hoenn pokearth → Emerald rival/villain battles
 npm test                           # parser fixture tests
 ```
 
 Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
-`dataset/games/<game>/{encounters,locations,trainers,story,battles}.json`.
+`dataset/games/<game>/{encounters,locations,items,trainers,story,battles}.json`.
 
 ## How it works
 
@@ -47,6 +48,9 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   range + method** (grass / surf / old-·good-·super-rod / rock-smash), method resolved
   from document-order anchors. 61 locations (34 routes + caves/special), 607
   encounters. Route 110 correctly lists both Plusle *and* Minun with rates.
+- ✅ `items` — **Emerald** findable items per location, from the same pokearth pages
+  (item + how obtained: Floor / Itemfinder-hidden / Gift / Berry Tree). 51 locations,
+  304 items; item slugs come from Serebii's itemdex links.
 - ✅ `trainers` + `story` — **Emerald** gym leaders + Elite Four + Champion rosters
   (Pokémon, level, moves, held item), and a 13-step **progression spine** (gym order,
   city, badge, TM reward, field-move unlock, level cap) from `/emerald/gym.shtml` +
