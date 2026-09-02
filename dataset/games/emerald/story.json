@@ -1,0 +1,144 @@
+[
+  {
+    "order": 1,
+    "kind": "gym",
+    "name": "Roxanne",
+    "slug": "roxanne",
+    "city": "Rustboro City",
+    "location": "Rustboro City",
+    "specialty": "Rock",
+    "badge": "Stone Badge",
+    "tmReward": "TM39",
+    "fieldMove": "Cut",
+    "levelCap": 15
+  },
+  {
+    "order": 2,
+    "kind": "gym",
+    "name": "Brawly",
+    "slug": "brawly",
+    "city": "Dewford Town",
+    "location": "Dewford Town",
+    "specialty": "Fighting",
+    "badge": "Knuckle Badge",
+    "tmReward": "TM08",
+    "fieldMove": "Flash",
+    "levelCap": 19
+  },
+  {
+    "order": 3,
+    "kind": "gym",
+    "name": "Wattson",
+    "slug": "wattson",
+    "city": "Mauville City",
+    "location": "Mauville City",
+    "specialty": "Electric",
+    "badge": "Dynamo Badge",
+    "tmReward": "TM34",
+    "fieldMove": "Rock Smash",
+    "levelCap": 24
+  },
+  {
+    "order": 4,
+    "kind": "gym",
+    "name": "Flannery",
+    "slug": "flannery",
+    "city": "Lavaridge Town",
+    "location": "Lavaridge Town",
+    "specialty": "Fire",
+    "badge": "Heat Badge",
+    "tmReward": "TM50",
+    "fieldMove": "Strength",
+    "levelCap": 29
+  },
+  {
+    "order": 5,
+    "kind": "gym",
+    "name": "Norman",
+    "slug": "norman",
+    "city": "Petalburg City",
+    "location": "Petalburg City",
+    "specialty": "Normal",
+    "badge": "Balance Badge",
+    "tmReward": "TM42",
+    "fieldMove": "Surf",
+    "levelCap": 31
+  },
+  {
+    "order": 6,
+    "kind": "gym",
+    "name": "Winona",
+    "slug": "winona",
+    "city": "Fortree City",
+    "location": "Fortree City",
+    "specialty": "Flying",
+    "badge": "Feather Badge",
+    "tmReward": "TM40",
+    "fieldMove": "Fly",
+    "levelCap": 33
+  },
+  {
+    "order": 7,
+    "kind": "gym",
+    "name": "Tate & Liza",
+    "slug": "tate-and-liza",
+    "city": "Mossdeep City",
+    "location": "Mossdeep City",
+    "specialty": "Psychic",
+    "badge": "Mind Badge",
+    "tmReward": "TM04",
+    "fieldMove": "Dive",
+    "levelCap": 42
+  },
+  {
+    "order": 8,
+    "kind": "gym",
+    "name": "Juan",
+    "slug": "juan",
+    "city": "Sootopolis City",
+    "location": "Sootopolis City",
+    "specialty": "Water",
+    "badge": "Rain Badge",
+    "tmReward": "TM03",
+    "levelCap": 46
+  },
+  {
+    "order": 9,
+    "kind": "elite-four",
+    "name": "Sidney",
+    "slug": "sidney",
+    "specialty": "Dark",
+    "levelCap": 49
+  },
+  {
+    "order": 10,
+    "kind": "elite-four",
+    "name": "Phoebe",
+    "slug": "phoebe",
+    "specialty": "Ghost",
+    "levelCap": 51
+  },
+  {
+    "order": 11,
+    "kind": "elite-four",
+    "name": "Glacia",
+    "slug": "glacia",
+    "specialty": "Ice",
+    "levelCap": 53
+  },
+  {
+    "order": 12,
+    "kind": "elite-four",
+    "name": "Drake",
+    "slug": "drake",
+    "specialty": "Dragon",
+    "levelCap": 55
+  },
+  {
+    "order": 13,
+    "kind": "champion",
+    "name": "Wallace",
+    "slug": "wallace",
+    "levelCap": 58
+  }
+]

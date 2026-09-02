@@ -36,6 +36,39 @@ export interface Learnset {
   machine: MachineMove[];
 }
 
+export interface TrainerPokemon {
+  pokemon: string; // slug
+  natdex: number;
+  level: number;
+  moves: string[];
+  heldItem: string | null;
+}
+
+export interface Trainer {
+  slug: string;
+  name: string;
+  class: "Gym Leader" | "Elite Four" | "Champion";
+  location?: string;
+  specialty?: string; // type name
+  badge?: string;
+  team: TrainerPokemon[];
+}
+
+/** One node in the game's progression spine (gyms → Elite Four → Champion). */
+export interface StoryStep {
+  order: number;
+  kind: "gym" | "elite-four" | "champion";
+  name: string; // leader / member / champion
+  slug: string;
+  city?: string;
+  location?: string;
+  specialty?: string;
+  badge?: string;
+  tmReward?: string;
+  fieldMove?: string; // HM/field move this badge unlocks (Cut, Surf, …)
+  levelCap: number; // highest level on the trainer's team
+}
+
 export interface PokemonRecord {
   slug: string;
   natdex: number;

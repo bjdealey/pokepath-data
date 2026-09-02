@@ -8,6 +8,7 @@ import { fileURLToPath } from "node:url";
 import { fetchCached } from "./fetch.ts";
 import { parsePokemon } from "./parse/pokemon.ts";
 import { deriveEncounters } from "./derive/encounters.ts";
+import { scrapeTrainers } from "./scrape/trainers.ts";
 import type { GameSlug, PokemonRecord } from "./types.ts";
 
 const DATASET = fileURLToPath(new URL("../dataset/", import.meta.url));
@@ -89,7 +90,11 @@ if (!entity || entity === "pokemon") {
     console.warn(`⚠ ${r.unparsed.length} route-like strings did not parse:`);
     r.unparsed.slice(0, 10).forEach((u) => console.warn(`  ${u}`));
   }
+} else if (entity === "trainers") {
+  console.log(`▶ scraping Emerald gym leaders + Elite Four…`);
+  const r = await scrapeTrainers(refresh);
+  console.log(`✔ ${r.trainers} trainers, ${r.story}-step story → dataset/games/emerald/`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon" or "encounters"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "encounters", or "trainers"`);
   process.exit(1);
 }

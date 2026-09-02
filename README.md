@@ -13,11 +13,12 @@ node src/run.ts pokemon 1-386      # full national dex (Gen-3 pages)
 node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts encounters         # derive Emerald encounters (no network)
+node src/run.ts trainers           # scrape Emerald gyms + Elite Four → trainers + story
 npm test                           # parser fixture tests
 ```
 
 Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
-`dataset/games/<game>/encounters.json` + `locations.json`.
+`dataset/games/<game>/{encounters,locations,trainers,story}.json`.
 
 ## How it works
 
@@ -46,8 +47,13 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   the Emerald-exact source — Route 110 correctly lists both Plusle *and* Minun.
   Caveat: no rate% or level ranges (Serebii doesn't publish them per-route for
   Emerald). 126 locations.
-- ⏳ Next: `trainers`, `story`, other generations; optional Ruby/Sapphire level
-  enrichment from `/pokearth/hoenn/3rd/`.
+- ✅ `trainers` + `story` — **Emerald** gym leaders + Elite Four + Champion rosters
+  (Pokémon, level, moves, held item), and a 13-step **progression spine** (gym order,
+  city, badge, TM reward, field-move unlock, level cap) from `/emerald/gym.shtml` +
+  `/emerald/elite.shtml`. The gym "Method" prose even states which HM each badge
+  unlocks (Stone→Cut, Balance→Surf, …).
+- ⏳ Next: other generations; rival/villain battles; optional Ruby/Sapphire level
+  enrichment for encounters from `/pokearth/hoenn/3rd/`.
 
 ## Notes
 
