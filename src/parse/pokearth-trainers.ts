@@ -5,7 +5,7 @@
 // rival) but no movesets/items — those live only on the gym/elite pages.
 import * as cheerio from "cheerio";
 import type { Element } from "domhandler";
-import type { Battle } from "../types.ts";
+import type { RouteTrainer } from "../types.ts";
 
 const clean = (s: string) => s.replace(/\s+/g, " ").trim();
 
@@ -29,9 +29,9 @@ export function locationName(slug: string): string {
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-export function parseEmeraldBattles(html: string, location: string): Battle[] {
+export function parseRouteTrainers(html: string, location: string): RouteTrainer[] {
   const $ = cheerio.load(html);
-  const out: Battle[] = [];
+  const out: RouteTrainer[] = [];
   let section = "";
 
   $("a[name], table.trainer").each((_i, el) => {
@@ -49,8 +49,8 @@ export function parseEmeraldBattles(html: string, location: string): Battle[] {
     if (!nameRow || !spriteRow) return;
 
     const label = clean($(cells(nameRow)[0]).text());
-    const kind: Battle["kind"] | null = RIVAL.test(label) ? "rival" : VILLAIN.test(label) ? "villain" : null;
-    if (!kind) return;
+    if (!label) return;
+    const kind: RouteTrainer["kind"] = RIVAL.test(label) ? "rival" : VILLAIN.test(label) ? "villain" : "trainer";
 
     const nameCells = cells(nameRow).slice(1); // drop leader column
     const spriteCells = cells(spriteRow).slice(1);

@@ -15,12 +15,12 @@ node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts trainers           # scrape Emerald gyms + Elite Four → trainers + story
-node src/run.ts battles            # crawl Hoenn pokearth → Emerald rival/villain battles
+node src/run.ts route-trainers     # crawl Hoenn pokearth → all Emerald route trainers
 npm test                           # parser fixture tests
 ```
 
 Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
-`dataset/games/<game>/{encounters,locations,items,trainers,story,battles}.json`.
+`dataset/games/<game>/{encounters,locations,items,trainers,story,route-trainers}.json`.
 
 ## How it works
 
@@ -56,11 +56,12 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   city, badge, TM reward, field-move unlock, level cap) from `/emerald/gym.shtml` +
   `/emerald/elite.shtml`. The gym "Method" prose even states which HM each badge
   unlocks (Stone→Cut, Balance→Surf, …).
-- ✅ `battles` — **Emerald** rival (Brendan / May / Wally) + villain (Team Magma /
-  Aqua: Maxie, admins, grunts) battles, crawled from the Hoenn `/pokearth/hoenn/3rd/`
-  pages (Emerald `trainers-em` sections only, isolated via document-order anchors).
-  82 battles across 76 pages; captures the rival's **starter-choice variants**
-  (Mudkip chosen → Grovyle ace, …). Team + level only — pokearth omits movesets/items.
+- ✅ `route-trainers` — **all Emerald route trainers** from the Hoenn
+  `/pokearth/hoenn/3rd/` `trainers-em` sections (a complete per-game roster, isolated
+  via document-order anchors). **767 trainers across 51 locations**, each tagged
+  `kind` = trainer / rival / villain (Team Magma/Aqua) — the rival keeps its
+  **starter-choice variants** (Mudkip chosen → Grovyle ace). Team + level (pokearth
+  omits movesets/items); exact-duplicate tables de-duped, rematches kept.
 - ⏳ Next: other generations; optional Ruby/Sapphire level enrichment for encounters
   from `/pokearth/hoenn/3rd/`.
 

@@ -71,10 +71,12 @@ export interface EmeraldEncounter {
   levelMax: number | null;
 }
 
-/** A rival or villain (Team Magma/Aqua) battle scraped from a pokearth page. */
-export interface Battle {
-  label: string; // full trainer label, e.g. "Pokémon Trainer Brendan"
-  kind: "rival" | "villain";
+/** A route trainer (Emerald `trainers-em` section) scraped from a pokearth page.
+ * `kind` tags the rival (Brendan/May/Wally) and villains (Team Magma/Aqua);
+ * everyone else is a plain "trainer". */
+export interface RouteTrainer {
+  label: string; // full trainer label, e.g. "Youngster Timmy" / "Pokémon Trainer Brendan"
+  kind: "rival" | "villain" | "trainer";
   location: string; // location slug
   locationName: string;
   variant?: string; // rival starter condition, e.g. "Mudkip Chosen"
