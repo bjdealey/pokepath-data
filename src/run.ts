@@ -10,7 +10,6 @@ import { parsePokemon } from "./parse/pokemon.ts";
 import { scrapeEncounters } from "./scrape/encounters.ts";
 import { scrapeItems } from "./scrape/items.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
-import { scrapeRouteTrainers } from "./scrape/route-trainers.ts";
 import type { PokemonRecord } from "./types.ts";
 
 const DATASET = fileURLToPath(new URL("../dataset/", import.meta.url));
@@ -92,14 +91,11 @@ if (!entity || entity === "pokemon") {
   const r = await scrapeItems(refresh);
   console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.items} items → dataset/games/emerald/`);
 } else if (entity === "trainers") {
-  console.log(`▶ scraping Emerald gym leaders + Elite Four…`);
+  console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
-  console.log(`✔ ${r.trainers} trainers, ${r.story}-step story → dataset/games/emerald/`);
-} else if (entity === "route-trainers") {
-  console.log(`▶ crawling Hoenn pokearth pages for all Emerald route trainers…`);
-  const r = await scrapeRouteTrainers(refresh);
-  console.log(`✔ ${r.pages} pages → ${r.total} trainers (${r.trainer} regular, ${r.rival} rival, ${r.villain} villain)`);
+  console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
+  console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "encounters", "items", "trainers", or "route-trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "encounters", "items", or "trainers"`);
   process.exit(1);
 }

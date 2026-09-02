@@ -1,144 +1,609 @@
-[
-  {
-    "order": 1,
-    "kind": "gym",
-    "name": "Roxanne",
-    "slug": "roxanne",
-    "city": "Rustboro City",
-    "location": "Rustboro City",
-    "specialty": "Rock",
-    "badge": "Stone Badge",
-    "tmReward": "TM39",
-    "fieldMove": "Cut",
-    "levelCap": 15
-  },
-  {
-    "order": 2,
-    "kind": "gym",
-    "name": "Brawly",
-    "slug": "brawly",
-    "city": "Dewford Town",
-    "location": "Dewford Town",
-    "specialty": "Fighting",
-    "badge": "Knuckle Badge",
-    "tmReward": "TM08",
-    "fieldMove": "Flash",
-    "levelCap": 19
-  },
-  {
-    "order": 3,
-    "kind": "gym",
-    "name": "Wattson",
-    "slug": "wattson",
-    "city": "Mauville City",
-    "location": "Mauville City",
-    "specialty": "Electric",
-    "badge": "Dynamo Badge",
-    "tmReward": "TM34",
-    "fieldMove": "Rock Smash",
-    "levelCap": 24
-  },
-  {
-    "order": 4,
-    "kind": "gym",
-    "name": "Flannery",
-    "slug": "flannery",
-    "city": "Lavaridge Town",
-    "location": "Lavaridge Town",
-    "specialty": "Fire",
-    "badge": "Heat Badge",
-    "tmReward": "TM50",
-    "fieldMove": "Strength",
-    "levelCap": 29
-  },
-  {
-    "order": 5,
-    "kind": "gym",
-    "name": "Norman",
-    "slug": "norman",
-    "city": "Petalburg City",
-    "location": "Petalburg City",
-    "specialty": "Normal",
-    "badge": "Balance Badge",
-    "tmReward": "TM42",
-    "fieldMove": "Surf",
-    "levelCap": 31
-  },
-  {
-    "order": 6,
-    "kind": "gym",
-    "name": "Winona",
-    "slug": "winona",
-    "city": "Fortree City",
-    "location": "Fortree City",
-    "specialty": "Flying",
-    "badge": "Feather Badge",
-    "tmReward": "TM40",
-    "fieldMove": "Fly",
-    "levelCap": 33
-  },
-  {
-    "order": 7,
-    "kind": "gym",
-    "name": "Tate & Liza",
-    "slug": "tate-and-liza",
-    "city": "Mossdeep City",
-    "location": "Mossdeep City",
-    "specialty": "Psychic",
-    "badge": "Mind Badge",
-    "tmReward": "TM04",
-    "fieldMove": "Dive",
-    "levelCap": 42
-  },
-  {
-    "order": 8,
-    "kind": "gym",
-    "name": "Juan",
-    "slug": "juan",
-    "city": "Sootopolis City",
-    "location": "Sootopolis City",
-    "specialty": "Water",
-    "badge": "Rain Badge",
-    "tmReward": "TM03",
-    "levelCap": 46
-  },
-  {
-    "order": 9,
-    "kind": "elite-four",
-    "name": "Sidney",
-    "slug": "sidney",
-    "specialty": "Dark",
-    "levelCap": 49
-  },
-  {
-    "order": 10,
-    "kind": "elite-four",
-    "name": "Phoebe",
-    "slug": "phoebe",
-    "specialty": "Ghost",
-    "levelCap": 51
-  },
-  {
-    "order": 11,
-    "kind": "elite-four",
-    "name": "Glacia",
-    "slug": "glacia",
-    "specialty": "Ice",
-    "levelCap": 53
-  },
-  {
-    "order": 12,
-    "kind": "elite-four",
-    "name": "Drake",
-    "slug": "drake",
-    "specialty": "Dragon",
-    "levelCap": 55
-  },
-  {
-    "order": 13,
-    "kind": "champion",
-    "name": "Wallace",
-    "slug": "wallace",
-    "levelCap": 58
-  }
-]
+{
+  "milestones": [
+    {
+      "order": 1,
+      "kind": "gym",
+      "name": "Roxanne",
+      "slug": "roxanne",
+      "location": "Rustboro City",
+      "specialty": "Rock",
+      "badge": "Stone Badge",
+      "tmReward": "TM39",
+      "fieldMove": "Cut",
+      "levelCap": 15
+    },
+    {
+      "order": 2,
+      "kind": "gym",
+      "name": "Brawly",
+      "slug": "brawly",
+      "location": "Dewford Town",
+      "specialty": "Fighting",
+      "badge": "Knuckle Badge",
+      "tmReward": "TM08",
+      "fieldMove": "Flash",
+      "levelCap": 19
+    },
+    {
+      "order": 3,
+      "kind": "gym",
+      "name": "Wattson",
+      "slug": "wattson",
+      "location": "Mauville City",
+      "specialty": "Electric",
+      "badge": "Dynamo Badge",
+      "tmReward": "TM34",
+      "fieldMove": "Rock Smash",
+      "levelCap": 24
+    },
+    {
+      "order": 4,
+      "kind": "gym",
+      "name": "Flannery",
+      "slug": "flannery",
+      "location": "Lavaridge Town",
+      "specialty": "Fire",
+      "badge": "Heat Badge",
+      "tmReward": "TM50",
+      "fieldMove": "Strength",
+      "levelCap": 29
+    },
+    {
+      "order": 5,
+      "kind": "gym",
+      "name": "Norman",
+      "slug": "norman",
+      "location": "Petalburg City",
+      "specialty": "Normal",
+      "badge": "Balance Badge",
+      "tmReward": "TM42",
+      "fieldMove": "Surf",
+      "levelCap": 31
+    },
+    {
+      "order": 6,
+      "kind": "gym",
+      "name": "Winona",
+      "slug": "winona",
+      "location": "Fortree City",
+      "specialty": "Flying",
+      "badge": "Feather Badge",
+      "tmReward": "TM40",
+      "fieldMove": "Fly",
+      "levelCap": 33
+    },
+    {
+      "order": 7,
+      "kind": "gym",
+      "name": "Tate & Liza",
+      "slug": "tate-and-liza",
+      "location": "Mossdeep City",
+      "specialty": "Psychic",
+      "badge": "Mind Badge",
+      "tmReward": "TM04",
+      "fieldMove": "Dive",
+      "levelCap": 42
+    },
+    {
+      "order": 8,
+      "kind": "gym",
+      "name": "Juan",
+      "slug": "juan",
+      "location": "Sootopolis City",
+      "specialty": "Water",
+      "badge": "Rain Badge",
+      "tmReward": "TM03",
+      "levelCap": 46
+    },
+    {
+      "order": 9,
+      "kind": "elite-four",
+      "name": "Sidney",
+      "slug": "sidney",
+      "specialty": "Dark",
+      "levelCap": 49
+    },
+    {
+      "order": 10,
+      "kind": "elite-four",
+      "name": "Phoebe",
+      "slug": "phoebe",
+      "specialty": "Ghost",
+      "levelCap": 51
+    },
+    {
+      "order": 11,
+      "kind": "elite-four",
+      "name": "Glacia",
+      "slug": "glacia",
+      "specialty": "Ice",
+      "levelCap": 53
+    },
+    {
+      "order": 12,
+      "kind": "elite-four",
+      "name": "Drake",
+      "slug": "drake",
+      "specialty": "Dragon",
+      "levelCap": 55
+    },
+    {
+      "order": 13,
+      "kind": "champion",
+      "name": "Wallace",
+      "slug": "wallace",
+      "levelCap": 58
+    }
+  ],
+  "locations": [
+    {
+      "slug": "route101",
+      "name": "Route 101",
+      "level": 3,
+      "phase": 0,
+      "via": "encounters"
+    },
+    {
+      "slug": "granitecave",
+      "name": "Granite Cave",
+      "level": 10,
+      "phase": 0,
+      "via": "encounters"
+    },
+    {
+      "slug": "slateportcity",
+      "name": "Slateport City",
+      "level": 14,
+      "phase": 0,
+      "via": "trainers"
+    },
+    {
+      "slug": "route103",
+      "name": "Route 103",
+      "level": 15,
+      "phase": 0,
+      "via": "trainers"
+    },
+    {
+      "slug": "fierypath",
+      "name": "Fierypath",
+      "level": 16,
+      "phase": 1,
+      "via": "encounters"
+    },
+    {
+      "slug": "rusturftunnel",
+      "name": "Rusturf Tunnel",
+      "level": 16,
+      "phase": 1,
+      "via": "trainers"
+    },
+    {
+      "slug": "route114",
+      "name": "Route 114",
+      "level": 19,
+      "phase": 1,
+      "via": "trainers"
+    },
+    {
+      "slug": "route110",
+      "name": "Route 110",
+      "level": 22,
+      "phase": 2,
+      "via": "trainers"
+    },
+    {
+      "slug": "route111",
+      "name": "Route 111",
+      "level": 23,
+      "phase": 2,
+      "via": "trainers"
+    },
+    {
+      "slug": "miragetower",
+      "name": "Mirage Tower",
+      "level": 24,
+      "phase": 2,
+      "via": "encounters"
+    },
+    {
+      "slug": "route112",
+      "name": "Route 112",
+      "level": 24,
+      "phase": 2,
+      "via": "trainers"
+    },
+    {
+      "slug": "route113",
+      "name": "Route 113",
+      "level": 24,
+      "phase": 2,
+      "via": "trainers"
+    },
+    {
+      "slug": "route109",
+      "name": "Route 109",
+      "level": 25,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route117",
+      "name": "Route 117",
+      "level": 25,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "newmauville",
+      "name": "Newmauville",
+      "level": 26,
+      "phase": 3,
+      "via": "encounters"
+    },
+    {
+      "slug": "route107",
+      "name": "Route 107",
+      "level": 26,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route116",
+      "name": "Route 116",
+      "level": 26,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route104",
+      "name": "Route 104",
+      "level": 27,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route106",
+      "name": "Route 106",
+      "level": 27,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route118",
+      "name": "Route 118",
+      "level": 27,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "alteringcave",
+      "name": "Altering Cave",
+      "level": 28,
+      "phase": 3,
+      "via": "encounters"
+    },
+    {
+      "slug": "jaggedpass",
+      "name": "Jagged Pass",
+      "level": 28,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route102",
+      "name": "Route 102",
+      "level": 28,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route115",
+      "name": "Route 115",
+      "level": 28,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route119",
+      "name": "Route 119",
+      "level": 28,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "magmahideout",
+      "name": "Magma Hideout",
+      "level": 29,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "petalburgwoods",
+      "name": "Petalburg Woods",
+      "level": 29,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route105",
+      "name": "Route 105",
+      "level": 29,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "pacifidlogtown",
+      "name": "Pacifidlog Town",
+      "level": 30,
+      "phase": 4,
+      "via": "encounters"
+    },
+    {
+      "slug": "route108",
+      "name": "Route 108",
+      "level": 30,
+      "phase": 4,
+      "via": "trainers"
+    },
+    {
+      "slug": "route120",
+      "name": "Route 120",
+      "level": 30,
+      "phase": 4,
+      "via": "trainers"
+    },
+    {
+      "slug": "route122",
+      "name": "Route 122",
+      "level": 30,
+      "phase": 4,
+      "via": "encounters"
+    },
+    {
+      "slug": "aquahideout",
+      "name": "Aqua Hideout",
+      "level": 32,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "lilycovecity",
+      "name": "Lilycove City",
+      "level": 32,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "route123",
+      "name": "Route 123",
+      "level": 32,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "rustborocity",
+      "name": "Rustboro City",
+      "level": 32,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "shoalcave",
+      "name": "Shoal Cave",
+      "level": 32,
+      "phase": 5,
+      "via": "encounters"
+    },
+    {
+      "slug": "abandonedship",
+      "name": "Abandonedship",
+      "level": 33,
+      "phase": 5,
+      "via": "encounters"
+    },
+    {
+      "slug": "route129",
+      "name": "Route 129",
+      "level": 33,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "route130",
+      "name": "Route 130",
+      "level": 33,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "route132",
+      "name": "Route 132",
+      "level": 33,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "route133",
+      "name": "Route 133",
+      "level": 33,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "route134",
+      "name": "Route 134",
+      "level": 33,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "safarizone",
+      "name": "Safarizone",
+      "level": 33,
+      "phase": 5,
+      "via": "encounters"
+    },
+    {
+      "slug": "route121",
+      "name": "Route 121",
+      "level": 34,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "route127",
+      "name": "Route 127",
+      "level": 34,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "route131",
+      "name": "Route 131",
+      "level": 34,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "caveoforigin",
+      "name": "Caveoforigin",
+      "level": 35,
+      "phase": 6,
+      "via": "encounters"
+    },
+    {
+      "slug": "route128",
+      "name": "Route 128",
+      "level": 35,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "route125",
+      "name": "Route 125",
+      "level": 36,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "route126",
+      "name": "Route 126",
+      "level": 37,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "dewfordtown",
+      "name": "Dewford Town",
+      "level": 38,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "mauvillecity",
+      "name": "Mauville City",
+      "level": 38,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "skypillar",
+      "name": "Skypillar",
+      "level": 38,
+      "phase": 6,
+      "via": "encounters"
+    },
+    {
+      "slug": "lavaridgetown",
+      "name": "Lavaridge Town",
+      "level": 41,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "route124",
+      "name": "Route 124",
+      "level": 41,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "fortreecity",
+      "name": "Fortree City",
+      "level": 42,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "mossdeepcity",
+      "name": "Mossdeep City",
+      "level": 42,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
+      "slug": "victoryroad",
+      "name": "Victory Road",
+      "level": 43,
+      "phase": 7,
+      "via": "trainers"
+    },
+    {
+      "slug": "desertunderpass",
+      "name": "Desert Underpass",
+      "level": 44,
+      "phase": 7,
+      "via": "encounters"
+    },
+    {
+      "slug": "sstidal",
+      "name": "Sstidal",
+      "level": 44,
+      "phase": 7,
+      "via": "trainers"
+    },
+    {
+      "slug": "petalburgcity",
+      "name": "Petalburg City",
+      "level": 45,
+      "phase": 7,
+      "via": "trainers"
+    },
+    {
+      "slug": "meteorfalls",
+      "name": "Meteor Falls",
+      "level": 46,
+      "phase": 7,
+      "via": "trainers"
+    },
+    {
+      "slug": "sootopoliscity",
+      "name": "Sootopolis City",
+      "level": 46,
+      "phase": 7,
+      "via": "trainers"
+    },
+    {
+      "slug": "artisancave",
+      "name": "Artisan Cave",
+      "level": 50,
+      "phase": 8,
+      "via": "encounters"
+    },
+    {
+      "slug": "mirageisland",
+      "name": "Mirage Island",
+      "level": 50,
+      "phase": 8,
+      "via": "encounters"
+    },
+    {
+      "slug": "evergrandecity",
+      "name": "Evergrande City",
+      "level": 52,
+      "phase": 8,
+      "via": "trainers"
+    }
+  ]
+}

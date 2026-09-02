@@ -5,7 +5,8 @@
 // rival) but no movesets/items — those live only on the gym/elite pages.
 import * as cheerio from "cheerio";
 import type { Element } from "domhandler";
-import type { RouteTrainer } from "../types.ts";
+import { trainerSlug } from "./trainers.ts";
+import type { Trainer } from "../types.ts";
 
 const clean = (s: string) => s.replace(/\s+/g, " ").trim();
 
@@ -29,9 +30,9 @@ export function locationName(slug: string): string {
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-export function parseRouteTrainers(html: string, location: string): RouteTrainer[] {
+export function parseRouteTrainers(html: string, location: string): Trainer[] {
   const $ = cheerio.load(html);
-  const out: RouteTrainer[] = [];
+  const out: Trainer[] = [];
   let section = "";
 
   $("a[name], table.trainer").each((_i, el) => {
@@ -50,7 +51,7 @@ export function parseRouteTrainers(html: string, location: string): RouteTrainer
 
     const label = clean($(cells(nameRow)[0]).text());
     if (!label) return;
-    const kind: RouteTrainer["kind"] = RIVAL.test(label) ? "rival" : VILLAIN.test(label) ? "villain" : "trainer";
+    const kind: Trainer["kind"] = RIVAL.test(label) ? "rival" : VILLAIN.test(label) ? "villain" : "trainer";
 
     const nameCells = cells(nameRow).slice(1); // drop leader column
     const spriteCells = cells(spriteRow).slice(1);
@@ -70,7 +71,7 @@ export function parseRouteTrainers(html: string, location: string): RouteTrainer
 
     const variant = rows.map((r) => clean($(r).text())).find((t) => /\bChosen\b/i.test(t))?.match(/(\w+)\s+Chosen/i)?.[0];
 
-    out.push({ label, kind, location, locationName: locationName(location), variant, team });
+    out.push({ slug: trainerSlug(label), label, kind, location, locationName: locationName(location), variant, team });
   });
 
   return out;

@@ -20,7 +20,7 @@ test("Roxanne's team (roster 0)", () => {
   assert.equal(nosepass.natdex, 299);
   assert.equal(nosepass.level, 15);
   assert.equal(nosepass.heldItem, "Oran Berry");
-  assert.ok(nosepass.moves.includes("Rock Tomb"));
+  assert.ok(nosepass.moves?.includes("Rock Tomb"));
 });
 
 test("gym-1 progression metadata + field-move unlock", () => {

@@ -14,13 +14,12 @@ node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
-node src/run.ts trainers           # scrape Emerald gyms + Elite Four → trainers + story
-node src/run.ts route-trainers     # crawl Hoenn pokearth → all Emerald route trainers
+node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 npm test                           # parser fixture tests
 ```
 
 Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
-`dataset/games/<game>/{encounters,locations,items,trainers,story,route-trainers}.json`.
+`dataset/games/<game>/{encounters,locations,items,trainers,story}.json`.
 
 ## How it works
 
@@ -51,17 +50,17 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 - ✅ `items` — **Emerald** findable items per location, from the same pokearth pages
   (item + how obtained: Floor / Itemfinder-hidden / Gift / Berry Tree). 51 locations,
   304 items; item slugs come from Serebii's itemdex links.
-- ✅ `trainers` + `story` — **Emerald** gym leaders + Elite Four + Champion rosters
-  (Pokémon, level, moves, held item), and a 13-step **progression spine** (gym order,
-  city, badge, TM reward, field-move unlock, level cap) from `/emerald/gym.shtml` +
-  `/emerald/elite.shtml`. The gym "Method" prose even states which HM each badge
-  unlocks (Stone→Cut, Balance→Surf, …).
-- ✅ `route-trainers` — **all Emerald route trainers** from the Hoenn
-  `/pokearth/hoenn/3rd/` `trainers-em` sections (a complete per-game roster, isolated
-  via document-order anchors). **767 trainers across 51 locations**, each tagged
-  `kind` = trainer / rival / villain (Team Magma/Aqua) — the rival keeps its
-  **starter-choice variants** (Mudkip chosen → Grovyle ace). Team + level (pokearth
-  omits movesets/items); exact-duplicate tables de-duped, rematches kept.
+- ✅ `trainers` — **every Emerald trainer in one file** (780), tagged `kind`:
+  `gym-leader` / `elite-four` / `champion` (from `/emerald/gym.shtml`+`elite.shtml`,
+  **with movesets + held items** and badge/field-move metadata) and `rival` / `villain`
+  / `trainer` (all 700+ route trainers from the pokearth `trainers-em` sections, team +
+  level). Rival keeps its **starter-choice variants**; exact-duplicate tables de-duped.
+- ✅ `story` — `{ milestones, locations }`. **milestones** = the fixed 13-step gym →
+  Elite Four → Champion spine (order, city, badge, TM, field-move unlock from the gym
+  "Method" prose — Stone→Cut, Balance→Surf, …, level cap). **locations** = every
+  location placed in an *inferred* order by its median trainer level (or encounter
+  level), pegged to the gym level-cap `phase`. Heuristic, not canonical — Route 101
+  (L3) → … → Evergrande City (L52).
 - ⏳ Next: other generations; optional Ruby/Sapphire level enrichment for encounters
   from `/pokearth/hoenn/3rd/`.
 

@@ -40,17 +40,25 @@ export interface TrainerPokemon {
   pokemon: string; // slug
   natdex: number;
   level: number;
-  moves: string[];
-  heldItem: string | null;
+  moves?: string[]; // gym/elite pages carry movesets; pokearth route trainers don't
+  heldItem?: string | null;
 }
 
+/** Every trainer, from any source, in one shape. `kind` distinguishes the
+ * marquee battles (gym-leader/elite-four/champion, from the gym/elite pages,
+ * with movesets) from pokearth route trainers (rival/villain/trainer). */
 export interface Trainer {
   slug: string;
-  name: string;
-  class: "Gym Leader" | "Elite Four" | "Champion";
-  location?: string;
-  specialty?: string; // type name
+  label: string; // "Roxanne" / "Youngster Timmy" / "Pokémon Trainer Brendan"
+  kind: "gym-leader" | "elite-four" | "champion" | "rival" | "villain" | "trainer";
+  location: string; // slug
+  locationName: string;
+  order?: number; // gym/elite/champion sequence
+  specialty?: string; // type
   badge?: string;
+  tmReward?: string;
+  fieldMove?: string; // HM this badge unlocks
+  variant?: string; // rival starter condition, e.g. "Mudkip Chosen"
   team: TrainerPokemon[];
 }
 
@@ -71,31 +79,33 @@ export interface EmeraldEncounter {
   levelMax: number | null;
 }
 
-/** A route trainer (Emerald `trainers-em` section) scraped from a pokearth page.
- * `kind` tags the rival (Brendan/May/Wally) and villains (Team Magma/Aqua);
- * everyone else is a plain "trainer". */
-export interface RouteTrainer {
-  label: string; // full trainer label, e.g. "Youngster Timmy" / "Pokémon Trainer Brendan"
-  kind: "rival" | "villain" | "trainer";
-  location: string; // location slug
-  locationName: string;
-  variant?: string; // rival starter condition, e.g. "Mudkip Chosen"
-  team: Array<{ pokemon: string; natdex: number; level: number }>;
-}
-
-/** One node in the game's progression spine (gyms → Elite Four → Champion). */
-export interface StoryStep {
+/** A fixed progression node (gyms → Elite Four → Champion). */
+export interface StoryMilestone {
   order: number;
   kind: "gym" | "elite-four" | "champion";
-  name: string; // leader / member / champion
+  name: string;
   slug: string;
-  city?: string;
   location?: string;
   specialty?: string;
   badge?: string;
   tmReward?: string;
   fieldMove?: string; // HM/field move this badge unlocks (Cut, Surf, …)
   levelCap: number; // highest level on the trainer's team
+}
+
+/** A location placed in the progression by inferring its level from the trainers
+ * (or wild encounters) found there. Heuristic ordering, not canonical. */
+export interface StoryLocation {
+  slug: string;
+  name: string;
+  level: number; // median trainer level (or encounter level)
+  phase: number; // number of gyms whose level cap this location's level exceeds
+  via: "trainers" | "encounters";
+}
+
+export interface Story {
+  milestones: StoryMilestone[];
+  locations: StoryLocation[];
 }
 
 export interface PokemonRecord {
