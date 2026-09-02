@@ -1,0 +1,2998 @@
+{
+  "route-101": {
+    "slug": "route-101",
+    "location": "Route 101",
+    "encounters": [
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-102": {
+    "slug": "route-102",
+    "location": "Route 102",
+    "encounters": [
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "walk"
+      },
+      {
+        "pokemon": "lotad",
+        "natdex": 270,
+        "method": "walk"
+      },
+      {
+        "pokemon": "seedot",
+        "natdex": 273,
+        "method": "walk"
+      },
+      {
+        "pokemon": "ralts",
+        "natdex": 280,
+        "method": "walk"
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "walk"
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-103": {
+    "slug": "route-103",
+    "location": "Route 103",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-104": {
+    "slug": "route-104",
+    "location": "Route 104",
+    "encounters": [
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "walk"
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      }
+    ]
+  },
+  "route-105": {
+    "slug": "route-105",
+    "location": "Route 105",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-106": {
+    "slug": "route-106",
+    "location": "Route 106",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-107": {
+    "slug": "route-107",
+    "location": "Route 107",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-108": {
+    "slug": "route-108",
+    "location": "Route 108",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-109": {
+    "slug": "route-109",
+    "location": "Route 109",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-110": {
+    "slug": "route-110",
+    "location": "Route 110",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "electrike",
+        "natdex": 309,
+        "method": "walk"
+      },
+      {
+        "pokemon": "plusle",
+        "natdex": 311,
+        "method": "walk"
+      },
+      {
+        "pokemon": "minun",
+        "natdex": 312,
+        "method": "walk"
+      },
+      {
+        "pokemon": "gulpin",
+        "natdex": 316,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-111": {
+    "slug": "route-111",
+    "location": "Route 111",
+    "encounters": [
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "trapinch",
+        "natdex": 328,
+        "method": "walk"
+      },
+      {
+        "pokemon": "cacnea",
+        "natdex": 331,
+        "method": "walk"
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "fish"
+      },
+      {
+        "pokemon": "baltoy",
+        "natdex": 343,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-112": {
+    "slug": "route-112",
+    "location": "Route 112",
+    "encounters": [
+      {
+        "pokemon": "numel",
+        "natdex": 322,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-113": {
+    "slug": "route-113",
+    "location": "Route 113",
+    "encounters": [
+      {
+        "pokemon": "sandshrew",
+        "natdex": 27,
+        "method": "walk"
+      },
+      {
+        "pokemon": "slugma",
+        "natdex": 218,
+        "method": "walk"
+      },
+      {
+        "pokemon": "skarmory",
+        "natdex": 227,
+        "method": "walk"
+      },
+      {
+        "pokemon": "spinda",
+        "natdex": 327,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-114": {
+    "slug": "route-114",
+    "location": "Route 114",
+    "encounters": [
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "lotad",
+        "natdex": 270,
+        "method": "walk"
+      },
+      {
+        "pokemon": "lombre",
+        "natdex": 271,
+        "method": "walk"
+      },
+      {
+        "pokemon": "nuzleaf",
+        "natdex": 274,
+        "method": "walk"
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "walk"
+      },
+      {
+        "pokemon": "swablu",
+        "natdex": 333,
+        "method": "walk"
+      },
+      {
+        "pokemon": "seviper",
+        "natdex": 336,
+        "method": "walk"
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-115": {
+    "slug": "route-115",
+    "location": "Route 115",
+    "encounters": [
+      {
+        "pokemon": "jigglypuff",
+        "natdex": 39,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "walk"
+      },
+      {
+        "pokemon": "swellow",
+        "natdex": 277,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "swablu",
+        "natdex": 333,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-116": {
+    "slug": "route-116",
+    "location": "Route 116",
+    "encounters": [
+      {
+        "pokemon": "abra",
+        "natdex": 63,
+        "method": "walk"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "walk"
+      },
+      {
+        "pokemon": "nincada",
+        "natdex": 290,
+        "method": "walk"
+      },
+      {
+        "pokemon": "skitty",
+        "natdex": 300,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-117": {
+    "slug": "route-117",
+    "location": "Route 117",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "walk"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "seedot",
+        "natdex": 273,
+        "method": "walk"
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "walk"
+      },
+      {
+        "pokemon": "volbeat",
+        "natdex": 313,
+        "method": "walk"
+      },
+      {
+        "pokemon": "illumise",
+        "natdex": 314,
+        "method": "walk"
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-118": {
+    "slug": "route-118",
+    "location": "Route 118",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "walk"
+      },
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "electrike",
+        "natdex": 309,
+        "method": "walk"
+      },
+      {
+        "pokemon": "manectric",
+        "natdex": 310,
+        "method": "walk"
+      },
+      {
+        "pokemon": "carvanha",
+        "natdex": 318,
+        "method": "fish"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-119": {
+    "slug": "route-119",
+    "location": "Route 119",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "walk"
+      },
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "carvanha",
+        "natdex": 318,
+        "method": "fish"
+      },
+      {
+        "pokemon": "feebas",
+        "natdex": 349,
+        "method": "walk"
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tropius",
+        "natdex": 357,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-120": {
+    "slug": "route-120",
+    "location": "Route 120",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "walk"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "mightyena",
+        "natdex": 262,
+        "method": "walk"
+      },
+      {
+        "pokemon": "seedot",
+        "natdex": 273,
+        "method": "walk"
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "walk"
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "fish"
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "walk"
+      },
+      {
+        "pokemon": "absol",
+        "natdex": 359,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-121": {
+    "slug": "route-121",
+    "location": "Route 121",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "mightyena",
+        "natdex": 262,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "walk"
+      },
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-122": {
+    "slug": "route-122",
+    "location": "Route 122",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-123": {
+    "slug": "route-123",
+    "location": "Route 123",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "mightyena",
+        "natdex": 262,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "walk"
+      },
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-124": {
+    "slug": "route-124",
+    "location": "Route 124",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "walk"
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-125": {
+    "slug": "route-125",
+    "location": "Route 125",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-126": {
+    "slug": "route-126",
+    "location": "Route 126",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "walk"
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "walk"
+      }
+    ]
+  },
+  "route-127": {
+    "slug": "route-127",
+    "location": "Route 127",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-128": {
+    "slug": "route-128",
+    "location": "Route 128",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "corsola",
+        "natdex": 222,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "luvdisc",
+        "natdex": 370,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-129": {
+    "slug": "route-129",
+    "location": "Route 129",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailord",
+        "natdex": 321,
+        "method": "surf"
+      }
+    ]
+  },
+  "route-130": {
+    "slug": "route-130",
+    "location": "Route 130",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-131": {
+    "slug": "route-131",
+    "location": "Route 131",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-132": {
+    "slug": "route-132",
+    "location": "Route 132",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "horsea",
+        "natdex": 116,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-133": {
+    "slug": "route-133",
+    "location": "Route 133",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "horsea",
+        "natdex": 116,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "route-134": {
+    "slug": "route-134",
+    "location": "Route 134",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "horsea",
+        "natdex": 116,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "random-six-tiles-which-is-randomly-changed-whenever-trendy-phrase-changes": {
+    "slug": "random-six-tiles-which-is-randomly-changed-whenever-trendy-phrase-changes",
+    "location": "*Random Six Tiles which is Randomly Changed whenever Trendy Phrase changes*",
+    "encounters": [
+      {
+        "pokemon": "feebas",
+        "natdex": 349,
+        "method": "walk"
+      }
+    ]
+  },
+  "abandoned-ship-basement-1": {
+    "slug": "abandoned-ship-basement-1",
+    "location": "Abandoned Ship Basement 1",
+    "encounters": [
+      {
+        "pokemon": "tentacruel",
+        "natdex": 73,
+        "method": "surf"
+      }
+    ]
+  },
+  "acro-bike-areas": {
+    "slug": "acro-bike-areas",
+    "location": "Acro Bike Areas",
+    "encounters": [
+      {
+        "pokemon": "natu",
+        "natdex": 177,
+        "method": "walk"
+      }
+    ]
+  },
+  "altering-cave": {
+    "slug": "altering-cave",
+    "location": "Altering Cave",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      },
+      {
+        "pokemon": "mareep",
+        "natdex": 179,
+        "method": "walk"
+      },
+      {
+        "pokemon": "aipom",
+        "natdex": 190,
+        "method": "walk"
+      },
+      {
+        "pokemon": "pineco",
+        "natdex": 204,
+        "method": "walk"
+      },
+      {
+        "pokemon": "shuckle",
+        "natdex": 213,
+        "method": "walk"
+      },
+      {
+        "pokemon": "teddiursa",
+        "natdex": 216,
+        "method": "walk"
+      },
+      {
+        "pokemon": "houndour",
+        "natdex": 228,
+        "method": "walk"
+      },
+      {
+        "pokemon": "stantler",
+        "natdex": 234,
+        "method": "walk"
+      },
+      {
+        "pokemon": "smeargle",
+        "natdex": 235,
+        "method": "walk"
+      }
+    ]
+  },
+  "ancient-tomb": {
+    "slug": "ancient-tomb",
+    "location": "Ancient Tomb",
+    "encounters": [
+      {
+        "pokemon": "registeel",
+        "natdex": 379,
+        "method": "walk"
+      }
+    ]
+  },
+  "artisans-cave-floors-1": {
+    "slug": "artisans-cave-floors-1",
+    "location": "Artisan's Cave Floors 1",
+    "encounters": [
+      {
+        "pokemon": "smeargle",
+        "natdex": 235,
+        "method": "walk"
+      }
+    ]
+  },
+  "basement-1": {
+    "slug": "basement-1",
+    "location": "Basement 1",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      },
+      {
+        "pokemon": "makuhita",
+        "natdex": 296,
+        "method": "walk"
+      },
+      {
+        "pokemon": "hariyama",
+        "natdex": 297,
+        "method": "walk"
+      }
+    ]
+  },
+  "basements-1": {
+    "slug": "basements-1",
+    "location": "Basements 1",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      },
+      {
+        "pokemon": "abra",
+        "natdex": 63,
+        "method": "walk"
+      },
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "walk"
+      },
+      {
+        "pokemon": "aron",
+        "natdex": 304,
+        "method": "walk"
+      },
+      {
+        "pokemon": "lairon",
+        "natdex": 305,
+        "method": "walk"
+      }
+    ]
+  },
+  "battle-frontier": {
+    "slug": "battle-frontier",
+    "location": "Battle Frontier",
+    "encounters": [
+      {
+        "pokemon": "sudowoodo",
+        "natdex": 185,
+        "method": "walk"
+      }
+    ]
+  },
+  "birth-island": {
+    "slug": "birth-island",
+    "location": "Birth Island",
+    "encounters": [
+      {
+        "pokemon": "deoxys",
+        "natdex": 386,
+        "method": "walk"
+      }
+    ]
+  },
+  "cave-of-origin-entrance": {
+    "slug": "cave-of-origin-entrance",
+    "location": "Cave of Origin Entrance",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      }
+    ]
+  },
+  "cave-of-origin-floor-1": {
+    "slug": "cave-of-origin-floor-1",
+    "location": "Cave of Origin Floor 1",
+    "encounters": [
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "walk"
+      }
+    ]
+  },
+  "cave-of-origin-floors-1": {
+    "slug": "cave-of-origin-floors-1",
+    "location": "Cave of Origin Floors 1",
+    "encounters": [
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      }
+    ]
+  },
+  "deep-in-meteor-falls": {
+    "slug": "deep-in-meteor-falls",
+    "location": "Deep in Meteor Falls",
+    "encounters": [
+      {
+        "pokemon": "bagon",
+        "natdex": 371,
+        "method": "walk"
+      }
+    ]
+  },
+  "desert": {
+    "slug": "desert",
+    "location": "Desert",
+    "encounters": [
+      {
+        "pokemon": "sandshrew",
+        "natdex": 27,
+        "method": "walk"
+      }
+    ]
+  },
+  "desert-ruins": {
+    "slug": "desert-ruins",
+    "location": "Desert Ruins",
+    "encounters": [
+      {
+        "pokemon": "regirock",
+        "natdex": 377,
+        "method": "walk"
+      }
+    ]
+  },
+  "desert-underpass": {
+    "slug": "desert-underpass",
+    "location": "Desert Underpass",
+    "encounters": [
+      {
+        "pokemon": "ditto",
+        "natdex": 132,
+        "method": "walk"
+      },
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "walk"
+      },
+      {
+        "pokemon": "loudred",
+        "natdex": 294,
+        "method": "walk"
+      }
+    ]
+  },
+  "dewford-town": {
+    "slug": "dewford-town",
+    "location": "Dewford Town",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "evergrande-city": {
+    "slug": "evergrande-city",
+    "location": "EverGrande City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "corsola",
+        "natdex": 222,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "luvdisc",
+        "natdex": 370,
+        "method": "fish"
+      }
+    ]
+  },
+  "faraway-island": {
+    "slug": "faraway-island",
+    "location": "Faraway Island",
+    "encounters": [
+      {
+        "pokemon": "mew",
+        "natdex": 151,
+        "method": "walk"
+      }
+    ]
+  },
+  "fiery-path": {
+    "slug": "fiery-path",
+    "location": "Fiery Path",
+    "encounters": [
+      {
+        "pokemon": "machop",
+        "natdex": 66,
+        "method": "walk"
+      },
+      {
+        "pokemon": "grimer",
+        "natdex": 88,
+        "method": "walk"
+      },
+      {
+        "pokemon": "koffing",
+        "natdex": 109,
+        "method": "walk"
+      },
+      {
+        "pokemon": "slugma",
+        "natdex": 218,
+        "method": "walk"
+      },
+      {
+        "pokemon": "numel",
+        "natdex": 322,
+        "method": "walk"
+      },
+      {
+        "pokemon": "torkoal",
+        "natdex": 324,
+        "method": "walk"
+      }
+    ]
+  },
+  "fish-everywhere-with-old-rod": {
+    "slug": "fish-everywhere-with-old-rod",
+    "location": "Fish Everywhere With Old Rod",
+    "encounters": [
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "walk"
+      }
+    ]
+  },
+  "floors-1": {
+    "slug": "floors-1",
+    "location": "Floors 1",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      }
+    ]
+  },
+  "fortree-city": {
+    "slug": "fortree-city",
+    "location": "Fortree City",
+    "encounters": [
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "walk"
+      }
+    ]
+  },
+  "given-by-professor-birch-after-completing-hoenn-dex": {
+    "slug": "given-by-professor-birch-after-completing-hoenn-dex",
+    "location": "Given by Professor Birch after completing Hoenn Dex",
+    "encounters": [
+      {
+        "pokemon": "chikorita",
+        "natdex": 152,
+        "method": "walk"
+      },
+      {
+        "pokemon": "cyndaquil",
+        "natdex": 155,
+        "method": "walk"
+      },
+      {
+        "pokemon": "totodile",
+        "natdex": 158,
+        "method": "walk"
+      }
+    ]
+  },
+  "granite-cave-basement-2": {
+    "slug": "granite-cave-basement-2",
+    "location": "Granite Cave Basement 2",
+    "encounters": [
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash"
+      },
+      {
+        "pokemon": "nosepass",
+        "natdex": 299,
+        "method": "rock-smash"
+      }
+    ]
+  },
+  "granite-cave-basements-1": {
+    "slug": "granite-cave-basements-1",
+    "location": "Granite Cave Basements 1",
+    "encounters": [
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "walk"
+      }
+    ]
+  },
+  "granite-cave-floor-1": {
+    "slug": "granite-cave-floor-1",
+    "location": "Granite Cave Floor 1",
+    "encounters": [
+      {
+        "pokemon": "abra",
+        "natdex": 63,
+        "method": "walk"
+      },
+      {
+        "pokemon": "makuhita",
+        "natdex": 296,
+        "method": "walk"
+      }
+    ]
+  },
+  "granite-cave-floor-1-south": {
+    "slug": "granite-cave-floor-1-south",
+    "location": "Granite Cave Floor 1 South",
+    "encounters": [
+      {
+        "pokemon": "aron",
+        "natdex": 304,
+        "method": "walk"
+      }
+    ]
+  },
+  "granite-cave-floors-1": {
+    "slug": "granite-cave-floors-1",
+    "location": "Granite Cave Floors 1",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      }
+    ]
+  },
+  "half-way": {
+    "slug": "half-way",
+    "location": "Half Way",
+    "encounters": [
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "walk"
+      }
+    ]
+  },
+  "island-cave": {
+    "slug": "island-cave",
+    "location": "Island Cave",
+    "encounters": [
+      {
+        "pokemon": "regice",
+        "natdex": 378,
+        "method": "walk"
+      }
+    ]
+  },
+  "jagged-pass": {
+    "slug": "jagged-pass",
+    "location": "Jagged Pass",
+    "encounters": [
+      {
+        "pokemon": "numel",
+        "natdex": 322,
+        "method": "walk"
+      },
+      {
+        "pokemon": "spoink",
+        "natdex": 325,
+        "method": "walk"
+      }
+    ]
+  },
+  "jagged-path": {
+    "slug": "jagged-path",
+    "location": "Jagged Path",
+    "encounters": [
+      {
+        "pokemon": "machop",
+        "natdex": 66,
+        "method": "walk"
+      }
+    ]
+  },
+  "left": {
+    "slug": "left",
+    "location": "Left",
+    "encounters": [
+      {
+        "pokemon": "doduo",
+        "natdex": 84,
+        "method": "walk"
+      }
+    ]
+  },
+  "left-areas": {
+    "slug": "left-areas",
+    "location": "Left Areas",
+    "encounters": [
+      {
+        "pokemon": "seaking",
+        "natdex": 119,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wobbuffet",
+        "natdex": 202,
+        "method": "walk"
+      },
+      {
+        "pokemon": "girafarig",
+        "natdex": 203,
+        "method": "walk"
+      }
+    ]
+  },
+  "lilycove-city": {
+    "slug": "lilycove-city",
+    "location": "Lilycove City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "staryu",
+        "natdex": 120,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "mach": {
+    "slug": "mach",
+    "location": "Mach",
+    "encounters": [
+      {
+        "pokemon": "natu",
+        "natdex": 177,
+        "method": "walk"
+      }
+    ]
+  },
+  "mach-bike-areas": {
+    "slug": "mach-bike-areas",
+    "location": "Mach Bike Areas",
+    "encounters": [
+      {
+        "pokemon": "doduo",
+        "natdex": 84,
+        "method": "walk"
+      }
+    ]
+  },
+  "magma-hideout": {
+    "slug": "magma-hideout",
+    "location": "Magma Hideout",
+    "encounters": [
+      {
+        "pokemon": "graveler",
+        "natdex": 75,
+        "method": "walk"
+      },
+      {
+        "pokemon": "torkoal",
+        "natdex": 324,
+        "method": "walk"
+      }
+    ]
+  },
+  "magma-hideout-granite-cave-floor-1": {
+    "slug": "magma-hideout-granite-cave-floor-1",
+    "location": "Magma Hideout Granite Cave Floor 1",
+    "encounters": [
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "walk"
+      }
+    ]
+  },
+  "marine-cave": {
+    "slug": "marine-cave",
+    "location": "Marine Cave",
+    "encounters": [
+      {
+        "pokemon": "kyogre",
+        "natdex": 382,
+        "method": "walk"
+      }
+    ]
+  },
+  "meteor-falls": {
+    "slug": "meteor-falls",
+    "location": "Meteor Falls",
+    "encounters": [
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "solrock",
+        "natdex": 338,
+        "method": "surf"
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "fish"
+      },
+      {
+        "pokemon": "whiscash",
+        "natdex": 340,
+        "method": "fish"
+      }
+    ]
+  },
+  "meteor-falls-entrance": {
+    "slug": "meteor-falls-entrance",
+    "location": "Meteor Falls Entrance",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      }
+    ]
+  },
+  "mirage-island": {
+    "slug": "mirage-island",
+    "location": "Mirage Island",
+    "encounters": [
+      {
+        "pokemon": "wynaut",
+        "natdex": 360,
+        "method": "walk"
+      }
+    ]
+  },
+  "mirage-tower": {
+    "slug": "mirage-tower",
+    "location": "Mirage Tower",
+    "encounters": [
+      {
+        "pokemon": "sandshrew",
+        "natdex": 27,
+        "method": "walk"
+      },
+      {
+        "pokemon": "trapinch",
+        "natdex": 328,
+        "method": "walk"
+      }
+    ]
+  },
+  "mossdeep-city": {
+    "slug": "mossdeep-city",
+    "location": "Mossdeep City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "mt-pyre": {
+    "slug": "mt-pyre",
+    "location": "Mt. Pyre",
+    "encounters": [
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "walk"
+      }
+    ]
+  },
+  "mt-pyre-floors-1": {
+    "slug": "mt-pyre-floors-1",
+    "location": "Mt. Pyre Floors 1",
+    "encounters": [
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "walk"
+      }
+    ]
+  },
+  "mt-pyre-floors-4": {
+    "slug": "mt-pyre-floors-4",
+    "location": "Mt. Pyre Floors 4",
+    "encounters": [
+      {
+        "pokemon": "duskull",
+        "natdex": 355,
+        "method": "walk"
+      }
+    ]
+  },
+  "mt-pyre-grass": {
+    "slug": "mt-pyre-grass",
+    "location": "Mt. Pyre Grass",
+    "encounters": [
+      {
+        "pokemon": "vulpix",
+        "natdex": 37,
+        "method": "walk"
+      }
+    ]
+  },
+  "mt-pyre-summit": {
+    "slug": "mt-pyre-summit",
+    "location": "Mt. Pyre Summit",
+    "encounters": [
+      {
+        "pokemon": "chimecho",
+        "natdex": 358,
+        "method": "walk"
+      }
+    ]
+  },
+  "navel-rock": {
+    "slug": "navel-rock",
+    "location": "Navel Rock",
+    "encounters": [
+      {
+        "pokemon": "lugia",
+        "natdex": 249,
+        "method": "walk"
+      },
+      {
+        "pokemon": "ho-oh",
+        "natdex": 250,
+        "method": "walk"
+      }
+    ]
+  },
+  "new-mauville": {
+    "slug": "new-mauville",
+    "location": "New Mauville",
+    "encounters": [
+      {
+        "pokemon": "magnemite",
+        "natdex": 81,
+        "method": "walk"
+      },
+      {
+        "pokemon": "magneton",
+        "natdex": 82,
+        "method": "walk"
+      },
+      {
+        "pokemon": "voltorb",
+        "natdex": 100,
+        "method": "walk"
+      }
+    ]
+  },
+  "new-mauville-basement": {
+    "slug": "new-mauville-basement",
+    "location": "New Mauville Basement",
+    "encounters": [
+      {
+        "pokemon": "electrode",
+        "natdex": 101,
+        "method": "walk"
+      }
+    ]
+  },
+  "newsflash-swarm-in": {
+    "slug": "newsflash-swarm-in",
+    "location": "Newsflash Swarm in",
+    "encounters": [
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "walk"
+      }
+    ]
+  },
+  "none": {
+    "slug": "none",
+    "location": "None",
+    "encounters": [
+      {
+        "pokemon": "unown",
+        "natdex": 201,
+        "method": "walk"
+      }
+    ]
+  },
+  "or-southern-island": {
+    "slug": "or-southern-island",
+    "location": "OR Southern Island",
+    "encounters": [
+      {
+        "pokemon": "latias",
+        "natdex": 380,
+        "method": "walk"
+      },
+      {
+        "pokemon": "latios",
+        "natdex": 381,
+        "method": "walk"
+      }
+    ]
+  },
+  "pacifidlog-city": {
+    "slug": "pacifidlog-city",
+    "location": "Pacifidlog City",
+    "encounters": [
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      }
+    ]
+  },
+  "pacifidlog-town": {
+    "slug": "pacifidlog-town",
+    "location": "Pacifidlog Town",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "fish"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "petalburg-city": {
+    "slug": "petalburg-city",
+    "location": "Petalburg City",
+    "encounters": [
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "fish"
+      }
+    ]
+  },
+  "petalburg-woods": {
+    "slug": "petalburg-woods",
+    "location": "Petalburg Woods",
+    "encounters": [
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "walk"
+      },
+      {
+        "pokemon": "silcoon",
+        "natdex": 266,
+        "method": "walk"
+      },
+      {
+        "pokemon": "cascoon",
+        "natdex": 268,
+        "method": "walk"
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "walk"
+      },
+      {
+        "pokemon": "shroomish",
+        "natdex": 285,
+        "method": "walk"
+      },
+      {
+        "pokemon": "slakoth",
+        "natdex": 287,
+        "method": "walk"
+      }
+    ]
+  },
+  "revive-from-claw-fossil": {
+    "slug": "revive-from-claw-fossil",
+    "location": "Revive From Claw Fossil",
+    "encounters": [
+      {
+        "pokemon": "anorith",
+        "natdex": 347,
+        "method": "walk"
+      }
+    ]
+  },
+  "revive-from-root-fossil": {
+    "slug": "revive-from-root-fossil",
+    "location": "Revive From Root Fossil",
+    "encounters": [
+      {
+        "pokemon": "lileep",
+        "natdex": 345,
+        "method": "walk"
+      }
+    ]
+  },
+  "rusturf-tunnel": {
+    "slug": "rusturf-tunnel",
+    "location": "Rusturf Tunnel",
+    "encounters": [
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "walk"
+      }
+    ]
+  },
+  "safari-zone": {
+    "slug": "safari-zone",
+    "location": "Safari Zone",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "walk"
+      },
+      {
+        "pokemon": "gloom",
+        "natdex": 44,
+        "method": "walk"
+      },
+      {
+        "pokemon": "psyduck",
+        "natdex": 54,
+        "method": "surf"
+      },
+      {
+        "pokemon": "golduck",
+        "natdex": 55,
+        "method": "surf"
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash"
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      }
+    ]
+  },
+  "safari-zone-acro-bike-area": {
+    "slug": "safari-zone-acro-bike-area",
+    "location": "Safari Zone Acro Bike Area",
+    "encounters": [
+      {
+        "pokemon": "xatu",
+        "natdex": 178,
+        "method": "walk"
+      },
+      {
+        "pokemon": "heracross",
+        "natdex": 214,
+        "method": "walk"
+      },
+      {
+        "pokemon": "phanpy",
+        "natdex": 231,
+        "method": "walk"
+      }
+    ]
+  },
+  "safari-zone-entrance": {
+    "slug": "safari-zone-entrance",
+    "location": "Safari Zone Entrance",
+    "encounters": [
+      {
+        "pokemon": "doduo",
+        "natdex": 84,
+        "method": "walk"
+      },
+      {
+        "pokemon": "natu",
+        "natdex": 177,
+        "method": "walk"
+      },
+      {
+        "pokemon": "wobbuffet",
+        "natdex": 202,
+        "method": "walk"
+      },
+      {
+        "pokemon": "girafarig",
+        "natdex": 203,
+        "method": "walk"
+      }
+    ]
+  },
+  "safari-zone-extention": {
+    "slug": "safari-zone-extention",
+    "location": "Safari Zone Extention",
+    "encounters": [
+      {
+        "pokemon": "ledyba",
+        "natdex": 165,
+        "method": "walk"
+      },
+      {
+        "pokemon": "spinarak",
+        "natdex": 167,
+        "method": "walk"
+      },
+      {
+        "pokemon": "mareep",
+        "natdex": 179,
+        "method": "walk"
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wooper",
+        "natdex": 194,
+        "method": "surf"
+      },
+      {
+        "pokemon": "quagsire",
+        "natdex": 195,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pineco",
+        "natdex": 204,
+        "method": "walk"
+      },
+      {
+        "pokemon": "gligar",
+        "natdex": 207,
+        "method": "walk"
+      },
+      {
+        "pokemon": "snubbull",
+        "natdex": 209,
+        "method": "walk"
+      },
+      {
+        "pokemon": "shuckle",
+        "natdex": 213,
+        "method": "rock-smash"
+      },
+      {
+        "pokemon": "teddiursa",
+        "natdex": 216,
+        "method": "walk"
+      },
+      {
+        "pokemon": "remoraid",
+        "natdex": 223,
+        "method": "fish"
+      },
+      {
+        "pokemon": "octillery",
+        "natdex": 224,
+        "method": "fish"
+      },
+      {
+        "pokemon": "houndour",
+        "natdex": 228,
+        "method": "walk"
+      },
+      {
+        "pokemon": "stantler",
+        "natdex": 234,
+        "method": "walk"
+      },
+      {
+        "pokemon": "miltank",
+        "natdex": 241,
+        "method": "walk"
+      }
+    ]
+  },
+  "safari-zone-extentions-1": {
+    "slug": "safari-zone-extentions-1",
+    "location": "Safari Zone Extentions 1",
+    "encounters": [
+      {
+        "pokemon": "hoothoot",
+        "natdex": 163,
+        "method": "walk"
+      },
+      {
+        "pokemon": "aipom",
+        "natdex": 190,
+        "method": "walk"
+      },
+      {
+        "pokemon": "sunkern",
+        "natdex": 191,
+        "method": "walk"
+      }
+    ]
+  },
+  "safari-zone-mach-bike": {
+    "slug": "safari-zone-mach-bike",
+    "location": "Safari Zone Mach Bike",
+    "encounters": [
+      {
+        "pokemon": "seaking",
+        "natdex": 119,
+        "method": "fish"
+      }
+    ]
+  },
+  "safari-zone-mach-bike-area": {
+    "slug": "safari-zone-mach-bike-area",
+    "location": "Safari Zone Mach Bike Area",
+    "encounters": [
+      {
+        "pokemon": "dodrio",
+        "natdex": 85,
+        "method": "walk"
+      },
+      {
+        "pokemon": "rhyhorn",
+        "natdex": 111,
+        "method": "walk"
+      },
+      {
+        "pokemon": "pinsir",
+        "natdex": 127,
+        "method": "walk"
+      }
+    ]
+  },
+  "safari-zone-southwest": {
+    "slug": "safari-zone-southwest",
+    "location": "Safari Zone; SouthWest",
+    "encounters": [
+      {
+        "pokemon": "pikachu",
+        "natdex": 25,
+        "method": "walk"
+      }
+    ]
+  },
+  "seafloor-cavern": {
+    "slug": "seafloor-cavern",
+    "location": "Seafloor Cavern",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "shoal-cave": {
+    "slug": "shoal-cave",
+    "location": "Shoal Cave",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      },
+      {
+        "pokemon": "spheal",
+        "natdex": 363,
+        "method": "walk"
+      }
+    ]
+  },
+  "shoal-cave-ice-room": {
+    "slug": "shoal-cave-ice-room",
+    "location": "Shoal Cave Ice Room",
+    "encounters": [
+      {
+        "pokemon": "snorunt",
+        "natdex": 361,
+        "method": "walk"
+      }
+    ]
+  },
+  "sky-pillar": {
+    "slug": "sky-pillar",
+    "location": "Sky Pillar",
+    "encounters": [
+      {
+        "pokemon": "rayquaza",
+        "natdex": 384,
+        "method": "walk"
+      }
+    ]
+  },
+  "sky-pillar-floor-5": {
+    "slug": "sky-pillar-floor-5",
+    "location": "Sky Pillar Floor 5",
+    "encounters": [
+      {
+        "pokemon": "altaria",
+        "natdex": 334,
+        "method": "walk"
+      }
+    ]
+  },
+  "sky-pillar-floors-1": {
+    "slug": "sky-pillar-floors-1",
+    "location": "Sky Pillar Floors 1",
+    "encounters": [
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      },
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "walk"
+      },
+      {
+        "pokemon": "claydol",
+        "natdex": 344,
+        "method": "walk"
+      },
+      {
+        "pokemon": "banette",
+        "natdex": 354,
+        "method": "walk"
+      }
+    ]
+  },
+  "slateport-city": {
+    "slug": "slateport-city",
+    "location": "Slateport City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf"
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf"
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "fish"
+      }
+    ]
+  },
+  "sootopolis-city": {
+    "slug": "sootopolis-city",
+    "location": "Sootopolis City",
+    "encounters": [
+      {
+        "pokemon": "gyarados",
+        "natdex": 130,
+        "method": "fish"
+      }
+    ]
+  },
+  "southeast": {
+    "slug": "southeast",
+    "location": "SouthEast",
+    "encounters": [
+      {
+        "pokemon": "pikachu",
+        "natdex": 25,
+        "method": "walk"
+      }
+    ]
+  },
+  "stevens-house-after-defeating-elite-four": {
+    "slug": "stevens-house-after-defeating-elite-four",
+    "location": "Steven's House after Defeating Elite Four",
+    "encounters": [
+      {
+        "pokemon": "beldum",
+        "natdex": 374,
+        "method": "walk"
+      }
+    ]
+  },
+  "summit": {
+    "slug": "summit",
+    "location": "Summit",
+    "encounters": [
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "walk"
+      },
+      {
+        "pokemon": "duskull",
+        "natdex": 355,
+        "method": "walk"
+      }
+    ]
+  },
+  "terra-cave": {
+    "slug": "terra-cave",
+    "location": "Terra Cave",
+    "encounters": [
+      {
+        "pokemon": "groudon",
+        "natdex": 383,
+        "method": "walk"
+      }
+    ]
+  },
+  "underwater": {
+    "slug": "underwater",
+    "location": "Underwater",
+    "encounters": [
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "walk"
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "walk"
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "walk"
+      }
+    ]
+  },
+  "victory-road": {
+    "slug": "victory-road",
+    "location": "Victory Road",
+    "encounters": [
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "fish"
+      },
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "walk"
+      }
+    ]
+  },
+  "victory-road-basement-1": {
+    "slug": "victory-road-basement-1",
+    "location": "Victory Road Basement 1",
+    "encounters": [
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash"
+      },
+      {
+        "pokemon": "graveler",
+        "natdex": 75,
+        "method": "rock-smash"
+      }
+    ]
+  },
+  "victory-road-basement-2": {
+    "slug": "victory-road-basement-2",
+    "location": "Victory Road Basement 2",
+    "encounters": [
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "walk"
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "fish"
+      },
+      {
+        "pokemon": "whiscash",
+        "natdex": 340,
+        "method": "fish"
+      }
+    ]
+  },
+  "victory-road-basements-1": {
+    "slug": "victory-road-basements-1",
+    "location": "Victory Road Basements 1",
+    "encounters": [
+      {
+        "pokemon": "mawile",
+        "natdex": 303,
+        "method": "walk"
+      }
+    ]
+  },
+  "victory-road-floor-1": {
+    "slug": "victory-road-floor-1",
+    "location": "Victory Road Floor 1",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "walk"
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "walk"
+      },
+      {
+        "pokemon": "loudred",
+        "natdex": 294,
+        "method": "walk"
+      },
+      {
+        "pokemon": "makuhita",
+        "natdex": 296,
+        "method": "walk"
+      },
+      {
+        "pokemon": "hariyama",
+        "natdex": 297,
+        "method": "walk"
+      },
+      {
+        "pokemon": "aron",
+        "natdex": 304,
+        "method": "walk"
+      },
+      {
+        "pokemon": "lairon",
+        "natdex": 305,
+        "method": "walk"
+      }
+    ]
+  },
+  "wild-in-hoenn-after-beating-elite-four": {
+    "slug": "wild-in-hoenn-after-beating-elite-four",
+    "location": "Wild in Hoenn after beating Elite Four",
+    "encounters": [
+      {
+        "pokemon": "latias",
+        "natdex": 380,
+        "method": "walk"
+      },
+      {
+        "pokemon": "latios",
+        "natdex": 381,
+        "method": "walk"
+      }
+    ]
+  }
+}

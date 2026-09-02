@@ -12,10 +12,12 @@ node src/run.ts pokemon            # default slice: Emerald opening (#252–265)
 node src/run.ts pokemon 1-386      # full national dex (Gen-3 pages)
 node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
+node src/run.ts encounters         # derive Emerald encounters (no network)
 npm test                           # parser fixture tests
 ```
 
-Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`.
+Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
+`dataset/games/<game>/encounters.json` + `locations.json`.
 
 ## How it works
 
@@ -37,8 +39,15 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   RSE-scoped facts (identity, i18n names, types, stats, abilities, egg groups,
   evolution chain, per-game flavor/location, level-up + TM/HM learnset), parsed
   from `/pokedex-rs/NNN.shtml`.
-- ⏳ Next: `encounters` (per-game location pages — **not** modern `/pokearth/`,
-  which is ORAS-only), `trainers`, `story`, then other generations.
+- ✅ `encounters` — **Emerald**, derived (no network) by inverting each Pokémon's
+  Emerald location string into a route→Pokémon map with method (walk / surf / fish /
+  rock-smash). Serebii has **no** per-route Emerald encounter tables (the
+  `/pokearth/hoenn/3rd/` pages are Ruby/Sapphire only), so this per-Pokémon text is
+  the Emerald-exact source — Route 110 correctly lists both Plusle *and* Minun.
+  Caveat: no rate% or level ranges (Serebii doesn't publish them per-route for
+  Emerald). 126 locations.
+- ⏳ Next: `trainers`, `story`, other generations; optional Ruby/Sapphire level
+  enrichment from `/pokearth/hoenn/3rd/`.
 
 ## Notes
 
