@@ -14,11 +14,12 @@ node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts encounters         # derive Emerald encounters (no network)
 node src/run.ts trainers           # scrape Emerald gyms + Elite Four → trainers + story
+node src/run.ts battles            # crawl Hoenn pokearth → Emerald rival/villain battles
 npm test                           # parser fixture tests
 ```
 
 Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
-`dataset/games/<game>/{encounters,locations,trainers,story}.json`.
+`dataset/games/<game>/{encounters,locations,trainers,story,battles}.json`.
 
 ## How it works
 
@@ -52,8 +53,13 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   city, badge, TM reward, field-move unlock, level cap) from `/emerald/gym.shtml` +
   `/emerald/elite.shtml`. The gym "Method" prose even states which HM each badge
   unlocks (Stone→Cut, Balance→Surf, …).
-- ⏳ Next: other generations; rival/villain battles; optional Ruby/Sapphire level
-  enrichment for encounters from `/pokearth/hoenn/3rd/`.
+- ✅ `battles` — **Emerald** rival (Brendan / May / Wally) + villain (Team Magma /
+  Aqua: Maxie, admins, grunts) battles, crawled from the Hoenn `/pokearth/hoenn/3rd/`
+  pages (Emerald `trainers-em` sections only, isolated via document-order anchors).
+  82 battles across 76 pages; captures the rival's **starter-choice variants**
+  (Mudkip chosen → Grovyle ace, …). Team + level only — pokearth omits movesets/items.
+- ⏳ Next: other generations; optional Ruby/Sapphire level enrichment for encounters
+  from `/pokearth/hoenn/3rd/`.
 
 ## Notes
 

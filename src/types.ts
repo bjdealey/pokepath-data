@@ -54,6 +54,16 @@ export interface Trainer {
   team: TrainerPokemon[];
 }
 
+/** A rival or villain (Team Magma/Aqua) battle scraped from a pokearth page. */
+export interface Battle {
+  label: string; // full trainer label, e.g. "Pokémon Trainer Brendan"
+  kind: "rival" | "villain";
+  location: string; // location slug
+  locationName: string;
+  variant?: string; // rival starter condition, e.g. "Mudkip Chosen"
+  team: Array<{ pokemon: string; natdex: number; level: number }>;
+}
+
 /** One node in the game's progression spine (gyms → Elite Four → Champion). */
 export interface StoryStep {
   order: number;

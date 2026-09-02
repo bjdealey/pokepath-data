@@ -9,6 +9,7 @@ import { fetchCached } from "./fetch.ts";
 import { parsePokemon } from "./parse/pokemon.ts";
 import { deriveEncounters } from "./derive/encounters.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
+import { scrapeBattles } from "./scrape/battles.ts";
 import type { GameSlug, PokemonRecord } from "./types.ts";
 
 const DATASET = fileURLToPath(new URL("../dataset/", import.meta.url));
@@ -94,7 +95,12 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ scraping Emerald gym leaders + Elite Four…`);
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers, ${r.story}-step story → dataset/games/emerald/`);
+} else if (entity === "battles") {
+  console.log(`▶ crawling Hoenn pokearth pages for Emerald rival/villain battles…`);
+  const r = await scrapeBattles(refresh);
+  console.log(`✔ ${r.pages} pages → ${r.battles} battles (${r.rival} rival, ${r.villain} villain)`);
+  console.log(`  villains: ${r.villainLabels.join(", ") || "(none)"}`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "encounters", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "encounters", "trainers", or "battles"`);
   process.exit(1);
 }

@@ -12,6 +12,7 @@ const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36";
 const DELAY_MS = 1500; // ponytail: fixed politeness delay, tune if it ever matters
 
+const MISS = "\x00__http_error__"; // negative-cache sentinel for non-OK responses
 let lastFetch = 0;
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
@@ -26,16 +27,23 @@ function cachePath(url: string): string {
 
 export async function fetchCached(url: string, opts: { refresh?: boolean } = {}): Promise<string> {
   const path = cachePath(url);
-  if (!opts.refresh && existsSync(path)) return readFile(path, "utf8");
+  if (!opts.refresh && existsSync(path)) {
+    const cached = await readFile(path, "utf8");
+    if (cached === MISS) throw new Error(`GET ${url} -> cached miss`);
+    return cached;
+  }
 
   const wait = DELAY_MS - (Date.now() - lastFetch);
   if (wait > 0) await sleep(wait);
   lastFetch = Date.now();
 
   const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "text/html" } });
-  if (!res.ok) throw new Error(`GET ${url} -> ${res.status} ${res.statusText}`);
-  const html = decodeMixed(await res.arrayBuffer());
   await mkdir(dirname(path), { recursive: true });
+  if (!res.ok) {
+    await writeFile(path, MISS); // don't re-hit a dead URL on the next run
+    throw new Error(`GET ${url} -> ${res.status} ${res.statusText}`);
+  }
+  const html = decodeMixed(await res.arrayBuffer());
   await writeFile(path, html);
   return html;
 }
