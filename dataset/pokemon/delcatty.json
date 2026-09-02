@@ -1,0 +1,200 @@
+{
+  "slug": "delcatty",
+  "natdex": 301,
+  "name": "Delcatty",
+  "names": {
+    "japan": "Enekororoエネコロロ",
+    "french": "Delcatty",
+    "german": "Enekoro",
+    "korean": "델케티"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Prim Pokémon",
+  "heightM": 1.1,
+  "weightKg": 32.6,
+  "captureRate": 60,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm",
+      "description": "When a Pokémon makes contact with Delcatty, it has a 30% chance of being Infatuated (if of opposite gender)"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 65,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 70,
+    "total": 380
+  },
+  "evolutionChain": [
+    "skitty",
+    "delcatty"
+  ],
+  "flavorText": {
+    "ruby": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random.",
+    "sapphire": "DELCATTY sleeps anywhere it wants without keeping a permanent nest. If other POKéMON approach it as it sleeps, this POKéMON will never fight - it will just move away somewhere else.",
+    "emerald": "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.",
+    "firered": "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur.",
+    "leafgreen": "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur."
+  },
+  "locations": {
+    "ruby": "Evolve Skitty",
+    "sapphire": "Evolve Skitty",
+    "emerald": "Evolve Skitty",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Admin Lovrina in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Attract"
+      },
+      {
+        "level": null,
+        "move": "Sing"
+      },
+      {
+        "level": null,
+        "move": "Doubleslap"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/301.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.038Z"
+  }
+}

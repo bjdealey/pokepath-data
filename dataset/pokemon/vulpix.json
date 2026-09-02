@@ -1,0 +1,187 @@
+{
+  "slug": "vulpix",
+  "natdex": 37,
+  "name": "Vulpix",
+  "names": {
+    "japan": "Rokonロコン",
+    "french": "Goupix",
+    "german": "Vulpix",
+    "korean": "식스테일"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Fox Pokémon",
+  "heightM": 0.6,
+  "weightKg": 9.9,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Flash Fire",
+      "description": "Prevents Vulpix from being attacked by Fire type moves, and also boosts the Fire type moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "spAttack": 50,
+    "spDefense": 65,
+    "speed": 65,
+    "total": 299
+  },
+  "evolutionChain": [
+    "vulpix",
+    "ninetales"
+  ],
+  "flavorText": {
+    "ruby": "At the time of its birth, VULPIX has one white tail. The tail separates into six if this POKéMON receives plenty of love from its TRAINER. The six tails become magnificently curled.",
+    "sapphire": "Inside VULPIX's body burns a flame that never goes out. During the daytime, when the temperatures rise, this POKéMON releases flames from its mouth to prevent its body from growing too hot.",
+    "emerald": "It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
+    "firered": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+    "leafgreen": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older."
+  },
+  "locations": {
+    "ruby": "Mt. Pyre Grass",
+    "sapphire": "Mt. Pyre Grass",
+    "emerald": "Mt. Pyre Grass",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "leafgreen": "Routes 7 & 8, Pokémon Mansion Floors 1, 2, 3 & Basement",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Mesin in ONBS Station"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 9,
+        "move": "Roar"
+      },
+      {
+        "level": 13,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 17,
+        "move": "Will-o-wisp"
+      },
+      {
+        "level": 21,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 25,
+        "move": "Imprison"
+      },
+      {
+        "level": 29,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 33,
+        "move": "Safeguard"
+      },
+      {
+        "level": 37,
+        "move": "Grudge"
+      },
+      {
+        "level": 41,
+        "move": "Fire Spin"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/037.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.359Z"
+  }
+}

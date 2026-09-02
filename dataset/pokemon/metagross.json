@@ -1,0 +1,226 @@
+{
+  "slug": "metagross",
+  "natdex": 376,
+  "name": "Metagross",
+  "names": {
+    "japan": "Metagrossメタグロス",
+    "french": "Métalosse",
+    "german": "Metagross",
+    "korean": "메타그로스"
+  },
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Iron Leg Pokémon",
+  "heightM": 1.6,
+  "weightKg": 550,
+  "captureRate": 3,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "description": "Opponent's Moves that Lower Stats will not work on Metagross"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "spAttack": 95,
+    "spDefense": 90,
+    "speed": 70,
+    "total": 600
+  },
+  "evolutionChain": [
+    "beldum",
+    "metang",
+    "metagross"
+  ],
+  "flavorText": {
+    "ruby": "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs.",
+    "sapphire": "METAGROSS is the result of two METANG achieving fusion. When hunting, this POKéMON pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
+    "emerald": "METAGROSS has four brains that are joined by a complex neural network. As a result of integration, this POKéMON is smarter than a supercomputer.",
+    "firered": "It is formed by two METANG fusing. Its four brains are said to be superior to a supercomputer.",
+    "leafgreen": "It is formed by two METANG fusing. Its four brains are said to be superior to a supercomputer."
+  },
+  "locations": {
+    "ruby": "Evolve Metang",
+    "sapphire": "Evolve Metang",
+    "emerald": "Evolve Metang",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "colosseum": "Snagged from Cipher Nascour in Realgam Tower Colosseum",
+    "xd": "Trade from Ruby/Sapphire/Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Take Down"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": null,
+        "move": "Metal Claw"
+      },
+      {
+        "level": null,
+        "move": "Scary Face"
+      },
+      {
+        "level": 20,
+        "move": "Confusion"
+      },
+      {
+        "level": 20,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 26,
+        "move": "Scary Face"
+      },
+      {
+        "level": 32,
+        "move": "Pursuit"
+      },
+      {
+        "level": 38,
+        "move": "Psychic"
+      },
+      {
+        "level": 44,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 55,
+        "move": "Meteor Mash"
+      },
+      {
+        "level": 66,
+        "move": "Agility"
+      },
+      {
+        "level": 77,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/376.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.577Z"
+  }
+}

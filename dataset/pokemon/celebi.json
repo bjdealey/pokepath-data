@@ -1,0 +1,210 @@
+{
+  "slug": "celebi",
+  "natdex": 251,
+  "name": "Celebi",
+  "names": {
+    "japan": "Celebiセレビィ",
+    "french": "Celebi",
+    "german": "Celebi",
+    "korean": "세레비"
+  },
+  "types": [
+    "psychic",
+    "grass"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Time Travel Pokémon",
+  "heightM": 0.6,
+  "weightKg": 5,
+  "captureRate": 45,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Natural Cure",
+      "description": "Status Conditions are healed when withdrawn from Battle."
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "spAttack": 100,
+    "spDefense": 100,
+    "speed": 100,
+    "total": 600
+  },
+  "evolutionChain": [
+    "celebi"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
+    "sapphire": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
+    "emerald": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
+    "firered": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+    "leafgreen": "This POKéMON wanders across time. Grass and trees flourish in the forests in which it has appeared."
+  },
+  "locations": {
+    "ruby": "Obtain from Nintendo Event",
+    "sapphire": "Obtain from Nintendo Event",
+    "emerald": "Obtain from Nintendo Event",
+    "firered": "Obtain from Nintendo Event",
+    "leafgreen": "Obtain from Nintendo Event",
+    "colosseum": "Trade from Games that have Received Celebi from Event",
+    "xd": "Trade from Games that have Received Celebi from Event"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leech Seed"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": null,
+        "move": "Recover"
+      },
+      {
+        "level": null,
+        "move": "Heal Bell"
+      },
+      {
+        "level": 10,
+        "move": "Safeguard"
+      },
+      {
+        "level": 20,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 30,
+        "move": "Future Sight"
+      },
+      {
+        "level": 40,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 50,
+        "move": "Perish Song"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/251.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.726Z"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "slug": "umbreon",
+  "natdex": 197,
+  "name": "Umbreon",
+  "names": {
+    "japan": "Brackyブラッキー",
+    "french": "Noctali",
+    "german": "Nachtara",
+    "korean": "블래키"
+  },
+  "types": [
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Moonlight Pokémon",
+  "heightM": 1,
+  "weightKg": 27,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "When Umbreon is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 110,
+    "spAttack": 60,
+    "spDefense": 130,
+    "speed": 65,
+    "total": 525
+  },
+  "evolutionChain": [
+    "eevee",
+    "jolteon",
+    "vaporeon",
+    "flareon",
+    "espeon",
+    "umbreon"
+  ],
+  "flavorText": {
+    "ruby": "UMBREON evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+    "sapphire": "UMBREON evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+    "emerald": "UMBREON evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
+    "firered": "When darkness falls, the rings on its body begin to glow, striking fear in the hearts of anyone nearby.",
+    "leafgreen": "When agitated, this POKéMON protects itself by spraying poisonous sweat from its pores."
+  },
+  "locations": {
+    "ruby": "Trade from Colosseum/XD",
+    "sapphire": "Trade from Colosseum/XD",
+    "emerald": "Trade from Colosseum/XD",
+    "firered": "Trade from Colosseum/XD",
+    "leafgreen": "Trade from Colosseum/XD",
+    "colosseum": "Starter Pokémon",
+    "xd": "Evolve Eevee"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 8,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 16,
+        "move": "Pursuit"
+      },
+      {
+        "level": 23,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 30,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 36,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 42,
+        "move": "Mean Look"
+      },
+      {
+        "level": 47,
+        "move": "Screech"
+      },
+      {
+        "level": 52,
+        "move": "Moonlight"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/197.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.398Z"
+  }
+}

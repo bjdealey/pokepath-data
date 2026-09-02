@@ -1,0 +1,179 @@
+{
+  "slug": "slugma",
+  "natdex": 218,
+  "name": "Slugma",
+  "names": {
+    "japan": "Magmagマグマッグ",
+    "french": "Limagma",
+    "german": "Schneckmag",
+    "korean": "마그마그"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Lava Pokémon",
+  "heightM": 0.7,
+  "weightKg": 35,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Magma Armor",
+      "description": "Magma Armor: Prevents Slugma from being FrozenFlame Body: When a Pokémon makes contact with Slugma, it has a 30% chance of being Burned"
+    },
+    {
+      "name": "Flame Body",
+      "description": "Magma Armor: Prevents Slugma from being FrozenFlame Body: When a Pokémon makes contact with Slugma, it has a 30% chance of being Burned"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "spAttack": 70,
+    "spDefense": 40,
+    "speed": 20,
+    "total": 250
+  },
+  "evolutionChain": [
+    "slugma",
+    "magcargo"
+  ],
+  "flavorText": {
+    "ruby": "Molten magma courses throughout SLUGMA's circulatory system. If this POKéMON is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+    "sapphire": "SLUGMA does not have any blood in its body. Instead, intensely hot magma circulates throughout this POKéMON's body, carrying essential nutrients and oxygen to its organs.",
+    "emerald": "It is a species of POKéMON that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
+    "firered": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+    "leafgreen": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden."
+  },
+  "locations": {
+    "ruby": "Fiery Path",
+    "sapphire": "Fiery Path",
+    "emerald": "Route 113, Fiery Path",
+    "firered": "Mt. Ember Basement 3 (Rock Smash), Mt. Ember Basements 1, 2 & 3",
+    "leafgreen": "Mt. Ember Basement 3 (Rock Smash), Mt. Ember Basements 1, 2 & 3",
+    "colosseum": "Snagged from Street Performer Lon in Pyrite Town",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": null,
+        "move": "Smog"
+      },
+      {
+        "level": 8,
+        "move": "Ember"
+      },
+      {
+        "level": 15,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 22,
+        "move": "Harden"
+      },
+      {
+        "level": 29,
+        "move": "Amnesia"
+      },
+      {
+        "level": 36,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 43,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 50,
+        "move": "Body Slam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/218.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.528Z"
+  }
+}

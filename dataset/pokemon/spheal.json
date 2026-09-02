@@ -1,0 +1,214 @@
+{
+  "slug": "spheal",
+  "natdex": 363,
+  "name": "Spheal",
+  "names": {
+    "japan": "Tamazarashiタマザラシ",
+    "french": "Obalie",
+    "german": "Seemops",
+    "korean": "대굴레오"
+  },
+  "types": [
+    "ice",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Clap Pokémon",
+  "heightM": 0.8,
+  "weightKg": 39.5,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Fire & Ice Type moves do 50% Damage on Spheal"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 40,
+    "defense": 50,
+    "spAttack": 55,
+    "spDefense": 50,
+    "speed": 25,
+    "total": 290
+  },
+  "evolutionChain": [
+    "spheal",
+    "sealeo",
+    "walrein"
+  ],
+  "flavorText": {
+    "ruby": "SPHEAL is much faster rolling than walking to get around. When groups of this POKéMON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
+    "sapphire": "SPHEAL always travels by rolling around on its ball-like body. When the season for ice floes arrives, this POKéMON can be seen rolling about on ice and crossing the sea.",
+    "emerald": "It is completely covered with plushy fur. As a result, it never feels the cold even when it is rolling about on ice floes or diving in the sea.",
+    "firered": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
+    "leafgreen": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice."
+  },
+  "locations": {
+    "ruby": "Shoal Cave",
+    "sapphire": "Shoal Cave",
+    "emerald": "Shoal Cave",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Blusix in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Powder Snow"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 7,
+        "move": "Encore"
+      },
+      {
+        "level": 13,
+        "move": "Ice Ball"
+      },
+      {
+        "level": 19,
+        "move": "Body Slam"
+      },
+      {
+        "level": 25,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 31,
+        "move": "Hail"
+      },
+      {
+        "level": 37,
+        "move": "Rest"
+      },
+      {
+        "level": 37,
+        "move": "Snore"
+      },
+      {
+        "level": 43,
+        "move": "Blizzard"
+      },
+      {
+        "level": 49,
+        "move": "Sheer Cold"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/363.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.476Z"
+  }
+}

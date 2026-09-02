@@ -1,0 +1,254 @@
+{
+  "slug": "mr-mime",
+  "natdex": 122,
+  "name": "Mr. Mime",
+  "names": {
+    "japan": "Barrierdバリヤード",
+    "french": "M. Mime",
+    "german": "Pantimos",
+    "korean": "마임맨"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Barrier Pokémon",
+  "heightM": 1.3,
+  "weightKg": 54.5,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof",
+      "description": "Mr. Mime is unaffected by Sound moves"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "spAttack": 100,
+    "spDefense": 120,
+    "speed": 90,
+    "total": 460
+  },
+  "evolutionChain": [
+    "mr-mime"
+  ],
+  "flavorText": {
+    "ruby": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
+    "sapphire": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
+    "emerald": "A MR. MIME is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
+    "firered": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+    "leafgreen": "If interrupted while it is miming, it will suddenly DOUBLESLAP the offender with its broad hands."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Trade for Abra in house on Route 2",
+    "leafgreen": "Trade for Abra in house on Route 2",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Gorigan in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Barrier"
+      },
+      {
+        "level": 5,
+        "move": "Confusion"
+      },
+      {
+        "level": 9,
+        "move": "Substitute"
+      },
+      {
+        "level": 13,
+        "move": "Meditate"
+      },
+      {
+        "level": 17,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 21,
+        "move": "Light Screen"
+      },
+      {
+        "level": 21,
+        "move": "Reflect"
+      },
+      {
+        "level": 25,
+        "move": "Encore"
+      },
+      {
+        "level": 29,
+        "move": "Psybeam"
+      },
+      {
+        "level": 33,
+        "move": "Recycle"
+      },
+      {
+        "level": 37,
+        "move": "Trick"
+      },
+      {
+        "level": 41,
+        "move": "Role Play"
+      },
+      {
+        "level": 45,
+        "move": "Psychic"
+      },
+      {
+        "level": 49,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 53,
+        "move": "Safeguard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/122.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.934Z"
+  }
+}

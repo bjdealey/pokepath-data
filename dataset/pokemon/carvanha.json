@@ -1,0 +1,196 @@
+{
+  "slug": "carvanha",
+  "natdex": 318,
+  "name": "Carvanha",
+  "names": {
+    "japan": "Kibanhaキバニア",
+    "french": "Carvanha",
+    "german": "Kanivanha",
+    "korean": "샤프니아"
+  },
+  "types": [
+    "water",
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Savage Pokémon",
+  "heightM": 0.8,
+  "weightKg": 20.8,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Rough Skin",
+      "description": "The Opponent is hurt with 1/16th of the attack's damage when it makes contact with Carvanha"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "spAttack": 65,
+    "spDefense": 20,
+    "speed": 65,
+    "total": 305
+  },
+  "evolutionChain": [
+    "carvanha",
+    "sharpedo"
+  ],
+  "flavorText": {
+    "ruby": "CARVANHA's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
+    "sapphire": "If anything invades CARVANHA's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this POKéMON turns suddenly timid.",
+    "emerald": "CARVANHA attack ships in swarms, making them sink. Although it is said to be a very vicious POKéMON, it timidly flees as soon as it finds itself alone.",
+    "firered": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+    "leafgreen": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory."
+  },
+  "locations": {
+    "ruby": "Routes 118 & 119 (Fish)",
+    "sapphire": "Routes 118 & 119 (Fish)",
+    "emerald": "Routes 118 & 119 (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Cabol in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": 7,
+        "move": "Rage"
+      },
+      {
+        "level": 13,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 16,
+        "move": "Scary Face"
+      },
+      {
+        "level": 22,
+        "move": "Crunch"
+      },
+      {
+        "level": 28,
+        "move": "Screech"
+      },
+      {
+        "level": 31,
+        "move": "Take Down"
+      },
+      {
+        "level": 37,
+        "move": "Swagger"
+      },
+      {
+        "level": 43,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/318.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.150Z"
+  }
+}

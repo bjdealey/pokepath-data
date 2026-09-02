@@ -1,0 +1,198 @@
+{
+  "slug": "sudowoodo",
+  "natdex": 185,
+  "name": "Sudowoodo",
+  "names": {
+    "japan": "Usokkieウソッキー",
+    "french": "Simularbre",
+    "german": "Mogelbaum",
+    "korean": "꼬지모"
+  },
+  "types": [
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Imitation Pokémon",
+  "heightM": 1.2,
+  "weightKg": 38,
+  "captureRate": 65,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Sudowoodo Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Rock Head: Sudowoodo Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "spAttack": 30,
+    "spDefense": 65,
+    "speed": 30,
+    "total": 410
+  },
+  "evolutionChain": [
+    "sudowoodo"
+  ],
+  "flavorText": {
+    "ruby": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
+    "sapphire": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
+    "emerald": "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
+    "firered": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+    "leafgreen": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum",
+    "sapphire": "Trade from Emerald/Colosseum",
+    "emerald": "Battle Frontier (Use Wailmer Pail)",
+    "firered": "Trade from Emerald/Colosseum",
+    "leafgreen": "Trade from Emerald/Colosseum",
+    "colosseum": "Snagged from Cipher Admin Miror B. in Miror B.'s Hideout",
+    "xd": "Trade from Ruby/Sapphire/Emerald/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Rock Throw"
+      },
+      {
+        "level": null,
+        "move": "Mimic"
+      },
+      {
+        "level": 9,
+        "move": "Flail"
+      },
+      {
+        "level": 17,
+        "move": "Low Kick"
+      },
+      {
+        "level": 25,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 33,
+        "move": "Block"
+      },
+      {
+        "level": 41,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 49,
+        "move": "Slam"
+      },
+      {
+        "level": 57,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/185.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.324Z"
+  }
+}

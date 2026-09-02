@@ -1,0 +1,182 @@
+{
+  "slug": "minun",
+  "natdex": 312,
+  "name": "Minun",
+  "names": {
+    "japan": "Minunマイナン",
+    "french": "Négapi",
+    "german": "Minun",
+    "korean": "마이농"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cheering Pokémon",
+  "heightM": 0.4,
+  "weightKg": 4.2,
+  "captureRate": 200,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Minus",
+      "description": "When battling with Plus, Minun's Special Attack is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "spAttack": 75,
+    "spDefense": 85,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutionChain": [
+    "minun"
+  ],
+  "flavorText": {
+    "ruby": "MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+    "sapphire": "MINUN loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this POKéMON gives off increasing amounts of sparks.",
+    "emerald": "At a meeting of POKéMON academics, it was announced that simultaneous exposure to electricity from a PLUSLE and MINUN will promote circulation and boost vitality.",
+    "firered": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+    "leafgreen": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering."
+  },
+  "locations": {
+    "ruby": "Route 110",
+    "sapphire": "Route 110",
+    "emerald": "Route 110",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 4,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 10,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 19,
+        "move": "Spark"
+      },
+      {
+        "level": 22,
+        "move": "Encore"
+      },
+      {
+        "level": 28,
+        "move": "Charm"
+      },
+      {
+        "level": 31,
+        "move": "Charge"
+      },
+      {
+        "level": 37,
+        "move": "Thunder"
+      },
+      {
+        "level": 40,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 47,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/312.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.107Z"
+  }
+}

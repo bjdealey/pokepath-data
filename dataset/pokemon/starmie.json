@@ -1,0 +1,193 @@
+{
+  "slug": "starmie",
+  "natdex": 121,
+  "name": "Starmie",
+  "names": {
+    "japan": "Starmieスターミー",
+    "french": "Staross",
+    "german": "Starmie",
+    "korean": "아쿠스타"
+  },
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Mysterious Pokémon",
+  "heightM": 1.1,
+  "weightKg": 80,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate",
+      "description": "Illuminate: When Starmie is in the first party slot, Wild Pokémon appearances are more frequentNatural Cure: Status Conditions are healed when withdrawn from Battle"
+    },
+    {
+      "name": "Natural Cure",
+      "description": "Illuminate: When Starmie is in the first party slot, Wild Pokémon appearances are more frequentNatural Cure: Status Conditions are healed when withdrawn from Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "spAttack": 100,
+    "spDefense": 85,
+    "speed": 115,
+    "total": 520
+  },
+  "evolutionChain": [
+    "staryu",
+    "starmie"
+  ],
+  "flavorText": {
+    "ruby": "STARMIE's center section - the core - glows brightly in seven colors. Because of its luminous nature, this POKéMON has been given the nickname \"the gem of the sea.\"",
+    "sapphire": "STARMIE swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this POKéMON's body glows in seven colors.",
+    "emerald": "People in ancient times imagined that STARMIE were transformed from the reflections of stars that twinkled on gentle waves at night.",
+    "firered": "This POKéMON has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
+    "leafgreen": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+  },
+  "locations": {
+    "ruby": "Evolve Staryu",
+    "sapphire": "Evolve Staryu",
+    "emerald": "Evolve Staryu",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "leafgreen": "Evolve Staryu",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Snattle in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": null,
+        "move": "Recover"
+      },
+      {
+        "level": null,
+        "move": "Swift"
+      },
+      {
+        "level": 33,
+        "move": "Confuse Ray"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/121.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.929Z"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "bagon",
+  "natdex": 371,
+  "name": "Bagon",
+  "names": {
+    "japan": "Tatsubayタツベイ",
+    "french": "Draby",
+    "german": "Kindwurm",
+    "korean": "아공이"
+  },
+  "types": [
+    "dragon"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Rock Head Pokémon",
+  "heightM": 0.6,
+  "weightKg": 42.1,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Bagon receives no Re-Coil Damage"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "spAttack": 40,
+    "spDefense": 30,
+    "speed": 50,
+    "total": 300
+  },
+  "evolutionChain": [
+    "bagon",
+    "shelgon",
+    "salamence"
+  ],
+  "flavorText": {
+    "ruby": "BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POKéMON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel.",
+    "sapphire": "BAGON harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this POKéMON slams its hard head against huge rocks and shatters them into pebbles.",
+    "emerald": "Although it is small, this POKéMON is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.",
+    "firered": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
+    "leafgreen": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly."
+  },
+  "locations": {
+    "ruby": "Deep in Meteor Falls",
+    "sapphire": "Deep in Meteor Falls",
+    "emerald": "Deep in Meteor Falls",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": 5,
+        "move": "Bite"
+      },
+      {
+        "level": 9,
+        "move": "Leer"
+      },
+      {
+        "level": 17,
+        "move": "Headbutt"
+      },
+      {
+        "level": 21,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 25,
+        "move": "Ember"
+      },
+      {
+        "level": 33,
+        "move": "Dragonbreath"
+      },
+      {
+        "level": 37,
+        "move": "Scary Face"
+      },
+      {
+        "level": 41,
+        "move": "Crunch"
+      },
+      {
+        "level": 49,
+        "move": "Dragon Claw"
+      },
+      {
+        "level": 53,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/371.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.542Z"
+  }
+}

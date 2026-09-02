@@ -1,0 +1,182 @@
+{
+  "slug": "gloom",
+  "natdex": 44,
+  "name": "Gloom",
+  "names": {
+    "japan": "Kusaihanaクサイハナ",
+    "french": "Ortide",
+    "german": "Duflor",
+    "korean": "냄새꼬"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Weed Pokémon",
+  "heightM": 0.8,
+  "weightKg": 8.6,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Gloom's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "spAttack": 85,
+    "spDefense": 75,
+    "speed": 40,
+    "total": 395
+  },
+  "evolutionChain": [
+    "oddish",
+    "gloom",
+    "vileplume",
+    "bellossom"
+  ],
+  "flavorText": {
+    "ruby": "GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this POKéMON is feeling calm and secure, it does not release its usual stinky aroma.",
+    "sapphire": "From its mouth GLOOM drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+    "emerald": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
+    "firered": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+    "leafgreen": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
+  },
+  "locations": {
+    "ruby": "121 & 123, Safari Zone",
+    "sapphire": "121 & 123, Safari Zone",
+    "emerald": "121 & 123, Safari Zone",
+    "firered": "Routes 12, 13, 14, 15, Berry Forest, Bond Bridge, Cape Brink, Water Path",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": null,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": null,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 7,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 14,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 16,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 18,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 24,
+        "move": "Acid"
+      },
+      {
+        "level": 35,
+        "move": "Moonlight"
+      },
+      {
+        "level": 44,
+        "move": "Petal Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/044.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.402Z"
+  }
+}

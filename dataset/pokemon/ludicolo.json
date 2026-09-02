@@ -1,0 +1,210 @@
+{
+  "slug": "ludicolo",
+  "natdex": 272,
+  "name": "Ludicolo",
+  "names": {
+    "japan": "Runpappaルンパッパ",
+    "french": "Ludicolo",
+    "german": "Kappalores",
+    "korean": "로파파"
+  },
+  "types": [
+    "water",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Carefree Pokémon",
+  "heightM": 1.5,
+  "weightKg": 55,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Water 1",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Ludicolo's Speed is DoubledRain Dish: When Rain Dance is in effect, Ludicolo recovers 1/16th of it's max hit-points"
+    },
+    {
+      "name": "Rain Dish",
+      "description": "Swift Swim: When Rain Dance is in effect, Ludicolo's Speed is DoubledRain Dish: When Rain Dance is in effect, Ludicolo recovers 1/16th of it's max hit-points"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "spAttack": 90,
+    "spDefense": 100,
+    "speed": 70,
+    "total": 480
+  },
+  "evolutionChain": [
+    "lotad",
+    "lombre",
+    "ludicolo"
+  ],
+  "flavorText": {
+    "ruby": "LUDICOLO begins dancing as soon as it hears cheerful, festive music. This POKéMON is said to appear when it hears the singing of children on hiking outings.",
+    "sapphire": "Upon hearing an upbeat and cheerful rhythm, the cells in LUDICOLO's body become very energetic and active. Even in battle, this POKéMON will exhibit an amazing amount of power.",
+    "emerald": "When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.",
+    "firered": "The rhythm of bright, festive music activates LUDICOLO's cells, making it more powerful.",
+    "leafgreen": "The rhythm of bright, festive music activates LUDICOLO's cells, making it more powerful."
+  },
+  "locations": {
+    "ruby": "Trade from Sapphire/Emerald",
+    "sapphire": "Evolve Lombre",
+    "emerald": "Evolve Lombre",
+    "firered": "Trade from Sapphire/Emerald",
+    "leafgreen": "Trade from Sapphire/Emerald",
+    "colosseum": "Trade from Sapphire/Emerald",
+    "xd": "Trade from Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": null,
+        "move": "Nature Power"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/272.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.859Z"
+  }
+}

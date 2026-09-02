@@ -1,0 +1,211 @@
+{
+  "slug": "grimer",
+  "natdex": 88,
+  "name": "Grimer",
+  "names": {
+    "japan": "Betbeterベトベター",
+    "french": "Tadmorv",
+    "german": "Sleima",
+    "korean": "질퍽이"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Sludge Pokémon",
+  "heightM": 0.9,
+  "weightKg": 30,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Stench",
+      "description": "Stench: When Grimer is in the first slot of party, Wild Pokémon encounters decreaseSticky Hold: Grimer's Item cannot be stolen"
+    },
+    {
+      "name": "Sticky Hold",
+      "description": "Stench: When Grimer is in the first slot of party, Wild Pokémon encounters decreaseSticky Hold: Grimer's Item cannot be stolen"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "spAttack": 40,
+    "spDefense": 50,
+    "speed": 25,
+    "total": 325
+  },
+  "evolutionChain": [
+    "grimer",
+    "muk"
+  ],
+  "flavorText": {
+    "ruby": "GRIMER's sludgy and rubbery body can be forced through any opening, however small it may be. This POKéMON enters sewer pipes to drink filthy wastewater.",
+    "sapphire": "GRIMER emerged from the sludge that settled on a polluted seabed. This POKéMON loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
+    "emerald": "Born from polluted sludge in the sea, GRIMER's favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+    "firered": "Sludge exposed to X rays from the moon transformed into GRIMER. It loves feeding on filthy things.",
+    "leafgreen": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories."
+  },
+  "locations": {
+    "ruby": "Fiery Path",
+    "sapphire": "Fiery Path",
+    "emerald": "Fiery Path",
+    "firered": "Celadon City (Fish), Pokémon Mansion Floors 1, 2, 3 & Basement 1",
+    "leafgreen": "Celadon City (Fish), Pokémon Mansion Floors 1, 2, 3 & Basement 1",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Faltly in Phenac Stadium"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Gas"
+      },
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": 4,
+        "move": "Harden"
+      },
+      {
+        "level": 8,
+        "move": "Disable"
+      },
+      {
+        "level": 13,
+        "move": "Sludge"
+      },
+      {
+        "level": 19,
+        "move": "Minimize"
+      },
+      {
+        "level": 26,
+        "move": "Screech"
+      },
+      {
+        "level": 34,
+        "move": "Acid Armor"
+      },
+      {
+        "level": 43,
+        "move": "Sludge Bomb"
+      },
+      {
+        "level": 53,
+        "move": "Memento"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/088.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.721Z"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "nosepass",
+  "natdex": 299,
+  "name": "Nosepass",
+  "names": {
+    "japan": "Nosepassノズパス",
+    "french": "Tarinor",
+    "german": "Nasgnet",
+    "korean": "코코파스"
+  },
+  "types": [
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Compass Pokémon",
+  "heightM": 1,
+  "weightKg": 97,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy",
+      "description": "Sturdy: One-Hit KO Moves will not workMagnet Pull: Steel type Pokémon cannot escape from battle"
+    },
+    {
+      "name": "Magnet Pull",
+      "description": "Sturdy: One-Hit KO Moves will not workMagnet Pull: Steel type Pokémon cannot escape from battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 135,
+    "spAttack": 45,
+    "spDefense": 90,
+    "speed": 30,
+    "total": 375
+  },
+  "evolutionChain": [
+    "nosepass"
+  ],
+  "flavorText": {
+    "ruby": "NOSEPASS's magnetic nose is always pointed to the north. If two of these POKéMON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
+    "sapphire": "NOSEPASS had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the POKéMON actually moves by a little over 3/8 of an inch every year.",
+    "emerald": "Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.",
+    "firered": "Its magnetic nose consistently faces north. Travelers check NOSEPASS to get their bearings.",
+    "leafgreen": "Its magnetic nose consistently faces north. Travelers check NOSEPASS to get their bearings."
+  },
+  "locations": {
+    "ruby": "Granite Cave Basement 2 (Rock Smash)",
+    "sapphire": "Granite Cave Basement 2 (Rock Smash)",
+    "emerald": "Granite Cave Basement 2 (Rock Smash)",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Wanderer Miror. B in Phenac Stadium"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      },
+      {
+        "level": 13,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 16,
+        "move": "Block"
+      },
+      {
+        "level": 22,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 28,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 31,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 37,
+        "move": "Rest"
+      },
+      {
+        "level": 43,
+        "move": "Zap Cannon"
+      },
+      {
+        "level": 46,
+        "move": "Lock-on"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/299.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.028Z"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "kakuna",
+  "natdex": 14,
+  "name": "Kakuna",
+  "names": {
+    "japan": "Cocoonコクーン",
+    "french": "Coconfort",
+    "german": "Kokuna",
+    "korean": "딱충이"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cocoon Pokémon",
+  "heightM": 0.6,
+  "weightKg": 10,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Kakuna has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "spAttack": 25,
+    "spDefense": 25,
+    "speed": 35,
+    "total": 205
+  },
+  "evolutionChain": [
+    "weedle",
+    "kakuna",
+    "beedrill"
+  ],
+  "flavorText": {
+    "ruby": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+    "sapphire": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+    "emerald": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
+    "firered": "This POKéMON is in a temporary stage while making its body. It is almost completely unable to move on its own.",
+    "leafgreen": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself when it is in danger."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Viridian Forest, Route 25, Pattern Bush",
+    "leafgreen": "Viridian Forest, Route 25, Pattern Bush",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/014.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.212Z"
+  }
+}

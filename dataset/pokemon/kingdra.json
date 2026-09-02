@@ -1,0 +1,194 @@
+{
+  "slug": "kingdra",
+  "natdex": 230,
+  "name": "Kingdra",
+  "names": {
+    "japan": "Kingdraキングドラ",
+    "french": "Hyporoi",
+    "german": "Seedraking",
+    "korean": "킹드라"
+  },
+  "types": [
+    "water",
+    "dragon"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dragon Pokémon",
+  "heightM": 1.8,
+  "weightKg": 152,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Kingdra's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "spAttack": 95,
+    "spDefense": 95,
+    "speed": 85,
+    "total": 540
+  },
+  "evolutionChain": [
+    "horsea",
+    "seadra",
+    "kingdra"
+  ],
+  "flavorText": {
+    "ruby": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents.",
+    "sapphire": "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the POKéMON is said to awaken and wander about in search of prey.",
+    "emerald": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+    "firered": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "leafgreen": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+  },
+  "locations": {
+    "ruby": "Evolve Seadra",
+    "sapphire": "Evolve Seadra",
+    "emerald": "Evolve Seadra",
+    "firered": "Evolve Seadra",
+    "leafgreen": "Evolve Seadra",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Smokescreen"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 8,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 15,
+        "move": "Leer"
+      },
+      {
+        "level": 22,
+        "move": "Water Gun"
+      },
+      {
+        "level": 29,
+        "move": "Twister"
+      },
+      {
+        "level": 40,
+        "move": "Agility"
+      },
+      {
+        "level": 51,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 62,
+        "move": "Dragon Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/230.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.602Z"
+  }
+}

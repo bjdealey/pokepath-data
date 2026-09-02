@@ -1,0 +1,209 @@
+{
+  "slug": "marill",
+  "natdex": 183,
+  "name": "Marill",
+  "names": {
+    "japan": "Marilマリル",
+    "french": "Marill",
+    "german": "Marill",
+    "korean": "마릴"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Aquamouse Pokémon",
+  "heightM": 0.4,
+  "weightKg": 8.5,
+  "captureRate": 190,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Water 1",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on MarillHuge Power: Marill's Attack is Doubled"
+    },
+    {
+      "name": "Huge Power",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on MarillHuge Power: Marill's Attack is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "spAttack": 20,
+    "spDefense": 50,
+    "speed": 40,
+    "total": 250
+  },
+  "evolutionChain": [
+    "azurill",
+    "marill",
+    "azumarill"
+  ],
+  "flavorText": {
+    "ruby": "MARILL's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this POKéMON is diving beneath the water to feed on aquatic plants.",
+    "sapphire": "When fishing for food at the edge of a fast-running stream, MARILL wraps its tail around the trunk of a tree. This POKéMON's tail is flexible and configured to stretch.",
+    "emerald": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.",
+    "firered": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+    "leafgreen": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning."
+  },
+  "locations": {
+    "ruby": "Routes 102, 111, 114, 117, 120, Petalburg City (Surf) Routes 117, 120",
+    "sapphire": "Routes 102, 111, 114, 117, 120, Petalburg City (Surf) Routes 117, 120",
+    "emerald": "Routes 102, 111, 114, 117, 120, Petalburg City, Safari Zone Extention (Surf) Routes 117, 120",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "leafgreen": "Four Island, Icefall Cave Entrance, Ruin Valley (Surf) Ruin Valley",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 3,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 6,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Water Gun"
+      },
+      {
+        "level": 15,
+        "move": "Rollout"
+      },
+      {
+        "level": 21,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 28,
+        "move": "Double-edge"
+      },
+      {
+        "level": 36,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 45,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/183.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.312Z"
+  }
+}

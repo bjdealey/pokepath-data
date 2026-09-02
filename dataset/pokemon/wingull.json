@@ -1,0 +1,185 @@
+{
+  "slug": "wingull",
+  "natdex": 278,
+  "name": "Wingull",
+  "names": {
+    "japan": "Camomeキャモメ",
+    "french": "Goélise",
+    "german": "Wingull",
+    "korean": "갈모매"
+  },
+  "types": [
+    "water",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Seagull Pokémon",
+  "heightM": 0.6,
+  "weightKg": 9.5,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Wingull's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "spAttack": 55,
+    "spDefense": 30,
+    "speed": 85,
+    "total": 270
+  },
+  "evolutionChain": [
+    "wingull",
+    "pelipper"
+  ],
+  "flavorText": {
+    "ruby": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky.",
+    "sapphire": "WINGULL rides updrafts rising from the sea by extending its long and narrow wings to glide. This POKéMON's long beak is useful for catching prey.",
+    "emerald": "It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.",
+    "firered": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+    "leafgreen": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest."
+  },
+  "locations": {
+    "ruby": "Routes 103, 104, 110, 115, 118, 121 & 123, Mt. Pyre (Grass), Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog City, Slateport City (Surf)",
+    "sapphire": "Routes 103, 104, 110, 115, 118, 121 & 123, Mt. Pyre (Grass), Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog City, Slateport City (Surf)",
+    "emerald": "Routes 103, 104, 110, 115, 118, 121 & 123, Mt. Pyre (Grass), Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog City, Slateport City (Surf)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 7,
+        "move": "Supersonic"
+      },
+      {
+        "level": 13,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 21,
+        "move": "Mist"
+      },
+      {
+        "level": 31,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 43,
+        "move": "Pursuit"
+      },
+      {
+        "level": 55,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/278.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.893Z"
+  }
+}

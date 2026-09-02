@@ -1,0 +1,193 @@
+{
+  "slug": "magneton",
+  "natdex": 82,
+  "name": "Magneton",
+  "names": {
+    "japan": "Rarecoilレアコイル",
+    "french": "Magnéton",
+    "german": "Magneton",
+    "korean": "레어코일"
+  },
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Magnet Pokémon",
+  "heightM": 1,
+  "weightKg": 60,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Magnet Pull",
+      "description": "Magnet Pull: Steel type Pokémon cannot escape from battleSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Magnet Pull: Steel type Pokémon cannot escape from battleSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "spAttack": 120,
+    "spDefense": 70,
+    "speed": 70,
+    "total": 465
+  },
+  "evolutionChain": [
+    "magnemite",
+    "magneton"
+  ],
+  "flavorText": {
+    "ruby": "MAGNETON emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this POKéMON.",
+    "sapphire": "MAGNETON emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this POKéMON inside a POKé BALL.",
+    "emerald": "It is actually three MAGNEMITE linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
+    "firered": "A linked cluster formed of several MAGNEMITE. It discharges powerful magnetic waves at high voltage.",
+    "leafgreen": "Formed by several MAGNEMITE linked together. They frequently appear when sunspots flare up."
+  },
+  "locations": {
+    "ruby": "New Mauville",
+    "sapphire": "New Mauville",
+    "emerald": "New Mauville",
+    "firered": "Cerulean Cave Floors 1 & 2 & Basement 1, Power Plant",
+    "leafgreen": "Cerulean Cave Floors 1 & 2 & Basement 1, Power Plant",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Snidle in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Metal Sound"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": null,
+        "move": "Supersonic"
+      },
+      {
+        "level": 6,
+        "move": "Thundershock"
+      },
+      {
+        "level": 11,
+        "move": "Supersonic"
+      },
+      {
+        "level": 16,
+        "move": "Sonicboom"
+      },
+      {
+        "level": 21,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 26,
+        "move": "Spark"
+      },
+      {
+        "level": 35,
+        "move": "Lock-on"
+      },
+      {
+        "level": 44,
+        "move": "Tri Attack"
+      },
+      {
+        "level": 53,
+        "move": "Screech"
+      },
+      {
+        "level": 62,
+        "move": "Zap Cannon"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/082.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.680Z"
+  }
+}

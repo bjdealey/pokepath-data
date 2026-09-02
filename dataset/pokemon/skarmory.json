@@ -1,0 +1,199 @@
+{
+  "slug": "skarmory",
+  "natdex": 227,
+  "name": "Skarmory",
+  "names": {
+    "japan": "Airmdエアームド",
+    "french": "Airmure",
+    "german": "Panzaeron",
+    "korean": "무장조"
+  },
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Armor Bird Pokémon",
+  "heightM": 1.7,
+  "weightKg": 50.5,
+  "captureRate": 25,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Keen Eye: Skarmory's Accuracy cannot be Lowered by OpponentSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Keen Eye: Skarmory's Accuracy cannot be Lowered by OpponentSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 140,
+    "spAttack": 40,
+    "spDefense": 70,
+    "speed": 70,
+    "total": 465
+  },
+  "evolutionChain": [
+    "skarmory"
+  ],
+  "flavorText": {
+    "ruby": "SKARMORY is entirely encased in hard, protective armor. This POKéMON flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+    "sapphire": "SKARMORY's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+    "emerald": "A POKéMON that has a body and wings of steel. People in the past used feathers fallen from SKARMORY to make swords and knives.",
+    "firered": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+    "leafgreen": "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky."
+  },
+  "locations": {
+    "ruby": "Route 113",
+    "sapphire": "Route 113",
+    "emerald": "Route 113",
+    "firered": "Seavault Canyon",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed/Colosseum",
+    "colosseum": "Snagged from Snagem Leader Gonzap in Realgam Tower",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": 10,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 13,
+        "move": "Swift"
+      },
+      {
+        "level": 16,
+        "move": "Agility"
+      },
+      {
+        "level": 26,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 29,
+        "move": "Air Cutter"
+      },
+      {
+        "level": 32,
+        "move": "Steel Wing"
+      },
+      {
+        "level": 42,
+        "move": "Spikes"
+      },
+      {
+        "level": 45,
+        "move": "Metal Sound"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/227.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.581Z"
+  }
+}

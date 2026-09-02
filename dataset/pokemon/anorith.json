@@ -1,0 +1,188 @@
+{
+  "slug": "anorith",
+  "natdex": 347,
+  "name": "Anorith",
+  "names": {
+    "japan": "Anopthアノプス",
+    "french": "Anorith",
+    "german": "Anorith",
+    "korean": "아노딥스"
+  },
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Old Shrimp Pokémon",
+  "heightM": 0.7,
+  "weightKg": 12.5,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Battle Armor",
+      "description": "The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "spAttack": 40,
+    "spDefense": 50,
+    "speed": 75,
+    "total": 355
+  },
+  "evolutionChain": [
+    "anorith",
+    "armaldo"
+  ],
+  "flavorText": {
+    "ruby": "ANORITH was regenerated from a prehistoric fossil. This primitive POKéMON once lived in warm seas. It grips its prey firmly between its two large claws.",
+    "sapphire": "ANORITH is said to be a type of POKéMON predecessor, with eight wings at the sides of its body. This POKéMON swam in the primordial sea by undulating these eight wings.",
+    "emerald": "It was resurrected from a fossil using the power of science. It swims by undulating the eight wings at its sides. They were feet that adapted to life in the sea.",
+    "firered": "It is a kind of POKéMON progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor.",
+    "leafgreen": "It is a kind of POKéMON progenitor. It uses its extending claws to catch prey hiding among rocks on the seafloor."
+  },
+  "locations": {
+    "ruby": "Revive From Claw Fossil",
+    "sapphire": "Revive From Claw Fossil",
+    "emerald": "Revive From Claw Fossil",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      },
+      {
+        "level": 13,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 19,
+        "move": "Water Gun"
+      },
+      {
+        "level": 25,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 31,
+        "move": "Protect"
+      },
+      {
+        "level": 37,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 43,
+        "move": "Fury Cutter"
+      },
+      {
+        "level": 49,
+        "move": "Slash"
+      },
+      {
+        "level": 55,
+        "move": "Rock Blast"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/347.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.359Z"
+  }
+}

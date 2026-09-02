@@ -1,0 +1,216 @@
+{
+  "slug": "nidorino",
+  "natdex": 33,
+  "name": "Nidorino",
+  "names": {
+    "japan": "Nidorinoニドリーノ",
+    "french": "Nidorino",
+    "german": "Nidorino",
+    "korean": "니드리노"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Poison Pin Pokémon",
+  "heightM": 0.9,
+  "weightKg": 19.5,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Poison Point",
+      "description": "When a Pokémon makes contact with Nidorino, it has a 30% chance of being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 61,
+    "attack": 72,
+    "defense": 57,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 65,
+    "total": 365
+  },
+  "evolutionChain": [
+    "nidoran-f",
+    "nidorina",
+    "nidoqueen",
+    "nidoran-m",
+    "nidorino",
+    "nidoking"
+  ],
+  "flavorText": {
+    "ruby": "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+    "sapphire": "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+    "emerald": "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+    "firered": "It is easily angered. By swinging its well-developed horn wildly, it can even punch through diamond.",
+    "leafgreen": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Safari Zone Areas 1, 2 & 3",
+    "leafgreen": "Safari Zone Area 2",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": 8,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 12,
+        "move": "Double Kick"
+      },
+      {
+        "level": 18,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 22,
+        "move": "Horn Attack"
+      },
+      {
+        "level": 26,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 34,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 43,
+        "move": "Flatter"
+      },
+      {
+        "level": 53,
+        "move": "Horn Drill"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/033.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.331Z"
+  }
+}

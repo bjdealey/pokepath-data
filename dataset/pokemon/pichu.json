@@ -1,0 +1,158 @@
+{
+  "slug": "pichu",
+  "natdex": 172,
+  "name": "Pichu",
+  "names": {
+    "japan": "Pichuピチュー",
+    "french": "Pichu",
+    "german": "Pichu",
+    "korean": "피츄"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tiny Mouse Pokémon",
+  "heightM": 0.3,
+  "weightKg": 2,
+  "captureRate": 190,
+  "baseEggSteps": 2560,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Pichu, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 15,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 60,
+    "total": 205
+  },
+  "evolutionChain": [
+    "pichu",
+    "pikachu",
+    "raichu"
+  ],
+  "flavorText": {
+    "ruby": "PICHU charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this POKéMON.",
+    "sapphire": "When PICHU plays with others, it may short out electricity with another PICHU, creating a shower of sparks. In that event, this POKéMON will begin crying, startled by the flash of sparks.",
+    "emerald": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
+    "firered": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+    "leafgreen": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled."
+  },
+  "locations": {
+    "ruby": "Breed Pikachu/Raichu",
+    "sapphire": "Breed Pikachu/Raichu",
+    "emerald": "Breed Pikachu/Raichu",
+    "firered": "Breed Pikachu/Raichu",
+    "leafgreen": "Breed Pikachu/Raichu",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": null,
+        "move": "Charm"
+      },
+      {
+        "level": 6,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 8,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 11,
+        "move": "Sweet Kiss"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/172.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.245Z"
+  }
+}

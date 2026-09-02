@@ -1,0 +1,81 @@
+{
+  "slug": "silcoon",
+  "natdex": 266,
+  "name": "Silcoon",
+  "names": {
+    "japan": "Karasalisカラサリス",
+    "french": "Armulys",
+    "german": "Schaloko",
+    "korean": "실쿤"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cocoon Pokémon",
+  "heightM": 0.6,
+  "weightKg": 10,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Silcoon has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "spAttack": 25,
+    "spDefense": 25,
+    "speed": 15,
+    "total": 205
+  },
+  "evolutionChain": [
+    "wurmple",
+    "silcoon",
+    "beautifly",
+    "cascoon",
+    "dustox"
+  ],
+  "flavorText": {
+    "ruby": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+    "sapphire": "SILCOON was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this POKéMON slakes its thirst by drinking rainwater that collects on its silk.",
+    "emerald": "It prepares for evolution using the energy it stored while it was a WURMPLE. It keeps watch over the surroundings with its two eyes.",
+    "firered": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater.",
+    "leafgreen": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater."
+  },
+  "locations": {
+    "ruby": "Petalburg Woods",
+    "sapphire": "Petalburg Woods",
+    "emerald": "Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/266.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.819Z"
+  }
+}

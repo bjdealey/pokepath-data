@@ -1,0 +1,171 @@
+{
+  "slug": "eevee",
+  "natdex": 133,
+  "name": "Eevee",
+  "names": {
+    "japan": "Eievuiイーブイ",
+    "french": "Évoli",
+    "german": "Evoli",
+    "korean": "이브이"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Evolution Pokémon",
+  "heightM": 0.3,
+  "weightKg": 6.5,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Eevee can escape from Wild Battles"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "spAttack": 45,
+    "spDefense": 65,
+    "speed": 55,
+    "total": 325
+  },
+  "evolutionChain": [
+    "eevee",
+    "jolteon",
+    "vaporeon",
+    "flareon",
+    "espeon",
+    "umbreon"
+  ],
+  "flavorText": {
+    "ruby": "EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this POKéMON to evolve.",
+    "sapphire": "EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this POKéMON to evolve.",
+    "emerald": "An EEVEE has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various STONES causes this POKéMON to evolve.",
+    "firered": "An extremely rare POKéMON that may evolve in a number of different ways depending on stimuli.",
+    "leafgreen": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONES."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Given to you in Celadon Mansion",
+    "leafgreen": "Given to you in Celadon Mansion",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Starter Pokémon"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 8,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 16,
+        "move": "Growl"
+      },
+      {
+        "level": 23,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 30,
+        "move": "Bite"
+      },
+      {
+        "level": 36,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 42,
+        "move": "Take Down"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/133.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.998Z"
+  }
+}

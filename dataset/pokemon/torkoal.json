@@ -1,0 +1,190 @@
+{
+  "slug": "torkoal",
+  "natdex": 324,
+  "name": "Torkoal",
+  "names": {
+    "japan": "Cotoiseコータス",
+    "french": "Chartor",
+    "german": "Qurtel",
+    "korean": "코터스"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Coal Pokémon",
+  "heightM": 0.5,
+  "weightKg": 80.4,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "White Smoke",
+      "description": "Torkoal's Stats cannot be lowered by opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "spAttack": 85,
+    "spDefense": 70,
+    "speed": 20,
+    "total": 470
+  },
+  "evolutionChain": [
+    "torkoal"
+  ],
+  "flavorText": {
+    "ruby": "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat.",
+    "sapphire": "TORKOAL generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this POKéMON burns more coal.",
+    "emerald": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.",
+    "firered": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
+    "leafgreen": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees."
+  },
+  "locations": {
+    "ruby": "Fiery Path",
+    "sapphire": "Fiery Path",
+    "emerald": "Fiery Path, Magma Hideout",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 4,
+        "move": "Smog"
+      },
+      {
+        "level": 7,
+        "move": "Curse"
+      },
+      {
+        "level": 14,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 17,
+        "move": "Fire Spin"
+      },
+      {
+        "level": 20,
+        "move": "Body Slam"
+      },
+      {
+        "level": 27,
+        "move": "Protect"
+      },
+      {
+        "level": 30,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 33,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 40,
+        "move": "Amnesia"
+      },
+      {
+        "level": 43,
+        "move": "Flail"
+      },
+      {
+        "level": 46,
+        "move": "Heat Wave"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/324.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.186Z"
+  }
+}

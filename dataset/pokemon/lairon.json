@@ -1,0 +1,233 @@
+{
+  "slug": "lairon",
+  "natdex": 305,
+  "name": "Lairon",
+  "names": {
+    "japan": "Kodoraコドラ",
+    "french": "Galegon",
+    "german": "Stollrak",
+    "korean": "갱도라"
+  },
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Iron Armor Pokémon",
+  "heightM": 0.9,
+  "weightKg": 120,
+  "captureRate": 90,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Lairon Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Rock Head: Lairon Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 40,
+    "total": 430
+  },
+  "evolutionChain": [
+    "aron",
+    "lairon",
+    "aggron"
+  ],
+  "flavorText": {
+    "ruby": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POKéMON makes its nest close to springs of delicious water.",
+    "sapphire": "LAIRON feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the POKéMON often clashes with humans mining the iron ore.",
+    "emerald": "When two LAIRON meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.",
+    "firered": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
+    "leafgreen": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders."
+  },
+  "locations": {
+    "ruby": "Victory Road Floor 1 & Basements 1 & 2",
+    "sapphire": "Victory Road Floor 1 & Basements 1 & 2",
+    "emerald": "Victory Road Floor 1 & Basements 1 & 2",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Aron"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Mud-slap"
+      },
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 4,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 10,
+        "move": "Headbutt"
+      },
+      {
+        "level": 13,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 17,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 21,
+        "move": "Roar"
+      },
+      {
+        "level": 25,
+        "move": "Take Down"
+      },
+      {
+        "level": 29,
+        "move": "Iron Tail"
+      },
+      {
+        "level": 37,
+        "move": "Protect"
+      },
+      {
+        "level": 45,
+        "move": "Metal Sound"
+      },
+      {
+        "level": 53,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/305.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.064Z"
+  }
+}

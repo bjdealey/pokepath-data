@@ -1,0 +1,212 @@
+{
+  "slug": "steelix",
+  "natdex": 208,
+  "name": "Steelix",
+  "names": {
+    "japan": "Haganeilハガネール",
+    "french": "Steelix",
+    "german": "Stahlos",
+    "korean": "강철톤"
+  },
+  "types": [
+    "steel",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Iron Snake Pokémon",
+  "heightM": 9.2,
+  "weightKg": 400,
+  "captureRate": 25,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Steelix Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Rock Head: Steelix Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "spAttack": 55,
+    "spDefense": 65,
+    "speed": 30,
+    "total": 510
+  },
+  "evolutionChain": [
+    "onix",
+    "steelix"
+  ],
+  "flavorText": {
+    "ruby": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth's core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
+    "sapphire": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth's core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
+    "emerald": "STEELIX live even further underground than ONIX. This POKéMON is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.",
+    "firered": "It is said that if an ONIX lives for over 100 years, its composition changes to become diamond-like.",
+    "leafgreen": "Its body has been compressed deep under the ground. As a result, it is even harder than diamond."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Onix",
+    "leafgreen": "Evolve Onix",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Screech"
+      },
+      {
+        "level": 9,
+        "move": "Bind"
+      },
+      {
+        "level": 13,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 21,
+        "move": "Harden"
+      },
+      {
+        "level": 25,
+        "move": "Rage"
+      },
+      {
+        "level": 33,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 37,
+        "move": "Slam"
+      },
+      {
+        "level": 45,
+        "move": "Iron Tail"
+      },
+      {
+        "level": 49,
+        "move": "Crunch"
+      },
+      {
+        "level": 57,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/208.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.462Z"
+  }
+}

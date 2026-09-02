@@ -1,0 +1,79 @@
+{
+  "slug": "caterpie",
+  "natdex": 10,
+  "name": "Caterpie",
+  "names": {
+    "japan": "Caterpieキャタピー",
+    "french": "Chenipan",
+    "german": "Raupy",
+    "korean": "캐터피"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Worm Pokémon",
+  "heightM": 0.3,
+  "weightKg": 2.9,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust",
+      "description": "Prevents Caterpie from being hit by additional effects of moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "spAttack": 20,
+    "spDefense": 20,
+    "speed": 45,
+    "total": 195
+  },
+  "evolutionChain": [
+    "caterpie",
+    "metapod",
+    "butterfree"
+  ],
+  "flavorText": {
+    "ruby": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor.",
+    "sapphire": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor.",
+    "emerald": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
+    "firered": "It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.",
+    "leafgreen": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Viridian Forest, Route 25, Pattern Bush",
+    "leafgreen": "Viridian Forest, Route 25, Pattern Bush",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "String Shot"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/010.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.191Z"
+  }
+}

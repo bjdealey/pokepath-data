@@ -1,0 +1,237 @@
+{
+  "slug": "togetic",
+  "natdex": 176,
+  "name": "Togetic",
+  "names": {
+    "japan": "Togechickトゲチック",
+    "french": "Togetic",
+    "german": "Togetic",
+    "korean": "토게틱"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Happiness Pokémon",
+  "heightM": 0.6,
+  "weightKg": 3.2,
+  "captureRate": 75,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Flying",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Hustle",
+      "description": "Hustle: Togetic's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Serene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+    },
+    {
+      "name": "Serene Grace",
+      "description": "Hustle: Togetic's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Serene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 85,
+    "spAttack": 80,
+    "spDefense": 105,
+    "speed": 40,
+    "total": 405
+  },
+  "evolutionChain": [
+    "togepi",
+    "togetic"
+  ],
+  "flavorText": {
+    "ruby": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+    "sapphire": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+    "emerald": "It is said to be a POKéMON that brings good fortune. When it spots someone who is pure of heart, a TOGETIC appears and shares its happiness with that person.",
+    "firered": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+    "leafgreen": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "firered": "Evolve Togepi",
+    "leafgreen": "Evolve Togepi",
+    "colosseum": "Snagged from Fake Hero Fein in Outskirt Stand",
+    "xd": "Evolve Togepi"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Charm"
+      },
+      {
+        "level": 6,
+        "move": "Metronome"
+      },
+      {
+        "level": 11,
+        "move": "Sweet Kiss"
+      },
+      {
+        "level": 16,
+        "move": "Yawn"
+      },
+      {
+        "level": 21,
+        "move": "Encore"
+      },
+      {
+        "level": 26,
+        "move": "Follow Me"
+      },
+      {
+        "level": 31,
+        "move": "Wish"
+      },
+      {
+        "level": 36,
+        "move": "Safeguard"
+      },
+      {
+        "level": 41,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/176.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.269Z"
+  }
+}

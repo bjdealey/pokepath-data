@@ -1,0 +1,212 @@
+{
+  "slug": "lanturn",
+  "natdex": 171,
+  "name": "Lanturn",
+  "names": {
+    "japan": "Lanternランターン",
+    "french": "Lanturn",
+    "german": "Lanturn",
+    "korean": "랜턴"
+  },
+  "types": [
+    "water",
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Light Pokémon",
+  "heightM": 1.2,
+  "weightKg": 22.5,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Volt Absorb",
+      "description": "Volt Absorb: Lanturn is healed by up to 25% of Max HP when hit by Electric AttacksIlluminate: When Lanturn is in the first party slot, Wild Pokémon appearances are more frequent"
+    },
+    {
+      "name": "Illuminate",
+      "description": "Volt Absorb: Lanturn is healed by up to 25% of Max HP when hit by Electric AttacksIlluminate: When Lanturn is in the first party slot, Wild Pokémon appearances are more frequent"
+    }
+  ],
+  "baseStats": {
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "spAttack": 76,
+    "spDefense": 76,
+    "speed": 67,
+    "total": 460
+  },
+  "evolutionChain": [
+    "chinchou",
+    "lanturn"
+  ],
+  "flavorText": {
+    "ruby": "LANTURN is nicknamed \"the deep-sea star\" for its illuminated antenna. This POKéMON produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+    "sapphire": "LANTURN is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this POKéMON's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+    "emerald": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This POKéMON illuminates the inky darkness of deep seas.",
+    "firered": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+    "leafgreen": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles."
+  },
+  "locations": {
+    "ruby": "Evolve Chinchou",
+    "sapphire": "Evolve Chinchou",
+    "emerald": "Evolve Chinchou",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": null,
+        "move": "Supersonic"
+      },
+      {
+        "level": 5,
+        "move": "Supersonic"
+      },
+      {
+        "level": 13,
+        "move": "Flail"
+      },
+      {
+        "level": 17,
+        "move": "Water Gun"
+      },
+      {
+        "level": 25,
+        "move": "Spark"
+      },
+      {
+        "level": 32,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 43,
+        "move": "Take Down"
+      },
+      {
+        "level": 50,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 61,
+        "move": "Charge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/171.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.238Z"
+  }
+}

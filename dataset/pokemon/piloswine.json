@@ -1,0 +1,212 @@
+{
+  "slug": "piloswine",
+  "natdex": 221,
+  "name": "Piloswine",
+  "names": {
+    "japan": "Inomooイノムー",
+    "french": "Cochignon",
+    "german": "Keifel",
+    "korean": "메꾸리"
+  },
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Swine Pokémon",
+  "heightM": 1.1,
+  "weightKg": 55.8,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Piloswine from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 80,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 50,
+    "total": 450
+  },
+  "evolutionChain": [
+    "swinub",
+    "piloswine"
+  ],
+  "flavorText": {
+    "ruby": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
+    "sapphire": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
+    "emerald": "A PILOSWINE is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
+    "firered": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+    "leafgreen": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "firered": "Evolve Swinub",
+    "leafgreen": "Evolve Swinub",
+    "colosseum": "Snagged from Bodybuilder Lonia in The Under Subway",
+    "xd": "Evolve Swinub"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Horn Attack"
+      },
+      {
+        "level": null,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": null,
+        "move": "Powder Snow"
+      },
+      {
+        "level": null,
+        "move": "Endure"
+      },
+      {
+        "level": 10,
+        "move": "Powder Snow"
+      },
+      {
+        "level": 19,
+        "move": "Endure"
+      },
+      {
+        "level": 28,
+        "move": "Take Down"
+      },
+      {
+        "level": 33,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 42,
+        "move": "Mist"
+      },
+      {
+        "level": 56,
+        "move": "Blizzard"
+      },
+      {
+        "level": 70,
+        "move": "Amnesia"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/221.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.546Z"
+  }
+}

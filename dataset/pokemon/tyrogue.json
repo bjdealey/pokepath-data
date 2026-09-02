@@ -1,0 +1,147 @@
+{
+  "slug": "tyrogue",
+  "natdex": 236,
+  "name": "Tyrogue",
+  "names": {
+    "japan": "Balkieバルキー",
+    "french": "Debugant",
+    "german": "Rabauz",
+    "korean": "배루키"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Scuffle Pokémon",
+  "heightM": 0.7,
+  "weightKg": 21,
+  "captureRate": 75,
+  "baseEggSteps": 6400,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Tyrogue is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 35,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 35,
+    "total": 210
+  },
+  "evolutionChain": [
+    "tyrogue",
+    "hitmonchan",
+    "hitmonlee",
+    "hitmontop"
+  ],
+  "flavorText": {
+    "ruby": "TYROGUE becomes stressed out if it does not get to train every day. When raising this POKéMON, the TRAINER must establish and uphold various training methods.",
+    "sapphire": "TYROGUE becomes stressed out if it does not get to train every day. When raising this POKéMON, the TRAINER must establish and uphold various training methods.",
+    "emerald": "TYROGUE become stressed out if they do not get to train every day. When raising this POKéMON, the TRAINER must establish a regular training schedule.",
+    "firered": "Even though it is small, it can't be ignored because it will slug any handy target without warning.",
+    "leafgreen": "It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Breed Hitmonchan/Hitmonlee/Hitmontop",
+    "leafgreen": "Breed Hitmonchan/Hitmonlee/Hitmontop",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/236.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.635Z"
+  }
+}

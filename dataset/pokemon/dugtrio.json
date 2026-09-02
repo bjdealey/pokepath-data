@@ -1,0 +1,203 @@
+{
+  "slug": "dugtrio",
+  "natdex": 51,
+  "name": "Dugtrio",
+  "names": {
+    "japan": "Dugtrioダグトリオ",
+    "french": "Triopikeur",
+    "german": "Digdri",
+    "korean": "닥트리오"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mole Pokémon",
+  "heightM": 0.7,
+  "weightKg": 33.3,
+  "captureRate": 50,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Sand Veil: Increases Evasion in SandstormArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+    },
+    {
+      "name": "Arena Trap",
+      "description": "Sand Veil: Increases Evasion in SandstormArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 80,
+    "defense": 50,
+    "spAttack": 50,
+    "spDefense": 70,
+    "speed": 120,
+    "total": 405
+  },
+  "evolutionChain": [
+    "diglett",
+    "dugtrio"
+  ],
+  "flavorText": {
+    "ruby": "DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+    "sapphire": "DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+    "emerald": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
+    "firered": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+    "leafgreen": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Diglett Cave",
+    "leafgreen": "Diglett Cave",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Stron in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tri Attack"
+      },
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 5,
+        "move": "Growl"
+      },
+      {
+        "level": 9,
+        "move": "Magnitude"
+      },
+      {
+        "level": 17,
+        "move": "Dig"
+      },
+      {
+        "level": 25,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 26,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 38,
+        "move": "Slash"
+      },
+      {
+        "level": 51,
+        "move": "Earthquake"
+      },
+      {
+        "level": 64,
+        "move": "Fissure"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/051.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.443Z"
+  }
+}

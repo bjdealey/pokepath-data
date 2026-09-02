@@ -1,0 +1,200 @@
+{
+  "slug": "electrode",
+  "natdex": 101,
+  "name": "Electrode",
+  "names": {
+    "japan": "Marumineマルマイン",
+    "french": "Électrode",
+    "german": "Lektrobal",
+    "korean": "붐볼"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Ball Pokémon",
+  "heightM": 1.2,
+  "weightKg": 66.6,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof",
+      "description": "Soundproof: Electrode is unaffected by Sound movesStatic: When a Pokémon makes contact with Electrode, it has a 30% chance of being Paralyzed"
+    },
+    {
+      "name": "Static",
+      "description": "Soundproof: Electrode is unaffected by Sound movesStatic: When a Pokémon makes contact with Electrode, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 140,
+    "total": 480
+  },
+  "evolutionChain": [
+    "voltorb",
+    "electrode"
+  ],
+  "flavorText": {
+    "ruby": "ELECTRODE eats electricity in the atmosphere. On days when lightning strikes, you can see this POKéMON exploding all over the place from eating too much electricity.",
+    "sapphire": "One of ELECTRODE's characteristics is its attraction to electricity. It is a problematical POKéMON that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+    "emerald": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+    "firered": "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+    "leafgreen": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
+  },
+  "locations": {
+    "ruby": "New Mauville Basement",
+    "sapphire": "New Mauville Basement",
+    "emerald": "New Mauville Basement",
+    "firered": "Cerulean Cave Floors 1 & 2 & Basement 1",
+    "leafgreen": "Cerulean Cave Floors 1 & 2 & Basement 1",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Evolve Voltorb"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Charge"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Screech"
+      },
+      {
+        "level": null,
+        "move": "Sonicboom"
+      },
+      {
+        "level": 8,
+        "move": "Screech"
+      },
+      {
+        "level": 15,
+        "move": "Sonicboom"
+      },
+      {
+        "level": 21,
+        "move": "Spark"
+      },
+      {
+        "level": 27,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 34,
+        "move": "Rollout"
+      },
+      {
+        "level": 41,
+        "move": "Light Screen"
+      },
+      {
+        "level": 48,
+        "move": "Swift"
+      },
+      {
+        "level": 54,
+        "move": "Explosion"
+      },
+      {
+        "level": 59,
+        "move": "Mirror Coat"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/101.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.800Z"
+  }
+}

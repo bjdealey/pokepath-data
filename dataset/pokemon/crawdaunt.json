@@ -1,0 +1,245 @@
+{
+  "slug": "crawdaunt",
+  "natdex": 342,
+  "name": "Crawdaunt",
+  "names": {
+    "japan": "Shizarigerシザリガー",
+    "french": "Colhomard",
+    "german": "Krebutack",
+    "korean": "가재장군"
+  },
+  "types": [
+    "water",
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Rogue Pokémon",
+  "heightM": 1.1,
+  "weightKg": 32.8,
+  "captureRate": 155,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter",
+      "description": "Hyper Cutter: Crawdaunt's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Shell Armor",
+      "description": "Hyper Cutter: Crawdaunt's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "spAttack": 90,
+    "spDefense": 55,
+    "speed": 55,
+    "total": 468
+  },
+  "evolutionChain": [
+    "corphish",
+    "crawdaunt"
+  ],
+  "flavorText": {
+    "ruby": "CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this POKéMON, making them desolate places.",
+    "sapphire": "CRAWDAUNT molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this POKéMON hides in its streambed burrow to avoid attack from its foes.",
+    "emerald": "A brutish POKéMON that loves to battle. A veteran CRAWDAUNT that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
+    "firered": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+    "leafgreen": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise."
+  },
+  "locations": {
+    "ruby": "Evolve Corphish",
+    "sapphire": "Evolve Corphish",
+    "emerald": "Evolve Corphish",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Vicegrip"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      },
+      {
+        "level": 10,
+        "move": "Vicegrip"
+      },
+      {
+        "level": 13,
+        "move": "Leer"
+      },
+      {
+        "level": 20,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 23,
+        "move": "Protect"
+      },
+      {
+        "level": 26,
+        "move": "Knock Off"
+      },
+      {
+        "level": 34,
+        "move": "Taunt"
+      },
+      {
+        "level": 39,
+        "move": "Crabhammer"
+      },
+      {
+        "level": 44,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 52,
+        "move": "Guillotine"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/342.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.297Z"
+  }
+}

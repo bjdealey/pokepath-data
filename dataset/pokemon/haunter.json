@@ -1,0 +1,205 @@
+{
+  "slug": "haunter",
+  "natdex": 93,
+  "name": "Haunter",
+  "names": {
+    "japan": "Ghostゴースト",
+    "french": "Spectrum",
+    "german": "Alpollo",
+    "korean": "고우스트"
+  },
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Gas Pokémon",
+  "heightM": 1.6,
+  "weightKg": 0.1,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Haunter"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "spAttack": 115,
+    "spDefense": 55,
+    "speed": 95,
+    "total": 405
+  },
+  "evolutionChain": [
+    "gastly",
+    "haunter",
+    "gengar"
+  ],
+  "flavorText": {
+    "ruby": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
+    "sapphire": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
+    "emerald": "If a HAUNTER beckons you while it is floating in darkness, don't approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
+    "firered": "If you get the feeling of being watched in darkness when nobody is around, HAUNTER is there.",
+    "leafgreen": "Because of its ability to slip through block walls, it is said to be from another dimension."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7",
+    "leafgreen": "Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": null,
+        "move": "Spite"
+      },
+      {
+        "level": 8,
+        "move": "Spite"
+      },
+      {
+        "level": 13,
+        "move": "Mean Look"
+      },
+      {
+        "level": 16,
+        "move": "Curse"
+      },
+      {
+        "level": 21,
+        "move": "Night Shade"
+      },
+      {
+        "level": 25,
+        "move": "Shadow Punch"
+      },
+      {
+        "level": 31,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 39,
+        "move": "Dream Eater"
+      },
+      {
+        "level": 48,
+        "move": "Destiny Bond"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/093.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.751Z"
+  }
+}

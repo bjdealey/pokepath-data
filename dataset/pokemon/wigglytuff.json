@@ -1,0 +1,220 @@
+{
+  "slug": "wigglytuff",
+  "natdex": 40,
+  "name": "Wigglytuff",
+  "names": {
+    "japan": "Pukurinプクリン",
+    "french": "Grodoudou",
+    "german": "Knuddeluff",
+    "korean": "푸크린"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Balloon Pokémon",
+  "heightM": 1,
+  "weightKg": 12,
+  "captureRate": 50,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm",
+      "description": "When a Pokémon makes contact with Wigglytuff, it has a 30% chance of being Infatuated (if of opposite gender"
+    }
+  ],
+  "baseStats": {
+    "hp": 140,
+    "attack": 70,
+    "defense": 45,
+    "spAttack": 75,
+    "spDefense": 50,
+    "speed": 45,
+    "total": 425
+  },
+  "evolutionChain": [
+    "igglybuff",
+    "jigglypuff",
+    "wigglytuff"
+  ],
+  "flavorText": {
+    "ruby": "WIGGLYTUFF has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this POKéMON's eyes, it is quickly washed away.",
+    "sapphire": "WIGGLYTUFF's body is very flexible. By inhaling deeply, this POKéMON can inflate itself seemingly without end. Once inflated, WIGGLYTUFF bounces along lightly like a balloon.",
+    "emerald": "Its fur is the ultimate in luxuriousness. Sleeping alongside a WIGGLYTUFF is simply divine. Its body expands seemingly without end when it inhales.",
+    "firered": "Its fur is extremely fine, dense, and supple. The exquisitely pleasant fur conveys an image of luxury.",
+    "leafgreen": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+  },
+  "locations": {
+    "ruby": "Evolve Jigglypuff",
+    "sapphire": "Evolve Jigglypuff",
+    "emerald": "Evolve Jigglypuff",
+    "firered": "Evolve Jigglypuff",
+    "leafgreen": "Evolve Jigglypuff",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Sing"
+      },
+      {
+        "level": null,
+        "move": "Disable"
+      },
+      {
+        "level": null,
+        "move": "Defense Curl"
+      },
+      {
+        "level": null,
+        "move": "Doubleslap"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/040.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.376Z"
+  }
+}

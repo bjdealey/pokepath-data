@@ -1,0 +1,208 @@
+{
+  "slug": "deoxys",
+  "natdex": 386,
+  "name": "Deoxys",
+  "names": {
+    "japan": "Deoxysデオキシス",
+    "french": "Deoxys",
+    "german": "Deoxys",
+    "korean": "테오키스"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "DNA Pokémon",
+  "heightM": 1.7,
+  "weightKg": 60.8,
+  "captureRate": 3,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The opponent uses 2 PP when it uses an attack against Deoxys."
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "spAttack": 150,
+    "spDefense": 50,
+    "speed": 150,
+    "total": 600
+  },
+  "evolutionChain": [
+    "deoxys"
+  ],
+  "flavorText": {
+    "ruby": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in DEOXYS. The crystalline organ on this POKéMON's chest appears to be its brain.",
+    "sapphire": "DEOXYS emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This POKéMON shoots lasers from the crystalline organ on its chest.",
+    "emerald": "A POKéMON that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed.",
+    "firered": "This DEOXYS has transformed into its aggressive guise. It can fool enemies by altering its appearance.",
+    "leafgreen": "When it changes form, an aurora appears. It absorbs attacks by altering its cellular structure."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Emerald",
+    "sapphire": "Trade from FireRed/LeafGreen/Emerald",
+    "emerald": "Birth Island",
+    "firered": "Birth Island",
+    "leafgreen": "Birth Island",
+    "colosseum": "Trade from FireRed/LeafGreen/Emerald",
+    "xd": "Trade from Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/386.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.649Z"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "dunsparce",
+  "natdex": 206,
+  "name": "Dunsparce",
+  "names": {
+    "japan": "Nokocchiノコッチ",
+    "french": "Insolourdo",
+    "german": "Dummisel",
+    "korean": "노고치"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Land Snake Pokémon",
+  "heightM": 1.5,
+  "weightKg": 14,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Serene Grace",
+      "description": "Serene Grace: If a move has an extra effect, the chances of it occuring is doubledRun Away: Dunsparce can escape from Wild Battles"
+    },
+    {
+      "name": "Run Away",
+      "description": "Serene Grace: If a move has an extra effect, the chances of it occuring is doubledRun Away: Dunsparce can escape from Wild Battles"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 70,
+    "defense": 70,
+    "spAttack": 65,
+    "spDefense": 65,
+    "speed": 45,
+    "total": 415
+  },
+  "evolutionChain": [
+    "dunsparce"
+  ],
+  "flavorText": {
+    "ruby": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
+    "sapphire": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
+    "emerald": "Its drill-tipped tail is used to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
+    "firered": "If spotted, it escapes by burrowing with its tail. It can hover just slightly using its wings.",
+    "leafgreen": "When spotted, this POKéMON escapes backward by furiously boring into the ground with its tail."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum",
+    "firered": "Three Isle Port",
+    "leafgreen": "Three Isle Port",
+    "colosseum": "Snagged from Rider Sosh in Pyrite Cave",
+    "xd": "Trade from FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": 4,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 11,
+        "move": "Yawn"
+      },
+      {
+        "level": 14,
+        "move": "Glare"
+      },
+      {
+        "level": 21,
+        "move": "Spite"
+      },
+      {
+        "level": 24,
+        "move": "Pursuit"
+      },
+      {
+        "level": 31,
+        "move": "Screech"
+      },
+      {
+        "level": 34,
+        "move": "Take Down"
+      },
+      {
+        "level": 41,
+        "move": "Endeavor"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/206.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.449Z"
+  }
+}

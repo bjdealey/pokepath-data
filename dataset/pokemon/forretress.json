@@ -1,0 +1,196 @@
+{
+  "slug": "forretress",
+  "natdex": 205,
+  "name": "Forretress",
+  "names": {
+    "japan": "Foretosフォレトス",
+    "french": "Foretress",
+    "german": "Forstellka",
+    "korean": "쏘콘"
+  },
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bagworm Pokémon",
+  "heightM": 1.2,
+  "weightKg": 125.8,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy",
+      "description": "One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 40,
+    "total": 465
+  },
+  "evolutionChain": [
+    "pineco",
+    "forretress"
+  ],
+  "flavorText": {
+    "ruby": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+    "sapphire": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
+    "emerald": "It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.",
+    "firered": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+    "leafgreen": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Pineco",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Cipher Peon Vana in Cipher Lab",
+    "xd": "Evolve Pineco"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Protect"
+      },
+      {
+        "level": null,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 8,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 15,
+        "move": "Take Down"
+      },
+      {
+        "level": 22,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 29,
+        "move": "Bide"
+      },
+      {
+        "level": 39,
+        "move": "Explosion"
+      },
+      {
+        "level": 49,
+        "move": "Spikes"
+      },
+      {
+        "level": 59,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/205.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.444Z"
+  }
+}

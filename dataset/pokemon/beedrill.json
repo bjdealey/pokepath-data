@@ -1,0 +1,189 @@
+{
+  "slug": "beedrill",
+  "natdex": 15,
+  "name": "Beedrill",
+  "names": {
+    "japan": "Spearスピアー",
+    "french": "Dardargnan",
+    "german": "Bibor",
+    "korean": "독침붕"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Poison Bee Pokémon",
+  "heightM": 1,
+  "weightKg": 29.5,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "When Beedrill's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 40,
+    "spAttack": 45,
+    "spDefense": 80,
+    "speed": 75,
+    "total": 385
+  },
+  "evolutionChain": [
+    "weedle",
+    "kakuna",
+    "beedrill"
+  ],
+  "flavorText": {
+    "ruby": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+    "sapphire": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+    "emerald": "A BEEDRILL is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+    "firered": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+    "leafgreen": "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Kakuna",
+    "leafgreen": "Evolve Kakuna",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Lok in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 10,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 15,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 20,
+        "move": "Twineedle"
+      },
+      {
+        "level": 25,
+        "move": "Rage"
+      },
+      {
+        "level": 30,
+        "move": "Pursuit"
+      },
+      {
+        "level": 35,
+        "move": "Pin Missile"
+      },
+      {
+        "level": 40,
+        "move": "Agility"
+      },
+      {
+        "level": 45,
+        "move": "Endeavor"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/015.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.218Z"
+  }
+}

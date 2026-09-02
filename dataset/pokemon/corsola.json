@@ -1,0 +1,232 @@
+{
+  "slug": "corsola",
+  "natdex": 222,
+  "name": "Corsola",
+  "names": {
+    "japan": "Sunnygoサニーゴ",
+    "french": "Corayon",
+    "german": "Corasonn",
+    "korean": "코산호"
+  },
+  "types": [
+    "water",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Coral Pokémon",
+  "heightM": 0.6,
+  "weightKg": 5,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Hustle",
+      "description": "Hustle: Corsola's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Natural Cure: Status Conditions are healed when withdrawn from Battle"
+    },
+    {
+      "name": "Natural Cure",
+      "description": "Hustle: Corsola's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Natural Cure: Status Conditions are healed when withdrawn from Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 85,
+    "spAttack": 65,
+    "spDefense": 85,
+    "speed": 35,
+    "total": 380
+  },
+  "evolutionChain": [
+    "corsola"
+  ],
+  "flavorText": {
+    "ruby": "CORSOLA's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this POKéMON grows it back in just one night.",
+    "sapphire": "Clusters of CORSOLA congregate in warm seas where they serve as ideal hiding places for smaller POKéMON. When the water temperature falls, this POKéMON migrates to the southern seas.",
+    "emerald": "CORSOLA live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
+    "firered": "In a south sea nation, the people live in communities that are built on groups of these POKéMON.",
+    "leafgreen": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty."
+  },
+  "locations": {
+    "ruby": "Route 128 & EverGrande City (Fish)",
+    "sapphire": "Route 128 & EverGrande City (Fish)",
+    "emerald": "Route 128 & EverGrande City (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 6,
+        "move": "Harden"
+      },
+      {
+        "level": 12,
+        "move": "Bubble"
+      },
+      {
+        "level": 17,
+        "move": "Recover"
+      },
+      {
+        "level": 17,
+        "move": "Refresh"
+      },
+      {
+        "level": 23,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 28,
+        "move": "Spike Cannon"
+      },
+      {
+        "level": 34,
+        "move": "Rock Blast"
+      },
+      {
+        "level": 39,
+        "move": "Mirror Coat"
+      },
+      {
+        "level": 45,
+        "move": "Ancientpower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/222.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.554Z"
+  }
+}

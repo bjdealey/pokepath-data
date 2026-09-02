@@ -1,0 +1,193 @@
+{
+  "slug": "paras",
+  "natdex": 46,
+  "name": "Paras",
+  "names": {
+    "japan": "Parasパラス",
+    "french": "Paras",
+    "german": "Paras",
+    "korean": "파라스"
+  },
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mushroom Pokémon",
+  "heightM": 0.3,
+  "weightKg": 5.4,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Effect Spore",
+      "description": "When a Pokémon makes contact with Paras it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 70,
+    "defense": 55,
+    "spAttack": 45,
+    "spDefense": 55,
+    "speed": 25,
+    "total": 285
+  },
+  "evolutionChain": [
+    "paras",
+    "parasect"
+  ],
+  "flavorText": {
+    "ruby": "PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the BUG POKéMON host. They are highly valued as a medicine for extending life.",
+    "sapphire": "PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this BUG POKéMON host. They are highly valued as a medicine for extending life.",
+    "emerald": "A PARAS has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.",
+    "firered": "Growing out of the bug's back are mushrooms called tochukaso. The mushrooms grow with the bug host.",
+    "leafgreen": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Mt. Moon Floor 1 & Basements 1 & 2, Safari Zone Areas 1 & 2",
+    "leafgreen": "Mt. Moon Floor 1 & Basements 1 & 2, Safari Zone Areas 1 & 2",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Humah in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 7,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 13,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 19,
+        "move": "Leech Life"
+      },
+      {
+        "level": 25,
+        "move": "Spore"
+      },
+      {
+        "level": 31,
+        "move": "Slash"
+      },
+      {
+        "level": 37,
+        "move": "Growth"
+      },
+      {
+        "level": 43,
+        "move": "Giga Drain"
+      },
+      {
+        "level": 49,
+        "move": "Aromatherapy"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/046.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.412Z"
+  }
+}

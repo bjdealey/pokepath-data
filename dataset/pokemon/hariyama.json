@@ -1,0 +1,223 @@
+{
+  "slug": "hariyama",
+  "natdex": 297,
+  "name": "Hariyama",
+  "names": {
+    "japan": "Hariteyamaハリテヤマ",
+    "french": "Hariyama",
+    "german": "Hariyama",
+    "korean": "하리뭉"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Arm Thrust Pokémon",
+  "heightM": 2.3,
+  "weightKg": 253.8,
+  "captureRate": 200,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on Hariyama Guts: When Hariyama is inflicted with a status condition, it's attack is raised by 50%"
+    },
+    {
+      "name": "Guts",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on Hariyama Guts: When Hariyama is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "spAttack": 40,
+    "spDefense": 60,
+    "speed": 50,
+    "total": 474
+  },
+  "evolutionChain": [
+    "makuhita",
+    "hariyama"
+  ],
+  "flavorText": {
+    "ruby": "HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POKéMON's powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+    "sapphire": "HARIYAMA's thick body may appear fat, but it is actually a hunk of solid muscle. If this POKéMON bears down and tightens all its muscles, its body becomes as hard as a rock.",
+    "emerald": "It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.",
+    "firered": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+    "leafgreen": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch."
+  },
+  "locations": {
+    "ruby": "Victory Road Floor 1 & Basement 1",
+    "sapphire": "Victory Road Floor 1 & Basement 1",
+    "emerald": "Victory Road Floor 1 & Basement 1",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum/XD",
+    "colosseum": "Evolve Makuhita",
+    "xd": "Evolve Makuhita"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": null,
+        "move": "Arm Thrust"
+      },
+      {
+        "level": 4,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 10,
+        "move": "Arm Thrust"
+      },
+      {
+        "level": 13,
+        "move": "Vital Throw"
+      },
+      {
+        "level": 19,
+        "move": "Fake Out"
+      },
+      {
+        "level": 22,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 29,
+        "move": "Knock Off"
+      },
+      {
+        "level": 33,
+        "move": "Smellingsalt"
+      },
+      {
+        "level": 40,
+        "move": "Belly Drum"
+      },
+      {
+        "level": 44,
+        "move": "Endure"
+      },
+      {
+        "level": 51,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 55,
+        "move": "Reversal"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/297.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.016Z"
+  }
+}

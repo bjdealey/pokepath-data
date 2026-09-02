@@ -1,0 +1,212 @@
+{
+  "slug": "illumise",
+  "natdex": 314,
+  "name": "Illumise",
+  "names": {
+    "japan": "Illumiseイルミーゼ",
+    "french": "Lumivole",
+    "german": "Illumise",
+    "korean": "네오비트"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Firefly Pokémon",
+  "heightM": 0.6,
+  "weightKg": 17.7,
+  "captureRate": 150,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug",
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Illumise from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 47,
+    "defense": 55,
+    "spAttack": 73,
+    "spDefense": 75,
+    "speed": 85,
+    "total": 400
+  },
+  "evolutionChain": [
+    "volbeat",
+    "illumise"
+  ],
+  "flavorText": {
+    "ruby": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+    "sapphire": "ILLUMISE leads a flight of illuminated VOLBEAT to draw signs in the night sky. This POKéMON is said to earn greater respect from its peers by composing more complex designs in the sky.",
+    "emerald": "A nocturnal POKéMON that becomes active upon nightfall. It leads a VOLBEAT swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
+    "firered": "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates.",
+    "leafgreen": "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates."
+  },
+  "locations": {
+    "ruby": "Route 117",
+    "sapphire": "Route 117",
+    "emerald": "Route 117",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 9,
+        "move": "Charm"
+      },
+      {
+        "level": 13,
+        "move": "Moonlight"
+      },
+      {
+        "level": 17,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 21,
+        "move": "Wish"
+      },
+      {
+        "level": 25,
+        "move": "Encore"
+      },
+      {
+        "level": 29,
+        "move": "Flatter"
+      },
+      {
+        "level": 33,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 37,
+        "move": "Covet"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/314.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.120Z"
+  }
+}

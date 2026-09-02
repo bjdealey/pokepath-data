@@ -1,0 +1,209 @@
+{
+  "slug": "politoed",
+  "natdex": 186,
+  "name": "Politoed",
+  "names": {
+    "japan": "Nyorotonoニョロトノ",
+    "french": "Tarpaud",
+    "german": "Quaxo",
+    "korean": "왕구리"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Frog Pokémon",
+  "heightM": 1.1,
+  "weightKg": 33.9,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Politoed is healed by up to 25% of Max HP when hit by Water Attacks."
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Politoed is healed by up to 25% of Max HP when hit by Water Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "spAttack": 90,
+    "spDefense": 100,
+    "speed": 70,
+    "total": 500
+  },
+  "evolutionChain": [
+    "poliwag",
+    "poliwhirl",
+    "poliwrath",
+    "politoed"
+  ],
+  "flavorText": {
+    "ruby": "The curled hair on POLITOED's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
+    "sapphire": "The curled hair on POLITOED's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
+    "emerald": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
+    "firered": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+    "leafgreen": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Poliwhirl",
+    "leafgreen": "Evolve Poliwhirl",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Doubleslap"
+      },
+      {
+        "level": null,
+        "move": "Perish Song"
+      },
+      {
+        "level": 35,
+        "move": "Perish Song"
+      },
+      {
+        "level": 51,
+        "move": "Swagger"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/186.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.329Z"
+  }
+}

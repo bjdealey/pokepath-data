@@ -1,0 +1,244 @@
+{
+  "slug": "jigglypuff",
+  "natdex": 39,
+  "name": "Jigglypuff",
+  "names": {
+    "japan": "Purinプリン",
+    "french": "Rondoudou",
+    "german": "Pummeluff",
+    "korean": "푸린"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Balloon Pokémon",
+  "heightM": 0.5,
+  "weightKg": 5.5,
+  "captureRate": 170,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm",
+      "description": "When a Pokémon makes contact with Jigglypuff, it has a 30% chance of being Infatuated (if of opposite gender"
+    }
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "spAttack": 45,
+    "spDefense": 25,
+    "speed": 20,
+    "total": 270
+  },
+  "evolutionChain": [
+    "igglybuff",
+    "jigglypuff",
+    "wigglytuff"
+  ],
+  "flavorText": {
+    "ruby": "JIGGLYPUFF's vocal chords can freely adjust the wavelength of its voice. This POKéMON uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
+    "sapphire": "When this POKéMON sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, JIGGLYPUFF cannot breathe, endangering its life.",
+    "emerald": "Nothing can avoid falling asleep hearing a JIGGLYPUFF's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
+    "firered": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+    "leafgreen": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+  },
+  "locations": {
+    "ruby": "Route 115",
+    "sapphire": "Route 115",
+    "emerald": "Route 115",
+    "firered": "Route 3",
+    "leafgreen": "Route 3",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Sing"
+      },
+      {
+        "level": 4,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 9,
+        "move": "Pound"
+      },
+      {
+        "level": 14,
+        "move": "Disable"
+      },
+      {
+        "level": 19,
+        "move": "Rollout"
+      },
+      {
+        "level": 24,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 29,
+        "move": "Rest"
+      },
+      {
+        "level": 34,
+        "move": "Body Slam"
+      },
+      {
+        "level": 39,
+        "move": "Mimic"
+      },
+      {
+        "level": 44,
+        "move": "Hyper Voice"
+      },
+      {
+        "level": 49,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/039.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.371Z"
+  }
+}

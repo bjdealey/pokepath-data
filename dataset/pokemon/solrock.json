@@ -1,0 +1,212 @@
+{
+  "slug": "solrock",
+  "natdex": 338,
+  "name": "Solrock",
+  "names": {
+    "japan": "Solrockソルロック",
+    "french": "Solaroc",
+    "german": "Sonnfel",
+    "korean": "솔록"
+  },
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Meteorite Pokémon",
+  "heightM": 1.2,
+  "weightKg": 154,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Solrock"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 85,
+    "spAttack": 55,
+    "spDefense": 65,
+    "speed": 70,
+    "total": 440
+  },
+  "evolutionChain": [
+    "solrock"
+  ],
+  "flavorText": {
+    "ruby": "SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light.",
+    "sapphire": "Sunlight is the source of SOLROCK's power. It is said to possess the ability to read the emotions of others. This POKéMON gives off intense heat while rotating its body.",
+    "emerald": "Solar energy is the source of this POKéMON's power. On sunny days, groups of SOLROCK line up facing the sun and absorb its light.",
+    "firered": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+    "leafgreen": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking."
+  },
+  "locations": {
+    "ruby": "Meteor Falls (Cave & Surf)",
+    "sapphire": "Trade from Ruby/Emerald/XD",
+    "emerald": "Meteor Falls (Cave & Surf)",
+    "firered": "Trade from Ruby/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Emerald/XD",
+    "colosseum": "Trade from Ruby/Emerald/XD",
+    "xd": "Snagged from Cipher Admin Snattle in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Confusion"
+      },
+      {
+        "level": 13,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 19,
+        "move": "Fire Spin"
+      },
+      {
+        "level": 25,
+        "move": "Psywave"
+      },
+      {
+        "level": 31,
+        "move": "Cosmic Power"
+      },
+      {
+        "level": 37,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 43,
+        "move": "Solarbeam"
+      },
+      {
+        "level": 49,
+        "move": "Explosion"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/338.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.270Z"
+  }
+}

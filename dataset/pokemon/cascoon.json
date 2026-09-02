@@ -1,0 +1,81 @@
+{
+  "slug": "cascoon",
+  "natdex": 268,
+  "name": "Cascoon",
+  "names": {
+    "japan": "Mayuldマユルド",
+    "french": "Blindalys",
+    "german": "Panekon",
+    "korean": "카스쿤"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cocoon Pokémon",
+  "heightM": 0.7,
+  "weightKg": 11.5,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Cascoon has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "spAttack": 25,
+    "spDefense": 25,
+    "speed": 15,
+    "total": 205
+  },
+  "evolutionChain": [
+    "wurmple",
+    "silcoon",
+    "beautifly",
+    "cascoon",
+    "dustox"
+  ],
+  "flavorText": {
+    "ruby": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POKéMON prepares for its evolution inside the cocoon.",
+    "sapphire": "If it is attacked, CASCOON remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This POKéMON will also not forget the pain it endured.",
+    "emerald": "To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.",
+    "firered": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near.",
+    "leafgreen": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near."
+  },
+  "locations": {
+    "ruby": "Petalburg Woods",
+    "sapphire": "Petalburg Woods",
+    "emerald": "Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/268.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.836Z"
+  }
+}

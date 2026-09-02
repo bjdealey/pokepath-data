@@ -1,0 +1,211 @@
+{
+  "slug": "espeon",
+  "natdex": 196,
+  "name": "Espeon",
+  "names": {
+    "japan": "Eifieエーフィ",
+    "french": "Mentali",
+    "german": "Psiana",
+    "korean": "에브이"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Sun Pokémon",
+  "heightM": 0.9,
+  "weightKg": 26.5,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "When Espeon is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "spAttack": 130,
+    "spDefense": 95,
+    "speed": 110,
+    "total": 525
+  },
+  "evolutionChain": [
+    "eevee",
+    "jolteon",
+    "vaporeon",
+    "flareon",
+    "espeon",
+    "umbreon"
+  ],
+  "flavorText": {
+    "ruby": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
+    "sapphire": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
+    "emerald": "An ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said to have developed precognitive powers to protect its TRAINER from harm.",
+    "firered": "By reading air currents, it can predict things such as the weather or its foe's next move.",
+    "leafgreen": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions."
+  },
+  "locations": {
+    "ruby": "Trade from Colosseum/XD",
+    "sapphire": "Trade from Colosseum/XD",
+    "emerald": "Trade from Colosseum/XD",
+    "firered": "Trade from Colosseum/XD",
+    "leafgreen": "Trade from Colosseum/XD",
+    "colosseum": "Starter Pokémon",
+    "xd": "Evolve Eevee"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 8,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 16,
+        "move": "Confusion"
+      },
+      {
+        "level": 23,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 30,
+        "move": "Swift"
+      },
+      {
+        "level": 36,
+        "move": "Psybeam"
+      },
+      {
+        "level": 42,
+        "move": "Psych Up"
+      },
+      {
+        "level": 47,
+        "move": "Psychic"
+      },
+      {
+        "level": 52,
+        "move": "Morning Sun"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/196.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.393Z"
+  }
+}

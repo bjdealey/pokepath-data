@@ -1,0 +1,212 @@
+{
+  "slug": "meditite",
+  "natdex": 307,
+  "name": "Meditite",
+  "names": {
+    "japan": "Asananアサナン",
+    "french": "Méditikka",
+    "german": "Meditie",
+    "korean": "요가랑"
+  },
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Meditate Pokémon",
+  "heightM": 0.6,
+  "weightKg": 11.2,
+  "captureRate": 180,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Pure Power",
+      "description": "Meditite's Attack is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 55,
+    "spAttack": 40,
+    "spDefense": 55,
+    "speed": 60,
+    "total": 280
+  },
+  "evolutionChain": [
+    "meditite",
+    "medicham"
+  ],
+  "flavorText": {
+    "ruby": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POKéMON always loses its concentration and focus. As a result, its training never ends.",
+    "sapphire": "MEDITITE heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this POKéMON's training.",
+    "emerald": "It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.",
+    "firered": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+    "leafgreen": "It never skips its daily yoga training. It heightens its inner strength through meditation."
+  },
+  "locations": {
+    "ruby": "Mt. Pyre Grass, Victory Road Basement 1",
+    "sapphire": "Mt. Pyre Grass, Victory Road Basement 1",
+    "emerald": "Trade from Ruby/Sapphire/Colosseum/XD",
+    "firered": "Trade from Ruby/Sapphire/Colosseum/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Colosseum/XD",
+    "colosseum": "Snagged from Rider Twan in Pyrite Cave",
+    "xd": "Trade for Trapinch with Duking in Pyrite Town"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bide"
+      },
+      {
+        "level": 4,
+        "move": "Meditate"
+      },
+      {
+        "level": 9,
+        "move": "Confusion"
+      },
+      {
+        "level": 12,
+        "move": "Detect"
+      },
+      {
+        "level": 18,
+        "move": "Hidden Power"
+      },
+      {
+        "level": 22,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 28,
+        "move": "Calm Mind"
+      },
+      {
+        "level": 32,
+        "move": "Hi Jump Kick"
+      },
+      {
+        "level": 38,
+        "move": "Psych Up"
+      },
+      {
+        "level": 42,
+        "move": "Reversal"
+      },
+      {
+        "level": 48,
+        "move": "Recover"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/307.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.077Z"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "baltoy",
+  "natdex": 343,
+  "name": "Baltoy",
+  "names": {
+    "japan": "Yajilonヤジロン",
+    "french": "Balbuto",
+    "german": "Puppance",
+    "korean": "오뚝군"
+  },
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Clay Doll Pokémon",
+  "heightM": 0.5,
+  "weightKg": 21.5,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Baltoy"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "spAttack": 40,
+    "spDefense": 70,
+    "speed": 55,
+    "total": 300
+  },
+  "evolutionChain": [
+    "baltoy",
+    "claydol"
+  ],
+  "flavorText": {
+    "ruby": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POKéMON living among people were discovered in some ancient ruins.",
+    "sapphire": "As soon as it spots others of its kind, BALTOY congregates with them and then begins crying noisily in unison. This POKéMON sleeps while cleverly balancing itself on its one foot.",
+    "emerald": "A BALTOY moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.",
+    "firered": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
+    "leafgreen": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep."
+  },
+  "locations": {
+    "ruby": "Route 111 (Desert)",
+    "sapphire": "Route 111 (Desert)",
+    "emerald": "Route 111 (Desert)",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Browsix in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": 3,
+        "move": "Harden"
+      },
+      {
+        "level": 5,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 7,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 11,
+        "move": "Psybeam"
+      },
+      {
+        "level": 15,
+        "move": "Rock Tomb"
+      },
+      {
+        "level": 19,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 25,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 31,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 37,
+        "move": "Cosmic Power"
+      },
+      {
+        "level": 45,
+        "move": "Explosion"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/343.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.320Z"
+  }
+}

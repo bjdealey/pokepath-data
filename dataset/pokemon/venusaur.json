@@ -1,0 +1,218 @@
+{
+  "slug": "venusaur",
+  "natdex": 3,
+  "name": "Venusaur",
+  "names": {
+    "japan": "Fushigibanaフシギバナ",
+    "french": "Florizarre",
+    "german": "Bisaflor",
+    "korean": "이상해꽃"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Seed Pokémon",
+  "heightM": 2,
+  "weightKg": 100,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Venusaur's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "spAttack": 100,
+    "spDefense": 100,
+    "speed": 80,
+    "total": 525
+  },
+  "evolutionChain": [
+    "bulbasaur",
+    "ivysaur",
+    "venusaur"
+  ],
+  "flavorText": {
+    "ruby": "There is a large flower on VENUSAUR's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "sapphire": "There is a large flower on VENUSAUR's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "emerald": "VENUSAUR's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "firered": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+    "leafgreen": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Ivysaur",
+    "leafgreen": "Evolve Ivysaur",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Leech Seed"
+      },
+      {
+        "level": null,
+        "move": "Vine Whip"
+      },
+      {
+        "level": 4,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 10,
+        "move": "Vine Whip"
+      },
+      {
+        "level": 15,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 15,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 22,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 29,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 41,
+        "move": "Growth"
+      },
+      {
+        "level": 53,
+        "move": "Synthesis"
+      },
+      {
+        "level": 65,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/003.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.131Z"
+  }
+}

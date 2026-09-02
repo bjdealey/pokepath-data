@@ -1,0 +1,200 @@
+{
+  "slug": "tentacool",
+  "natdex": 72,
+  "name": "Tentacool",
+  "names": {
+    "japan": "Menokurageメノクラゲ",
+    "french": "Tentacool",
+    "german": "Tentacha",
+    "korean": "왕눈해"
+  },
+  "types": [
+    "water",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Jellyfish Pokémon",
+  "heightM": 0.9,
+  "weightKg": 45.5,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "description": "Clear Body: Opponent's Moves that Lower Stats will not work on TentacoolLiquid Ooze: If the Opponent absorbs HP from Tentacool, the Opponent Loses that amount of HP"
+    },
+    {
+      "name": "Liquid Ooze",
+      "description": "Clear Body: Opponent's Moves that Lower Stats will not work on TentacoolLiquid Ooze: If the Opponent absorbs HP from Tentacool, the Opponent Loses that amount of HP"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "spAttack": 50,
+    "spDefense": 100,
+    "speed": 70,
+    "total": 335
+  },
+  "evolutionChain": [
+    "tentacool",
+    "tentacruel"
+  ],
+  "flavorText": {
+    "ruby": "TENTACOOL's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this POKéMON happens to become dehydrated, put it back into the sea.",
+    "sapphire": "TENTACOOL absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This POKéMON shoots beams from its crystal-like eyes.",
+    "emerald": "Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.",
+    "firered": "Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light.",
+    "leafgreen": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers."
+  },
+  "locations": {
+    "ruby": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134. Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City, Seafloor Cavern, Shoal Cave (Surf & Fish)",
+    "sapphire": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134. Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City, Seafloor Cavern, Shoal Cave (Surf & Fish)",
+    "emerald": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134. Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City, Seafloor Cavern, Shoal Cave (Surf & Fish)",
+    "firered": "Bond Bridge, Berry Forest, Route 21, Route 20, Route 19, Memorial Pillar, Five Isle Meadow, Water Labyrinth, Resort Gorgeous, Fortune Island, Icefall Cave, Tanoby Ruins, Trainer Tower, Route 12, Route 13, Route 14, Route 11, Route 10, Route 4, Celadon City, Route 24, Vermillion City, Treasure Beach, Kindle Road, Mt. Ember",
+    "leafgreen": "Bond Bridge, Berry Forest, Route 21, Route 20, Route 19, Memorial Pillar, Five Isle Meadow, Water Labyrinth, Resort Gorgeous, Fortune Island, Icefall Cave, Tanoby Ruins, Trainer Tower, Route 12, Route 13, Route 14, Route 11, Route 10, Route 4, Celadon City, Route 24, Vermillion City, Treasure Beach, Kindle Road, Mt. Ember",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 6,
+        "move": "Supersonic"
+      },
+      {
+        "level": 12,
+        "move": "Constrict"
+      },
+      {
+        "level": 19,
+        "move": "Acid"
+      },
+      {
+        "level": 25,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 30,
+        "move": "Wrap"
+      },
+      {
+        "level": 36,
+        "move": "Barrier"
+      },
+      {
+        "level": 43,
+        "move": "Screech"
+      },
+      {
+        "level": 49,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/072.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.612Z"
+  }
+}

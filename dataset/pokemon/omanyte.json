@@ -1,0 +1,205 @@
+{
+  "slug": "omanyte",
+  "natdex": 138,
+  "name": "Omanyte",
+  "names": {
+    "japan": "Omniteオムナイト",
+    "french": "Amonita",
+    "german": "Amonitas",
+    "korean": "암나이트"
+  },
+  "types": [
+    "rock",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Spiral Pokémon",
+  "heightM": 0.4,
+  "weightKg": 7.5,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Omanyte's Speed is DoubledShell Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Shell Armor",
+      "description": "Swift Swim: When Rain Dance is in effect, Omanyte's Speed is DoubledShell Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "spAttack": 90,
+    "spDefense": 55,
+    "speed": 35,
+    "total": 355
+  },
+  "evolutionChain": [
+    "omanyte",
+    "omastar"
+  ],
+  "flavorText": {
+    "ruby": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+    "sapphire": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+    "emerald": "One of the ancient and long-since-extinct POKéMON that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
+    "firered": "A prehistoric POKéMON that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+    "leafgreen": "Although long extinct, in rare cases, it can be genetically regenerated from fossils."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Revive From Helix Fossil",
+    "leafgreen": "Revive From Helix Fossil",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": null,
+        "move": "Withdraw"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 19,
+        "move": "Water Gun"
+      },
+      {
+        "level": 25,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 31,
+        "move": "Leer"
+      },
+      {
+        "level": 37,
+        "move": "Protect"
+      },
+      {
+        "level": 43,
+        "move": "Tickle"
+      },
+      {
+        "level": 49,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 55,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/138.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.029Z"
+  }
+}

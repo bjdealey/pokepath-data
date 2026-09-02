@@ -1,0 +1,197 @@
+{
+  "slug": "hitmontop",
+  "natdex": 237,
+  "name": "Hitmontop",
+  "names": {
+    "japan": "Kapoererカポエラー",
+    "french": "Kapoera",
+    "german": "Kapoera",
+    "korean": "카포에라"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Handstand Pokémon",
+  "heightM": 1.4,
+  "weightKg": 48,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Hitmontop's Entry in Battle, all opponent's Attack Stats are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "spAttack": 35,
+    "spDefense": 110,
+    "speed": 70,
+    "total": 455
+  },
+  "evolutionChain": [
+    "tyrogue",
+    "hitmonchan",
+    "hitmonlee",
+    "hitmontop"
+  ],
+  "flavorText": {
+    "ruby": "HITMONTOP spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The POKéMON travels faster spinning than it does walking.",
+    "sapphire": "HITMONTOP spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The POKéMON travels faster spinning than it does walking.",
+    "emerald": "Its technique of kicking while spinning is a remarkable mix of both offense and defense. HITMONTOP travel faster spinning than they do walking.",
+    "firered": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
+    "leafgreen": "If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard."
+  },
+  "locations": {
+    "ruby": "Trade from Colosseum",
+    "sapphire": "Trade from Colosseum",
+    "emerald": "Trade from Colosseum",
+    "firered": "Trade from Colosseum",
+    "leafgreen": "Trade from Colosseum",
+    "colosseum": "Snagged from Cipher Peon Skrub in Agate Bridge",
+    "xd": "Trade from Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Revenge"
+      },
+      {
+        "level": null,
+        "move": "Rolling Kick"
+      },
+      {
+        "level": 7,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 13,
+        "move": "Pursuit"
+      },
+      {
+        "level": 19,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 20,
+        "move": "Triple Kick"
+      },
+      {
+        "level": 25,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 31,
+        "move": "Counter"
+      },
+      {
+        "level": 37,
+        "move": "Agility"
+      },
+      {
+        "level": 43,
+        "move": "Detect"
+      },
+      {
+        "level": 49,
+        "move": "Endeavor"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/237.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.640Z"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "lileep",
+  "natdex": 345,
+  "name": "Lileep",
+  "names": {
+    "japan": "Lilylaリリーラ",
+    "french": "Lilia",
+    "german": "Liliep",
+    "korean": "릴링"
+  },
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Sea Lily Pokémon",
+  "heightM": 1,
+  "weightKg": 23.8,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Suction Cups",
+      "description": "Lileep cannot be forced out of battle by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "spAttack": 61,
+    "spDefense": 87,
+    "speed": 23,
+    "total": 355
+  },
+  "evolutionChain": [
+    "lileep",
+    "cradily"
+  ],
+  "flavorText": {
+    "ruby": "LILEEP became extinct approximately a hundred million years ago. This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+    "sapphire": "LILEEP is an ancient POKéMON that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this POKéMON intently scans for prey with its two eyes.",
+    "emerald": "It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.",
+    "firered": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.",
+    "leafgreen": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques."
+  },
+  "locations": {
+    "ruby": "Revive From Root Fossil",
+    "sapphire": "Revive From Root Fossil",
+    "emerald": "Revive From Root Fossil",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": 8,
+        "move": "Constrict"
+      },
+      {
+        "level": 15,
+        "move": "Acid"
+      },
+      {
+        "level": 22,
+        "move": "Ingrain"
+      },
+      {
+        "level": 29,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 36,
+        "move": "Amnesia"
+      },
+      {
+        "level": 43,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 50,
+        "move": "Stockpile"
+      },
+      {
+        "level": 50,
+        "move": "Spit Up"
+      },
+      {
+        "level": 50,
+        "move": "Swallow"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/345.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.341Z"
+  }
+}

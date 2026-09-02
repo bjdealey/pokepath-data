@@ -1,0 +1,213 @@
+{
+  "slug": "pelipper",
+  "natdex": 279,
+  "name": "Pelipper",
+  "names": {
+    "japan": "Pelipperペリッパー",
+    "french": "Bekipan",
+    "german": "Pelipper",
+    "korean": "패리퍼"
+  },
+  "types": [
+    "water",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Water Bird Pokémon",
+  "heightM": 1.2,
+  "weightKg": 28,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Pelipper's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 100,
+    "spAttack": 85,
+    "spDefense": 70,
+    "speed": 65,
+    "total": 430
+  },
+  "evolutionChain": [
+    "wingull",
+    "pelipper"
+  ],
+  "flavorText": {
+    "ruby": "PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea.",
+    "sapphire": "PELIPPER searches for food while in flight by skimming the wave tops. This POKéMON dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+    "emerald": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
+    "firered": "It is a flying transporter that carries small POKéMON in its beak. It bobs on the waves to rest its wings.",
+    "leafgreen": "It is a flying transporter that carries small POKéMON in its beak. It bobs on the waves to rest its wings."
+  },
+  "locations": {
+    "ruby": "Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog City, Slateport City (Surf)",
+    "sapphire": "Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog City, Slateport City (Surf)",
+    "emerald": "Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog City, Slateport City (Surf)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Water Sport"
+      },
+      {
+        "level": null,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 3,
+        "move": "Water Gun"
+      },
+      {
+        "level": 7,
+        "move": "Supersonic"
+      },
+      {
+        "level": 13,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 21,
+        "move": "Mist"
+      },
+      {
+        "level": 25,
+        "move": "Protect"
+      },
+      {
+        "level": 33,
+        "move": "Stockpile"
+      },
+      {
+        "level": 33,
+        "move": "Swallow"
+      },
+      {
+        "level": 47,
+        "move": "Spit Up"
+      },
+      {
+        "level": 61,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/279.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.901Z"
+  }
+}

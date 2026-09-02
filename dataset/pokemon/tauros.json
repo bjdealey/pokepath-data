@@ -1,0 +1,222 @@
+{
+  "slug": "tauros",
+  "natdex": 128,
+  "name": "Tauros",
+  "names": {
+    "japan": "Kentaurosケンタロス",
+    "french": "Tauros",
+    "german": "Tauros",
+    "korean": "켄타로스"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Wild Bull Pokémon",
+  "heightM": 1.4,
+  "weightKg": 88.4,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Tauros' Entry in Battle, all opponent's Attacks are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 95,
+    "spAttack": 40,
+    "spDefense": 70,
+    "speed": 110,
+    "total": 490
+  },
+  "evolutionChain": [
+    "tauros"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
+    "sapphire": "This POKéMON is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
+    "emerald": "It is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
+    "firered": "When it is about to TACKLE, it whips its body repeatedly with its three long tails.",
+    "leafgreen": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Safari Zone Areas 2 & 3",
+    "leafgreen": "Safari Zone Areas 2 & 3",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 4,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 8,
+        "move": "Rage"
+      },
+      {
+        "level": 13,
+        "move": "Horn Attack"
+      },
+      {
+        "level": 19,
+        "move": "Scary Face"
+      },
+      {
+        "level": 26,
+        "move": "Pursuit"
+      },
+      {
+        "level": 34,
+        "move": "Rest"
+      },
+      {
+        "level": 43,
+        "move": "Thrash"
+      },
+      {
+        "level": 53,
+        "move": "Take Down"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/128.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.973Z"
+  }
+}

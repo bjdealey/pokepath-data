@@ -1,0 +1,205 @@
+{
+  "slug": "parasect",
+  "natdex": 47,
+  "name": "Parasect",
+  "names": {
+    "japan": "Parasectパラセクト",
+    "french": "Parasect",
+    "german": "Parasek",
+    "korean": "파라섹트"
+  },
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mushroom Pokémon",
+  "heightM": 1,
+  "weightKg": 29.5,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Effect Spore",
+      "description": "When a Pokémon makes contact with Parasect it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "spAttack": 60,
+    "spDefense": 80,
+    "speed": 30,
+    "total": 405
+  },
+  "evolutionChain": [
+    "paras",
+    "parasect"
+  ],
+  "flavorText": {
+    "ruby": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+    "sapphire": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+    "emerald": "PARASECT are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
+    "firered": "It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.",
+    "leafgreen": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Cerulean Cave Floors 1, 2 & Basement 1, Safari Zone Area 1",
+    "leafgreen": "Cerulean Cave Floors 1, 2 & Basement 1, Safari Zone Area 1",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Paras"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Stun Spore"
+      },
+      {
+        "level": null,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 7,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 13,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 19,
+        "move": "Leech Life"
+      },
+      {
+        "level": 27,
+        "move": "Spore"
+      },
+      {
+        "level": 35,
+        "move": "Slash"
+      },
+      {
+        "level": 43,
+        "move": "Growth"
+      },
+      {
+        "level": 51,
+        "move": "Giga Drain"
+      },
+      {
+        "level": 59,
+        "move": "Aromatherapy"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/047.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.420Z"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "articuno",
+  "natdex": 144,
+  "name": "Articuno",
+  "names": {
+    "japan": "Freezerフリーザー",
+    "french": "Artikodin",
+    "german": "Arktos",
+    "korean": "프리져"
+  },
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Freeze Pokémon",
+  "heightM": 1.7,
+  "weightKg": 55.4,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Articuno use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "spAttack": 95,
+    "spDefense": 125,
+    "speed": 85,
+    "total": 580
+  },
+  "evolutionChain": [
+    "articuno"
+  ],
+  "flavorText": {
+    "ruby": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
+    "sapphire": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
+    "emerald": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
+    "firered": "One of the legendary bird POKéMON. With its long tail trailing behind, its flying form is magnificent.",
+    "leafgreen": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Seafoam Islands Floor 4",
+    "leafgreen": "Seafoam Islands Floor 4",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Gust"
+      },
+      {
+        "level": null,
+        "move": "Powder Snow"
+      },
+      {
+        "level": 13,
+        "move": "Mist"
+      },
+      {
+        "level": 25,
+        "move": "Agility"
+      },
+      {
+        "level": 37,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 49,
+        "move": "Ice Beam"
+      },
+      {
+        "level": 61,
+        "move": "Reflect"
+      },
+      {
+        "level": 73,
+        "move": "Blizzard"
+      },
+      {
+        "level": 85,
+        "move": "Sheer Cold"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/144.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.071Z"
+  }
+}

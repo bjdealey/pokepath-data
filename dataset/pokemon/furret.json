@@ -1,0 +1,243 @@
+{
+  "slug": "furret",
+  "natdex": 162,
+  "name": "Furret",
+  "names": {
+    "japan": "Ootachiオオタチ",
+    "french": "Fouinar",
+    "german": "Wiesenior",
+    "korean": "다꼬리"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Long Body Pokémon",
+  "heightM": 1.8,
+  "weightKg": 32.5,
+  "captureRate": 90,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Furret can escape from Wild BattlesKeen Eye: Furret's Accuracy cannot be Lowered by Opponent"
+    },
+    {
+      "name": "Keen Eye",
+      "description": "Run Away: Furret can escape from Wild BattlesKeen Eye: Furret's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 76,
+    "defense": 64,
+    "spAttack": 45,
+    "spDefense": 55,
+    "speed": 90,
+    "total": 415
+  },
+  "evolutionChain": [
+    "sentret",
+    "furret"
+  ],
+  "flavorText": {
+    "ruby": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
+    "sapphire": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
+    "emerald": "A FURRET has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
+    "firered": "There is no telling where its tail begins. Despite its short legs, it is quick at hunting RATTATA.",
+    "leafgreen": "It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum",
+    "firered": "Evolve Sentret",
+    "leafgreen": "Evolve Sentret",
+    "colosseum": "Snagged from Rogue Cail in Pyrite Town",
+    "xd": "Trade from FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Defense Curl"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 4,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 12,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 19,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 28,
+        "move": "Slam"
+      },
+      {
+        "level": 37,
+        "move": "Follow Me"
+      },
+      {
+        "level": 48,
+        "move": "Rest"
+      },
+      {
+        "level": 59,
+        "move": "Amnesia"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/162.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.183Z"
+  }
+}

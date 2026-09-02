@@ -33,9 +33,10 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 
 ## Status
 
-- ✅ `pokemon` — canonical + RSE-scoped facts (identity, i18n names, types,
-  stats, abilities, egg groups, evolution chain, per-game flavor/location,
-  level-up + TM/HM learnset), parsed from `/pokedex-rs/NNN.shtml`.
+- ✅ `pokemon` — **full national dex, #001–386 (386 species)**. Canonical +
+  RSE-scoped facts (identity, i18n names, types, stats, abilities, egg groups,
+  evolution chain, per-game flavor/location, level-up + TM/HM learnset), parsed
+  from `/pokedex-rs/NNN.shtml`.
 - ⏳ Next: `encounters` (per-game location pages — **not** modern `/pokearth/`,
   which is ORAS-only), `trainers`, `story`, then other generations.
 

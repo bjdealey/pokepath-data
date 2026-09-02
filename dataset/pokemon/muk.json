@@ -1,0 +1,235 @@
+{
+  "slug": "muk",
+  "natdex": 89,
+  "name": "Muk",
+  "names": {
+    "japan": "Betbetonベトベトン",
+    "french": "Grotadmorv",
+    "german": "Sleimok",
+    "korean": "질뻐기"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Sludge Pokémon",
+  "heightM": 1.2,
+  "weightKg": 30,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Stench",
+      "description": "Stench: When Muk is in the first slot of party, Wild Pokémon encounters decreaseSticky Hold: Muk's Item cannot be stolen"
+    },
+    {
+      "name": "Sticky Hold",
+      "description": "Stench: When Muk is in the first slot of party, Wild Pokémon encounters decreaseSticky Hold: Muk's Item cannot be stolen"
+    }
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "spAttack": 65,
+    "spDefense": 100,
+    "speed": 50,
+    "total": 500
+  },
+  "evolutionChain": [
+    "grimer",
+    "muk"
+  ],
+  "flavorText": {
+    "ruby": "From MUK's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this POKéMON's body fluid can turn a pool stagnant and rancid.",
+    "sapphire": "This POKéMON's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, MUK are certain to gather.",
+    "emerald": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making MUK reek like putrid kitchen garbage.",
+    "firered": "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.",
+    "leafgreen": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+  },
+  "locations": {
+    "ruby": "Evolve Grimer",
+    "sapphire": "Evolve Grimer",
+    "emerald": "Evolve Grimer",
+    "firered": "Evolve Grimer",
+    "leafgreen": "Pokémon Mansion Floors 1, 2, 3 & Basement 1",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Evolve Grimer"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Gas"
+      },
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 4,
+        "move": "Harden"
+      },
+      {
+        "level": 8,
+        "move": "Disable"
+      },
+      {
+        "level": 13,
+        "move": "Sludge"
+      },
+      {
+        "level": 19,
+        "move": "Minimize"
+      },
+      {
+        "level": 26,
+        "move": "Screech"
+      },
+      {
+        "level": 34,
+        "move": "Acid Armor"
+      },
+      {
+        "level": 47,
+        "move": "Sludge Bomb"
+      },
+      {
+        "level": 61,
+        "move": "Memento"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/089.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.728Z"
+  }
+}

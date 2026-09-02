@@ -1,0 +1,80 @@
+{
+  "slug": "weedle",
+  "natdex": 13,
+  "name": "Weedle",
+  "names": {
+    "japan": "Beedleビードル",
+    "french": "Aspicot",
+    "german": "Hornliu",
+    "korean": "뿔충이"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Hairy Pokémon",
+  "heightM": 0.3,
+  "weightKg": 3.2,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust",
+      "description": "Prevents Weedle from being hit by additional effects of moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "spAttack": 20,
+    "spDefense": 20,
+    "speed": 50,
+    "total": 195
+  },
+  "evolutionChain": [
+    "weedle",
+    "kakuna",
+    "beedrill"
+  ],
+  "flavorText": {
+    "ruby": "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+    "sapphire": "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+    "emerald": "A WEEDLE has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
+    "firered": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+    "leafgreen": "Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Viridian Forest, Route 25, Pattern Bush",
+    "leafgreen": "Viridian Forest, Route 25, Pattern Bush",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": null,
+        "move": "String Shot"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/013.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.208Z"
+  }
+}

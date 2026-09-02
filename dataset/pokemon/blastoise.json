@@ -1,0 +1,237 @@
+{
+  "slug": "blastoise",
+  "natdex": 9,
+  "name": "Blastoise",
+  "names": {
+    "japan": "Kamexカメックス",
+    "french": "Tortank",
+    "german": "Turtok",
+    "korean": "거북왕"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Turtle Pokémon",
+  "heightM": 1.6,
+  "weightKg": 85.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent",
+      "description": "When Blastoise's HP Gets Low, It's Water type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "spAttack": 85,
+    "spDefense": 105,
+    "speed": 78,
+    "total": 530
+  },
+  "evolutionChain": [
+    "squirtle",
+    "wartortle",
+    "blastoise"
+  ],
+  "flavorText": {
+    "ruby": "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "sapphire": "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+    "emerald": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+    "firered": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "leafgreen": "The pressurized water jets on this brutal POKéMON's shell are used for high-speed tackles."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Wartortle",
+    "leafgreen": "Evolve Wartortle",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Withdraw"
+      },
+      {
+        "level": 4,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 7,
+        "move": "Bubble"
+      },
+      {
+        "level": 10,
+        "move": "Withdraw"
+      },
+      {
+        "level": 13,
+        "move": "Water Gun"
+      },
+      {
+        "level": 19,
+        "move": "Bite"
+      },
+      {
+        "level": 25,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 31,
+        "move": "Protect"
+      },
+      {
+        "level": 42,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 55,
+        "move": "Skull Bash"
+      },
+      {
+        "level": 68,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/009.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.187Z"
+  }
+}

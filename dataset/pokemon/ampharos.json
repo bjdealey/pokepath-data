@@ -1,0 +1,201 @@
+{
+  "slug": "ampharos",
+  "natdex": 181,
+  "name": "Ampharos",
+  "names": {
+    "japan": "Denryuデンリュウ",
+    "french": "Pharamp",
+    "german": "Ampharos",
+    "korean": "전룡"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Light Pokémon",
+  "heightM": 1.4,
+  "weightKg": 61.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Ampharos, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "spAttack": 115,
+    "spDefense": 90,
+    "speed": 55,
+    "total": 500
+  },
+  "evolutionChain": [
+    "mareep",
+    "flaaffy",
+    "ampharos"
+  ],
+  "flavorText": {
+    "ruby": "AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this POKéMON to send signals back and forth with others far away.",
+    "sapphire": "AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this POKéMON to send signals back and forth with others far away.",
+    "emerald": "It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.",
+    "firered": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+    "leafgreen": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Flaaffy",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Evolve Flaaffy",
+    "xd": "Evolve Flaaffy"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": null,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 9,
+        "move": "Thundershock"
+      },
+      {
+        "level": 18,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 27,
+        "move": "Cotton Spore"
+      },
+      {
+        "level": 30,
+        "move": "Thunderpunch"
+      },
+      {
+        "level": 42,
+        "move": "Light Screen"
+      },
+      {
+        "level": 57,
+        "move": "Thunder"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/181.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.299Z"
+  }
+}

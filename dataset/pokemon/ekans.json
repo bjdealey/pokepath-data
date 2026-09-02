@@ -1,0 +1,204 @@
+{
+  "slug": "ekans",
+  "natdex": 23,
+  "name": "Ekans",
+  "names": {
+    "japan": "Arboアーボ",
+    "french": "Abo",
+    "german": "Rettan",
+    "korean": "아보"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Snake Pokémon",
+  "heightM": 2,
+  "weightKg": 6.9,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Shed Skin: Every Turn Ekans has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Ekans' Entry in Battle, all opponent's Attacks are lowered"
+    },
+    {
+      "name": "Intimidate",
+      "description": "Shed Skin: Every Turn Ekans has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Ekans' Entry in Battle, all opponent's Attacks are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "spAttack": 40,
+    "spDefense": 54,
+    "speed": 55,
+    "total": 288
+  },
+  "evolutionChain": [
+    "ekans",
+    "arbok"
+  ],
+  "flavorText": {
+    "ruby": "EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+    "sapphire": "EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+    "emerald": "An EKANS curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
+    "firered": "A very common sight in grassland, etc. It flicks its tongue in and out to sense danger in its surroundings.",
+    "leafgreen": "Moving silently and stealthily, it eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed",
+    "sapphire": "Trade from FireRed",
+    "emerald": "Trade from FireRed",
+    "firered": "Routes 4, 8, 9, 10, 11, 22 & 23",
+    "leafgreen": "Trade from FireRed",
+    "colosseum": "Trade from FireRed",
+    "xd": "Trade from FireRed"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 8,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 20,
+        "move": "Glare"
+      },
+      {
+        "level": 25,
+        "move": "Screech"
+      },
+      {
+        "level": 32,
+        "move": "Acid"
+      },
+      {
+        "level": 37,
+        "move": "Stockpile"
+      },
+      {
+        "level": 37,
+        "move": "Swallow"
+      },
+      {
+        "level": 37,
+        "move": "Spit Up"
+      },
+      {
+        "level": 44,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/023.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.268Z"
+  }
+}

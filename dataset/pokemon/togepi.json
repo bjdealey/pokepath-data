@@ -1,0 +1,209 @@
+{
+  "slug": "togepi",
+  "natdex": 175,
+  "name": "Togepi",
+  "names": {
+    "japan": "Togepyトゲピー",
+    "french": "Togepi",
+    "german": "Togepi",
+    "korean": "토게피"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Spike Ball Pokémon",
+  "heightM": 0.3,
+  "weightKg": 1.5,
+  "captureRate": 190,
+  "baseEggSteps": 2560,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Hustle",
+      "description": "Hustle: Togepi's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Serene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+    },
+    {
+      "name": "Serene Grace",
+      "description": "Hustle: Togepi's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Serene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 20,
+    "defense": 65,
+    "spAttack": 40,
+    "spDefense": 65,
+    "speed": 20,
+    "total": 245
+  },
+  "evolutionChain": [
+    "togepi",
+    "togetic"
+  ],
+  "flavorText": {
+    "ruby": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
+    "sapphire": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
+    "emerald": "As its energy, it uses the feelings of compassion and pleasure exuded by people and POKéMON. It stores up happy feelings in its shell, then shares them out.",
+    "firered": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
+    "leafgreen": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Egg Obtained on Water Path",
+    "leafgreen": "Egg Obtained on Water Path",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Recieved from Hordel"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Charm"
+      },
+      {
+        "level": 6,
+        "move": "Metronome"
+      },
+      {
+        "level": 11,
+        "move": "Sweet Kiss"
+      },
+      {
+        "level": 16,
+        "move": "Yawn"
+      },
+      {
+        "level": 21,
+        "move": "Encore"
+      },
+      {
+        "level": 26,
+        "move": "Follow Me"
+      },
+      {
+        "level": 31,
+        "move": "Wish"
+      },
+      {
+        "level": 36,
+        "move": "Safeguard"
+      },
+      {
+        "level": 41,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/175.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.263Z"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "magnemite",
+  "natdex": 81,
+  "name": "Magnemite",
+  "names": {
+    "japan": "Coilコイル",
+    "french": "Magnéti",
+    "german": "Magnetilo",
+    "korean": "코일"
+  },
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Magnet Pokémon",
+  "heightM": 0.3,
+  "weightKg": 6,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Magnet Pull",
+      "description": "Magnet Pull: Steel type Pokémon cannot escape from battleSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Magnet Pull: Steel type Pokémon cannot escape from battleSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "spAttack": 95,
+    "spDefense": 55,
+    "speed": 45,
+    "total": 325
+  },
+  "evolutionChain": [
+    "magnemite",
+    "magneton"
+  ],
+  "flavorText": {
+    "ruby": "MAGNEMITE attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this POKéMON clinging to the breaker box.",
+    "sapphire": "MAGNEMITE floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This POKéMON becomes incapable of flight if its internal electrical supply is depleted.",
+    "emerald": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
+    "firered": "It moves while constantly hovering. It discharges THUNDER WAVE and so on from the units at its sides.",
+    "leafgreen": "Uses antigravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
+  },
+  "locations": {
+    "ruby": "New Mauville",
+    "sapphire": "New Mauville",
+    "emerald": "New Mauville",
+    "firered": "Power Plant",
+    "leafgreen": "Power Plant",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Metal Sound"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 6,
+        "move": "Thundershock"
+      },
+      {
+        "level": 11,
+        "move": "Supersonic"
+      },
+      {
+        "level": 16,
+        "move": "Sonicboom"
+      },
+      {
+        "level": 21,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 26,
+        "move": "Spark"
+      },
+      {
+        "level": 32,
+        "move": "Lock-on"
+      },
+      {
+        "level": 38,
+        "move": "Swift"
+      },
+      {
+        "level": 44,
+        "move": "Screech"
+      },
+      {
+        "level": 50,
+        "move": "Zap Cannon"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/081.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.673Z"
+  }
+}

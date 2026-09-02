@@ -1,0 +1,231 @@
+{
+  "slug": "swalot",
+  "natdex": 317,
+  "name": "Swalot",
+  "names": {
+    "japan": "Marunoomマルノーム",
+    "french": "Avaltout",
+    "german": "Schlukwech",
+    "korean": "꿀꺽몬"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Poison Bag Pokémon",
+  "heightM": 1.7,
+  "weightKg": 80,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Liquid Ooze",
+      "description": "Liquid Ooze: If the Opponent absorbs HP from Swalot, the Opponent Loses that amount of HPSticky Hold: Swalot's Item cannot be stolen"
+    },
+    {
+      "name": "Sticky Hold",
+      "description": "Liquid Ooze: If the Opponent absorbs HP from Swalot, the Opponent Loses that amount of HPSticky Hold: Swalot's Item cannot be stolen"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 73,
+    "defense": 83,
+    "spAttack": 73,
+    "spDefense": 83,
+    "speed": 55,
+    "total": 467
+  },
+  "evolutionChain": [
+    "gulpin",
+    "swalot"
+  ],
+  "flavorText": {
+    "ruby": "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth.",
+    "sapphire": "SWALOT has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this POKéMON's mouth.",
+    "emerald": "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a SWALOT can't digest is its own stomach.",
+    "firered": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+    "leafgreen": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body."
+  },
+  "locations": {
+    "ruby": "Evolve Gulpin",
+    "sapphire": "Evolve Gulpin",
+    "emerald": "Evolve Gulpin",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Gulpin"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": null,
+        "move": "Poison Gas"
+      },
+      {
+        "level": null,
+        "move": "Sludge"
+      },
+      {
+        "level": 6,
+        "move": "Yawn"
+      },
+      {
+        "level": 9,
+        "move": "Poison Gas"
+      },
+      {
+        "level": 14,
+        "move": "Sludge"
+      },
+      {
+        "level": 17,
+        "move": "Amnesia"
+      },
+      {
+        "level": 23,
+        "move": "Encore"
+      },
+      {
+        "level": 26,
+        "move": "Body Slam"
+      },
+      {
+        "level": 31,
+        "move": "Toxic"
+      },
+      {
+        "level": 40,
+        "move": "Stockpile"
+      },
+      {
+        "level": 40,
+        "move": "Spit Up"
+      },
+      {
+        "level": 40,
+        "move": "Swallow"
+      },
+      {
+        "level": 48,
+        "move": "Sludge Bomb"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/317.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.142Z"
+  }
+}

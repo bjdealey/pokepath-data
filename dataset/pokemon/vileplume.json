@@ -1,0 +1,166 @@
+{
+  "slug": "vileplume",
+  "natdex": 45,
+  "name": "Vileplume",
+  "names": {
+    "japan": "Ruffresiaラフレシア",
+    "french": "Rafflesia",
+    "german": "Giflor",
+    "korean": "라플레시아"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Flower Pokémon",
+  "heightM": 1.2,
+  "weightKg": 18.6,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Vileplume's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "spAttack": 100,
+    "spDefense": 90,
+    "speed": 50,
+    "total": 480
+  },
+  "evolutionChain": [
+    "oddish",
+    "gloom",
+    "vileplume",
+    "bellossom"
+  ],
+  "flavorText": {
+    "ruby": "VILEPLUME's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
+    "sapphire": "VILEPLUME has the world's largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this POKéMON catches and devours them.",
+    "emerald": "In seasons when it produces more pollen, the air around a VILEPLUME turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.",
+    "firered": "Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals.",
+    "leafgreen": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+  },
+  "locations": {
+    "ruby": "Evolve Gloom",
+    "sapphire": "Evolve Gloom",
+    "emerald": "Evolve Gloom",
+    "firered": "Evolve Gloom",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": null,
+        "move": "Aromatherapy"
+      },
+      {
+        "level": null,
+        "move": "Stun Spore"
+      },
+      {
+        "level": null,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 44,
+        "move": "Petal Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/045.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.407Z"
+  }
+}

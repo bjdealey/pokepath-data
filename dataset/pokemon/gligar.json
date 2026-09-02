@@ -1,0 +1,203 @@
+{
+  "slug": "gligar",
+  "natdex": 207,
+  "name": "Gligar",
+  "names": {
+    "japan": "Gligerグライガー",
+    "french": "Scorplane",
+    "german": "Skorgla",
+    "korean": "글라이거"
+  },
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Flyscorpion Pokémon",
+  "heightM": 1.1,
+  "weightKg": 64.8,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Sand Veil: Increases Evasion in SandstormHyper Cutter: Gligar's Attack cannot be Lowered"
+    },
+    {
+      "name": "Hyper Cutter",
+      "description": "Sand Veil: Increases Evasion in SandstormHyper Cutter: Gligar's Attack cannot be Lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "spAttack": 35,
+    "spDefense": 65,
+    "speed": 85,
+    "total": 430
+  },
+  "evolutionChain": [
+    "gligar"
+  ],
+  "flavorText": {
+    "ruby": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+    "sapphire": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+    "emerald": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
+    "firered": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+    "leafgreen": "It flies straight at its target's face, then clamps down on the startled victim to inject poison."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Safari Zone Extention",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Hunter Frena in The Under Subway",
+    "xd": "RockGround PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 6,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 13,
+        "move": "Harden"
+      },
+      {
+        "level": 20,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 28,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 36,
+        "move": "Slash"
+      },
+      {
+        "level": 44,
+        "move": "Screech"
+      },
+      {
+        "level": 52,
+        "move": "Guillotine"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/207.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.457Z"
+  }
+}

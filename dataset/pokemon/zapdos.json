@@ -1,0 +1,194 @@
+{
+  "slug": "zapdos",
+  "natdex": 145,
+  "name": "Zapdos",
+  "names": {
+    "japan": "Thunderサンダー",
+    "french": "Électhor",
+    "german": "Zapdos",
+    "korean": "썬더"
+  },
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Electric Pokémon",
+  "heightM": 1.6,
+  "weightKg": 52.6,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Zapdos use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "spAttack": 125,
+    "spDefense": 90,
+    "speed": 100,
+    "total": 580
+  },
+  "evolutionChain": [
+    "zapdos"
+  ],
+  "flavorText": {
+    "ruby": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. The POKéMON gains power if it is stricken by lightning bolts.",
+    "sapphire": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. The POKéMON gains power if it is stricken by lightning bolts.",
+    "emerald": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.",
+    "firered": "One of the legendary bird POKéMON. While it is flying, it makes crackling and snapping sounds.",
+    "leafgreen": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Power Plant",
+    "leafgreen": "Power Plant",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": 13,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 25,
+        "move": "Agility"
+      },
+      {
+        "level": 37,
+        "move": "Detect"
+      },
+      {
+        "level": 49,
+        "move": "Drill Peck"
+      },
+      {
+        "level": 61,
+        "move": "Charge"
+      },
+      {
+        "level": 73,
+        "move": "Light Screen"
+      },
+      {
+        "level": 85,
+        "move": "Thunder"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/145.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.075Z"
+  }
+}

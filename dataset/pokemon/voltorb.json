@@ -1,0 +1,188 @@
+{
+  "slug": "voltorb",
+  "natdex": 100,
+  "name": "Voltorb",
+  "names": {
+    "japan": "Biriridamaビリリダマ",
+    "french": "Voltorbe",
+    "german": "Voltobal",
+    "korean": "찌리리공"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Ball Pokémon",
+  "heightM": 0.5,
+  "weightKg": 10.4,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof",
+      "description": "Soundproof: Voltorb is unaffected by Sound movesStatic: When a Pokémon makes contact with Voltorb, it has a 30% chance of being Paralyzed"
+    },
+    {
+      "name": "Static",
+      "description": "Soundproof: Voltorb is unaffected by Sound movesStatic: When a Pokémon makes contact with Voltorb, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 100,
+    "total": 330
+  },
+  "evolutionChain": [
+    "voltorb",
+    "electrode"
+  ],
+  "flavorText": {
+    "ruby": "VOLTORB was first sighted at a company that manufactures POKé BALLS. The link between that sighting and the fact that this POKéMON looks very similar to a POKé BALL remains a mystery.",
+    "sapphire": "VOLTORB is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a POKé BALL was exposed to a powerful pulse of energy.",
+    "emerald": "It bears an uncanny and unexplained resemblance to a POKé BALL. Because it explodes at the slightest shock, even veteran TRAINERS treat it with caution.",
+    "firered": "A life-form whose identity is unknown. It is said to SCREECH or suddenly SELFDESTRUCT.",
+    "leafgreen": "Usually found in power plants. Easily mistaken for a POKé BALL, it has zapped many people."
+  },
+  "locations": {
+    "ruby": "New Mauville",
+    "sapphire": "New Mauville",
+    "emerald": "New Mauville",
+    "firered": "Route 10, Power Plant",
+    "leafgreen": "Route 10, Power Plant",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Miror B in the Cave PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Charge"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 8,
+        "move": "Screech"
+      },
+      {
+        "level": 15,
+        "move": "Sonicboom"
+      },
+      {
+        "level": 21,
+        "move": "Spark"
+      },
+      {
+        "level": 27,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 32,
+        "move": "Rollout"
+      },
+      {
+        "level": 37,
+        "move": "Light Screen"
+      },
+      {
+        "level": 42,
+        "move": "Swift"
+      },
+      {
+        "level": 46,
+        "move": "Explosion"
+      },
+      {
+        "level": 49,
+        "move": "Mirror Coat"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/100.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.795Z"
+  }
+}

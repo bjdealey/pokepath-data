@@ -1,0 +1,96 @@
+{
+  "slug": "wynaut",
+  "natdex": 360,
+  "name": "Wynaut",
+  "names": {
+    "japan": "Sohnanoソーナノ",
+    "french": "Okéoké",
+    "german": "Isso",
+    "korean": "마자"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bright Pokémon",
+  "heightM": 0.6,
+  "weightKg": 14,
+  "captureRate": 125,
+  "baseEggSteps": 5120,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Shadow Tag",
+      "description": "The Opponent cannot Run or Switch"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "spAttack": 23,
+    "spDefense": 48,
+    "speed": 23,
+    "total": 260
+  },
+  "evolutionChain": [
+    "wynaut",
+    "wobbuffet"
+  ],
+  "flavorText": {
+    "ruby": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail.",
+    "sapphire": "WYNAUT gather on moonlit nights to play by squeezing up against each other. By being squeezed, this POKéMON gains endurance and is trained to dole out powerful counterattacks.",
+    "emerald": "A WYNAUT loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+    "firered": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "leafgreen": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave."
+  },
+  "locations": {
+    "ruby": "Mirage Island",
+    "sapphire": "Mirage Island",
+    "emerald": "Mirage Island",
+    "firered": "Breed Wobbuffet with Lax Incense attached",
+    "leafgreen": "Breed Wobbuffet with Lax Incense attached",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": null,
+        "move": "Charm"
+      },
+      {
+        "level": null,
+        "move": "Encore"
+      },
+      {
+        "level": 15,
+        "move": "Counter"
+      },
+      {
+        "level": 15,
+        "move": "Mirror Coat"
+      },
+      {
+        "level": 15,
+        "move": "Safeguard"
+      },
+      {
+        "level": 15,
+        "move": "Destiny Bond"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/360.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.449Z"
+  }
+}

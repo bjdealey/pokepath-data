@@ -1,0 +1,199 @@
+{
+  "slug": "dustox",
+  "natdex": 269,
+  "name": "Dustox",
+  "names": {
+    "japan": "Dokucaleドクケイル",
+    "french": "Papinox",
+    "german": "Pudox",
+    "korean": "독케일"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Poison Moth Pokémon",
+  "heightM": 1.2,
+  "weightKg": 31.6,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust",
+      "description": "Prevents Dustox from being hit by additional effects of moves"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "spAttack": 50,
+    "spDefense": 90,
+    "speed": 65,
+    "total": 385
+  },
+  "evolutionChain": [
+    "wurmple",
+    "silcoon",
+    "beautifly",
+    "cascoon",
+    "dustox"
+  ],
+  "flavorText": {
+    "ruby": "DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+    "sapphire": "When DUSTOX flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This POKéMON searches for food using its antennae like radar.",
+    "emerald": "It is a nocturnal POKéMON that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.",
+    "firered": "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night.",
+    "leafgreen": "It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night."
+  },
+  "locations": {
+    "ruby": "Evolve Cascoon",
+    "sapphire": "Evolve Cascoon",
+    "emerald": "Evolve Cascoon",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": 10,
+        "move": "Confusion"
+      },
+      {
+        "level": 13,
+        "move": "Gust"
+      },
+      {
+        "level": 17,
+        "move": "Protect"
+      },
+      {
+        "level": 20,
+        "move": "Moonlight"
+      },
+      {
+        "level": 24,
+        "move": "Psybeam"
+      },
+      {
+        "level": 27,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 31,
+        "move": "Light Screen"
+      },
+      {
+        "level": 34,
+        "move": "Silver Wind"
+      },
+      {
+        "level": 38,
+        "move": "Toxic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/269.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.841Z"
+  }
+}

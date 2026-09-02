@@ -1,0 +1,279 @@
+{
+  "slug": "blissey",
+  "natdex": 242,
+  "name": "Blissey",
+  "names": {
+    "japan": "Happinasハピナス",
+    "french": "Leuphorie",
+    "german": "Heiteira",
+    "korean": "해피너스"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Happiness Pokémon",
+  "heightM": 1.5,
+  "weightKg": 46.8,
+  "captureRate": 30,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure",
+      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattleSerene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+    },
+    {
+      "name": "Serene Grace",
+      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattleSerene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "spAttack": 75,
+    "spDefense": 135,
+    "speed": 55,
+    "total": 540
+  },
+  "evolutionChain": [
+    "chansey",
+    "blissey"
+  ],
+  "flavorText": {
+    "ruby": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+    "sapphire": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
+    "emerald": "If it senses sadness with its fluffy fur, a BLISSEY will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.",
+    "firered": "It has a very compassionate nature. If it sees a sick POKéMON, it will nurse the sufferer back to health.",
+    "leafgreen": "Anyone who takes even one bite of BLISSEY's egg becomes unfailingly caring and pleasant to everyone."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Chansey",
+    "leafgreen": "Evolve Chansey",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Chansey"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 4,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 7,
+        "move": "Refresh"
+      },
+      {
+        "level": 10,
+        "move": "Softboiled"
+      },
+      {
+        "level": 13,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 18,
+        "move": "Minimize"
+      },
+      {
+        "level": 23,
+        "move": "Sing"
+      },
+      {
+        "level": 28,
+        "move": "Egg Bomb"
+      },
+      {
+        "level": 33,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 40,
+        "move": "Light Screen"
+      },
+      {
+        "level": 47,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/242.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.674Z"
+  }
+}

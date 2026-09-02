@@ -1,0 +1,236 @@
+{
+  "slug": "alakazam",
+  "natdex": 65,
+  "name": "Alakazam",
+  "names": {
+    "japan": "Foodinフーディン",
+    "french": "Alakazam",
+    "german": "Simsala",
+    "korean": "후딘"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Psi Pokémon",
+  "heightM": 1.5,
+  "weightKg": 48,
+  "captureRate": 50,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "Synchronize: When Alakazam is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionInner Focus: Prevents Flinching"
+    },
+    {
+      "name": "Inner Focus",
+      "description": "Synchronize: When Alakazam is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionInner Focus: Prevents Flinching"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "spAttack": 135,
+    "spDefense": 85,
+    "speed": 120,
+    "total": 490
+  },
+  "evolutionChain": [
+    "abra",
+    "kadabra",
+    "alakazam"
+  ],
+  "flavorText": {
+    "ruby": "ALAKAZAM's brain continually grows, making its head far too heavy to support with its neck. This POKéMON holds its head up using its psychokinetic power instead.",
+    "sapphire": "ALAKAZAM's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this POKéMON an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+    "emerald": "While it has strong psychic abilities and high intelligence, an ALAKAZAM's muscles are very weak. It uses psychic power to move its body.",
+    "firered": "It does not like physical attacks very much. Instead, it freely uses extra-sensory powers to defeat foes.",
+    "leafgreen": "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000."
+  },
+  "locations": {
+    "ruby": "Evolve Kadabra",
+    "sapphire": "Evolve Kadabra",
+    "emerald": "Evolve Kadabra",
+    "firered": "Evolve Kadabra",
+    "leafgreen": "Evolve Kadabra",
+    "colosseum": "Trade from Ruby/Sapphire/EmeraldFireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Teleport"
+      },
+      {
+        "level": null,
+        "move": "Kinesis"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": 16,
+        "move": "Confusion"
+      },
+      {
+        "level": 18,
+        "move": "Disable"
+      },
+      {
+        "level": 21,
+        "move": "Psybeam"
+      },
+      {
+        "level": 23,
+        "move": "Reflect"
+      },
+      {
+        "level": 25,
+        "move": "Recover"
+      },
+      {
+        "level": 30,
+        "move": "Future Sight"
+      },
+      {
+        "level": 33,
+        "move": "Calm Mind"
+      },
+      {
+        "level": 36,
+        "move": "Psychic"
+      },
+      {
+        "level": 43,
+        "move": "Trick"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/065.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.554Z"
+  }
+}

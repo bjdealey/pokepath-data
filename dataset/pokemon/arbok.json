@@ -1,0 +1,216 @@
+{
+  "slug": "arbok",
+  "natdex": 24,
+  "name": "Arbok",
+  "names": {
+    "japan": "Arbokアーボック",
+    "french": "Arbok",
+    "german": "Arbok",
+    "korean": "아보크"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cobra Pokémon",
+  "heightM": 3.5,
+  "weightKg": 65,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Shed Skin: Every Turn Arbok has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Arbok's Entry in Battle, all opponent's Attack Stats are lowered"
+    },
+    {
+      "name": "Intimidate",
+      "description": "Shed Skin: Every Turn Arbok has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Arbok's Entry in Battle, all opponent's Attack Stats are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "spAttack": 65,
+    "spDefense": 79,
+    "speed": 80,
+    "total": 438
+  },
+  "evolutionChain": [
+    "ekans",
+    "arbok"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
+    "sapphire": "This POKéMON is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
+    "emerald": "This POKéMON has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.",
+    "firered": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+    "leafgreen": "It is rumored that the ferocious warning markings on its belly differ from area to area."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Route 23 & Victory Road",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Snagged from Cipher Peon Smarton in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": 8,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 20,
+        "move": "Glare"
+      },
+      {
+        "level": 28,
+        "move": "Screech"
+      },
+      {
+        "level": 38,
+        "move": "Acid"
+      },
+      {
+        "level": 46,
+        "move": "Stockpile"
+      },
+      {
+        "level": 46,
+        "move": "Swallow"
+      },
+      {
+        "level": 46,
+        "move": "Spit Up"
+      },
+      {
+        "level": 56,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/024.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.276Z"
+  }
+}

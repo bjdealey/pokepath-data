@@ -1,0 +1,249 @@
+{
+  "slug": "exploud",
+  "natdex": 295,
+  "name": "Exploud",
+  "names": {
+    "japan": "Bakuongバクオング",
+    "french": "Brouhabam",
+    "german": "Krawumms",
+    "korean": "폭음룡"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Loud Noise Pokémon",
+  "heightM": 1.5,
+  "weightKg": 84,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof",
+      "description": "Exploud is unaffected by Sound moves"
+    }
+  ],
+  "baseStats": {
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "spAttack": 91,
+    "spDefense": 63,
+    "speed": 68,
+    "total": 480
+  },
+  "evolutionChain": [
+    "whismur",
+    "loudred",
+    "exploud"
+  ],
+  "flavorText": {
+    "ruby": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
+    "sapphire": "EXPLOUD communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This POKéMON only raises its voice when it is in battle.",
+    "emerald": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
+    "firered": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
+    "leafgreen": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away."
+  },
+  "locations": {
+    "ruby": "Evolve Loudred",
+    "sapphire": "Evolve Loudred",
+    "emerald": "Evolve Loudred",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Uproar"
+      },
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": null,
+        "move": "Howl"
+      },
+      {
+        "level": 5,
+        "move": "Uproar"
+      },
+      {
+        "level": 11,
+        "move": "Astonish"
+      },
+      {
+        "level": 15,
+        "move": "Howl"
+      },
+      {
+        "level": 23,
+        "move": "Supersonic"
+      },
+      {
+        "level": 29,
+        "move": "Stomp"
+      },
+      {
+        "level": 37,
+        "move": "Screech"
+      },
+      {
+        "level": 40,
+        "move": "Hyper Beam"
+      },
+      {
+        "level": 45,
+        "move": "Roar"
+      },
+      {
+        "level": 55,
+        "move": "Rest"
+      },
+      {
+        "level": 55,
+        "move": "Sleep Talk"
+      },
+      {
+        "level": 63,
+        "move": "Hyper Voice"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/295.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.003Z"
+  }
+}

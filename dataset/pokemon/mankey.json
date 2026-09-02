@@ -1,0 +1,219 @@
+{
+  "slug": "mankey",
+  "natdex": 56,
+  "name": "Mankey",
+  "names": {
+    "japan": "Mankeyマンキー",
+    "french": "Férosinge",
+    "german": "Menki",
+    "korean": "망키"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Pig Monkey Pokémon",
+  "heightM": 0.5,
+  "weightKg": 28,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Vital Spirit",
+      "description": "Mankey Cannot be put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "spAttack": 35,
+    "spDefense": 45,
+    "speed": 70,
+    "total": 305
+  },
+  "evolutionChain": [
+    "mankey",
+    "primeape"
+  ],
+  "flavorText": {
+    "ruby": "When MANKEY starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
+    "sapphire": "When MANKEY starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
+    "emerald": "When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.",
+    "firered": "Light and agile on its feet, and ferocious in temperament. When angered, it flies into an uncontrollable frenzy.",
+    "leafgreen": "Extremely quick to anger. It could be docile one moment, then thrashing away the next instant."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Route 3, 4, 22 & 23, Rock Tunnel Floor 1 & Basement 1",
+    "leafgreen": "Route 3, 4, 22 & 23, Rock Tunnel Floor 1 & Basement 1",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 9,
+        "move": "Low Kick"
+      },
+      {
+        "level": 15,
+        "move": "Karate Chop"
+      },
+      {
+        "level": 21,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 27,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 33,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 39,
+        "move": "Cross Chop"
+      },
+      {
+        "level": 45,
+        "move": "Screech"
+      },
+      {
+        "level": 51,
+        "move": "Thrash"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/056.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.474Z"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "bellsprout",
+  "natdex": 69,
+  "name": "Bellsprout",
+  "names": {
+    "japan": "Madatsubomiマダツボミ",
+    "french": "Chétiflor",
+    "german": "Knofensa",
+    "korean": "모다피"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Flower Pokémon",
+  "heightM": 0.7,
+  "weightKg": 4,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Bellsprout's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "spAttack": 70,
+    "spDefense": 30,
+    "speed": 40,
+    "total": 300
+  },
+  "evolutionChain": [
+    "bellsprout",
+    "weepinbell",
+    "victreebel"
+  ],
+  "flavorText": {
+    "ruby": "BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
+    "sapphire": "BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
+    "emerald": "A BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
+    "firered": "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+    "leafgreen": "A carnivorous POKéMON that traps and eats bugs. It appears to use its root feet to replenish moisture."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen",
+    "sapphire": "Trade from LeafGreen",
+    "emerald": "Trade from LeafGreen",
+    "firered": "Trade from LeafGreen",
+    "leafgreen": "Routes 5, 6, 7, 12, 13, 14, 15, 24, 25, Berry Forest, Bond Bridge, Cape Brink, Water Path",
+    "colosseum": "Trade from LeafGreen",
+    "xd": "Trade from LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Vine Whip"
+      },
+      {
+        "level": 6,
+        "move": "Growth"
+      },
+      {
+        "level": 11,
+        "move": "Wrap"
+      },
+      {
+        "level": 15,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 17,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 19,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 23,
+        "move": "Acid"
+      },
+      {
+        "level": 30,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 37,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 45,
+        "move": "Slam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/069.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.589Z"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "slug": "medicham",
+  "natdex": 308,
+  "name": "Medicham",
+  "names": {
+    "japan": "Charemチャーレム",
+    "french": "Charmina",
+    "german": "Meditalis",
+    "korean": "요가램"
+  },
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Meditate Pokémon",
+  "heightM": 1.3,
+  "weightKg": 31.5,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Pure Power",
+      "description": "Medicham's Attack is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "spAttack": 60,
+    "spDefense": 75,
+    "speed": 80,
+    "total": 410
+  },
+  "evolutionChain": [
+    "meditite",
+    "medicham"
+  ],
+  "flavorText": {
+    "ruby": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POKéMON hides its presence by merging itself with fields and mountains.",
+    "sapphire": "Through the power of meditation, MEDICHAM developed its sixth sense. It gained the ability to use psychokinetic powers. This POKéMON is known to meditate for a whole month without eating.",
+    "emerald": "Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance-like movement.",
+    "firered": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.",
+    "leafgreen": "It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion."
+  },
+  "locations": {
+    "ruby": "Victory Road Basements 1 & 2",
+    "sapphire": "Victory Road Basements 1 & 2",
+    "emerald": "Trade from Ruby/Sapphire/Colosseum/XD",
+    "firered": "Trade from Ruby/Sapphire/Colosseum/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Colosseum/XD",
+    "colosseum": "Evolve Meditite",
+    "xd": "Evolve Meditite"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Fire Punch"
+      },
+      {
+        "level": null,
+        "move": "Thunderpunch"
+      },
+      {
+        "level": null,
+        "move": "Ice Punch"
+      },
+      {
+        "level": null,
+        "move": "Bide"
+      },
+      {
+        "level": null,
+        "move": "Meditate"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": null,
+        "move": "Detect"
+      },
+      {
+        "level": 4,
+        "move": "Meditate"
+      },
+      {
+        "level": 9,
+        "move": "Confusion"
+      },
+      {
+        "level": 12,
+        "move": "Detect"
+      },
+      {
+        "level": 18,
+        "move": "Hidden Power"
+      },
+      {
+        "level": 22,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 28,
+        "move": "Calm Mind"
+      },
+      {
+        "level": 32,
+        "move": "Hi Jump Kick"
+      },
+      {
+        "level": 40,
+        "move": "Psych Up"
+      },
+      {
+        "level": 46,
+        "move": "Reversal"
+      },
+      {
+        "level": 54,
+        "move": "Recover"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/308.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.083Z"
+  }
+}

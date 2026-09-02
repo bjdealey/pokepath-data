@@ -1,0 +1,170 @@
+{
+  "slug": "azurill",
+  "natdex": 298,
+  "name": "Azurill",
+  "names": {
+    "japan": "Ruririルリリ",
+    "french": "Azurill",
+    "german": "Azurill",
+    "korean": "루리리"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Polka Dot Pokémon",
+  "heightM": 0.2,
+  "weightKg": 2,
+  "captureRate": 150,
+  "baseEggSteps": 2560,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on AzurillHuge Power: Azurill's Attack is Doubled"
+    },
+    {
+      "name": "Guts",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on AzurillHuge Power: Azurill's Attack is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "spAttack": 20,
+    "spDefense": 40,
+    "speed": 20,
+    "total": 190
+  },
+  "evolutionChain": [
+    "azurill",
+    "marill",
+    "azumarill"
+  ],
+  "flavorText": {
+    "ruby": "AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet.",
+    "sapphire": "AZURILL's tail is large and bouncy. It is packed full of the nutrients this POKéMON needs to grow. AZURILL can be seen bouncing and playing on its big, rubbery tail.",
+    "emerald": "Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.",
+    "firered": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water.",
+    "leafgreen": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water."
+  },
+  "locations": {
+    "ruby": "Breed Marill/Azumarill with Sea Incense attached",
+    "sapphire": "Breed Marill/Azumarill with Sea Incense attached",
+    "emerald": "Breed Marill/Azumarill with Sea Incense attached",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "leafgreen": "Breed Marill/Azumarill with Sea Incense attached",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": 3,
+        "move": "Charm"
+      },
+      {
+        "level": 6,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Bubble"
+      },
+      {
+        "level": 15,
+        "move": "Slam"
+      },
+      {
+        "level": 21,
+        "move": "Water Gun"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/298.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.020Z"
+  }
+}

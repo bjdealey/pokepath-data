@@ -1,0 +1,181 @@
+{
+  "slug": "magby",
+  "natdex": 240,
+  "name": "Magby",
+  "names": {
+    "japan": "Bubyブビィ",
+    "french": "Magby",
+    "german": "Magby",
+    "korean": "마그비"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Live Coal Pokémon",
+  "heightM": 0.7,
+  "weightKg": 21.4,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Flame Body",
+      "description": "When a Pokémon makes contact with Magby, it has a 30% chance of being Burned"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "spAttack": 70,
+    "spDefense": 55,
+    "speed": 83,
+    "total": 365
+  },
+  "evolutionChain": [
+    "magby",
+    "magmar"
+  ],
+  "flavorText": {
+    "ruby": "MAGBY's state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+    "sapphire": "MAGBY's state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+    "emerald": "If a MAGBY is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+    "firered": "It is found in volcanic craters. Its body heat exceeds 1,100 degrees Fahrenheit, so don't underestimate it.",
+    "leafgreen": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen",
+    "sapphire": "Trade from LeafGreen",
+    "emerald": "Trade from LeafGreen",
+    "firered": "Trade from LeafGreen",
+    "leafgreen": "Breed Magmar",
+    "colosseum": "Trade from LeafGreen",
+    "xd": "Trade from LeafGreen/"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 7,
+        "move": "Leer"
+      },
+      {
+        "level": 13,
+        "move": "Smog"
+      },
+      {
+        "level": 19,
+        "move": "Fire Punch"
+      },
+      {
+        "level": 25,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 31,
+        "move": "Sunny Day"
+      },
+      {
+        "level": 37,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 43,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 49,
+        "move": "Fire Blast"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/240.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.657Z"
+  }
+}

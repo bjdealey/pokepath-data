@@ -1,0 +1,199 @@
+{
+  "slug": "flareon",
+  "natdex": 136,
+  "name": "Flareon",
+  "names": {
+    "japan": "Boosterブースター",
+    "french": "Pyroli",
+    "german": "Flamara",
+    "korean": "부스터"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Flame Pokémon",
+  "heightM": 0.9,
+  "weightKg": 25,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Flash Fire",
+      "description": "Prevents Flareon from being attacked by Fire type moves, and also boosts the Fire type moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "spAttack": 95,
+    "spDefense": 110,
+    "speed": 65,
+    "total": 525
+  },
+  "evolutionChain": [
+    "eevee",
+    "jolteon",
+    "vaporeon",
+    "flareon",
+    "espeon",
+    "umbreon"
+  ],
+  "flavorText": {
+    "ruby": "FLAREON's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This POKéMON's body temperature can rise to a maximum of 1,650 degrees F.",
+    "sapphire": "FLAREON's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This POKéMON's body temperature can rise to a maximum of 1,650 degrees F.",
+    "emerald": "FLAREON's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.",
+    "firered": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit.",
+    "leafgreen": "When storing thermal energy in its body, its temperature can soar to over 1,600 degrees Fahrenheit."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Eevee",
+    "leafgreen": "Evolve Eevee",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Eevee"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 8,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 16,
+        "move": "Ember"
+      },
+      {
+        "level": 23,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 30,
+        "move": "Bite"
+      },
+      {
+        "level": 36,
+        "move": "Fire Spin"
+      },
+      {
+        "level": 42,
+        "move": "Smog"
+      },
+      {
+        "level": 47,
+        "move": "Leer"
+      },
+      {
+        "level": 52,
+        "move": "Flamethrower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/136.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.019Z"
+  }
+}

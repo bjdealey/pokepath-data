@@ -1,0 +1,262 @@
+{
+  "slug": "lugia",
+  "natdex": 249,
+  "name": "Lugia",
+  "names": {
+    "japan": "Lugiaルギア",
+    "french": "Lugia",
+    "german": "Lugia",
+    "korean": "루기아"
+  },
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Diving Pokémon",
+  "heightM": 5.2,
+  "weightKg": 216,
+  "captureRate": 3,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Lugia use 2 PP instead of 1."
+    }
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "spAttack": 90,
+    "spDefense": 154,
+    "speed": 110,
+    "total": 680
+  },
+  "evolutionChain": [
+    "lugia"
+  ],
+  "flavorText": {
+    "ruby": "LUGIA's wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
+    "sapphire": "LUGIA's wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
+    "emerald": "LUGIA is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.",
+    "firered": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+    "leafgreen": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "sapphire": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "emerald": "Navel Rock",
+    "firered": "Navel Rock",
+    "leafgreen": "Navel Rock",
+    "colosseum": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 11,
+        "move": "Safeguard"
+      },
+      {
+        "level": 22,
+        "move": "Gust"
+      },
+      {
+        "level": 33,
+        "move": "Recover"
+      },
+      {
+        "level": 44,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 55,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 66,
+        "move": "Swift"
+      },
+      {
+        "level": 77,
+        "move": "Aeroblast"
+      },
+      {
+        "level": 88,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 99,
+        "move": "Future Sight"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/249.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.716Z"
+  }
+}

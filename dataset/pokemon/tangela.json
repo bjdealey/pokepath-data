@@ -1,0 +1,198 @@
+{
+  "slug": "tangela",
+  "natdex": 114,
+  "name": "Tangela",
+  "names": {
+    "japan": "Monjaraモンジャラ",
+    "french": "Saquedeneu",
+    "german": "Tangela",
+    "korean": "덩쿠리"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Vine Pokémon",
+  "heightM": 1,
+  "weightKg": 35,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Tangela's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "spAttack": 100,
+    "spDefense": 40,
+    "speed": 60,
+    "total": 435
+  },
+  "evolutionChain": [
+    "tangela"
+  ],
+  "flavorText": {
+    "ruby": "TANGELA's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+    "sapphire": "TANGELA's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+    "emerald": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+    "firered": "Blue plant vines cloak the POKéMON's identity in a tangled mass. It entangles anything that gets close.",
+    "leafgreen": "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Route 21 Grass, Treasure Beach",
+    "leafgreen": "Route 21 Grass, Treasure Beach",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Targ in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Ingrain"
+      },
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": 4,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 10,
+        "move": "Absorb"
+      },
+      {
+        "level": 13,
+        "move": "Growth"
+      },
+      {
+        "level": 19,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 22,
+        "move": "Vine Whip"
+      },
+      {
+        "level": 28,
+        "move": "Bind"
+      },
+      {
+        "level": 31,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 37,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 40,
+        "move": "Slam"
+      },
+      {
+        "level": 46,
+        "move": "Tickle"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/114.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.889Z"
+  }
+}

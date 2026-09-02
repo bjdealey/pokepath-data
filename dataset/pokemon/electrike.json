@@ -1,0 +1,195 @@
+{
+  "slug": "electrike",
+  "natdex": 309,
+  "name": "Electrike",
+  "names": {
+    "japan": "Rakuraiラクライ",
+    "french": "Dynavolt",
+    "german": "Frizelbliz",
+    "korean": "썬더라이"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Lightning Pokémon",
+  "heightM": 0.6,
+  "weightKg": 15.2,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "Static: When a Pokémon makes contact with Electrike, it has a 30% chance of being ParalyzedLightning Rod: All Electric Attacks are drawn to Electrike"
+    },
+    {
+      "name": "Lightning Rod",
+      "description": "Static: When a Pokémon makes contact with Electrike, it has a 30% chance of being ParalyzedLightning Rod: All Electric Attacks are drawn to Electrike"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "spAttack": 65,
+    "spDefense": 40,
+    "speed": 65,
+    "total": 295
+  },
+  "evolutionChain": [
+    "electrike",
+    "manectric"
+  ],
+  "flavorText": {
+    "ruby": "ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+    "sapphire": "ELECTRIKE runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this POKéMON's fur.",
+    "emerald": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
+    "firered": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "leafgreen": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches."
+  },
+  "locations": {
+    "ruby": "Routes 110 & 118",
+    "sapphire": "Routes 110 & 118",
+    "emerald": "Routes 110 & 118",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 4,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 9,
+        "move": "Leer"
+      },
+      {
+        "level": 12,
+        "move": "Howl"
+      },
+      {
+        "level": 17,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 20,
+        "move": "Spark"
+      },
+      {
+        "level": 25,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 28,
+        "move": "Roar"
+      },
+      {
+        "level": 33,
+        "move": "Bite"
+      },
+      {
+        "level": 36,
+        "move": "Thunder"
+      },
+      {
+        "level": 41,
+        "move": "Charge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/309.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.090Z"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "chinchou",
+  "natdex": 170,
+  "name": "Chinchou",
+  "names": {
+    "japan": "Chonchieチョンチー",
+    "french": "Loupio",
+    "german": "Lampi",
+    "korean": "초라기"
+  },
+  "types": [
+    "water",
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Angler Pokémon",
+  "heightM": 0.5,
+  "weightKg": 12,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Volt Absorb",
+      "description": "Volt Absorb: Chinchou is healed by up to 25% of Max HP when hit by Electric AttacksIlluminate: When Chinchou is in the first party slot, Wild Pokémon appearances are more frequent"
+    },
+    {
+      "name": "Illuminate",
+      "description": "Volt Absorb: Chinchou is healed by up to 25% of Max HP when hit by Electric AttacksIlluminate: When Chinchou is in the first party slot, Wild Pokémon appearances are more frequent"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "spAttack": 56,
+    "spDefense": 56,
+    "speed": 67,
+    "total": 330
+  },
+  "evolutionChain": [
+    "chinchou",
+    "lanturn"
+  ],
+  "flavorText": {
+    "ruby": "CHINCHOU lets loose positive and negative electrical charges from its two antennas to make its prey faint. This POKéMON flashes its electric lights to exchange signals with others.",
+    "sapphire": "CHINCHOU's two antennas are filled with cells that generate strong electricity. This POKéMON's cells create so much electrical power, it even makes itself tingle slightly.",
+    "emerald": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
+    "firered": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+    "leafgreen": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+  },
+  "locations": {
+    "ruby": "Underwater Routes 124 & 126",
+    "sapphire": "Underwater Routes 124 & 126",
+    "emerald": "Underwater Routes 124 & 126",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 5,
+        "move": "Supersonic"
+      },
+      {
+        "level": 13,
+        "move": "Flail"
+      },
+      {
+        "level": 17,
+        "move": "Water Gun"
+      },
+      {
+        "level": 25,
+        "move": "Spark"
+      },
+      {
+        "level": 29,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 37,
+        "move": "Take Down"
+      },
+      {
+        "level": 41,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 49,
+        "move": "Charge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/170.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.233Z"
+  }
+}

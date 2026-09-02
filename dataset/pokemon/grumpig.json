@@ -1,0 +1,239 @@
+{
+  "slug": "grumpig",
+  "natdex": 326,
+  "name": "Grumpig",
+  "names": {
+    "japan": "Boopigブーピッグ",
+    "french": "Groret",
+    "german": "Groink",
+    "korean": "피그킹"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Manipulate Pokémon",
+  "heightM": 0.9,
+  "weightKg": 71.5,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on GrumpigOwn Tempo: Prevents Grumpig from being Confused"
+    },
+    {
+      "name": "Own Tempo",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on GrumpigOwn Tempo: Prevents Grumpig from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "spAttack": 90,
+    "spDefense": 110,
+    "speed": 80,
+    "total": 470
+  },
+  "evolutionChain": [
+    "spoink",
+    "grumpig"
+  ],
+  "flavorText": {
+    "ruby": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POKéMON uses its special power, its snorting breath grows labored.",
+    "sapphire": "GRUMPIG uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This POKéMON's black pearls are valuable as works of art.",
+    "emerald": "It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.",
+    "firered": "It can gain control over foes by doing odd dance steps. The black pearls on its forehead are precious gems.",
+    "leafgreen": "It can gain control over foes by doing odd dance steps. The black pearls on its forehead are precious gems."
+  },
+  "locations": {
+    "ruby": "Evolve Spoink",
+    "sapphire": "Evolve Spoink",
+    "emerald": "Evolve Spoink",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": null,
+        "move": "Psywave"
+      },
+      {
+        "level": null,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": null,
+        "move": "Psybeam"
+      },
+      {
+        "level": 7,
+        "move": "Psywave"
+      },
+      {
+        "level": 10,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 16,
+        "move": "Psybeam"
+      },
+      {
+        "level": 19,
+        "move": "Psych Up"
+      },
+      {
+        "level": 25,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 28,
+        "move": "Magic Coat"
+      },
+      {
+        "level": 37,
+        "move": "Psychic"
+      },
+      {
+        "level": 43,
+        "move": "Rest"
+      },
+      {
+        "level": 43,
+        "move": "Snore"
+      },
+      {
+        "level": 55,
+        "move": "Bounce"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/326.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.197Z"
+  }
+}

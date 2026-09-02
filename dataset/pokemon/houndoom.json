@@ -1,0 +1,224 @@
+{
+  "slug": "houndoom",
+  "natdex": 229,
+  "name": "Houndoom",
+  "names": {
+    "japan": "Hellgarヘルガー",
+    "french": "Démolosse",
+    "german": "Hundemon",
+    "korean": "헬가"
+  },
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dark Pokémon",
+  "heightM": 1.4,
+  "weightKg": 35,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Early Bird",
+      "description": "Early Bird: If afflicted with Sleep, Houndoom wakes up in half the time of normalFlash Fire: Prevents Houndoom from being attacked by Fire type moves, and also boosts the Fire type moves."
+    },
+    {
+      "name": "Flash Fire",
+      "description": "Early Bird: If afflicted with Sleep, Houndoom wakes up in half the time of normalFlash Fire: Prevents Houndoom from being attacked by Fire type moves, and also boosts the Fire type moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "spAttack": 110,
+    "spDefense": 80,
+    "speed": 95,
+    "total": 500
+  },
+  "evolutionChain": [
+    "houndour",
+    "houndoom"
+  ],
+  "flavorText": {
+    "ruby": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
+    "sapphire": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
+    "emerald": "In a HOUNDOOM pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.",
+    "firered": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+    "leafgreen": "If you are burned by the flames it shoots from its mouth, the pain will never go away."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Houndour",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Cipher Peon Nella in Realgam Tower Colosseum",
+    "xd": "Evolve Houndour"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": null,
+        "move": "Howl"
+      },
+      {
+        "level": 7,
+        "move": "Howl"
+      },
+      {
+        "level": 13,
+        "move": "Smog"
+      },
+      {
+        "level": 19,
+        "move": "Roar"
+      },
+      {
+        "level": 27,
+        "move": "Bite"
+      },
+      {
+        "level": 35,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 43,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 51,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 59,
+        "move": "Crunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/229.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.595Z"
+  }
+}

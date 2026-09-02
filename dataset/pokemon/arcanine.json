@@ -1,0 +1,183 @@
+{
+  "slug": "arcanine",
+  "natdex": 59,
+  "name": "Arcanine",
+  "names": {
+    "japan": "Windieウインディ",
+    "french": "Arcanin",
+    "german": "Arkani",
+    "korean": "윈디"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Legendary Pokémon",
+  "heightM": 1.9,
+  "weightKg": 155,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Intimidate: Upon Arcanine's Entry in Battle, all opponent's Attack Stats are loweredFlash Fire: Prevents Arcanine from being attacked by Fire type moves, and also boosts the Fire type moves."
+    },
+    {
+      "name": "Flash Fire",
+      "description": "Intimidate: Upon Arcanine's Entry in Battle, all opponent's Attack Stats are loweredFlash Fire: Prevents Arcanine from being attacked by Fire type moves, and also boosts the Fire type moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "spAttack": 100,
+    "spDefense": 80,
+    "speed": 95,
+    "total": 555
+  },
+  "evolutionChain": [
+    "growlithe",
+    "arcanine"
+  ],
+  "flavorText": {
+    "ruby": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON's body is its source of power.",
+    "sapphire": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON's body is its source of power.",
+    "emerald": "This fleet-footed POKéMON is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+    "firered": "A POKéMON that is described in Chinese legends. It is said to race at an unbelievable speed.",
+    "leafgreen": "A POKéMON that has long been admired for its beauty. It runs agilely as if on wings."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Evolve Growlithe",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Evolve Growlithe"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Roar"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": null,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 49,
+        "move": "Extremespeed"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/059.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.492Z"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "slug": "quagsire",
+  "natdex": 195,
+  "name": "Quagsire",
+  "names": {
+    "japan": "Nuohヌオー",
+    "french": "Maraiste",
+    "german": "Morlord",
+    "korean": "누오"
+  },
+  "types": [
+    "water",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Water Fish Pokémon",
+  "heightM": 1.4,
+  "weightKg": 75,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Quagsire is healed by up to 25% of Max HP when hit by Water Attacks"
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Quagsire is healed by up to 25% of Max HP when hit by Water Attacks"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "spAttack": 65,
+    "spDefense": 65,
+    "speed": 35,
+    "total": 430
+  },
+  "evolutionChain": [
+    "wooper",
+    "quagsire"
+  ],
+  "flavorText": {
+    "ruby": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
+    "sapphire": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
+    "emerald": "A QUAGSIRE hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
+    "firered": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+    "leafgreen": "This carefree POKéMON has an easygoing nature. While swimming, it always bumps into boat hulls."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/Colosseum/XD",
+    "sapphire": "Trade from Emerald/FireRed/Colosseum/XD",
+    "emerald": "Safari Zone Extention (Surf)",
+    "firered": "Evolve Wooper",
+    "leafgreen": "Trade from Emerald/FireRed/Colosseum/XD",
+    "colosseum": "Snagged from Bandana Guy Divel in Pyrite Town",
+    "xd": "Evolve Wooper"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 11,
+        "move": "Slam"
+      },
+      {
+        "level": 16,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 23,
+        "move": "Amnesia"
+      },
+      {
+        "level": 35,
+        "move": "Yawn"
+      },
+      {
+        "level": 42,
+        "move": "Earthquake"
+      },
+      {
+        "level": 49,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 61,
+        "move": "Mist"
+      },
+      {
+        "level": 61,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/195.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.386Z"
+  }
+}

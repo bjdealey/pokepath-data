@@ -1,0 +1,200 @@
+{
+  "slug": "lunatone",
+  "natdex": 337,
+  "name": "Lunatone",
+  "names": {
+    "japan": "Lunatoneルナトーン",
+    "french": "Séléroc",
+    "german": "Lunastein",
+    "korean": "루나톤"
+  },
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Meteorite Pokémon",
+  "heightM": 1,
+  "weightKg": 168,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Lunatone"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 65,
+    "spAttack": 95,
+    "spDefense": 85,
+    "speed": 70,
+    "total": 440
+  },
+  "evolutionChain": [
+    "lunatone"
+  ],
+  "flavorText": {
+    "ruby": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POKéMON came from space. However, no one has been able to prove this theory so far.",
+    "sapphire": "LUNATONE becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The POKéMON's intimidating red eyes cause all those who see it to become transfixed with fear.",
+    "emerald": "It becomes very active on the night of a full moon. This POKéMON was first discovered 40 years ago at the site of a meteor strike.",
+    "firered": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon.",
+    "leafgreen": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon."
+  },
+  "locations": {
+    "ruby": "Trade from Sapphire/XD",
+    "sapphire": "Meteor Falls (Cave & Surf)",
+    "emerald": "Trade from Sapphire/XD",
+    "firered": "Trade from Sapphire/XD",
+    "leafgreen": "Trade from Sapphire/XD",
+    "colosseum": "Trade from Sapphire/XD",
+    "xd": "Snagged from Cipher Admin Snattle in Phenac Stadium"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Confusion"
+      },
+      {
+        "level": 13,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 19,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 25,
+        "move": "Psywave"
+      },
+      {
+        "level": 31,
+        "move": "Cosmic Power"
+      },
+      {
+        "level": 37,
+        "move": "Psychic"
+      },
+      {
+        "level": 43,
+        "move": "Future Sight"
+      },
+      {
+        "level": 49,
+        "move": "Explosion"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/337.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.265Z"
+  }
+}

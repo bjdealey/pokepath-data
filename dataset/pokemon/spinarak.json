@@ -1,0 +1,188 @@
+{
+  "slug": "spinarak",
+  "natdex": 167,
+  "name": "Spinarak",
+  "names": {
+    "japan": "Itomaruイトマル",
+    "french": "Mimigal",
+    "german": "Webarak",
+    "korean": "페이검"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "String Spit Pokémon",
+  "heightM": 0.5,
+  "weightKg": 8.5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Insomnia: Prevents Spinarak from being put to SleepSwarm: When Spinarak's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    },
+    {
+      "name": "Swarm",
+      "description": "Insomnia: Prevents Spinarak from being put to SleepSwarm: When Spinarak's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 40,
+    "spAttack": 40,
+    "spDefense": 40,
+    "speed": 30,
+    "total": 250
+  },
+  "evolutionChain": [
+    "spinarak",
+    "ariados"
+  ],
+  "flavorText": {
+    "ruby": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+    "sapphire": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
+    "emerald": "The web it spins can be considered its second nervous system. It is said that a SPINARAK determines its prey by the tiny vibrations it feels through the web.",
+    "firered": "It spins a web using fine --but durable-- thread. It then waits patiently for prey to be trapped.",
+    "leafgreen": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "sapphire": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "emerald": "Safari Zone Extention",
+    "firered": "Pattern Bush",
+    "leafgreen": "Pattern Bush",
+    "colosseum": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Nexir in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": null,
+        "move": "String Shot"
+      },
+      {
+        "level": 6,
+        "move": "Scary Face"
+      },
+      {
+        "level": 11,
+        "move": "Constrict"
+      },
+      {
+        "level": 17,
+        "move": "Night Shade"
+      },
+      {
+        "level": 23,
+        "move": "Leech Life"
+      },
+      {
+        "level": 30,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 37,
+        "move": "Spider Web"
+      },
+      {
+        "level": 45,
+        "move": "Agility"
+      },
+      {
+        "level": 53,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/167.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.215Z"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "slug": "poliwrath",
+  "natdex": 62,
+  "name": "Poliwrath",
+  "names": {
+    "japan": "Nyorobonニョロボン",
+    "french": "Tartard",
+    "german": "Quappo",
+    "korean": "강챙이"
+  },
+  "types": [
+    "water",
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tadpole Pokémon",
+  "heightM": 1.3,
+  "weightKg": 54,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Poliwrath is healed by up to 25% of Max HP when hit by Water Attacks."
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Poliwrath is healed by up to 25% of Max HP when hit by Water Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 95,
+    "spAttack": 70,
+    "spDefense": 90,
+    "speed": 70,
+    "total": 500
+  },
+  "evolutionChain": [
+    "poliwag",
+    "poliwhirl",
+    "poliwrath",
+    "politoed"
+  ],
+  "flavorText": {
+    "ruby": "POLIWRATH's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
+    "sapphire": "POLIWRATH's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
+    "emerald": "Its highly developed muscles never grow fatigued, however much it exercises. This POKéMON can swim back and forth across the Pacific Ocean without effort.",
+    "firered": "An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.",
+    "leafgreen": "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Poliwhirl",
+    "leafgreen": "Evolve Poliwhirl",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Gorigan in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Doubleslap"
+      },
+      {
+        "level": null,
+        "move": "Submission"
+      },
+      {
+        "level": 35,
+        "move": "Submission"
+      },
+      {
+        "level": 51,
+        "move": "Mind Reader"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/062.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.510Z"
+  }
+}

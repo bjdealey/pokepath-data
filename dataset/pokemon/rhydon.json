@@ -1,0 +1,257 @@
+{
+  "slug": "rhydon",
+  "natdex": 112,
+  "name": "Rhydon",
+  "names": {
+    "japan": "Sidonサイドン",
+    "french": "Rhinoféros",
+    "german": "Rizeros",
+    "korean": "코뿌리"
+  },
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Drill Pokémon",
+  "heightM": 1.9,
+  "weightKg": 120,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Rhydon receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Rhydon"
+    },
+    {
+      "name": "Lightning Rod",
+      "description": "Rock Head: Rhydon receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Rhydon"
+    }
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "spAttack": 45,
+    "spDefense": 45,
+    "speed": 40,
+    "total": 485
+  },
+  "evolutionChain": [
+    "rhyhorn",
+    "rhydon"
+  ],
+  "flavorText": {
+    "ruby": "RHYDON's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This POKéMON's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
+    "sapphire": "RHYDON has a horn that serves as a drill. It is used for destroying rocks and boulders. This POKéMON occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
+    "emerald": "Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.",
+    "firered": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+    "leafgreen": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit."
+  },
+  "locations": {
+    "ruby": "Evolve Rhyhorn",
+    "sapphire": "Evolve Rhyhorn",
+    "emerald": "Evolve Rhyhorn",
+    "firered": "Evolve Rhyhorn",
+    "leafgreen": "Evolve Rhyhorn",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Horn Attack"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Stomp"
+      },
+      {
+        "level": null,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 10,
+        "move": "Stomp"
+      },
+      {
+        "level": 15,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 24,
+        "move": "Scary Face"
+      },
+      {
+        "level": 29,
+        "move": "Rock Blast"
+      },
+      {
+        "level": 38,
+        "move": "Horn Drill"
+      },
+      {
+        "level": 46,
+        "move": "Take Down"
+      },
+      {
+        "level": 58,
+        "move": "Earthquake"
+      },
+      {
+        "level": 66,
+        "move": "Megahorn"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/112.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.869Z"
+  }
+}

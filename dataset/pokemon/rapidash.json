@@ -1,0 +1,203 @@
+{
+  "slug": "rapidash",
+  "natdex": 78,
+  "name": "Rapidash",
+  "names": {
+    "japan": "Gallopギャロップ",
+    "french": "Galopa",
+    "german": "Gallopa",
+    "korean": "날쌩마"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Fire Horse Pokémon",
+  "heightM": 1.7,
+  "weightKg": 95,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Rapidash can escape from Wild BattlesFlash Fire: Prevents Rapidash from being attacked by Fire type moves, and also boosts the Fire type moves."
+    },
+    {
+      "name": "Flash Fire",
+      "description": "Run Away: Rapidash can escape from Wild BattlesFlash Fire: Prevents Rapidash from being attacked by Fire type moves, and also boosts the Fire type moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 105,
+    "total": 500
+  },
+  "evolutionChain": [
+    "ponyta",
+    "rapidash"
+  ],
+  "flavorText": {
+    "ruby": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+    "sapphire": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+    "emerald": "It usually canters casually in the fields and plains. But once a RAPIDASH turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+    "firered": "It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.",
+    "leafgreen": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Kindle Road, Mt. Ember",
+    "leafgreen": "Kindle Road, Mt. Ember",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Kolest in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 5,
+        "move": "Growl"
+      },
+      {
+        "level": 9,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 14,
+        "move": "Ember"
+      },
+      {
+        "level": 19,
+        "move": "Stomp"
+      },
+      {
+        "level": 25,
+        "move": "Fire Spin"
+      },
+      {
+        "level": 31,
+        "move": "Take Down"
+      },
+      {
+        "level": 38,
+        "move": "Agility"
+      },
+      {
+        "level": 40,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 50,
+        "move": "Bounce"
+      },
+      {
+        "level": 63,
+        "move": "Fire Blast"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/078.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.654Z"
+  }
+}

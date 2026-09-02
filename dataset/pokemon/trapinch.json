@@ -1,0 +1,188 @@
+{
+  "slug": "trapinch",
+  "natdex": 328,
+  "name": "Trapinch",
+  "names": {
+    "japan": "Nuckrarナックラー",
+    "french": "Kraknoix",
+    "german": "Knacklion",
+    "korean": "톱치"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Ant Pit Pokémon",
+  "heightM": 0.7,
+  "weightKg": 15,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter",
+      "description": "Hyper Cutter: Trapinch's Attack cannot be Lowered by OpponentArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+    },
+    {
+      "name": "Arena Trap",
+      "description": "Hyper Cutter: Trapinch's Attack cannot be Lowered by OpponentArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "spAttack": 45,
+    "spDefense": 45,
+    "speed": 10,
+    "total": 290
+  },
+  "evolutionChain": [
+    "trapinch",
+    "vibrava",
+    "flygon"
+  ],
+  "flavorText": {
+    "ruby": "TRAPINCH's nest is a sloped, bowl-like pit dug in sand. This POKéMON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
+    "sapphire": "TRAPINCH is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This POKéMON can go a whole week without access to any water.",
+    "emerald": "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
+    "firered": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey.",
+    "leafgreen": "It lives in arid deserts. It makes a sloping pit trap in sand where it patiently awaits prey."
+  },
+  "locations": {
+    "ruby": "Route 111 (Desert)",
+    "sapphire": "Route 111 (Desert)",
+    "emerald": "Route 111 (Desert), Mirage Tower",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "RockGround PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 17,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 25,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 33,
+        "move": "Crunch"
+      },
+      {
+        "level": 41,
+        "move": "Dig"
+      },
+      {
+        "level": 49,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 57,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/328.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.210Z"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "vaporeon",
+  "natdex": 134,
+  "name": "Vaporeon",
+  "names": {
+    "japan": "Showersシャワーズ",
+    "french": "Aquali",
+    "german": "Aquana",
+    "korean": "샤미드"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Bubble Jet Pokémon",
+  "heightM": 1,
+  "weightKg": 29,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Water Absorb",
+      "description": "Vaporeon is healed by up to 25% of Max HP when hit by Water Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "spAttack": 110,
+    "spDefense": 95,
+    "speed": 65,
+    "total": 525
+  },
+  "evolutionChain": [
+    "eevee",
+    "jolteon",
+    "vaporeon",
+    "flareon",
+    "espeon",
+    "umbreon"
+  ],
+  "flavorText": {
+    "ruby": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
+    "sapphire": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
+    "emerald": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+    "firered": "Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+    "leafgreen": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Eevee",
+    "leafgreen": "Evolve Eevee",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Eevee"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 8,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 16,
+        "move": "Water Gun"
+      },
+      {
+        "level": 23,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 30,
+        "move": "Bite"
+      },
+      {
+        "level": 36,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 42,
+        "move": "Haze"
+      },
+      {
+        "level": 47,
+        "move": "Acid Armor"
+      },
+      {
+        "level": 52,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/134.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.006Z"
+  }
+}

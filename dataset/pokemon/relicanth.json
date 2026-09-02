@@ -1,0 +1,220 @@
+{
+  "slug": "relicanth",
+  "natdex": 369,
+  "name": "Relicanth",
+  "names": {
+    "japan": "Glanthジーランス",
+    "french": "Relicanth",
+    "german": "Relicanth",
+    "korean": "시라칸"
+  },
+  "types": [
+    "water",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Longevity Pokémon",
+  "heightM": 1,
+  "weightKg": 23.4,
+  "captureRate": 25,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Water 1",
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Relicanth's Speed is DoubledRock Head: Relicanth receives no Re-Coil Damage"
+    },
+    {
+      "name": "Rock Head",
+      "description": "Swift Swim: When Rain Dance is in effect, Relicanth's Speed is DoubledRock Head: Relicanth receives no Re-Coil Damage"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "spAttack": 45,
+    "spDefense": 65,
+    "speed": 55,
+    "total": 485
+  },
+  "evolutionChain": [
+    "relicanth"
+  ],
+  "flavorText": {
+    "ruby": "RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form. This ancient POKéMON feeds on microscopic organisms with its toothless mouth.",
+    "sapphire": "RELICANTH is a rare species that was discovered in deep-sea explorations. This POKéMON's body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
+    "emerald": "A POKéMON that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins.",
+    "firered": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration.",
+    "leafgreen": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration."
+  },
+  "locations": {
+    "ruby": "Underwater Routes 124 & 126",
+    "sapphire": "Underwater Routes 124 & 126",
+    "emerald": "Underwater Routes 124 & 126",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 8,
+        "move": "Water Gun"
+      },
+      {
+        "level": 15,
+        "move": "Rock Tomb"
+      },
+      {
+        "level": 22,
+        "move": "Yawn"
+      },
+      {
+        "level": 29,
+        "move": "Take Down"
+      },
+      {
+        "level": 36,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 43,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 50,
+        "move": "Rest"
+      },
+      {
+        "level": 57,
+        "move": "Double-edge"
+      },
+      {
+        "level": 64,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/369.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.528Z"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "numel",
+  "natdex": 322,
+  "name": "Numel",
+  "names": {
+    "japan": "Donmelドンメル",
+    "french": "Chamallot",
+    "german": "Camaub",
+    "korean": "둔타"
+  },
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Numb Pokémon",
+  "heightM": 0.7,
+  "weightKg": 24,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Numel from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "spAttack": 65,
+    "spDefense": 45,
+    "speed": 35,
+    "total": 305
+  },
+  "evolutionChain": [
+    "numel",
+    "camerupt"
+  ],
+  "flavorText": {
+    "ruby": "NUMEL is extremely dull witted - it doesn't notice being hit. However, it can't stand hunger for even a second. This POKéMON's body is a seething cauldron of boiling magma.",
+    "sapphire": "NUMEL stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the POKéMON's body grows heavy and its movements become sluggish.",
+    "emerald": "A NUMEL stores boiling magma in the hump on its back. It is a hardy POKéMON that can transport a 220-pound load. It has served humans at work since long ago.",
+    "firered": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+    "leafgreen": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it."
+  },
+  "locations": {
+    "ruby": "Route 112, Fiery Path, Jagged Pass",
+    "sapphire": "Route 112, Fiery Path, Jagged Pass",
+    "emerald": "Route 112, Fiery Path, Jagged Pass",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Solox in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 11,
+        "move": "Ember"
+      },
+      {
+        "level": 19,
+        "move": "Magnitude"
+      },
+      {
+        "level": 25,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 29,
+        "move": "Take Down"
+      },
+      {
+        "level": 31,
+        "move": "Amnesia"
+      },
+      {
+        "level": 35,
+        "move": "Earthquake"
+      },
+      {
+        "level": 41,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 49,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/322.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.173Z"
+  }
+}

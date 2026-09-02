@@ -1,0 +1,197 @@
+{
+  "slug": "zubat",
+  "natdex": 41,
+  "name": "Zubat",
+  "names": {
+    "japan": "Zubatズバット",
+    "french": "Nosferapti",
+    "german": "Zubat",
+    "korean": "주뱃"
+  },
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bat Pokémon",
+  "heightM": 0.8,
+  "weightKg": 7.5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus",
+      "description": "Prevents Flinching"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "spAttack": 30,
+    "spDefense": 40,
+    "speed": 55,
+    "total": 245
+  },
+  "evolutionChain": [
+    "zubat",
+    "golbat",
+    "crobat"
+  ],
+  "flavorText": {
+    "ruby": "ZUBAT remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+    "sapphire": "ZUBAT avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
+    "emerald": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
+    "firered": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
+    "leafgreen": "It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets."
+  },
+  "locations": {
+    "ruby": "Cave of Origin Entrance & Floors 1 & Basements 1, 2 & 3, Granite Cave Floors 1 & Basement 1 & 2, Meteor Falls Entrance, Seafloor Cavern, Shoal Cave, Victory Road Floor 1",
+    "sapphire": "Cave of Origin Entrance & Floors 1 & Basements 1, 2 & 3, Granite Cave Floors 1 & Basement 1 & 2, Meteor Falls Entrance, Seafloor Cavern, Shoal Cave, Victory Road Floor 1",
+    "emerald": "Altering Cave, Cave of Origin Entrance & Floors 1 & Basements 1, 2 & 3, Granite Cave Floors 1 & Basement 1 & 2, Meteor Falls Entrance, Seafloor Cavern, Shoal Cave, Victory Road Floor 1",
+    "firered": "Altering Cave, Icefall Cave Floors 1 & Basement, Lost Cave, Mt. Moon Floor 1 & Basement 2, Rock Tunnel Floor 1 & Basement 1, Seafoam Island Floor 1 & Basements 1, 2 & 3, Victory Road Floors 1, 2 & 3",
+    "leafgreen": "Altering Cave, Icefall Cave Floors 1 & Basement, Lost Cave, Mt. Moon Floor 1 & Basement 2, Rock Tunnel Floor 1 & Basement 1, Seafoam Island Floor 1 & Basements 1, 2 & 3, Victory Road Floors 1, 2 & 3",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Cave PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leech Life"
+      },
+      {
+        "level": 6,
+        "move": "Supersonic"
+      },
+      {
+        "level": 11,
+        "move": "Astonish"
+      },
+      {
+        "level": 16,
+        "move": "Bite"
+      },
+      {
+        "level": 21,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 26,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 31,
+        "move": "Air Cutter"
+      },
+      {
+        "level": 36,
+        "move": "Mean Look"
+      },
+      {
+        "level": 41,
+        "move": "Poison Fang"
+      },
+      {
+        "level": 46,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/041.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.381Z"
+  }
+}

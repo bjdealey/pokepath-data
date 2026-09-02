@@ -1,0 +1,254 @@
+{
+  "slug": "slowking",
+  "natdex": 199,
+  "name": "Slowking",
+  "names": {
+    "japan": "Yadokingヤドキング",
+    "french": "Roigada",
+    "german": "Laschoking",
+    "korean": "야도킹"
+  },
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Royal Pokémon",
+  "heightM": 2,
+  "weightKg": 79.5,
+  "captureRate": 70,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Oblivious: Prevents Slowking from being InfatuatedOwn Tempo: Prevents Slowking from being Confused"
+    },
+    {
+      "name": "Own Tempo",
+      "description": "Oblivious: Prevents Slowking from being InfatuatedOwn Tempo: Prevents Slowking from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "spAttack": 100,
+    "spDefense": 110,
+    "speed": 30,
+    "total": 490
+  },
+  "evolutionChain": [
+    "slowpoke",
+    "slowbro",
+    "slowking"
+  ],
+  "flavorText": {
+    "ruby": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
+    "sapphire": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
+    "emerald": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the SHELLDER on its head comes off.",
+    "firered": "When its head was bitten, toxins entered SLOWPOKE's head and unlocked an extraordinary power.",
+    "leafgreen": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen",
+    "sapphire": "Trade from LeafGreen",
+    "emerald": "Trade from LeafGreen",
+    "firered": "Trade from LeafGreen",
+    "leafgreen": "Evolve Slowpoke",
+    "colosseum": "Trade from LeafGreen",
+    "xd": "Trade from LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Curse"
+      },
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 6,
+        "move": "Growl"
+      },
+      {
+        "level": 15,
+        "move": "Water Gun"
+      },
+      {
+        "level": 20,
+        "move": "Confusion"
+      },
+      {
+        "level": 29,
+        "move": "Disable"
+      },
+      {
+        "level": 34,
+        "move": "Headbutt"
+      },
+      {
+        "level": 43,
+        "move": "Swagger"
+      },
+      {
+        "level": 48,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/199.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.412Z"
+  }
+}

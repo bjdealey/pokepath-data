@@ -1,0 +1,214 @@
+{
+  "slug": "metang",
+  "natdex": 375,
+  "name": "Metang",
+  "names": {
+    "japan": "Metangメタング",
+    "french": "Métang",
+    "german": "Metang",
+    "korean": "메탕구"
+  },
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Iron Claw Pokémon",
+  "heightM": 1.2,
+  "weightKg": 202.5,
+  "captureRate": 3,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "description": "Opponent's Moves that Lower Stats will not work on Metang"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 100,
+    "spAttack": 55,
+    "spDefense": 80,
+    "speed": 50,
+    "total": 420
+  },
+  "evolutionChain": [
+    "beldum",
+    "metang",
+    "metagross"
+  ],
+  "flavorText": {
+    "ruby": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POKéMON generates strong psychokinetic power.",
+    "sapphire": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. This POKéMON turns its arms to the rear for traveling at high speed.",
+    "emerald": "The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.",
+    "firered": "It floats midair using magnetism. Its body is so tough, even a crash with a jet plane won't leave a scratch.",
+    "leafgreen": "It floats midair using magnetism. Its body is so tough, even a crash with a jet plane won't leave a scratch."
+  },
+  "locations": {
+    "ruby": "Evolve Beldum",
+    "sapphire": "Evolve Beldum",
+    "emerald": "Evolve Beldum",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Take Down"
+      },
+      {
+        "level": 20,
+        "move": "Confusion"
+      },
+      {
+        "level": 20,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 26,
+        "move": "Scary Face"
+      },
+      {
+        "level": 32,
+        "move": "Pursuit"
+      },
+      {
+        "level": 38,
+        "move": "Psychic"
+      },
+      {
+        "level": 44,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 50,
+        "move": "Meteor Mash"
+      },
+      {
+        "level": 56,
+        "move": "Agility"
+      },
+      {
+        "level": 62,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/375.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.571Z"
+  }
+}

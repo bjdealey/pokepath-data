@@ -1,0 +1,188 @@
+{
+  "slug": "huntail",
+  "natdex": 367,
+  "name": "Huntail",
+  "names": {
+    "japan": "Huntailハンテール",
+    "french": "Serpang",
+    "german": "Aalabyss",
+    "korean": "헌테일"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Deep Sea Pokémon",
+  "heightM": 1.7,
+  "weightKg": 27,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Huntail's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "spAttack": 94,
+    "spDefense": 75,
+    "speed": 52,
+    "total": 485
+  },
+  "evolutionChain": [
+    "clamperl",
+    "huntail",
+    "gorebyss"
+  ],
+  "flavorText": {
+    "ruby": "HUNTAIL's presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POKéMON's eyes can see clearly even in the murky dark depths of the ocean.",
+    "sapphire": "HUNTAIL's tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This POKéMON swims by wiggling its slender body like a snake.",
+    "emerald": "To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
+    "firered": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
+    "leafgreen": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey."
+  },
+  "locations": {
+    "ruby": "Evolve Clamperl",
+    "sapphire": "Evolve Clamperl",
+    "emerald": "Evolve Clamperl",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Whirlpool"
+      },
+      {
+        "level": 8,
+        "move": "Bite"
+      },
+      {
+        "level": 15,
+        "move": "Screech"
+      },
+      {
+        "level": 22,
+        "move": "Water Pulse"
+      },
+      {
+        "level": 29,
+        "move": "Scary Face"
+      },
+      {
+        "level": 36,
+        "move": "Crunch"
+      },
+      {
+        "level": 43,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 50,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/367.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.512Z"
+  }
+}

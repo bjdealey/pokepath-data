@@ -1,0 +1,194 @@
+{
+  "slug": "bulbasaur",
+  "natdex": 1,
+  "name": "Bulbasaur",
+  "names": {
+    "japan": "Fushigidaneフシギダネ",
+    "french": "Bulbizarre",
+    "german": "Bisasam",
+    "korean": "이상해씨"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Seed Pokémon",
+  "heightM": 0.7,
+  "weightKg": 6.9,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Bulbasaur's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "spAttack": 65,
+    "spDefense": 65,
+    "speed": 45,
+    "total": 318
+  },
+  "evolutionChain": [
+    "bulbasaur",
+    "ivysaur",
+    "venusaur"
+  ],
+  "flavorText": {
+    "ruby": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "sapphire": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "emerald": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "firered": "There is a plant seed on its back right from the day this POKéMON is born. The seed slowly grows larger.",
+    "leafgreen": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Starter Pokémon Obtained in Pallet Town",
+    "leafgreen": "Starter Pokémon Obtained in Pallet Town",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 4,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 10,
+        "move": "Vine Whip"
+      },
+      {
+        "level": 15,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 15,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 20,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 25,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 32,
+        "move": "Growth"
+      },
+      {
+        "level": 39,
+        "move": "Synthesis"
+      },
+      {
+        "level": 46,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/001.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.109Z"
+  }
+}

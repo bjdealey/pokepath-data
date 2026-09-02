@@ -1,0 +1,192 @@
+{
+  "slug": "gorebyss",
+  "natdex": 368,
+  "name": "Gorebyss",
+  "names": {
+    "japan": "Sakurabyssサクラビス",
+    "french": "Rosabyss",
+    "german": "Saganabyss",
+    "korean": "분홍장이"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "South Sea Pokémon",
+  "heightM": 1.8,
+  "weightKg": 22.6,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Gorebyss' Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "spAttack": 114,
+    "spDefense": 75,
+    "speed": 52,
+    "total": 485
+  },
+  "evolutionChain": [
+    "clamperl",
+    "huntail",
+    "gorebyss"
+  ],
+  "flavorText": {
+    "ruby": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON's body is unharmed by ordinary attacks.",
+    "sapphire": "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this POKéMON inserts its thin mouth into the prey's body and drains the prey of its body fluids.",
+    "emerald": "A GOREBYSS siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
+    "firered": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+    "leafgreen": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks."
+  },
+  "locations": {
+    "ruby": "Evolve Clamperl",
+    "sapphire": "Evolve Clamperl",
+    "emerald": "Evolve Clamperl",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Whirlpool"
+      },
+      {
+        "level": 8,
+        "move": "Confusion"
+      },
+      {
+        "level": 15,
+        "move": "Agility"
+      },
+      {
+        "level": 22,
+        "move": "Water Pulse"
+      },
+      {
+        "level": 29,
+        "move": "Amnesia"
+      },
+      {
+        "level": 36,
+        "move": "Psychic"
+      },
+      {
+        "level": 43,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 50,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/368.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.522Z"
+  }
+}

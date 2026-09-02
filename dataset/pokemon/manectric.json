@@ -1,0 +1,211 @@
+{
+  "slug": "manectric",
+  "natdex": 310,
+  "name": "Manectric",
+  "names": {
+    "japan": "Livoltライボルト",
+    "french": "Élecsprint",
+    "german": "Voltenso",
+    "korean": "썬더볼트"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Discharge Pokémon",
+  "heightM": 1.5,
+  "weightKg": 40.2,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "Static: When a Pokémon makes contact with Manectric, it has a 30% chance of being ParalyzedLightning Rod: All Electric Attacks are drawn to Manectric"
+    },
+    {
+      "name": "Lightning Rod",
+      "description": "Static: When a Pokémon makes contact with Manectric, it has a 30% chance of being ParalyzedLightning Rod: All Electric Attacks are drawn to Manectric"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "spAttack": 105,
+    "spDefense": 60,
+    "speed": 105,
+    "total": 475
+  },
+  "evolutionChain": [
+    "electrike",
+    "manectric"
+  ],
+  "flavorText": {
+    "ruby": "MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this POKéMON creates thunderclouds.",
+    "sapphire": "MANECTRIC discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This POKéMON creates thunderclouds above its head.",
+    "emerald": "Because lightning falls in their vicinities, MANECTRIC were thought to have been born from lightning. In battle, they create thunderclouds.",
+    "firered": "It rarely appears before people. It is said to nest where lightning has fallen.",
+    "leafgreen": "It rarely appears before people. It is said to nest where lightning has fallen."
+  },
+  "locations": {
+    "ruby": "Route 118",
+    "sapphire": "Route 118",
+    "emerald": "Route 118",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Admin Eldes in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Howl"
+      },
+      {
+        "level": 4,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 9,
+        "move": "Leer"
+      },
+      {
+        "level": 12,
+        "move": "Howl"
+      },
+      {
+        "level": 17,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 20,
+        "move": "Spark"
+      },
+      {
+        "level": 25,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 31,
+        "move": "Roar"
+      },
+      {
+        "level": 39,
+        "move": "Bite"
+      },
+      {
+        "level": 45,
+        "move": "Thunder"
+      },
+      {
+        "level": 53,
+        "move": "Charge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/310.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.095Z"
+  }
+}

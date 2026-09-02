@@ -1,0 +1,204 @@
+{
+  "slug": "onix",
+  "natdex": 95,
+  "name": "Onix",
+  "names": {
+    "japan": "Iwarkイワーク",
+    "french": "Onix",
+    "german": "Onix",
+    "korean": "롱스톤"
+  },
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Rock Snake Pokémon",
+  "heightM": 8.8,
+  "weightKg": 210,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Onix receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Rock Head: Onix receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "spAttack": 30,
+    "spDefense": 45,
+    "speed": 70,
+    "total": 385
+  },
+  "evolutionChain": [
+    "onix",
+    "steelix"
+  ],
+  "flavorText": {
+    "ruby": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+    "sapphire": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+    "emerald": "There is a magnet in its brain that prevents an ONIX from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+    "firered": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+    "leafgreen": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Rock Tunnel Floor 1 & Basement 1, Seavault Canyon, Victory Road Floors 1, 2 & 3",
+    "leafgreen": "Rock Tunnel Floor 1 & Basement 1, Seavault Canyon, Victory Road Floors 1, 2 & 3",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Screech"
+      },
+      {
+        "level": 9,
+        "move": "Bind"
+      },
+      {
+        "level": 13,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 21,
+        "move": "Harden"
+      },
+      {
+        "level": 25,
+        "move": "Rage"
+      },
+      {
+        "level": 33,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 37,
+        "move": "Slam"
+      },
+      {
+        "level": 45,
+        "move": "Iron Tail"
+      },
+      {
+        "level": 49,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 57,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/095.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.764Z"
+  }
+}

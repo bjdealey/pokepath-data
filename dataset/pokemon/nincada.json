@@ -1,0 +1,185 @@
+{
+  "slug": "nincada",
+  "natdex": 290,
+  "name": "Nincada",
+  "names": {
+    "japan": "Tutininツチニン",
+    "french": "Ningale",
+    "german": "Nincada",
+    "korean": "토중몬"
+  },
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Trainee Pokémon",
+  "heightM": 0.5,
+  "weightKg": 5.5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "CompoundEyes",
+      "description": "Raises Nincada's Accuracy by 30%"
+    }
+  ],
+  "baseStats": {
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 40,
+    "total": 266
+  },
+  "evolutionChain": [
+    "nincada",
+    "ninjask",
+    "shedinja"
+  ],
+  "flavorText": {
+    "ruby": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+    "sapphire": "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can't withstand bright sunlight so avoids it.",
+    "emerald": "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.",
+    "firered": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+    "leafgreen": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead."
+  },
+  "locations": {
+    "ruby": "Route 116",
+    "sapphire": "Route 116",
+    "emerald": "Route 116",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 5,
+        "move": "Leech Life"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 14,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 19,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 25,
+        "move": "False Swipe"
+      },
+      {
+        "level": 31,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 38,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 45,
+        "move": "Dig"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/290.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.969Z"
+  }
+}

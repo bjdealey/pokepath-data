@@ -1,0 +1,86 @@
+{
+  "slug": "wobbuffet",
+  "natdex": 202,
+  "name": "Wobbuffet",
+  "names": {
+    "japan": "Sonansソーナンス",
+    "french": "Qulbutoké",
+    "german": "Woingenau",
+    "korean": "마자용"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Patient Pokémon",
+  "heightM": 1.3,
+  "weightKg": 28.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Shadow Tag",
+      "description": "The Opponent cannot Run or Switch"
+    }
+  ],
+  "baseStats": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "spAttack": 33,
+    "spDefense": 58,
+    "speed": 33,
+    "total": 405
+  },
+  "evolutionChain": [
+    "wynaut",
+    "wobbuffet"
+  ],
+  "flavorText": {
+    "ruby": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
+    "sapphire": "WOBBUFFET does nothing but endure attacks - it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND.",
+    "emerald": "Usually docile, a WOBBUFFET strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+    "firered": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+    "leafgreen": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike."
+  },
+  "locations": {
+    "ruby": "Safari Zone Entrance & Left Areas",
+    "sapphire": "Safari Zone Entrance & Left Areas",
+    "emerald": "Safari Zone Entrance & Left Areas",
+    "firered": "Cerulean Cave Floors 1, 2 & Basement 1, Ruin Valley",
+    "leafgreen": "Cerulean Cave Floors 1, 2 & Basement 1, Ruin Valley",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Counter"
+      },
+      {
+        "level": null,
+        "move": "Mirror Coat"
+      },
+      {
+        "level": null,
+        "move": "Safeguard"
+      },
+      {
+        "level": null,
+        "move": "Destiny Bond"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/202.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.426Z"
+  }
+}

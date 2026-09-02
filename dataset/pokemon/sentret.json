@@ -1,0 +1,215 @@
+{
+  "slug": "sentret",
+  "natdex": 161,
+  "name": "Sentret",
+  "names": {
+    "japan": "Otachiオタチ",
+    "french": "Fouinette",
+    "german": "Wiesor",
+    "korean": "꼬리선"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Scout Pokémon",
+  "heightM": 0.8,
+  "weightKg": 6,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Sentret can escape from Wild BattlesKeen Eye: Sentret's Accuracy cannot be Lowered by Opponent"
+    },
+    {
+      "name": "Keen Eye",
+      "description": "Run Away: Sentret can escape from Wild BattlesKeen Eye: Sentret's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 46,
+    "defense": 34,
+    "spAttack": 35,
+    "spDefense": 45,
+    "speed": 20,
+    "total": 215
+  },
+  "evolutionChain": [
+    "sentret",
+    "furret"
+  ],
+  "flavorText": {
+    "ruby": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear.",
+    "sapphire": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear.",
+    "emerald": "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.",
+    "firered": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
+    "leafgreen": "A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Canyon Entrance, Five Isle Meadow, Water Path",
+    "leafgreen": "Canyon Entrance, Five Isle Meadow, Water Path",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 4,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 12,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 17,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 24,
+        "move": "Slam"
+      },
+      {
+        "level": 31,
+        "move": "Follow Me"
+      },
+      {
+        "level": 40,
+        "move": "Rest"
+      },
+      {
+        "level": 49,
+        "move": "Amnesia"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/161.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.175Z"
+  }
+}

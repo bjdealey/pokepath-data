@@ -1,0 +1,227 @@
+{
+  "slug": "cubone",
+  "natdex": 104,
+  "name": "Cubone",
+  "names": {
+    "japan": "Karakaraカラカラ",
+    "french": "Osselait",
+    "german": "Tragosso",
+    "korean": "탕구리"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Lonely Pokémon",
+  "heightM": 0.4,
+  "weightKg": 6.5,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Cubone receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Cubone"
+    },
+    {
+      "name": "Lightning Rod",
+      "description": "Rock Head: Cubone receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Cubone"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "spAttack": 40,
+    "spDefense": 50,
+    "speed": 35,
+    "total": 320
+  },
+  "evolutionChain": [
+    "cubone",
+    "marowak"
+  ],
+  "flavorText": {
+    "ruby": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
+    "sapphire": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
+    "emerald": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+    "firered": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+    "leafgreen": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Pokemon Tower Floors 3, 4, 5, 6 & 7, Seavault Canyon",
+    "leafgreen": "Pokemon Tower Floors 3, 4, 5, 6 & 7, Seavault Canyon",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 9,
+        "move": "Bone Club"
+      },
+      {
+        "level": 13,
+        "move": "Headbutt"
+      },
+      {
+        "level": 17,
+        "move": "Leer"
+      },
+      {
+        "level": 21,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 25,
+        "move": "Bonemerang"
+      },
+      {
+        "level": 29,
+        "move": "Rage"
+      },
+      {
+        "level": 33,
+        "move": "False Swipe"
+      },
+      {
+        "level": 37,
+        "move": "Thrash"
+      },
+      {
+        "level": 41,
+        "move": "Bone Rush"
+      },
+      {
+        "level": 45,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/104.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.818Z"
+  }
+}

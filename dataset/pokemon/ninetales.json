@@ -1,0 +1,167 @@
+{
+  "slug": "ninetales",
+  "natdex": 38,
+  "name": "Ninetales",
+  "names": {
+    "japan": "Kyukonキュウコン",
+    "french": "Feunard",
+    "german": "Vulnona",
+    "korean": "나인테일"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Fox Pokémon",
+  "heightM": 1.1,
+  "weightKg": 19.9,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Flash Fire",
+      "description": "Prevents Ninetales from being attacked by Fire type moves, and also boosts the Fire type moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "spAttack": 81,
+    "spDefense": 100,
+    "speed": 100,
+    "total": 505
+  },
+  "evolutionChain": [
+    "vulpix",
+    "ninetales"
+  ],
+  "flavorText": {
+    "ruby": "NINETALES casts a sinister light from its bright red eyes to gain total control over its foe's mind. This POKéMON is said to live for a thousand years.",
+    "sapphire": "Legend has it that NINETALES came into being when nine wizards possessing sacred powers merged into one. This POKéMON is highly intelligent - it can understand human speech.",
+    "emerald": "It has long been said that each of the nine tails embody an enchanted power. A long-lived NINETALES will have fur that shines like gold.",
+    "firered": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+    "leafgreen": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse."
+  },
+  "locations": {
+    "ruby": "Evolve Vulpix",
+    "sapphire": "Evolve Vulpix",
+    "emerald": "Evolve Vulpix",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "leafgreen": "Evolve Vulpix",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "xd": "Evolve Vulpix"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": null,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": null,
+        "move": "Safeguard"
+      },
+      {
+        "level": 45,
+        "move": "Fire Spin"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/038.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.363Z"
+  }
+}

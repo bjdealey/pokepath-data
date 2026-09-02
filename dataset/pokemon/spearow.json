@@ -1,0 +1,172 @@
+{
+  "slug": "spearow",
+  "natdex": 21,
+  "name": "Spearow",
+  "names": {
+    "japan": "Onisuzumeオニスズメ",
+    "french": "Piafabec",
+    "german": "Habitak",
+    "korean": "깨비참"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tiny Bird Pokémon",
+  "heightM": 0.3,
+  "weightKg": 2,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Spearow's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "spAttack": 31,
+    "spDefense": 31,
+    "speed": 70,
+    "total": 262
+  },
+  "evolutionChain": [
+    "spearow",
+    "fearow"
+  ],
+  "flavorText": {
+    "ruby": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+    "sapphire": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+    "emerald": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+    "firered": "It busily flits around here and there. Even if it is frail, it can be a tough foe that uses MIRROR MOVE.",
+    "leafgreen": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Routes 3, 4, 9, 10, 11, 17, 18, 22, 23, Treasure Beach, Kindle Road, Mt. Ember, Cape Brink, Water Path, Ruin Valley, Canyon Entrance",
+    "leafgreen": "Routes 3, 4, 9, 10, 11, 17, 18, 22, 23, Treasure Beach, Kindle Road, Mt. Ember, Cape Brink, Water Path, Ruin Valley, Canyon Entrance",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Ezin in Phenac Stadium"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Leer"
+      },
+      {
+        "level": 13,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 19,
+        "move": "Pursuit"
+      },
+      {
+        "level": 25,
+        "move": "Aerial Ace"
+      },
+      {
+        "level": 31,
+        "move": "Mirror Move"
+      },
+      {
+        "level": 37,
+        "move": "Drill Peck"
+      },
+      {
+        "level": 43,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/021.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.258Z"
+  }
+}

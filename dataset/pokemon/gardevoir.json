@@ -1,0 +1,236 @@
+{
+  "slug": "gardevoir",
+  "natdex": 282,
+  "name": "Gardevoir",
+  "names": {
+    "japan": "Sirnightサーナイト",
+    "french": "Gardevoir",
+    "german": "Guardevoir",
+    "korean": "가디안"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Embrace Pokémon",
+  "heightM": 1.6,
+  "weightKg": 48.4,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "Synchronize: When Gardevoir is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionTrace: Copies Opponent's Ability when brought into Battle"
+    },
+    {
+      "name": "Trace",
+      "description": "Synchronize: When Gardevoir is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionTrace: Copies Opponent's Ability when brought into Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "spAttack": 125,
+    "spDefense": 115,
+    "speed": 80,
+    "total": 518
+  },
+  "evolutionChain": [
+    "ralts",
+    "kirlia",
+    "gardevoir"
+  ],
+  "flavorText": {
+    "ruby": "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
+    "sapphire": "GARDEVOIR has the psychokinetic power to distort the dimensions and create a small black hole. This POKéMON will try to protect its TRAINER even at the risk of its own life.",
+    "emerald": "It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its TRAINER.",
+    "firered": "It has the power to predict the future. Its power peaks when it is protecting its TRAINER.",
+    "leafgreen": "It has the power to predict the future. Its power peaks when it is protecting its TRAINER."
+  },
+  "locations": {
+    "ruby": "Evolve Kirlia",
+    "sapphire": "Evolve Kirlia",
+    "emerald": "Evolve Kirlia",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Kirlia"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": null,
+        "move": "Double Team"
+      },
+      {
+        "level": null,
+        "move": "Teleport"
+      },
+      {
+        "level": 6,
+        "move": "Confusion"
+      },
+      {
+        "level": 11,
+        "move": "Double Team"
+      },
+      {
+        "level": 16,
+        "move": "Teleport"
+      },
+      {
+        "level": 21,
+        "move": "Calm Mind"
+      },
+      {
+        "level": 26,
+        "move": "Psychic"
+      },
+      {
+        "level": 33,
+        "move": "Imprison"
+      },
+      {
+        "level": 42,
+        "move": "Future Sight"
+      },
+      {
+        "level": 51,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 60,
+        "move": "Dream Eater"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/282.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.919Z"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "cloyster",
+  "natdex": 91,
+  "name": "Cloyster",
+  "names": {
+    "japan": "Parshenパルシェン",
+    "french": "Crustabri",
+    "german": "Austos",
+    "korean": "파르셀"
+  },
+  "types": [
+    "water",
+    "ice"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bivalve Pokémon",
+  "heightM": 1.5,
+  "weightKg": 132.5,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Shell Armor",
+      "description": "The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "spAttack": 85,
+    "spDefense": 45,
+    "speed": 70,
+    "total": 525
+  },
+  "evolutionChain": [
+    "shellder",
+    "cloyster"
+  ],
+  "flavorText": {
+    "ruby": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
+    "sapphire": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
+    "emerald": "It swims in the sea by swallowing water, then jetting it out toward the rear. The CLOYSTER shoots spikes from its shell using the same system.",
+    "firered": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+    "leafgreen": "When attacked, it launches its horns in quick volleys. Its innards have never been seen."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Evolve Shellder",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Evolve Shellder"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Withdraw"
+      },
+      {
+        "level": null,
+        "move": "Supersonic"
+      },
+      {
+        "level": null,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": null,
+        "move": "Protect"
+      },
+      {
+        "level": 33,
+        "move": "Spikes"
+      },
+      {
+        "level": 41,
+        "move": "Spike Cannon"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/091.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.738Z"
+  }
+}

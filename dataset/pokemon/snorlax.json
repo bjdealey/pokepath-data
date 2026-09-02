@@ -1,0 +1,250 @@
+{
+  "slug": "snorlax",
+  "natdex": 143,
+  "name": "Snorlax",
+  "names": {
+    "japan": "Kabigonカビゴン",
+    "french": "Ronflex",
+    "german": "Relaxo",
+    "korean": "잠만보"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Sleeping Pokémon",
+  "heightM": 2.1,
+  "weightKg": 460,
+  "captureRate": 25,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Immunity",
+      "description": "Immunity: Prevents Snorlax from being PoisonedThick Fat: Fire & Ice Type moves do 50% Damage on Snorlax"
+    },
+    {
+      "name": "Thick Fat",
+      "description": "Immunity: Prevents Snorlax from being PoisonedThick Fat: Fire & Ice Type moves do 50% Damage on Snorlax"
+    }
+  ],
+  "baseStats": {
+    "hp": 160,
+    "attack": 110,
+    "defense": 65,
+    "spAttack": 65,
+    "spDefense": 110,
+    "speed": 30,
+    "total": 540
+  },
+  "evolutionChain": [
+    "snorlax"
+  ],
+  "flavorText": {
+    "ruby": "SNORLAX's typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
+    "sapphire": "SNORLAX's typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
+    "emerald": "SNORLAX's typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its big belly as a place to play.",
+    "firered": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+    "leafgreen": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Routes 12 & 16",
+    "leafgreen": "Routes 12 & 16",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Ardos in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 6,
+        "move": "Amnesia"
+      },
+      {
+        "level": 10,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 15,
+        "move": "Belly Drum"
+      },
+      {
+        "level": 19,
+        "move": "Headbutt"
+      },
+      {
+        "level": 24,
+        "move": "Yawn"
+      },
+      {
+        "level": 28,
+        "move": "Rest"
+      },
+      {
+        "level": 28,
+        "move": "Snore"
+      },
+      {
+        "level": 33,
+        "move": "Body Slam"
+      },
+      {
+        "level": 37,
+        "move": "Block"
+      },
+      {
+        "level": 42,
+        "move": "Covet"
+      },
+      {
+        "level": 46,
+        "move": "Rollout"
+      },
+      {
+        "level": 51,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/143.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.066Z"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "porygon",
+  "natdex": 137,
+  "name": "Porygon",
+  "names": {
+    "japan": "Porygonポリゴン",
+    "french": "Porygon",
+    "german": "Porygon",
+    "korean": "폴리곤"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Virtual Pokémon",
+  "heightM": 0.8,
+  "weightKg": 36.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Trace",
+      "description": "Copies Opponent's Ability when brought into Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "spAttack": 85,
+    "spDefense": 75,
+    "speed": 40,
+    "total": 395
+  },
+  "evolutionChain": [
+    "porygon",
+    "porygon2"
+  ],
+  "flavorText": {
+    "ruby": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying.",
+    "sapphire": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying.",
+    "emerald": "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A PORYGON is copy-protected so it cannot be duplicated.",
+    "firered": "Using the most advanced technologies, scientists finally succeeded in making the first artificial POKéMON.",
+    "leafgreen": "A POKéMON that consists entirely of programming code. It is capable of moving freely in cyberspace."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Celadon Game Corner 9999 Coins",
+    "leafgreen": "Celadon Game Corner 6500 Coins",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Conversion 2"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Conversion"
+      },
+      {
+        "level": 9,
+        "move": "Agility"
+      },
+      {
+        "level": 12,
+        "move": "Psybeam"
+      },
+      {
+        "level": 20,
+        "move": "Recover"
+      },
+      {
+        "level": 24,
+        "move": "Sharpen"
+      },
+      {
+        "level": 32,
+        "move": "Lock-on"
+      },
+      {
+        "level": 36,
+        "move": "Tri Attack"
+      },
+      {
+        "level": 44,
+        "move": "Recycle"
+      },
+      {
+        "level": 48,
+        "move": "Zap Cannon"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/137.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.024Z"
+  }
+}

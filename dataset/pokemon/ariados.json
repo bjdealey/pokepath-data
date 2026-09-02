@@ -1,0 +1,200 @@
+{
+  "slug": "ariados",
+  "natdex": 168,
+  "name": "Ariados",
+  "names": {
+    "japan": "Ariadosアリアドス",
+    "french": "Migalos",
+    "german": "Ariados",
+    "korean": "아리아도스"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Long Leg Pokémon",
+  "heightM": 1.1,
+  "weightKg": 33.5,
+  "captureRate": 90,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Insomnia: Prevents Ariados from being put to SleepSwarm: When Ariados's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    },
+    {
+      "name": "Swarm",
+      "description": "Insomnia: Prevents Ariados from being put to SleepSwarm: When Ariados's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 40,
+    "total": 390
+  },
+  "evolutionChain": [
+    "spinarak",
+    "ariados"
+  ],
+  "flavorText": {
+    "ruby": "ARIADOS's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
+    "sapphire": "ARIADOS's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
+    "emerald": "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
+    "firered": "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
+    "leafgreen": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from Emerald/FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Evolve Spinarak",
+    "firered": "Evolve Spinarak",
+    "leafgreen": "Evolve Spinarak",
+    "colosseum": "Snagged from Cipher Peon Lesar in Cipher Lab",
+    "xd": "Evolve Spinarak"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": null,
+        "move": "String Shot"
+      },
+      {
+        "level": null,
+        "move": "Scary Face"
+      },
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": 6,
+        "move": "Scary Face"
+      },
+      {
+        "level": 11,
+        "move": "Constrict"
+      },
+      {
+        "level": 17,
+        "move": "Night Shade"
+      },
+      {
+        "level": 25,
+        "move": "Leech Life"
+      },
+      {
+        "level": 34,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 43,
+        "move": "Spider Web"
+      },
+      {
+        "level": 53,
+        "move": "Agility"
+      },
+      {
+        "level": 63,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/168.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.223Z"
+  }
+}

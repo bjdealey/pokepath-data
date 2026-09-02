@@ -1,0 +1,208 @@
+{
+  "slug": "roselia",
+  "natdex": 315,
+  "name": "Roselia",
+  "names": {
+    "japan": "Roseliaロゼリア",
+    "french": "Rosélia",
+    "german": "Roselia",
+    "korean": "로젤리아"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Thorn Pokémon",
+  "heightM": 0.3,
+  "weightKg": 2,
+  "captureRate": 150,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Fairy",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure",
+      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattlePoison Point: When a Pokémon makes contact with Roselia, it has a 30% chance of being Poisoned"
+    },
+    {
+      "name": "Poison Point",
+      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattlePoison Point: When a Pokémon makes contact with Roselia, it has a 30% chance of being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 45,
+    "spAttack": 100,
+    "spDefense": 80,
+    "speed": 65,
+    "total": 400
+  },
+  "evolutionChain": [
+    "roselia"
+  ],
+  "flavorText": {
+    "ruby": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things.",
+    "sapphire": "On extremely rare occasions, a ROSELIA is said to appear with its flowers in unusual colors. The thorns on this POKéMON's head contain a vicious poison.",
+    "emerald": "A ROSELIA that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.",
+    "firered": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the ROSELIA is.",
+    "leafgreen": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the ROSELIA is."
+  },
+  "locations": {
+    "ruby": "Route 117",
+    "sapphire": "Route 117",
+    "emerald": "Trade from Ruby/Sapphire/XD",
+    "firered": "Trade from Ruby/Sapphire/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/XD",
+    "colosseum": "Trade from Ruby/Sapphire/XD",
+    "xd": "Snagged from Cipher Peon Fasin in Phenac Training School"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": 5,
+        "move": "Growth"
+      },
+      {
+        "level": 9,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 13,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 17,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 21,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 25,
+        "move": "Magical Leaf"
+      },
+      {
+        "level": 29,
+        "move": "Grasswhistle"
+      },
+      {
+        "level": 33,
+        "move": "Giga Drain"
+      },
+      {
+        "level": 37,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 41,
+        "move": "Ingrain"
+      },
+      {
+        "level": 45,
+        "move": "Toxic"
+      },
+      {
+        "level": 49,
+        "move": "Petal Dance"
+      },
+      {
+        "level": 53,
+        "move": "Aromatherapy"
+      },
+      {
+        "level": 57,
+        "move": "Synthesis"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/315.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.125Z"
+  }
+}

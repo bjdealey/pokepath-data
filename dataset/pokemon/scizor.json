@@ -1,0 +1,196 @@
+{
+  "slug": "scizor",
+  "natdex": 212,
+  "name": "Scizor",
+  "names": {
+    "japan": "Hassamハッサム",
+    "french": "Cizayox",
+    "german": "Scherox",
+    "korean": "핫삼"
+  },
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Pincer Pokémon",
+  "heightM": 1.8,
+  "weightKg": 118,
+  "captureRate": 25,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "When Scizor's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "spAttack": 55,
+    "spDefense": 80,
+    "speed": 65,
+    "total": 500
+  },
+  "evolutionChain": [
+    "scyther",
+    "scizor"
+  ],
+  "flavorText": {
+    "ruby": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
+    "sapphire": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
+    "emerald": "A SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+    "firered": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+    "leafgreen": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Evolve Scyther",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Evolve Scyther"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 6,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 11,
+        "move": "Pursuit"
+      },
+      {
+        "level": 16,
+        "move": "False Swipe"
+      },
+      {
+        "level": 21,
+        "move": "Agility"
+      },
+      {
+        "level": 26,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 31,
+        "move": "Slash"
+      },
+      {
+        "level": 36,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 41,
+        "move": "Double Team"
+      },
+      {
+        "level": 46,
+        "move": "Fury Cutter"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/212.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.487Z"
+  }
+}

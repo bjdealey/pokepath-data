@@ -1,0 +1,236 @@
+{
+  "slug": "jynx",
+  "natdex": 124,
+  "name": "Jynx",
+  "names": {
+    "japan": "Rougelaルージュラ",
+    "french": "Lippoutou",
+    "german": "Rossana",
+    "korean": "루주라"
+  },
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Humanshape Pokémon",
+  "heightM": 1.4,
+  "weightKg": 40.6,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Jynx from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "spAttack": 115,
+    "spDefense": 95,
+    "speed": 95,
+    "total": 455
+  },
+  "evolutionChain": [
+    "smoochum",
+    "jynx"
+  ],
+  "flavorText": {
+    "ruby": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+    "sapphire": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+    "emerald": "A JYNX sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
+    "firered": "It speaks using a language that sounds human. Research is under way to determine what is being said.",
+    "leafgreen": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Trade for Poliwhirl in Cerulean City",
+    "leafgreen": "Trade for Poliwhirl in Cerulean City",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": null,
+        "move": "Lovely Kiss"
+      },
+      {
+        "level": null,
+        "move": "Powder Snow"
+      },
+      {
+        "level": 9,
+        "move": "Lovely Kiss"
+      },
+      {
+        "level": 13,
+        "move": "Powder Snow"
+      },
+      {
+        "level": 21,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 25,
+        "move": "Ice Punch"
+      },
+      {
+        "level": 35,
+        "move": "Mean Look"
+      },
+      {
+        "level": 41,
+        "move": "Fake Tears"
+      },
+      {
+        "level": 51,
+        "move": "Body Slam"
+      },
+      {
+        "level": 57,
+        "move": "Perish Song"
+      },
+      {
+        "level": 67,
+        "move": "Blizzard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/124.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.947Z"
+  }
+}

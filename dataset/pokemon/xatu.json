@@ -1,0 +1,212 @@
+{
+  "slug": "xatu",
+  "natdex": 178,
+  "name": "Xatu",
+  "names": {
+    "japan": "Natioネイティオ",
+    "french": "Xatu",
+    "german": "Xatu",
+    "korean": "네이티오"
+  },
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mystic Pokémon",
+  "heightM": 1.5,
+  "weightKg": 15,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "Synchronize: When Xatu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionEarly Bird: If afflicted with Sleep, Xatu wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Synchronize: When Xatu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionEarly Bird: If afflicted with Sleep, Xatu wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "spAttack": 95,
+    "spDefense": 70,
+    "speed": 95,
+    "total": 470
+  },
+  "evolutionChain": [
+    "natu",
+    "xatu"
+  ],
+  "flavorText": {
+    "ruby": "XATU stands rooted and still in one spot all day long. People believe that this POKéMON does so out of fear of the terrible things it has foreseen in the future.",
+    "sapphire": "XATU is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical POKéMON out of their belief that XATU is in possession of the power to see into the future.",
+    "emerald": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that XATU are emissaries from another world.",
+    "firered": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+    "leafgreen": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+  },
+  "locations": {
+    "ruby": "Safari Zone Acro Bike Area",
+    "sapphire": "Safari Zone Acro Bike Area",
+    "emerald": "Safari Zone Acro Bike Area",
+    "firered": "Evolve Natu",
+    "leafgreen": "Evolve Natu",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Evolve Natu"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 10,
+        "move": "Night Shade"
+      },
+      {
+        "level": 20,
+        "move": "Teleport"
+      },
+      {
+        "level": 35,
+        "move": "Wish"
+      },
+      {
+        "level": 35,
+        "move": "Future Sight"
+      },
+      {
+        "level": 50,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 65,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/178.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.281Z"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "entei",
+  "natdex": 244,
+  "name": "Entei",
+  "names": {
+    "japan": "Enteiエンテイ",
+    "french": "Entei",
+    "german": "Entei",
+    "korean": "앤테이"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Volcano Pokémon",
+  "heightM": 2.1,
+  "weightKg": 198,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Entei use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "spAttack": 90,
+    "spDefense": 75,
+    "speed": 100,
+    "total": 580
+  },
+  "evolutionChain": [
+    "entei"
+  ],
+  "flavorText": {
+    "ruby": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+    "sapphire": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+    "emerald": "ENTEI embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.",
+    "firered": "A POKéMON that races across the land. It is said that one is born every time a new volcano appears.",
+    "leafgreen": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum",
+    "firered": "Wild in Kanto after Elite 4 when Starter chosen was Bulbasaur",
+    "leafgreen": "Wild in Kanto after Elite 4 when Starter chosen was Bulbasaur",
+    "colosseum": "Snagged from Cipher Admin Dakim in Mt. Battle",
+    "xd": "Trade from LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 11,
+        "move": "Ember"
+      },
+      {
+        "level": 21,
+        "move": "Roar"
+      },
+      {
+        "level": 31,
+        "move": "Fire Spin"
+      },
+      {
+        "level": 41,
+        "move": "Stomp"
+      },
+      {
+        "level": 51,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 61,
+        "move": "Swagger"
+      },
+      {
+        "level": 71,
+        "move": "Fire Blast"
+      },
+      {
+        "level": 81,
+        "move": "Calm Mind"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/244.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.686Z"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "lotad",
+  "natdex": 270,
+  "name": "Lotad",
+  "names": {
+    "japan": "Hassbohハスボー",
+    "french": "Nénupiot",
+    "german": "Loturzel",
+    "korean": "연꽃몬"
+  },
+  "types": [
+    "water",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Water Weed Pokémon",
+  "heightM": 0.5,
+  "weightKg": 2.6,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Water 1",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Lotad's Speed is DoubledRain Dish: When Rain Dance is in effect, Lotad recovers 1/16th of it's max hit-points"
+    },
+    {
+      "name": "Rain Dish",
+      "description": "Swift Swim: When Rain Dance is in effect, Lotad's Speed is DoubledRain Dish: When Rain Dance is in effect, Lotad recovers 1/16th of it's max hit-points"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "spAttack": 40,
+    "spDefense": 50,
+    "speed": 30,
+    "total": 220
+  },
+  "evolutionChain": [
+    "lotad",
+    "lombre",
+    "ludicolo"
+  ],
+  "flavorText": {
+    "ruby": "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water.",
+    "sapphire": "LOTAD is said to have dwelled on land before. However, this POKéMON is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+    "emerald": "This POKéMON lives in ponds with clean water. It is known to ferry small POKéMON across ponds by carrying them on the broad leaf on its head.",
+    "firered": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+    "leafgreen": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts."
+  },
+  "locations": {
+    "ruby": "Trade from Sapphire/Emerald",
+    "sapphire": "Routes 102 & 114",
+    "emerald": "Routes 102 & 114",
+    "firered": "Trade from Sapphire/Emerald",
+    "leafgreen": "Trade from Sapphire/Emerald",
+    "colosseum": "Trade from Sapphire/Emerald",
+    "xd": "Trade from Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": 3,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Absorb"
+      },
+      {
+        "level": 13,
+        "move": "Nature Power"
+      },
+      {
+        "level": 21,
+        "move": "Mist"
+      },
+      {
+        "level": 31,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 43,
+        "move": "Mega Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/270.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.846Z"
+  }
+}

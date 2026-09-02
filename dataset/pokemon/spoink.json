@@ -1,0 +1,219 @@
+{
+  "slug": "spoink",
+  "natdex": 325,
+  "name": "Spoink",
+  "names": {
+    "japan": "Banebooバネブー",
+    "french": "Spoink",
+    "german": "Spoink",
+    "korean": "피그점프"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bounce Pokémon",
+  "heightM": 0.7,
+  "weightKg": 30.6,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on SpoinkOwn Tempo: Prevents Spoink from being Confused"
+    },
+    {
+      "name": "Own Tempo",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on SpoinkOwn Tempo: Prevents Spoink from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "spAttack": 70,
+    "spDefense": 80,
+    "speed": 60,
+    "total": 330
+  },
+  "evolutionChain": [
+    "spoink",
+    "grumpig"
+  ],
+  "flavorText": {
+    "ruby": "SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POKéMON cannot afford to stop bouncing - if it stops, its heart will stop.",
+    "sapphire": "SPOINK keeps a pearl on top of its head. The pearl functions to amplify this POKéMON's psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+    "emerald": "A POKéMON that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
+    "firered": "It apparently dies if it stops bouncing about. It carries a pearl from CLAMPERL on its head.",
+    "leafgreen": "It apparently dies if it stops bouncing about. It carries a pearl from CLAMPERL on its head."
+  },
+  "locations": {
+    "ruby": "Jagged Pass",
+    "sapphire": "Jagged Pass",
+    "emerald": "Jagged Pass",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": 7,
+        "move": "Psywave"
+      },
+      {
+        "level": 10,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 16,
+        "move": "Psybeam"
+      },
+      {
+        "level": 19,
+        "move": "Psych Up"
+      },
+      {
+        "level": 25,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 28,
+        "move": "Magic Coat"
+      },
+      {
+        "level": 34,
+        "move": "Psychic"
+      },
+      {
+        "level": 37,
+        "move": "Rest"
+      },
+      {
+        "level": 37,
+        "move": "Snore"
+      },
+      {
+        "level": 43,
+        "move": "Bounce"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/325.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.192Z"
+  }
+}

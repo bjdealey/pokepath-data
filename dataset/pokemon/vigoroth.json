@@ -1,0 +1,248 @@
+{
+  "slug": "vigoroth",
+  "natdex": 288,
+  "name": "Vigoroth",
+  "names": {
+    "japan": "Yarukimonoヤルキモノ",
+    "french": "Vigoroth",
+    "german": "Muntier",
+    "korean": "발바로"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Wild Monkey Pokémon",
+  "heightM": 1.4,
+  "weightKg": 46.5,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Vital Spirit",
+      "description": "Vigoroth Cannot be put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 90,
+    "total": 440
+  },
+  "evolutionChain": [
+    "slakoth",
+    "vigoroth",
+    "slaking"
+  ],
+  "flavorText": {
+    "ruby": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can't tolerate sitting still for even a minute. This POKéMON's stress level rises if it can't be moving constantly.",
+    "sapphire": "VIGOROTH is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this POKéMON to run wild throughout the jungle before it can settle down.",
+    "emerald": "It can't keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn't, it can't sleep at night.",
+    "firered": "It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still.",
+    "leafgreen": "It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still."
+  },
+  "locations": {
+    "ruby": "Evolve Slakoth",
+    "sapphire": "Evolve Slakoth",
+    "emerald": "Evolve Slakoth",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": null,
+        "move": "Encore"
+      },
+      {
+        "level": null,
+        "move": "Uproar"
+      },
+      {
+        "level": 7,
+        "move": "Encore"
+      },
+      {
+        "level": 13,
+        "move": "Uproar"
+      },
+      {
+        "level": 19,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 25,
+        "move": "Endure"
+      },
+      {
+        "level": 31,
+        "move": "Slash"
+      },
+      {
+        "level": 37,
+        "move": "Counter"
+      },
+      {
+        "level": 43,
+        "move": "Focus Punch"
+      },
+      {
+        "level": 49,
+        "move": "Reversal"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/288.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.957Z"
+  }
+}

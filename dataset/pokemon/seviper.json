@@ -1,0 +1,203 @@
+{
+  "slug": "seviper",
+  "natdex": 336,
+  "name": "Seviper",
+  "names": {
+    "japan": "Habunakeハブネーク",
+    "french": "Séviper",
+    "german": "Vipitis",
+    "korean": "세비퍼"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Fang Snake Pokémon",
+  "heightM": 2.7,
+  "weightKg": 52.5,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Seviper has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "spAttack": 100,
+    "spDefense": 60,
+    "speed": 65,
+    "total": 458
+  },
+  "evolutionChain": [
+    "seviper"
+  ],
+  "flavorText": {
+    "ruby": "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword- edged tail.",
+    "sapphire": "SEVIPER's swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This POKéMON will not give up its long- running blood feud with ZANGOOSE.",
+    "emerald": "SEVIPER and ZANGOOSE are eternal rivals. It counters a ZANGOOSE's dazzling agility with its swordlike tail, which also oozes a horrible poison.",
+    "firered": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
+    "leafgreen": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs."
+  },
+  "locations": {
+    "ruby": "Trade from Sapphire/Emerald",
+    "sapphire": "Route 114",
+    "emerald": "Route 114",
+    "firered": "Trade from Sapphire/Emerald",
+    "leafgreen": "Trade from Sapphire/Emerald",
+    "colosseum": "Trade from Sapphire/Emerald",
+    "xd": "Trade from Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": 7,
+        "move": "Lick"
+      },
+      {
+        "level": 10,
+        "move": "Bite"
+      },
+      {
+        "level": 16,
+        "move": "Poison Tail"
+      },
+      {
+        "level": 19,
+        "move": "Screech"
+      },
+      {
+        "level": 25,
+        "move": "Glare"
+      },
+      {
+        "level": 28,
+        "move": "Crunch"
+      },
+      {
+        "level": 34,
+        "move": "Poison Fang"
+      },
+      {
+        "level": 37,
+        "move": "Swagger"
+      },
+      {
+        "level": 43,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/336.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.259Z"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "slug": "slakoth",
+  "natdex": 287,
+  "name": "Slakoth",
+  "names": {
+    "japan": "Namakeroナマケロ",
+    "french": "Parecool",
+    "german": "Bummelz",
+    "korean": "게을로"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Slacker Pokémon",
+  "heightM": 0.8,
+  "weightKg": 24,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Truant",
+      "description": "Slakoth can only attack once every two turns"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 30,
+    "total": 280
+  },
+  "evolutionChain": [
+    "slakoth",
+    "vigoroth",
+    "slaking"
+  ],
+  "flavorText": {
+    "ruby": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POKéMON's sole daily meal consists of just three leaves.",
+    "sapphire": "SLAKOTH's heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this POKéMON in motion.",
+    "emerald": "It sleeps virtually all day and night long. It doesn't change its nest its entire life, but it sometimes travels great distances by swimming in rivers.",
+    "firered": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
+    "leafgreen": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities."
+  },
+  "locations": {
+    "ruby": "Petalburg Woods",
+    "sapphire": "Petalburg Woods",
+    "emerald": "Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": 7,
+        "move": "Encore"
+      },
+      {
+        "level": 13,
+        "move": "Slack Off"
+      },
+      {
+        "level": 19,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 25,
+        "move": "Amnesia"
+      },
+      {
+        "level": 31,
+        "move": "Covet"
+      },
+      {
+        "level": 37,
+        "move": "Counter"
+      },
+      {
+        "level": 43,
+        "move": "Flail"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/287.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.951Z"
+  }
+}

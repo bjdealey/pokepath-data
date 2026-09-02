@@ -1,0 +1,188 @@
+{
+  "slug": "venonat",
+  "natdex": 48,
+  "name": "Venonat",
+  "names": {
+    "japan": "Kongpangコンパン",
+    "french": "Mimitoss",
+    "german": "Bluzuk",
+    "korean": "콘팡"
+  },
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Insect Pokémon",
+  "heightM": 1,
+  "weightKg": 30,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Compound Eyes",
+      "description": "Raises Venonat's Accuracy by 30%"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "spAttack": 40,
+    "spDefense": 55,
+    "speed": 45,
+    "total": 305
+  },
+  "evolutionChain": [
+    "venonat",
+    "venomoth"
+  ],
+  "flavorText": {
+    "ruby": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
+    "sapphire": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
+    "emerald": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
+    "firered": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.",
+    "leafgreen": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Routes 12, 13, 14 & 15, Berry Forest, Bond Bridge, Safari Zone Area 3",
+    "leafgreen": "Routes 12, 13, 14 & 15, Berry Forest, Bond Bridge, Safari Zone Area 3",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Disable"
+      },
+      {
+        "level": null,
+        "move": "Foresight"
+      },
+      {
+        "level": 9,
+        "move": "Supersonic"
+      },
+      {
+        "level": 17,
+        "move": "Confusion"
+      },
+      {
+        "level": 20,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 25,
+        "move": "Leech Life"
+      },
+      {
+        "level": 28,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 33,
+        "move": "Psybeam"
+      },
+      {
+        "level": 36,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 41,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/048.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.425Z"
+  }
+}

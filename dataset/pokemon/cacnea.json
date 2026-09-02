@@ -1,0 +1,196 @@
+{
+  "slug": "cacnea",
+  "natdex": 331,
+  "name": "Cacnea",
+  "names": {
+    "japan": "Saboneaサボネア",
+    "french": "Cacnea",
+    "german": "Tuska",
+    "korean": "선인왕"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cactus Pokémon",
+  "heightM": 0.4,
+  "weightKg": 51.3,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant",
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Increases Evasion in Sandstorm"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "spAttack": 85,
+    "spDefense": 40,
+    "speed": 35,
+    "total": 335
+  },
+  "evolutionChain": [
+    "cacnea",
+    "cacturne"
+  ],
+  "flavorText": {
+    "ruby": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
+    "sapphire": "The more arid and harsh the environment, the more pretty and fragrant a flower CACNEA grows. This POKéMON battles by wildly swinging its thorny arms.",
+    "emerald": "CACNEA live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.",
+    "firered": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+    "leafgreen": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body."
+  },
+  "locations": {
+    "ruby": "Route 111 (Desert)",
+    "sapphire": "Route 111 (Desert)",
+    "emerald": "Route 111 (Desert)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 5,
+        "move": "Absorb"
+      },
+      {
+        "level": 9,
+        "move": "Growth"
+      },
+      {
+        "level": 13,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 17,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 21,
+        "move": "Pin Missile"
+      },
+      {
+        "level": 25,
+        "move": "Ingrain"
+      },
+      {
+        "level": 29,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 33,
+        "move": "Spikes"
+      },
+      {
+        "level": 37,
+        "move": "Needle Arm"
+      },
+      {
+        "level": 41,
+        "move": "Cotton Spore"
+      },
+      {
+        "level": 45,
+        "move": "Sandstorm"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/331.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.228Z"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "drowzee",
+  "natdex": 96,
+  "name": "Drowzee",
+  "names": {
+    "japan": "Sleepeスリープ",
+    "french": "Soporifik",
+    "german": "Traumato",
+    "korean": "슬리프"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Hypnosis Pokémon",
+  "heightM": 1,
+  "weightKg": 32.4,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Prevents Drowzee from being put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "spAttack": 43,
+    "spDefense": 90,
+    "speed": 42,
+    "total": 328
+  },
+  "evolutionChain": [
+    "drowzee",
+    "hypno"
+  ],
+  "flavorText": {
+    "ruby": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
+    "sapphire": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
+    "emerald": "If your nose becomes itchy while you are sleeping, it's a sure sign that a DROWZEE is standing above your pillow and trying to eat your dream through your nostrils.",
+    "firered": "A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.",
+    "leafgreen": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Route 11, Berry Forest",
+    "leafgreen": "Route 11, Berry Forest",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 10,
+        "move": "Disable"
+      },
+      {
+        "level": 18,
+        "move": "Confusion"
+      },
+      {
+        "level": 25,
+        "move": "Headbutt"
+      },
+      {
+        "level": 31,
+        "move": "Poison Gas"
+      },
+      {
+        "level": 36,
+        "move": "Meditate"
+      },
+      {
+        "level": 40,
+        "move": "Psychic"
+      },
+      {
+        "level": 43,
+        "move": "Psych Up"
+      },
+      {
+        "level": 45,
+        "move": "Future Sight"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/096.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.770Z"
+  }
+}

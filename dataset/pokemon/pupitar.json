@@ -1,0 +1,201 @@
+{
+  "slug": "pupitar",
+  "natdex": 247,
+  "name": "Pupitar",
+  "names": {
+    "japan": "Sanagirasサナギラス",
+    "french": "Ymphect",
+    "german": "Pupitar",
+    "korean": "데기라스"
+  },
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Hard Shell Pokémon",
+  "heightM": 1.2,
+  "weightKg": 152,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Pupitar has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 84,
+    "defense": 70,
+    "spAttack": 65,
+    "spDefense": 70,
+    "speed": 51,
+    "total": 410
+  },
+  "evolutionChain": [
+    "larvitar",
+    "pupitar",
+    "tyranitar"
+  ],
+  "flavorText": {
+    "ruby": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
+    "sapphire": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
+    "emerald": "A PUPITAR creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.",
+    "firered": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+    "leafgreen": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Larvitar",
+    "leafgreen": "Evolve Larvitar",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Larvitar"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Sandstorm"
+      },
+      {
+        "level": null,
+        "move": "Screech"
+      },
+      {
+        "level": 8,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 15,
+        "move": "Screech"
+      },
+      {
+        "level": 22,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 29,
+        "move": "Thrash"
+      },
+      {
+        "level": 38,
+        "move": "Scary Face"
+      },
+      {
+        "level": 47,
+        "move": "Crunch"
+      },
+      {
+        "level": 56,
+        "move": "Earthquake"
+      },
+      {
+        "level": 65,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/247.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.703Z"
+  }
+}

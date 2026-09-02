@@ -1,0 +1,193 @@
+{
+  "slug": "poliwag",
+  "natdex": 60,
+  "name": "Poliwag",
+  "names": {
+    "japan": "Nyoromoニョロモ",
+    "french": "Ptitard",
+    "german": "Quapsel",
+    "korean": "발챙이"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tadpole Pokémon",
+  "heightM": 0.6,
+  "weightKg": 12.4,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Poliwag is healed by up to 25% of Max HP when hit by Water Attacks."
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Poliwag is healed by up to 25% of Max HP when hit by Water Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "spAttack": 40,
+    "spDefense": 40,
+    "speed": 90,
+    "total": 300
+  },
+  "evolutionChain": [
+    "poliwag",
+    "poliwhirl",
+    "poliwrath",
+    "politoed"
+  ],
+  "flavorText": {
+    "ruby": "POLIWAG has a very thin skin. It is possible to see the POKéMON's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "sapphire": "POLIWAG has a very thin skin. It is possible to see the POKéMON's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "emerald": "It is possible to see this POKéMON's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "firered": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+    "leafgreen": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Routes 6, 22, 23, 25, Four Island, Fuchsia City, Viridian City, Berry Forest, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Icefall Cave Entrance, Ruin Valley, Safari Zone Areas 1, 2, 3 & Plaza (Fish)",
+    "leafgreen": "Routes 6, 22, 23, 25, Four Island, Fuchsia City, Viridian City, Berry Forest, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Icefall Cave Entrance, Ruin Valley, Safari Zone Areas 1, 2, 3 & Plaza (Fish)",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": 7,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 13,
+        "move": "Water Gun"
+      },
+      {
+        "level": 19,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 25,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 31,
+        "move": "Body Slam"
+      },
+      {
+        "level": 37,
+        "move": "Belly Drum"
+      },
+      {
+        "level": 43,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/060.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.497Z"
+  }
+}

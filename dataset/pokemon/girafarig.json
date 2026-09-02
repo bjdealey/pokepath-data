@@ -1,0 +1,223 @@
+{
+  "slug": "girafarig",
+  "natdex": 203,
+  "name": "Girafarig",
+  "names": {
+    "japan": "Kirinrikiキリンリキ",
+    "french": "Girafarig",
+    "german": "Girafarig",
+    "korean": "키링키"
+  },
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Long Neck Pokémon",
+  "heightM": 1.5,
+  "weightKg": 41.5,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus",
+      "description": "Inner Focus: Prevents FlinchingEarly Bird: If afflicted with Sleep, Girafarig wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Inner Focus: Prevents FlinchingEarly Bird: If afflicted with Sleep, Girafarig wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "spAttack": 90,
+    "spDefense": 65,
+    "speed": 85,
+    "total": 455
+  },
+  "evolutionChain": [
+    "girafarig"
+  ],
+  "flavorText": {
+    "ruby": "GIRAFARIG's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this POKéMON from behind can cause the rear head to suddenly lash out and bite.",
+    "sapphire": "GIRAFARIG's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+    "emerald": "A GIRAFARIG is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
+    "firered": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+    "leafgreen": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite."
+  },
+  "locations": {
+    "ruby": "Safari Zone Entrance & Left Areas",
+    "sapphire": "Safari Zone Entrance & Left Areas",
+    "emerald": "Safari Zone Entrance & Left Areas",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Astonish"
+      },
+      {
+        "level": 13,
+        "move": "Confusion"
+      },
+      {
+        "level": 19,
+        "move": "Stomp"
+      },
+      {
+        "level": 25,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 31,
+        "move": "Agility"
+      },
+      {
+        "level": 37,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 43,
+        "move": "Psybeam"
+      },
+      {
+        "level": 49,
+        "move": "Crunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/203.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.431Z"
+  }
+}

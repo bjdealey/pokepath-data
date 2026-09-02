@@ -1,0 +1,261 @@
+{
+  "slug": "latias",
+  "natdex": 380,
+  "name": "Latias",
+  "names": {
+    "japan": "Latiasラティアス",
+    "french": "Latias",
+    "german": "Latias",
+    "korean": "라티아스"
+  },
+  "types": [
+    "dragon",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Eon Pokémon",
+  "heightM": 1.4,
+  "weightKg": 40,
+  "captureRate": 3,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Latias"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "spAttack": 110,
+    "spDefense": 130,
+    "speed": 110,
+    "total": 600
+  },
+  "evolutionChain": [
+    "latias"
+  ],
+  "flavorText": {
+    "ruby": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
+    "sapphire": "LATIAS is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The POKéMON enfolds its body with its down and refracts light to alter its appearance.",
+    "emerald": "They make a small herd of only several members. They rarely make contact with people or other POKéMON. They disappear if they sense enemies.",
+    "firered": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+    "leafgreen": "It can telepathically communicate with people. It changes its appearance using its down that refracts light."
+  },
+  "locations": {
+    "ruby": "Southern Island",
+    "sapphire": "Wild in Hoenn after beating Elite Four",
+    "emerald": "Wild in Hoenn after beating Elite Four (Pick Red) OR Southern Island",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Psywave"
+      },
+      {
+        "level": 5,
+        "move": "Wish"
+      },
+      {
+        "level": 10,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 15,
+        "move": "Safeguard"
+      },
+      {
+        "level": 20,
+        "move": "Dragonbreath"
+      },
+      {
+        "level": 25,
+        "move": "Water Sport"
+      },
+      {
+        "level": 30,
+        "move": "Refresh"
+      },
+      {
+        "level": 35,
+        "move": "Mist Ball"
+      },
+      {
+        "level": 40,
+        "move": "Psychic"
+      },
+      {
+        "level": 45,
+        "move": "Recover"
+      },
+      {
+        "level": 50,
+        "move": "Charm"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/380.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.609Z"
+  }
+}

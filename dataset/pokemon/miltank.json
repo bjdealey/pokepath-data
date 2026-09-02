@@ -1,0 +1,226 @@
+{
+  "slug": "miltank",
+  "natdex": 241,
+  "name": "Miltank",
+  "names": {
+    "japan": "Miltankミルタンク",
+    "french": "Écrémeuh",
+    "german": "Miltank",
+    "korean": "밀탱크"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Milk Cow Pokémon",
+  "heightM": 1.2,
+  "weightKg": 75.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Fire & Ice Type moves do 50% Damage on Miltank"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "spAttack": 40,
+    "spDefense": 70,
+    "speed": 100,
+    "total": 490
+  },
+  "evolutionChain": [
+    "miltank"
+  ],
+  "flavorText": {
+    "ruby": "MILTANK gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+    "sapphire": "MILTANK gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+    "emerald": "It gives over five gallons of milk daily. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+    "firered": "If it has just had a baby, the milk it produces contains much more nutrition than usual.",
+    "leafgreen": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum",
+    "sapphire": "Trade from Emerald/Colosseum",
+    "emerald": "Safari Zone Extention",
+    "firered": "Trade from Emerald/Colosseum",
+    "leafgreen": "Trade from Emerald/Colosseum",
+    "colosseum": "Snagged from Bodybuilder Jonas in Realgam Tower Colosseum",
+    "xd": "Trade from Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 4,
+        "move": "Growl"
+      },
+      {
+        "level": 8,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 13,
+        "move": "Stomp"
+      },
+      {
+        "level": 19,
+        "move": "Milk Drink"
+      },
+      {
+        "level": 26,
+        "move": "Bide"
+      },
+      {
+        "level": 34,
+        "move": "Rollout"
+      },
+      {
+        "level": 43,
+        "move": "Body Slam"
+      },
+      {
+        "level": 53,
+        "move": "Heal Bell"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/241.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.664Z"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "exeggutor",
+  "natdex": 103,
+  "name": "Exeggutor",
+  "names": {
+    "japan": "Nassyナッシー",
+    "french": "Noadkoko",
+    "german": "Kokowei",
+    "korean": "나시"
+  },
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Coconut Pokémon",
+  "heightM": 2,
+  "weightKg": 120,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Exeggutor's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "spAttack": 125,
+    "spDefense": 65,
+    "speed": 55,
+    "total": 520
+  },
+  "evolutionChain": [
+    "exeggcute",
+    "exeggutor"
+  ],
+  "flavorText": {
+    "ruby": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.",
+    "sapphire": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.",
+    "emerald": "Originally from the tropics, EXEGGUTOR's heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an EXEGGCUTE.",
+    "firered": "It is called \"The Walking Tropical Rainforest.\" Each of the nuts has a face and a will of its own.",
+    "leafgreen": "It is said that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Exeggcute",
+    "leafgreen": "Evolve Exeggcute",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Barrage"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": 19,
+        "move": "Stomp"
+      },
+      {
+        "level": 31,
+        "move": "Egg Bomb"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/103.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.813Z"
+  }
+}

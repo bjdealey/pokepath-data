@@ -1,0 +1,246 @@
+{
+  "slug": "zangoose",
+  "natdex": 335,
+  "name": "Zangoose",
+  "names": {
+    "japan": "Zangooseザングース",
+    "french": "Mangriff",
+    "german": "Sengo",
+    "korean": "쟝고"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cat Ferret Pokémon",
+  "heightM": 1.3,
+  "weightKg": 40.3,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Immunity",
+      "description": "Prevents Zangoose from being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 115,
+    "defense": 60,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 90,
+    "total": 458
+  },
+  "evolutionChain": [
+    "zangoose"
+  ],
+  "flavorText": {
+    "ruby": "Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE's body. This POKéMON adroitly dodges attacks with incredible agility.",
+    "sapphire": "ZANGOOSE usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This POKéMON shares a bitter rivalry with SEVIPER that dates back over generations.",
+    "emerald": "When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any SEVIPER.",
+    "firered": "If it comes across a SEVIPER, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon.",
+    "leafgreen": "If it comes across a SEVIPER, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon."
+  },
+  "locations": {
+    "ruby": "Route 114",
+    "sapphire": "Trade from Ruby/XD",
+    "emerald": "Trade from Ruby/XD",
+    "firered": "Trade from Ruby/XD",
+    "leafgreen": "Trade from Ruby/XD",
+    "colosseum": "Trade from Ruby/XD",
+    "xd": "Snagged from Thug Zook in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 4,
+        "move": "Leer"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 10,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 13,
+        "move": "Fury Cutter"
+      },
+      {
+        "level": 19,
+        "move": "Slash"
+      },
+      {
+        "level": 25,
+        "move": "Pursuit"
+      },
+      {
+        "level": 31,
+        "move": "Crush Claw"
+      },
+      {
+        "level": 37,
+        "move": "Taunt"
+      },
+      {
+        "level": 46,
+        "move": "Detect"
+      },
+      {
+        "level": 55,
+        "move": "False Swipe"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/335.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.253Z"
+  }
+}

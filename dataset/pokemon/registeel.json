@@ -1,0 +1,201 @@
+{
+  "slug": "registeel",
+  "natdex": 379,
+  "name": "Registeel",
+  "names": {
+    "japan": "Registeelレジスチル",
+    "french": "Registeel",
+    "german": "Registeel",
+    "korean": "레지스틸"
+  },
+  "types": [
+    "steel"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Iron Pokémon",
+  "heightM": 1.9,
+  "weightKg": 205,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "description": "Opponent's Moves that Lower Stats will not work on Registeel"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 75,
+    "defense": 150,
+    "spAttack": 75,
+    "spDefense": 150,
+    "speed": 50,
+    "total": 580
+  },
+  "evolutionChain": [
+    "registeel"
+  ],
+  "flavorText": {
+    "ruby": "REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this POKéMON eats.",
+    "sapphire": "REGISTEEL was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+    "emerald": "Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.",
+    "firered": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years.",
+    "leafgreen": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years."
+  },
+  "locations": {
+    "ruby": "Ancient Tomb (Route 120)",
+    "sapphire": "Ancient Tomb (Route 120)",
+    "emerald": "Ancient Tomb (Route 120)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Explosion"
+      },
+      {
+        "level": 9,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 17,
+        "move": "Curse"
+      },
+      {
+        "level": 25,
+        "move": "Superpower"
+      },
+      {
+        "level": 33,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 41,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 41,
+        "move": "Amnesia"
+      },
+      {
+        "level": 49,
+        "move": "Zap Cannon"
+      },
+      {
+        "level": 57,
+        "move": "Lock-on"
+      },
+      {
+        "level": 65,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/379.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.600Z"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "slug": "teddiursa",
+  "natdex": 216,
+  "name": "Teddiursa",
+  "names": {
+    "japan": "Himegumaヒメグマ",
+    "french": "Teddiursa",
+    "german": "Teddiursa",
+    "korean": "깜지곰"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Little Bear Pokémon",
+  "heightM": 0.6,
+  "weightKg": 8.8,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "PickUp",
+      "description": "Has a 10% chance of finding and holding an item after battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 40,
+    "total": 330
+  },
+  "evolutionChain": [
+    "teddiursa",
+    "ursaring"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
+    "sapphire": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
+    "emerald": "It licks its palms that are sweetened by being soaked in honey. A TEDDIURSA makes its own honey by blending fruits and pollen collected by BEEDRILL.",
+    "firered": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+    "leafgreen": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/XD",
+    "sapphire": "Trade from Emerald/XD",
+    "emerald": "Safari Zone Extention & Altering Cave",
+    "firered": "Altering Cave",
+    "leafgreen": "Altering Cave",
+    "colosseum": "Trade from Emerald/XD",
+    "xd": "Snagged from Spy Naps in Krane's Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 7,
+        "move": "Lick"
+      },
+      {
+        "level": 13,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 19,
+        "move": "Fake Tears"
+      },
+      {
+        "level": 25,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 31,
+        "move": "Rest"
+      },
+      {
+        "level": 37,
+        "move": "Slash"
+      },
+      {
+        "level": 43,
+        "move": "Snore"
+      },
+      {
+        "level": 49,
+        "move": "Thrash"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/216.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.518Z"
+  }
+}

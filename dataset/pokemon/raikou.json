@@ -1,0 +1,205 @@
+{
+  "slug": "raikou",
+  "natdex": 243,
+  "name": "Raikou",
+  "names": {
+    "japan": "Raikouライコウ",
+    "french": "Raikou",
+    "german": "Raikou",
+    "korean": "라이코"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Thunder Pokémon",
+  "heightM": 1.9,
+  "weightKg": 178,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Raikou use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 75,
+    "spAttack": 115,
+    "spDefense": 100,
+    "speed": 115,
+    "total": 580
+  },
+  "evolutionChain": [
+    "raikou"
+  ],
+  "flavorText": {
+    "ruby": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+    "sapphire": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+    "emerald": "RAIKOU embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.",
+    "firered": "This POKéMON races across the land while barking a cry that sounds like crashing thunder.",
+    "leafgreen": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum",
+    "firered": "Wild in Kanto after Elite 4 when Starter chosen was Squirtle",
+    "leafgreen": "Wild in Kanto after Elite 4 when Starter chosen was Squirtle",
+    "colosseum": "Snagged from Cipher Admin Ein in Cipher Lab",
+    "xd": "Trade from FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 11,
+        "move": "Thundershock"
+      },
+      {
+        "level": 21,
+        "move": "Roar"
+      },
+      {
+        "level": 31,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 41,
+        "move": "Spark"
+      },
+      {
+        "level": 51,
+        "move": "Reflect"
+      },
+      {
+        "level": 61,
+        "move": "Crunch"
+      },
+      {
+        "level": 71,
+        "move": "Thunder"
+      },
+      {
+        "level": 81,
+        "move": "Calm Mind"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/243.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.681Z"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "slug": "skiploom",
+  "natdex": 188,
+  "name": "Skiploom",
+  "names": {
+    "japan": "Popoccoポポッコ",
+    "french": "Floravol",
+    "german": "Hubelupf",
+    "korean": "두코"
+  },
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cottonweed Pokémon",
+  "heightM": 0.6,
+  "weightKg": 1,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Fairy",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Skiploom's Speed is Doubled."
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "spAttack": 45,
+    "spDefense": 65,
+    "speed": 80,
+    "total": 340
+  },
+  "evolutionChain": [
+    "hoppip",
+    "skiploom",
+    "jumpluff"
+  ],
+  "flavorText": {
+    "ruby": "SKIPLOOM's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
+    "sapphire": "SKIPLOOM's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
+    "emerald": "It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.",
+    "firered": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+    "leafgreen": "The bloom on top of its head opens and closes as the temperature fluctuates up and down."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "firered": "Evolve Hoppip",
+    "leafgreen": "Evolve Hoppip",
+    "colosseum": "Snagged from Rider Leba in Pyrite Town",
+    "xd": "Evolve Hoppip"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": null,
+        "move": "Synthesis"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Synthesis"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Tackle"
+      },
+      {
+        "level": 13,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 15,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 17,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 22,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 29,
+        "move": "Cotton Spore"
+      },
+      {
+        "level": 36,
+        "move": "Mega Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/188.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.341Z"
+  }
+}

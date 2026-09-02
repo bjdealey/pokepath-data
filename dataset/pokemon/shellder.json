@@ -1,0 +1,171 @@
+{
+  "slug": "shellder",
+  "natdex": 90,
+  "name": "Shellder",
+  "names": {
+    "japan": "Shellderシェルダー",
+    "french": "Kokiyas",
+    "german": "Muschas",
+    "korean": "셀러"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bivalve Pokémon",
+  "heightM": 0.3,
+  "weightKg": 4,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Shell Armor",
+      "description": "The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "spAttack": 45,
+    "spDefense": 25,
+    "speed": 40,
+    "total": 305
+  },
+  "evolutionChain": [
+    "shellder",
+    "cloyster"
+  ],
+  "flavorText": {
+    "ruby": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
+    "sapphire": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
+    "emerald": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+    "firered": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+    "leafgreen": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Cinnabar Island, Icefall Cave Entrance, One Island, Pallet Town, S.S. Anne (Fish)",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Snagged from Cipher Peon Gorog in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Withdraw"
+      },
+      {
+        "level": 9,
+        "move": "Supersonic"
+      },
+      {
+        "level": 17,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 25,
+        "move": "Protect"
+      },
+      {
+        "level": 33,
+        "move": "Leer"
+      },
+      {
+        "level": 41,
+        "move": "Clamp"
+      },
+      {
+        "level": 49,
+        "move": "Ice Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/090.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.733Z"
+  }
+}

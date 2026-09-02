@@ -1,0 +1,212 @@
+{
+  "slug": "ledian",
+  "natdex": 166,
+  "name": "Ledian",
+  "names": {
+    "japan": "Redianレディアン",
+    "french": "Coxyclaque",
+    "german": "Ledian",
+    "korean": "레디안"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Five Star Pokémon",
+  "heightM": 1.4,
+  "weightKg": 35.6,
+  "captureRate": 90,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "Swarm: When Ledian's HP Gets Low, It's Bug type attack's power is multiplied by 1.5Early Bird: If afflicted with Sleep, Ledian wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Swarm: When Ledian's HP Gets Low, It's Bug type attack's power is multiplied by 1.5Early Bird: If afflicted with Sleep, Ledian wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 35,
+    "defense": 50,
+    "spAttack": 55,
+    "spDefense": 110,
+    "speed": 85,
+    "total": 390
+  },
+  "evolutionChain": [
+    "ledyba",
+    "ledian"
+  ],
+  "flavorText": {
+    "ruby": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
+    "sapphire": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
+    "emerald": "It is said that in lands with clean air, where the stars fill the sky, there live many LEDIAN. For good reason, they use the light of the stars as energy.",
+    "firered": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+    "leafgreen": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from Emerald/FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Evolve Ledyba",
+    "firered": "Evolve Ledyba",
+    "leafgreen": "Evolve Ledyba",
+    "colosseum": "Snagged from Cipher Peon Kloak in The Under",
+    "xd": "Evolve Ledyba"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Supersonic"
+      },
+      {
+        "level": 8,
+        "move": "Supersonic"
+      },
+      {
+        "level": 15,
+        "move": "Comet Punch"
+      },
+      {
+        "level": 24,
+        "move": "Light Screen"
+      },
+      {
+        "level": 24,
+        "move": "Reflect"
+      },
+      {
+        "level": 24,
+        "move": "Safeguard"
+      },
+      {
+        "level": 33,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 42,
+        "move": "Swift"
+      },
+      {
+        "level": 51,
+        "move": "Agility"
+      },
+      {
+        "level": 60,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/166.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.205Z"
+  }
+}

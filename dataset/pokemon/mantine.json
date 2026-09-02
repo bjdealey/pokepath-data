@@ -1,0 +1,191 @@
+{
+  "slug": "mantine",
+  "natdex": 226,
+  "name": "Mantine",
+  "names": {
+    "japan": "Mantainマンタイン",
+    "french": "Démanta",
+    "german": "Mantax",
+    "korean": "만타인"
+  },
+  "types": [
+    "water",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Kite Pokémon",
+  "heightM": 2.1,
+  "weightKg": 220,
+  "captureRate": 25,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Mantine's Speed is DoubledWater Absorb: Mantine is healed by up to 25% of Max HP when hit by Water Attacks."
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Swift Swim: When Rain Dance is in effect, Mantine's Speed is DoubledWater Absorb: Mantine is healed by up to 25% of Max HP when hit by Water Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 40,
+    "defense": 70,
+    "spAttack": 80,
+    "spDefense": 140,
+    "speed": 70,
+    "total": 465
+  },
+  "evolutionChain": [
+    "mantine"
+  ],
+  "flavorText": {
+    "ruby": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea's waves. This POKéMON is not bothered by the REMORAID that hitches rides.",
+    "sapphire": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea's waves. This POKéMON is not bothered by the REMORAID that hitches rides.",
+    "emerald": "On sunny days, schools of MANTINE can be seen elegantly leaping over the waves. It is not bothered by the REMORAID that hitches rides.",
+    "firered": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+    "leafgreen": "As it majestically swims, it doesn't care if REMORAID attach to it to scavenge for its leftovers."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen/Colosseum",
+    "sapphire": "Trade from LeafGreen/Colosseum",
+    "emerald": "Trade from LeafGreen/Colosseum",
+    "firered": "Trade from LeafGreen/Colosseum",
+    "leafgreen": "Tanoby Ruins & Trainer Tower (Surf)",
+    "colosseum": "Snag from Miror B. Peon Ferma in Pyrite Hill",
+    "xd": "Trade from LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": 8,
+        "move": "Supersonic"
+      },
+      {
+        "level": 15,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 22,
+        "move": "Take Down"
+      },
+      {
+        "level": 29,
+        "move": "Agility"
+      },
+      {
+        "level": 36,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 43,
+        "move": "Water Pulse"
+      },
+      {
+        "level": 50,
+        "move": "Confuse Ray"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/226.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.576Z"
+  }
+}

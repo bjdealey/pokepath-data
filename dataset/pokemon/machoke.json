@@ -1,0 +1,216 @@
+{
+  "slug": "machoke",
+  "natdex": 67,
+  "name": "Machoke",
+  "names": {
+    "japan": "Gorikyゴーリキー",
+    "french": "Machopeur",
+    "german": "Maschock",
+    "korean": "근육몬"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Superpower Pokémon",
+  "heightM": 1.5,
+  "weightKg": 70.5,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Machoke is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "spAttack": 50,
+    "spDefense": 60,
+    "speed": 45,
+    "total": 405
+  },
+  "evolutionChain": [
+    "machop",
+    "machoke",
+    "machamp"
+  ],
+  "flavorText": {
+    "ruby": "MACHOKE's thoroughly toned muscles possess the hardness of steel. This POKéMON has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
+    "sapphire": "MACHOKE undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this POKéMON heads to the fields and mountains to exercise and train.",
+    "emerald": "A belt is worn by a MACHOKE to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
+    "firered": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
+    "leafgreen": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions."
+  },
+  "locations": {
+    "ruby": "Evolve Machop",
+    "sapphire": "Evolve Machop",
+    "emerald": "Evolve Machop",
+    "firered": "Cerulean Cave Floors 1 & 2 & Basement 1, Mt. Ember Cave, Mt. Ember Floor 1, Victory Road Floors 1, 2 & 3",
+    "leafgreen": "Cerulean Cave Floors 1 & 2 & Basement 1, Mt. Ember Cave, Mt. Ember Floor 1, Victory Road Floors 1, 2 & 3",
+    "colosseum": "Trade from Ruby/Sapphire/EmeraldFireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Low Kick"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 7,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 13,
+        "move": "Karate Chop"
+      },
+      {
+        "level": 19,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 22,
+        "move": "Foresight"
+      },
+      {
+        "level": 25,
+        "move": "Revenge"
+      },
+      {
+        "level": 33,
+        "move": "Vital Throw"
+      },
+      {
+        "level": 41,
+        "move": "Submission"
+      },
+      {
+        "level": 46,
+        "move": "Cross Chop"
+      },
+      {
+        "level": 51,
+        "move": "Scary Face"
+      },
+      {
+        "level": 59,
+        "move": "Dynamicpunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/067.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.573Z"
+  }
+}

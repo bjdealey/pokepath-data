@@ -1,0 +1,213 @@
+{
+  "slug": "kabuto",
+  "natdex": 140,
+  "name": "Kabuto",
+  "names": {
+    "japan": "Kabutoカブト",
+    "french": "Kabuto",
+    "german": "Kabuto",
+    "korean": "투구"
+  },
+  "types": [
+    "rock",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Shellfish Pokémon",
+  "heightM": 0.5,
+  "weightKg": 11.5,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Kabuto's Speed is DoubledBattle Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Battle Armor",
+      "description": "Swift Swim: When Rain Dance is in effect, Kabuto's Speed is DoubledBattle Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "spAttack": 55,
+    "spDefense": 45,
+    "speed": 55,
+    "total": 355
+  },
+  "evolutionChain": [
+    "kabuto",
+    "kabutops"
+  ],
+  "flavorText": {
+    "ruby": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
+    "sapphire": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
+    "emerald": "It is a POKéMON that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. KABUTO have not changed for 300 million years.",
+    "firered": "This POKéMON was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+    "leafgreen": "A POKéMON that was regenerated from a fossil found in what was once the ocean floor long ago."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Revive From Dome Fossil",
+    "leafgreen": "Revive From Dome Fossil",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 13,
+        "move": "Absorb"
+      },
+      {
+        "level": 19,
+        "move": "Leer"
+      },
+      {
+        "level": 25,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 31,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 37,
+        "move": "Endure"
+      },
+      {
+        "level": 43,
+        "move": "Metal Sound"
+      },
+      {
+        "level": 49,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 55,
+        "move": "Ancientpower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/140.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.042Z"
+  }
+}

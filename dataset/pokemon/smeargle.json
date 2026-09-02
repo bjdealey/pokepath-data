@@ -1,0 +1,109 @@
+{
+  "slug": "smeargle",
+  "natdex": 235,
+  "name": "Smeargle",
+  "names": {
+    "japan": "Dobleドーブル",
+    "french": "Queulorior",
+    "german": "Farbeagle",
+    "korean": "루브도"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Painter Pokémon",
+  "heightM": 1.2,
+  "weightKg": 58,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Own Tempo",
+      "description": "Prevents Smeargle from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "spAttack": 20,
+    "spDefense": 45,
+    "speed": 75,
+    "total": 250
+  },
+  "evolutionChain": [
+    "smeargle"
+  ],
+  "flavorText": {
+    "ruby": "SMEARGLE marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this POKéMON have been found.",
+    "sapphire": "SMEARGLE marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this POKéMON have been found.",
+    "emerald": "A SMEARGLE marks its territory using a fluid that leaks out from the tip of its tail. About 5,000 different marks left by this POKéMON have been found.",
+    "firered": "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.",
+    "leafgreen": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum",
+    "sapphire": "Trade from Emerald/Colosseum",
+    "emerald": "Artisan's Cave Floors 1 & 2, Altering Cave",
+    "firered": "Altering Cave",
+    "leafgreen": "Altering Cave",
+    "colosseum": "Snagged from Chaser Liaks in The Under Subway",
+    "xd": "Trade from Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Sketch"
+      },
+      {
+        "level": 11,
+        "move": "Sketch"
+      },
+      {
+        "level": 21,
+        "move": "Sketch"
+      },
+      {
+        "level": 31,
+        "move": "Sketch"
+      },
+      {
+        "level": 41,
+        "move": "Sketch"
+      },
+      {
+        "level": 51,
+        "move": "Sketch"
+      },
+      {
+        "level": 61,
+        "move": "Sketch"
+      },
+      {
+        "level": 71,
+        "move": "Sketch"
+      },
+      {
+        "level": 81,
+        "move": "Sketch"
+      },
+      {
+        "level": 91,
+        "move": "Sketch"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/235.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.629Z"
+  }
+}

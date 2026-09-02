@@ -1,0 +1,213 @@
+{
+  "slug": "graveler",
+  "natdex": 75,
+  "name": "Graveler",
+  "names": {
+    "japan": "Goloneゴローン",
+    "french": "Gravalanch",
+    "german": "Georok",
+    "korean": "데구리"
+  },
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Rock Pokémon",
+  "heightM": 1,
+  "weightKg": 105,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Graveler receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Rock Head: Graveler receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "spAttack": 45,
+    "spDefense": 45,
+    "speed": 35,
+    "total": 390
+  },
+  "evolutionChain": [
+    "geodude",
+    "graveler",
+    "golem"
+  ],
+  "flavorText": {
+    "ruby": "GRAVELER grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This POKéMON eats its way through a ton of rocks on a daily basis.",
+    "sapphire": "Rocks are GRAVELER's favorite food. This POKéMON will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
+    "emerald": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.",
+    "firered": "Be careful while hiking on mountain trails. GRAVELER may come rolling down the path without slowing.",
+    "leafgreen": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+  },
+  "locations": {
+    "ruby": "Victory Road Basement 1 (Rock Smash)",
+    "sapphire": "Victory Road Basement 1 (Rock Smash)",
+    "emerald": "Magma Hideout (Cave), Victory Road Basement 1 (Rock Smash)",
+    "firered": "Cerulean Cave Floors 1 & 2 & Basement 1, Kindle Road, Mt Ember Floor 1 & Basements 1 & 2, Mt. Ember, Seavault Canyon (Rock Smash)",
+    "leafgreen": "Cerulean Cave Floors 1 & 2 & Basement 1, Kindle Road, Mt Ember Floor 1 & Basements 1 & 2, Mt. Ember, Seavault Canyon (Rock Smash)",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Defense Curl"
+      },
+      {
+        "level": null,
+        "move": "Mud Sport"
+      },
+      {
+        "level": null,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 6,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 11,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 16,
+        "move": "Magnitude"
+      },
+      {
+        "level": 21,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 29,
+        "move": "Rollout"
+      },
+      {
+        "level": 37,
+        "move": "Rock Blast"
+      },
+      {
+        "level": 45,
+        "move": "Earthquake"
+      },
+      {
+        "level": 53,
+        "move": "Explosion"
+      },
+      {
+        "level": 62,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/075.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.634Z"
+  }
+}

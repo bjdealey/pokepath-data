@@ -1,0 +1,196 @@
+{
+  "slug": "swinub",
+  "natdex": 220,
+  "name": "Swinub",
+  "names": {
+    "japan": "Urimooウリムー",
+    "french": "Marcacrin",
+    "german": "Quiekel",
+    "korean": "꾸꾸리"
+  },
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Pig Pokémon",
+  "heightM": 0.4,
+  "weightKg": 6.5,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Swinub from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 40,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 50,
+    "total": 250
+  },
+  "evolutionChain": [
+    "swinub",
+    "piloswine"
+  ],
+  "flavorText": {
+    "ruby": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
+    "sapphire": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
+    "emerald": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
+    "firered": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+    "leafgreen": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Icefall Cave Floor 1 & Basement 1",
+    "leafgreen": "Icefall Cave Floor 1 & Basement 1",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Greck in Phenac Stadium"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 10,
+        "move": "Powder Snow"
+      },
+      {
+        "level": 19,
+        "move": "Endure"
+      },
+      {
+        "level": 28,
+        "move": "Take Down"
+      },
+      {
+        "level": 37,
+        "move": "Mist"
+      },
+      {
+        "level": 46,
+        "move": "Blizzard"
+      },
+      {
+        "level": 55,
+        "move": "Amnesia"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/220.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.540Z"
+  }
+}

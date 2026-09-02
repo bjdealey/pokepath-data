@@ -1,0 +1,243 @@
+{
+  "slug": "dusclops",
+  "natdex": 356,
+  "name": "Dusclops",
+  "names": {
+    "japan": "Samayouruサマヨール",
+    "french": "Téraclope",
+    "german": "Zwirrklop",
+    "korean": "미라몽"
+  },
+  "types": [
+    "ghost"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Beckon Pokémon",
+  "heightM": 1.6,
+  "weightKg": 30.6,
+  "captureRate": 90,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Dusclops use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "spAttack": 60,
+    "spDefense": 130,
+    "speed": 25,
+    "total": 455
+  },
+  "evolutionChain": [
+    "duskull",
+    "dusclops"
+  ],
+  "flavorText": {
+    "ruby": "DUSCLOPS's body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This POKéMON will absorb anything into its body, but nothing will ever come back out.",
+    "sapphire": "DUSCLOPS absorbs anything, however large the object may be. This POKéMON hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS's bidding.",
+    "emerald": "It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.",
+    "firered": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
+    "leafgreen": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole."
+  },
+  "locations": {
+    "ruby": "Sky Pillar Floors 1, 3 & 5",
+    "sapphire": "Evolve Duskull",
+    "emerald": "Evolve Duskull",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Duskull"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bind"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Night Shade"
+      },
+      {
+        "level": null,
+        "move": "Disable"
+      },
+      {
+        "level": 5,
+        "move": "Disable"
+      },
+      {
+        "level": 12,
+        "move": "Foresight"
+      },
+      {
+        "level": 16,
+        "move": "Astonish"
+      },
+      {
+        "level": 23,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 27,
+        "move": "Pursuit"
+      },
+      {
+        "level": 34,
+        "move": "Curse"
+      },
+      {
+        "level": 37,
+        "move": "Shadow Punch"
+      },
+      {
+        "level": 41,
+        "move": "Will-o-wisp"
+      },
+      {
+        "level": 51,
+        "move": "Mean Look"
+      },
+      {
+        "level": 58,
+        "move": "Future Sight"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/356.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.425Z"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "glalie",
+  "natdex": 362,
+  "name": "Glalie",
+  "names": {
+    "japan": "Onigohriオニゴーリ",
+    "french": "Oniglali",
+    "german": "Firnontor",
+    "korean": "얼음귀신"
+  },
+  "types": [
+    "ice"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Face Pokémon",
+  "heightM": 1.5,
+  "weightKg": 256.5,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus",
+      "description": "Prevents Flinching"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 80,
+    "total": 480
+  },
+  "evolutionChain": [
+    "snorunt",
+    "glalie"
+  ],
+  "flavorText": {
+    "ruby": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
+    "sapphire": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
+    "emerald": "A GLALIE has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
+    "firered": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+    "leafgreen": "It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere."
+  },
+  "locations": {
+    "ruby": "Evolve Snorunt",
+    "sapphire": "Evolve Snorunt",
+    "emerald": "Evolve Snorunt",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Snorunt"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Powder Snow"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Double Team"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": 7,
+        "move": "Double Team"
+      },
+      {
+        "level": 10,
+        "move": "Bite"
+      },
+      {
+        "level": 16,
+        "move": "Icy Wind"
+      },
+      {
+        "level": 19,
+        "move": "Headbutt"
+      },
+      {
+        "level": 25,
+        "move": "Protect"
+      },
+      {
+        "level": 28,
+        "move": "Crunch"
+      },
+      {
+        "level": 34,
+        "move": "Ice Beam"
+      },
+      {
+        "level": 42,
+        "move": "Hail"
+      },
+      {
+        "level": 53,
+        "move": "Blizzard"
+      },
+      {
+        "level": 61,
+        "move": "Sheer Cold"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/362.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.466Z"
+  }
+}

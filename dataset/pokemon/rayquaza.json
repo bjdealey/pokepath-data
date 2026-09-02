@@ -1,0 +1,254 @@
+{
+  "slug": "rayquaza",
+  "natdex": 384,
+  "name": "Rayquaza",
+  "names": {
+    "japan": "Rayquazaレックウザ",
+    "french": "Rayquaza",
+    "german": "Rayquaza",
+    "korean": "레쿠쟈"
+  },
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Sky High Pokémon",
+  "heightM": 7,
+  "weightKg": 206.5,
+  "captureRate": 3,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Air Lock",
+      "description": "As long as Rayquaza is in battle. No Weather effects will occur"
+    }
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "spAttack": 150,
+    "spDefense": 90,
+    "speed": 95,
+    "total": 680
+  },
+  "evolutionChain": [
+    "rayquaza"
+  ],
+  "flavorText": {
+    "ruby": "RAYQUAZA lived for hundreds of millions of years in the earth's ozone layer, never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere.",
+    "sapphire": "RAYQUAZA is said to have lived for hundreds of millions of years in the earth's ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
+    "emerald": "A POKéMON that flies endlessly in the ozone layer. It is said it would descend to the ground if KYOGRE and GROUDON were to fight.",
+    "firered": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
+    "leafgreen": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor."
+  },
+  "locations": {
+    "ruby": "Sky Pillar",
+    "sapphire": "Sky Pillar",
+    "emerald": "Sky Pillar",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Twister"
+      },
+      {
+        "level": 5,
+        "move": "Scary Face"
+      },
+      {
+        "level": 15,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 20,
+        "move": "Dragon Claw"
+      },
+      {
+        "level": 30,
+        "move": "Dragon Dance"
+      },
+      {
+        "level": 35,
+        "move": "Crunch"
+      },
+      {
+        "level": 45,
+        "move": "Fly"
+      },
+      {
+        "level": 50,
+        "move": "Rest"
+      },
+      {
+        "level": 60,
+        "move": "Extremespeed"
+      },
+      {
+        "level": 65,
+        "move": "Outrage"
+      },
+      {
+        "level": 75,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/384.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.634Z"
+  }
+}

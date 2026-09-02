@@ -1,0 +1,190 @@
+{
+  "slug": "moltres",
+  "natdex": 146,
+  "name": "Moltres",
+  "names": {
+    "japan": "Fireファイヤー",
+    "french": "Sulfura",
+    "german": "Lavados",
+    "korean": "파이어"
+  },
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Flame Pokémon",
+  "heightM": 2,
+  "weightKg": 60,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Moltres use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "spAttack": 125,
+    "spDefense": 85,
+    "speed": 90,
+    "total": 580
+  },
+  "evolutionChain": [
+    "moltres"
+  ],
+  "flavorText": {
+    "ruby": "MOLTRES is a legendary bird POKéMON that has the ability to control fire. If this POKéMON is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+    "sapphire": "MOLTRES is a legendary bird POKéMON that has the ability to control fire. If this POKéMON is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+    "emerald": "MOLTRES is a legendary bird POKéMON that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+    "firered": "One of the legendary bird POKéMON. Those seeing it are overwhelmed by its orange wings that seem to be on fire.",
+    "leafgreen": "It is said to be the legendary bird POKéMON of fire. Every flap of its wings creates a dazzling flare of flames."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Mt. Ember Peak",
+    "leafgreen": "Mt. Ember Peak",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Boss Greevil in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wing Attack"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 13,
+        "move": "Fire Spin"
+      },
+      {
+        "level": 25,
+        "move": "Agility"
+      },
+      {
+        "level": 37,
+        "move": "Endure"
+      },
+      {
+        "level": 49,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 61,
+        "move": "Safeguard"
+      },
+      {
+        "level": 73,
+        "move": "Heat Wave"
+      },
+      {
+        "level": 85,
+        "move": "Sky Attack"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/146.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.080Z"
+  }
+}

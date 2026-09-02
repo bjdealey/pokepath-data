@@ -1,0 +1,225 @@
+{
+  "slug": "kyogre",
+  "natdex": 382,
+  "name": "Kyogre",
+  "names": {
+    "japan": "Kyogreカイオーガ",
+    "french": "Kyogre",
+    "german": "Kyogre",
+    "korean": "가이오가"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Sea Basin Pokémon",
+  "heightM": 4.5,
+  "weightKg": 352,
+  "captureRate": 5,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Drizzle",
+      "description": "As Kyogre is brought into battle, Rain begins to fall"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "spAttack": 150,
+    "spDefense": 140,
+    "speed": 90,
+    "total": 670
+  },
+  "evolutionChain": [
+    "kyogre"
+  ],
+  "flavorText": {
+    "ruby": "KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This POKéMON saved people who were suffering from droughts.",
+    "sapphire": "KYOGRE is named in mythology as the POKéMON that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with GROUDON.",
+    "emerald": "KYOGRE has appeared in mythology as the creator of the sea. After long years of feuding with GROUDON, it took to sleep at the bottom of the sea.",
+    "firered": "This POKéMON is said to have expanded the sea by bringing heavy rains. It has the power to control water.",
+    "leafgreen": "This POKéMON is said to have expanded the sea by bringing heavy rains. It has the power to control water."
+  },
+  "locations": {
+    "ruby": "Trade from Sapphire/Emerald",
+    "sapphire": "Cave of Origin",
+    "emerald": "Marine Cave",
+    "firered": "Trade from Sapphire/Emerald",
+    "leafgreen": "Trade from Sapphire/Emerald",
+    "colosseum": "Trade from Sapphire/Emerald",
+    "xd": "Trade from Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Pulse"
+      },
+      {
+        "level": 5,
+        "move": "Scary Face"
+      },
+      {
+        "level": 15,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 20,
+        "move": "Body Slam"
+      },
+      {
+        "level": 30,
+        "move": "Calm Mind"
+      },
+      {
+        "level": 35,
+        "move": "Ice Beam"
+      },
+      {
+        "level": 45,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 50,
+        "move": "Rest"
+      },
+      {
+        "level": 60,
+        "move": "Sheer Cold"
+      },
+      {
+        "level": 65,
+        "move": "Double-edge"
+      },
+      {
+        "level": 75,
+        "move": "Water Spout"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/382.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.623Z"
+  }
+}

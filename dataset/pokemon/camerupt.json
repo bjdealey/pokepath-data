@@ -1,0 +1,212 @@
+{
+  "slug": "camerupt",
+  "natdex": 323,
+  "name": "Camerupt",
+  "names": {
+    "japan": "Bakuudaバクーダ",
+    "french": "Camérupt",
+    "german": "Camerupt",
+    "korean": "폭타"
+  },
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Eruption Pokémon",
+  "heightM": 1.9,
+  "weightKg": 220,
+  "captureRate": 150,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Magma Armor",
+      "description": "Prevents Cameurpt rom being Frozen"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "spAttack": 105,
+    "spDefense": 75,
+    "speed": 40,
+    "total": 460
+  },
+  "evolutionChain": [
+    "numel",
+    "camerupt"
+  ],
+  "flavorText": {
+    "ruby": "CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON's back erupt, spewing the superheated magma.",
+    "sapphire": "The humps on CAMERUPT's back are formed by a transformation of its bones. They sometimes blast out molten magma. This POKéMON apparently erupts often when it is enraged.",
+    "emerald": "A POKéMON that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.",
+    "firered": "If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes.",
+    "leafgreen": "If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes."
+  },
+  "locations": {
+    "ruby": "Evolve Numel",
+    "sapphire": "Evolve Numel",
+    "emerald": "Evolve Numel",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Numel"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": null,
+        "move": "Magnitude"
+      },
+      {
+        "level": 11,
+        "move": "Ember"
+      },
+      {
+        "level": 19,
+        "move": "Magnitude"
+      },
+      {
+        "level": 25,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 29,
+        "move": "Take Down"
+      },
+      {
+        "level": 31,
+        "move": "Amnesia"
+      },
+      {
+        "level": 33,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 37,
+        "move": "Earthquake"
+      },
+      {
+        "level": 45,
+        "move": "Eruption"
+      },
+      {
+        "level": 55,
+        "move": "Fissure"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/323.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.179Z"
+  }
+}

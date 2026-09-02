@@ -1,0 +1,216 @@
+{
+  "slug": "tropius",
+  "natdex": 357,
+  "name": "Tropius",
+  "names": {
+    "japan": "Tropiusトロピウス",
+    "french": "Tropius",
+    "german": "Tropius",
+    "korean": "트로피우스"
+  },
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Fruit Pokémon",
+  "heightM": 2,
+  "weightKg": 100,
+  "captureRate": 200,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Tropius's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "spAttack": 72,
+    "spDefense": 87,
+    "speed": 51,
+    "total": 460
+  },
+  "evolutionChain": [
+    "tropius"
+  ],
+  "flavorText": {
+    "ruby": "The bunches of fruit around TROPIUS's neck are very popular with children. This POKéMON loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+    "sapphire": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of TROPIUS. This POKéMON flies by flapping the leaves on its back as if they were wings.",
+    "emerald": "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.",
+    "firered": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+    "leafgreen": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year."
+  },
+  "locations": {
+    "ruby": "Route 119",
+    "sapphire": "Route 119",
+    "emerald": "Route 119",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "colosseum": "Snagged from Cipher Peon Ston in Realgam Tower Colosseum",
+    "xd": "Trade from Ruby/Sapphire/Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Gust"
+      },
+      {
+        "level": 7,
+        "move": "Growth"
+      },
+      {
+        "level": 11,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 17,
+        "move": "Stomp"
+      },
+      {
+        "level": 21,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 27,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 31,
+        "move": "Magical Leaf"
+      },
+      {
+        "level": 37,
+        "move": "Body Slam"
+      },
+      {
+        "level": 41,
+        "move": "Solarbeam"
+      },
+      {
+        "level": 47,
+        "move": "Synthesis"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/357.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.431Z"
+  }
+}

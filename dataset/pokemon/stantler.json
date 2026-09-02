@@ -1,0 +1,214 @@
+{
+  "slug": "stantler",
+  "natdex": 234,
+  "name": "Stantler",
+  "names": {
+    "japan": "Odoshishiオドシシ",
+    "french": "Cerfrousse",
+    "german": "Damhirplex",
+    "korean": "노라키"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Big Horn Pokémon",
+  "heightM": 1.4,
+  "weightKg": 71.2,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Stantler's Entry in Battle, all opponent's Attack Stats are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 95,
+    "defense": 62,
+    "spAttack": 85,
+    "spDefense": 65,
+    "speed": 85,
+    "total": 465
+  },
+  "evolutionChain": [
+    "stantler"
+  ],
+  "flavorText": {
+    "ruby": "STANTLER's magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers.",
+    "sapphire": "STANTLER's magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers.",
+    "emerald": "STANTLER's magnificent antlers were once traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction.",
+    "firered": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand.",
+    "leafgreen": "Its curved antlers subtly change the flow of air to create a strange space where reality is distorted."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum",
+    "sapphire": "Trade from Emerald/Colosseum",
+    "emerald": "Safari Zone Extention, Altering Cave",
+    "firered": "Altering Cave",
+    "leafgreen": "Altering Cave",
+    "colosseum": "Snagged from Chaser Liaks in The Under Subway",
+    "xd": "Trade from Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 7,
+        "move": "Leer"
+      },
+      {
+        "level": 13,
+        "move": "Astonish"
+      },
+      {
+        "level": 19,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 25,
+        "move": "Stomp"
+      },
+      {
+        "level": 31,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 37,
+        "move": "Take Down"
+      },
+      {
+        "level": 43,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 49,
+        "move": "Calm Mind"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/234.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.624Z"
+  }
+}

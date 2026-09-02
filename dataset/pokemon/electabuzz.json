@@ -1,0 +1,203 @@
+{
+  "slug": "electabuzz",
+  "natdex": 125,
+  "name": "Electabuzz",
+  "names": {
+    "japan": "Elebooエレブー",
+    "french": "Élektek",
+    "german": "Elektek",
+    "korean": "에레브"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Electric Pokémon",
+  "heightM": 1.1,
+  "weightKg": 30,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Electabuzz, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "spAttack": 95,
+    "spDefense": 85,
+    "speed": 105,
+    "total": 490
+  },
+  "evolutionChain": [
+    "elekid",
+    "electabuzz"
+  ],
+  "flavorText": {
+    "ruby": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
+    "sapphire": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
+    "emerald": "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use ELECTABUZZ in place of lightning rods.",
+    "firered": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
+    "leafgreen": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Power Plant",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Snagged from Cipher Admin Ardos in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Thunderpunch"
+      },
+      {
+        "level": 9,
+        "move": "Thunderpunch"
+      },
+      {
+        "level": 17,
+        "move": "Light Screen"
+      },
+      {
+        "level": 25,
+        "move": "Swift"
+      },
+      {
+        "level": 36,
+        "move": "Screech"
+      },
+      {
+        "level": 47,
+        "move": "Thunderbolt"
+      },
+      {
+        "level": 58,
+        "move": "Thunder"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/125.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.955Z"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "wailmer",
+  "natdex": 320,
+  "name": "Wailmer",
+  "names": {
+    "japan": "Hoerukoホエルコ",
+    "french": "Wailmer",
+    "german": "Wailmer",
+    "korean": "고래왕자"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Ball Whale Pokémon",
+  "heightM": 2,
+  "weightKg": 130,
+  "captureRate": 125,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Ground",
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Water Veil",
+      "description": "Water Veil: Wailmer cannot be BurnedOblivious: Prevents Wailmer from being Infatuated"
+    },
+    {
+      "name": "Oblivious",
+      "description": "Water Veil: Wailmer cannot be BurnedOblivious: Prevents Wailmer from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "spAttack": 70,
+    "spDefense": 35,
+    "speed": 60,
+    "total": 400
+  },
+  "evolutionChain": [
+    "wailmer",
+    "wailord"
+  ],
+  "flavorText": {
+    "ruby": "WAILMER's nostrils are located above its eyes. This playful POKéMON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils.",
+    "sapphire": "WAILMER can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this POKéMON can elevate the height of its bounces.",
+    "emerald": "While this POKéMON usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.",
+    "firered": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+    "leafgreen": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily."
+  },
+  "locations": {
+    "ruby": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog Town, Seafloor Cavern, Shoal Cave, Slateport City (Fish)",
+    "sapphire": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog Town, Seafloor Cavern, Shoal Cave, Slateport City (Fish)",
+    "emerald": "Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133 & 134, Dewford Town, EverGrande City, Lilycove City, Mossdeep City, Pacifidlog Town, Seafloor Cavern, Shoal Cave, Slateport City (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": 5,
+        "move": "Growl"
+      },
+      {
+        "level": 10,
+        "move": "Water Gun"
+      },
+      {
+        "level": 14,
+        "move": "Rollout"
+      },
+      {
+        "level": 19,
+        "move": "Whirlpool"
+      },
+      {
+        "level": 23,
+        "move": "Astonish"
+      },
+      {
+        "level": 28,
+        "move": "Water Pulse"
+      },
+      {
+        "level": 32,
+        "move": "Mist"
+      },
+      {
+        "level": 37,
+        "move": "Rest"
+      },
+      {
+        "level": 41,
+        "move": "Water Spout"
+      },
+      {
+        "level": 46,
+        "move": "Amnesia"
+      },
+      {
+        "level": 50,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/320.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.161Z"
+  }
+}

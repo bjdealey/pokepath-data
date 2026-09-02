@@ -1,0 +1,212 @@
+{
+  "slug": "machop",
+  "natdex": 66,
+  "name": "Machop",
+  "names": {
+    "japan": "Wanrikyワンリキー",
+    "french": "Machoc",
+    "german": "Machollo",
+    "korean": "알통몬"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Superpower Pokémon",
+  "heightM": 0.8,
+  "weightKg": 19.5,
+  "captureRate": 180,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Machop is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 50,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 35,
+    "total": 305
+  },
+  "evolutionChain": [
+    "machop",
+    "machoke",
+    "machamp"
+  ],
+  "flavorText": {
+    "ruby": "MACHOP's muscles are special - they never get sore no matter how much they are used in exercise. This POKéMON has sufficient power to hurl a hundred adult humans.",
+    "sapphire": "MACHOP exercises by hefting around a GRAVELER as if it were a barbell. There are some MACHOP that travel the world in a quest to master all kinds of martial arts.",
+    "emerald": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+    "firered": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+    "leafgreen": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+  },
+  "locations": {
+    "ruby": "Route 112, Fiery Path, Jagged Path",
+    "sapphire": "Route 112, Fiery Path, Jagged Path",
+    "emerald": "Fiery Path, Jagged Path",
+    "firered": "Mt. Ember, Mt. Ember Cave, Mt. Ember Floor 1, Rock Tunnel Floor 1 & Basement 1, Victory Road Floors 1, 2 & 3",
+    "leafgreen": "Mt. Ember, Mt. Ember Cave, Mt. Ember Floor 1, Rock Tunnel Floor 1 & Basement 1, Victory Road Floors 1, 2 & 3",
+    "colosseum": "Trade from Ruby/Sapphire/EmeraldFireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Low Kick"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 7,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 13,
+        "move": "Karate Chop"
+      },
+      {
+        "level": 19,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 22,
+        "move": "Foresight"
+      },
+      {
+        "level": 25,
+        "move": "Revenge"
+      },
+      {
+        "level": 31,
+        "move": "Vital Throw"
+      },
+      {
+        "level": 37,
+        "move": "Submission"
+      },
+      {
+        "level": 40,
+        "move": "Cross Chop"
+      },
+      {
+        "level": 43,
+        "move": "Scary Face"
+      },
+      {
+        "level": 49,
+        "move": "Dynamicpunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/066.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.563Z"
+  }
+}

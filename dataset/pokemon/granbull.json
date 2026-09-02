@@ -1,0 +1,256 @@
+{
+  "slug": "granbull",
+  "natdex": 210,
+  "name": "Granbull",
+  "names": {
+    "japan": "Granbuluグランブル",
+    "french": "Granbull",
+    "german": "Granbull",
+    "korean": "그랑블루"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Fairy Pokémon",
+  "heightM": 1.4,
+  "weightKg": 48.7,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Granbull's Entry in Battle, all opponent's Attack Stats are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 45,
+    "total": 450
+  },
+  "evolutionChain": [
+    "snubbull",
+    "granbull"
+  ],
+  "flavorText": {
+    "ruby": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+    "sapphire": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+    "emerald": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
+    "firered": "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
+    "leafgreen": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum",
+    "sapphire": "Trade from Emerald/Colosseum",
+    "emerald": "Evolve Snubbull",
+    "firered": "Trade from Emerald/Colosseum",
+    "leafgreen": "Trade from Emerald/Colosseum",
+    "colosseum": "Snagged from Cipher Peon Tanie in Cipher Lab",
+    "xd": "Trade from Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Scary Face"
+      },
+      {
+        "level": 4,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 8,
+        "move": "Charm"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 19,
+        "move": "Lick"
+      },
+      {
+        "level": 28,
+        "move": "Roar"
+      },
+      {
+        "level": 38,
+        "move": "Rage"
+      },
+      {
+        "level": 49,
+        "move": "Take Down"
+      },
+      {
+        "level": 61,
+        "move": "Crunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/210.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.476Z"
+  }
+}

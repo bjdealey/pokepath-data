@@ -1,0 +1,281 @@
+{
+  "slug": "mewtwo",
+  "natdex": 150,
+  "name": "Mewtwo",
+  "names": {
+    "japan": "Mewtwoミュウツー",
+    "french": "Mewtwo",
+    "german": "Mewtu",
+    "korean": "뮤츠"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Genetic Pokémon",
+  "heightM": 2,
+  "weightKg": 122,
+  "captureRate": 3,
+  "baseEggSteps": 30720,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Mewtwo use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "spAttack": 154,
+    "spDefense": 90,
+    "speed": 130,
+    "total": 680
+  },
+  "evolutionChain": [
+    "mewtwo"
+  ],
+  "flavorText": {
+    "ruby": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON's body, they failed to endow MEWTWO with a compassionate heart.",
+    "sapphire": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON's body, they failed to endow MEWTWO with a compassionate heart.",
+    "emerald": "A POKéMON that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+    "firered": "A POKéMON whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+    "leafgreen": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Cerulean Cave Basement 1",
+    "leafgreen": "Cerulean Cave Basement 1",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": null,
+        "move": "Disable"
+      },
+      {
+        "level": 11,
+        "move": "Barrier"
+      },
+      {
+        "level": 22,
+        "move": "Swift"
+      },
+      {
+        "level": 33,
+        "move": "Psych Up"
+      },
+      {
+        "level": 44,
+        "move": "Future Sight"
+      },
+      {
+        "level": 55,
+        "move": "Mist"
+      },
+      {
+        "level": 66,
+        "move": "Psychic"
+      },
+      {
+        "level": 77,
+        "move": "Amnesia"
+      },
+      {
+        "level": 88,
+        "move": "Recover"
+      },
+      {
+        "level": 99,
+        "move": "Safeguard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/150.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.107Z"
+  }
+}

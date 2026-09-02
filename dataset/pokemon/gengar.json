@@ -1,0 +1,229 @@
+{
+  "slug": "gengar",
+  "natdex": 94,
+  "name": "Gengar",
+  "names": {
+    "japan": "Gangarゲンガー",
+    "french": "Ectoplasma",
+    "german": "Gengar",
+    "korean": "팬텀"
+  },
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Gas Pokémon",
+  "heightM": 1.5,
+  "weightKg": 40.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Gengar"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "spAttack": 130,
+    "spDefense": 75,
+    "speed": 110,
+    "total": 500
+  },
+  "evolutionChain": [
+    "gastly",
+    "haunter",
+    "gengar"
+  ],
+  "flavorText": {
+    "ruby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+    "sapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+    "emerald": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+    "firered": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+    "leafgreen": "On the night of a full moon, if shadows move on their own and laugh, it must be GENGAR's doing."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Haunter",
+    "leafgreen": "Evolve Haunter",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": null,
+        "move": "Spite"
+      },
+      {
+        "level": 8,
+        "move": "Spite"
+      },
+      {
+        "level": 13,
+        "move": "Mean Look"
+      },
+      {
+        "level": 16,
+        "move": "Curse"
+      },
+      {
+        "level": 21,
+        "move": "Night Shade"
+      },
+      {
+        "level": 25,
+        "move": "Shadow Punch"
+      },
+      {
+        "level": 31,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 39,
+        "move": "Dream Eater"
+      },
+      {
+        "level": 48,
+        "move": "Destiny Bond"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/094.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.757Z"
+  }
+}

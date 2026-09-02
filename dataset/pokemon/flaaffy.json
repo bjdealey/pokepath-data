@@ -1,0 +1,189 @@
+{
+  "slug": "flaaffy",
+  "natdex": 180,
+  "name": "Flaaffy",
+  "names": {
+    "japan": "Mokokoモココ",
+    "french": "Lainergie",
+    "german": "Waaty",
+    "korean": "보송송"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Wool Pokémon",
+  "heightM": 0.8,
+  "weightKg": 13.3,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Flaaffy, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 55,
+    "spAttack": 80,
+    "spDefense": 60,
+    "speed": 45,
+    "total": 365
+  },
+  "evolutionChain": [
+    "mareep",
+    "flaaffy",
+    "ampharos"
+  ],
+  "flavorText": {
+    "ruby": "FLAAFFY's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+    "sapphire": "FLAAFFY's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+    "emerald": "Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.",
+    "firered": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
+    "leafgreen": "As a result of storing too much electricity, it developed patches where even downy wool won't grow."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Mareep",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Street Performer Diogo in Pyrite Town",
+    "xd": "Evolve Mareep"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": 9,
+        "move": "Thundershock"
+      },
+      {
+        "level": 18,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 27,
+        "move": "Cotton Spore"
+      },
+      {
+        "level": 36,
+        "move": "Light Screen"
+      },
+      {
+        "level": 45,
+        "move": "Thunder"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/180.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.294Z"
+  }
+}

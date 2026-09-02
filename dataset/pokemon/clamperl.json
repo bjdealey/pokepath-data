@@ -1,0 +1,160 @@
+{
+  "slug": "clamperl",
+  "natdex": 366,
+  "name": "Clamperl",
+  "names": {
+    "japan": "Pearluluパールル",
+    "french": "Coquiperl",
+    "german": "Perlu",
+    "korean": "진주몽"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bivalve Pokémon",
+  "heightM": 0.4,
+  "weightKg": 52.5,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Shell Armor",
+      "description": "The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "spAttack": 74,
+    "spDefense": 55,
+    "speed": 32,
+    "total": 345
+  },
+  "evolutionChain": [
+    "clamperl",
+    "huntail",
+    "gorebyss"
+  ],
+  "flavorText": {
+    "ruby": "CLAMPERL's sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL's shell will be scored with nicks and scratches all over.",
+    "sapphire": "CLAMPERL grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this POKéMON is getting close to evolution.",
+    "emerald": "A CLAMPERL slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+    "firered": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+    "leafgreen": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl."
+  },
+  "locations": {
+    "ruby": "Underwater Routes 124 & 126",
+    "sapphire": "Underwater Routes 124 & 126",
+    "emerald": "Underwater Routes 124 & 126",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Clamp"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Whirlpool"
+      },
+      {
+        "level": null,
+        "move": "Iron Defense"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/366.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.506Z"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "cyndaquil",
+  "natdex": 155,
+  "name": "Cyndaquil",
+  "names": {
+    "japan": "Hinoarashiヒノアラシ",
+    "french": "Héricendre",
+    "german": "Feurigel",
+    "korean": "브케인"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Fire Mouse Pokémon",
+  "heightM": 0.5,
+  "weightKg": 7.9,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "description": "When Cyndaquil's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "spAttack": 60,
+    "spDefense": 50,
+    "speed": 65,
+    "total": 309
+  },
+  "evolutionChain": [
+    "cyndaquil",
+    "quilava",
+    "typhlosion"
+  ],
+  "flavorText": {
+    "ruby": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+    "sapphire": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+    "emerald": "It flares flames from its back to protect itself. The fire burns vigorously if the POKéMON is angry. When it is tired, it sputters with incomplete combustion.",
+    "firered": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+    "leafgreen": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/XD",
+    "sapphire": "Trade from Emerald/XD",
+    "emerald": "Given by Professor Birch after completing Hoenn Dex",
+    "firered": "Trade from Emerald/XD",
+    "leafgreen": "Trade from Emerald/XD",
+    "colosseum": "Trade from Emerald/XD",
+    "xd": "Prize for Defeating Mt. Battle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 6,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 12,
+        "move": "Ember"
+      },
+      {
+        "level": 19,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 27,
+        "move": "Flame Wheel"
+      },
+      {
+        "level": 36,
+        "move": "Swift"
+      },
+      {
+        "level": 46,
+        "move": "Flamethrower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/155.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.139Z"
+  }
+}

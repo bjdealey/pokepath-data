@@ -1,0 +1,285 @@
+{
+  "slug": "aggron",
+  "natdex": 306,
+  "name": "Aggron",
+  "names": {
+    "japan": "Bossgodoraボスゴドラ",
+    "french": "Galeking",
+    "german": "Stolloss",
+    "korean": "보스로라"
+  },
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Iron Armor Pokémon",
+  "heightM": 2.1,
+  "weightKg": 360,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Aggron Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    },
+    {
+      "name": "Sturdy",
+      "description": "Rock Head: Aggron Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 50,
+    "total": 530
+  },
+  "evolutionChain": [
+    "aron",
+    "lairon",
+    "aggron"
+  ],
+  "flavorText": {
+    "ruby": "AGGRON claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This POKéMON vigilantly patrols its territory at all times.",
+    "sapphire": "AGGRON is surprisingly protective of its environment. If its mountain is ravaged by a landslide or a fire, this POKéMON will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+    "emerald": "Its iron horns grow longer a little at a time. They are used to determine the AGGRON's age. The gouges in its armor are worn with pride as mementos from battles.",
+    "firered": "It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space.",
+    "leafgreen": "It claims a large mountain as its sole territory. It mercilessly thrashes those that violate its space."
+  },
+  "locations": {
+    "ruby": "Evolve Lairon",
+    "sapphire": "Evolve Lairon",
+    "emerald": "Evolve Lairon",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Lairon"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Mud-slap"
+      },
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 4,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 10,
+        "move": "Headbutt"
+      },
+      {
+        "level": 13,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 17,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 21,
+        "move": "Roar"
+      },
+      {
+        "level": 25,
+        "move": "Take Down"
+      },
+      {
+        "level": 29,
+        "move": "Iron Tail"
+      },
+      {
+        "level": 37,
+        "move": "Protect"
+      },
+      {
+        "level": 50,
+        "move": "Metal Sound"
+      },
+      {
+        "level": 63,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/306.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.069Z"
+  }
+}

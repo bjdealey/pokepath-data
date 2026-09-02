@@ -1,0 +1,252 @@
+{
+  "slug": "slaking",
+  "natdex": 289,
+  "name": "Slaking",
+  "names": {
+    "japan": "Kekkingケッキング",
+    "french": "Monaflèmit",
+    "german": "Letarking",
+    "korean": "게을킹"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Lazy Pokémon",
+  "heightM": 2,
+  "weightKg": 130.5,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Truant",
+      "description": "Slaking can only attack once every two turns"
+    }
+  ],
+  "baseStats": {
+    "hp": 150,
+    "attack": 160,
+    "defense": 100,
+    "spAttack": 95,
+    "spDefense": 65,
+    "speed": 100,
+    "total": 670
+  },
+  "evolutionChain": [
+    "slakoth",
+    "vigoroth",
+    "slaking"
+  ],
+  "flavorText": {
+    "ruby": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot.",
+    "sapphire": "Wherever SLAKING live, rings of over a yard in diameter appear in grassy fields. They are made by the POKéMON as it eats all the grass within reach while lying prone on the ground.",
+    "emerald": "Hordes of SLAKING gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.",
+    "firered": "It is the world's most slothful POKéMON. However, it can exert horrifying power by releasing pent-up energy all at once.",
+    "leafgreen": "It is the world's most slothful POKéMON. However, it can exert horrifying power by releasing pent-up energy all at once."
+  },
+  "locations": {
+    "ruby": "Evolve Vigoroth",
+    "sapphire": "Evolve Vigoroth",
+    "emerald": "Evolve Vigoroth",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": null,
+        "move": "Encore"
+      },
+      {
+        "level": null,
+        "move": "Slack Off"
+      },
+      {
+        "level": 7,
+        "move": "Encore"
+      },
+      {
+        "level": 13,
+        "move": "Slack Off"
+      },
+      {
+        "level": 19,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 25,
+        "move": "Amnesia"
+      },
+      {
+        "level": 31,
+        "move": "Covet"
+      },
+      {
+        "level": 36,
+        "move": "Swagger"
+      },
+      {
+        "level": 37,
+        "move": "Counter"
+      },
+      {
+        "level": 43,
+        "move": "Flail"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/289.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.962Z"
+  }
+}

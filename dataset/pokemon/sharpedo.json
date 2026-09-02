@@ -1,0 +1,236 @@
+{
+  "slug": "sharpedo",
+  "natdex": 319,
+  "name": "Sharpedo",
+  "names": {
+    "japan": "Samehaderサメハダー",
+    "french": "Sharpedo",
+    "german": "Tohaido",
+    "korean": "샤크니아"
+  },
+  "types": [
+    "water",
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Brutal Pokémon",
+  "heightM": 1.8,
+  "weightKg": 88.8,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Rough Skin",
+      "description": "The Opponent is hurt with 1/16th of the attack's damage when it makes contact with Sharpedo"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 120,
+    "defense": 40,
+    "spAttack": 95,
+    "spDefense": 40,
+    "speed": 95,
+    "total": 460
+  },
+  "evolutionChain": [
+    "carvanha",
+    "sharpedo"
+  ],
+  "flavorText": {
+    "ruby": "Nicknamed \"the bully of the sea,\" SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker.",
+    "sapphire": "SHARPEDO can swim at speeds of up to 75 mph by jetting seawater out of its backside. This POKéMON's drawback is its inability to swim long distances.",
+    "emerald": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.",
+    "firered": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
+    "leafgreen": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear."
+  },
+  "locations": {
+    "ruby": "Routes 103, 118, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Mossdeep City, Pacifidlog Town (Fish)",
+    "sapphire": "Routes 103, 118, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Mossdeep City, Pacifidlog Town (Fish)",
+    "emerald": "Routes 103, 118, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Mossdeep City, Pacifidlog Town (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Carvanha"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 7,
+        "move": "Rage"
+      },
+      {
+        "level": 13,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 16,
+        "move": "Scary Face"
+      },
+      {
+        "level": 22,
+        "move": "Crunch"
+      },
+      {
+        "level": 28,
+        "move": "Screech"
+      },
+      {
+        "level": 33,
+        "move": "Slash"
+      },
+      {
+        "level": 38,
+        "move": "Taunt"
+      },
+      {
+        "level": 43,
+        "move": "Swagger"
+      },
+      {
+        "level": 48,
+        "move": "Skull Bash"
+      },
+      {
+        "level": 53,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/319.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.156Z"
+  }
+}

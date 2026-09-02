@@ -1,0 +1,202 @@
+{
+  "slug": "ivysaur",
+  "natdex": 2,
+  "name": "Ivysaur",
+  "names": {
+    "japan": "Fushigisouフシギソウ",
+    "french": "Herbizarre",
+    "german": "Bisaknosp",
+    "korean": "이상해풀"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Seed Pokémon",
+  "heightM": 1,
+  "weightKg": 13,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Ivysaur's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 60,
+    "total": 405
+  },
+  "evolutionChain": [
+    "bulbasaur",
+    "ivysaur",
+    "venusaur"
+  ],
+  "flavorText": {
+    "ruby": "There is a bud on this POKéMON's back. To support its weight, IVYSAUR's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+    "sapphire": "There is a bud on this POKéMON's back. To support its weight, IVYSAUR's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+    "emerald": "To support its bulb, IVYSAUR's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
+    "firered": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
+    "leafgreen": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Bulbasaur",
+    "leafgreen": "Evolve Bulbasaur",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 4,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 10,
+        "move": "Vine Whip"
+      },
+      {
+        "level": 15,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 15,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 22,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 29,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 38,
+        "move": "Growth"
+      },
+      {
+        "level": 47,
+        "move": "Synthesis"
+      },
+      {
+        "level": 56,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/002.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.122Z"
+  }
+}

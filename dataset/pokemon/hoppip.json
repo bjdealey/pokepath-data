@@ -1,0 +1,178 @@
+{
+  "slug": "hoppip",
+  "natdex": 187,
+  "name": "Hoppip",
+  "names": {
+    "japan": "Haneccoハネッコ",
+    "french": "Granivol",
+    "german": "Hoppspross",
+    "korean": "통통코"
+  },
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cottonweed Pokémon",
+  "heightM": 0.4,
+  "weightKg": 0.5,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Fairy",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Hoppip's Speed is Doubled."
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 40,
+    "spAttack": 35,
+    "spDefense": 55,
+    "speed": 50,
+    "total": 250
+  },
+  "evolutionChain": [
+    "hoppip",
+    "skiploom",
+    "jumpluff"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
+    "sapphire": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
+    "emerald": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, a HOPPIP links leaves with others to prepare against being blown away.",
+    "firered": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+    "leafgreen": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Five Island, Five Isle Meadow, Memorial Pillar, Resort Gorgeous, Water Labyrinth (Surf), Five Isle Meadow, Memorial Pillar",
+    "leafgreen": "Five Island, Five Isle Meadow, Memorial Pillar, Resort Gorgeous, Water Labyrinth (Surf), Five Isle Meadow, Memorial Pillar",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Oasis PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": 5,
+        "move": "Synthesis"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Tackle"
+      },
+      {
+        "level": 13,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 15,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 17,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 20,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 25,
+        "move": "Cotton Spore"
+      },
+      {
+        "level": 30,
+        "move": "Mega Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/187.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.336Z"
+  }
+}

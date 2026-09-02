@@ -1,0 +1,205 @@
+{
+  "slug": "pikachu",
+  "natdex": 25,
+  "name": "Pikachu",
+  "names": {
+    "japan": "Pikachuピカチュウ",
+    "french": "Pikachu",
+    "german": "Pikachu",
+    "korean": "피카츄"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mouse Pokémon",
+  "heightM": 0.4,
+  "weightKg": 6,
+  "captureRate": 190,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Pikachu, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 30,
+    "spAttack": 50,
+    "spDefense": 40,
+    "speed": 90,
+    "total": 300
+  },
+  "evolutionChain": [
+    "pichu",
+    "pikachu",
+    "raichu"
+  ],
+  "flavorText": {
+    "ruby": "Whenever PIKACHU comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this POKéMON mistook the intensity of its charge.",
+    "sapphire": "This POKéMON has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while PIKACHU sleeps. It occasionally discharges electricity when it is dozy after waking up.",
+    "emerald": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
+    "firered": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+    "leafgreen": "When several of these POKéMON gather, their electricity can build and cause lightning storms."
+  },
+  "locations": {
+    "ruby": "Safari Zone; SouthWest & SouthEast",
+    "sapphire": "Safari Zone; SouthWest & SouthEast",
+    "emerald": "Safari Zone; SouthWest & SouthEast",
+    "firered": "Viridian Forest & Power Plant",
+    "leafgreen": "Viridian Forest & Power Plant",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 6,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 8,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 11,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 15,
+        "move": "Double Team"
+      },
+      {
+        "level": 20,
+        "move": "Slam"
+      },
+      {
+        "level": 26,
+        "move": "Thunderbolt"
+      },
+      {
+        "level": 33,
+        "move": "Agility"
+      },
+      {
+        "level": 41,
+        "move": "Thunder"
+      },
+      {
+        "level": 50,
+        "move": "Light Screen"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/025.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.282Z"
+  }
+}

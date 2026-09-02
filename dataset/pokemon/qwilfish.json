@@ -1,0 +1,195 @@
+{
+  "slug": "qwilfish",
+  "natdex": 211,
+  "name": "Qwilfish",
+  "names": {
+    "japan": "Harysenハリーセン",
+    "french": "Qwilfish",
+    "german": "Baldorfish",
+    "korean": "침바루"
+  },
+  "types": [
+    "water",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Balloon Pokémon",
+  "heightM": 0.5,
+  "weightKg": 3.9,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Qwilfish's Speed is DoubledPoison Point: When a Pokémon makes contact with Qwilfish, it has a 30% chance of being Poisoned"
+    },
+    {
+      "name": "Poison Point",
+      "description": "Swift Swim: When Rain Dance is in effect, Qwilfish's Speed is DoubledPoison Point: When a Pokémon makes contact with Qwilfish, it has a 30% chance of being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 75,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 85,
+    "total": 430
+  },
+  "evolutionChain": [
+    "qwilfish"
+  ],
+  "flavorText": {
+    "ruby": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+    "sapphire": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+    "emerald": "A QWILFISH uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
+    "firered": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+    "leafgreen": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/Colosseum",
+    "sapphire": "Trade from FireRed/Colosseum",
+    "emerald": "Trade from FireRed/Colosseum",
+    "firered": "Five Isle Meadow, Green Path, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Water Labyrinth, Water Path (Fish)",
+    "leafgreen": "Trade from FireRed/Colosseum",
+    "colosseum": "Snagged from Hunter Doken in Pyrite Town",
+    "xd": "Trade from FireRed/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Spikes"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 10,
+        "move": "Harden"
+      },
+      {
+        "level": 10,
+        "move": "Minimize"
+      },
+      {
+        "level": 19,
+        "move": "Water Gun"
+      },
+      {
+        "level": 28,
+        "move": "Pin Missile"
+      },
+      {
+        "level": 37,
+        "move": "Take Down"
+      },
+      {
+        "level": 46,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/211.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.480Z"
+  }
+}

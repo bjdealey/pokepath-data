@@ -1,0 +1,204 @@
+{
+  "slug": "natu",
+  "natdex": 177,
+  "name": "Natu",
+  "names": {
+    "japan": "Natyネイティ",
+    "french": "Natu",
+    "german": "Natu",
+    "korean": "네이티"
+  },
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Little Bird Pokémon",
+  "heightM": 0.2,
+  "weightKg": 2,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "Synchronize: When Natu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionEarly Bird: If afflicted with Sleep, Natu wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Synchronize: When Natu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionEarly Bird: If afflicted with Sleep, Natu wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 45,
+    "spAttack": 70,
+    "spDefense": 45,
+    "speed": 70,
+    "total": 320
+  },
+  "evolutionChain": [
+    "natu",
+    "xatu"
+  ],
+  "flavorText": {
+    "ruby": "NATU cannot fly because its wings are not yet fully grown. If your eyes meet with this POKéMON's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
+    "sapphire": "NATU has a highly developed jumping ability. The POKéMON flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
+    "emerald": "It runs up short trees that grow on the savanna to peck at new shoots. A NATU's eyes look as if they are always observing something.",
+    "firered": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+    "leafgreen": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something."
+  },
+  "locations": {
+    "ruby": "Safari Zone Entrance & Mach & Acro Bike Areas",
+    "sapphire": "Safari Zone Entrance & Mach & Acro Bike Areas",
+    "emerald": "Safari Zone Entrance & Mach & Acro Bike Areas",
+    "firered": "Ruin Valley",
+    "leafgreen": "Ruin Valley",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Eloin in Phenac Training School"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 10,
+        "move": "Night Shade"
+      },
+      {
+        "level": 20,
+        "move": "Teleport"
+      },
+      {
+        "level": 30,
+        "move": "Wish"
+      },
+      {
+        "level": 30,
+        "move": "Future Sight"
+      },
+      {
+        "level": 40,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 50,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/177.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.276Z"
+  }
+}

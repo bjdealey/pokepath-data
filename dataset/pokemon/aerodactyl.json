@@ -1,0 +1,223 @@
+{
+  "slug": "aerodactyl",
+  "natdex": 142,
+  "name": "Aerodactyl",
+  "names": {
+    "japan": "Pteraプテラ",
+    "french": "Ptéra",
+    "german": "Aerodactyl",
+    "korean": "프테라"
+  },
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Fossil Pokémon",
+  "heightM": 1.8,
+  "weightKg": 59,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Aerodactyl receives no Re-Coil DamagePressure: The Opponent's Moves against Aerodactyl use 2 PP instead of 1"
+    },
+    {
+      "name": "Pressure",
+      "description": "Rock Head: Aerodactyl receives no Re-Coil DamagePressure: The Opponent's Moves against Aerodactyl use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "spAttack": 60,
+    "spDefense": 75,
+    "speed": 130,
+    "total": 515
+  },
+  "evolutionChain": [
+    "aerodactyl"
+  ],
+  "flavorText": {
+    "ruby": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+    "sapphire": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+    "emerald": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.",
+    "firered": "It was regenerated from a dinosaur's genetic matter that was found in amber. It flies with high-pitched cries.",
+    "leafgreen": "A ferocious, prehistoric POKéMON that goes for the enemy's throat with its serrated, sawlike fangs."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Revive From Old Amber",
+    "leafgreen": "Revive From Old Amber",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 8,
+        "move": "Agility"
+      },
+      {
+        "level": 15,
+        "move": "Bite"
+      },
+      {
+        "level": 22,
+        "move": "Supersonic"
+      },
+      {
+        "level": 29,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 36,
+        "move": "Scary Face"
+      },
+      {
+        "level": 43,
+        "move": "Take Down"
+      },
+      {
+        "level": 50,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/142.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.058Z"
+  }
+}

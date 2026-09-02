@@ -1,0 +1,241 @@
+{
+  "slug": "altaria",
+  "natdex": 334,
+  "name": "Altaria",
+  "names": {
+    "japan": "Tyltalisチルタリス",
+    "french": "Altaria",
+    "german": "Altaria",
+    "korean": "파비코리"
+  },
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Humming Pokémon",
+  "heightM": 1.1,
+  "weightKg": 20.6,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure",
+      "description": "Status Conditions are healed when withdrawn from Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "spAttack": 70,
+    "spDefense": 105,
+    "speed": 80,
+    "total": 490
+  },
+  "evolutionChain": [
+    "swablu",
+    "altaria"
+  ],
+  "flavorText": {
+    "ruby": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
+    "sapphire": "ALTARIA sings in a gorgeous soprano. Its wings are like cotton clouds. This POKéMON catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+    "emerald": "It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.",
+    "firered": "If you hear a beautiful melody trilling deep among mountains far from people, it is ALTARIA's humming.",
+    "leafgreen": "If you hear a beautiful melody trilling deep among mountains far from people, it is ALTARIA's humming."
+  },
+  "locations": {
+    "ruby": "Sky Pillar Floor 5",
+    "sapphire": "Sky Pillar Floor 5",
+    "emerald": "Sky Pillar Floor 5",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum/XD",
+    "colosseum": "Evolve Swablu",
+    "xd": "Snagged from Cipher Admin Lovrina in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": null,
+        "move": "Sing"
+      },
+      {
+        "level": 8,
+        "move": "Astonish"
+      },
+      {
+        "level": 11,
+        "move": "Sing"
+      },
+      {
+        "level": 18,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 21,
+        "move": "Safeguard"
+      },
+      {
+        "level": 28,
+        "move": "Mist"
+      },
+      {
+        "level": 31,
+        "move": "Take Down"
+      },
+      {
+        "level": 35,
+        "move": "Dragonbreath"
+      },
+      {
+        "level": 40,
+        "move": "Dragon Dance"
+      },
+      {
+        "level": 45,
+        "move": "Refresh"
+      },
+      {
+        "level": 54,
+        "move": "Perish Song"
+      },
+      {
+        "level": 59,
+        "move": "Sky Attack"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/334.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.245Z"
+  }
+}

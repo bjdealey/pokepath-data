@@ -1,0 +1,213 @@
+{
+  "slug": "squirtle",
+  "natdex": 7,
+  "name": "Squirtle",
+  "names": {
+    "japan": "Zenigameゼニガメ",
+    "french": "Carapuce",
+    "german": "Schiggy",
+    "korean": "꼬부기"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Tiny Turtle Pokémon",
+  "heightM": 0.5,
+  "weightKg": 9,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent",
+      "description": "When Squirtle's HP Gets Low, It's Water type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "spAttack": 50,
+    "spDefense": 64,
+    "speed": 43,
+    "total": 314
+  },
+  "evolutionChain": [
+    "squirtle",
+    "wartortle",
+    "blastoise"
+  ],
+  "flavorText": {
+    "ruby": "SQUIRTLE's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
+    "sapphire": "SQUIRTLE's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
+    "emerald": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling SQUIRTLE to swim at high speeds.",
+    "firered": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+    "leafgreen": "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Starter Pokémon Obtained in Pallet Town",
+    "leafgreen": "Starter Pokémon Obtained in Pallet Town",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 4,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 7,
+        "move": "Bubble"
+      },
+      {
+        "level": 10,
+        "move": "Withdraw"
+      },
+      {
+        "level": 13,
+        "move": "Water Gun"
+      },
+      {
+        "level": 18,
+        "move": "Bite"
+      },
+      {
+        "level": 23,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 28,
+        "move": "Protect"
+      },
+      {
+        "level": 33,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 40,
+        "move": "Skull Bash"
+      },
+      {
+        "level": 47,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/007.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.166Z"
+  }
+}

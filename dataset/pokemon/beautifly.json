@@ -1,0 +1,195 @@
+{
+  "slug": "beautifly",
+  "natdex": 267,
+  "name": "Beautifly",
+  "names": {
+    "japan": "Agehuntアゲハント",
+    "french": "Charmillon",
+    "german": "Papinella",
+    "korean": "뷰티플라이"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Butterfly Pokémon",
+  "heightM": 1,
+  "weightKg": 28.4,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "When Beautifly's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "spAttack": 90,
+    "spDefense": 50,
+    "speed": 65,
+    "total": 385
+  },
+  "evolutionChain": [
+    "wurmple",
+    "silcoon",
+    "beautifly",
+    "cascoon",
+    "dustox"
+  ],
+  "flavorText": {
+    "ruby": "BEAUTIFLY's favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
+    "sapphire": "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This POKéMON rides the spring winds as it flits around gathering pollen.",
+    "emerald": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
+    "firered": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
+    "leafgreen": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth."
+  },
+  "locations": {
+    "ruby": "Evolve Silcoon",
+    "sapphire": "Evolve Silcoon",
+    "emerald": "Evolve Silcoon",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": 10,
+        "move": "Absorb"
+      },
+      {
+        "level": 13,
+        "move": "Gust"
+      },
+      {
+        "level": 17,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 20,
+        "move": "Morning Sun"
+      },
+      {
+        "level": 24,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 27,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 31,
+        "move": "Attract"
+      },
+      {
+        "level": 34,
+        "move": "Silver Wind"
+      },
+      {
+        "level": 38,
+        "move": "Giga Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/267.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.830Z"
+  }
+}

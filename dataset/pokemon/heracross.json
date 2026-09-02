@@ -1,0 +1,207 @@
+{
+  "slug": "heracross",
+  "natdex": 214,
+  "name": "Heracross",
+  "names": {
+    "japan": "Heracrosヘラクロス",
+    "french": "Scarhino",
+    "german": "Skaraborn",
+    "korean": "헤라크로스"
+  },
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Singlehorn Pokémon",
+  "heightM": 1.5,
+  "weightKg": 54,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "Swarm: When Heracross' HP Gets Low, It's Bug type attack's power is multiplied by 1.5Guts: When Heracross is inflicted with a status condition, it's attack is raised by 50%"
+    },
+    {
+      "name": "Guts",
+      "description": "Swarm: When Heracross' HP Gets Low, It's Bug type attack's power is multiplied by 1.5Guts: When Heracross is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "spAttack": 40,
+    "spDefense": 95,
+    "speed": 85,
+    "total": 500
+  },
+  "evolutionChain": [
+    "heracross"
+  ],
+  "flavorText": {
+    "ruby": "HERACROSS charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This POKéMON even has enough power to topple a massive tree.",
+    "sapphire": "HERACROSS has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the POKéMON a secure and solid footing to forcefully fling away foes with its proud horn.",
+    "emerald": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
+    "firered": "Usually docile, but if disturbed while sipping honey, it chases off the intruder with its horn.",
+    "leafgreen": "This powerful POKéMON thrusts its prized horn under its enemies' bellies, then lifts and throws them."
+  },
+  "locations": {
+    "ruby": "Safari Zone Acro Bike Area",
+    "sapphire": "Safari Zone Acro Bike Area",
+    "emerald": "Safari Zone Acro Bike Area",
+    "firered": "Pattern Bush",
+    "leafgreen": "Pattern Bush",
+    "colosseum": "Snagged from Cipher Peon Dioge in Realgam Tower's Dome",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 6,
+        "move": "Horn Attack"
+      },
+      {
+        "level": 11,
+        "move": "Endure"
+      },
+      {
+        "level": 17,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 23,
+        "move": "Brick Break"
+      },
+      {
+        "level": 30,
+        "move": "Counter"
+      },
+      {
+        "level": 37,
+        "move": "Take Down"
+      },
+      {
+        "level": 45,
+        "move": "Reversal"
+      },
+      {
+        "level": 53,
+        "move": "Megahorn"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/214.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.498Z"
+  }
+}

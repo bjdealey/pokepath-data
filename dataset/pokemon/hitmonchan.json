@@ -1,0 +1,201 @@
+{
+  "slug": "hitmonchan",
+  "natdex": 107,
+  "name": "Hitmonchan",
+  "names": {
+    "japan": "Ebiwalarエビワラー",
+    "french": "Tygnon",
+    "german": "Nockchan",
+    "korean": "홍수몬"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Punching Pokémon",
+  "heightM": 1.4,
+  "weightKg": 50.2,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Hitmonchans Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "spAttack": 35,
+    "spDefense": 110,
+    "speed": 76,
+    "total": 455
+  },
+  "evolutionChain": [
+    "tyrogue",
+    "hitmonchan",
+    "hitmonlee",
+    "hitmontop"
+  ],
+  "flavorText": {
+    "ruby": "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This POKéMON has an indomitable spirit and will never give up in the face of adversity.",
+    "sapphire": "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This POKéMON has an indomitable spirit and will never give up in the face of adversity.",
+    "emerald": "A HITMONCHAN is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
+    "firered": "The spirit of a pro boxer has infused this POKéMON. It throws punches that are faster than a bullet train.",
+    "leafgreen": "While apparently doing nothing, it fires punches in lightning-fast volleys that are impossible to see."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Obtained after defeating Fighting Dojo in Saffron City",
+    "leafgreen": "Obtained after defeating Fighting Dojo in Saffron City",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Karbon in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Revenge"
+      },
+      {
+        "level": null,
+        "move": "Comet Punch"
+      },
+      {
+        "level": 7,
+        "move": "Agility"
+      },
+      {
+        "level": 13,
+        "move": "Pursuit"
+      },
+      {
+        "level": 20,
+        "move": "Mach Punch"
+      },
+      {
+        "level": 26,
+        "move": "Thunderpunch"
+      },
+      {
+        "level": 26,
+        "move": "Ice Punch"
+      },
+      {
+        "level": 26,
+        "move": "Fire Punch"
+      },
+      {
+        "level": 32,
+        "move": "Sky Uppercut"
+      },
+      {
+        "level": 38,
+        "move": "Mega Punch"
+      },
+      {
+        "level": 44,
+        "move": "Detect"
+      },
+      {
+        "level": 50,
+        "move": "Counter"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/107.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.837Z"
+  }
+}

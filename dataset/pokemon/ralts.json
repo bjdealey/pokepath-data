@@ -1,0 +1,220 @@
+{
+  "slug": "ralts",
+  "natdex": 280,
+  "name": "Ralts",
+  "names": {
+    "japan": "Raltsラルトス",
+    "french": "Tarsal",
+    "german": "Trasla",
+    "korean": "랄토스"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Feeling Pokémon",
+  "heightM": 0.4,
+  "weightKg": 6.6,
+  "captureRate": 235,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "Synchronize: When Ralts is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionTrace: Copies Opponent's Ability when brought into Battle"
+    },
+    {
+      "name": "Trace",
+      "description": "Synchronize: When Ralts is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionTrace: Copies Opponent's Ability when brought into Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 28,
+    "attack": 25,
+    "defense": 25,
+    "spAttack": 45,
+    "spDefense": 35,
+    "speed": 40,
+    "total": 198
+  },
+  "evolutionChain": [
+    "ralts",
+    "kirlia",
+    "gardevoir"
+  ],
+  "flavorText": {
+    "ruby": "RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
+    "sapphire": "RALTS has the ability to sense the emotions of people. If its TRAINER is in a cheerful mood, this POKéMON grows cheerful and joyous in the same way.",
+    "emerald": "A RALTS has the power to sense the emotions of people and POKéMON with the horns on its head. It takes cover if it senses any hostility.",
+    "firered": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+    "leafgreen": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility."
+  },
+  "locations": {
+    "ruby": "Route 102",
+    "sapphire": "Route 102",
+    "emerald": "Route 102",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Feldas in ONBS Station Top"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 6,
+        "move": "Confusion"
+      },
+      {
+        "level": 11,
+        "move": "Double Team"
+      },
+      {
+        "level": 16,
+        "move": "Teleport"
+      },
+      {
+        "level": 21,
+        "move": "Calm Mind"
+      },
+      {
+        "level": 26,
+        "move": "Psychic"
+      },
+      {
+        "level": 31,
+        "move": "Imprison"
+      },
+      {
+        "level": 36,
+        "move": "Future Sight"
+      },
+      {
+        "level": 41,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 46,
+        "move": "Dream Eater"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/280.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.906Z"
+  }
+}

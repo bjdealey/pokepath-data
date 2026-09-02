@@ -1,0 +1,196 @@
+{
+  "slug": "quilava",
+  "natdex": 156,
+  "name": "Quilava",
+  "names": {
+    "japan": "Magmarashiマグマラシ",
+    "french": "Feurisson",
+    "german": "Igelavar",
+    "korean": "마그케인"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Volcano Pokémon",
+  "heightM": 0.9,
+  "weightKg": 19,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "description": "When Quilava's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "spAttack": 80,
+    "spDefense": 65,
+    "speed": 80,
+    "total": 405
+  },
+  "evolutionChain": [
+    "cyndaquil",
+    "quilava",
+    "typhlosion"
+  ],
+  "flavorText": {
+    "ruby": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+    "sapphire": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+    "emerald": "It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.",
+    "firered": "This POKéMON is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+    "leafgreen": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Cyndaquil",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Mystery Troop Rosso in Phenac City or Snagem Hideout",
+    "xd": "Evolve Cyndaquil"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 6,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 12,
+        "move": "Ember"
+      },
+      {
+        "level": 21,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 31,
+        "move": "Flame Wheel"
+      },
+      {
+        "level": 42,
+        "move": "Swift"
+      },
+      {
+        "level": 54,
+        "move": "Flamethrower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/156.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.144Z"
+  }
+}

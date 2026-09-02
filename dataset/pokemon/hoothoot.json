@@ -1,0 +1,192 @@
+{
+  "slug": "hoothoot",
+  "natdex": 163,
+  "name": "Hoothoot",
+  "names": {
+    "japan": "Hohoホーホー",
+    "french": "Hoothoot",
+    "german": "Hoothoot",
+    "korean": "부우부"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Owl Pokémon",
+  "heightM": 0.7,
+  "weightKg": 21.2,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Insomnia: Prevents Hoothoot from being put to SleepKeen Eye: Hoothoot's Accuracy cannot be Lowered by Opponent"
+    },
+    {
+      "name": "Keen Eye",
+      "description": "Insomnia: Prevents Hoothoot from being put to SleepKeen Eye: Hoothoot's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "spAttack": 36,
+    "spDefense": 56,
+    "speed": 50,
+    "total": 262
+  },
+  "evolutionChain": [
+    "hoothoot",
+    "noctowl"
+  ],
+  "flavorText": {
+    "ruby": "HOOTHOOT has an internal organ that senses and tracks the earth's rotation. Using this special organ, this POKéMON begins hooting at precisely the same time every day.",
+    "sapphire": "HOOTHOOT has an internal organ that senses and tracks the earth's rotation. Using this special organ, this POKéMON begins hooting at precisely the same time every day.",
+    "emerald": "It has an internal organ that senses the earth's rotation. Using this special organ, a HOOTHOOT begins hooting at precisely the same time every day.",
+    "firered": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+    "leafgreen": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald",
+    "sapphire": "Trade from Emerald",
+    "emerald": "Safari Zone Extentions 1 & 2",
+    "firered": "Trade from Emerald",
+    "leafgreen": "Trade from Emerald",
+    "colosseum": "Trade from Emerald",
+    "xd": "Trade from Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 6,
+        "move": "Foresight"
+      },
+      {
+        "level": 11,
+        "move": "Peck"
+      },
+      {
+        "level": 16,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 22,
+        "move": "Reflect"
+      },
+      {
+        "level": 28,
+        "move": "Take Down"
+      },
+      {
+        "level": 34,
+        "move": "Confusion"
+      },
+      {
+        "level": 48,
+        "move": "Dream Eater"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/163.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.188Z"
+  }
+}

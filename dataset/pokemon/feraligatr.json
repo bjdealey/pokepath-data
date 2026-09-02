@@ -1,0 +1,237 @@
+{
+  "slug": "feraligatr",
+  "natdex": 160,
+  "name": "Feraligatr",
+  "names": {
+    "japan": "Ordileオーダイル",
+    "french": "Aligatueur",
+    "german": "Impergator",
+    "korean": "장크로다일"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Big Jaw Pokémon",
+  "heightM": 2.3,
+  "weightKg": 88.8,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent",
+      "description": "When Feraligatr's HP Gets Low, It's Water type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "spAttack": 79,
+    "spDefense": 83,
+    "speed": 78,
+    "total": 530
+  },
+  "evolutionChain": [
+    "totodile",
+    "croconaw",
+    "feraligatr"
+  ],
+  "flavorText": {
+    "ruby": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+    "sapphire": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+    "emerald": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
+    "firered": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+    "leafgreen": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears up its victim."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Croconaw",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Evolve Croconaw",
+    "xd": "Evolve Croconaw"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 7,
+        "move": "Rage"
+      },
+      {
+        "level": 13,
+        "move": "Water Gun"
+      },
+      {
+        "level": 21,
+        "move": "Bite"
+      },
+      {
+        "level": 28,
+        "move": "Scary Face"
+      },
+      {
+        "level": 38,
+        "move": "Slash"
+      },
+      {
+        "level": 47,
+        "move": "Screech"
+      },
+      {
+        "level": 58,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/160.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.170Z"
+  }
+}

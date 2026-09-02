@@ -1,0 +1,188 @@
+{
+  "slug": "abra",
+  "natdex": 63,
+  "name": "Abra",
+  "names": {
+    "japan": "Caseyケーシィ",
+    "french": "Abra",
+    "german": "Abra",
+    "korean": "캐이시"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Psi Pokémon",
+  "heightM": 0.9,
+  "weightKg": 19.5,
+  "captureRate": 200,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Synchronize",
+      "description": "Synchronize: When Abra is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionInner Focus: Prevents Flinching"
+    },
+    {
+      "name": "Inner Focus",
+      "description": "Synchronize: When Abra is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionInner Focus: Prevents Flinching"
+    }
+  ],
+  "baseStats": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 15,
+    "spAttack": 105,
+    "spDefense": 55,
+    "speed": 90,
+    "total": 310
+  },
+  "evolutionChain": [
+    "abra",
+    "kadabra",
+    "alakazam"
+  ],
+  "flavorText": {
+    "ruby": "ABRA sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this POKéMON immediately teleports to safety.",
+    "sapphire": "ABRA needs to sleep for eighteen hours a day. If it doesn't, this POKéMON loses its ability to use telekinetic powers. If it is attacked, ABRA escapes using TELEPORT while it is still sleeping.",
+    "emerald": "A POKéMON that sleeps 18 hours a day. Observation revealed that it uses TELEPORT to change its location once every hour.",
+    "firered": "It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.",
+    "leafgreen": "Using its ability to read minds, it will sense impending danger and TELEPORT to safety."
+  },
+  "locations": {
+    "ruby": "Granite Cave Floor 1 & Basements 1 & 2",
+    "sapphire": "Granite Cave Floor 1 & Basements 1 & 2",
+    "emerald": "Route 116 & Granite Cave Floor 1 & Basements 1 & 2",
+    "firered": "Routes 24 & 25",
+    "leafgreen": "Routes 24 & 25",
+    "colosseum": "Trade from Ruby/Sapphire/EmeraldFireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Teleport"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/063.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.518Z"
+  }
+}

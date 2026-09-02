@@ -1,0 +1,193 @@
+{
+  "slug": "swablu",
+  "natdex": 333,
+  "name": "Swablu",
+  "names": {
+    "japan": "Tylttoチルット",
+    "french": "Tylton",
+    "german": "Wablu",
+    "korean": "파비코"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cotton Bird Pokémon",
+  "heightM": 0.4,
+  "weightKg": 1.2,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure",
+      "description": "Status Conditions are healed when withdrawn from Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 60,
+    "spAttack": 40,
+    "spDefense": 75,
+    "speed": 50,
+    "total": 310
+  },
+  "evolutionChain": [
+    "swablu",
+    "altaria"
+  ],
+  "flavorText": {
+    "ruby": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+    "sapphire": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself.",
+    "emerald": "A POKéMON that has wings like cottony clouds. After enduring winter, in which little food is available, SWABLU flocks move closer to towns in the spring.",
+    "firered": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+    "leafgreen": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty."
+  },
+  "locations": {
+    "ruby": "Routes 114 & 115",
+    "sapphire": "Routes 114 & 115",
+    "emerald": "Routes 114 & 115",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "colosseum": "Snagged from Hunter Zalo in Pyrite Cave",
+    "xd": "Trade from Ruby/Sapphire/EmeraldColosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 8,
+        "move": "Astonish"
+      },
+      {
+        "level": 11,
+        "move": "Sing"
+      },
+      {
+        "level": 18,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 21,
+        "move": "Safeguard"
+      },
+      {
+        "level": 28,
+        "move": "Mist"
+      },
+      {
+        "level": 31,
+        "move": "Take Down"
+      },
+      {
+        "level": 38,
+        "move": "Mirror Move"
+      },
+      {
+        "level": 41,
+        "move": "Refresh"
+      },
+      {
+        "level": 48,
+        "move": "Perish Song"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/333.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.240Z"
+  }
+}

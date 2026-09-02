@@ -1,0 +1,187 @@
+{
+  "slug": "murkrow",
+  "natdex": 198,
+  "name": "Murkrow",
+  "names": {
+    "japan": "Yamikarasuヤミカラス",
+    "french": "Cornèbre",
+    "german": "Kramurx",
+    "korean": "니로우"
+  },
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Darkness Pokémon",
+  "heightM": 0.5,
+  "weightKg": 2.1,
+  "captureRate": 30,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Prevents Murkrow from being put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "spAttack": 85,
+    "spDefense": 42,
+    "speed": 91,
+    "total": 405
+  },
+  "evolutionChain": [
+    "murkrow"
+  ],
+  "flavorText": {
+    "ruby": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+    "sapphire": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+    "emerald": "MURKROW were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
+    "firered": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
+    "leafgreen": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/Colosseum",
+    "sapphire": "Trade from FireRed/Colosseum",
+    "emerald": "Trade from FireRed/Colosseum",
+    "firered": "Lost Cave",
+    "leafgreen": "Trade from FireRed/Colosseum",
+    "colosseum": "Snagged from Cipher Peon Lare in Cipher Lab",
+    "xd": "Trade from FireRed/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": 9,
+        "move": "Astonish"
+      },
+      {
+        "level": 14,
+        "move": "Pursuit"
+      },
+      {
+        "level": 22,
+        "move": "Haze"
+      },
+      {
+        "level": 27,
+        "move": "Night Shade"
+      },
+      {
+        "level": 35,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 40,
+        "move": "Taunt"
+      },
+      {
+        "level": 48,
+        "move": "Mean Look"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/198.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.406Z"
+  }
+}

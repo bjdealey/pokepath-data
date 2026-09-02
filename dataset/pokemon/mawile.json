@@ -1,0 +1,227 @@
+{
+  "slug": "mawile",
+  "natdex": 303,
+  "name": "Mawile",
+  "names": {
+    "japan": "Kucheatクチート",
+    "french": "Mysdibule",
+    "german": "Flunkifer",
+    "korean": "입치트"
+  },
+  "types": [
+    "steel"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Deceiver Pokémon",
+  "heightM": 0.6,
+  "weightKg": 11.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter",
+      "description": "Hyper Cutter: Mawile's Attack cannot be Lowered by OpponentIntimidate: Upon Mawile's Entry in Battle, all opponent's Attack Stats are lowered"
+    },
+    {
+      "name": "Intimidate",
+      "description": "Hyper Cutter: Mawile's Attack cannot be Lowered by OpponentIntimidate: Upon Mawile's Entry in Battle, all opponent's Attack Stats are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 50,
+    "total": 380
+  },
+  "evolutionChain": [
+    "mawile"
+  ],
+  "flavorText": {
+    "ruby": "MAWHILE's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWHILE chomps it with its gaping jaws.",
+    "sapphire": "Don't be taken in by this POKéMON's cute face - it's very dangerous. MAWILE fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+    "emerald": "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+    "firered": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+    "leafgreen": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws."
+  },
+  "locations": {
+    "ruby": "Cave of Origin Floor 1 & Basements 1, 2 & 3, Granite Cave Basements 1 & 2, Sky Pillar Floors 1, 3 & 5, Victory Road Basement 2",
+    "sapphire": "Trade from Ruby/Emerald/XD",
+    "emerald": "Victory Road Basements 1 & 2",
+    "firered": "Trade from Ruby/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Emerald/XD",
+    "colosseum": "Trade from Ruby/Emerald/XD",
+    "xd": "Snagged from Cipher Cmdr. Exol in ONBS Station Top"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": 6,
+        "move": "Fake Tears"
+      },
+      {
+        "level": 11,
+        "move": "Bite"
+      },
+      {
+        "level": 16,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 21,
+        "move": "Vicegrip"
+      },
+      {
+        "level": 26,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 31,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 36,
+        "move": "Crunch"
+      },
+      {
+        "level": 41,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 46,
+        "move": "Stockpile"
+      },
+      {
+        "level": 46,
+        "move": "Swallow"
+      },
+      {
+        "level": 46,
+        "move": "Spit Up"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/303.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.051Z"
+  }
+}

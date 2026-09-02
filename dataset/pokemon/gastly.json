@@ -1,0 +1,197 @@
+{
+  "slug": "gastly",
+  "natdex": 92,
+  "name": "Gastly",
+  "names": {
+    "japan": "Ghosゴース",
+    "french": "Fantominus",
+    "german": "Nebulak",
+    "korean": "고오스"
+  },
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Gas Pokémon",
+  "heightM": 1.3,
+  "weightKg": 0.1,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Gastly"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "spAttack": 100,
+    "spDefense": 35,
+    "speed": 80,
+    "total": 310
+  },
+  "evolutionChain": [
+    "gastly",
+    "haunter",
+    "gengar"
+  ],
+  "flavorText": {
+    "ruby": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
+    "sapphire": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
+    "emerald": "When exposed to a strong wind, a GASTLY's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
+    "firered": "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
+    "leafgreen": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7",
+    "leafgreen": "Lost Cave & Pokémon Tower Floors 3, 4, 5, 6 & 7",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": 8,
+        "move": "Spite"
+      },
+      {
+        "level": 13,
+        "move": "Mean Look"
+      },
+      {
+        "level": 16,
+        "move": "Curse"
+      },
+      {
+        "level": 21,
+        "move": "Night Shade"
+      },
+      {
+        "level": 28,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 33,
+        "move": "Dream Eater"
+      },
+      {
+        "level": 36,
+        "move": "Destiny Bond"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/092.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.746Z"
+  }
+}

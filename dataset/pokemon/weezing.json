@@ -1,0 +1,215 @@
+{
+  "slug": "weezing",
+  "natdex": 110,
+  "name": "Weezing",
+  "names": {
+    "japan": "Matadogasマタドガス",
+    "french": "Smogogo",
+    "german": "Smogmog",
+    "korean": "또도가스"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Poison Gas Pokémon",
+  "heightM": 1.2,
+  "weightKg": 9.5,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Weezing"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "spAttack": 85,
+    "spDefense": 70,
+    "speed": 60,
+    "total": 490
+  },
+  "evolutionChain": [
+    "koffing",
+    "weezing"
+  ],
+  "flavorText": {
+    "ruby": "WEEZING loves the gases given off by rotted kitchen garbage. This POKéMON will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+    "sapphire": "WEEZING alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The POKéMON also becomes more putrid.",
+    "emerald": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To WEEZING, gases emanating from garbage are the ultimate feast.",
+    "firered": "Very rarely, a sudden mutation can result in two small KOFFING twins becoming conjoined as a WEEZING.",
+    "leafgreen": "Where two kinds of poison gases meet, two KOFFING can fuse into a WEEZING over many years."
+  },
+  "locations": {
+    "ruby": "Evolve Koffing",
+    "sapphire": "Evolve Koffing",
+    "emerald": "Evolve Koffing",
+    "firered": "Pokemon Mansion Floors 1, 2, 3 & 4",
+    "leafgreen": "Evolve Koffing",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Gas"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Smog"
+      },
+      {
+        "level": null,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 9,
+        "move": "Smog"
+      },
+      {
+        "level": 17,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 21,
+        "move": "Sludge"
+      },
+      {
+        "level": 25,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 33,
+        "move": "Haze"
+      },
+      {
+        "level": 44,
+        "move": "Explosion"
+      },
+      {
+        "level": 51,
+        "move": "Destiny Bond"
+      },
+      {
+        "level": 58,
+        "move": "Memento"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/110.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.855Z"
+  }
+}

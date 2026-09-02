@@ -1,0 +1,216 @@
+{
+  "slug": "armaldo",
+  "natdex": 348,
+  "name": "Armaldo",
+  "names": {
+    "japan": "Armaldoアーマルド",
+    "french": "Armaldo",
+    "german": "Armaldo",
+    "korean": "아말도"
+  },
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Plate Pokémon",
+  "heightM": 1.5,
+  "weightKg": 68.2,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Battle Armor",
+      "description": "The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "spAttack": 70,
+    "spDefense": 80,
+    "speed": 45,
+    "total": 495
+  },
+  "evolutionChain": [
+    "anorith",
+    "armaldo"
+  ],
+  "flavorText": {
+    "ruby": "ARMALDO's tough armor makes all attacks bounce off. This POKéMON's two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+    "sapphire": "ARMALDO is a POKéMON species that became extinct in prehistoric times. This POKéMON is said to have walked on its hind legs, which would have been more convenient for life on land.",
+    "emerald": "ARMALDO usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
+    "firered": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+    "leafgreen": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed."
+  },
+  "locations": {
+    "ruby": "Evolve Anorith",
+    "sapphire": "Evolve Anorith",
+    "emerald": "Evolve Anorith",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Mud Sport"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      },
+      {
+        "level": 13,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 19,
+        "move": "Water Gun"
+      },
+      {
+        "level": 25,
+        "move": "Metal Claw"
+      },
+      {
+        "level": 31,
+        "move": "Protect"
+      },
+      {
+        "level": 37,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 46,
+        "move": "Fury Cutter"
+      },
+      {
+        "level": 55,
+        "move": "Slash"
+      },
+      {
+        "level": 64,
+        "move": "Rock Blast"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/348.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.369Z"
+  }
+}

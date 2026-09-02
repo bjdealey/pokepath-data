@@ -1,0 +1,225 @@
+{
+  "slug": "flygon",
+  "natdex": 330,
+  "name": "Flygon",
+  "names": {
+    "japan": "Flygonフライゴン",
+    "french": "Libégon",
+    "german": "Libelldra",
+    "korean": "플라이곤"
+  },
+  "types": [
+    "ground",
+    "dragon"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mystic Pokémon",
+  "heightM": 2,
+  "weightKg": 82,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Flygon"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 100,
+    "total": 520
+  },
+  "evolutionChain": [
+    "trapinch",
+    "vibrava",
+    "flygon"
+  ],
+  "flavorText": {
+    "ruby": "FLYGON is nicknamed \"the elemental spirit of the desert.\" Because its flapping wings whip up a cloud of sand, this POKéMON is always enveloped in a sandstorm while flying.",
+    "sapphire": "FLYGON whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the \"singing\" is the only thing that can be heard in a sandstorm, this POKéMON is said to be the desert spirit.",
+    "emerald": "The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.",
+    "firered": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.",
+    "leafgreen": "It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand."
+  },
+  "locations": {
+    "ruby": "Evolve Vibrava",
+    "sapphire": "Evolve Vibrava",
+    "emerald": "Evolve Vibrava",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum/XD",
+    "colosseum": "Evolve Vibrava",
+    "xd": "Evolve Vibrava"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": null,
+        "move": "Faint Attack"
+      },
+      {
+        "level": null,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 17,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 25,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 33,
+        "move": "Crunch"
+      },
+      {
+        "level": 35,
+        "move": "Dragonbreath"
+      },
+      {
+        "level": 41,
+        "move": "Screech"
+      },
+      {
+        "level": 53,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 65,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/330.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.223Z"
+  }
+}

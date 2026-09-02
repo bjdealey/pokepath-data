@@ -1,0 +1,206 @@
+{
+  "slug": "smoochum",
+  "natdex": 238,
+  "name": "Smoochum",
+  "names": {
+    "japan": "Muchulムチュール",
+    "french": "Lippouti",
+    "german": "Kussilla",
+    "korean": "뽀뽀라"
+  },
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Kiss Pokémon",
+  "heightM": 0.4,
+  "weightKg": 6,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Smoochum from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "spAttack": 85,
+    "spDefense": 65,
+    "speed": 65,
+    "total": 305
+  },
+  "evolutionChain": [
+    "smoochum",
+    "jynx"
+  ],
+  "flavorText": {
+    "ruby": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "sapphire": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
+    "emerald": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.",
+    "firered": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.",
+    "leafgreen": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Breed Jynx",
+    "leafgreen": "Breed Jynx",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": 9,
+        "move": "Sweet Kiss"
+      },
+      {
+        "level": 13,
+        "move": "Powder Snow"
+      },
+      {
+        "level": 21,
+        "move": "Confusion"
+      },
+      {
+        "level": 25,
+        "move": "Sing"
+      },
+      {
+        "level": 33,
+        "move": "Mean Look"
+      },
+      {
+        "level": 37,
+        "move": "Fake Tears"
+      },
+      {
+        "level": 45,
+        "move": "Psychic"
+      },
+      {
+        "level": 49,
+        "move": "Perish Song"
+      },
+      {
+        "level": 57,
+        "move": "Blizzard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/238.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.645Z"
+  }
+}

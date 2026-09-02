@@ -1,0 +1,189 @@
+{
+  "slug": "pidgeot",
+  "natdex": 18,
+  "name": "Pidgeot",
+  "names": {
+    "japan": "Pigeotピジョット",
+    "french": "Roucarnage",
+    "german": "Tauboss",
+    "korean": "피죤투"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bird Pokémon",
+  "heightM": 1.5,
+  "weightKg": 39.5,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Pidgeot's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "spAttack": 70,
+    "spDefense": 70,
+    "speed": 91,
+    "total": 469
+  },
+  "evolutionChain": [
+    "pidgey",
+    "pidgeotto",
+    "pidgeot"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
+    "sapphire": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
+    "emerald": "This POKéMON has gorgeous, glossy feathers. Many TRAINERS are so captivated by the beautiful feathers on its head that they choose PIDGEOT as their POKéMON.",
+    "firered": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+    "leafgreen": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Pidgeotto",
+    "leafgreen": "Evolve Pidgeotto",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Pidgeotto"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": null,
+        "move": "Gust"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 5,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 9,
+        "move": "Gust"
+      },
+      {
+        "level": 13,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 20,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 27,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 34,
+        "move": "Featherdance"
+      },
+      {
+        "level": 48,
+        "move": "Agility"
+      },
+      {
+        "level": 62,
+        "move": "Mirror Move"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/018.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.237Z"
+  }
+}

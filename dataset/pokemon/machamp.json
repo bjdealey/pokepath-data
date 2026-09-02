@@ -1,0 +1,220 @@
+{
+  "slug": "machamp",
+  "natdex": 68,
+  "name": "Machamp",
+  "names": {
+    "japan": "Kairikyカイリキー",
+    "french": "Mackogneur",
+    "german": "Machomei",
+    "korean": "괴력몬"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Superpower Pokémon",
+  "heightM": 1.6,
+  "weightKg": 130,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Machamp is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "spAttack": 65,
+    "spDefense": 85,
+    "speed": 55,
+    "total": 505
+  },
+  "evolutionChain": [
+    "machop",
+    "machoke",
+    "machamp"
+  ],
+  "flavorText": {
+    "ruby": "MACHAMP has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This POKéMON tends to leap into action before it thinks.",
+    "sapphire": "MACHAMP is known as the POKéMON that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
+    "emerald": "It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.",
+    "firered": "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
+    "leafgreen": "Its superpowerful punches are said to knock the victim flying clear over the horizon."
+  },
+  "locations": {
+    "ruby": "Evolve Machoke",
+    "sapphire": "Evolve Machoke",
+    "emerald": "Evolve Machoke",
+    "firered": "Evolve Machoke",
+    "leafgreen": "Evolve Machoke",
+    "colosseum": "Trade from Ruby/Sapphire/EmeraldFireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Low Kick"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 7,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 13,
+        "move": "Karate Chop"
+      },
+      {
+        "level": 19,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 22,
+        "move": "Foresight"
+      },
+      {
+        "level": 25,
+        "move": "Revenge"
+      },
+      {
+        "level": 33,
+        "move": "Vital Throw"
+      },
+      {
+        "level": 41,
+        "move": "Submission"
+      },
+      {
+        "level": 46,
+        "move": "Cross Chop"
+      },
+      {
+        "level": 51,
+        "move": "Scary Face"
+      },
+      {
+        "level": 59,
+        "move": "Dynamicpunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/068.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.580Z"
+  }
+}

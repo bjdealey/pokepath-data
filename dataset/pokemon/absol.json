@@ -1,0 +1,254 @@
+{
+  "slug": "absol",
+  "natdex": 359,
+  "name": "Absol",
+  "names": {
+    "japan": "Absolアブソル",
+    "french": "Absol",
+    "german": "Absol",
+    "korean": "앱솔"
+  },
+  "types": [
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Disaster Pokémon",
+  "heightM": 1.2,
+  "weightKg": 47,
+  "captureRate": 30,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Absol use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "spAttack": 75,
+    "spDefense": 60,
+    "speed": 75,
+    "total": 465
+  },
+  "evolutionChain": [
+    "absol"
+  ],
+  "flavorText": {
+    "ruby": "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster POKéMON.",
+    "sapphire": "ABSOL has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This POKéMON very rarely ventures down from the mountains.",
+    "emerald": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived POKéMON that has a life-span of 100 years.",
+    "firered": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
+    "leafgreen": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer."
+  },
+  "locations": {
+    "ruby": "Route 120",
+    "sapphire": "Route 120",
+    "emerald": "Route 120",
+    "firered": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/Colosseum",
+    "colosseum": "Snagged from Rider Delan in Realgam Tower Colosseum",
+    "xd": "Trade from Ruby/Sapphire/Emerald/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 5,
+        "move": "Leer"
+      },
+      {
+        "level": 9,
+        "move": "Taunt"
+      },
+      {
+        "level": 13,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 17,
+        "move": "Razor Wind"
+      },
+      {
+        "level": 21,
+        "move": "Bite"
+      },
+      {
+        "level": 26,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 31,
+        "move": "Double Team"
+      },
+      {
+        "level": 36,
+        "move": "Slash"
+      },
+      {
+        "level": 41,
+        "move": "Future Sight"
+      },
+      {
+        "level": 46,
+        "move": "Perish Song"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/359.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.445Z"
+  }
+}

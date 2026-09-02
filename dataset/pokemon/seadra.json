@@ -1,0 +1,193 @@
+{
+  "slug": "seadra",
+  "natdex": 117,
+  "name": "Seadra",
+  "names": {
+    "japan": "Seadraシードラ",
+    "french": "Hypocéan",
+    "german": "Seemon",
+    "korean": "시드라"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dragon Pokémon",
+  "heightM": 1.2,
+  "weightKg": 25,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Poison Point",
+      "description": "When a Pokémon makes contact with Seadra, it has a 30% chance of being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "spAttack": 95,
+    "spDefense": 45,
+    "speed": 85,
+    "total": 440
+  },
+  "evolutionChain": [
+    "horsea",
+    "seadra",
+    "kingdra"
+  ],
+  "flavorText": {
+    "ruby": "SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this POKéMON's poison barbs if they fail to notice it.",
+    "sapphire": "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This POKéMON weakens prey with these currents, then swallows it whole.",
+    "emerald": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
+    "firered": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+    "leafgreen": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail."
+  },
+  "locations": {
+    "ruby": "Evolve Horsea",
+    "sapphire": "Evolve Horsea",
+    "emerald": "Evolve Horsea",
+    "firered": "Routes 19, 20, 21, 24 & 25, Cerulan City, Cinnabar Island, One Island, Pallet Town, Berry Forest, Bond Bridge, Cape Brink, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Ruin Valley, Seafoam Island Basements 3 & 4, S.S. Anne, Tanoby Ruins, Trainer Tower, Treasure Beach, Water Labyrinth, Water Path (Fish)",
+    "leafgreen": "Evolve Horsea",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Smokescreen"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 8,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 15,
+        "move": "Leer"
+      },
+      {
+        "level": 22,
+        "move": "Water Gun"
+      },
+      {
+        "level": 29,
+        "move": "Twister"
+      },
+      {
+        "level": 40,
+        "move": "Agility"
+      },
+      {
+        "level": 51,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 62,
+        "move": "Dragon Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/117.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.905Z"
+  }
+}

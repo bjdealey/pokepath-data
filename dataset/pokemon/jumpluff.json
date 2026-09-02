@@ -1,0 +1,194 @@
+{
+  "slug": "jumpluff",
+  "natdex": 189,
+  "name": "Jumpluff",
+  "names": {
+    "japan": "Wataccoワタッコ",
+    "french": "Cotovol",
+    "german": "Papungha",
+    "korean": "솜솜코"
+  },
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cottonweed Pokémon",
+  "heightM": 0.8,
+  "weightKg": 3,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Fairy",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Jumpluff's Speed is Doubled."
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "spAttack": 55,
+    "spDefense": 85,
+    "speed": 110,
+    "total": 450
+  },
+  "evolutionChain": [
+    "hoppip",
+    "skiploom",
+    "jumpluff"
+  ],
+  "flavorText": {
+    "ruby": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
+    "sapphire": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
+    "emerald": "JUMPLUFF ride warm southern winds to cross the sea and fly to foreign lands. This POKéMON lands when it encounters cold air while it is floating.",
+    "firered": "It drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+    "leafgreen": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "firered": "Evolve Skiploom",
+    "leafgreen": "Evolve Skiploom",
+    "colosseum": "Evolve Skiploom",
+    "xd": "Evolve Skiploom"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": null,
+        "move": "Synthesis"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Synthesis"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Tackle"
+      },
+      {
+        "level": 13,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 15,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 17,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 22,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 33,
+        "move": "Cotton Spore"
+      },
+      {
+        "level": 44,
+        "move": "Mega Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/189.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.346Z"
+  }
+}

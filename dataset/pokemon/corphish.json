@@ -1,0 +1,224 @@
+{
+  "slug": "corphish",
+  "natdex": 341,
+  "name": "Corphish",
+  "names": {
+    "japan": "Heiganiヘイガニ",
+    "french": "Écrapince",
+    "german": "Krebscorps",
+    "korean": "가재군"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Ruffian Pokémon",
+  "heightM": 0.6,
+  "weightKg": 11.5,
+  "captureRate": 205,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter",
+      "description": "Hyper Cutter: Corphish's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Shell Armor",
+      "description": "Hyper Cutter: Corphish's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "spAttack": 50,
+    "spDefense": 35,
+    "speed": 35,
+    "total": 308
+  },
+  "evolutionChain": [
+    "corphish",
+    "crawdaunt"
+  ],
+  "flavorText": {
+    "ruby": "CORPHISH were originally foreign POKéMON that were imported as pets. They eventually turned up in the wild. This POKéMON is very hardy and has greatly increased its population.",
+    "sapphire": "CORPHISH catches prey with its sharp claws. It has no likes or dislikes when it comes to food - it will eat anything. This POKéMON has no trouble living in filthy water.",
+    "emerald": "Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy POKéMON that can thrive in any environment.",
+    "firered": "It came from overseas. It is a very hardy creature that will quickly proliferate, even in polluted streams.",
+    "leafgreen": "It came from overseas. It is a very hardy creature that will quickly proliferate, even in polluted streams."
+  },
+  "locations": {
+    "ruby": "Routes 102 & 117, Petalburg City (Fish)",
+    "sapphire": "Routes 102 & 117, Petalburg City (Fish)",
+    "emerald": "Routes 102 & 117, Petalburg City (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      },
+      {
+        "level": 10,
+        "move": "Vicegrip"
+      },
+      {
+        "level": 13,
+        "move": "Leer"
+      },
+      {
+        "level": 20,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 23,
+        "move": "Protect"
+      },
+      {
+        "level": 26,
+        "move": "Knock Off"
+      },
+      {
+        "level": 32,
+        "move": "Taunt"
+      },
+      {
+        "level": 35,
+        "move": "Crabhammer"
+      },
+      {
+        "level": 38,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 44,
+        "move": "Guillotine"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/341.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.288Z"
+  }
+}

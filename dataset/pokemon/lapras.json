@@ -1,0 +1,236 @@
+{
+  "slug": "lapras",
+  "natdex": 131,
+  "name": "Lapras",
+  "names": {
+    "japan": "Laplaceラプラス",
+    "french": "Lokhlass",
+    "german": "Lapras",
+    "korean": "라프라스"
+  },
+  "types": [
+    "water",
+    "ice"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Transport Pokémon",
+  "heightM": 2.5,
+  "weightKg": 220,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Water Absorb",
+      "description": "Water Absorb: Lapras is healed by up to 25% of Max HP when hit by Water Attacks.Shell Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Shell Armor",
+      "description": "Water Absorb: Lapras is healed by up to 25% of Max HP when hit by Water Attacks.Shell Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "spAttack": 85,
+    "spDefense": 95,
+    "speed": 60,
+    "total": 535
+  },
+  "evolutionChain": [
+    "lapras"
+  ],
+  "flavorText": {
+    "ruby": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain.",
+    "sapphire": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain.",
+    "emerald": "People have driven LAPRAS almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
+    "firered": "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+    "leafgreen": "A POKéMON that has been overhunted almost to extinction. It can ferry people on its back."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Icefall Cave Floor 1 Inner",
+    "leafgreen": "Icefall Cave Floor 1 Inner",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Eldes in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Sing"
+      },
+      {
+        "level": 7,
+        "move": "Mist"
+      },
+      {
+        "level": 13,
+        "move": "Body Slam"
+      },
+      {
+        "level": 19,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 25,
+        "move": "Perish Song"
+      },
+      {
+        "level": 31,
+        "move": "Ice Beam"
+      },
+      {
+        "level": 37,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 43,
+        "move": "Safeguard"
+      },
+      {
+        "level": 49,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 55,
+        "move": "Sheer Cold"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/131.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.990Z"
+  }
+}

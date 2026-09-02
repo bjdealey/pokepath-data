@@ -1,0 +1,209 @@
+{
+  "slug": "bayleef",
+  "natdex": 153,
+  "name": "Bayleef",
+  "names": {
+    "japan": "Bayleafベイリーフ",
+    "french": "Macronium",
+    "german": "Lorblatt",
+    "korean": "베이리프"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Leaf Pokémon",
+  "heightM": 1.2,
+  "weightKg": 15.8,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Bayleef's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "spAttack": 63,
+    "spDefense": 80,
+    "speed": 60,
+    "total": 405
+  },
+  "evolutionChain": [
+    "chikorita",
+    "bayleef",
+    "meganium"
+  ],
+  "flavorText": {
+    "ruby": "BAYLEEF's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+    "sapphire": "BAYLEEF's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+    "emerald": "A BAYLEEF's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
+    "firered": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+    "leafgreen": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Chikorita",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Mystery Troop Verda in Phenac City or Snagem Hideout",
+    "xd": "Evolve Chikorita"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": null,
+        "move": "Reflect"
+      },
+      {
+        "level": 8,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 12,
+        "move": "Reflect"
+      },
+      {
+        "level": 15,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 23,
+        "move": "Synthesis"
+      },
+      {
+        "level": 31,
+        "move": "Body Slam"
+      },
+      {
+        "level": 39,
+        "move": "Light Screen"
+      },
+      {
+        "level": 47,
+        "move": "Safeguard"
+      },
+      {
+        "level": 55,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/153.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.126Z"
+  }
+}

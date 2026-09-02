@@ -1,0 +1,243 @@
+{
+  "slug": "sneasel",
+  "natdex": 215,
+  "name": "Sneasel",
+  "names": {
+    "japan": "Nyulaニューラ",
+    "french": "Farfuret",
+    "german": "Sniebel",
+    "korean": "포푸니"
+  },
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Sharp Claw Pokémon",
+  "heightM": 0.9,
+  "weightKg": 28,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus",
+      "description": "Inner Focus: Prevents FlinchingKeen Eye: Sneasel's Accuracy cannot be Lowered by Opponent"
+    },
+    {
+      "name": "Keen Eye",
+      "description": "Inner Focus: Prevents FlinchingKeen Eye: Sneasel's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 55,
+    "spAttack": 35,
+    "spDefense": 75,
+    "speed": 115,
+    "total": 430
+  },
+  "evolutionChain": [
+    "sneasel"
+  ],
+  "flavorText": {
+    "ruby": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "sapphire": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "emerald": "A SNEASEL scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "firered": "Vicious in nature, it drives PIDGEY from their nests and feasts on the eggs that are left behind.",
+    "leafgreen": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen/Colosseum",
+    "sapphire": "Trade from LeafGreen/Colosseum",
+    "emerald": "Trade from LeafGreen/Colosseum",
+    "firered": "Trade from LeafGreen/Colosseum",
+    "leafgreen": "Icefall Cave Floor 1 & Basement 1",
+    "colosseum": "Snagged from Rider Nelis in The Under Subway",
+    "xd": "Trade from LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Taunt"
+      },
+      {
+        "level": 8,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 15,
+        "move": "Screech"
+      },
+      {
+        "level": 22,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 29,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 36,
+        "move": "Agility"
+      },
+      {
+        "level": 43,
+        "move": "Icy Wind"
+      },
+      {
+        "level": 50,
+        "move": "Slash"
+      },
+      {
+        "level": 57,
+        "move": "Beat Up"
+      },
+      {
+        "level": 64,
+        "move": "Metal Claw"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/215.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.510Z"
+  }
+}

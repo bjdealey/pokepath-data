@@ -115,7 +115,10 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
       }
     }
     if (male !== undefined || female !== undefined) {
-      genderRatio = { malePct: male ?? 0, femalePct: female ?? 0 };
+      genderRatio =
+        (male ?? 0) === 0 && (female ?? 0) === 0
+          ? "genderless"
+          : { malePct: male ?? 0, femalePct: female ?? 0 };
     }
 
     // Classification / Height / Weight / Capture Rate / Base Egg Steps:
@@ -143,9 +146,12 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
       const c0 = cells(infoTrs[i]!)[0];
       if (c0 && ($(c0).attr("class") ?? "").startsWith("fooleft")) {
         const abilityName = cellText(c0).replace(/^Ability:\s*/i, "");
+        // Two possible abilities share one cell ("Magnet Pull & Sturdy") and one
+        // description row. Split the names; the shared description is best-effort
+        // until abilities become their own entity (abilitydex).
         const description = infoTrs[i + 1] ? cellText(cells(infoTrs[i + 1]!)[0]!) : undefined;
-        for (const a of abilityName.split(/\s+or\s+/)) {
-          if (a) abilities.push({ name: a, description });
+        for (const a of abilityName.split(/\s*&\s*|\s+or\s+/)) {
+          if (a) abilities.push({ name: a.trim(), description });
         }
       }
     }

@@ -1,0 +1,221 @@
+{
+  "slug": "poliwhirl",
+  "natdex": 61,
+  "name": "Poliwhirl",
+  "names": {
+    "japan": "Nyorozoニョロゾ",
+    "french": "Têtarte",
+    "german": "Quaputzi",
+    "korean": "슈륙챙이"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tadpole Pokémon",
+  "heightM": 1,
+  "weightKg": 20,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Poliwhirl is healed by up to 25% of Max HP when hit by Water Attacks."
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Poliwhirl is healed by up to 25% of Max HP when hit by Water Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 65,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 90,
+    "total": 385
+  },
+  "evolutionChain": [
+    "poliwag",
+    "poliwhirl",
+    "poliwrath",
+    "politoed"
+  ],
+  "flavorText": {
+    "ruby": "The surface of POLIWHIRL's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "sapphire": "The surface of POLIWHIRL's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "emerald": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "firered": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+    "leafgreen": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Routes 6, 22, 23, 25, Four Island, Viridian City, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Icefall Cave Entrance, Ruin Valley (Fish)",
+    "leafgreen": "Routes 6, 22, 23, 25, Four Island, Viridian City, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Icefall Cave Entrance, Ruin Valley (Fish)",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 7,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 13,
+        "move": "Water Gun"
+      },
+      {
+        "level": 19,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 27,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 35,
+        "move": "Body Slam"
+      },
+      {
+        "level": 43,
+        "move": "Belly Drum"
+      },
+      {
+        "level": 51,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/061.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.505Z"
+  }
+}

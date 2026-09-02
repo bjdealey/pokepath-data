@@ -1,0 +1,182 @@
+{
+  "slug": "luvdisc",
+  "natdex": 370,
+  "name": "Luvdisc",
+  "names": {
+    "japan": "Lovecusラブカス",
+    "french": "Lovdisc",
+    "german": "Liebiskus",
+    "korean": "사랑동이"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Rendezvous Pokémon",
+  "heightM": 0.6,
+  "weightKg": 8.7,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Luvdisc's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "spAttack": 40,
+    "spDefense": 65,
+    "speed": 97,
+    "total": 330
+  },
+  "evolutionChain": [
+    "luvdisc"
+  ],
+  "flavorText": {
+    "ruby": "LUVDISC live in shallow seas in the tropics. This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean's waves.",
+    "sapphire": "LUVDISC's heart-shaped body is a symbol of love and romance. It is said that any couple meeting this POKéMON is promised a loving relationship that never ends.",
+    "emerald": "LUVDISC make the branches of CORSOLA their nests. There is a custom from long ago of giving a LUVDISC as a gift to express one's feelings of love.",
+    "firered": "During the spawning season, countless LUVDISC congregate at coral reefs, turning the waters pink.",
+    "leafgreen": "During the spawning season, countless LUVDISC congregate at coral reefs, turning the waters pink."
+  },
+  "locations": {
+    "ruby": "Route 128 & Evergrande City (Fish)",
+    "sapphire": "Route 128 & Evergrande City (Fish)",
+    "emerald": "Route 128 & Evergrande City (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 4,
+        "move": "Charm"
+      },
+      {
+        "level": 12,
+        "move": "Water Gun"
+      },
+      {
+        "level": 16,
+        "move": "Agility"
+      },
+      {
+        "level": 24,
+        "move": "Take Down"
+      },
+      {
+        "level": 28,
+        "move": "Attract"
+      },
+      {
+        "level": 36,
+        "move": "Sweet Kiss"
+      },
+      {
+        "level": 40,
+        "move": "Flail"
+      },
+      {
+        "level": 48,
+        "move": "Safeguard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/370.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.533Z"
+  }
+}

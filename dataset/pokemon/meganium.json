@@ -1,0 +1,217 @@
+{
+  "slug": "meganium",
+  "natdex": 154,
+  "name": "Meganium",
+  "names": {
+    "japan": "Meganiumメガニウム",
+    "french": "Méganium",
+    "german": "Meganie",
+    "korean": "메가니움"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Herb Pokémon",
+  "heightM": 1.8,
+  "weightKg": 100.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Meganium's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "spAttack": 83,
+    "spDefense": 100,
+    "speed": 80,
+    "total": 525
+  },
+  "evolutionChain": [
+    "chikorita",
+    "bayleef",
+    "meganium"
+  ],
+  "flavorText": {
+    "ruby": "The fragrance of MEGANIUM's flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe's fighting spirit.",
+    "sapphire": "The fragrance of MEGANIUM's flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe's fighting spirit.",
+    "emerald": "The fragrance of a MEGANIUM's flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe's fighting spirit.",
+    "firered": "MEGANIUM's breath has the power to revive dead grass and plants. It can make them healthy again.",
+    "leafgreen": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Bayleef",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Evolve Bayleef",
+    "xd": "Evolve Bayleef"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": null,
+        "move": "Reflect"
+      },
+      {
+        "level": 8,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 12,
+        "move": "Reflect"
+      },
+      {
+        "level": 15,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 23,
+        "move": "Synthesis"
+      },
+      {
+        "level": 31,
+        "move": "Body Slam"
+      },
+      {
+        "level": 41,
+        "move": "Light Screen"
+      },
+      {
+        "level": 51,
+        "move": "Safeguard"
+      },
+      {
+        "level": 61,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/154.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.134Z"
+  }
+}

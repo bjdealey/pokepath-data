@@ -1,0 +1,200 @@
+{
+  "slug": "milotic",
+  "natdex": 350,
+  "name": "Milotic",
+  "names": {
+    "japan": "Milokarossミロカロス",
+    "french": "Milobellus",
+    "german": "Milotic",
+    "korean": "밀로틱"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tender Pokémon",
+  "heightM": 6.2,
+  "weightKg": 162,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Marvel Scale",
+      "description": "When Milotic is inflicted with a status condition, it's defense is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "spAttack": 100,
+    "spDefense": 125,
+    "speed": 81,
+    "total": 540
+  },
+  "evolutionChain": [
+    "feebas",
+    "milotic"
+  ],
+  "flavorText": {
+    "ruby": "MILOTIC is said to be the most beautiful of all the POKéMON. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+    "sapphire": "MILOTIC live at the bottom of large lakes. When this POKéMON's body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
+    "emerald": "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all POKéMON, it has been depicted in paintings and statues.",
+    "firered": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+    "leafgreen": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits."
+  },
+  "locations": {
+    "ruby": "Evolve Feebas",
+    "sapphire": "Evolve Feebas",
+    "emerald": "Evolve Feebas",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 5,
+        "move": "Wrap"
+      },
+      {
+        "level": 10,
+        "move": "Water Sport"
+      },
+      {
+        "level": 15,
+        "move": "Refresh"
+      },
+      {
+        "level": 20,
+        "move": "Water Pulse"
+      },
+      {
+        "level": 25,
+        "move": "Twister"
+      },
+      {
+        "level": 30,
+        "move": "Recover"
+      },
+      {
+        "level": 35,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 40,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 45,
+        "move": "Attract"
+      },
+      {
+        "level": 50,
+        "move": "Safeguard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/350.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.382Z"
+  }
+}

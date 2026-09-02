@@ -1,0 +1,179 @@
+{
+  "slug": "shuckle",
+  "natdex": 213,
+  "name": "Shuckle",
+  "names": {
+    "japan": "Tsubotsuboツボツボ",
+    "french": "Caratroc",
+    "german": "Pottrott",
+    "korean": "단단지"
+  },
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mold Pokémon",
+  "heightM": 0.6,
+  "weightKg": 20.5,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy",
+      "description": "One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 230,
+    "spAttack": 10,
+    "spDefense": 230,
+    "speed": 5,
+    "total": 505
+  },
+  "evolutionChain": [
+    "shuckle"
+  ],
+  "flavorText": {
+    "ruby": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+    "sapphire": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+    "emerald": "A SHUCKLE hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+    "firered": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+    "leafgreen": "The BERRIES it stores in its vaselike shell decompose and become a gooey liquid."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Safari Zone Extention (Smash Rocks), Altering Cave",
+    "firered": "Altering Cave",
+    "leafgreen": "Altering Cave",
+    "colosseum": "Snagged from Deep King Agnol in Deep Colosseum",
+    "xd": "Trade for Surskit with Duking in Pyrite Town"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": null,
+        "move": "Withdraw"
+      },
+      {
+        "level": 9,
+        "move": "Wrap"
+      },
+      {
+        "level": 14,
+        "move": "Encore"
+      },
+      {
+        "level": 23,
+        "move": "Safeguard"
+      },
+      {
+        "level": 28,
+        "move": "Bide"
+      },
+      {
+        "level": 37,
+        "move": "Rest"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/213.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.492Z"
+  }
+}

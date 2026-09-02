@@ -1,0 +1,227 @@
+{
+  "slug": "spinda",
+  "natdex": 327,
+  "name": "Spinda",
+  "names": {
+    "japan": "Patcheelパッチール",
+    "french": "Spinda",
+    "german": "Pandir",
+    "korean": "얼루기"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Spot Panda Pokémon",
+  "heightM": 1.1,
+  "weightKg": 5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground",
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Own Tempo",
+      "description": "Prevents Spinda from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 60,
+    "total": 360
+  },
+  "evolutionChain": [
+    "spinda"
+  ],
+  "flavorText": {
+    "ruby": "All the SPINDA that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this POKéMON give it the appearance of dancing.",
+    "sapphire": "No two SPINDA are said to have identical spot patterns on their hides. This POKéMON moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+    "emerald": "It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.",
+    "firered": "No two SPINDA are said to have identical patterns. It confuses foes with its stumbling motions.",
+    "leafgreen": "No two SPINDA are said to have identical patterns. It confuses foes with its stumbling motions."
+  },
+  "locations": {
+    "ruby": "Route 113",
+    "sapphire": "Route 113",
+    "emerald": "Route 113",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Uproar"
+      },
+      {
+        "level": 12,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 16,
+        "move": "Psybeam"
+      },
+      {
+        "level": 23,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 27,
+        "move": "Dizzy Punch"
+      },
+      {
+        "level": 34,
+        "move": "Teeter Dance"
+      },
+      {
+        "level": 38,
+        "move": "Psych Up"
+      },
+      {
+        "level": 45,
+        "move": "Double-edge"
+      },
+      {
+        "level": 49,
+        "move": "Flail"
+      },
+      {
+        "level": 56,
+        "move": "Thrash"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/327.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.205Z"
+  }
+}

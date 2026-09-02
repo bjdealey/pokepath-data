@@ -1,0 +1,156 @@
+{
+  "slug": "feebas",
+  "natdex": 349,
+  "name": "Feebas",
+  "names": {
+    "japan": "Hinbassヒンバス",
+    "french": "Barpau",
+    "german": "Barschwa",
+    "korean": "빈티나"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Fish Pokémon",
+  "heightM": 0.6,
+  "weightKg": 7.4,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Feebas' Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "spAttack": 10,
+    "spDefense": 55,
+    "speed": 80,
+    "total": 200
+  },
+  "evolutionChain": [
+    "feebas",
+    "milotic"
+  ],
+  "flavorText": {
+    "ruby": "FEEBAS's fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers.",
+    "sapphire": "While FEEBAS's body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this POKéMON is also slow and dimwitted, making it an easy catch.",
+    "emerald": "FEEBAS live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few TRAINERS raise it.",
+    "firered": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+    "leafgreen": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds."
+  },
+  "locations": {
+    "ruby": "Route 119 *Random Six Tiles which is Randomly Changed whenever Trendy Phrase changes*",
+    "sapphire": "Route 119 *Random Six Tiles which is Randomly Changed whenever Trendy Phrase changes*",
+    "emerald": "Route 119 *Random Six Tiles which is Randomly Changed whenever Trendy Phrase changes*",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": 15,
+        "move": "Tackle"
+      },
+      {
+        "level": 30,
+        "move": "Flail"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/349.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.375Z"
+  }
+}

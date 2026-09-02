@@ -1,0 +1,156 @@
+{
+  "slug": "delibird",
+  "natdex": 225,
+  "name": "Delibird",
+  "names": {
+    "japan": "Delibirdデリバード",
+    "french": "Cadoizo",
+    "german": "Botogel",
+    "korean": "딜리버드"
+  },
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Delivery Pokémon",
+  "heightM": 0.9,
+  "weightKg": 16,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Hustle",
+      "description": "Hustle: Delibird's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Vital Spirit: Delibird Cannot be put to Sleep"
+    },
+    {
+      "name": "Vital Spirit",
+      "description": "Hustle: Delibird's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Vital Spirit: Delibird Cannot be put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "spAttack": 65,
+    "spDefense": 45,
+    "speed": 75,
+    "total": 330
+  },
+  "evolutionChain": [
+    "delibird"
+  ],
+  "flavorText": {
+    "ruby": "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these POKéMON sharing its food.",
+    "sapphire": "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these POKéMON sharing its food.",
+    "emerald": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a DELIBIRD sharing its food.",
+    "firered": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+    "leafgreen": "It carries food all day long. There are tales about lost people who were saved by the food it had."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/Colosseum",
+    "sapphire": "Trade from FireRed/Colosseum",
+    "emerald": "Trade from FireRed/Colosseum",
+    "firered": "Icefall Cave Floors 1 & Basement 1",
+    "leafgreen": "Trade from FireRed/Colosseum",
+    "colosseum": "Snagged from Cipher Peon Arton in Realgam Tower's Dome",
+    "xd": "Trade from FireRed/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Present"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/225.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.571Z"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "slug": "primeape",
+  "natdex": 57,
+  "name": "Primeape",
+  "names": {
+    "japan": "Okorizaruオコリザル",
+    "french": "Colossinge",
+    "german": "Rasaff",
+    "korean": "성원숭"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Pig Monkey Pokémon",
+  "heightM": 1,
+  "weightKg": 32,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Vital Spirit",
+      "description": "Primeape Cannot be put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "spAttack": 60,
+    "spDefense": 70,
+    "speed": 95,
+    "total": 455
+  },
+  "evolutionChain": [
+    "mankey",
+    "primeape"
+  ],
+  "flavorText": {
+    "ruby": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+    "sapphire": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+    "emerald": "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
+    "firered": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+    "leafgreen": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Route 23, Cerulean Cave Floor 1, Victory Road Floor 2",
+    "leafgreen": "Route 23, Cerulean Cave Floor 1, Victory Road Floor 2",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Gorigan in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Low Kick"
+      },
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": 9,
+        "move": "Low Kick"
+      },
+      {
+        "level": 15,
+        "move": "Karate Chop"
+      },
+      {
+        "level": 21,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 27,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 28,
+        "move": "Rage"
+      },
+      {
+        "level": 36,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 45,
+        "move": "Cross Chop"
+      },
+      {
+        "level": 54,
+        "move": "Screech"
+      },
+      {
+        "level": 63,
+        "move": "Thrash"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/057.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.480Z"
+  }
+}

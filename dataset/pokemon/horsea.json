@@ -1,0 +1,177 @@
+{
+  "slug": "horsea",
+  "natdex": 116,
+  "name": "Horsea",
+  "names": {
+    "japan": "Tattuタッツー",
+    "french": "Hypotrempe",
+    "german": "Seeper",
+    "korean": "쏘드라"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dragon Pokémon",
+  "heightM": 0.4,
+  "weightKg": 8,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Horsea's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "spAttack": 70,
+    "spDefense": 25,
+    "speed": 60,
+    "total": 295
+  },
+  "evolutionChain": [
+    "horsea",
+    "seadra",
+    "kingdra"
+  ],
+  "flavorText": {
+    "ruby": "HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this POKéMON anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+    "sapphire": "If HORSEA senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This POKéMON swims by cleverly flapping the fins on its back.",
+    "emerald": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
+    "firered": "It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.",
+    "leafgreen": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+  },
+  "locations": {
+    "ruby": "Routes 132, 133, 134 (Fish)",
+    "sapphire": "Routes 132, 133, 134 (Fish)",
+    "emerald": "Routes 132, 133, 134 (Fish)",
+    "firered": "Seafoam Island Basements 3 & 4 (Surf), Routes 4, 10, 11, 12, 13, 19, 20, 21, 24 & 25, Cerulan City, Cinnabar Island, One Island, Pallet Town, Berry Forest, Bond Bridge, Cape Brink, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Ruin Valley, Seafoam Island Basements 3 & 4, S.S. Anne, Tanoby Ruins, Trainer Tower, Treasure Beach, Water Labyrinth, Water Path (Fish)",
+    "leafgreen": "Routes 4, 10, 11, 12, 13, 19, 20, 21, 24 & 25, Cerulan City, Cinnabar Island, One Island, Pallet Town, Seafoam Island Basements 3 & 4, S.S. Anne (Fish)",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": 8,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 15,
+        "move": "Leer"
+      },
+      {
+        "level": 22,
+        "move": "Water Gun"
+      },
+      {
+        "level": 29,
+        "move": "Twister"
+      },
+      {
+        "level": 36,
+        "move": "Agility"
+      },
+      {
+        "level": 43,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 50,
+        "move": "Dragon Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/116.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.899Z"
+  }
+}

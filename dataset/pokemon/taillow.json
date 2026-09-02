@@ -1,0 +1,172 @@
+{
+  "slug": "taillow",
+  "natdex": 276,
+  "name": "Taillow",
+  "names": {
+    "japan": "Subameスバメ",
+    "french": "Nirondelle",
+    "german": "Schwalbini",
+    "korean": "테일로"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "TinySwallow Pokémon",
+  "heightM": 0.3,
+  "weightKg": 2.3,
+  "captureRate": 200,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Taillow is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 85,
+    "total": 270
+  },
+  "evolutionChain": [
+    "taillow",
+    "swellow"
+  ],
+  "flavorText": {
+    "ruby": "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+    "sapphire": "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This POKéMON feeds on WURMPLE that live in forests.",
+    "emerald": "Although it is small, it is very courageous. It will take on a larger SKARMORY on an equal footing. However, its will weakens if it becomes hungry.",
+    "firered": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+    "leafgreen": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day."
+  },
+  "locations": {
+    "ruby": "Routes 104, 115 & 116, Petalburg Woods",
+    "sapphire": "Routes 104, 115 & 116, Petalburg Woods",
+    "emerald": "Routes 104, 115 & 116, Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 4,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 8,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 19,
+        "move": "Double Team"
+      },
+      {
+        "level": 26,
+        "move": "Endeavor"
+      },
+      {
+        "level": 34,
+        "move": "Aerial Ace"
+      },
+      {
+        "level": 43,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/276.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.881Z"
+  }
+}

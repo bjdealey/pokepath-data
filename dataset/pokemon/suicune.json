@@ -1,0 +1,213 @@
+{
+  "slug": "suicune",
+  "natdex": 245,
+  "name": "Suicune",
+  "names": {
+    "japan": "Suicuneスイクン",
+    "french": "Suicune",
+    "german": "Suicune",
+    "korean": "스이쿤"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Aurora Pokémon",
+  "heightM": 2,
+  "weightKg": 187,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Pressure",
+      "description": "The Opponent's Moves against Suicune use 2 PP instead of 1"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 75,
+    "defense": 115,
+    "spAttack": 90,
+    "spDefense": 115,
+    "speed": 85,
+    "total": 580
+  },
+  "evolutionChain": [
+    "suicune"
+  ],
+  "flavorText": {
+    "ruby": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
+    "sapphire": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
+    "emerald": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.",
+    "firered": "This POKéMON races across the land. It is said that north winds will somehow blow whenever it appears.",
+    "leafgreen": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum",
+    "firered": "Wild in Kanto after Elite 4 when Starter chosen was Charmander",
+    "leafgreen": "Wild in Kanto after Elite 4 when Starter chosen was Charmander",
+    "colosseum": "Snagged from Cipher Admin Venus in The Under",
+    "xd": "Trade from LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 11,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 21,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 31,
+        "move": "Gust"
+      },
+      {
+        "level": 41,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 51,
+        "move": "Mist"
+      },
+      {
+        "level": 61,
+        "move": "Mirror Coat"
+      },
+      {
+        "level": 71,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 81,
+        "move": "Calm Mind"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/245.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.691Z"
+  }
+}

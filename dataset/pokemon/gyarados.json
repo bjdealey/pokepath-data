@@ -1,0 +1,229 @@
+{
+  "slug": "gyarados",
+  "natdex": 130,
+  "name": "Gyarados",
+  "names": {
+    "japan": "Gyaradosギャラドス",
+    "french": "Léviator",
+    "german": "Garados",
+    "korean": "갸라도스"
+  },
+  "types": [
+    "water",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Atrocious Pokémon",
+  "heightM": 6.5,
+  "weightKg": 235,
+  "captureRate": 45,
+  "baseEggSteps": 1280,
+  "eggGroups": [
+    "Water 2",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Gyarados' Entry in Battle, all opponent's Attacks are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "spAttack": 60,
+    "spDefense": 100,
+    "speed": 81,
+    "total": 540
+  },
+  "evolutionChain": [
+    "magikarp",
+    "gyarados"
+  ],
+  "flavorText": {
+    "ruby": "When MAGIKARP evolves into GYARADOS, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this POKéMON's wildly violent nature.",
+    "sapphire": "Once GYARADOS goes on a rampage, its ferociously violent blood doesn't calm until it has burned everything down. There are records of this POKéMON's rampages lasting a whole month.",
+    "emerald": "It is an extremely vicious and violent POKéMON. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.",
+    "firered": "It has an extremely aggressive nature. The HYPER BEAM it shoots from its mouth totally incinerates all targets.",
+    "leafgreen": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+  },
+  "locations": {
+    "ruby": "Sootopolis City (Fish)",
+    "sapphire": "Sootopolis City (Fish)",
+    "emerald": "Sootopolis City (Fish)",
+    "firered": "Routes 4, 6, 10, 11, 12, 13, 19, 20, 21 22, 23 & 25, Cerulean City, Cinnabar Island, Four Island, Fuchsia City, One Island, Pallet Town, Viridian City, Berry Forest, Bond Bridge, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Ruin Valley, Safari Zone Areas 1, 2, 3 & Center, Seafoam Island Basements 3 & 4, S.S. Anne, Tanoby Ruins, Trainer Tower, Treasure Beach, Water Labyrinth, Water Path (Fish)",
+    "leafgreen": "Routes 4, 6, 10, 11, 12, 13, 19, 20, 21 22, 23 & 25, Cerulean City, Cinnabar Island, Four Island, Fuchsia City, One Island, Pallet Town, Viridian City, Berry Forest, Bond Bridge, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Ruin Valley, Safari Zone Areas 1, 2, 3 & Center, Seafoam Island Basements 3 & 4, S.S. Anne, Tanoby Ruins, Trainer Tower, Treasure Beach, Water Labyrinth, Water Path (Fish)",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Thrash"
+      },
+      {
+        "level": 20,
+        "move": "Bite"
+      },
+      {
+        "level": 25,
+        "move": "Dragon Rage"
+      },
+      {
+        "level": 30,
+        "move": "Leer"
+      },
+      {
+        "level": 35,
+        "move": "Twister"
+      },
+      {
+        "level": 40,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 45,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 50,
+        "move": "Dragon Dance"
+      },
+      {
+        "level": 55,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/130.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.982Z"
+  }
+}

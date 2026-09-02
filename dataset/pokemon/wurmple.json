@@ -40,10 +40,10 @@
   },
   "evolutionChain": [
     "wurmple",
-    "#266",
-    "#267",
-    "#268",
-    "#269"
+    "silcoon",
+    "beautifly",
+    "cascoon",
+    "dustox"
   ],
   "flavorText": {
     "ruby": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON's feet are tipped with suction pads that allow it to cling to glass without slipping.",
@@ -80,6 +80,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/265.shtml",
-    "scrapedAt": "2026-09-02T21:15:34.383Z"
+    "scrapedAt": "2026-09-02T21:36:13.815Z"
   }
 }

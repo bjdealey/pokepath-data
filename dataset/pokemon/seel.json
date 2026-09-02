@@ -1,0 +1,184 @@
+{
+  "slug": "seel",
+  "natdex": 86,
+  "name": "Seel",
+  "names": {
+    "japan": "Pawouパウワウ",
+    "french": "Otaria",
+    "german": "Jurob",
+    "korean": "쥬쥬"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Sea Lion Pokémon",
+  "heightM": 1.1,
+  "weightKg": 90,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Fire & Ice Type moves do 50% Damage on Seel"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "spAttack": 45,
+    "spDefense": 70,
+    "speed": 45,
+    "total": 325
+  },
+  "evolutionChain": [
+    "seel",
+    "dewgong"
+  ],
+  "flavorText": {
+    "ruby": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+    "sapphire": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+    "emerald": "SEEL hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+    "firered": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of minus 40 degrees Fahrenheit.",
+    "leafgreen": "The protruding horn on its head is very hard. It is used for bashing through thick icebergs."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Icefall Cave Floor 1 & Basement 1, Seafoam Island Basements 1, 2, 3 & 4 (Cave & Surf)",
+    "leafgreen": "Icefall Cave Floor 1 & Basement 1, Seafoam Island Basements 1, 2, 3 & 4 (Cave & Surf)",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Egrog in Phenac Stadium"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 9,
+        "move": "Growl"
+      },
+      {
+        "level": 17,
+        "move": "Icy Wind"
+      },
+      {
+        "level": 21,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 29,
+        "move": "Rest"
+      },
+      {
+        "level": 37,
+        "move": "Take Down"
+      },
+      {
+        "level": 41,
+        "move": "Ice Beam"
+      },
+      {
+        "level": 49,
+        "move": "Safeguard"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/086.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.710Z"
+  }
+}

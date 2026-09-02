@@ -1,0 +1,225 @@
+{
+  "slug": "azumarill",
+  "natdex": 184,
+  "name": "Azumarill",
+  "names": {
+    "japan": "Marilliマリルリ",
+    "french": "Azumarill",
+    "german": "Azumarill",
+    "korean": "마릴리"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Aquarabbit Pokémon",
+  "heightM": 0.8,
+  "weightKg": 28.5,
+  "captureRate": 75,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Water 1",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on AzumarillHuge Power: Azumarill's Attack is Doubled"
+    },
+    {
+      "name": "Huge Power",
+      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on AzumarillHuge Power: Azumarill's Attack is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "spAttack": 50,
+    "spDefense": 80,
+    "speed": 50,
+    "total": 410
+  },
+  "evolutionChain": [
+    "azurill",
+    "marill",
+    "azumarill"
+  ],
+  "flavorText": {
+    "ruby": "AZUMARILL's long ears are indispensable sensors. By focusing its hearing, this POKéMON can identify what kinds of prey are around, even in rough and fast-running rivers.",
+    "sapphire": "AZUMARILL can make balloons out of air. It makes these air balloons if it spots a drowning POKéMON. The air balloons enable the POKéMON in trouble to breathe.",
+    "emerald": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
+    "firered": "When it plays in water, it rolls up its elongated ears to prevent their insides from getting wet.",
+    "leafgreen": "By keeping still and listening intently, it can even tell what is in wild, fast-moving rivers."
+  },
+  "locations": {
+    "ruby": "Evolve Marill",
+    "sapphire": "Evolve Marill",
+    "emerald": "Evolve Marill",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "leafgreen": "Evolve Marill",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Defense Curl"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 3,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 6,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Water Gun"
+      },
+      {
+        "level": 15,
+        "move": "Rollout"
+      },
+      {
+        "level": 24,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 34,
+        "move": "Double-edge"
+      },
+      {
+        "level": 45,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 57,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/184.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.317Z"
+  }
+}

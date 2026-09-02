@@ -1,0 +1,215 @@
+{
+  "slug": "kingler",
+  "natdex": 99,
+  "name": "Kingler",
+  "names": {
+    "japan": "Kinglerキングラー",
+    "french": "Krabboss",
+    "german": "Kingler",
+    "korean": "킹크랩"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Pincer Pokémon",
+  "heightM": 1.3,
+  "weightKg": 60,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter",
+      "description": "Hyper Cutter: Kingler's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Shell Armor",
+      "description": "Hyper Cutter: Kingler's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 75,
+    "total": 475
+  },
+  "evolutionChain": [
+    "krabby",
+    "kingler"
+  ],
+  "flavorText": {
+    "ruby": "KINGLER has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the POKéMON quickly tires.",
+    "sapphire": "KINGLER has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the POKéMON quickly tires.",
+    "emerald": "It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this POKéMON quickly tires.",
+    "firered": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+    "leafgreen": "The large pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Krabby",
+    "leafgreen": "Routes 19, 20, 21 & 25, One Island, Pallet Town, Bond Bridge, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Treasure Beach, Water Labyrinth, Water Path (Fish)",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Vicegrip"
+      },
+      {
+        "level": 5,
+        "move": "Leer"
+      },
+      {
+        "level": 12,
+        "move": "Vicegrip"
+      },
+      {
+        "level": 16,
+        "move": "Harden"
+      },
+      {
+        "level": 23,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 27,
+        "move": "Stomp"
+      },
+      {
+        "level": 38,
+        "move": "Guillotine"
+      },
+      {
+        "level": 49,
+        "move": "Protect"
+      },
+      {
+        "level": 57,
+        "move": "Crabhammer"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/099.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.788Z"
+  }
+}

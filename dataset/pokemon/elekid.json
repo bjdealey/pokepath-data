@@ -1,0 +1,185 @@
+{
+  "slug": "elekid",
+  "natdex": 239,
+  "name": "Elekid",
+  "names": {
+    "japan": "Elekidエレキッド",
+    "french": "Élekid",
+    "german": "Elekid",
+    "korean": "에레키드"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 75,
+    "femalePct": 25
+  },
+  "classification": "Electric Pokémon",
+  "heightM": 0.6,
+  "weightKg": 23.5,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Elekid, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "spAttack": 65,
+    "spDefense": 55,
+    "speed": 95,
+    "total": 360
+  },
+  "evolutionChain": [
+    "elekid",
+    "electabuzz"
+  ],
+  "flavorText": {
+    "ruby": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
+    "sapphire": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
+    "emerald": "If it touches metal and discharges the electricity it has stored in its body, an ELEKID begins swinging its arms in circles to recharge itself.",
+    "firered": "Even in the most vicious storm, this POKéMON plays happily if thunder rumbles in the sky.",
+    "leafgreen": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Breed Electabuzz",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Trade with Hordel for Togepi"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 9,
+        "move": "Thunderpunch"
+      },
+      {
+        "level": 17,
+        "move": "Light Screen"
+      },
+      {
+        "level": 25,
+        "move": "Swift"
+      },
+      {
+        "level": 33,
+        "move": "Screech"
+      },
+      {
+        "level": 41,
+        "move": "Thunderbolt"
+      },
+      {
+        "level": 49,
+        "move": "Thunder"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/239.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.652Z"
+  }
+}

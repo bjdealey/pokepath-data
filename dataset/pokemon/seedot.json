@@ -1,0 +1,177 @@
+{
+  "slug": "seedot",
+  "natdex": 273,
+  "name": "Seedot",
+  "names": {
+    "japan": "Tanebohタネボー",
+    "french": "Grainipiot",
+    "german": "Samurzel",
+    "korean": "도토링"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Acorn Pokémon",
+  "heightM": 0.5,
+  "weightKg": 4,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chrlorophyll",
+      "description": "Chlorophyll: When Sunny Day is in effect, Seedot's Speed is DoubledEarly Bird: If afflicted with Sleep, Seedot wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Chlorophyll: When Sunny Day is in effect, Seedot's Speed is DoubledEarly Bird: If afflicted with Sleep, Seedot wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 30,
+    "total": 220
+  },
+  "evolutionChain": [
+    "seedot",
+    "nuzleaf",
+    "shiftry"
+  ],
+  "flavorText": {
+    "ruby": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON's body becomes.",
+    "sapphire": "SEEDOT looks exactly like an acorn when it is dangling from a tree branch. It startles other POKéMON by suddenly moving. This POKéMON polishes its body once a day using leaves.",
+    "emerald": "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
+    "firered": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging PIDGEY.",
+    "leafgreen": "If it remains still, it becomes impossible to distinguish from real nuts. It delights in surprising foraging PIDGEY."
+  },
+  "locations": {
+    "ruby": "Routes 102 & 114",
+    "sapphire": "Trade from Ruby/Emerald/XD",
+    "emerald": "Routes 102, 117 & 120",
+    "firered": "Trade from Ruby/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Emerald/XD",
+    "colosseum": "Trade from Ruby/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Greesix in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bide"
+      },
+      {
+        "level": 3,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Growth"
+      },
+      {
+        "level": 13,
+        "move": "Nature Power"
+      },
+      {
+        "level": 21,
+        "move": "Synthesis"
+      },
+      {
+        "level": 31,
+        "move": "Sunny Day"
+      },
+      {
+        "level": 43,
+        "move": "Explosion"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/273.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.864Z"
+  }
+}

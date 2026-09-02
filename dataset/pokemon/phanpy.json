@@ -1,0 +1,179 @@
+{
+  "slug": "phanpy",
+  "natdex": 231,
+  "name": "Phanpy",
+  "names": {
+    "japan": "Gomazouゴマゾウ",
+    "french": "Phanpy",
+    "german": "Phanpy",
+    "korean": "코코리"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Long Nose Pokémon",
+  "heightM": 0.5,
+  "weightKg": 33.5,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "PickUp",
+      "description": "Has a 10% chance of finding and holding an item after battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 60,
+    "spAttack": 40,
+    "spDefense": 40,
+    "speed": 40,
+    "total": 330
+  },
+  "evolutionChain": [
+    "phanpy",
+    "donphan"
+  ],
+  "flavorText": {
+    "ruby": "For its nest, PHANPY digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
+    "sapphire": "PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These POKéMON can be seen drying their soaking-wet bodies at the edge of water.",
+    "emerald": "PHANPY's big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
+    "firered": "As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.",
+    "leafgreen": "It swings its long snout around playfully, but because it is so strong, this can be dangerous."
+  },
+  "locations": {
+    "ruby": "Safari Zone Acro Bike Area",
+    "sapphire": "Safari Zone Acro Bike Area",
+    "emerald": "Safari Zone Acro Bike Area",
+    "firered": "Canyon Entrance, Seavault Canyon",
+    "leafgreen": "Canyon Entrance, Seavault Canyon",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Oasis PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 9,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 17,
+        "move": "Flail"
+      },
+      {
+        "level": 25,
+        "move": "Take Down"
+      },
+      {
+        "level": 33,
+        "move": "Rollout"
+      },
+      {
+        "level": 41,
+        "move": "Endure"
+      },
+      {
+        "level": 49,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/231.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.608Z"
+  }
+}

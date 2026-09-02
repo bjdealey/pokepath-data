@@ -1,0 +1,205 @@
+{
+  "slug": "charmander",
+  "natdex": 4,
+  "name": "Charmander",
+  "names": {
+    "japan": "Hitokageヒトカゲ",
+    "french": "Salamèche",
+    "german": "Glumanda",
+    "korean": "파이리"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Lizard Pokémon",
+  "heightM": 0.6,
+  "weightKg": 8.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "description": "When Charmander's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "spAttack": 60,
+    "spDefense": 50,
+    "speed": 65,
+    "total": 309
+  },
+  "evolutionChain": [
+    "charmander",
+    "charmeleon",
+    "charizard"
+  ],
+  "flavorText": {
+    "ruby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
+    "sapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
+    "emerald": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is happy, and blazes when it is enraged.",
+    "firered": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "leafgreen": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Starter Pokémon Obtained in Pallet Town",
+    "leafgreen": "Starter Pokémon Obtained in Pallet Town",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Ember"
+      },
+      {
+        "level": 13,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 19,
+        "move": "Rage"
+      },
+      {
+        "level": 25,
+        "move": "Scary Face"
+      },
+      {
+        "level": 31,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 37,
+        "move": "Slash"
+      },
+      {
+        "level": 43,
+        "move": "Dragon Rage"
+      },
+      {
+        "level": 49,
+        "move": "Fire Spin"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/004.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.139Z"
+  }
+}

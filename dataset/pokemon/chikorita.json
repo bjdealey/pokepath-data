@@ -1,0 +1,193 @@
+{
+  "slug": "chikorita",
+  "natdex": 152,
+  "name": "Chikorita",
+  "names": {
+    "japan": "Chicoritaチコリータ",
+    "french": "Germignon",
+    "german": "Endivie",
+    "korean": "치코리타"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Leaf Pokémon",
+  "heightM": 0.9,
+  "weightKg": 6.4,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Chikorita's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "spAttack": 49,
+    "spDefense": 65,
+    "speed": 45,
+    "total": 318
+  },
+  "evolutionChain": [
+    "chikorita",
+    "bayleef",
+    "meganium"
+  ],
+  "flavorText": {
+    "ruby": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
+    "sapphire": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
+    "emerald": "It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.",
+    "firered": "Its pleasantly aromatic leaves have the ability to check the humidity and temperature.",
+    "leafgreen": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/XD",
+    "sapphire": "Trade from Emerald/XD",
+    "emerald": "Given by Professor Birch after completing Hoenn Dex",
+    "firered": "Trade from Emerald/XD",
+    "leafgreen": "Trade from Emerald/XD",
+    "colosseum": "Trade from Emerald/XD",
+    "xd": "Prize for Defeating Mt. Battle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 8,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 12,
+        "move": "Reflect"
+      },
+      {
+        "level": 15,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 22,
+        "move": "Synthesis"
+      },
+      {
+        "level": 29,
+        "move": "Body Slam"
+      },
+      {
+        "level": 36,
+        "move": "Light Screen"
+      },
+      {
+        "level": 43,
+        "move": "Safeguard"
+      },
+      {
+        "level": 50,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/152.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.121Z"
+  }
+}

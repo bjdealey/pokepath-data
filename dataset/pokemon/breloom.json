@@ -1,0 +1,233 @@
+{
+  "slug": "breloom",
+  "natdex": 286,
+  "name": "Breloom",
+  "names": {
+    "japan": "Kinogassaキノガッサ",
+    "french": "Chapignon",
+    "german": "Kapilz",
+    "korean": "버섯모"
+  },
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mushroom Pokémon",
+  "heightM": 1.2,
+  "weightKg": 39.2,
+  "captureRate": 90,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Fairy",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Effect Spore",
+      "description": "When a Pokémon makes contact with Breloom it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 70,
+    "total": 460
+  },
+  "evolutionChain": [
+    "shroomish",
+    "breloom"
+  ],
+  "flavorText": {
+    "ruby": "BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POKéMON's fighting technique puts boxers to shame.",
+    "sapphire": "The seeds ringing BRELOOM's tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this POKéMON's seed will cause your stomach to rumble.",
+    "emerald": "It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.",
+    "firered": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.",
+    "leafgreen": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches."
+  },
+  "locations": {
+    "ruby": "Evolve Shroomish",
+    "sapphire": "Evolve Shroomish",
+    "emerald": "Evolve Shroomish",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Shroomish"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Stun Spore"
+      },
+      {
+        "level": null,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 4,
+        "move": "Tackle"
+      },
+      {
+        "level": 7,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 10,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 16,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 22,
+        "move": "Headbutt"
+      },
+      {
+        "level": 23,
+        "move": "Mach Punch"
+      },
+      {
+        "level": 28,
+        "move": "Counter"
+      },
+      {
+        "level": 36,
+        "move": "Sky Uppercut"
+      },
+      {
+        "level": 45,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 54,
+        "move": "Dynamicpunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/286.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.943Z"
+  }
+}

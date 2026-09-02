@@ -1,0 +1,232 @@
+{
+  "slug": "golduck",
+  "natdex": 55,
+  "name": "Golduck",
+  "names": {
+    "japan": "Golduckゴルダック",
+    "french": "Akwakwak",
+    "german": "Entoron",
+    "korean": "골덕"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Duck Pokémon",
+  "heightM": 1.7,
+  "weightKg": 76.6,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionCloud Nine: No Weather Effects can work in battle"
+    },
+    {
+      "name": "Cloud Nine",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionCloud Nine: No Weather Effects can work in battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "spAttack": 95,
+    "spDefense": 80,
+    "speed": 85,
+    "total": 500
+  },
+  "evolutionChain": [
+    "psyduck",
+    "golduck"
+  ],
+  "flavorText": {
+    "ruby": "The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This POKéMON is definitely much faster than even the most athletic swimmer.",
+    "sapphire": "GOLDUCK is the fastest swimmer among all POKéMON. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+    "emerald": "A GOLDUCK is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+    "firered": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+    "leafgreen": "Often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster Kappa."
+  },
+  "locations": {
+    "ruby": "Safari Zone (Surf)",
+    "sapphire": "Safari Zone (Surf)",
+    "emerald": "Safari Zone (Surf)",
+    "firered": "Cerulean Cave Floor 1 & Basement 1, Berry Forest (Surf), Seafoam Island Basements 1, 2, 3 & 4, Cape Brink",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/XD",
+    "xd": "Snagged from Navigator Abson in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Sport"
+      },
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Disable"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Disable"
+      },
+      {
+        "level": 16,
+        "move": "Confusion"
+      },
+      {
+        "level": 23,
+        "move": "Screech"
+      },
+      {
+        "level": 31,
+        "move": "Psych Up"
+      },
+      {
+        "level": 44,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 58,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/055.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.467Z"
+  }
+}

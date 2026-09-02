@@ -1,0 +1,210 @@
+{
+  "slug": "misdreavus",
+  "natdex": 200,
+  "name": "Misdreavus",
+  "names": {
+    "japan": "Mumaムウマ",
+    "french": "Feuforêve",
+    "german": "Traunfugil",
+    "korean": "무우마"
+  },
+  "types": [
+    "ghost"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Screech Pokémon",
+  "heightM": 0.7,
+  "weightKg": 1,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Misdreavus"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "spAttack": 85,
+    "spDefense": 85,
+    "speed": 85,
+    "total": 435
+  },
+  "evolutionChain": [
+    "misdreavus"
+  ],
+  "flavorText": {
+    "ruby": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+    "sapphire": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
+    "emerald": "A MISDREAVUS frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
+    "firered": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
+    "leafgreen": "It likes playing mischievous tricks such as screaming and wailing to startle people at night."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen/Colosseum",
+    "sapphire": "Trade from LeafGreen/Colosseum",
+    "emerald": "Trade from LeafGreen/Colosseum",
+    "firered": "Trade from LeafGreen/Colosseum",
+    "leafgreen": "Lost Cave",
+    "colosseum": "Snagged from Rider Vant in Pyrite Town",
+    "xd": "Trade from LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Psywave"
+      },
+      {
+        "level": 6,
+        "move": "Spite"
+      },
+      {
+        "level": 11,
+        "move": "Astonish"
+      },
+      {
+        "level": 17,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 23,
+        "move": "Mean Look"
+      },
+      {
+        "level": 30,
+        "move": "Psybeam"
+      },
+      {
+        "level": 37,
+        "move": "Pain Split"
+      },
+      {
+        "level": 45,
+        "move": "Perish Song"
+      },
+      {
+        "level": 53,
+        "move": "Grudge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/200.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.417Z"
+  }
+}

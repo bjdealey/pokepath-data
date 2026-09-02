@@ -49,3 +49,18 @@ test("learnset (level-up + TM)", () => {
 test("evolution chain", () => {
   assert.deepEqual(evoDex, [1, 2, 3]);
 });
+
+// Magnemite: genderless + two possible abilities (edge cases the full-dex
+// scrape surfaced).
+const magnemite = parsePokemon(
+  readFileSync(fileURLToPath(new URL("./fixtures/pokedex-rs-081.html", import.meta.url)), "utf8"),
+  "test://pokedex-rs/081",
+).record;
+
+test("genderless is normalized", () => {
+  assert.equal(magnemite.genderRatio, "genderless");
+});
+
+test("two abilities split into an array", () => {
+  assert.deepEqual(magnemite.abilities.map((a) => a.name), ["Magnet Pull", "Sturdy"]);
+});

@@ -1,0 +1,190 @@
+{
+  "slug": "cleffa",
+  "natdex": 173,
+  "name": "Cleffa",
+  "names": {
+    "japan": "Pyピィ",
+    "french": "Mélo",
+    "german": "Pii",
+    "korean": "삐"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Star Shape Pokémon",
+  "heightM": 0.3,
+  "weightKg": 3,
+  "captureRate": 150,
+  "baseEggSteps": 2560,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Cute Charm",
+      "description": "When a Pokémon makes contact with Cleffa, it has a 30% chance of being Infatuated (if of opposite gender)"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "spAttack": 45,
+    "spDefense": 55,
+    "speed": 15,
+    "total": 218
+  },
+  "evolutionChain": [
+    "cleffa",
+    "clefairy",
+    "clefable"
+  ],
+  "flavorText": {
+    "ruby": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
+    "sapphire": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
+    "emerald": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
+    "firered": "When numerous meteors illuminate the night sky, sightings of CLEFFA strangely increase.",
+    "leafgreen": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Breed Clefairy/Clefable",
+    "leafgreen": "Breed Clefairy/Clefable",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Charm"
+      },
+      {
+        "level": 4,
+        "move": "Encore"
+      },
+      {
+        "level": 8,
+        "move": "Sing"
+      },
+      {
+        "level": 13,
+        "move": "Sweet Kiss"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/173.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.250Z"
+  }
+}

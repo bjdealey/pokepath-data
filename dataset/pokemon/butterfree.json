@@ -1,0 +1,205 @@
+{
+  "slug": "butterfree",
+  "natdex": 12,
+  "name": "Butterfree",
+  "names": {
+    "japan": "Butterfreeバタフリー",
+    "french": "Papilusion",
+    "german": "Smettbo",
+    "korean": "버터플"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Butterfly Pokémon",
+  "heightM": 1.1,
+  "weightKg": 32,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Compound Eyes",
+      "description": "Raises Butterfree's Accuracy by 30%"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 70,
+    "total": 385
+  },
+  "evolutionChain": [
+    "caterpie",
+    "metapod",
+    "butterfree"
+  ],
+  "flavorText": {
+    "ruby": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "sapphire": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+    "emerald": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+    "firered": "The wings are protected by rain-repellent dust. As a result, this POKéMON can fly about even in rain.",
+    "leafgreen": "In battle, it flaps its wings at great speed to release highly toxic dust into the air."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Metapod",
+    "leafgreen": "Evolve Metapod",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Targ in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": 10,
+        "move": "Confusion"
+      },
+      {
+        "level": 13,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 14,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 15,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 18,
+        "move": "Supersonic"
+      },
+      {
+        "level": 23,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 28,
+        "move": "Gust"
+      },
+      {
+        "level": 34,
+        "move": "Psybeam"
+      },
+      {
+        "level": 40,
+        "move": "Safeguard"
+      },
+      {
+        "level": 47,
+        "move": "Silver Wind"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/012.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.201Z"
+  }
+}

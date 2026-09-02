@@ -1,0 +1,181 @@
+{
+  "slug": "pidgeotto",
+  "natdex": 17,
+  "name": "Pidgeotto",
+  "names": {
+    "japan": "Pigeonピジョン",
+    "french": "Roucoups",
+    "german": "Tauboga",
+    "korean": "피죤"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bird Pokémon",
+  "heightM": 1.1,
+  "weightKg": 30,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Pidgeotto's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 63,
+    "attack": 60,
+    "defense": 55,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 71,
+    "total": 349
+  },
+  "evolutionChain": [
+    "pidgey",
+    "pidgeotto",
+    "pidgeot"
+  ],
+  "flavorText": {
+    "ruby": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+    "sapphire": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+    "emerald": "This POKéMON flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+    "firered": "The claws on its feet are well developed. It can carry prey such as an EXEGGCUTE to its nest over 60 miles away.",
+    "leafgreen": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Routes 13, 14, & 15, Bond Bridge, Five Isle Meadow",
+    "leafgreen": "Routes 13, 14, & 15, Bond Bridge, Five Isle Meadow",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Lok in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": null,
+        "move": "Gust"
+      },
+      {
+        "level": 5,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 9,
+        "move": "Gust"
+      },
+      {
+        "level": 13,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 20,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 27,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 34,
+        "move": "Featherdance"
+      },
+      {
+        "level": 43,
+        "move": "Agility"
+      },
+      {
+        "level": 52,
+        "move": "Mirror Move"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/017.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.231Z"
+  }
+}

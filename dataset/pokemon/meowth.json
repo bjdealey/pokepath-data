@@ -1,0 +1,211 @@
+{
+  "slug": "meowth",
+  "natdex": 52,
+  "name": "Meowth",
+  "names": {
+    "japan": "Nyarthニャース",
+    "french": "Miaouss",
+    "german": "Mauzi",
+    "korean": "나옹"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Scratch Cat Pokémon",
+  "heightM": 0.4,
+  "weightKg": 4.2,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "PickUp",
+      "description": "Has a 10% chance of finding and holding an item after battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "spAttack": 40,
+    "spDefense": 40,
+    "speed": 90,
+    "total": 290
+  },
+  "evolutionChain": [
+    "meowth",
+    "persian"
+  ],
+  "flavorText": {
+    "ruby": "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this POKéMON loves shiny coins that glitter with light.",
+    "sapphire": "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this POKéMON loves shiny coins that glitter with light.",
+    "emerald": "MEOWTH withdraw their sharp claws into their paws to silently sneak about. For some reason, this POKéMON loves shiny coins that glitter with light.",
+    "firered": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+    "leafgreen": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Emerald/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/Emerald/XD",
+    "emerald": "Trade for Skitty in Battle Frontier",
+    "firered": "Routes 5, 6, 7 & 8, Bond Bridge, Canyon Entrance, Cape Brink, Five Isle Meadow, Kindle Road, Ruin Valley, Seavault Canyon, Treasure Beach, Water Path",
+    "leafgreen": "Routes 5, 6, 7 & 8, Bond Bridge, Canyon Entrance, Cape Brink, Five Isle Meadow, Kindle Road, Ruin Valley, Seavault Canyon, Treasure Beach, Water Path",
+    "colosseum": "Trade from FireRed/LeafGreen/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Fostin in Phenac Training School"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 11,
+        "move": "Bite"
+      },
+      {
+        "level": 20,
+        "move": "Pay Day"
+      },
+      {
+        "level": 28,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 35,
+        "move": "Screech"
+      },
+      {
+        "level": 41,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 46,
+        "move": "Slash"
+      },
+      {
+        "level": 50,
+        "move": "Fake Out"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/052.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.449Z"
+  }
+}

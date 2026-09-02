@@ -1,0 +1,227 @@
+{
+  "slug": "ursaring",
+  "natdex": 217,
+  "name": "Ursaring",
+  "names": {
+    "japan": "Ringumaリングマ",
+    "french": "Ursaring",
+    "german": "Ursaring",
+    "korean": "링곰"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Hibernator Pokémon",
+  "heightM": 1.8,
+  "weightKg": 125.8,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Ursaring is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "spAttack": 75,
+    "spDefense": 75,
+    "speed": 55,
+    "total": 500
+  },
+  "evolutionChain": [
+    "teddiursa",
+    "ursaring"
+  ],
+  "flavorText": {
+    "ruby": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
+    "sapphire": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
+    "emerald": "In forests, it is said that there are many streams and towering trees where an URSARING gathers food. It walks through its forest collecting food every day.",
+    "firered": "With its ability to distinguish any smell, it unfailingly finds all food buried deep underground.",
+    "leafgreen": "Although it is a good climber, it prefers to snap stout trees with its forelegs and eat fallen BERRIES."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Teddiursa",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Snagged from Sangem Grunt Agrev in Snagem Hideout",
+    "xd": "Evolve Teddiursa"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": null,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 7,
+        "move": "Lick"
+      },
+      {
+        "level": 13,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 19,
+        "move": "Fake Tears"
+      },
+      {
+        "level": 25,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 31,
+        "move": "Rest"
+      },
+      {
+        "level": 37,
+        "move": "Slash"
+      },
+      {
+        "level": 43,
+        "move": "Snore"
+      },
+      {
+        "level": 49,
+        "move": "Thrash"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/217.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.523Z"
+  }
+}

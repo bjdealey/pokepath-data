@@ -1,0 +1,212 @@
+{
+  "slug": "tentacruel",
+  "natdex": 73,
+  "name": "Tentacruel",
+  "names": {
+    "japan": "Dokukurageドククラゲ",
+    "french": "Tentacruel",
+    "german": "Tentoxa",
+    "korean": "독파리"
+  },
+  "types": [
+    "water",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Jellyfish Pokémon",
+  "heightM": 1.6,
+  "weightKg": 55,
+  "captureRate": 60,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "description": "Clear Body: Opponent's Moves that Lower Stats will not work on TentacruelLiquid Ooze: If the Opponent absorbs HP from Tentacruel, the Opponent Loses that amount of HP"
+    },
+    {
+      "name": "Liquid Ooze",
+      "description": "Clear Body: Opponent's Moves that Lower Stats will not work on TentacruelLiquid Ooze: If the Opponent absorbs HP from Tentacruel, the Opponent Loses that amount of HP"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "spAttack": 80,
+    "spDefense": 120,
+    "speed": 100,
+    "total": 515
+  },
+  "evolutionChain": [
+    "tentacool",
+    "tentacruel"
+  ],
+  "flavorText": {
+    "ruby": "TENTACRUEL has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This POKéMON's outburst creates rough waves around it.",
+    "sapphire": "TENTACRUEL has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+    "emerald": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
+    "firered": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+    "leafgreen": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
+  },
+  "locations": {
+    "ruby": "Abandoned Ship Basement 1 (Surf & Fish)",
+    "sapphire": "Abandoned Ship Basement 1 (Surf & Fish)",
+    "emerald": "Abandoned Ship Basement 1 (Surf & Fish)",
+    "firered": "One Island, Five Island, Bond Bridge, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Treasure Beach",
+    "leafgreen": "One Island, Five Island, Bond Bridge, Five Isle Meadow, Green Path, Icefall Cave Floor 1, Kindle Road, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Treasure Beach",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Poison Sting"
+      },
+      {
+        "level": null,
+        "move": "Supersonic"
+      },
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": 6,
+        "move": "Supersonic"
+      },
+      {
+        "level": 12,
+        "move": "Constrict"
+      },
+      {
+        "level": 19,
+        "move": "Acid"
+      },
+      {
+        "level": 25,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 30,
+        "move": "Wrap"
+      },
+      {
+        "level": 38,
+        "move": "Barrier"
+      },
+      {
+        "level": 47,
+        "move": "Screech"
+      },
+      {
+        "level": 55,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/073.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.618Z"
+  }
+}

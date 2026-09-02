@@ -1,0 +1,203 @@
+{
+  "slug": "rattata",
+  "natdex": 19,
+  "name": "Rattata",
+  "names": {
+    "japan": "Korattaコラッタ",
+    "french": "Rattata",
+    "german": "Rattfratz",
+    "korean": "꼬렛"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mouse Pokémon",
+  "heightM": 0.3,
+  "weightKg": 3.5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Rattata can escape from Wild BattlesGuts: When Rattata is inflicted with a status condition, it's attack is raised by 50%"
+    },
+    {
+      "name": "Guts",
+      "description": "Run Away: Rattata can escape from Wild BattlesGuts: When Rattata is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "spAttack": 25,
+    "spDefense": 35,
+    "speed": 72,
+    "total": 253
+  },
+  "evolutionChain": [
+    "rattata",
+    "raticate"
+  ],
+  "flavorText": {
+    "ruby": "RATTATA is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
+    "sapphire": "RATTATA is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere.",
+    "emerald": "A RATTATA is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
+    "firered": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+    "leafgreen": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Routes 1, 2, 4, 9, 17, 18, 22 & Pokémon Mansion",
+    "leafgreen": "Routes 1, 2, 4, 9, 17, 18, 22 & Pokémon Mansion",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Hyper Fang"
+      },
+      {
+        "level": 20,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 27,
+        "move": "Pursuit"
+      },
+      {
+        "level": 34,
+        "move": "Super Fang"
+      },
+      {
+        "level": 41,
+        "move": "Endeavor"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/019.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.245Z"
+  }
+}

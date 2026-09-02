@@ -1,0 +1,165 @@
+{
+  "slug": "victreebel",
+  "natdex": 71,
+  "name": "Victreebel",
+  "names": {
+    "japan": "Utsubotウツボット",
+    "french": "Empiflor",
+    "german": "Sarzenia",
+    "korean": "우츠보트"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Flycatcher Pokémon",
+  "heightM": 1.7,
+  "weightKg": 15.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Victreebel's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "spAttack": 100,
+    "spDefense": 60,
+    "speed": 70,
+    "total": 480
+  },
+  "evolutionChain": [
+    "bellsprout",
+    "weepinbell",
+    "victreebel"
+  ],
+  "flavorText": {
+    "ruby": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
+    "sapphire": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
+    "emerald": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+    "firered": "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.",
+    "leafgreen": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen/XD",
+    "sapphire": "Trade from LeafGreen/XD",
+    "emerald": "Trade from LeafGreen/XD",
+    "firered": "Trade from LeafGreen/XD",
+    "leafgreen": "Evolve Weepinbell",
+    "colosseum": "Trade from LeafGreen/XD",
+    "xd": "Evolve Weepinbell"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Vine Whip"
+      },
+      {
+        "level": null,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": null,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": null,
+        "move": "Razor Leaf"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/071.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.603Z"
+  }
+}

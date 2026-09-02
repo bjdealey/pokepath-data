@@ -1,0 +1,217 @@
+{
+  "slug": "omastar",
+  "natdex": 139,
+  "name": "Omastar",
+  "names": {
+    "japan": "Omstarオムスター",
+    "french": "Amonistar",
+    "german": "Amoroso",
+    "korean": "암스타"
+  },
+  "types": [
+    "rock",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Spiral Pokémon",
+  "heightM": 1,
+  "weightKg": 35,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Omastar's Speed is DoubledShell Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Shell Armor",
+      "description": "Swift Swim: When Rain Dance is in effect, Omastar's Speed is DoubledShell Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "spAttack": 115,
+    "spDefense": 70,
+    "speed": 55,
+    "total": 495
+  },
+  "evolutionChain": [
+    "omanyte",
+    "omastar"
+  ],
+  "flavorText": {
+    "ruby": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+    "sapphire": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+    "emerald": "An OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.",
+    "firered": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.",
+    "leafgreen": "Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Omanyte",
+    "leafgreen": "Evolve Omanyte",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": null,
+        "move": "Withdraw"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 19,
+        "move": "Water Gun"
+      },
+      {
+        "level": 25,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 31,
+        "move": "Leer"
+      },
+      {
+        "level": 37,
+        "move": "Protect"
+      },
+      {
+        "level": 40,
+        "move": "Spike Cannon"
+      },
+      {
+        "level": 46,
+        "move": "Tickle"
+      },
+      {
+        "level": 55,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 65,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/139.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.037Z"
+  }
+}

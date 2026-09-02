@@ -1,0 +1,220 @@
+{
+  "slug": "psyduck",
+  "natdex": 54,
+  "name": "Psyduck",
+  "names": {
+    "japan": "Koduckコダック",
+    "french": "Psykokwak",
+    "german": "Enton",
+    "korean": "고라파덕"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Duck Pokémon",
+  "heightM": 0.8,
+  "weightKg": 19.6,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionCloud Nine: No Weather Effects can work in battle"
+    },
+    {
+      "name": "Cloud Nine",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionCloud Nine: No Weather Effects can work in battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "spAttack": 65,
+    "spDefense": 50,
+    "speed": 55,
+    "total": 320
+  },
+  "evolutionChain": [
+    "psyduck",
+    "golduck"
+  ],
+  "flavorText": {
+    "ruby": "PSYDUCK uses a mysterious power. When it does so, this POKéMON generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+    "sapphire": "If it uses its mysterious power, PSYDUCK can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+    "emerald": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+    "firered": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+    "leafgreen": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers."
+  },
+  "locations": {
+    "ruby": "Safari Zone (Surf)",
+    "sapphire": "Safari Zone (Surf)",
+    "emerald": "Safari Zone (Surf)",
+    "firered": "Treasure Beach, Kindle Road, Mt. Ember, Cape Brink, Bond Bridge, Four Island, Icefall Cave, Memorial Pillar, Five Isle Meadow, Water Labyrinth, Resort Gorgeous, Water Path, Ruin Valley, Grass Path, Outcast Island, Tanoby Ruins, Canyon Entrance, Trainer Tower, Route 23, Route 22, Route 24, Route 25, Route 4, Cerulean Cave, Celadon City, Cerulean City, Viridian City, Route 21, Route 20, Route 19, Seafoam Islands, Safari Zone, Fuchsia City, Route 14, Route 13, Route 12, Route 10, Route 11, Route 8, Route 6 (Fish & Surf)",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Sport"
+      },
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 10,
+        "move": "Disable"
+      },
+      {
+        "level": 16,
+        "move": "Confusion"
+      },
+      {
+        "level": 23,
+        "move": "Screech"
+      },
+      {
+        "level": 31,
+        "move": "Psych Up"
+      },
+      {
+        "level": 40,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 50,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/054.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.461Z"
+  }
+}

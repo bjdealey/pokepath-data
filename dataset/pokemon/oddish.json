@@ -1,0 +1,174 @@
+{
+  "slug": "oddish",
+  "natdex": 43,
+  "name": "Oddish",
+  "names": {
+    "japan": "Nazonokusaナゾノクサ",
+    "french": "Mystherbe",
+    "german": "Myrapla",
+    "korean": "뚜벅쵸"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Weed Pokémon",
+  "heightM": 0.5,
+  "weightKg": 5.4,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Oddish's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "spAttack": 75,
+    "spDefense": 65,
+    "speed": 30,
+    "total": 320
+  },
+  "evolutionChain": [
+    "oddish",
+    "gloom",
+    "vileplume",
+    "bellossom"
+  ],
+  "flavorText": {
+    "ruby": "During the daytime, ODDISH buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+    "sapphire": "ODDISH searches for fertile, nutrient- rich soil, then plants itself. During the daytime, while it is planted, this POKéMON's feet are thought to change shape and become similar to the roots of trees.",
+    "emerald": "This POKéMON grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+    "firered": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+    "leafgreen": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+  },
+  "locations": {
+    "ruby": "Routes 110, 117, 119, 120, 121 & 123, Safari Zone",
+    "sapphire": "Routes 110, 117, 119, 120, 121 & 123, Safari Zone",
+    "emerald": "Routes 110, 117, 119, 120, 121 & 123, Safari Zone",
+    "firered": "Routes 5, 6, 7, 12, 13, 14, 15, 24, 25, Berry Forest, Bond Bridge, Cape Brink, Water Path",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": 7,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 14,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 16,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 18,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 23,
+        "move": "Acid"
+      },
+      {
+        "level": 32,
+        "move": "Moonlight"
+      },
+      {
+        "level": 39,
+        "move": "Petal Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/043.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.394Z"
+  }
+}

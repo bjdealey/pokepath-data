@@ -1,0 +1,200 @@
+{
+  "slug": "barboach",
+  "natdex": 339,
+  "name": "Barboach",
+  "names": {
+    "japan": "Dojoachドジョッチ",
+    "french": "Barloche",
+    "german": "Schmerbe",
+    "korean": "미꾸리"
+  },
+  "types": [
+    "water",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Whiskers Pokémon",
+  "heightM": 0.4,
+  "weightKg": 1.9,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Prevents Barboach from being Infatuated"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "spAttack": 46,
+    "spDefense": 41,
+    "speed": 60,
+    "total": 288
+  },
+  "evolutionChain": [
+    "barboach",
+    "whiscash"
+  ],
+  "flavorText": {
+    "ruby": "BARBOACH's sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+    "sapphire": "BARBOACH's body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy's grip. This POKéMON grows weak if the slimy coating dries up.",
+    "emerald": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the BARBOACH's body.",
+    "firered": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+    "leafgreen": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+  },
+  "locations": {
+    "ruby": "Routes 111, 114 & 120, Meteor Falls, Victory Road Basement 2 (Fish)",
+    "sapphire": "Routes 111, 114 & 120, Meteor Falls, Victory Road Basement 2 (Fish)",
+    "emerald": "Routes 111, 114 & 120, Meteor Falls, Victory Road Basement 2 (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 6,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 6,
+        "move": "Water Sport"
+      },
+      {
+        "level": 11,
+        "move": "Water Gun"
+      },
+      {
+        "level": 16,
+        "move": "Magnitude"
+      },
+      {
+        "level": 21,
+        "move": "Amnesia"
+      },
+      {
+        "level": 26,
+        "move": "Rest"
+      },
+      {
+        "level": 26,
+        "move": "Snore"
+      },
+      {
+        "level": 31,
+        "move": "Earthquake"
+      },
+      {
+        "level": 36,
+        "move": "Future Sight"
+      },
+      {
+        "level": 41,
+        "move": "Fissure"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/339.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.276Z"
+  }
+}

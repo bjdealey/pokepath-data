@@ -1,0 +1,245 @@
+{
+  "slug": "salamence",
+  "natdex": 373,
+  "name": "Salamence",
+  "names": {
+    "japan": "Bohmanderボーマンダ",
+    "french": "Drattak",
+    "german": "Brutalanda",
+    "korean": "보만다"
+  },
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dragon Pokémon",
+  "heightM": 1.5,
+  "weightKg": 102.6,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Salamence's Entry in Battle, all opponent's Attacks are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "spAttack": 110,
+    "spDefense": 80,
+    "speed": 100,
+    "total": 600
+  },
+  "evolutionChain": [
+    "bagon",
+    "shelgon",
+    "salamence"
+  ],
+  "flavorText": {
+    "ruby": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON's cells, causing it to sprout its magnificent wings.",
+    "sapphire": "By evolving into SALAMENCE, this POKéMON finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
+    "emerald": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
+    "firered": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.",
+    "leafgreen": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire."
+  },
+  "locations": {
+    "ruby": "Evolve Shelgon",
+    "sapphire": "Evolve Shelgon",
+    "emerald": "Evolve Shelgon",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Admin Eldes in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 5,
+        "move": "Bite"
+      },
+      {
+        "level": 9,
+        "move": "Leer"
+      },
+      {
+        "level": 17,
+        "move": "Headbutt"
+      },
+      {
+        "level": 21,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 25,
+        "move": "Ember"
+      },
+      {
+        "level": 30,
+        "move": "Protect"
+      },
+      {
+        "level": 38,
+        "move": "Dragonbreath"
+      },
+      {
+        "level": 47,
+        "move": "Scary Face"
+      },
+      {
+        "level": 50,
+        "move": "Fly"
+      },
+      {
+        "level": 61,
+        "move": "Crunch"
+      },
+      {
+        "level": 79,
+        "move": "Dragon Claw"
+      },
+      {
+        "level": 93,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/373.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.557Z"
+  }
+}

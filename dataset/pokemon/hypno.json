@@ -1,0 +1,227 @@
+{
+  "slug": "hypno",
+  "natdex": 97,
+  "name": "Hypno",
+  "names": {
+    "japan": "Sleeperスリーパー",
+    "french": "Hypnomade",
+    "german": "Hypno",
+    "korean": "슬리퍼"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Hypnosis Pokémon",
+  "heightM": 1.6,
+  "weightKg": 75.6,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Prevents Hypno from being put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "spAttack": 73,
+    "spDefense": 115,
+    "speed": 67,
+    "total": 483
+  },
+  "evolutionChain": [
+    "drowzee",
+    "hypno"
+  ],
+  "flavorText": {
+    "ruby": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
+    "sapphire": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
+    "emerald": "The arcing movement and glitter of the pendulum in a HYPNO's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
+    "firered": "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
+    "leafgreen": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Berry Forest",
+    "leafgreen": "Berry Forest",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Gorigan in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": null,
+        "move": "Disable"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": 10,
+        "move": "Disable"
+      },
+      {
+        "level": 18,
+        "move": "Confusion"
+      },
+      {
+        "level": 25,
+        "move": "Headbutt"
+      },
+      {
+        "level": 33,
+        "move": "Poison Gas"
+      },
+      {
+        "level": 40,
+        "move": "Meditate"
+      },
+      {
+        "level": 49,
+        "move": "Psychic"
+      },
+      {
+        "level": 55,
+        "move": "Psych Up"
+      },
+      {
+        "level": 60,
+        "move": "Future Sight"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/097.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.778Z"
+  }
+}

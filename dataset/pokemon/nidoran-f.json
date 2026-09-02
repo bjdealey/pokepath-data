@@ -1,0 +1,220 @@
+{
+  "slug": "nidoran-f",
+  "natdex": 29,
+  "name": "Nidoran (F)",
+  "names": {
+    "japan": "Nidoran?ニドラン♀",
+    "french": "Nidoran♀",
+    "german": "Nidoran♀",
+    "korean": "니드런♀"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Poison Pin Pokémon",
+  "heightM": 0.4,
+  "weightKg": 7,
+  "captureRate": 235,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Poison Point",
+      "description": "When a Pokémon makes contact with Nidoran, it has a 30% chance of being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 47,
+    "defense": 52,
+    "spAttack": 40,
+    "spDefense": 40,
+    "speed": 41,
+    "total": 275
+  },
+  "evolutionChain": [
+    "nidoran-f",
+    "nidorina",
+    "nidoqueen",
+    "nidoran-m",
+    "nidorino",
+    "nidoking"
+  ],
+  "flavorText": {
+    "ruby": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
+    "sapphire": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
+    "emerald": "Its highly toxic barbs are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
+    "firered": "Though small, it must be treated with caution because of its powerfully toxic barbs. The female has smaller horns.",
+    "leafgreen": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Route 3, Safari Zone Areas 1 & 2",
+    "leafgreen": "Route 3, Safari Zone Areas 1, 2 & 3",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 8,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 12,
+        "move": "Double Kick"
+      },
+      {
+        "level": 17,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 20,
+        "move": "Bite"
+      },
+      {
+        "level": 23,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 30,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 38,
+        "move": "Flatter"
+      },
+      {
+        "level": 47,
+        "move": "Crunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/029.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.308Z"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "pineco",
+  "natdex": 204,
+  "name": "Pineco",
+  "names": {
+    "japan": "Kunugidamaクヌギダマ",
+    "french": "Pomdepik",
+    "german": "Tannza",
+    "korean": "피콘"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bagworm Pokémon",
+  "heightM": 0.6,
+  "weightKg": 7.2,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy",
+      "description": "One-Hit KO Moves will not work"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 15,
+    "total": 290
+  },
+  "evolutionChain": [
+    "pineco",
+    "forretress"
+  ],
+  "flavorText": {
+    "ruby": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+    "sapphire": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+    "emerald": "A PINECO hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
+    "firered": "It hangs and waits for flying-insect prey to come near. It does not move about much on its own.",
+    "leafgreen": "It likes to make its shell thicker by adding layers of tree bark. The extra weight doesn't bother it."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/XD",
+    "sapphire": "Trade from Emerald/XD",
+    "emerald": "Safari Zone Extention & Altering Cave",
+    "firered": "Altering Cave",
+    "leafgreen": "Altering Cave",
+    "colosseum": "Trade from Emerald/XD",
+    "xd": "Snagged from Cipher Peon Gonrag in Phenac Mayor's House"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Protect"
+      },
+      {
+        "level": 8,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 15,
+        "move": "Take Down"
+      },
+      {
+        "level": 22,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 29,
+        "move": "Bide"
+      },
+      {
+        "level": 36,
+        "move": "Explosion"
+      },
+      {
+        "level": 43,
+        "move": "Spikes"
+      },
+      {
+        "level": 50,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/204.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.439Z"
+  }
+}

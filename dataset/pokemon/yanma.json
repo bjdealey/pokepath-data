@@ -1,0 +1,191 @@
+{
+  "slug": "yanma",
+  "natdex": 193,
+  "name": "Yanma",
+  "names": {
+    "japan": "Yanyanmaヤンヤンマ",
+    "french": "Yanma",
+    "german": "Yanma",
+    "korean": "왕자리"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Clear Wing Pokémon",
+  "heightM": 1.2,
+  "weightKg": 38,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Speed Boost",
+      "description": "Speed Boost: Increases Yanma's Speed by One Level each turn Compoundeyes: Raises Yanma's Accuracy by 30%"
+    },
+    {
+      "name": "Compoundeyes",
+      "description": "Speed Boost: Increases Yanma's Speed by One Level each turn Compoundeyes: Raises Yanma's Accuracy by 30%"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "spAttack": 75,
+    "spDefense": 45,
+    "speed": 95,
+    "total": 390
+  },
+  "evolutionChain": [
+    "yanma"
+  ],
+  "flavorText": {
+    "ruby": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
+    "sapphire": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
+    "emerald": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+    "firered": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+    "leafgreen": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum",
+    "firered": "Ruin Valley",
+    "leafgreen": "Ruin Valley",
+    "colosseum": "Snagged from Cipher Peon Nore in Pyrite Hill",
+    "xd": "Trade from FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Foresight"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Double Team"
+      },
+      {
+        "level": 19,
+        "move": "Sonicboom"
+      },
+      {
+        "level": 25,
+        "move": "Detect"
+      },
+      {
+        "level": 31,
+        "move": "Supersonic"
+      },
+      {
+        "level": 37,
+        "move": "Uproar"
+      },
+      {
+        "level": 43,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 49,
+        "move": "Screech"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/193.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.375Z"
+  }
+}

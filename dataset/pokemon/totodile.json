@@ -1,0 +1,205 @@
+{
+  "slug": "totodile",
+  "natdex": 158,
+  "name": "Totodile",
+  "names": {
+    "japan": "Waninokoワニノコ",
+    "french": "Kaiminus",
+    "german": "Karnimani",
+    "korean": "리아코"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Big Jaw Pokémon",
+  "heightM": 0.6,
+  "weightKg": 9.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent",
+      "description": "When Totodile's HP Gets Low, It's Water type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "spAttack": 44,
+    "spDefense": 48,
+    "speed": 43,
+    "total": 314
+  },
+  "evolutionChain": [
+    "totodile",
+    "croconaw",
+    "feraligatr"
+  ],
+  "flavorText": {
+    "ruby": "Despite the smallness of its body, TOTODILE's jaws are very powerful. While the POKéMON may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+    "sapphire": "Despite the smallness of its body, TOTODILE's jaws are very powerful. While the POKéMON may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+    "emerald": "Despite its small body, TOTODILE's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.",
+    "firered": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+    "leafgreen": "Its well-developed jaws are powerful and capable of crushing anything. Even its TRAINER must be careful."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/XD",
+    "sapphire": "Trade from Emerald/XD",
+    "emerald": "Given by Professor Birch after completing Hoenn Dex",
+    "firered": "Trade from Emerald/XD",
+    "leafgreen": "Trade from Emerald/XD",
+    "colosseum": "Trade from Emerald/XD",
+    "xd": "Prize for Defeating Mt. Battle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 7,
+        "move": "Rage"
+      },
+      {
+        "level": 13,
+        "move": "Water Gun"
+      },
+      {
+        "level": 20,
+        "move": "Bite"
+      },
+      {
+        "level": 27,
+        "move": "Scary Face"
+      },
+      {
+        "level": 35,
+        "move": "Slash"
+      },
+      {
+        "level": 43,
+        "move": "Screech"
+      },
+      {
+        "level": 52,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/158.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.157Z"
+  }
+}

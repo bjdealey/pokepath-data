@@ -1,0 +1,173 @@
+{
+  "slug": "pidgey",
+  "natdex": 16,
+  "name": "Pidgey",
+  "names": {
+    "japan": "Poppoポッポ",
+    "french": "Roucool",
+    "german": "Taubsi",
+    "korean": "구구"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tiny Bird Pokémon",
+  "heightM": 0.3,
+  "weightKg": 1.8,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Pidgey's Accuracy cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 56,
+    "total": 251
+  },
+  "evolutionChain": [
+    "pidgey",
+    "pidgeotto",
+    "pidgeot"
+  ],
+  "flavorText": {
+    "ruby": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+    "sapphire": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+    "emerald": "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
+    "firered": "Does not like to fight. It hides in tall grass and so on, foraging for food such as small bugs.",
+    "leafgreen": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15 & 25, Bond Bridge, Berry Bush, Five Isle Meadow",
+    "leafgreen": "Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15 & 25, Bond Bridge, Berry Bush, Five Isle Meadow",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 9,
+        "move": "Gust"
+      },
+      {
+        "level": 13,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 19,
+        "move": "Whirlwind"
+      },
+      {
+        "level": 25,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 31,
+        "move": "Featherdance"
+      },
+      {
+        "level": 39,
+        "move": "Agility"
+      },
+      {
+        "level": 47,
+        "move": "Mirror Move"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/016.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.226Z"
+  }
+}

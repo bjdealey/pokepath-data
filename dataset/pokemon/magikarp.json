@@ -1,0 +1,83 @@
+{
+  "slug": "magikarp",
+  "natdex": 129,
+  "name": "Magikarp",
+  "names": {
+    "japan": "Koikingコイキング",
+    "french": "Magicarpe",
+    "german": "Karpador",
+    "korean": "잉어킹"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Fish Pokémon",
+  "heightM": 0.9,
+  "weightKg": 10,
+  "captureRate": 255,
+  "baseEggSteps": 1280,
+  "eggGroups": [
+    "Water 2",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Magikarp's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "spAttack": 15,
+    "spDefense": 20,
+    "speed": 80,
+    "total": 200
+  },
+  "evolutionChain": [
+    "magikarp",
+    "gyarados"
+  ],
+  "flavorText": {
+    "ruby": "MAGIKARP is a pathetic excuse for a POKéMON that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+    "sapphire": "MAGIKARP is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy POKéMON that can survive in any body of water no matter how polluted it is.",
+    "emerald": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many MAGIKARP deposited there by the flow.",
+    "firered": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic POKéMON in the world.",
+    "leafgreen": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+  },
+  "locations": {
+    "ruby": "Fish Everywhere With Old Rod",
+    "sapphire": "Fish Everywhere With Old Rod",
+    "emerald": "Fish Everywhere With Old Rod",
+    "firered": "Fish Everywhere With Old Rod",
+    "leafgreen": "Fish Everywhere With Old Rod",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Splash"
+      },
+      {
+        "level": 15,
+        "move": "Tackle"
+      },
+      {
+        "level": 30,
+        "move": "Flail"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/129.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.977Z"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "shroomish",
+  "natdex": 285,
+  "name": "Shroomish",
+  "names": {
+    "japan": "Kinococoキノココ",
+    "french": "Balignon",
+    "german": "Knilz",
+    "korean": "버섯꼬"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mushroom Pokémon",
+  "heightM": 0.4,
+  "weightKg": 4.5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Fairy",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Effect Spore",
+      "description": "When a Pokémon makes contact with Shroomish it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "spAttack": 40,
+    "spDefense": 60,
+    "speed": 35,
+    "total": 295
+  },
+  "evolutionChain": [
+    "shroomish",
+    "breloom"
+  ],
+  "flavorText": {
+    "ruby": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves.",
+    "sapphire": "If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This POKéMON's spores are so toxic, they make trees and weeds wilt.",
+    "emerald": "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many SHROOMISH feasting on composted soil.",
+    "firered": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+    "leafgreen": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head."
+  },
+  "locations": {
+    "ruby": "Petalburg Woods",
+    "sapphire": "Petalburg Woods",
+    "emerald": "Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher R&D Klots in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": 4,
+        "move": "Tackle"
+      },
+      {
+        "level": 7,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 10,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 16,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 22,
+        "move": "Headbutt"
+      },
+      {
+        "level": 28,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 36,
+        "move": "Growth"
+      },
+      {
+        "level": 45,
+        "move": "Giga Drain"
+      },
+      {
+        "level": 54,
+        "move": "Spore"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/285.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.937Z"
+  }
+}

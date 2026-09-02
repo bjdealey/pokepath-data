@@ -1,0 +1,208 @@
+{
+  "slug": "magcargo",
+  "natdex": 219,
+  "name": "Magcargo",
+  "names": {
+    "japan": "Magcargotマグカルゴ",
+    "french": "Volcaropod",
+    "german": "Magcargo",
+    "korean": "마그카르고"
+  },
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Lava Pokémon",
+  "heightM": 0.8,
+  "weightKg": 55,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Magma Armor",
+      "description": "Magma Armor: Prevents Magcargo from being FrozenFlame Body: When a Pokémon makes contact with Magcargo, it has a 30% chance of being Burned"
+    },
+    {
+      "name": "Flame Body",
+      "description": "Magma Armor: Prevents Magcargo from being FrozenFlame Body: When a Pokémon makes contact with Magcargo, it has a 30% chance of being Burned"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 120,
+    "spAttack": 80,
+    "spDefense": 80,
+    "speed": 30,
+    "total": 410
+  },
+  "evolutionChain": [
+    "slugma",
+    "magcargo"
+  ],
+  "flavorText": {
+    "ruby": "MAGCARGO's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This POKéMON returns to its original size by dipping itself in magma.",
+    "sapphire": "MAGCARGO's body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this POKéMON is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+    "emerald": "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned MAGCARGO's bodies into magma.",
+    "firered": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+    "leafgreen": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch."
+  },
+  "locations": {
+    "ruby": "Evolve Slugma",
+    "sapphire": "Evolve Slugma",
+    "emerald": "Evolve Slugma",
+    "firered": "Mt. Ember Basement 3 (Rock Smash)",
+    "leafgreen": "Mt. Ember Basement 3 (Rock Smash)",
+    "colosseum": "Evolve Slugma",
+    "xd": "Snagged from Cipher Peon Kolest in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": null,
+        "move": "Smog"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": null,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 8,
+        "move": "Ember"
+      },
+      {
+        "level": 15,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 22,
+        "move": "Harden"
+      },
+      {
+        "level": 29,
+        "move": "Amnesia"
+      },
+      {
+        "level": 36,
+        "move": "Flamethrower"
+      },
+      {
+        "level": 48,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 60,
+        "move": "Body Slam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/219.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.533Z"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "slug": "tyranitar",
+  "natdex": 248,
+  "name": "Tyranitar",
+  "names": {
+    "japan": "Bangirasバンギラス",
+    "french": "Tyranocif",
+    "german": "Despotar",
+    "korean": "마기라스"
+  },
+  "types": [
+    "rock",
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Armor Pokémon",
+  "heightM": 2,
+  "weightKg": 202,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Sandstream",
+      "description": "As Tyranitar is brought into battle, a Sandstorm blasts."
+    }
+  ],
+  "baseStats": {
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "spAttack": 95,
+    "spDefense": 100,
+    "speed": 61,
+    "total": 600
+  },
+  "evolutionChain": [
+    "larvitar",
+    "pupitar",
+    "tyranitar"
+  ],
+  "flavorText": {
+    "ruby": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
+    "sapphire": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
+    "emerald": "A TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+    "firered": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "leafgreen": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "emerald": "Trade from FireRed/LeafGreen/Colosseum/XD",
+    "firered": "Evolve Pupitar",
+    "leafgreen": "Evolve Pupitar",
+    "colosseum": "Snagged from Cipher Head Evice in Realgam Tower Colosseum",
+    "xd": "Evolve Pupitar"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Sandstorm"
+      },
+      {
+        "level": null,
+        "move": "Screech"
+      },
+      {
+        "level": 8,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 15,
+        "move": "Screech"
+      },
+      {
+        "level": 22,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 29,
+        "move": "Thrash"
+      },
+      {
+        "level": 38,
+        "move": "Scary Face"
+      },
+      {
+        "level": 47,
+        "move": "Crunch"
+      },
+      {
+        "level": 61,
+        "move": "Earthquake"
+      },
+      {
+        "level": 75,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/248.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.708Z"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "goldeen",
+  "natdex": 118,
+  "name": "Goldeen",
+  "names": {
+    "japan": "Tosakintoトサキント",
+    "french": "Poissirène",
+    "german": "Goldini",
+    "korean": "콘치"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Goldfish Pokémon",
+  "heightM": 0.6,
+  "weightKg": 15,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Goldeen's Speed is DoubledWater Veil: Goldeen cannot be Burned"
+    },
+    {
+      "name": "Water Veil",
+      "description": "Swift Swim: When Rain Dance is in effect, Goldeen's Speed is DoubledWater Veil: Goldeen cannot be Burned"
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "spAttack": 35,
+    "spDefense": 50,
+    "speed": 63,
+    "total": 320
+  },
+  "evolutionChain": [
+    "goldeen",
+    "seaking"
+  ],
+  "flavorText": {
+    "ruby": "GOLDEEN is a very beautiful POKéMON with fins that billow elegantly in water. However, don't let your guard down around this POKéMON - it could ram you powerfully with its horn.",
+    "sapphire": "GOLDEEN loves swimming wild and free in rivers and ponds. If one of these POKéMON is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
+    "emerald": "In the springtime, schools of GOLDEEN can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
+    "firered": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+    "leafgreen": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of \"The Water Queen.\""
+  },
+  "locations": {
+    "ruby": "Route 102, 111, 114, 117, 120, Petalburg City, Victory Road, Meteor Falls, Safari Zone (Fish)",
+    "sapphire": "Route 102, 111, 114, 117, 120, Petalburg City, Victory Road, Meteor Falls, Safari Zone (Fish)",
+    "emerald": "Route 102, 111, 114, 117, 120, Petalburg City, Victory Road, Meteor Falls, Safari Zone (Fish), Routes 102, 111, 114, 117 & 120 (Surf - Rare)",
+    "firered": "Routes 6, 22, 23 & 25, Fuchsia City, Four Island, Viridian City, Berry Forest, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Icefall Cave Entrance, Safari Zone Areas 1, 2, 3 & Center, Ruin Valley (Fish)",
+    "leafgreen": "Routes 6, 22, 23 & 25, Fuchsia City, Four Island, Viridian City, Berry Forest, Cape Brink, Cerulean Cave Floor 1 & Basement 1, Icefall Cave Entrance, Safari Zone Areas 1, 2, 3 & Center, Ruin Valley (Fish)",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Water Sport"
+      },
+      {
+        "level": 10,
+        "move": "Supersonic"
+      },
+      {
+        "level": 15,
+        "move": "Horn Attack"
+      },
+      {
+        "level": 24,
+        "move": "Flail"
+      },
+      {
+        "level": 29,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 38,
+        "move": "Waterfall"
+      },
+      {
+        "level": 43,
+        "move": "Horn Drill"
+      },
+      {
+        "level": 52,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/118.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.912Z"
+  }
+}

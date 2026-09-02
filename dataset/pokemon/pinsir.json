@@ -1,0 +1,202 @@
+{
+  "slug": "pinsir",
+  "natdex": 127,
+  "name": "Pinsir",
+  "names": {
+    "japan": "Kailiosカイロス",
+    "french": "Scarabrute",
+    "german": "Pinsir",
+    "korean": "쁘사이저"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Stagbeetle Pokémon",
+  "heightM": 1.5,
+  "weightKg": 55,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter",
+      "description": "Pinsir's Attack cannot be Lowered by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "spAttack": 55,
+    "spDefense": 70,
+    "speed": 85,
+    "total": 500
+  },
+  "evolutionChain": [
+    "pinsir"
+  ],
+  "flavorText": {
+    "ruby": "PINSIR is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This POKéMON's movements turn sluggish in cold places.",
+    "sapphire": "PINSIR has a pair of massive horns Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
+    "emerald": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, PINSIR burrow and sleep under the ground on chilly nights.",
+    "firered": "Its two long pincer horns are powerful. Once they grip an enemy, they won't release until the foe is torn.",
+    "leafgreen": "If it fails to crush the foe in its pincers, it will swing around and toss the opponent."
+  },
+  "locations": {
+    "ruby": "Safari Zone Mach Bike Area",
+    "sapphire": "Safari Zone Mach Bike Area",
+    "emerald": "Safari Zone Mach Bike Area",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "leafgreen": "Safari Zone Areas 1 & Center",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Grupel in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Vicegrip"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 7,
+        "move": "Bind"
+      },
+      {
+        "level": 13,
+        "move": "Seismic Toss"
+      },
+      {
+        "level": 19,
+        "move": "Harden"
+      },
+      {
+        "level": 25,
+        "move": "Revenge"
+      },
+      {
+        "level": 31,
+        "move": "Brick Break"
+      },
+      {
+        "level": 37,
+        "move": "Guillotine"
+      },
+      {
+        "level": 43,
+        "move": "Submission"
+      },
+      {
+        "level": 49,
+        "move": "Swords Dance"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/127.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.966Z"
+  }
+}

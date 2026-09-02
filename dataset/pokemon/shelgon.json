@@ -1,0 +1,220 @@
+{
+  "slug": "shelgon",
+  "natdex": 372,
+  "name": "Shelgon",
+  "names": {
+    "japan": "Komoruuコモルー",
+    "french": "Drackhaus",
+    "german": "Draschel",
+    "korean": "쉘곤"
+  },
+  "types": [
+    "dragon"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Endurance Pokémon",
+  "heightM": 1.1,
+  "weightKg": 110.5,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Shelgon receives no Re-Coil Damage"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 100,
+    "spAttack": 60,
+    "spDefense": 50,
+    "speed": 50,
+    "total": 420
+  },
+  "evolutionChain": [
+    "bagon",
+    "shelgon",
+    "salamence"
+  ],
+  "flavorText": {
+    "ruby": "Inside SHELGON's armor-like shell, cells are in the midst of transformation to create an entirely new body. This POKéMON's shell is extremely heavy, making its movements sluggish.",
+    "sapphire": "Covering SHELGON's body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this POKéMON hides away in a cavern.",
+    "emerald": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
+    "firered": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+    "leafgreen": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish."
+  },
+  "locations": {
+    "ruby": "Evolve Bagon",
+    "sapphire": "Evolve Bagon",
+    "emerald": "Evolve Bagon",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Rage"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 5,
+        "move": "Bite"
+      },
+      {
+        "level": 9,
+        "move": "Leer"
+      },
+      {
+        "level": 17,
+        "move": "Headbutt"
+      },
+      {
+        "level": 21,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 25,
+        "move": "Ember"
+      },
+      {
+        "level": 30,
+        "move": "Protect"
+      },
+      {
+        "level": 38,
+        "move": "Dragonbreath"
+      },
+      {
+        "level": 47,
+        "move": "Scary Face"
+      },
+      {
+        "level": 56,
+        "move": "Crunch"
+      },
+      {
+        "level": 69,
+        "move": "Dragon Claw"
+      },
+      {
+        "level": 78,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/372.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.549Z"
+  }
+}

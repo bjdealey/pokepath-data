@@ -1,0 +1,185 @@
+{
+  "slug": "raichu",
+  "natdex": 26,
+  "name": "Raichu",
+  "names": {
+    "japan": "Raichuライチュウ",
+    "french": "Raichu",
+    "german": "Raichu",
+    "korean": "라이츄"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mouse Pokémon",
+  "heightM": 0.8,
+  "weightKg": 30,
+  "captureRate": 75,
+  "baseEggSteps": 2560,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Static",
+      "description": "When a Pokémon makes contact with Raichu, it has a 30% chance of being Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "spAttack": 90,
+    "spDefense": 80,
+    "speed": 100,
+    "total": 475
+  },
+  "evolutionChain": [
+    "pichu",
+    "pikachu",
+    "raichu"
+  ],
+  "flavorText": {
+    "ruby": "If the electrical sacks become excessively charged, RAICHU plants its tail in the ground and discharges. Scorched patches of ground will be found near this POKéMON's nest.",
+    "sapphire": "This POKéMON exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. RAICHU searches for electricity by planting its tail in the ground.",
+    "emerald": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+    "firered": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint.",
+    "leafgreen": "Its long tail serves as a ground to protect itself from its own high-voltage power."
+  },
+  "locations": {
+    "ruby": "Evolve Pikachu",
+    "sapphire": "Evolve Pikachu",
+    "emerald": "Evolve Pikachu",
+    "firered": "Evolve Pikachu",
+    "leafgreen": "Evolve Pikachu",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Thundershock"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": null,
+        "move": "Thunderbolt"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/026.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.287Z"
+  }
+}

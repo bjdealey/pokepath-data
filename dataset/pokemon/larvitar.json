@@ -1,0 +1,193 @@
+{
+  "slug": "larvitar",
+  "natdex": 246,
+  "name": "Larvitar",
+  "names": {
+    "japan": "Yogirasヨーギラス",
+    "french": "Embrylex",
+    "german": "Larvitar",
+    "korean": "애버라스"
+  },
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Rock Skin Pokémon",
+  "heightM": 0.6,
+  "weightKg": 72,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Larvitar is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "spAttack": 45,
+    "spDefense": 50,
+    "speed": 41,
+    "total": 300
+  },
+  "evolutionChain": [
+    "larvitar",
+    "pupitar",
+    "tyranitar"
+  ],
+  "flavorText": {
+    "ruby": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent's face.",
+    "sapphire": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent's face.",
+    "emerald": "A LARVITAR is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.",
+    "firered": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
+    "leafgreen": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Seavault Canyon",
+    "leafgreen": "Seavault Canyon",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Trade for Wooper with Duking in Pyrite Town"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 8,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 15,
+        "move": "Screech"
+      },
+      {
+        "level": 22,
+        "move": "Rock Slide"
+      },
+      {
+        "level": 29,
+        "move": "Thrash"
+      },
+      {
+        "level": 36,
+        "move": "Scary Face"
+      },
+      {
+        "level": 43,
+        "move": "Crunch"
+      },
+      {
+        "level": 50,
+        "move": "Earthquake"
+      },
+      {
+        "level": 57,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/246.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.695Z"
+  }
+}

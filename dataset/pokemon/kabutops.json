@@ -1,0 +1,237 @@
+{
+  "slug": "kabutops",
+  "natdex": 141,
+  "name": "Kabutops",
+  "names": {
+    "japan": "Kabutopsカブトプス",
+    "french": "Kabutops",
+    "german": "Kabutops",
+    "korean": "투구푸스"
+  },
+  "types": [
+    "rock",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Shellfish Pokémon",
+  "heightM": 1.3,
+  "weightKg": 40.5,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Kabutops' Speed is DoubledBattle Armor: The Opponent's Moves cannot Critically Hit"
+    },
+    {
+      "name": "Battle Armor",
+      "description": "Swift Swim: When Rain Dance is in effect, Kabutops' Speed is DoubledBattle Armor: The Opponent's Moves cannot Critically Hit"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "spAttack": 65,
+    "spDefense": 70,
+    "speed": 80,
+    "total": 495
+  },
+  "evolutionChain": [
+    "kabuto",
+    "kabutops"
+  ],
+  "flavorText": {
+    "ruby": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
+    "sapphire": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
+    "emerald": "KABUTOPS once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs.",
+    "firered": "It swims freely through water. It catches prey with its scythe-like arms and drains the victim's fluids.",
+    "leafgreen": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains their fluids."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Evolve Kabuto",
+    "leafgreen": "Evolve Kabuto",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": 13,
+        "move": "Absorb"
+      },
+      {
+        "level": 19,
+        "move": "Leer"
+      },
+      {
+        "level": 25,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 31,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 37,
+        "move": "Endure"
+      },
+      {
+        "level": 40,
+        "move": "Slash"
+      },
+      {
+        "level": 46,
+        "move": "Metal Sound"
+      },
+      {
+        "level": 55,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 65,
+        "move": "Ancientpower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/141.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.047Z"
+  }
+}

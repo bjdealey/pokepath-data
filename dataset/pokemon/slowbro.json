@@ -1,0 +1,262 @@
+{
+  "slug": "slowbro",
+  "natdex": 80,
+  "name": "Slowbro",
+  "names": {
+    "japan": "Yadoranヤドラン",
+    "french": "Flagadoss",
+    "german": "Lahmus",
+    "korean": "야도란"
+  },
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Hermit Crab Pokémon",
+  "heightM": 1.6,
+  "weightKg": 78.5,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Oblivious: Prevents Slowbro from being InfatuatedOwn Tempo: Prevents Slowbro from being Confused"
+    },
+    {
+      "name": "Own Tempo",
+      "description": "Oblivious: Prevents Slowbro from being InfatuatedOwn Tempo: Prevents Slowbro from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "spAttack": 100,
+    "spDefense": 80,
+    "speed": 30,
+    "total": 490
+  },
+  "evolutionChain": [
+    "slowpoke",
+    "slowbro",
+    "slowking"
+  ],
+  "flavorText": {
+    "ruby": "SLOWBRO's tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
+    "sapphire": "SLOWBRO's tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
+    "emerald": "Its tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
+    "firered": "When a SLOWPOKE went hunting in the sea, its tail was bitten by a SHELLDER. That made it evolve into SLOWBRO.",
+    "leafgreen": "The SHELLDER that latches onto SLOWPOKE's tail is said to feed on the host's leftover scraps."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen",
+    "sapphire": "Trade from LeafGreen",
+    "emerald": "Trade from LeafGreen",
+    "firered": "Trade from LeafGreen",
+    "leafgreen": "Seafoam Islands Basements 1 & 2 (Cave) & 3 & 4, Cape Brink (Surf & Cave), Berry Forest, Cerulean Cave Floor 1 & Basement 1 (Surf), Cinnabar Island (Fish)",
+    "colosseum": "Trade from LeafGreen",
+    "xd": "Trade from LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Curse"
+      },
+      {
+        "level": null,
+        "move": "Yawn"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 6,
+        "move": "Growl"
+      },
+      {
+        "level": 15,
+        "move": "Water Gun"
+      },
+      {
+        "level": 20,
+        "move": "Confusion"
+      },
+      {
+        "level": 29,
+        "move": "Disable"
+      },
+      {
+        "level": 34,
+        "move": "Headbutt"
+      },
+      {
+        "level": 37,
+        "move": "Withdraw"
+      },
+      {
+        "level": 46,
+        "move": "Amnesia"
+      },
+      {
+        "level": 54,
+        "move": "Psychic"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/080.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.668Z"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "slug": "shuppet",
+  "natdex": 353,
+  "name": "Shuppet",
+  "names": {
+    "japan": "Kagebouzuカゲボウズ",
+    "french": "Polichombr",
+    "german": "Shuppet",
+    "korean": "어둠대신"
+  },
+  "types": [
+    "ghost"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Puppet Pokémon",
+  "heightM": 0.6,
+  "weightKg": 2.3,
+  "captureRate": 225,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Prevents Shuppet from being put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 44,
+    "attack": 75,
+    "defense": 35,
+    "spAttack": 63,
+    "spDefense": 33,
+    "speed": 45,
+    "total": 295
+  },
+  "evolutionChain": [
+    "shuppet",
+    "banette"
+  ],
+  "flavorText": {
+    "ruby": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person's home.",
+    "sapphire": "SHUPPET grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+    "emerald": "This POKéMON roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
+    "firered": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+    "leafgreen": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people."
+  },
+  "locations": {
+    "ruby": "Mt. Pyre Floors 4, 5, 6 & Summit",
+    "sapphire": "Routes 121 & 123, Mt. Pyre Floors 1, 2, 3, 4, 5, 6, Summit & Half Way",
+    "emerald": "Routes 121 & 123, Mt. Pyre Floors 1, 2, 3, 4, 5, 6, Summit & Half Way",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Knock Off"
+      },
+      {
+        "level": 8,
+        "move": "Screech"
+      },
+      {
+        "level": 13,
+        "move": "Night Shade"
+      },
+      {
+        "level": 20,
+        "move": "Curse"
+      },
+      {
+        "level": 25,
+        "move": "Spite"
+      },
+      {
+        "level": 32,
+        "move": "Will-o-wisp"
+      },
+      {
+        "level": 37,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 44,
+        "move": "Shadow Ball"
+      },
+      {
+        "level": 49,
+        "move": "Snatch"
+      },
+      {
+        "level": 56,
+        "move": "Grudge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/353.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.402Z"
+  }
+}

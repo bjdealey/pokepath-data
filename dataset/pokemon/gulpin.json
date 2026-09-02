@@ -1,0 +1,211 @@
+{
+  "slug": "gulpin",
+  "natdex": 316,
+  "name": "Gulpin",
+  "names": {
+    "japan": "Gokulinゴクリン",
+    "french": "Gloupti",
+    "german": "Schluppuck",
+    "korean": "꼴깍몬"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Stomach Pokémon",
+  "heightM": 0.4,
+  "weightKg": 10.3,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Liquid Ooze",
+      "description": "Liquid Ooze: If the Opponent absorbs HP from Gulpin, the Opponent Loses that amount of HPSticky Hold: Gulpin's Item cannot be stolen"
+    },
+    {
+      "name": "Sticky Hold",
+      "description": "Liquid Ooze: If the Opponent absorbs HP from Gulpin, the Opponent Loses that amount of HPSticky Hold: Gulpin's Item cannot be stolen"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "spAttack": 43,
+    "spDefense": 53,
+    "speed": 40,
+    "total": 302
+  },
+  "evolutionChain": [
+    "gulpin",
+    "swalot"
+  ],
+  "flavorText": {
+    "ruby": "Virtually all of GULPIN's body is its stomach. As a result, it can swallow something its own size. This POKéMON's stomach contains a special fluid that digests anything.",
+    "sapphire": "Most of GULPIN's body is made up of its stomach - its heart and brain are very small in comparison. This POKéMON's stomach contains special enzymes that dissolve anything.",
+    "emerald": "This POKéMON's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.",
+    "firered": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled.",
+    "leafgreen": "There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled."
+  },
+  "locations": {
+    "ruby": "Route 110",
+    "sapphire": "Route 110",
+    "emerald": "Route 110",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Purpsix in Cipher Lab"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": 6,
+        "move": "Yawn"
+      },
+      {
+        "level": 9,
+        "move": "Poison Gas"
+      },
+      {
+        "level": 14,
+        "move": "Sludge"
+      },
+      {
+        "level": 17,
+        "move": "Amnesia"
+      },
+      {
+        "level": 23,
+        "move": "Encore"
+      },
+      {
+        "level": 28,
+        "move": "Toxic"
+      },
+      {
+        "level": 34,
+        "move": "Stockpile"
+      },
+      {
+        "level": 34,
+        "move": "Spit Up"
+      },
+      {
+        "level": 34,
+        "move": "Swallow"
+      },
+      {
+        "level": 39,
+        "move": "Sludge Bomb"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/316.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.130Z"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "swellow",
+  "natdex": 277,
+  "name": "Swellow",
+  "names": {
+    "japan": "Ohsubameオオスバメ",
+    "french": "Hélédelle",
+    "german": "Schwalboss",
+    "korean": "스왈로"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Swallow Pokémon",
+  "heightM": 0.7,
+  "weightKg": 19.8,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Guts",
+      "description": "When Swellow is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 125,
+    "total": 430
+  },
+  "evolutionChain": [
+    "taillow",
+    "swellow"
+  ],
+  "flavorText": {
+    "ruby": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW's clawed feet, preventing escape.",
+    "sapphire": "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other's wings.",
+    "emerald": "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+    "firered": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+    "leafgreen": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky."
+  },
+  "locations": {
+    "ruby": "Route 115",
+    "sapphire": "Route 115",
+    "emerald": "Route 115",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Admin Ardos in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 4,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 8,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 19,
+        "move": "Double Team"
+      },
+      {
+        "level": 28,
+        "move": "Endeavor"
+      },
+      {
+        "level": 38,
+        "move": "Aerial Ace"
+      },
+      {
+        "level": 49,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/277.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.889Z"
+  }
+}

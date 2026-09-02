@@ -1,0 +1,203 @@
+{
+  "slug": "jolteon",
+  "natdex": 135,
+  "name": "Jolteon",
+  "names": {
+    "japan": "Thundersサンダース",
+    "french": "Voltali",
+    "german": "Blitza",
+    "korean": "쥬피썬더"
+  },
+  "types": [
+    "electric"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Lightning Pokémon",
+  "heightM": 0.8,
+  "weightKg": 24.5,
+  "captureRate": 45,
+  "baseEggSteps": 8960,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Volt Absorb",
+      "description": "Jolteon is healed by up to 25% of Max HP when hit by Electric Attacks."
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "spAttack": 110,
+    "spDefense": 95,
+    "speed": 130,
+    "total": 525
+  },
+  "evolutionChain": [
+    "eevee",
+    "jolteon",
+    "vaporeon",
+    "flareon",
+    "espeon",
+    "umbreon"
+  ],
+  "flavorText": {
+    "ruby": "JOLTEON's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+    "sapphire": "JOLTEON's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+    "emerald": "Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+    "firered": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
+    "leafgreen": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Eevee",
+    "leafgreen": "Evolve Eevee",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Evolve Eevee"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 8,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 16,
+        "move": "Thundershock"
+      },
+      {
+        "level": 23,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 30,
+        "move": "Double Kick"
+      },
+      {
+        "level": 36,
+        "move": "Pin Missile"
+      },
+      {
+        "level": 42,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 47,
+        "move": "Agility"
+      },
+      {
+        "level": 52,
+        "move": "Thunder"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/135.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.012Z"
+  }
+}

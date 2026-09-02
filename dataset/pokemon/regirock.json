@@ -1,0 +1,193 @@
+{
+  "slug": "regirock",
+  "natdex": 377,
+  "name": "Regirock",
+  "names": {
+    "japan": "Regirockレジロック",
+    "french": "Regirock",
+    "german": "Regirock",
+    "korean": "레지락"
+  },
+  "types": [
+    "rock"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Rock Peak Pokémon",
+  "heightM": 1.7,
+  "weightKg": 230,
+  "captureRate": 3,
+  "baseEggSteps": 20480,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "description": "Opponent's Moves that Lower Stats will not work on Regirock"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 200,
+    "spAttack": 50,
+    "spDefense": 100,
+    "speed": 50,
+    "total": 580
+  },
+  "evolutionChain": [
+    "regirock"
+  ],
+  "flavorText": {
+    "ruby": "REGIROCK was sealed away by people long ago. If this POKéMON's body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
+    "sapphire": "REGIROCK's body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
+    "emerald": "A POKéMON that is made entirely of rocks and boulders. If parts of its body chip off in battle, REGIROCK repairs itself by adding new rocks.",
+    "firered": "It is entirely composed of rocks with no sign of a brain or heart. It is a mystery even to modern scientists.",
+    "leafgreen": "It is entirely composed of rocks with no sign of a brain or heart. It is a mystery even to modern scientists."
+  },
+  "locations": {
+    "ruby": "Desert Ruins",
+    "sapphire": "Desert Ruins",
+    "emerald": "Desert Ruins",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Explosion"
+      },
+      {
+        "level": 9,
+        "move": "Rock Throw"
+      },
+      {
+        "level": 17,
+        "move": "Curse"
+      },
+      {
+        "level": 25,
+        "move": "Superpower"
+      },
+      {
+        "level": 33,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 41,
+        "move": "Iron Defense"
+      },
+      {
+        "level": 49,
+        "move": "Zap Cannon"
+      },
+      {
+        "level": 57,
+        "move": "Lock-on"
+      },
+      {
+        "level": 65,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/377.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.587Z"
+  }
+}

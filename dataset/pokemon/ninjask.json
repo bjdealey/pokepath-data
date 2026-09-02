@@ -1,0 +1,217 @@
+{
+  "slug": "ninjask",
+  "natdex": 291,
+  "name": "Ninjask",
+  "names": {
+    "japan": "Tekkaninテッカニン",
+    "french": "Ninjask",
+    "german": "Ninjask",
+    "korean": "아이스크"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Ninja Pokémon",
+  "heightM": 0.8,
+  "weightKg": 12,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Speed Boost",
+      "description": "Increases Ninjask's Speed by One Level each turn"
+    }
+  ],
+  "baseStats": {
+    "hp": 61,
+    "attack": 90,
+    "defense": 45,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 160,
+    "total": 456
+  },
+  "evolutionChain": [
+    "nincada",
+    "ninjask",
+    "shedinja"
+  ],
+  "flavorText": {
+    "ruby": "NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible.",
+    "sapphire": "If NINJASK is not trained properly, it will refuse to obey the TRAINER and cry loudly continuously. Because of this quality, this POKéMON is said to be one that puts the TRAINER's abilities to the test.",
+    "emerald": "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
+    "firered": "This POKéMON is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+    "leafgreen": "This POKéMON is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap."
+  },
+  "locations": {
+    "ruby": "Evolve Nincada",
+    "sapphire": "Evolve Nincada",
+    "emerald": "Evolve Nincada",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Leech Life"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 5,
+        "move": "Leech Life"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 14,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 19,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 20,
+        "move": "Double Team"
+      },
+      {
+        "level": 20,
+        "move": "Fury Cutter"
+      },
+      {
+        "level": 20,
+        "move": "Screech"
+      },
+      {
+        "level": 25,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 31,
+        "move": "Slash"
+      },
+      {
+        "level": 38,
+        "move": "Agility"
+      },
+      {
+        "level": 45,
+        "move": "Baton Pass"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/291.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.974Z"
+  }
+}

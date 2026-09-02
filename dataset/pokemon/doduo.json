@@ -1,0 +1,172 @@
+{
+  "slug": "doduo",
+  "natdex": 84,
+  "name": "Doduo",
+  "names": {
+    "japan": "Dodoドードー",
+    "french": "Doduo",
+    "german": "Dodu",
+    "korean": "두두"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Twin Bird Pokémon",
+  "heightM": 1.4,
+  "weightKg": 39.2,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Doduo can escape from Wild BattlesEarly Bird: If afflicted with Sleep, Doduo wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Run Away: Doduo can escape from Wild BattlesEarly Bird: If afflicted with Sleep, Doduo wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 75,
+    "total": 310
+  },
+  "evolutionChain": [
+    "doduo",
+    "dodrio"
+  ],
+  "flavorText": {
+    "ruby": "DODUO's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+    "sapphire": "DODUO's two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this POKéMON possessing different sets of brains.",
+    "emerald": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
+    "firered": "A two-headed POKéMON that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+    "leafgreen": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
+  },
+  "locations": {
+    "ruby": "Safari Zone Entrance, Left & Mach Bike Areas",
+    "sapphire": "Safari Zone Entrance, Left & Mach Bike Areas",
+    "emerald": "Safari Zone Entrance, Left & Mach Bike Areas",
+    "firered": "Routes 16, 17 & 18 & Safari Zone Areas 1 & 3",
+    "leafgreen": "Routes 16, 17 & 18 & Safari Zone Areas 1 & 3",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 9,
+        "move": "Pursuit"
+      },
+      {
+        "level": 13,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 21,
+        "move": "Tri Attack"
+      },
+      {
+        "level": 25,
+        "move": "Rage"
+      },
+      {
+        "level": 33,
+        "move": "Uproar"
+      },
+      {
+        "level": 37,
+        "move": "Drill Peck"
+      },
+      {
+        "level": 45,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/084.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.690Z"
+  }
+}

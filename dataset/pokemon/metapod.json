@@ -1,0 +1,79 @@
+{
+  "slug": "metapod",
+  "natdex": 11,
+  "name": "Metapod",
+  "names": {
+    "japan": "Transelトランセル",
+    "french": "Chrysacier",
+    "german": "Safcon",
+    "korean": "단데기"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Cocoon Pokémon",
+  "heightM": 0.7,
+  "weightKg": 9.9,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Metapod has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 55,
+    "spAttack": 25,
+    "spDefense": 25,
+    "speed": 30,
+    "total": 205
+  },
+  "evolutionChain": [
+    "caterpie",
+    "metapod",
+    "butterfree"
+  ],
+  "flavorText": {
+    "ruby": "The shell covering this POKéMON's body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+    "sapphire": "The shell covering this POKéMON's body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+    "emerald": "Its shell is as hard as an iron slab. A METAPOD does not move very much because it is preparing its soft innards for evolution inside the shell.",
+    "firered": "Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.",
+    "leafgreen": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Viridian Forest, Route 25, Pattern Bush",
+    "leafgreen": "Viridian Forest, Route 25, Pattern Bush",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 7,
+        "move": "Harden"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/011.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.195Z"
+  }
+}

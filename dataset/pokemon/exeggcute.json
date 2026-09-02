@@ -1,0 +1,200 @@
+{
+  "slug": "exeggcute",
+  "natdex": 102,
+  "name": "Exeggcute",
+  "names": {
+    "japan": "Tamatamaタマタマ",
+    "french": "Noeunoeuf",
+    "german": "Owei",
+    "korean": "아라리"
+  },
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Egg Pokémon",
+  "heightM": 0.4,
+  "weightKg": 2.5,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Exeggcute's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "spAttack": 60,
+    "spDefense": 45,
+    "speed": 40,
+    "total": 325
+  },
+  "evolutionChain": [
+    "exeggcute",
+    "exeggutor"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
+    "sapphire": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
+    "emerald": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+    "firered": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+    "leafgreen": "It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Berry Forest, Safari Zone Areas 1, 2, 3 & Center",
+    "leafgreen": "Berry Forest, Safari Zone Areas 1, 2, 3 & Center",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Barrage"
+      },
+      {
+        "level": null,
+        "move": "Uproar"
+      },
+      {
+        "level": null,
+        "move": "Hypnosis"
+      },
+      {
+        "level": 7,
+        "move": "Reflect"
+      },
+      {
+        "level": 13,
+        "move": "Leech Seed"
+      },
+      {
+        "level": 19,
+        "move": "Confusion"
+      },
+      {
+        "level": 25,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 31,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 37,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 43,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/102.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.805Z"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "nidorina",
+  "natdex": 30,
+  "name": "Nidorina",
+  "names": {
+    "japan": "Nidorinaニドリーナ",
+    "french": "Nidorina",
+    "german": "Nidorina",
+    "korean": "니드리나"
+  },
+  "types": [
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Poison Pin Pokémon",
+  "heightM": 0.8,
+  "weightKg": 20,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Poison Point",
+      "description": "When a Pokémon makes contact with Nidorina, it has a 30% chance of being Poisoned"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "spAttack": 55,
+    "spDefense": 55,
+    "speed": 56,
+    "total": 365
+  },
+  "evolutionChain": [
+    "nidoran-f",
+    "nidorina",
+    "nidoqueen",
+    "nidoran-m",
+    "nidorino",
+    "nidoking"
+  ],
+  "flavorText": {
+    "ruby": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
+    "sapphire": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
+    "emerald": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
+    "firered": "The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.",
+    "leafgreen": "The female's horns develop slowly. Prefers physical attacks such as clawing and biting."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Safari Zone Area 2",
+    "leafgreen": "Safari Zone Areas 1, 2 & 3",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 8,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 12,
+        "move": "Double Kick"
+      },
+      {
+        "level": 18,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 22,
+        "move": "Bite"
+      },
+      {
+        "level": 26,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 34,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 43,
+        "move": "Flatter"
+      },
+      {
+        "level": 53,
+        "move": "Crunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/030.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.313Z"
+  }
+}

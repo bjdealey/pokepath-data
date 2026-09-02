@@ -1,0 +1,179 @@
+{
+  "slug": "sunkern",
+  "natdex": 191,
+  "name": "Sunkern",
+  "names": {
+    "japan": "Himanutsヒマナッツ",
+    "french": "Tournegrin",
+    "german": "Sonnkern",
+    "korean": "해너츠"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Seed Pokémon",
+  "heightM": 0.3,
+  "weightKg": 1.8,
+  "captureRate": 235,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Sunkern's Speed is Doubled."
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 30,
+    "total": 180
+  },
+  "evolutionChain": [
+    "sunkern",
+    "sunflora"
+  ],
+  "flavorText": {
+    "ruby": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+    "sapphire": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+    "emerald": "SUNKERN try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+    "firered": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+    "leafgreen": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald",
+    "sapphire": "Trade from Emerald",
+    "emerald": "Safari Zone Extentions 1 & 2",
+    "firered": "Trade from Emerald",
+    "leafgreen": "Trade from Emerald",
+    "colosseum": "Trade from Emerald",
+    "xd": "Trade from Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": 6,
+        "move": "Growth"
+      },
+      {
+        "level": 13,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 18,
+        "move": "Ingrain"
+      },
+      {
+        "level": 25,
+        "move": "Endeavor"
+      },
+      {
+        "level": 30,
+        "move": "Sunny Day"
+      },
+      {
+        "level": 37,
+        "move": "Synthesis"
+      },
+      {
+        "level": 42,
+        "move": "Giga Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/191.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.363Z"
+  }
+}

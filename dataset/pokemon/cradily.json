@@ -1,0 +1,208 @@
+{
+  "slug": "cradily",
+  "natdex": 346,
+  "name": "Cradily",
+  "names": {
+    "japan": "Yuradleユレイドル",
+    "french": "Vacilys",
+    "german": "Wielie",
+    "korean": "릴리요"
+  },
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Barnacle Pokémon",
+  "heightM": 1.5,
+  "weightKg": 60.4,
+  "captureRate": 45,
+  "baseEggSteps": 7680,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Suction Cups",
+      "description": "Cradily cannot be forced out of battle by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "spAttack": 81,
+    "spDefense": 107,
+    "speed": 43,
+    "total": 495
+  },
+  "evolutionChain": [
+    "lileep",
+    "cradily"
+  ],
+  "flavorText": {
+    "ruby": "CRADILY roams around the ocean floor in search of food. This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
+    "sapphire": "CRADILY's body serves as an anchor, preventing it from being washed away in rough seas. This POKéMON secretes a strong digestive fluid from its tentacles.",
+    "emerald": "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. CRADILY can be seen on beaches when the tide goes out.",
+    "firered": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.",
+    "leafgreen": "It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding."
+  },
+  "locations": {
+    "ruby": "Evolve Lileep",
+    "sapphire": "Evolve Lileep",
+    "emerald": "Evolve Lileep",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": null,
+        "move": "Constrict"
+      },
+      {
+        "level": null,
+        "move": "Acid"
+      },
+      {
+        "level": null,
+        "move": "Ingrain"
+      },
+      {
+        "level": 8,
+        "move": "Constrict"
+      },
+      {
+        "level": 15,
+        "move": "Acid"
+      },
+      {
+        "level": 22,
+        "move": "Ingrain"
+      },
+      {
+        "level": 29,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 36,
+        "move": "Amnesia"
+      },
+      {
+        "level": 48,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 60,
+        "move": "Stockpile"
+      },
+      {
+        "level": 60,
+        "move": "Spit Up"
+      },
+      {
+        "level": 60,
+        "move": "Swallow"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/346.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.352Z"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "bellossom",
+  "natdex": 182,
+  "name": "Bellossom",
+  "names": {
+    "japan": "Kireihanaキレイハナ",
+    "french": "Joliflor",
+    "german": "Blubella",
+    "korean": "아르코"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Flower Pokémon",
+  "heightM": 0.4,
+  "weightKg": 5.8,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Bellossom's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "spAttack": 90,
+    "spDefense": 100,
+    "speed": 50,
+    "total": 480
+  },
+  "evolutionChain": [
+    "oddish",
+    "gloom",
+    "vileplume",
+    "bellossom"
+  ],
+  "flavorText": {
+    "ruby": "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This POKéMON's dancing is renowned in the southern lands.",
+    "sapphire": "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this POKéMON closes its petals and goes to sleep.",
+    "emerald": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
+    "firered": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+    "leafgreen": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+  },
+  "locations": {
+    "ruby": "Evolve Gloom",
+    "sapphire": "Evolve Gloom",
+    "emerald": "Evolve Gloom",
+    "firered": "Evolve Gloom",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed",
+    "xd": "Trade from Ruby/Sapphire/Emerald/FireRed"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": null,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": null,
+        "move": "Stun Spore"
+      },
+      {
+        "level": null,
+        "move": "Magical Leaf"
+      },
+      {
+        "level": 44,
+        "move": "Petal Dance"
+      },
+      {
+        "level": 55,
+        "move": "Solarbeam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/182.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.306Z"
+  }
+}

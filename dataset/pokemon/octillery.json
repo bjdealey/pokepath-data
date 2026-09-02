@@ -1,0 +1,208 @@
+{
+  "slug": "octillery",
+  "natdex": 224,
+  "name": "Octillery",
+  "names": {
+    "japan": "Okutankオクタン",
+    "french": "Octillery",
+    "german": "Octillery",
+    "korean": "대포무노"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Jet Pokémon",
+  "heightM": 0.9,
+  "weightKg": 28.5,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Water 2"
+  ],
+  "abilities": [
+    {
+      "name": "Suction Cups",
+      "description": "Octillery cannot be forced out of battle by Opponent"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 105,
+    "defense": 75,
+    "spAttack": 105,
+    "spDefense": 75,
+    "speed": 45,
+    "total": 480
+  },
+  "evolutionChain": [
+    "remoraid",
+    "octillery"
+  ],
+  "flavorText": {
+    "ruby": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
+    "sapphire": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
+    "emerald": "It ensnares its foe with its suction-cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+    "firered": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+    "leafgreen": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/LeafGreen/Colosseum",
+    "sapphire": "Trade from Emerald/LeafGreen/Colosseum",
+    "emerald": "Safari Zone Extention (Fish)",
+    "firered": "Trade from Emerald/LeafGreen/Colosseum",
+    "leafgreen": "Evolve Remoraid",
+    "colosseum": "Evolve Remoraid",
+    "xd": "Trade from Emerald/LeafGreen/Colosseum"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": 11,
+        "move": "Constrict"
+      },
+      {
+        "level": 22,
+        "move": "Psybeam"
+      },
+      {
+        "level": 22,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 22,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 25,
+        "move": "Octazooka"
+      },
+      {
+        "level": 38,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 54,
+        "move": "Ice Beam"
+      },
+      {
+        "level": 70,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/224.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.564Z"
+  }
+}

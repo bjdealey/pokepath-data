@@ -1,0 +1,208 @@
+{
+  "slug": "typhlosion",
+  "natdex": 157,
+  "name": "Typhlosion",
+  "names": {
+    "japan": "Bakphoonバクフーン",
+    "french": "Typhlosion",
+    "german": "Tornupto",
+    "korean": "블레이범"
+  },
+  "types": [
+    "fire"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Volcano Pokémon",
+  "heightM": 1.7,
+  "weightKg": 79.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "description": "When Typhlosion's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "spAttack": 109,
+    "spDefense": 85,
+    "speed": 100,
+    "total": 534
+  },
+  "evolutionChain": [
+    "cyndaquil",
+    "quilava",
+    "typhlosion"
+  ],
+  "flavorText": {
+    "ruby": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
+    "sapphire": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
+    "emerald": "It can hide behind a shimmering heat haze that it creates using its intense flames. TYPHLOSION create blazing explosive blasts that burn everything to cinders.",
+    "firered": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+    "leafgreen": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/Colosseum/XD",
+    "sapphire": "Trade from Emerald/Colosseum/XD",
+    "emerald": "Evolve Quilava",
+    "firered": "Trade from Emerald/Colosseum/XD",
+    "leafgreen": "Trade from Emerald/Colosseum/XD",
+    "colosseum": "Evolve Quilava",
+    "xd": "Evolve Quilava"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Smokescreen"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 6,
+        "move": "Smokescreen"
+      },
+      {
+        "level": 12,
+        "move": "Ember"
+      },
+      {
+        "level": 21,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 31,
+        "move": "Flame Wheel"
+      },
+      {
+        "level": 45,
+        "move": "Swift"
+      },
+      {
+        "level": 60,
+        "move": "Flamethrower"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/157.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.151Z"
+  }
+}

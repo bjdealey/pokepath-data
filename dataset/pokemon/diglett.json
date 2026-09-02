@@ -1,0 +1,187 @@
+{
+  "slug": "diglett",
+  "natdex": 50,
+  "name": "Diglett",
+  "names": {
+    "japan": "Digdaディグダ",
+    "french": "Taupiqueur",
+    "german": "Digda",
+    "korean": "디그다"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mole Pokémon",
+  "heightM": 0.2,
+  "weightKg": 0.8,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Sand Veil: Increases Evasion in SandstormArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+    },
+    {
+      "name": "Arena Trap",
+      "description": "Sand Veil: Increases Evasion in SandstormArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+    }
+  ],
+  "baseStats": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "spAttack": 35,
+    "spDefense": 45,
+    "speed": 95,
+    "total": 265
+  },
+  "evolutionChain": [
+    "diglett",
+    "dugtrio"
+  ],
+  "flavorText": {
+    "ruby": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+    "sapphire": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+    "emerald": "DIGLETT are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
+    "firered": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+    "leafgreen": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Diglett Cave",
+    "leafgreen": "Diglett Cave",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 5,
+        "move": "Growl"
+      },
+      {
+        "level": 9,
+        "move": "Magnitude"
+      },
+      {
+        "level": 17,
+        "move": "Dig"
+      },
+      {
+        "level": 25,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 33,
+        "move": "Slash"
+      },
+      {
+        "level": 41,
+        "move": "Earthquake"
+      },
+      {
+        "level": 49,
+        "move": "Fissure"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/050.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.438Z"
+  }
+}

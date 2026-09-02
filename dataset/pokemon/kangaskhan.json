@@ -1,0 +1,262 @@
+{
+  "slug": "kangaskhan",
+  "natdex": 115,
+  "name": "Kangaskhan",
+  "names": {
+    "japan": "Garuraガルーラ",
+    "french": "Kangourex",
+    "german": "Kangama",
+    "korean": "캥카"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 0,
+    "femalePct": 100
+  },
+  "classification": "Parent Pokémon",
+  "heightM": 2.2,
+  "weightKg": 80,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Early Bird",
+      "description": "If afflicted with Sleep, Kangaskhan wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "spAttack": 40,
+    "spDefense": 80,
+    "speed": 90,
+    "total": 490
+  },
+  "evolutionChain": [
+    "kangaskhan"
+  ],
+  "flavorText": {
+    "ruby": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON's parent is sure to be in the area, and it will become violently enraged at you.",
+    "sapphire": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON's parent is sure to be in the area, and it will become violently enraged at you.",
+    "emerald": "If you come across a young KANGASKHAN playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.",
+    "firered": "The female raises its offspring in a pouch on its belly. It is skilled at attacking using COMET PUNCH.",
+    "leafgreen": "The infant rarely ventures out of its mother's protective pouch until it is three years old."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Safari Zone Areas 1 & 3",
+    "leafgreen": "Safari Zone Areas 1 & 3",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Litnar in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Comet Punch"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 7,
+        "move": "Bite"
+      },
+      {
+        "level": 13,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 19,
+        "move": "Fake Out"
+      },
+      {
+        "level": 25,
+        "move": "Mega Punch"
+      },
+      {
+        "level": 31,
+        "move": "Rage"
+      },
+      {
+        "level": 37,
+        "move": "Endure"
+      },
+      {
+        "level": 43,
+        "move": "Dizzy Punch"
+      },
+      {
+        "level": 49,
+        "move": "Reversal"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/115.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.894Z"
+  }
+}

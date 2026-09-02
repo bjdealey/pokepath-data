@@ -1,0 +1,68 @@
+{
+  "slug": "unown",
+  "natdex": 201,
+  "name": "Unown",
+  "names": {
+    "japan": "Unknownアンノーン",
+    "french": "Zarbi",
+    "german": "Icognito",
+    "korean": "안농"
+  },
+  "types": [
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Symbol Pokémon",
+  "heightM": 0.5,
+  "weightKg": 5,
+  "captureRate": 225,
+  "baseEggSteps": 10240,
+  "eggGroups": [],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Unown"
+    }
+  ],
+  "baseStats": {
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "spAttack": 72,
+    "spDefense": 48,
+    "speed": 48,
+    "total": 336
+  },
+  "evolutionChain": [
+    "unown"
+  ],
+  "flavorText": {
+    "ruby": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known.",
+    "sapphire": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known.",
+    "emerald": "This POKéMON is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various UNOWN.",
+    "firered": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+    "leafgreen": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "None",
+    "firered": "Dilford Chamber, Liptoo Chamber, Monean Chamber, Rixy Chamber, Scufib Chamber, Viapolis Chamber, Weepth Chamber",
+    "leafgreen": "Dilford Chamber, Liptoo Chamber, Monean Chamber, Rixy Chamber, Scufib Chamber, Viapolis Chamber, Weepth Chamber",
+    "colosseum": "None",
+    "xd": ""
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Hidden Power"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/201.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.422Z"
+  }
+}

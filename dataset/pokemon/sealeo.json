@@ -1,0 +1,222 @@
+{
+  "slug": "sealeo",
+  "natdex": 364,
+  "name": "Sealeo",
+  "names": {
+    "japan": "Todogglerトドグラー",
+    "french": "Phogleur",
+    "german": "Seejong",
+    "korean": "씨레오"
+  },
+  "types": [
+    "ice",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Ball Roll Pokémon",
+  "heightM": 1.1,
+  "weightKg": 87.6,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat",
+      "description": "Fire & Ice Type moves do 50% Damage on Sealeo"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "spAttack": 75,
+    "spDefense": 70,
+    "speed": 45,
+    "total": 410
+  },
+  "evolutionChain": [
+    "spheal",
+    "sealeo",
+    "walrein"
+  ],
+  "flavorText": {
+    "ruby": "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
+    "sapphire": "SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not.",
+    "emerald": "SEALEO live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+    "firered": "It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose.",
+    "leafgreen": "It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose."
+  },
+  "locations": {
+    "ruby": "Evolve Spheal",
+    "sapphire": "Evolve Spheal",
+    "emerald": "Evolve Spheal",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Spheal"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Powder Snow"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Encore"
+      },
+      {
+        "level": 7,
+        "move": "Encore"
+      },
+      {
+        "level": 13,
+        "move": "Ice Ball"
+      },
+      {
+        "level": 19,
+        "move": "Body Slam"
+      },
+      {
+        "level": 25,
+        "move": "Aurora Beam"
+      },
+      {
+        "level": 31,
+        "move": "Hail"
+      },
+      {
+        "level": 39,
+        "move": "Rest"
+      },
+      {
+        "level": 39,
+        "move": "Snore"
+      },
+      {
+        "level": 47,
+        "move": "Blizzard"
+      },
+      {
+        "level": 55,
+        "move": "Sheer Cold"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/364.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.485Z"
+  }
+}

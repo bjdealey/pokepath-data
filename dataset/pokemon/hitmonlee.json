@@ -1,0 +1,205 @@
+{
+  "slug": "hitmonlee",
+  "natdex": 106,
+  "name": "Hitmonlee",
+  "names": {
+    "japan": "Sawamularサワムラー",
+    "french": "Kicklee",
+    "german": "Kicklee",
+    "korean": "시라소몬"
+  },
+  "types": [
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Kicking Pokémon",
+  "heightM": 1.5,
+  "weightKg": 49.8,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Limber",
+      "description": "Hitmonlee cannot be Paralyzed"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "spAttack": 35,
+    "spDefense": 110,
+    "speed": 87,
+    "total": 455
+  },
+  "evolutionChain": [
+    "tyrogue",
+    "hitmonchan",
+    "hitmonlee",
+    "hitmontop"
+  ],
+  "flavorText": {
+    "ruby": "HITMONLEE's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "sapphire": "HITMONLEE's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "emerald": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+    "firered": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+    "leafgreen": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra-long, loping strides."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Obtained after defeating Fighting Dojo in Saffron City",
+    "leafgreen": "Obtained after defeating Fighting Dojo in Saffron City",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Petro in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Revenge"
+      },
+      {
+        "level": null,
+        "move": "Double Kick"
+      },
+      {
+        "level": 6,
+        "move": "Meditate"
+      },
+      {
+        "level": 11,
+        "move": "Rolling Kick"
+      },
+      {
+        "level": 16,
+        "move": "Jump Kick"
+      },
+      {
+        "level": 20,
+        "move": "Brick Break"
+      },
+      {
+        "level": 21,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 26,
+        "move": "Hi Jump Kick"
+      },
+      {
+        "level": 31,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 36,
+        "move": "Foresight"
+      },
+      {
+        "level": 41,
+        "move": "Endure"
+      },
+      {
+        "level": 46,
+        "move": "Mega Kick"
+      },
+      {
+        "level": 51,
+        "move": "Reversal"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/106.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.832Z"
+  }
+}

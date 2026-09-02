@@ -1,0 +1,184 @@
+{
+  "slug": "farfetchd",
+  "natdex": 83,
+  "name": "Farfetch'd",
+  "names": {
+    "japan": "Kamonegiカモネギ",
+    "french": "Canarticho",
+    "german": "Porenta",
+    "korean": "파오리"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Wild Duck Pokémon",
+  "heightM": 0.8,
+  "weightKg": 15,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Keen Eye: Farfetch'd's Accuracy cannot be Lowered by OpponentInner Focus: Prevents Flinching"
+    },
+    {
+      "name": "Inner Focus",
+      "description": "Keen Eye: Farfetch'd's Accuracy cannot be Lowered by OpponentInner Focus: Prevents Flinching"
+    }
+  ],
+  "baseStats": {
+    "hp": 52,
+    "attack": 65,
+    "defense": 55,
+    "spAttack": 58,
+    "spDefense": 62,
+    "speed": 60,
+    "total": 352
+  },
+  "evolutionChain": [
+    "farfetchd"
+  ],
+  "flavorText": {
+    "ruby": "FARFETCH'D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This POKéMON has been known to fight with others over sticks.",
+    "sapphire": "FARFETCH'D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This POKéMON has been known to fight with others over sticks.",
+    "emerald": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This POKéMON occasionally fights with others over choice sticks.",
+    "firered": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+    "leafgreen": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Trade for Spearow in Vermillion City",
+    "leafgreen": "Trade for Spearow in Vermillion City",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Lovrina in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": 6,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 11,
+        "move": "Leer"
+      },
+      {
+        "level": 16,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 21,
+        "move": "Knock Off"
+      },
+      {
+        "level": 26,
+        "move": "Fury Cutter"
+      },
+      {
+        "level": 31,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 36,
+        "move": "Agility"
+      },
+      {
+        "level": 41,
+        "move": "Slash"
+      },
+      {
+        "level": 46,
+        "move": "False Swipe"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/083.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.686Z"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "skitty",
+  "natdex": 300,
+  "name": "Skitty",
+  "names": {
+    "japan": "Enecoエネコ",
+    "french": "Skitty",
+    "german": "Eneco",
+    "korean": "에나비"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Kitten Pokémon",
+  "heightM": 0.6,
+  "weightKg": 11,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm",
+      "description": "When a Pokémon makes contact with Skitty, it has a 30% chance of being Infatuated (if of opposite gender)"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 45,
+    "defense": 45,
+    "spAttack": 35,
+    "spDefense": 35,
+    "speed": 50,
+    "total": 260
+  },
+  "evolutionChain": [
+    "skitty",
+    "delcatty"
+  ],
+  "flavorText": {
+    "ruby": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy.",
+    "sapphire": "SKITTY is known to chase around playfully after its own tail. In the wild, this POKéMON lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+    "emerald": "A SKITTY's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.",
+    "firered": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior.",
+    "leafgreen": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior."
+  },
+  "locations": {
+    "ruby": "Route 116",
+    "sapphire": "Route 116",
+    "emerald": "Route 116",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 3,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 7,
+        "move": "Attract"
+      },
+      {
+        "level": 13,
+        "move": "Sing"
+      },
+      {
+        "level": 15,
+        "move": "Doubleslap"
+      },
+      {
+        "level": 19,
+        "move": "Assist"
+      },
+      {
+        "level": 25,
+        "move": "Charm"
+      },
+      {
+        "level": 27,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 31,
+        "move": "Covet"
+      },
+      {
+        "level": 37,
+        "move": "Heal Bell"
+      },
+      {
+        "level": 39,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/300.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.033Z"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "lickitung",
+  "natdex": 108,
+  "name": "Lickitung",
+  "names": {
+    "japan": "Beroringaベロリンガ",
+    "french": "Excelangue",
+    "german": "Schlurp",
+    "korean": "내루미"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Licking Pokémon",
+  "heightM": 1.2,
+  "weightKg": 65.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious",
+      "description": "Oblivious: Prevents Lickitung from being InfatuatedOwn Tempo: Prevents Lickitung from being Confused"
+    },
+    {
+      "name": "Own Tempo",
+      "description": "Oblivious: Prevents Lickitung from being InfatuatedOwn Tempo: Prevents Lickitung from being Confused"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "spAttack": 60,
+    "spDefense": 75,
+    "speed": 30,
+    "total": 385
+  },
+  "evolutionChain": [
+    "lickitung"
+  ],
+  "flavorText": {
+    "ruby": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+    "sapphire": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+    "emerald": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
+    "firered": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
+    "leafgreen": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Trade for Golduck in Route 18 Gate",
+    "leafgreen": "Trade for Slowbro in Route 18 Gate",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Gefta in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Lick"
+      },
+      {
+        "level": 7,
+        "move": "Supersonic"
+      },
+      {
+        "level": 12,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 18,
+        "move": "Knock Off"
+      },
+      {
+        "level": 23,
+        "move": "Stomp"
+      },
+      {
+        "level": 29,
+        "move": "Wrap"
+      },
+      {
+        "level": 34,
+        "move": "Disable"
+      },
+      {
+        "level": 40,
+        "move": "Slam"
+      },
+      {
+        "level": 45,
+        "move": "Screech"
+      },
+      {
+        "level": 51,
+        "move": "Refresh"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/108.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.845Z"
+  }
+}

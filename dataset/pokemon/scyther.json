@@ -1,0 +1,188 @@
+{
+  "slug": "scyther",
+  "natdex": 123,
+  "name": "Scyther",
+  "names": {
+    "japan": "Strikeストライク",
+    "french": "Insécateur",
+    "german": "Sichlor",
+    "korean": "스라크"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mantis Pokémon",
+  "heightM": 1.5,
+  "weightKg": 56,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "When Scyther's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "spAttack": 55,
+    "spDefense": 80,
+    "speed": 105,
+    "total": 500
+  },
+  "evolutionChain": [
+    "scyther",
+    "scizor"
+  ],
+  "flavorText": {
+    "ruby": "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This POKéMON's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+    "sapphire": "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This POKéMON's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+    "emerald": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+    "firered": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+    "leafgreen": "With ninja-like agility and speed, it can create the illusion that there is more than one of itself."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/XD",
+    "sapphire": "Trade from FireRed/XD",
+    "emerald": "Trade from FireRed/XD",
+    "firered": "Safari Zone Areas 1 & Center",
+    "leafgreen": "Trade from FireRed/XD",
+    "colosseum": "Trade from FireRed/XD",
+    "xd": "Snagged from Cipher Peon Leden in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 6,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 11,
+        "move": "Pursuit"
+      },
+      {
+        "level": 16,
+        "move": "False Swipe"
+      },
+      {
+        "level": 21,
+        "move": "Agility"
+      },
+      {
+        "level": 26,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 31,
+        "move": "Slash"
+      },
+      {
+        "level": 36,
+        "move": "Swords Dance"
+      },
+      {
+        "level": 41,
+        "move": "Double Team"
+      },
+      {
+        "level": 46,
+        "move": "Fury Cutter"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/123.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.942Z"
+  }
+}

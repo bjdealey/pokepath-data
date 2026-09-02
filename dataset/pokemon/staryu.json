@@ -1,0 +1,212 @@
+{
+  "slug": "staryu",
+  "natdex": 120,
+  "name": "Staryu",
+  "names": {
+    "japan": "Hitodemanヒトデマン",
+    "french": "Stari",
+    "german": "Sterndu",
+    "korean": "별가사리"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Starshape Pokémon",
+  "heightM": 0.8,
+  "weightKg": 34.5,
+  "captureRate": 225,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 3"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate",
+      "description": "Illuminate: When Staryu is in the first party slot, Wild Pokémon appearances are more frequentNatural Cure: Status Conditions are healed when withdrawn from Battle"
+    },
+    {
+      "name": "Natural Cure",
+      "description": "Illuminate: When Staryu is in the first party slot, Wild Pokémon appearances are more frequentNatural Cure: Status Conditions are healed when withdrawn from Battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "spAttack": 70,
+    "spDefense": 55,
+    "speed": 85,
+    "total": 340
+  },
+  "evolutionChain": [
+    "staryu",
+    "starmie"
+  ],
+  "flavorText": {
+    "ruby": "STARYU's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these POKéMON look like the stars in the sky.",
+    "sapphire": "STARYU apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this POKéMON simply regenerates the missing pieces and limbs.",
+    "emerald": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+    "firered": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+    "leafgreen": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle."
+  },
+  "locations": {
+    "ruby": "Lilycove City (Fish)",
+    "sapphire": "Lilycove City (Fish)",
+    "emerald": "Lilycove City (Fish)",
+    "firered": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "leafgreen": "Pallet Town, Vermilion City, Cinnabar Island, One Island, Icefall Cave, Five Island",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen",
+    "xd": "Trade from Ruby/Sapphire/Emerald/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 6,
+        "move": "Water Gun"
+      },
+      {
+        "level": 10,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 15,
+        "move": "Recover"
+      },
+      {
+        "level": 19,
+        "move": "Camouflage"
+      },
+      {
+        "level": 24,
+        "move": "Swift"
+      },
+      {
+        "level": 28,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 33,
+        "move": "Minimize"
+      },
+      {
+        "level": 37,
+        "move": "Light Screen"
+      },
+      {
+        "level": 42,
+        "move": "Cosmic Power"
+      },
+      {
+        "level": 46,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/120.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.924Z"
+  }
+}

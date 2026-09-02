@@ -1,0 +1,223 @@
+{
+  "slug": "banette",
+  "natdex": 354,
+  "name": "Banette",
+  "names": {
+    "japan": "Juppetaジュペッタ",
+    "french": "Branette",
+    "german": "Banette",
+    "korean": "다크펫"
+  },
+  "types": [
+    "ghost"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Marionette Pokémon",
+  "heightM": 1.1,
+  "weightKg": 12.5,
+  "captureRate": 45,
+  "baseEggSteps": 6400,
+  "eggGroups": [
+    "Indeterminate"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia",
+      "description": "Prevents Banette from being put to Sleep"
+    }
+  ],
+  "baseStats": {
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "spAttack": 83,
+    "spDefense": 63,
+    "speed": 65,
+    "total": 455
+  },
+  "evolutionChain": [
+    "shuppet",
+    "banette"
+  ],
+  "flavorText": {
+    "ruby": "BANETTE generates energy for laying strong curses by sticking pins into its own body. This POKéMON was originally a pitiful plush doll that was thrown away.",
+    "sapphire": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as BANETTE. The POKéMON's energy would escape if it were to ever open its mouth.",
+    "emerald": "An abandoned plush doll became this POKéMON. They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+    "firered": "Strong feelings of hatred turned a puppet into a POKéMON. If it opens its mouth, its cursed energy escapes.",
+    "leafgreen": "Strong feelings of hatred turned a puppet into a POKéMON. If it opens its mouth, its cursed energy escapes."
+  },
+  "locations": {
+    "ruby": "Evolve Shuppet",
+    "sapphire": "Sky Pillar Floors 1, 3 & 5",
+    "emerald": "Sky Pillar Floors 1, 3 & 5",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Cipher Peon Litnar in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Knock Off"
+      },
+      {
+        "level": null,
+        "move": "Screech"
+      },
+      {
+        "level": null,
+        "move": "Night Shade"
+      },
+      {
+        "level": null,
+        "move": "Curse"
+      },
+      {
+        "level": 8,
+        "move": "Screech"
+      },
+      {
+        "level": 13,
+        "move": "Night Shade"
+      },
+      {
+        "level": 20,
+        "move": "Curse"
+      },
+      {
+        "level": 25,
+        "move": "Spite"
+      },
+      {
+        "level": 32,
+        "move": "Will-o-wisp"
+      },
+      {
+        "level": 39,
+        "move": "Faint Attack"
+      },
+      {
+        "level": 48,
+        "move": "Shadow Ball"
+      },
+      {
+        "level": 55,
+        "move": "Snatch"
+      },
+      {
+        "level": 64,
+        "move": "Grudge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM04",
+        "move": "Calm Mind"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/354.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.411Z"
+  }
+}

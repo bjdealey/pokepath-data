@@ -1,0 +1,286 @@
+{
+  "slug": "dragonite",
+  "natdex": 149,
+  "name": "Dragonite",
+  "names": {
+    "japan": "Kairyuカイリュー",
+    "french": "Dracolosse",
+    "german": "Dragoran",
+    "korean": "망나뇽"
+  },
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dragon Pokémon",
+  "heightM": 2.2,
+  "weightKg": 210,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus",
+      "description": "Prevents Flinching"
+    }
+  ],
+  "baseStats": {
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "spAttack": 100,
+    "spDefense": 100,
+    "speed": 80,
+    "total": 600
+  },
+  "evolutionChain": [
+    "dratini",
+    "dragonair",
+    "dragonite"
+  ],
+  "flavorText": {
+    "ruby": "DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted POKéMON that leads lost and foundering ships in a storm to the safety of land.",
+    "sapphire": "DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted POKéMON that leads lost and foundering ships in a storm to the safety of land.",
+    "emerald": "It can circle the globe in just 16 hours. It is a kindhearted POKéMON that leads lost and foundering ships in a storm to the safety of land.",
+    "firered": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+    "leafgreen": "Only a very few people ever see this POKéMON. Its intelligence is said to match that of humans."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Evolve Dragonair",
+    "leafgreen": "Evolve Dragonair",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Wanderer Miror B in Gateon Port"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": null,
+        "move": "Twister"
+      },
+      {
+        "level": 8,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 15,
+        "move": "Twister"
+      },
+      {
+        "level": 22,
+        "move": "Dragon Rage"
+      },
+      {
+        "level": 29,
+        "move": "Slam"
+      },
+      {
+        "level": 38,
+        "move": "Agility"
+      },
+      {
+        "level": 47,
+        "move": "Safeguard"
+      },
+      {
+        "level": 55,
+        "move": "Wing Attack"
+      },
+      {
+        "level": 61,
+        "move": "Outrage"
+      },
+      {
+        "level": 75,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/149.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.102Z"
+  }
+}

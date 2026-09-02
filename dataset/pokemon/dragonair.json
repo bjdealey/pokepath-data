@@ -1,0 +1,225 @@
+{
+  "slug": "dragonair",
+  "natdex": 148,
+  "name": "Dragonair",
+  "names": {
+    "japan": "Hakuryuハクリュー",
+    "french": "Draco",
+    "german": "Dragonir",
+    "korean": "신뇽"
+  },
+  "types": [
+    "dragon"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Dragon Pokémon",
+  "heightM": 4,
+  "weightKg": 16.5,
+  "captureRate": 45,
+  "baseEggSteps": 10240,
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin",
+      "description": "Every Turn Dragonair has a 1 in 3 chance of healing from a Status Condition."
+    }
+  ],
+  "baseStats": {
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "spAttack": 70,
+    "spDefense": 70,
+    "speed": 70,
+    "total": 420
+  },
+  "evolutionChain": [
+    "dratini",
+    "dragonair",
+    "dragonite"
+  ],
+  "flavorText": {
+    "ruby": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+    "sapphire": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+    "emerald": "A DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
+    "firered": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.",
+    "leafgreen": "A mystical POKéMON that exudes a gentle aura. It is said to have the ability to change the weather."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen",
+    "sapphire": "Trade from FireRed/LeafGreen",
+    "emerald": "Trade from FireRed/LeafGreen",
+    "firered": "Safari Zone Areas 1, 2, 3 & Center (Fish)",
+    "leafgreen": "Safari Zone Areas 1, 2, 3 & Center (Fish)",
+    "colosseum": "Trade from FireRed/LeafGreen",
+    "xd": "Trade from FireRed/LeafGreen"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": null,
+        "move": "Twister"
+      },
+      {
+        "level": 8,
+        "move": "Thunder Wave"
+      },
+      {
+        "level": 15,
+        "move": "Twister"
+      },
+      {
+        "level": 22,
+        "move": "Dragon Rage"
+      },
+      {
+        "level": 29,
+        "move": "Slam"
+      },
+      {
+        "level": 38,
+        "move": "Agility"
+      },
+      {
+        "level": 47,
+        "move": "Safeguard"
+      },
+      {
+        "level": 56,
+        "move": "Outrage"
+      },
+      {
+        "level": 65,
+        "move": "Hyper Beam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/148.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.093Z"
+  }
+}

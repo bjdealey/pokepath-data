@@ -1,0 +1,219 @@
+{
+  "slug": "raticate",
+  "natdex": 20,
+  "name": "Raticate",
+  "names": {
+    "japan": "Rattaラッタ",
+    "french": "Rattatac",
+    "german": "Rattikarl",
+    "korean": "레트라"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mouse Pokémon",
+  "heightM": 0.7,
+  "weightKg": 18.5,
+  "captureRate": 127,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Raticate can escape from Wild BattlesGuts: When Raticate is inflicted with a status condition, it's attack is raised by 50%"
+    },
+    {
+      "name": "Guts",
+      "description": "Run Away: Raticate can escape from Wild BattlesGuts: When Raticate is inflicted with a status condition, it's attack is raised by 50%"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 81,
+    "defense": 60,
+    "spAttack": 50,
+    "spDefense": 70,
+    "speed": 97,
+    "total": 413
+  },
+  "evolutionChain": [
+    "rattata",
+    "raticate"
+  ],
+  "flavorText": {
+    "ruby": "RATICATE's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "sapphire": "RATICATE's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "emerald": "A RATICATE's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "firered": "Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.",
+    "leafgreen": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Routes 17, 18 & Pokémon Mansion",
+    "leafgreen": "Routes 17, 18 & Pokémon Mansion",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Chaser Furgy in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Hyper Fang"
+      },
+      {
+        "level": 20,
+        "move": "Scary Face"
+      },
+      {
+        "level": 30,
+        "move": "Pursuit"
+      },
+      {
+        "level": 40,
+        "move": "Super Fang"
+      },
+      {
+        "level": 50,
+        "move": "Endeavor"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/020.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.251Z"
+  }
+}

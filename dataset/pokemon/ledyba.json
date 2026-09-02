@@ -1,0 +1,204 @@
+{
+  "slug": "ledyba",
+  "natdex": 165,
+  "name": "Ledyba",
+  "names": {
+    "japan": "Redibaレディバ",
+    "french": "Coxy",
+    "german": "Ledyba",
+    "korean": "레디바"
+  },
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Five Star Pokémon",
+  "heightM": 1,
+  "weightKg": 10.8,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm",
+      "description": "Swarm: When Ledyba's HP Gets Low, It's Bug type attack's power is multiplied by 1.5Early Bird: If afflicted with Sleep, Ledyba wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Swarm: When Ledyba's HP Gets Low, It's Bug type attack's power is multiplied by 1.5Early Bird: If afflicted with Sleep, Ledyba wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "spAttack": 40,
+    "spDefense": 80,
+    "speed": 55,
+    "total": 265
+  },
+  "evolutionChain": [
+    "ledyba",
+    "ledian"
+  ],
+  "flavorText": {
+    "ruby": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid's scent.",
+    "sapphire": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid's scent.",
+    "emerald": "LEDYBA communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.",
+    "firered": "When the weather turns cold, numerous LEDYBA gather from everywhere to cluster and keep each other warm.",
+    "leafgreen": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "sapphire": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "emerald": "Safari Zone Extention",
+    "firered": "Pattern Bush",
+    "leafgreen": "Pattern Bush",
+    "colosseum": "Trade from Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Casual Guy Cyle in Gateon Port"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 8,
+        "move": "Supersonic"
+      },
+      {
+        "level": 15,
+        "move": "Comet Punch"
+      },
+      {
+        "level": 22,
+        "move": "Light Screen"
+      },
+      {
+        "level": 22,
+        "move": "Reflect"
+      },
+      {
+        "level": 22,
+        "move": "Safeguard"
+      },
+      {
+        "level": 29,
+        "move": "Baton Pass"
+      },
+      {
+        "level": 36,
+        "move": "Swift"
+      },
+      {
+        "level": 43,
+        "move": "Agility"
+      },
+      {
+        "level": 50,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/165.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.200Z"
+  }
+}

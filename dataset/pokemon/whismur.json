@@ -1,0 +1,201 @@
+{
+  "slug": "whismur",
+  "natdex": 293,
+  "name": "Whismur",
+  "names": {
+    "japan": "Gonyonyoゴニョニョ",
+    "french": "Chuchmur",
+    "german": "Flurmel",
+    "korean": "소곤룡"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Whisper Pokémon",
+  "heightM": 0.6,
+  "weightKg": 16.3,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Soundproof",
+      "description": "Whismur is unaffected by Sound moves"
+    }
+  ],
+  "baseStats": {
+    "hp": 64,
+    "attack": 51,
+    "defense": 23,
+    "spAttack": 51,
+    "spDefense": 23,
+    "speed": 28,
+    "total": 240
+  },
+  "evolutionChain": [
+    "whismur",
+    "loudred",
+    "exploud"
+  ],
+  "flavorText": {
+    "ruby": "Normally, WHISMUR's voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume.",
+    "sapphire": "WHISMUR is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the POKéMON goes to sleep, all tired out.",
+    "emerald": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
+    "firered": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+    "leafgreen": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut."
+  },
+  "locations": {
+    "ruby": "Route 116, Rusturf Tunnel, Victory Road",
+    "sapphire": "Route 116, Rusturf Tunnel, Victory Road",
+    "emerald": "Route 106, Desert Underpass, Rusturf Tunnel, Victory Road",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": 5,
+        "move": "Uproar"
+      },
+      {
+        "level": 11,
+        "move": "Astonish"
+      },
+      {
+        "level": 15,
+        "move": "Howl"
+      },
+      {
+        "level": 21,
+        "move": "Supersonic"
+      },
+      {
+        "level": 25,
+        "move": "Stomp"
+      },
+      {
+        "level": 31,
+        "move": "Screech"
+      },
+      {
+        "level": 35,
+        "move": "Roar"
+      },
+      {
+        "level": 41,
+        "move": "Rest"
+      },
+      {
+        "level": 41,
+        "move": "Sleep Talk"
+      },
+      {
+        "level": 45,
+        "move": "Hyper Voice"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/293.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.989Z"
+  }
+}

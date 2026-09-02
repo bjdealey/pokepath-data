@@ -1,0 +1,193 @@
+{
+  "slug": "weepinbell",
+  "natdex": 70,
+  "name": "Weepinbell",
+  "names": {
+    "japan": "Utsudonウツドン",
+    "french": "Boustiflor",
+    "german": "Ultrigaria",
+    "korean": "우츠동"
+  },
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Flycatcher Pokémon",
+  "heightM": 1,
+  "weightKg": 6.4,
+  "captureRate": 120,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Weepinbell's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "spAttack": 85,
+    "spDefense": 45,
+    "speed": 55,
+    "total": 390
+  },
+  "evolutionChain": [
+    "bellsprout",
+    "weepinbell",
+    "victreebel"
+  ],
+  "flavorText": {
+    "ruby": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+    "sapphire": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+    "emerald": "At night, a WEEPINBELL hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
+    "firered": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+    "leafgreen": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
+  },
+  "locations": {
+    "ruby": "Trade from LeafGreen/XD",
+    "sapphire": "Trade from LeafGreen/XD",
+    "emerald": "Trade from LeafGreen/XD",
+    "firered": "Trade from LeafGreen/XD",
+    "leafgreen": "Routes 12, 13, 14, 15, Berry Forest, Bond Bridge, Cape Brink, Water Path",
+    "colosseum": "Trade from LeafGreen/XD",
+    "xd": "Snagged from Cipher Peon Angic in Cipher Key Lair"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Vine Whip"
+      },
+      {
+        "level": null,
+        "move": "Growth"
+      },
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": 6,
+        "move": "Growth"
+      },
+      {
+        "level": 11,
+        "move": "Wrap"
+      },
+      {
+        "level": 15,
+        "move": "Sleep Powder"
+      },
+      {
+        "level": 17,
+        "move": "Poisonpowder"
+      },
+      {
+        "level": 19,
+        "move": "Stun Spore"
+      },
+      {
+        "level": 24,
+        "move": "Acid"
+      },
+      {
+        "level": 33,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 42,
+        "move": "Razor Leaf"
+      },
+      {
+        "level": 54,
+        "move": "Slam"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/070.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.596Z"
+  }
+}

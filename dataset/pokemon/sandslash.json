@@ -1,0 +1,211 @@
+{
+  "slug": "sandslash",
+  "natdex": 28,
+  "name": "Sandslash",
+  "names": {
+    "japan": "Sandpanサンドパン",
+    "french": "Sablaireau",
+    "german": "Sandamer",
+    "korean": "고지"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mouse Pokémon",
+  "heightM": 1,
+  "weightKg": 29.5,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Increases Evasion in Sandstorm"
+    }
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "spAttack": 45,
+    "spDefense": 55,
+    "speed": 65,
+    "total": 450
+  },
+  "evolutionChain": [
+    "sandshrew",
+    "sandslash"
+  ],
+  "flavorText": {
+    "ruby": "SANDSLASH's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
+    "sapphire": "SANDSLASH can roll up its body as if it were a ball covered with large spikes. In battle, this POKéMON will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
+    "emerald": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
+    "firered": "It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.",
+    "leafgreen": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
+  },
+  "locations": {
+    "ruby": "Evolve Sandshrew",
+    "sapphire": "Evolve Sandshrew",
+    "emerald": "Evolve Sandshrew",
+    "firered": "Must Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "leafgreen": "Route 23 & Victory Road",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "xd": "Evolve Sandshrew"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Defense Curl"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 6,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 11,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 17,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 24,
+        "move": "Slash"
+      },
+      {
+        "level": 33,
+        "move": "Swift"
+      },
+      {
+        "level": 42,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 52,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 62,
+        "move": "Sandstorm"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/028.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.300Z"
+  }
+}

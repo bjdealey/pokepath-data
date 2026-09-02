@@ -1,0 +1,243 @@
+{
+  "slug": "marowak",
+  "natdex": 105,
+  "name": "Marowak",
+  "names": {
+    "japan": "Garagaraガラガラ",
+    "french": "Ossatueur",
+    "german": "Knogga",
+    "korean": "텅구리"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bone Keeper Pokémon",
+  "heightM": 1,
+  "weightKg": 45,
+  "captureRate": 75,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "description": "Rock Head: Marowak receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Marowak"
+    },
+    {
+      "name": "Lightning Rod",
+      "description": "Rock Head: Marowak receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Marowak"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "spAttack": 50,
+    "spDefense": 80,
+    "speed": 45,
+    "total": 425
+  },
+  "evolutionChain": [
+    "cubone",
+    "marowak"
+  ],
+  "flavorText": {
+    "ruby": "MAROWAK is the evolved form of a CUBONE that has overcome its sadness at the loss of its mother and grown tough. This POKéMON's tempered and hardened spirit is not easily broken.",
+    "sapphire": "MAROWAK is the evolved form of a CUBONE that has overcome its sadness at the loss of its mother and grown tough. This POKéMON's tempered and hardened spirit is not easily broken.",
+    "emerald": "A MAROWAK is the evolved form of a CUBONE that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+    "firered": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+    "leafgreen": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
+  },
+  "locations": {
+    "ruby": "Trade from FireRed/LeafGreen/XD",
+    "sapphire": "Trade from FireRed/LeafGreen/XD",
+    "emerald": "Trade from FireRed/LeafGreen/XD",
+    "firered": "Seavault Canyon, Victory Road Floors 1, 2 & 3",
+    "leafgreen": "Seavault Canyon, Victory Road Floors 1, 2 & 3",
+    "colosseum": "Trade from FireRed/LeafGreen/XD",
+    "xd": "Snagged from Cipher Admin Eldes in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Bone Club"
+      },
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 9,
+        "move": "Bone Club"
+      },
+      {
+        "level": 13,
+        "move": "Headbutt"
+      },
+      {
+        "level": 17,
+        "move": "Leer"
+      },
+      {
+        "level": 21,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 25,
+        "move": "Bonemerang"
+      },
+      {
+        "level": 32,
+        "move": "Rage"
+      },
+      {
+        "level": 39,
+        "move": "False Swipe"
+      },
+      {
+        "level": 46,
+        "move": "Thrash"
+      },
+      {
+        "level": 53,
+        "move": "Bone Rush"
+      },
+      {
+        "level": 61,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/105.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.826Z"
+  }
+}

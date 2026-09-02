@@ -1,0 +1,190 @@
+{
+  "slug": "shedinja",
+  "natdex": 292,
+  "name": "Shedinja",
+  "names": {
+    "japan": "Nukeninヌケニン",
+    "french": "Munja",
+    "german": "Ninjatom",
+    "korean": "껍질몬"
+  },
+  "types": [
+    "bug",
+    "ghost"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Shed Pokémon",
+  "heightM": 0.8,
+  "weightKg": 1.2,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Wonder Guard",
+      "description": "Shedinja is only damaged by Super Effective Attacks"
+    }
+  ],
+  "baseStats": {
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 40,
+    "total": 236
+  },
+  "evolutionChain": [
+    "nincada",
+    "ninjask",
+    "shedinja"
+  ],
+  "flavorText": {
+    "ruby": "SHEDINJA's hard body doesn't move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back.",
+    "sapphire": "SHEDINJA is a peculiar POKéMON. It seems to appear unsought in a POKé BALL after a NINCADA evolves. This bizarre POKéMON is entirely immobile - it doesn't even breathe.",
+    "emerald": "A peculiar POKéMON that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.",
+    "firered": "A most peculiar POKéMON that somehow appears in a POKé BALL when a NINCADA evolves.",
+    "leafgreen": "A most peculiar POKéMON that somehow appears in a POKé BALL when a NINCADA evolves."
+  },
+  "locations": {
+    "ruby": "Evolve Nincada",
+    "sapphire": "Evolve Nincada",
+    "emerald": "Evolve Nincada",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": 5,
+        "move": "Leech Life"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 14,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 19,
+        "move": "Mind Reader"
+      },
+      {
+        "level": 25,
+        "move": "Spite"
+      },
+      {
+        "level": 31,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 38,
+        "move": "Shadow Ball"
+      },
+      {
+        "level": 45,
+        "move": "Grudge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/292.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.979Z"
+  }
+}

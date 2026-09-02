@@ -1,0 +1,233 @@
+{
+  "slug": "claydol",
+  "natdex": 344,
+  "name": "Claydol",
+  "names": {
+    "japan": "Nendollネンドール",
+    "french": "Kaorine",
+    "german": "Lepumentas",
+    "korean": "점토도리"
+  },
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "genderRatio": "genderless",
+  "classification": "Clay Doll Pokémon",
+  "heightM": 1.5,
+  "weightKg": 108,
+  "captureRate": 90,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Mineral"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "description": "Ground Type attacks won't work on Claydol"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "spAttack": 70,
+    "spDefense": 120,
+    "speed": 75,
+    "total": 500
+  },
+  "evolutionChain": [
+    "baltoy",
+    "claydol"
+  ],
+  "flavorText": {
+    "ruby": "CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POKéMON moves about while levitating.",
+    "sapphire": "CLAYDOL is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This POKéMON shoots beams from both its hands.",
+    "emerald": "A CLAYDOL sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the POKéMON's manipulation of psychic power.",
+    "firered": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+    "leafgreen": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move."
+  },
+  "locations": {
+    "ruby": "Sky Pillar Floors 1, 3 & 5",
+    "sapphire": "Sky Pillar Floors 1, 3 & 5",
+    "emerald": "Sky Pillar Floors 1, 3 & 5",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Baltoy"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Teleport"
+      },
+      {
+        "level": null,
+        "move": "Confusion"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 3,
+        "move": "Harden"
+      },
+      {
+        "level": 5,
+        "move": "Rapid Spin"
+      },
+      {
+        "level": 7,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 11,
+        "move": "Psybeam"
+      },
+      {
+        "level": 15,
+        "move": "Rock Tomb"
+      },
+      {
+        "level": 19,
+        "move": "Selfdestruct"
+      },
+      {
+        "level": 25,
+        "move": "Ancientpower"
+      },
+      {
+        "level": 31,
+        "move": "Sandstorm"
+      },
+      {
+        "level": 36,
+        "move": "Hyper Beam"
+      },
+      {
+        "level": 42,
+        "move": "Cosmic Power"
+      },
+      {
+        "level": 55,
+        "move": "Explosion"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM29",
+        "move": "Psychic"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM33",
+        "move": "Reflect"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM48",
+        "move": "Skill Swap"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/344.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.333Z"
+  }
+}

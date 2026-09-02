@@ -1,0 +1,248 @@
+{
+  "slug": "snubbull",
+  "natdex": 209,
+  "name": "Snubbull",
+  "names": {
+    "japan": "Buluブルー",
+    "french": "Snubbull",
+    "german": "Snubbull",
+    "korean": "블루"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 25,
+    "femalePct": 75
+  },
+  "classification": "Fairy Pokémon",
+  "heightM": 0.6,
+  "weightKg": 7.8,
+  "captureRate": 190,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Intimidate: Upon Snubbull's Entry in Battle, all opponent's Attack Stats are loweredRun Away: Snubbull can escape from Wild Battles"
+    },
+    {
+      "name": "Run Away",
+      "description": "Intimidate: Upon Snubbull's Entry in Battle, all opponent's Attack Stats are loweredRun Away: Snubbull can escape from Wild Battles"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "spAttack": 40,
+    "spDefense": 40,
+    "speed": 30,
+    "total": 300
+  },
+  "evolutionChain": [
+    "snubbull",
+    "granbull"
+  ],
+  "flavorText": {
+    "ruby": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
+    "sapphire": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
+    "emerald": "By baring its fangs and making a scary face, it sends smaller POKéMON scurrying in terror. The SNUBBULL does seem a little sad at making its foes flee.",
+    "firered": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+    "leafgreen": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald",
+    "sapphire": "Trade from Emerald",
+    "emerald": "Safari Zone Extention",
+    "firered": "Trade from Emerald",
+    "leafgreen": "Trade from Emerald",
+    "colosseum": "Trade from Emerald",
+    "xd": "Trade from Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Scary Face"
+      },
+      {
+        "level": 4,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 8,
+        "move": "Charm"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 19,
+        "move": "Lick"
+      },
+      {
+        "level": 26,
+        "move": "Roar"
+      },
+      {
+        "level": 34,
+        "move": "Rage"
+      },
+      {
+        "level": 43,
+        "move": "Take Down"
+      },
+      {
+        "level": 53,
+        "move": "Crunch"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/209.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.470Z"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "shiftry",
+  "natdex": 275,
+  "name": "Shiftry",
+  "names": {
+    "japan": "Dirtengダーテング",
+    "french": "Tengalice",
+    "german": "Tengulist",
+    "korean": "다탱구"
+  },
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Wickid Pokémon",
+  "heightM": 1.3,
+  "weightKg": 59.6,
+  "captureRate": 45,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Chrlorophyll",
+      "description": "Chlorophyll: When Sunny Day is in effect, Shiftry's Speed is DoubledEarly Bird: If afflicted with Sleep, Shiftry wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Chlorophyll: When Sunny Day is in effect, Shiftry's Speed is DoubledEarly Bird: If afflicted with Sleep, Shiftry wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "spAttack": 90,
+    "spDefense": 60,
+    "speed": 80,
+    "total": 480
+  },
+  "evolutionChain": [
+    "seedot",
+    "nuzleaf",
+    "shiftry"
+  ],
+  "flavorText": {
+    "ruby": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+    "sapphire": "SHIFTRY's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This POKéMON chooses to live quietly deep in forests.",
+    "emerald": "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this POKéMON lives in a deep forest where people do not venture.",
+    "firered": "A POKéMON that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+    "leafgreen": "A POKéMON that was feared as a forest guardian. It can read the foe's mind and take preemptive action."
+  },
+  "locations": {
+    "ruby": "Evolve Nuzleaf",
+    "sapphire": "Trade from Ruby/Emerald/XD",
+    "emerald": "Evolve Nuzleaf",
+    "firered": "Trade from Ruby/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Emerald/XD",
+    "colosseum": "Trade from Ruby/Emerald/XD",
+    "xd": "Evolve Nuzleaf"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Harden"
+      },
+      {
+        "level": null,
+        "move": "Growth"
+      },
+      {
+        "level": null,
+        "move": "Nature Power"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/275.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.877Z"
+  }
+}

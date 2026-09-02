@@ -1,0 +1,199 @@
+{
+  "slug": "sandshrew",
+  "natdex": 27,
+  "name": "Sandshrew",
+  "names": {
+    "japan": "Sandサンド",
+    "french": "Sabelette",
+    "german": "Sandan",
+    "korean": "모래두지"
+  },
+  "types": [
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Mouse Pokémon",
+  "heightM": 0.6,
+  "weightKg": 12,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Increases Evasion in Sandstorm"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "spAttack": 20,
+    "spDefense": 30,
+    "speed": 40,
+    "total": 300
+  },
+  "evolutionChain": [
+    "sandshrew",
+    "sandslash"
+  ],
+  "flavorText": {
+    "ruby": "SANDSHREW's body is configured to absorb water without waste, enabling it to survive in an arid desert. This POKéMON curls up to protect itself from its enemies.",
+    "sapphire": "SANDSHREW has a very dry hide that is extremely tough. The POKéMON can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+    "emerald": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+    "firered": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+    "leafgreen": "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey."
+  },
+  "locations": {
+    "ruby": "Route 113",
+    "sapphire": "Route 113",
+    "emerald": "Route 113, Desert, Mirage Tower",
+    "firered": "Must Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "leafgreen": "Routes 4, 8, 9, 10, 11, 22 & 23",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/LeafGreen/XD",
+    "xd": "Desert PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": 6,
+        "move": "Defense Curl"
+      },
+      {
+        "level": 11,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 17,
+        "move": "Poison Sting"
+      },
+      {
+        "level": 23,
+        "move": "Slash"
+      },
+      {
+        "level": 30,
+        "move": "Swift"
+      },
+      {
+        "level": 37,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 45,
+        "move": "Sand Tomb"
+      },
+      {
+        "level": 53,
+        "move": "Sandstorm"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/027.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.295Z"
+  }
+}

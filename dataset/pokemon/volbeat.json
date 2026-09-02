@@ -1,0 +1,216 @@
+{
+  "slug": "volbeat",
+  "natdex": 313,
+  "name": "Volbeat",
+  "names": {
+    "japan": "Barubeatバルビート",
+    "french": "Muciole",
+    "german": "Volbeat",
+    "korean": "볼비트"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 100,
+    "femalePct": 0
+  },
+  "classification": "Firefly Pokémon",
+  "heightM": 0.7,
+  "weightKg": 17.7,
+  "captureRate": 150,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug",
+    "HumanShape"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate",
+      "description": "Illuminate: When Volbeat is in the first party slot, Wild Pokémon appearances are more frequentSwarm: When Volbeat's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    },
+    {
+      "name": "Swarm",
+      "description": "Illuminate: When Volbeat is in the first party slot, Wild Pokémon appearances are more frequentSwarm: When Volbeat's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 65,
+    "attack": 73,
+    "defense": 55,
+    "spAttack": 47,
+    "spDefense": 75,
+    "speed": 85,
+    "total": 400
+  },
+  "evolutionChain": [
+    "volbeat",
+    "illumise"
+  ],
+  "flavorText": {
+    "ruby": "With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POKéMON is attracted by the sweet aroma of ILLUMISE.",
+    "sapphire": "VOLBEAT's tail glows like a lightbulb. With other VOLBEAT, it uses its tail to draw geometric shapes in the night sky. This POKéMON loves the sweet aroma given off by ILLUMISE.",
+    "emerald": "With their taillights lit, VOLBEAT fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.",
+    "firered": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+    "leafgreen": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light."
+  },
+  "locations": {
+    "ruby": "Route 117",
+    "sapphire": "Route 117",
+    "emerald": "Route 117",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Confuse Ray"
+      },
+      {
+        "level": 9,
+        "move": "Double Team"
+      },
+      {
+        "level": 13,
+        "move": "Moonlight"
+      },
+      {
+        "level": 17,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 21,
+        "move": "Tail Glow"
+      },
+      {
+        "level": 25,
+        "move": "Signal Beam"
+      },
+      {
+        "level": 29,
+        "move": "Protect"
+      },
+      {
+        "level": 33,
+        "move": "Helping Hand"
+      },
+      {
+        "level": 37,
+        "move": "Double-edge"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM16",
+        "move": "Light Screen"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/313.shtml",
+    "scrapedAt": "2026-09-02T21:36:14.112Z"
+  }
+}

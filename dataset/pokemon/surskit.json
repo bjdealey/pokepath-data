@@ -1,0 +1,185 @@
+{
+  "slug": "surskit",
+  "natdex": 283,
+  "name": "Surskit",
+  "names": {
+    "japan": "Ametamaアメタマ",
+    "french": "Arakdo",
+    "german": "Gehweiher",
+    "korean": "비구술"
+  },
+  "types": [
+    "bug",
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Pond Skater Pokémon",
+  "heightM": 0.5,
+  "weightKg": 1.7,
+  "captureRate": 200,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Water 1",
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "When Rain Dance is in effect, Surskit's Speed is Doubled"
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "spAttack": 50,
+    "spDefense": 52,
+    "speed": 65,
+    "total": 269
+  },
+  "evolutionChain": [
+    "surskit",
+    "masquerain"
+  ],
+  "flavorText": {
+    "ruby": "From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes.",
+    "sapphire": "If SURSKIT senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some POKéMON that love eating this syrup.",
+    "emerald": "They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.",
+    "firered": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+    "leafgreen": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns."
+  },
+  "locations": {
+    "ruby": "Routes 102, 114, 117 & 120 (Grass), Routes 102, 111, 114, 117, 120 (Surf)",
+    "sapphire": "Routes 102, 114, 117 & 120 (Grass), Routes 102, 111, 114, 117, 120 (Surf)",
+    "emerald": "Newsflash Swarm in Routes 102, 114, 117, 120",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Oasis PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Bubble"
+      },
+      {
+        "level": 7,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 13,
+        "move": "Sweet Scent"
+      },
+      {
+        "level": 19,
+        "move": "Water Sport"
+      },
+      {
+        "level": 25,
+        "move": "Bubblebeam"
+      },
+      {
+        "level": 31,
+        "move": "Agility"
+      },
+      {
+        "level": 37,
+        "move": "Mist"
+      },
+      {
+        "level": 37,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/283.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.924Z"
+  }
+}

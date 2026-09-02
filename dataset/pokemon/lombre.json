@@ -1,0 +1,226 @@
+{
+  "slug": "lombre",
+  "natdex": 271,
+  "name": "Lombre",
+  "names": {
+    "japan": "Hasubreroハスブレロ",
+    "french": "Lombre",
+    "german": "Lombrero",
+    "korean": "로토스"
+  },
+  "types": [
+    "water",
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Jolly Pokémon",
+  "heightM": 1.2,
+  "weightKg": 32.5,
+  "captureRate": 120,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Water 1",
+    "Plant"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim",
+      "description": "Swift Swim: When Rain Dance is in effect, Lombre's Speed is DoubledRain Dish: When Rain Dance is in effect, Lombre recovers 1/16th of it's max hit-points"
+    },
+    {
+      "name": "Rain Dish",
+      "description": "Swift Swim: When Rain Dance is in effect, Lombre's Speed is DoubledRain Dish: When Rain Dance is in effect, Lombre recovers 1/16th of it's max hit-points"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "spAttack": 60,
+    "spDefense": 70,
+    "speed": 50,
+    "total": 340
+  },
+  "evolutionChain": [
+    "lotad",
+    "lombre",
+    "ludicolo"
+  ],
+  "flavorText": {
+    "ruby": "LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
+    "sapphire": "LOMBRE's entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this POKéMON's hands. LOMBRE is often mistaken for a human child.",
+    "emerald": "In the evening, it takes great delight in popping out of rivers and startling people. It feeds on aquatic moss that grows on rocks in the riverbed.",
+    "firered": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+    "leafgreen": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night."
+  },
+  "locations": {
+    "ruby": "Trade from Sapphire/Emerald",
+    "sapphire": "Route 114",
+    "emerald": "Route 114",
+    "firered": "Trade from Sapphire/Emerald",
+    "leafgreen": "Trade from Sapphire/Emerald",
+    "colosseum": "Trade from Sapphire/Emerald",
+    "xd": "Trade from Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Astonish"
+      },
+      {
+        "level": 3,
+        "move": "Growl"
+      },
+      {
+        "level": 7,
+        "move": "Absorb"
+      },
+      {
+        "level": 13,
+        "move": "Nature Power"
+      },
+      {
+        "level": 19,
+        "move": "Fake Out"
+      },
+      {
+        "level": 25,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 31,
+        "move": "Water Sport"
+      },
+      {
+        "level": 37,
+        "move": "Thief"
+      },
+      {
+        "level": 43,
+        "move": "Uproar"
+      },
+      {
+        "level": 49,
+        "move": "Hydro Pump"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/271.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.851Z"
+  }
+}

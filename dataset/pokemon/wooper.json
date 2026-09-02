@@ -1,0 +1,217 @@
+{
+  "slug": "wooper",
+  "natdex": 194,
+  "name": "Wooper",
+  "names": {
+    "japan": "Upahウパー",
+    "french": "Axoloto",
+    "german": "Felino",
+    "korean": "우파"
+  },
+  "types": [
+    "water",
+    "ground"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Water Fish Pokémon",
+  "heightM": 0.4,
+  "weightKg": 8.5,
+  "captureRate": 255,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Water 1",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Damp",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Wooper is healed by up to 25% of Max HP when hit by Water Attacks"
+    },
+    {
+      "name": "Water Absorb",
+      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Wooper is healed by up to 25% of Max HP when hit by Water Attacks"
+    }
+  ],
+  "baseStats": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 45,
+    "spAttack": 25,
+    "spDefense": 25,
+    "speed": 15,
+    "total": 210
+  },
+  "evolutionChain": [
+    "wooper",
+    "quagsire"
+  ],
+  "flavorText": {
+    "ruby": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "sapphire": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+    "emerald": "WOOPER usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+    "firered": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+    "leafgreen": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside."
+  },
+  "locations": {
+    "ruby": "Trade from Emerald/FireRed/XD",
+    "sapphire": "Trade from Emerald/FireRed/XD",
+    "emerald": "Safari Zone Extention (Surf)",
+    "firered": "Four Island, Icefall Cave Entrance & Ruin Valley (Surf), Ruin Valley",
+    "leafgreen": "Trade from Emerald/FireRed/XD",
+    "colosseum": "Trade from Emerald/FireRed/XD",
+    "xd": "Cave PokéSpot"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Water Gun"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 11,
+        "move": "Slam"
+      },
+      {
+        "level": 16,
+        "move": "Mud Shot"
+      },
+      {
+        "level": 21,
+        "move": "Amnesia"
+      },
+      {
+        "level": 31,
+        "move": "Yawn"
+      },
+      {
+        "level": 36,
+        "move": "Earthquake"
+      },
+      {
+        "level": 41,
+        "move": "Rain Dance"
+      },
+      {
+        "level": 51,
+        "move": "Mist"
+      },
+      {
+        "level": 51,
+        "move": "Haze"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM36",
+        "move": "Sludge Bomb"
+      },
+      {
+        "machine": "TM37",
+        "move": "Sandstorm"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/194.shtml",
+    "scrapedAt": "2026-09-02T21:36:13.380Z"
+  }
+}

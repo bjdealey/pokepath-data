@@ -1,0 +1,192 @@
+{
+  "slug": "dodrio",
+  "natdex": 85,
+  "name": "Dodrio",
+  "names": {
+    "japan": "Dodorioドードリオ",
+    "french": "Dodrio",
+    "german": "Dodri",
+    "korean": "두트리오"
+  },
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Triple Bird Pokémon",
+  "heightM": 1.8,
+  "weightKg": 85.2,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Run Away: Dodrio can escape from Wild BattlesEarly Bird: If afflicted with Sleep, Dodrio wakes up in half the time of normal"
+    },
+    {
+      "name": "Early Bird",
+      "description": "Run Away: Dodrio can escape from Wild BattlesEarly Bird: If afflicted with Sleep, Dodrio wakes up in half the time of normal"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 110,
+    "defense": 70,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 100,
+    "total": 460
+  },
+  "evolutionChain": [
+    "doduo",
+    "dodrio"
+  ],
+  "flavorText": {
+    "ruby": "Watch out if DODRIO's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this POKéMON if it's being wary - it may decide to peck you.",
+    "sapphire": "Apparently, the heads aren't the only parts of the body that DODRIO has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
+    "emerald": "A peculiar POKéMON species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
+    "firered": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+    "leafgreen": "Uses its three brains to execute complex plans. While two heads sleep, one head is said to stay awake."
+  },
+  "locations": {
+    "ruby": "Safari Zone Mach Bike Area",
+    "sapphire": "Safari Zone Mach Bike Area",
+    "emerald": "Safari Zone Mach Bike Area",
+    "firered": "Evolve Doduo",
+    "leafgreen": "Evolve Doduo",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/FireRed/LeafGreen/XD",
+    "xd": "Snagged from Chaser Furgy in Citadark Isle"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Peck"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Pursuit"
+      },
+      {
+        "level": null,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 9,
+        "move": "Pursuit"
+      },
+      {
+        "level": 13,
+        "move": "Fury Attack"
+      },
+      {
+        "level": 21,
+        "move": "Tri Attack"
+      },
+      {
+        "level": 25,
+        "move": "Rage"
+      },
+      {
+        "level": 38,
+        "move": "Uproar"
+      },
+      {
+        "level": 47,
+        "move": "Drill Peck"
+      },
+      {
+        "level": 60,
+        "move": "Agility"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM47",
+        "move": "Steel Wing"
+      },
+      {
+        "machine": "HM02",
+        "move": "Fly"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/085.shtml",
+    "scrapedAt": "2026-09-02T21:36:12.702Z"
+  }
+}
