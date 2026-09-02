@@ -1,0 +1,85 @@
+{
+  "slug": "wurmple",
+  "natdex": 265,
+  "name": "Wurmple",
+  "names": {
+    "japan": "Kemussoケムッソ",
+    "french": "Chenipotte",
+    "german": "Waumpel",
+    "korean": "개무소"
+  },
+  "types": [
+    "bug"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Worm Pokémon",
+  "heightM": 0.3,
+  "weightKg": 3.6,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust",
+      "description": "Prevents Wurmple from being hit by additional effects of moves."
+    }
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 35,
+    "spAttack": 20,
+    "spDefense": 30,
+    "speed": 20,
+    "total": 195
+  },
+  "evolutionChain": [
+    "wurmple",
+    "#266",
+    "#267",
+    "#268",
+    "#269"
+  ],
+  "flavorText": {
+    "ruby": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON's feet are tipped with suction pads that allow it to cling to glass without slipping.",
+    "sapphire": "WURMPLE is targeted by SWELLOW as prey. This POKéMON will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
+    "emerald": "It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.",
+    "firered": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe.",
+    "leafgreen": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe."
+  },
+  "locations": {
+    "ruby": "Routes 101, 102 & 104, Petalburg Woods",
+    "sapphire": "Routes 101, 102 & 104, Petalburg Woods",
+    "emerald": "Routes 101, 102 & 104, Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "String Shot"
+      },
+      {
+        "level": 5,
+        "move": "Poison Sting"
+      }
+    ],
+    "machine": []
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/265.shtml",
+    "scrapedAt": "2026-09-02T21:15:34.383Z"
+  }
+}

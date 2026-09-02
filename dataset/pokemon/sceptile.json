@@ -1,0 +1,245 @@
+{
+  "slug": "sceptile",
+  "natdex": 254,
+  "name": "Sceptile",
+  "names": {
+    "japan": "Jukainジュカイン",
+    "french": "Jungko",
+    "german": "Gewaldro",
+    "korean": "나무킹"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Forest Pokémon",
+  "heightM": 1.7,
+  "weightKg": 52.2,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Sceptile's HP Gets Low, It's Grass type attack's power is multiplied by 1.5."
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "spAttack": 105,
+    "spDefense": 85,
+    "speed": 120,
+    "total": 530
+  },
+  "evolutionChain": [
+    "treecko",
+    "grovyle",
+    "sceptile"
+  ],
+  "flavorText": {
+    "ruby": "The leaves growing on SCEPTILE's body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
+    "sapphire": "SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This POKéMON raises the trees in a forest with loving care.",
+    "emerald": "In the jungle, its power is without equal. This POKéMON carefully grows trees and plants. It regulates its body temperature by basking in sunlight.",
+    "firered": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.",
+    "leafgreen": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike."
+  },
+  "locations": {
+    "ruby": "Evolve Grovyle",
+    "sapphire": "Evolve Grovyle",
+    "emerald": "Evolve Grovyle",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Absorb"
+      },
+      {
+        "level": null,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 6,
+        "move": "Absorb"
+      },
+      {
+        "level": 11,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 16,
+        "move": "Fury Cutter"
+      },
+      {
+        "level": 17,
+        "move": "Pursuit"
+      },
+      {
+        "level": 23,
+        "move": "Screech"
+      },
+      {
+        "level": 29,
+        "move": "Leaf Blade"
+      },
+      {
+        "level": 35,
+        "move": "Agility"
+      },
+      {
+        "level": 43,
+        "move": "Slam"
+      },
+      {
+        "level": 51,
+        "move": "Detect"
+      },
+      {
+        "level": 59,
+        "move": "False Swipe"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM02",
+        "move": "Dragon Claw"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/254.shtml",
+    "scrapedAt": "2026-09-02T21:15:17.918Z"
+  }
+}

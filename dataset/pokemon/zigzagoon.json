@@ -1,0 +1,219 @@
+{
+  "slug": "zigzagoon",
+  "natdex": 263,
+  "name": "Zigzagoon",
+  "names": {
+    "japan": "Jiguzagumaジグザグマ",
+    "french": "Zigzaton",
+    "german": "Zigzachs",
+    "korean": "지그제구리"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Tinyracoon Pokémon",
+  "heightM": 0.4,
+  "weightKg": 17.5,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "PickUp",
+      "description": "Has a 10% chance of finding and holding an item after battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 38,
+    "attack": 30,
+    "defense": 41,
+    "spAttack": 30,
+    "spDefense": 41,
+    "speed": 60,
+    "total": 240
+  },
+  "evolutionChain": [
+    "zigzagoon",
+    "linoone"
+  ],
+  "flavorText": {
+    "ruby": "ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see.",
+    "sapphire": "The hair on ZIGZAGOON's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This POKéMON may play dead to fool foes in battle.",
+    "emerald": "Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.",
+    "firered": "A POKéMON with abundant curiosity. It shows an interest in everything, so it always zigs and zags.",
+    "leafgreen": "A POKéMON with abundant curiosity. It shows an interest in everything, so it always zigs and zags."
+  },
+  "locations": {
+    "ruby": "Routes 101, 102, 103, 104, 110, 116, 117, 120, 121 & 123, Petalburg Woods",
+    "sapphire": "Routes 101, 102, 103, 104, 110, 116, 117, 120, 121 & 123, Petalburg Woods",
+    "emerald": "Routes 101, 102, 103, 118 & 119",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 9,
+        "move": "Headbutt"
+      },
+      {
+        "level": 13,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 17,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 21,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 25,
+        "move": "Pin Missile"
+      },
+      {
+        "level": 29,
+        "move": "Covet"
+      },
+      {
+        "level": 33,
+        "move": "Flail"
+      },
+      {
+        "level": 37,
+        "move": "Rest"
+      },
+      {
+        "level": 41,
+        "move": "Belly Drum"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/263.shtml",
+    "scrapedAt": "2026-09-02T21:15:31.494Z"
+  }
+}

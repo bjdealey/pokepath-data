@@ -1,0 +1,221 @@
+{
+  "slug": "combusken",
+  "natdex": 256,
+  "name": "Combusken",
+  "names": {
+    "japan": "Wakasyamoワカシャモ",
+    "french": "Galifeu",
+    "german": "Jungglut",
+    "korean": "영치코"
+  },
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Young Fowl Pokémon",
+  "heightM": 0.9,
+  "weightKg": 19.5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "description": "When Combusken's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "spAttack": 85,
+    "spDefense": 60,
+    "speed": 55,
+    "total": 405
+  },
+  "evolutionChain": [
+    "torchic",
+    "combusken",
+    "blaziken"
+  ],
+  "flavorText": {
+    "ruby": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON's legs possess both speed and power, enabling it to dole out ten kicks in one second.",
+    "sapphire": "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This POKéMON's cry is very loud and distracting.",
+    "emerald": "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.",
+    "firered": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
+    "leafgreen": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power."
+  },
+  "locations": {
+    "ruby": "Evolve Torchic",
+    "sapphire": "Evolve Torchic",
+    "emerald": "Evolve Torchic",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 7,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 13,
+        "move": "Ember"
+      },
+      {
+        "level": 16,
+        "move": "Double Kick"
+      },
+      {
+        "level": 17,
+        "move": "Peck"
+      },
+      {
+        "level": 21,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 28,
+        "move": "Bulk Up"
+      },
+      {
+        "level": 32,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 39,
+        "move": "Slash"
+      },
+      {
+        "level": 43,
+        "move": "Mirror Move"
+      },
+      {
+        "level": 50,
+        "move": "Sky Uppercut"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/256.shtml",
+    "scrapedAt": "2026-09-02T21:15:20.938Z"
+  }
+}

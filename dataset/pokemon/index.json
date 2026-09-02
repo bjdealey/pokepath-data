@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "treecko",
+    "natdex": 252,
+    "name": "Treecko",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "slug": "grovyle",
+    "natdex": 253,
+    "name": "Grovyle",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "slug": "sceptile",
+    "natdex": 254,
+    "name": "Sceptile",
+    "types": [
+      "grass"
+    ]
+  },
+  {
+    "slug": "torchic",
+    "natdex": 255,
+    "name": "Torchic",
+    "types": [
+      "fire"
+    ]
+  },
+  {
+    "slug": "combusken",
+    "natdex": 256,
+    "name": "Combusken",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "slug": "blaziken",
+    "natdex": 257,
+    "name": "Blaziken",
+    "types": [
+      "fire",
+      "fighting"
+    ]
+  },
+  {
+    "slug": "mudkip",
+    "natdex": 258,
+    "name": "Mudkip",
+    "types": [
+      "water"
+    ]
+  },
+  {
+    "slug": "marshtomp",
+    "natdex": 259,
+    "name": "Marshtomp",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "slug": "swampert",
+    "natdex": 260,
+    "name": "Swampert",
+    "types": [
+      "water",
+      "ground"
+    ]
+  },
+  {
+    "slug": "poochyena",
+    "natdex": 261,
+    "name": "Poochyena",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "slug": "mightyena",
+    "natdex": 262,
+    "name": "Mightyena",
+    "types": [
+      "dark"
+    ]
+  },
+  {
+    "slug": "zigzagoon",
+    "natdex": 263,
+    "name": "Zigzagoon",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "slug": "linoone",
+    "natdex": 264,
+    "name": "Linoone",
+    "types": [
+      "normal"
+    ]
+  },
+  {
+    "slug": "wurmple",
+    "natdex": 265,
+    "name": "Wurmple",
+    "types": [
+      "bug"
+    ]
+  }
+]

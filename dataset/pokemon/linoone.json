@@ -1,0 +1,239 @@
+{
+  "slug": "linoone",
+  "natdex": 264,
+  "name": "Linoone",
+  "names": {
+    "japan": "Massugumaマッスグマ",
+    "french": "Linéon",
+    "german": "Geradaks",
+    "korean": "직구리"
+  },
+  "types": [
+    "normal"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Rush Pokémon",
+  "heightM": 0.5,
+  "weightKg": 32.5,
+  "captureRate": 90,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "PickUp",
+      "description": "Has a 10% chance of finding and holding an item after battle"
+    }
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "spAttack": 50,
+    "spDefense": 61,
+    "speed": 100,
+    "total": 420
+  },
+  "evolutionChain": [
+    "zigzagoon",
+    "linoone"
+  ],
+  "flavorText": {
+    "ruby": "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads.",
+    "sapphire": "When hunting, LINOONE will make a beeline straight for the prey at a full run. While this POKéMON is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+    "emerald": "It is exceedingly fast if it only has to run in a straight line. When it spots pond-dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.",
+    "firered": "When running in a straight line, it can top 60 miles per hour. However, it has a tough time with curved roads.",
+    "leafgreen": "When running in a straight line, it can top 60 miles per hour. However, it has a tough time with curved roads."
+  },
+  "locations": {
+    "ruby": "Routes 118, 119, 120, 121 & 123",
+    "sapphire": "Routes 118, 119, 120, 121 & 123",
+    "emerald": "Routes 118 & 119",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Tail Whip"
+      },
+      {
+        "level": null,
+        "move": "Headbutt"
+      },
+      {
+        "level": 5,
+        "move": "Tail Whip"
+      },
+      {
+        "level": 9,
+        "move": "Headbutt"
+      },
+      {
+        "level": 13,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 17,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 23,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 29,
+        "move": "Fury Swipes"
+      },
+      {
+        "level": 35,
+        "move": "Covet"
+      },
+      {
+        "level": 41,
+        "move": "Slash"
+      },
+      {
+        "level": 47,
+        "move": "Rest"
+      },
+      {
+        "level": 53,
+        "move": "Belly Drum"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM24",
+        "move": "Thunderbolt"
+      },
+      {
+        "machine": "TM25",
+        "move": "Thunder"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM34",
+        "move": "Shock Wave"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/264.shtml",
+    "scrapedAt": "2026-09-02T21:15:32.968Z"
+  }
+}

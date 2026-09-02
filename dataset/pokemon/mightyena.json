@@ -1,0 +1,223 @@
+{
+  "slug": "mightyena",
+  "natdex": 262,
+  "name": "Mightyena",
+  "names": {
+    "japan": "Graenaグラエナ",
+    "french": "Grahyèna",
+    "german": "Magnayen",
+    "korean": "그라에나"
+  },
+  "types": [
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bite Pokémon",
+  "heightM": 1,
+  "weightKg": 37,
+  "captureRate": 127,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "description": "Upon Mightyena's Entry in Battle, all opponent's Attack Stats are lowered"
+    }
+  ],
+  "baseStats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "spAttack": 60,
+    "spDefense": 60,
+    "speed": 70,
+    "total": 420
+  },
+  "evolutionChain": [
+    "poochyena",
+    "mightyena"
+  ],
+  "flavorText": {
+    "ruby": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.",
+    "sapphire": "MIGHTYENA travel and act as a pack in the wild. The memory of its life in the wild compels the POKéMON to obey only those TRAINERS that it recognizes to possess superior skill.",
+    "emerald": "In the wild, MIGHTYENA live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.",
+    "firered": "It will always obey the commands of a skilled TRAINER. Its behavior arises from its living in packs in ancient times.",
+    "leafgreen": "It will always obey the commands of a skilled TRAINER. Its behavior arises from its living in packs in ancient times."
+  },
+  "locations": {
+    "ruby": "Evolve Poochyena",
+    "sapphire": "Evolve Poochyena",
+    "emerald": "Routes 120, 121 & 123",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Evolve Poochyena"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Howl"
+      },
+      {
+        "level": null,
+        "move": "Sand-attack"
+      },
+      {
+        "level": null,
+        "move": "Bite"
+      },
+      {
+        "level": 5,
+        "move": "Howl"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 17,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 22,
+        "move": "Roar"
+      },
+      {
+        "level": 27,
+        "move": "Swagger"
+      },
+      {
+        "level": 32,
+        "move": "Scary Face"
+      },
+      {
+        "level": 37,
+        "move": "Take Down"
+      },
+      {
+        "level": 42,
+        "move": "Taunt"
+      },
+      {
+        "level": 47,
+        "move": "Crunch"
+      },
+      {
+        "level": 52,
+        "move": "Thief"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/262.shtml",
+    "scrapedAt": "2026-09-02T21:15:29.955Z"
+  }
+}

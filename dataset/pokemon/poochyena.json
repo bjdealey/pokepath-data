@@ -1,0 +1,203 @@
+{
+  "slug": "poochyena",
+  "natdex": 261,
+  "name": "Poochyena",
+  "names": {
+    "japan": "Pochienaポチエナ",
+    "french": "Medhyèna",
+    "german": "Fiffyen",
+    "korean": "포챠나"
+  },
+  "types": [
+    "dark"
+  ],
+  "genderRatio": {
+    "malePct": 50,
+    "femalePct": 50
+  },
+  "classification": "Bite Pokémon",
+  "heightM": 0.5,
+  "weightKg": 13.6,
+  "captureRate": 255,
+  "baseEggSteps": 3840,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away",
+      "description": "Poochyena can escape from Wild Battles"
+    }
+  ],
+  "baseStats": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 35,
+    "spAttack": 30,
+    "spDefense": 30,
+    "speed": 35,
+    "total": 220
+  },
+  "evolutionChain": [
+    "poochyena",
+    "mightyena"
+  ],
+  "flavorText": {
+    "ruby": "At first sight, POOCHYENA takes a bite at anything that moves. This POKéMON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+    "sapphire": "POOCHYENA is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This POKéMON tries to intimidate its foes by making the hair on its tail bristle out.",
+    "emerald": "It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.",
+    "firered": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
+    "leafgreen": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track."
+  },
+  "locations": {
+    "ruby": "Routes 101, 102 & 103",
+    "sapphire": "Routes 101, 102 & 103",
+    "emerald": "Routes 101, 102, 103, 104, 110, 116, 117, 120, 121 & 123, Petalburg Woods",
+    "firered": "Trade from Ruby/Sapphire/Emerald/XD",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald/XD",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald/XD",
+    "xd": "Snagged from Bodybuilder Kilen in Gateon Port"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": 5,
+        "move": "Howl"
+      },
+      {
+        "level": 9,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 13,
+        "move": "Bite"
+      },
+      {
+        "level": 17,
+        "move": "Odor Sleuth"
+      },
+      {
+        "level": 21,
+        "move": "Roar"
+      },
+      {
+        "level": 25,
+        "move": "Swagger"
+      },
+      {
+        "level": 29,
+        "move": "Scary Face"
+      },
+      {
+        "level": 33,
+        "move": "Take Down"
+      },
+      {
+        "level": 37,
+        "move": "Taunt"
+      },
+      {
+        "level": 41,
+        "move": "Crunch"
+      },
+      {
+        "level": 45,
+        "move": "Thief"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM12",
+        "move": "Taunt"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM30",
+        "move": "Shadow Ball"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM41",
+        "move": "Torment"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM46",
+        "move": "Thief"
+      },
+      {
+        "machine": "TM49",
+        "move": "Snatch"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/261.shtml",
+    "scrapedAt": "2026-09-02T21:15:28.519Z"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "slug": "mudkip",
+  "natdex": 258,
+  "name": "Mudkip",
+  "names": {
+    "japan": "Mizugorouミズゴロウ",
+    "french": "Gobou",
+    "german": "Hydropi",
+    "korean": "물짱이"
+  },
+  "types": [
+    "water"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Mud Fish Pokémon",
+  "heightM": 0.4,
+  "weightKg": 7.6,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent",
+      "description": "When Mudkip's HP Gets Low, It's Water type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "spAttack": 50,
+    "spDefense": 50,
+    "speed": 40,
+    "total": 310
+  },
+  "evolutionChain": [
+    "mudkip",
+    "marshtomp",
+    "swampert"
+  ],
+  "flavorText": {
+    "ruby": "The fin on MUDKIP's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
+    "sapphire": "In water, MUDKIP breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this POKéMON will unleash its amazing power - it can crush rocks bigger than itself.",
+    "emerald": "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.",
+    "firered": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+    "leafgreen": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size."
+  },
+  "locations": {
+    "ruby": "Starter Pokémon Obtained in Littleroot Town",
+    "sapphire": "Starter Pokémon Obtained in Littleroot Town",
+    "emerald": "Starter Pokémon Obtained in Littleroot Town",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Tackle"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": 6,
+        "move": "Mud-slap"
+      },
+      {
+        "level": 10,
+        "move": "Water Gun"
+      },
+      {
+        "level": 15,
+        "move": "Bide"
+      },
+      {
+        "level": 19,
+        "move": "Foresight"
+      },
+      {
+        "level": 24,
+        "move": "Mud Sport"
+      },
+      {
+        "level": 28,
+        "move": "Take Down"
+      },
+      {
+        "level": 33,
+        "move": "Whirlpool"
+      },
+      {
+        "level": 37,
+        "move": "Protect"
+      },
+      {
+        "level": 42,
+        "move": "Hydro Pump"
+      },
+      {
+        "level": 46,
+        "move": "Endeavor"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM03",
+        "move": "Water Pulse"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM07",
+        "move": "Hail"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM13",
+        "move": "Ice Beam"
+      },
+      {
+        "machine": "TM14",
+        "move": "Blizzard"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM18",
+        "move": "Rain Dance"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM03",
+        "move": "Surf"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      },
+      {
+        "machine": "HM07",
+        "move": "Waterfall"
+      },
+      {
+        "machine": "HM08",
+        "move": "Dive"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/258.shtml",
+    "scrapedAt": "2026-09-02T21:15:23.913Z"
+  }
+}

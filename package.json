@@ -1,0 +1,20 @@
+{
+  "name": "pokepath-data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Serebii scraper -> canonical JSON dataset for the pokepath ecosystem.",
+  "scripts": {
+    "scrape": "node src/run.ts",
+    "inspect": "node src/inspect.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "typescript": "^5.7.0"
+  }
+}

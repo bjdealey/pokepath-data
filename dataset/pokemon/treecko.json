@@ -1,0 +1,217 @@
+{
+  "slug": "treecko",
+  "natdex": 252,
+  "name": "Treecko",
+  "names": {
+    "japan": "Kimoriキモリ",
+    "french": "Arcko",
+    "german": "Geckarbor",
+    "korean": "나무지기"
+  },
+  "types": [
+    "grass"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Wood Gecko Pokémon",
+  "heightM": 0.5,
+  "weightKg": 5,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "When Treecko's HP Gets Low, It's Grass type attack's power is multiplied by 1.5."
+    }
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "spAttack": 65,
+    "spDefense": 55,
+    "speed": 70,
+    "total": 310
+  },
+  "evolutionChain": [
+    "treecko",
+    "grovyle",
+    "sceptile"
+  ],
+  "flavorText": {
+    "ruby": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail.",
+    "sapphire": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground.",
+    "emerald": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.",
+    "firered": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.",
+    "leafgreen": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather."
+  },
+  "locations": {
+    "ruby": "Starter Pokémon Obtained in Littleroot Town",
+    "sapphire": "Starter Pokémon Obtained in Littleroot Town",
+    "emerald": "Starter Pokémon Obtained in Littleroot Town",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Pound"
+      },
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": 6,
+        "move": "Absorb"
+      },
+      {
+        "level": 11,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 16,
+        "move": "Pursuit"
+      },
+      {
+        "level": 21,
+        "move": "Screech"
+      },
+      {
+        "level": 26,
+        "move": "Mega Drain"
+      },
+      {
+        "level": 31,
+        "move": "Agility"
+      },
+      {
+        "level": 36,
+        "move": "Slam"
+      },
+      {
+        "level": 41,
+        "move": "Detect"
+      },
+      {
+        "level": 46,
+        "move": "Giga Drain"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM09",
+        "move": "Bullet Seed"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM19",
+        "move": "Giga Drain"
+      },
+      {
+        "machine": "TM20",
+        "move": "Safeguard"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM22",
+        "move": "Solarbeam"
+      },
+      {
+        "machine": "TM23",
+        "move": "Iron Tail"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM05",
+        "move": "Flash"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/252.shtml",
+    "scrapedAt": "2026-09-02T21:15:15.216Z"
+  }
+}

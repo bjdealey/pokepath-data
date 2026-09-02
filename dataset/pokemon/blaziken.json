@@ -1,0 +1,241 @@
+{
+  "slug": "blaziken",
+  "natdex": 257,
+  "name": "Blaziken",
+  "names": {
+    "japan": "Bursyamoバシャーモ",
+    "french": "Braségali",
+    "german": "Lohgock",
+    "korean": "번치코"
+  },
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "genderRatio": {
+    "malePct": 87.5,
+    "femalePct": 12.5
+  },
+  "classification": "Blaze Pokémon",
+  "heightM": 1.9,
+  "weightKg": 52,
+  "captureRate": 45,
+  "baseEggSteps": 5120,
+  "eggGroups": [
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "description": "When Blaziken's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+    }
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "spAttack": 110,
+    "spDefense": 70,
+    "speed": 80,
+    "total": 530
+  },
+  "evolutionChain": [
+    "torchic",
+    "combusken",
+    "blaziken"
+  ],
+  "flavorText": {
+    "ruby": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON's wrists burn.",
+    "sapphire": "BLAZIKEN has incredibly strong legs - it can easily clear a 30-story building in one leap. This POKéMON's blazing punches leave its foes scorched and blackened.",
+    "emerald": "It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.",
+    "firered": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+    "leafgreen": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings."
+  },
+  "locations": {
+    "ruby": "Evolve Combusken",
+    "sapphire": "Evolve Combusken",
+    "emerald": "Evolve Combusken",
+    "firered": "Trade from Ruby/Sapphire/Emerald",
+    "leafgreen": "Trade from Ruby/Sapphire/Emerald",
+    "colosseum": "Trade from Ruby/Sapphire/Emerald",
+    "xd": "Trade from Ruby/Sapphire/Emerald"
+  },
+  "learnset": {
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Fire Punch"
+      },
+      {
+        "level": null,
+        "move": "Scratch"
+      },
+      {
+        "level": null,
+        "move": "Growl"
+      },
+      {
+        "level": null,
+        "move": "Focus Energy"
+      },
+      {
+        "level": null,
+        "move": "Ember"
+      },
+      {
+        "level": 7,
+        "move": "Focus Energy"
+      },
+      {
+        "level": 13,
+        "move": "Ember"
+      },
+      {
+        "level": 16,
+        "move": "Double Kick"
+      },
+      {
+        "level": 17,
+        "move": "Peck"
+      },
+      {
+        "level": 21,
+        "move": "Sand-attack"
+      },
+      {
+        "level": 28,
+        "move": "Bulk Up"
+      },
+      {
+        "level": 32,
+        "move": "Quick Attack"
+      },
+      {
+        "level": 36,
+        "move": "Blaze Kick"
+      },
+      {
+        "level": 42,
+        "move": "Slash"
+      },
+      {
+        "level": 49,
+        "move": "Mirror Move"
+      },
+      {
+        "level": 59,
+        "move": "Sky Uppercut"
+      }
+    ],
+    "machine": [
+      {
+        "machine": "TM01",
+        "move": "Focus Punch"
+      },
+      {
+        "machine": "TM05",
+        "move": "Roar"
+      },
+      {
+        "machine": "TM06",
+        "move": "Toxic"
+      },
+      {
+        "machine": "TM08",
+        "move": "Bulk Up"
+      },
+      {
+        "machine": "TM10",
+        "move": "Hidden Power"
+      },
+      {
+        "machine": "TM11",
+        "move": "Sunny Day"
+      },
+      {
+        "machine": "TM15",
+        "move": "Hyper Beam"
+      },
+      {
+        "machine": "TM17",
+        "move": "Protect"
+      },
+      {
+        "machine": "TM21",
+        "move": "Frustration"
+      },
+      {
+        "machine": "TM26",
+        "move": "Earthquake"
+      },
+      {
+        "machine": "TM27",
+        "move": "Return"
+      },
+      {
+        "machine": "TM28",
+        "move": "Dig"
+      },
+      {
+        "machine": "TM31",
+        "move": "Brick Break"
+      },
+      {
+        "machine": "TM32",
+        "move": "Double Team"
+      },
+      {
+        "machine": "TM35",
+        "move": "Flamethrower"
+      },
+      {
+        "machine": "TM38",
+        "move": "Fire Blast"
+      },
+      {
+        "machine": "TM39",
+        "move": "Rock Tomb"
+      },
+      {
+        "machine": "TM40",
+        "move": "Aerial Ace"
+      },
+      {
+        "machine": "TM42",
+        "move": "Facade"
+      },
+      {
+        "machine": "TM43",
+        "move": "Secret Power"
+      },
+      {
+        "machine": "TM44",
+        "move": "Rest"
+      },
+      {
+        "machine": "TM45",
+        "move": "Attract"
+      },
+      {
+        "machine": "TM50",
+        "move": "Overheat"
+      },
+      {
+        "machine": "HM01",
+        "move": "Cut"
+      },
+      {
+        "machine": "HM04",
+        "move": "Strength"
+      },
+      {
+        "machine": "HM06",
+        "move": "Rock Smash"
+      }
+    ]
+  },
+  "source": {
+    "url": "https://www.serebii.net/pokedex-rs/257.shtml",
+    "scrapedAt": "2026-09-02T21:15:22.483Z"
+  }
+}
