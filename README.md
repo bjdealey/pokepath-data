@@ -12,7 +12,7 @@ node src/run.ts pokemon            # default slice: Emerald opening (#252–265)
 node src/run.ts pokemon 1-386      # full national dex (Gen-3 pages)
 node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
-node src/run.ts encounters         # derive Emerald encounters (no network)
+node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts trainers           # scrape Emerald gyms + Elite Four → trainers + story
 node src/run.ts battles            # crawl Hoenn pokearth → Emerald rival/villain battles
 npm test                           # parser fixture tests
@@ -41,13 +41,12 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   RSE-scoped facts (identity, i18n names, types, stats, abilities, egg groups,
   evolution chain, per-game flavor/location, level-up + TM/HM learnset), parsed
   from `/pokedex-rs/NNN.shtml`.
-- ✅ `encounters` — **Emerald**, derived (no network) by inverting each Pokémon's
-  Emerald location string into a route→Pokémon map with method (walk / surf / fish /
-  rock-smash). Serebii has **no** per-route Emerald encounter tables (the
-  `/pokearth/hoenn/3rd/` pages are Ruby/Sapphire only), so this per-Pokémon text is
-  the Emerald-exact source — Route 110 correctly lists both Plusle *and* Minun.
-  Caveat: no rate% or level ranges (Serebii doesn't publish them per-route for
-  Emerald). 126 locations.
+- ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
+  Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
+  from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level
+  range + method** (grass / surf / old-·good-·super-rod / rock-smash), method resolved
+  from document-order anchors. 61 locations (34 routes + caves/special), 607
+  encounters. Route 110 correctly lists both Plusle *and* Minun with rates.
 - ✅ `trainers` + `story` — **Emerald** gym leaders + Elite Four + Champion rosters
   (Pokémon, level, moves, held item), and a 13-step **progression spine** (gym order,
   city, badge, TM reward, field-move unlock, level cap) from `/emerald/gym.shtml` +

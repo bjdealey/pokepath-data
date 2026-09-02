@@ -54,6 +54,16 @@ export interface Trainer {
   team: TrainerPokemon[];
 }
 
+/** A wild encounter from an Emerald pokearth encounter table (mon + rate + level). */
+export interface EmeraldEncounter {
+  pokemon: string;
+  natdex: number;
+  method: string; // grass | surf | old-rod | good-rod | super-rod | rock-smash
+  rate: number | null; // percent chance
+  levelMin: number | null;
+  levelMax: number | null;
+}
+
 /** A rival or villain (Team Magma/Aqua) battle scraped from a pokearth page. */
 export interface Battle {
   label: string; // full trainer label, e.g. "Pokémon Trainer Brendan"

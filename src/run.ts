@@ -7,10 +7,10 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { fetchCached } from "./fetch.ts";
 import { parsePokemon } from "./parse/pokemon.ts";
-import { deriveEncounters } from "./derive/encounters.ts";
+import { scrapeEncounters } from "./scrape/encounters.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeBattles } from "./scrape/battles.ts";
-import type { GameSlug, PokemonRecord } from "./types.ts";
+import type { PokemonRecord } from "./types.ts";
 
 const DATASET = fileURLToPath(new URL("../dataset/", import.meta.url));
 const rsUrl = (n: number) => `https://www.serebii.net/pokedex-rs/${String(n).padStart(3, "0")}.shtml`;
@@ -83,14 +83,9 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ scraping ${dex.length} pokemon (Gen-3 pages)…`);
   await scrapePokemon(dex, refresh);
 } else if (entity === "encounters") {
-  const game = (arg ?? "emerald") as GameSlug;
-  console.log(`▶ deriving ${game} encounters from pokemon locations…`);
-  const r = deriveEncounters(game);
-  console.log(`✔ ${r.locations} locations from ${r.contributing} pokemon → dataset/games/${game}/`);
-  if (r.unparsed.length) {
-    console.warn(`⚠ ${r.unparsed.length} route-like strings did not parse:`);
-    r.unparsed.slice(0, 10).forEach((u) => console.warn(`  ${u}`));
-  }
+  console.log(`▶ crawling Hoenn pokearth pages for Emerald encounters (mon + rate + level)…`);
+  const r = await scrapeEncounters(refresh);
+  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.encounters} encounters → dataset/games/emerald/`);
 } else if (entity === "trainers") {
   console.log(`▶ scraping Emerald gym leaders + Elite Four…`);
   const r = await scrapeTrainers(refresh);

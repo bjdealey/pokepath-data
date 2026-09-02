@@ -1,632 +1,307 @@
 [
   {
-    "slug": "route-101",
+    "slug": "route101",
     "location": "Route 101",
     "count": 3
   },
   {
-    "slug": "route-102",
+    "slug": "route102",
     "location": "Route 102",
-    "count": 11
+    "count": 14
   },
   {
-    "slug": "route-103",
+    "slug": "route103",
     "location": "Route 103",
-    "count": 8
+    "count": 13
   },
   {
-    "slug": "route-104",
+    "slug": "route104",
     "location": "Route 104",
-    "count": 6
+    "count": 10
   },
   {
-    "slug": "route-105",
+    "slug": "route105",
     "location": "Route 105",
-    "count": 4
+    "count": 10
   },
   {
-    "slug": "route-106",
+    "slug": "route106",
     "location": "Route 106",
-    "count": 5
-  },
-  {
-    "slug": "route-107",
-    "location": "Route 107",
-    "count": 4
-  },
-  {
-    "slug": "route-108",
-    "location": "Route 108",
-    "count": 4
-  },
-  {
-    "slug": "route-109",
-    "location": "Route 109",
-    "count": 4
-  },
-  {
-    "slug": "route-110",
-    "location": "Route 110",
-    "count": 11
-  },
-  {
-    "slug": "route-111",
-    "location": "Route 111",
-    "count": 8
-  },
-  {
-    "slug": "route-112",
-    "location": "Route 112",
-    "count": 1
-  },
-  {
-    "slug": "route-113",
-    "location": "Route 113",
-    "count": 4
-  },
-  {
-    "slug": "route-114",
-    "location": "Route 114",
-    "count": 11
-  },
-  {
-    "slug": "route-115",
-    "location": "Route 115",
     "count": 9
   },
   {
-    "slug": "route-116",
+    "slug": "route107",
+    "location": "Route 107",
+    "count": 9
+  },
+  {
+    "slug": "route108",
+    "location": "Route 108",
+    "count": 9
+  },
+  {
+    "slug": "route109",
+    "location": "Route 109",
+    "count": 9
+  },
+  {
+    "slug": "route110",
+    "location": "Route 110",
+    "count": 16
+  },
+  {
+    "slug": "route111",
+    "location": "Route 111",
+    "count": 14
+  },
+  {
+    "slug": "route112",
+    "location": "Route 112",
+    "count": 2
+  },
+  {
+    "slug": "route113",
+    "location": "Route 113",
+    "count": 3
+  },
+  {
+    "slug": "route114",
+    "location": "Route 114",
+    "count": 14
+  },
+  {
+    "slug": "route115",
+    "location": "Route 115",
+    "count": 14
+  },
+  {
+    "slug": "route116",
     "location": "Route 116",
-    "count": 5
+    "count": 6
   },
   {
-    "slug": "route-117",
+    "slug": "route117",
     "location": "Route 117",
-    "count": 11
+    "count": 14
   },
   {
-    "slug": "route-118",
+    "slug": "route118",
     "location": "Route 118",
+    "count": 16
+  },
+  {
+    "slug": "route119",
+    "location": "Route 119",
+    "count": 15
+  },
+  {
+    "slug": "route120",
+    "location": "Route 120",
+    "count": 16
+  },
+  {
+    "slug": "route121",
+    "location": "Route 121",
+    "count": 16
+  },
+  {
+    "slug": "route122",
+    "location": "Route 122",
+    "count": 10
+  },
+  {
+    "slug": "route123",
+    "location": "Route 123",
+    "count": 16
+  },
+  {
+    "slug": "route124",
+    "location": "Route 124",
+    "count": 13
+  },
+  {
+    "slug": "route125",
+    "location": "Route 125",
+    "count": 10
+  },
+  {
+    "slug": "route126",
+    "location": "Route 126",
+    "count": 13
+  },
+  {
+    "slug": "route127",
+    "location": "Route 127",
+    "count": 13
+  },
+  {
+    "slug": "route128",
+    "location": "Route 128",
+    "count": 14
+  },
+  {
+    "slug": "route129",
+    "location": "Route 129",
     "count": 11
   },
   {
-    "slug": "route-119",
-    "location": "Route 119",
-    "count": 10
-  },
-  {
-    "slug": "route-120",
-    "location": "Route 120",
-    "count": 12
-  },
-  {
-    "slug": "route-121",
-    "location": "Route 121",
-    "count": 10
-  },
-  {
-    "slug": "route-122",
-    "location": "Route 122",
-    "count": 5
-  },
-  {
-    "slug": "route-123",
-    "location": "Route 123",
-    "count": 10
-  },
-  {
-    "slug": "route-124",
-    "location": "Route 124",
-    "count": 8
-  },
-  {
-    "slug": "route-125",
-    "location": "Route 125",
-    "count": 5
-  },
-  {
-    "slug": "route-126",
-    "location": "Route 126",
-    "count": 8
-  },
-  {
-    "slug": "route-127",
-    "location": "Route 127",
-    "count": 5
-  },
-  {
-    "slug": "route-128",
-    "location": "Route 128",
-    "count": 7
-  },
-  {
-    "slug": "route-129",
-    "location": "Route 129",
-    "count": 6
-  },
-  {
-    "slug": "route-130",
+    "slug": "route130",
     "location": "Route 130",
-    "count": 5
+    "count": 10
   },
   {
-    "slug": "route-131",
+    "slug": "route131",
     "location": "Route 131",
-    "count": 5
+    "count": 10
   },
   {
-    "slug": "route-132",
+    "slug": "route132",
     "location": "Route 132",
-    "count": 6
+    "count": 11
   },
   {
-    "slug": "route-133",
+    "slug": "route133",
     "location": "Route 133",
-    "count": 6
+    "count": 11
   },
   {
-    "slug": "route-134",
+    "slug": "route134",
     "location": "Route 134",
-    "count": 6
+    "count": 11
   },
   {
-    "slug": "random-six-tiles-which-is-randomly-changed-whenever-trendy-phrase-changes",
-    "location": "*Random Six Tiles which is Randomly Changed whenever Trendy Phrase changes*",
-    "count": 1
+    "slug": "abandonedship",
+    "location": "Abandonedship",
+    "count": 8
   },
   {
-    "slug": "abandoned-ship-basement-1",
-    "location": "Abandoned Ship Basement 1",
-    "count": 1
-  },
-  {
-    "slug": "acro-bike-areas",
-    "location": "Acro Bike Areas",
-    "count": 1
-  },
-  {
-    "slug": "altering-cave",
+    "slug": "alteringcave",
     "location": "Altering Cave",
     "count": 9
   },
   {
-    "slug": "ancient-tomb",
-    "location": "Ancient Tomb",
+    "slug": "artisancave",
+    "location": "Artisan Cave",
     "count": 1
   },
   {
-    "slug": "artisans-cave-floors-1",
-    "location": "Artisan's Cave Floors 1",
-    "count": 1
-  },
-  {
-    "slug": "basement-1",
-    "location": "Basement 1",
+    "slug": "caveoforigin",
+    "location": "Caveoforigin",
     "count": 3
   },
   {
-    "slug": "basements-1",
-    "location": "Basements 1",
-    "count": 6
-  },
-  {
-    "slug": "battle-frontier",
-    "location": "Battle Frontier",
-    "count": 1
-  },
-  {
-    "slug": "birth-island",
-    "location": "Birth Island",
-    "count": 1
-  },
-  {
-    "slug": "cave-of-origin-entrance",
-    "location": "Cave of Origin Entrance",
-    "count": 1
-  },
-  {
-    "slug": "cave-of-origin-floor-1",
-    "location": "Cave of Origin Floor 1",
-    "count": 1
-  },
-  {
-    "slug": "cave-of-origin-floors-1",
-    "location": "Cave of Origin Floors 1",
-    "count": 1
-  },
-  {
-    "slug": "deep-in-meteor-falls",
-    "location": "Deep in Meteor Falls",
-    "count": 1
-  },
-  {
-    "slug": "desert",
-    "location": "Desert",
-    "count": 1
-  },
-  {
-    "slug": "desert-ruins",
-    "location": "Desert Ruins",
-    "count": 1
-  },
-  {
-    "slug": "desert-underpass",
+    "slug": "desertunderpass",
     "location": "Desert Underpass",
     "count": 3
   },
   {
-    "slug": "dewford-town",
+    "slug": "dewfordtown",
     "location": "Dewford Town",
-    "count": 4
-  },
-  {
-    "slug": "evergrande-city",
-    "location": "EverGrande City",
     "count": 6
   },
   {
-    "slug": "faraway-island",
-    "location": "Faraway Island",
-    "count": 1
+    "slug": "evergrandecity",
+    "location": "Evergrande City",
+    "count": 11
   },
   {
-    "slug": "fiery-path",
-    "location": "Fiery Path",
+    "slug": "fierypath",
+    "location": "Fierypath",
     "count": 6
   },
   {
-    "slug": "fish-everywhere-with-old-rod",
-    "location": "Fish Everywhere With Old Rod",
-    "count": 1
+    "slug": "granitecave",
+    "location": "Granite Cave",
+    "count": 8
   },
   {
-    "slug": "floors-1",
-    "location": "Floors 1",
-    "count": 1
-  },
-  {
-    "slug": "fortree-city",
-    "location": "Fortree City",
-    "count": 1
-  },
-  {
-    "slug": "given-by-professor-birch-after-completing-hoenn-dex",
-    "location": "Given by Professor Birch after completing Hoenn Dex",
-    "count": 3
-  },
-  {
-    "slug": "granite-cave-basement-2",
-    "location": "Granite Cave Basement 2",
-    "count": 2
-  },
-  {
-    "slug": "granite-cave-basements-1",
-    "location": "Granite Cave Basements 1",
-    "count": 1
-  },
-  {
-    "slug": "granite-cave-floor-1",
-    "location": "Granite Cave Floor 1",
-    "count": 2
-  },
-  {
-    "slug": "granite-cave-floor-1-south",
-    "location": "Granite Cave Floor 1 South",
-    "count": 1
-  },
-  {
-    "slug": "granite-cave-floors-1",
-    "location": "Granite Cave Floors 1",
-    "count": 1
-  },
-  {
-    "slug": "half-way",
-    "location": "Half Way",
-    "count": 1
-  },
-  {
-    "slug": "island-cave",
-    "location": "Island Cave",
-    "count": 1
-  },
-  {
-    "slug": "jagged-pass",
+    "slug": "jaggedpass",
     "location": "Jagged Pass",
-    "count": 2
-  },
-  {
-    "slug": "jagged-path",
-    "location": "Jagged Path",
-    "count": 1
-  },
-  {
-    "slug": "left",
-    "location": "Left",
-    "count": 1
-  },
-  {
-    "slug": "left-areas",
-    "location": "Left Areas",
     "count": 3
   },
   {
-    "slug": "lilycove-city",
+    "slug": "lilycovecity",
     "location": "Lilycove City",
-    "count": 5
+    "count": 10
   },
   {
-    "slug": "mach",
-    "location": "Mach",
-    "count": 1
-  },
-  {
-    "slug": "mach-bike-areas",
-    "location": "Mach Bike Areas",
-    "count": 1
-  },
-  {
-    "slug": "magma-hideout",
+    "slug": "magmahideout",
     "location": "Magma Hideout",
-    "count": 2
+    "count": 3
   },
   {
-    "slug": "magma-hideout-granite-cave-floor-1",
-    "location": "Magma Hideout Granite Cave Floor 1",
-    "count": 1
-  },
-  {
-    "slug": "marine-cave",
-    "location": "Marine Cave",
-    "count": 1
-  },
-  {
-    "slug": "meteor-falls",
+    "slug": "meteorfalls",
     "location": "Meteor Falls",
-    "count": 5
+    "count": 13
   },
   {
-    "slug": "meteor-falls-entrance",
-    "location": "Meteor Falls Entrance",
-    "count": 1
-  },
-  {
-    "slug": "mirage-island",
+    "slug": "mirageisland",
     "location": "Mirage Island",
     "count": 1
   },
   {
-    "slug": "mirage-tower",
+    "slug": "miragetower",
     "location": "Mirage Tower",
     "count": 2
   },
   {
-    "slug": "mossdeep-city",
+    "slug": "mossdeepcity",
     "location": "Mossdeep City",
-    "count": 5
+    "count": 10
   },
   {
-    "slug": "mt-pyre",
-    "location": "Mt. Pyre",
-    "count": 1
+    "slug": "newmauville",
+    "location": "Newmauville",
+    "count": 4
   },
   {
-    "slug": "mt-pyre-floors-1",
-    "location": "Mt. Pyre Floors 1",
-    "count": 1
-  },
-  {
-    "slug": "mt-pyre-floors-4",
-    "location": "Mt. Pyre Floors 4",
-    "count": 1
-  },
-  {
-    "slug": "mt-pyre-grass",
-    "location": "Mt. Pyre Grass",
-    "count": 1
-  },
-  {
-    "slug": "mt-pyre-summit",
-    "location": "Mt. Pyre Summit",
-    "count": 1
-  },
-  {
-    "slug": "navel-rock",
-    "location": "Navel Rock",
-    "count": 2
-  },
-  {
-    "slug": "new-mauville",
-    "location": "New Mauville",
-    "count": 3
-  },
-  {
-    "slug": "new-mauville-basement",
-    "location": "New Mauville Basement",
-    "count": 1
-  },
-  {
-    "slug": "newsflash-swarm-in",
-    "location": "Newsflash Swarm in",
-    "count": 1
-  },
-  {
-    "slug": "none",
-    "location": "None",
-    "count": 1
-  },
-  {
-    "slug": "or-southern-island",
-    "location": "OR Southern Island",
-    "count": 2
-  },
-  {
-    "slug": "pacifidlog-city",
-    "location": "Pacifidlog City",
-    "count": 2
-  },
-  {
-    "slug": "pacifidlog-town",
+    "slug": "pacifidlogtown",
     "location": "Pacifidlog Town",
-    "count": 3
+    "count": 10
   },
   {
-    "slug": "petalburg-city",
+    "slug": "petalburgcity",
     "location": "Petalburg City",
-    "count": 3
+    "count": 7
   },
   {
-    "slug": "petalburg-woods",
+    "slug": "petalburgwoods",
     "location": "Petalburg Woods",
     "count": 7
   },
   {
-    "slug": "revive-from-claw-fossil",
-    "location": "Revive From Claw Fossil",
-    "count": 1
-  },
-  {
-    "slug": "revive-from-root-fossil",
-    "location": "Revive From Root Fossil",
-    "count": 1
-  },
-  {
-    "slug": "rusturf-tunnel",
+    "slug": "rusturftunnel",
     "location": "Rusturf Tunnel",
     "count": 1
   },
   {
-    "slug": "safari-zone",
-    "location": "Safari Zone",
+    "slug": "safarizone",
+    "location": "Safarizone",
+    "count": 42
+  },
+  {
+    "slug": "shoalcave",
+    "location": "Shoal Cave",
+    "count": 13
+  },
+  {
+    "slug": "skypillar",
+    "location": "Skypillar",
     "count": 6
   },
   {
-    "slug": "safari-zone-acro-bike-area",
-    "location": "Safari Zone Acro Bike Area",
-    "count": 3
-  },
-  {
-    "slug": "safari-zone-entrance",
-    "location": "Safari Zone Entrance",
-    "count": 4
-  },
-  {
-    "slug": "safari-zone-extention",
-    "location": "Safari Zone Extention",
-    "count": 16
-  },
-  {
-    "slug": "safari-zone-extentions-1",
-    "location": "Safari Zone Extentions 1",
-    "count": 3
-  },
-  {
-    "slug": "safari-zone-mach-bike",
-    "location": "Safari Zone Mach Bike",
-    "count": 1
-  },
-  {
-    "slug": "safari-zone-mach-bike-area",
-    "location": "Safari Zone Mach Bike Area",
-    "count": 3
-  },
-  {
-    "slug": "safari-zone-southwest",
-    "location": "Safari Zone; SouthWest",
-    "count": 1
-  },
-  {
-    "slug": "seafloor-cavern",
-    "location": "Seafloor Cavern",
-    "count": 4
-  },
-  {
-    "slug": "shoal-cave",
-    "location": "Shoal Cave",
-    "count": 5
-  },
-  {
-    "slug": "shoal-cave-ice-room",
-    "location": "Shoal Cave Ice Room",
-    "count": 1
-  },
-  {
-    "slug": "sky-pillar",
-    "location": "Sky Pillar",
-    "count": 1
-  },
-  {
-    "slug": "sky-pillar-floor-5",
-    "location": "Sky Pillar Floor 5",
-    "count": 1
-  },
-  {
-    "slug": "sky-pillar-floors-1",
-    "location": "Sky Pillar Floors 1",
-    "count": 4
-  },
-  {
-    "slug": "slateport-city",
+    "slug": "slateportcity",
     "location": "Slateport City",
-    "count": 4
+    "count": 9
   },
   {
-    "slug": "sootopolis-city",
+    "slug": "sootopoliscity",
     "location": "Sootopolis City",
-    "count": 1
+    "count": 6
   },
   {
-    "slug": "southeast",
-    "location": "SouthEast",
-    "count": 1
-  },
-  {
-    "slug": "stevens-house-after-defeating-elite-four",
-    "location": "Steven's House after Defeating Elite Four",
-    "count": 1
-  },
-  {
-    "slug": "summit",
-    "location": "Summit",
-    "count": 2
-  },
-  {
-    "slug": "terra-cave",
-    "location": "Terra Cave",
-    "count": 1
-  },
-  {
-    "slug": "underwater",
-    "location": "Underwater",
-    "count": 3
-  },
-  {
-    "slug": "victory-road",
+    "slug": "victoryroad",
     "location": "Victory Road",
-    "count": 2
-  },
-  {
-    "slug": "victory-road-basement-1",
-    "location": "Victory Road Basement 1",
-    "count": 2
-  },
-  {
-    "slug": "victory-road-basement-2",
-    "location": "Victory Road Basement 2",
-    "count": 3
-  },
-  {
-    "slug": "victory-road-basements-1",
-    "location": "Victory Road Basements 1",
-    "count": 1
-  },
-  {
-    "slug": "victory-road-floor-1",
-    "location": "Victory Road Floor 1",
-    "count": 7
-  },
-  {
-    "slug": "wild-in-hoenn-after-beating-elite-four",
-    "location": "Wild in Hoenn after beating Elite Four",
-    "count": 2
+    "count": 20
   }
 ]
