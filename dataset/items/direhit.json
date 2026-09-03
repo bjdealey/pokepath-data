@@ -1,0 +1,12 @@
+{
+  "slug": "direhit",
+  "name": "Dire Hit",
+  "category": "Battle Effect",
+  "effect": "In battle, it raises the Pokémon's Critical Hit ratio by 1 until the battle is over or the Pokémon is withdrawn. Increases Pokémon's Happiness.",
+  "price": 1000,
+  "sellPrice": 500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/direhit.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.974Z"
+  }
+}

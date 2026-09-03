@@ -1,0 +1,12 @@
+{
+  "slug": "fullheal",
+  "name": "Full Heal",
+  "category": "Recovery",
+  "effect": "Heals all Status Ailments; Poison, Burn, Paralysis, Frozen & Sleep on one Pokémon.",
+  "price": 400,
+  "sellPrice": 200,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/fullheal.shtml",
+    "scrapedAt": "2026-09-03T20:14:34.516Z"
+  }
+}

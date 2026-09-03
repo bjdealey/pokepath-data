@@ -98,6 +98,17 @@ export interface LocationItem {
   method: string; // Floor | Itemfinder | Hidden | Gift | …
 }
 
+/** A canonical item definition from the ItemDex (effect + price + category). */
+export interface ItemRecord {
+  slug: string;
+  name: string;
+  category: string; // "Item Type": Recovery / Poké Balls / Berries / Hold item / TM / Key item …
+  effect: string; // "In-Depth Effect"
+  price: number | null; // purchase price (Serebii ItemDex; not gen-scoped — latest where prices vary)
+  sellPrice: number | null;
+  source: { url: string; scrapedAt: string };
+}
+
 /** A wild encounter from an Emerald pokearth encounter table (mon + rate + level). */
 export interface EmeraldEncounter {
   pokemon: string;

@@ -1,0 +1,12 @@
+{
+  "slug": "premierball",
+  "name": "Premier Ball",
+  "category": "Pokeball",
+  "effect": "The Premier Ball is a PokéBall that has no added Capture Rate. It has no added extra effect and just acts in a similar manner to a normal PokéBallCatch = 1 * (((( 4 * Max HP - 2 * HP ) * Catch Rate ) / Max HP ) + Status + 1 ) / 256",
+  "price": 20,
+  "sellPrice": 10,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/premierball.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.699Z"
+  }
+}

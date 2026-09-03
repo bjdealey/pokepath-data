@@ -1,0 +1,12 @@
+{
+  "slug": "escaperope",
+  "name": "Escape Rope",
+  "category": "Miscellaneous / Key Item",
+  "effect": "Teleports you to the entrance of the cave. Only usable in caves.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/escaperope.shtml",
+    "scrapedAt": "2026-09-03T20:14:34.009Z"
+  }
+}

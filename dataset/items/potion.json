@@ -1,0 +1,12 @@
+{
+  "slug": "potion",
+  "name": "Potion",
+  "category": "Recovery",
+  "effect": "Heals a Pokémon by 20HP",
+  "price": 200,
+  "sellPrice": 100,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/potion.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.673Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "deepseatooth",
+  "name": "Deep Sea Tooth",
+  "category": "Hold Item / Evolutionary",
+  "effect": "If the DeepSeaTooth is held by Clamperl, the holder's Special Attack is doubled.This item, when held by a Pokémon and the Pokémon is traded evolves the following Pokémon",
+  "price": 200,
+  "sellPrice": 100,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/deepseatooth.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.953Z"
+  }
+}

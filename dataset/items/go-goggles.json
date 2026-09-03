@@ -1,0 +1,12 @@
+{
+  "slug": "go-goggles",
+  "name": "Go-Goggles",
+  "category": "Key Item",
+  "effect": "This item allows you to access the Desert in Route 111.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/go-goggles.shtml",
+    "scrapedAt": "2026-09-03T20:14:34.542Z"
+  }
+}

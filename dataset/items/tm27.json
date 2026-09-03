@@ -1,0 +1,12 @@
+{
+  "slug": "tm27",
+  "name": "TM27",
+  "category": "TM",
+  "effect": "A full-power attack that grows more powerful the more the user likes its Trainer.",
+  "price": 1000,
+  "sellPrice": 500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm27.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.216Z"
+  }
+}

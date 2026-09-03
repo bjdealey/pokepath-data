@@ -1,0 +1,12 @@
+{
+  "slug": "bigpearl",
+  "name": "Big Pearl",
+  "category": "Miscellaneous",
+  "effect": "An item you can sell for 3750",
+  "price": 16000,
+  "sellPrice": 8000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/bigpearl.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.813Z"
+  }
+}

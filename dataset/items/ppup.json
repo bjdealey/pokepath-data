@@ -1,0 +1,12 @@
+{
+  "slug": "ppup",
+  "name": "PP Up",
+  "category": "Vitamins",
+  "effect": "Increases the maximum PP of any move by 20% of the original PP. Can be used three times per move. Raises the Pokémon's Happiness.",
+  "price": 10000,
+  "sellPrice": 5000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/ppup.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.691Z"
+  }
+}

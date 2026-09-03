@@ -1,0 +1,12 @@
+{
+  "slug": "silkscarf",
+  "name": "Silk Scarf",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Normal-type move used by the holder has its power increased by 20%In Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Normal-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/silkscarf.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.838Z"
+  }
+}

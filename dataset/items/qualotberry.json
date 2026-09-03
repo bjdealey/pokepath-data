@@ -1,0 +1,12 @@
+{
+  "slug": "qualotberry",
+  "name": "Qualot Berry",
+  "category": "Berry",
+  "effect": "Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/qualotberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.723Z"
+  }
+}

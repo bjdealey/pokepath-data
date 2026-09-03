@@ -1,0 +1,12 @@
+{
+  "slug": "tm42",
+  "name": "TM42",
+  "category": "TM",
+  "effect": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm42.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.294Z"
+  }
+}

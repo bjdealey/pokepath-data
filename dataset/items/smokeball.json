@@ -1,0 +1,12 @@
+{
+  "slug": "smokeball",
+  "name": "Smoke Ball",
+  "category": "Hold Item",
+  "effect": "If this item is held by a Pokémon and you try to run away, you will be guaranteed to run.",
+  "price": 15000,
+  "sellPrice": 7500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/smokeball.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.876Z"
+  }
+}

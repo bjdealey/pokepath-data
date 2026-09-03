@@ -1,0 +1,12 @@
+{
+  "slug": "tm04",
+  "name": "TM04",
+  "category": "TM",
+  "effect": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
+  "price": 1500,
+  "sellPrice": 750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm04.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.116Z"
+  }
+}

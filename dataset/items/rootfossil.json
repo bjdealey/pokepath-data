@@ -1,0 +1,12 @@
+{
+  "slug": "rootfossil",
+  "name": "Root Fossil",
+  "category": "Fossil",
+  "effect": "When taken to Devon Corp in Ruby, Sapphire and Emerald, or Oreburgh Museum in Diamond, Pearl & Platinum or Pewter Museum in HeartGold & SoulSilver, this fossil will be revived into the Pokémon Lileep.This item was a Key Item in Ruby, Sapphire & Emerald but you can obtain many in later games.HeartGold/SoulSilver LileepLevel 20OT: YoursTrainer Memo:??? Nature.Date of ObtainingObtained at Pewter Museum. Met at Level 20Attacks:AstonishConstrictAcidIngrainID No: YoursHold Item: NoneDiamond/Pearl/Platinum LileepLevel 20OT: YoursTrainer Memo:??? Nature.Date of ObtainingObtained at Mining Museum. Met at Level 20Attacks:AstonishConstrictAcidIngrainID No: YoursHold Item: NoneRuby/Sapphire/Emerald LileepLevel 20OT: YoursTrainer Memo:??? Nature.Date of Obtaining Met at Level 20, Rustboro CityAttacks:AstonishConstrictAcid ID No: YoursHold Item: None",
+  "price": 1000,
+  "sellPrice": 500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/rootfossil.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.817Z"
+  }
+}

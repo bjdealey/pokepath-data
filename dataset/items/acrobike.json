@@ -1,0 +1,12 @@
+{
+  "slug": "acrobike",
+  "name": "Acro Bike",
+  "category": "Key Item",
+  "effect": "This item increases the speed you can travel on the overworld. It also has the ability of doing wheelies by holding the B-button. It can also ride across small wooden bridges and has the ability to jump over them if you hold B when still and press a direction.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/acrobike.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.739Z"
+  }
+}

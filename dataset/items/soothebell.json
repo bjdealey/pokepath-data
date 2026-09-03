@@ -1,0 +1,12 @@
+{
+  "slug": "soothebell",
+  "name": "Soothe Bell",
+  "category": "Hold Item",
+  "effect": "When this item is held by a Pokémon, the Happiness earned by the Pokémon is doubled.",
+  "price": 5000,
+  "sellPrice": 2500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/soothebell.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.893Z"
+  }
+}

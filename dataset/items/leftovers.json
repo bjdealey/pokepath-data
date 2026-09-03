@@ -1,0 +1,12 @@
+{
+  "slug": "leftovers",
+  "name": "Leftovers",
+  "category": "Hold Item",
+  "effect": "When this item is held, at the end of every turn, the holder regains 1/16th of their maximum HP.",
+  "price": 20000,
+  "sellPrice": 10000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/leftovers.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.358Z"
+  }
+}

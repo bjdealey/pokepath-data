@@ -1,0 +1,12 @@
+{
+  "slug": "shoalsalt",
+  "name": "Shoal Salt",
+  "category": "Miscellaneous",
+  "effect": "Exchange four Shoal Salts and Shoal Sells in Shoal Cave to get a Shell Bell.",
+  "price": 20,
+  "sellPrice": 10,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/shoalsalt.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.823Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "hm01",
+  "name": "HM01",
+  "category": "TM",
+  "effect": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hm01.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.750Z"
+  }
+}

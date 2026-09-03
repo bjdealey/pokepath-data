@@ -1,0 +1,12 @@
+{
+  "slug": "tm08",
+  "name": "TM08",
+  "category": "TM",
+  "effect": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.",
+  "price": 1500,
+  "sellPrice": 750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm08.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.149Z"
+  }
+}

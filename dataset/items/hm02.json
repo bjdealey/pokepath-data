@@ -1,0 +1,12 @@
+{
+  "slug": "hm02",
+  "name": "HM02",
+  "category": "TM",
+  "effect": "The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hm02.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.763Z"
+  }
+}

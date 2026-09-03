@@ -1,0 +1,12 @@
+{
+  "slug": "tm06",
+  "name": "TM06",
+  "category": "TM",
+  "effect": "A move that leaves the foe badly poisoned. This poison damage worsens every turn.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm06.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.134Z"
+  }
+}

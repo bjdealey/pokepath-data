@@ -1,0 +1,12 @@
+{
+  "slug": "tm41",
+  "name": "TM41",
+  "category": "TM",
+  "effect": "The user torments and enrages the foe, making it incapable of using the same move twice in a row.",
+  "price": 1500,
+  "sellPrice": 750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm41.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.285Z"
+  }
+}

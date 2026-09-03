@@ -1,0 +1,12 @@
+{
+  "slug": "whiteherb",
+  "name": "White Herb",
+  "category": "Hold Item",
+  "effect": "At the end of using a move, the holder's stats have been lowered, the White Herb restores the stat to normal. The White Herb disappears after use.",
+  "price": 20000,
+  "sellPrice": 10000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/whiteherb.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.378Z"
+  }
+}

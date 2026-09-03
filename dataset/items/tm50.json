@@ -1,0 +1,12 @@
+{
+  "slug": "tm50",
+  "name": "TM50",
+  "category": "TM",
+  "effect": "The user attacks the foe at full power using fiery energy. It also sharply reduces the user's Sp. Atk.",
+  "price": 5500,
+  "sellPrice": 2750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm50.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.325Z"
+  }
+}

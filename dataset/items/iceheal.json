@@ -1,0 +1,12 @@
+{
+  "slug": "iceheal",
+  "name": "Ice Heal",
+  "category": "Recovery",
+  "effect": "Heals the Frozen Status Ailment.",
+  "price": 200,
+  "sellPrice": 100,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/iceheal.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.850Z"
+  }
+}

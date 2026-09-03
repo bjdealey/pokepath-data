@@ -1,0 +1,12 @@
+{
+  "slug": "machobrace",
+  "name": "Macho Brace",
+  "category": "Hold Item",
+  "effect": "This item, when held, doubles the Effort Values the Pokémon earns from each battle. However, it lowers the Pokémon's Speed.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/machobrace.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.419Z"
+  }
+}

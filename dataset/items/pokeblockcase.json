@@ -1,0 +1,12 @@
+{
+  "slug": "pokeblockcase",
+  "name": "PokéBlock Case",
+  "category": "Key Item",
+  "effect": "This item allows you to store PokéBlocks. You have the ability of accessing the PokéBlocks and feeding them to your Pokémon with this item.This item is required for entry to the Safari Zone in HoennThis item is necessary for entry into the Pokémon Contest in Pokémon Emerald",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/pokeblockcase.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.650Z"
+  }
+}

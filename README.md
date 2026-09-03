@@ -16,12 +16,13 @@ node src/run.ts moves              # scrape all Gen-III moves (attackdex); `move
 node src/run.ts learnedby          # bake move→Pokémon reverse index into moves (after pokemon+moves)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
+node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 npm test                           # parser fixture tests
 ```
 
-Output → canonical `dataset/pokemon/<slug>.json` and `dataset/moves/<slug>.json`
-(each with an `index.json`), plus game-scoped
+Output → canonical `dataset/{pokemon,moves,items}/<slug>.json` (each with an
+`index.json`), plus game-scoped
 `dataset/games/<game>/{encounters,locations,items,trainers,story}.json`.
 
 ## How it works
@@ -54,6 +55,11 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   also carries **`learnedBy`** — which Pokémon learn it and how (level-up / TM-HM / egg /
   tutor), derived by inverting the Pokémon learnsets (`run.ts learnedby`, no network).
   348/374 moves have learners, ~20.2k links.
+- ✅ `itemdex` — item **definitions** (name, category, **In-Depth Effect**, purchase/sell
+  price) for the 164 items findable in Emerald, from `/itemdex/<slug>.shtml`. Canonical at
+  `dataset/items/<slug>.json`; slugs match the location items — `games/emerald/items.json`
+  says *where*, this says *what it does*. Price is Serebii's ItemDex value (not gen-scoped,
+  so latest where an item's price changed across gens).
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

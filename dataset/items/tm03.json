@@ -1,0 +1,12 @@
+{
+  "slug": "tm03",
+  "name": "TM03",
+  "category": "TM",
+  "effect": "The foe is hit with a pulsing blast of water. It may also confuse the target.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm03.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.106Z"
+  }
+}

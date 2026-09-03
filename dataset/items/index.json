@@ -1,0 +1,950 @@
+[
+  {
+    "slug": "acrobike",
+    "name": "Acro Bike",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "antidote",
+    "name": "Antidote",
+    "category": "Recovery",
+    "price": 200
+  },
+  {
+    "slug": "aspearberry",
+    "name": "Aspear Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "basementkey",
+    "name": "Basement Key",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "belueberry",
+    "name": "Belue Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "bigpearl",
+    "name": "Big Pearl",
+    "category": "Miscellaneous",
+    "price": 16000
+  },
+  {
+    "slug": "blackbelt",
+    "name": "Black Belt",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "blackglasses",
+    "name": "Black Glasses",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "blueshard",
+    "name": "Blue Shard",
+    "category": "Miscellaneous",
+    "price": 200
+  },
+  {
+    "slug": "blukberry",
+    "name": "Bluk Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "calcium",
+    "name": "Calcium",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "carbos",
+    "name": "Carbos",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "charcoal",
+    "name": "Charcoal",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "cheriberry",
+    "name": "Cheri Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "chestoberry",
+    "name": "Chesto Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "clawfossil",
+    "name": "Claw Fossil",
+    "category": "Fossil",
+    "price": 1000
+  },
+  {
+    "slug": "coincase",
+    "name": "Coin Case",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "contestpass",
+    "name": "Contest Pass",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "cornnberry",
+    "name": "Cornn Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "deepseascale",
+    "name": "Deep Sea Scale",
+    "category": "Hold Item / Evolutionary",
+    "price": 200
+  },
+  {
+    "slug": "deepseatooth",
+    "name": "Deep Sea Tooth",
+    "category": "Hold Item / Evolutionary",
+    "price": 200
+  },
+  {
+    "slug": "devongoods",
+    "name": "Devon Goods",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "devonscope",
+    "name": "Devon Scope",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "direhit",
+    "name": "Dire Hit",
+    "category": "Battle Effect",
+    "price": 1000
+  },
+  {
+    "slug": "dragonfang",
+    "name": "Dragon Fang",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "durinberry",
+    "name": "Durin Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "elixir",
+    "name": "Elixir",
+    "category": "Recovery",
+    "price": 3000
+  },
+  {
+    "slug": "escaperope",
+    "name": "Escape Rope",
+    "category": "Miscellaneous / Key Item",
+    "price": null
+  },
+  {
+    "slug": "ether",
+    "name": "Ether",
+    "category": "Recovery",
+    "price": 1200
+  },
+  {
+    "slug": "firestone",
+    "name": "Fire Stone",
+    "category": "Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "fullheal",
+    "name": "Full Heal",
+    "category": "Recovery",
+    "price": 400
+  },
+  {
+    "slug": "fullrestore",
+    "name": "Full Restore",
+    "category": "Recovery",
+    "price": 3000
+  },
+  {
+    "slug": "go-goggles",
+    "name": "Go-Goggles",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "goodrod",
+    "name": "Good Rod",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "greatball",
+    "name": "Great Ball",
+    "category": "Pokeball",
+    "price": 600
+  },
+  {
+    "slug": "greenshard",
+    "name": "Green Shard",
+    "category": "Miscellaneous",
+    "price": 200
+  },
+  {
+    "slug": "grepaberry",
+    "name": "Grepa Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "hardstone",
+    "name": "Hard Stone",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "healpowder",
+    "name": "Heal Powder",
+    "category": "Recovery",
+    "price": 300
+  },
+  {
+    "slug": "heartscale",
+    "name": "Heart Scale",
+    "category": "Miscellaneous",
+    "price": 100
+  },
+  {
+    "slug": "hm01",
+    "name": "HM01",
+    "category": "TM",
+    "price": null
+  },
+  {
+    "slug": "hm02",
+    "name": "HM02",
+    "category": "TM",
+    "price": null
+  },
+  {
+    "slug": "hm03",
+    "name": "HM03",
+    "category": "TM",
+    "price": null
+  },
+  {
+    "slug": "hm04",
+    "name": "HM04",
+    "category": "TM",
+    "price": null
+  },
+  {
+    "slug": "hm06",
+    "name": "HM06",
+    "category": "TM",
+    "price": null
+  },
+  {
+    "slug": "hm08",
+    "name": "HM08",
+    "category": "TM",
+    "price": null
+  },
+  {
+    "slug": "hondewberry",
+    "name": "Hondew Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "hpup",
+    "name": "HP Up",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "hyperpotion",
+    "name": "Hyper Potion",
+    "category": "Recovery",
+    "price": 1500
+  },
+  {
+    "slug": "iceheal",
+    "name": "Ice Heal",
+    "category": "Recovery",
+    "price": 200
+  },
+  {
+    "slug": "iron",
+    "name": "Iron",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "itemfinder",
+    "name": "Itemfinder",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "kelpsyberry",
+    "name": "Kelpsy Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "king-s-rock",
+    "name": "King's Rock",
+    "category": "Hold Item / Evolutionary",
+    "price": 10000
+  },
+  {
+    "slug": "leafstone",
+    "name": "Leaf Stone",
+    "category": "Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "leftovers",
+    "name": "Leftovers",
+    "category": "Hold Item",
+    "price": 20000
+  },
+  {
+    "slug": "leppaberry",
+    "name": "Leppa Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "liechiberry",
+    "name": "Liechi Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "lumberry",
+    "name": "Lum Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "machbike",
+    "name": "Mach Bike",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "machobrace",
+    "name": "Macho Brace",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "magnet",
+    "name": "Magnet",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "magostberry",
+    "name": "Magost Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "maxelixir",
+    "name": "Max Elixir",
+    "category": "Recovery",
+    "price": 4500
+  },
+  {
+    "slug": "maxether",
+    "name": "Max Ether",
+    "category": "Recovery",
+    "price": 2000
+  },
+  {
+    "slug": "maxrepel",
+    "name": "Max Repel",
+    "category": "Miscellaneous",
+    "price": 700
+  },
+  {
+    "slug": "maxrevive",
+    "name": "Max Revive",
+    "category": "Recovery",
+    "price": 4000
+  },
+  {
+    "slug": "mentalherb",
+    "name": "Mental Herb",
+    "category": "Hold Item",
+    "price": 10000
+  },
+  {
+    "slug": "miracleseed",
+    "name": "Miracle Seed",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "moonstone",
+    "name": "Moon Stone",
+    "category": "Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "nanabberry",
+    "name": "Nanab Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "nestball",
+    "name": "Nest Ball",
+    "category": "Pokeball",
+    "price": 1000
+  },
+  {
+    "slug": "nomelberry",
+    "name": "Nomel Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "nugget",
+    "name": "Nugget",
+    "category": "Miscellaneous",
+    "price": 20000
+  },
+  {
+    "slug": "occaberry",
+    "name": "Occa Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "oldrod",
+    "name": "Old Rod",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "oranberry",
+    "name": "Oran Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "pamtreberry",
+    "name": "Pamtre Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "pearl",
+    "name": "Pearl",
+    "category": "Miscellaneous",
+    "price": 4000
+  },
+  {
+    "slug": "pechaberry",
+    "name": "Pecha Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "persimberry",
+    "name": "Persim Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "pinapberry",
+    "name": "Pinap Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "pokeball",
+    "name": "Poké Ball",
+    "category": "Pokeball",
+    "price": 200
+  },
+  {
+    "slug": "pokeblockcase",
+    "name": "PokéBlock Case",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "pomegberry",
+    "name": "Pomeg Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "potion",
+    "name": "Potion",
+    "category": "Recovery",
+    "price": 200
+  },
+  {
+    "slug": "ppmax",
+    "name": "PP Max",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "ppup",
+    "name": "PP Up",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "premierball",
+    "name": "Premier Ball",
+    "category": "Pokeball",
+    "price": 20
+  },
+  {
+    "slug": "protein",
+    "name": "Protein",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "qualotberry",
+    "name": "Qualot Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "quickclaw",
+    "name": "Quick Claw",
+    "category": "Hold Item",
+    "price": 8000
+  },
+  {
+    "slug": "rabutaberry",
+    "name": "Rabuta Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "rarecandy",
+    "name": "Rare Candy",
+    "category": "Vitamins",
+    "price": 10000
+  },
+  {
+    "slug": "rawstberry",
+    "name": "Rawst Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "razzberry",
+    "name": "Razz Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "redshard",
+    "name": "Red Shard",
+    "category": "Miscellaneous",
+    "price": 200
+  },
+  {
+    "slug": "repeatball",
+    "name": "Repeat Ball",
+    "category": "Pokeball",
+    "price": 1000
+  },
+  {
+    "slug": "repel",
+    "name": "Repel",
+    "category": "Miscellaneous",
+    "price": 350
+  },
+  {
+    "slug": "revive",
+    "name": "Revive",
+    "category": "Recovery",
+    "price": 2000
+  },
+  {
+    "slug": "rootfossil",
+    "name": "Root Fossil",
+    "category": "Fossil",
+    "price": 1000
+  },
+  {
+    "slug": "shoalsalt",
+    "name": "Shoal Salt",
+    "category": "Miscellaneous",
+    "price": 20
+  },
+  {
+    "slug": "shoalshell",
+    "name": "Shoal Shell",
+    "category": "Miscellaneous",
+    "price": 20
+  },
+  {
+    "slug": "silkscarf",
+    "name": "Silk Scarf",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "silverpowder",
+    "name": "SilverPowder",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "sitrusberry",
+    "name": "Sitrus Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "smokeball",
+    "name": "Smoke Ball",
+    "category": "Hold Item",
+    "price": 15000
+  },
+  {
+    "slug": "softsand",
+    "name": "Soft Sand",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
+    "slug": "sootsack",
+    "name": "Soot Sack",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "soothebell",
+    "name": "Soothe Bell",
+    "category": "Hold Item",
+    "price": 5000
+  },
+  {
+    "slug": "spelonberry",
+    "name": "Spelon Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "starpiece",
+    "name": "Star Piece",
+    "category": "Miscellaneous",
+    "price": 24000
+  },
+  {
+    "slug": "stardust",
+    "name": "Stardust",
+    "category": "Miscellaneous",
+    "price": 6000
+  },
+  {
+    "slug": "superpotion",
+    "name": "Super Potion",
+    "category": "Recovery",
+    "price": 700
+  },
+  {
+    "slug": "superrepel",
+    "name": "Super Repel",
+    "category": "Miscellaneous",
+    "price": 500
+  },
+  {
+    "slug": "superrod",
+    "name": "Super Rod",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "tamatoberry",
+    "name": "Tamato Berry",
+    "category": "Berry",
+    "price": 80
+  },
+  {
+    "slug": "thunderstone",
+    "name": "Thunderstone",
+    "category": "Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "timerball",
+    "name": "Timer Ball",
+    "category": "Pokeball",
+    "price": 1000
+  },
+  {
+    "slug": "tinymushroom",
+    "name": "TinyMushroom",
+    "category": "Miscellaneous",
+    "price": 1000
+  },
+  {
+    "slug": "tm01",
+    "name": "TM01",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm03",
+    "name": "TM03",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm04",
+    "name": "TM04",
+    "category": "TM",
+    "price": 1500
+  },
+  {
+    "slug": "tm05",
+    "name": "TM05",
+    "category": "TM",
+    "price": 1000
+  },
+  {
+    "slug": "tm06",
+    "name": "TM06",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm07",
+    "name": "TM07",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm08",
+    "name": "TM08",
+    "category": "TM",
+    "price": 1500
+  },
+  {
+    "slug": "tm09",
+    "name": "TM09",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm10",
+    "name": "TM10",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm11",
+    "name": "TM11",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm12",
+    "name": "TM12",
+    "category": "TM",
+    "price": 1500
+  },
+  {
+    "slug": "tm19",
+    "name": "TM19",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm21",
+    "name": "TM21",
+    "category": "TM",
+    "price": 1000
+  },
+  {
+    "slug": "tm24",
+    "name": "TM24",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm27",
+    "name": "TM27",
+    "category": "TM",
+    "price": 1000
+  },
+  {
+    "slug": "tm28",
+    "name": "TM28",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm29",
+    "name": "TM29",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm31",
+    "name": "TM31",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm32",
+    "name": "TM32",
+    "category": "TM",
+    "price": 1000
+  },
+  {
+    "slug": "tm34",
+    "name": "TM34",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm37",
+    "name": "TM37",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm39",
+    "name": "TM39",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm40",
+    "name": "TM40",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm41",
+    "name": "TM41",
+    "category": "TM",
+    "price": 1500
+  },
+  {
+    "slug": "tm42",
+    "name": "TM42",
+    "category": "TM",
+    "price": 3000
+  },
+  {
+    "slug": "tm43",
+    "name": "TM43",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm46",
+    "name": "TM46",
+    "category": "TM",
+    "price": 2000
+  },
+  {
+    "slug": "tm49",
+    "name": "TM49",
+    "category": "TM",
+    "price": 1500
+  },
+  {
+    "slug": "tm50",
+    "name": "TM50",
+    "category": "TM",
+    "price": 5500
+  },
+  {
+    "slug": "ultraball",
+    "name": "Ultra Ball",
+    "category": "Pokeball",
+    "price": 800
+  },
+  {
+    "slug": "wailmerpail",
+    "name": "Wailmer Pail",
+    "category": "Key Item",
+    "price": null
+  },
+  {
+    "slug": "waterstone",
+    "name": "Water Stone",
+    "category": "Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "watmelberry",
+    "name": "Watmel Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "wepearberry",
+    "name": "Wepear Berry",
+    "category": "Berry",
+    "price": 20
+  },
+  {
+    "slug": "whiteherb",
+    "name": "White Herb",
+    "category": "Hold Item",
+    "price": 20000
+  },
+  {
+    "slug": "xspeed",
+    "name": "X Speed",
+    "category": "Battle Effect",
+    "price": 1000
+  },
+  {
+    "slug": "yellowshard",
+    "name": "Yellow Shard",
+    "category": "Miscellaneous",
+    "price": 200
+  },
+  {
+    "slug": "zinc",
+    "name": "Zinc",
+    "category": "Vitamins",
+    "price": 10000
+  }
+]

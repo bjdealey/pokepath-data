@@ -1,0 +1,12 @@
+{
+  "slug": "fullrestore",
+  "name": "Full Restore",
+  "category": "Recovery",
+  "effect": "Completely heals a Pokémon's HP and Status",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/fullrestore.shtml",
+    "scrapedAt": "2026-09-03T20:14:34.527Z"
+  }
+}

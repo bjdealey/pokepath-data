@@ -1,0 +1,12 @@
+{
+  "slug": "hm03",
+  "name": "HM03",
+  "category": "TM",
+  "effect": "It swamps the entire battlefield with a giant wave. It can also be used to cross water.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hm03.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.773Z"
+  }
+}

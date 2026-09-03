@@ -1,0 +1,12 @@
+{
+  "slug": "lumberry",
+  "name": "Lum Berry",
+  "category": "Berry",
+  "effect": "It may be used or held by a Pokémon to recover from any status problem.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/lumberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.404Z"
+  }
+}

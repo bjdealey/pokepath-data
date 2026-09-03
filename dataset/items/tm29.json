@@ -1,0 +1,12 @@
+{
+  "slug": "tm29",
+  "name": "TM29",
+  "category": "TM",
+  "effect": "The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm29.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.231Z"
+  }
+}

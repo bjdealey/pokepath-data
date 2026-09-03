@@ -1,0 +1,12 @@
+{
+  "slug": "hm08",
+  "name": "HM08",
+  "category": "TM",
+  "effect": "A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hm08.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.801Z"
+  }
+}

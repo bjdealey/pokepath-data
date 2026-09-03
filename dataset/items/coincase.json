@@ -1,0 +1,12 @@
+{
+  "slug": "coincase",
+  "name": "Coin Case",
+  "category": "Key Item",
+  "effect": "This item is required for you to access the various gaming machines in the Game Corners across all the regions. In Diamond, Pearl, Platinum, HeartGold & SoulSilver, the Coin Case is able to hold up to 50,000 Coins, but in the previous games, it can store only up to 9,999.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/coincase.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.919Z"
+  }
+}

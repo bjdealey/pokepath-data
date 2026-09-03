@@ -1,0 +1,12 @@
+{
+  "slug": "tm09",
+  "name": "TM09",
+  "category": "TM",
+  "effect": "The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm09.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.156Z"
+  }
+}

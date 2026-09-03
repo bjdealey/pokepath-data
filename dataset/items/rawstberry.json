@@ -1,0 +1,12 @@
+{
+  "slug": "rawstberry",
+  "name": "Rawst Berry",
+  "category": "Berry",
+  "effect": "It may be used or held by a Pokémon to recover from a burn.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/rawstberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.767Z"
+  }
+}

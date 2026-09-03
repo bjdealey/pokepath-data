@@ -1,0 +1,12 @@
+{
+  "slug": "tm07",
+  "name": "TM07",
+  "category": "TM",
+  "effect": "Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice.",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm07.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.140Z"
+  }
+}

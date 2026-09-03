@@ -1,0 +1,12 @@
+{
+  "slug": "tm12",
+  "name": "TM12",
+  "category": "TM",
+  "effect": "The foe is taunted into a rage that allows it to use only attack moves for two to four turns.",
+  "price": 1500,
+  "sellPrice": 750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm12.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.181Z"
+  }
+}

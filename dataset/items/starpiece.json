@@ -1,0 +1,12 @@
+{
+  "slug": "starpiece",
+  "name": "Star Piece",
+  "category": "Miscellaneous",
+  "effect": "An item you can sell for 4900",
+  "price": 24000,
+  "sellPrice": 12000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/starpiece.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.981Z"
+  }
+}

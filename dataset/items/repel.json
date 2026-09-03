@@ -1,0 +1,12 @@
+{
+  "slug": "repel",
+  "name": "Repel",
+  "category": "Miscellaneous",
+  "effect": "Prevents Wild Pokémon of a level lower to the first Pokémon in your party from challenging you for 100 steps.",
+  "price": 350,
+  "sellPrice": 175,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/repel.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.799Z"
+  }
+}

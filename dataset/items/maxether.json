@@ -1,0 +1,12 @@
+{
+  "slug": "maxether",
+  "name": "Max Ether",
+  "category": "Recovery",
+  "effect": "Completely restores the PP of one of the Pokémon's moves",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/maxether.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.454Z"
+  }
+}

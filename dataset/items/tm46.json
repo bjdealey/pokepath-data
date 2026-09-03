@@ -1,0 +1,12 @@
+{
+  "slug": "tm46",
+  "name": "TM46",
+  "category": "TM",
+  "effect": "The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm46.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.310Z"
+  }
+}

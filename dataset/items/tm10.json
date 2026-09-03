@@ -1,0 +1,12 @@
+{
+  "slug": "tm10",
+  "name": "TM10",
+  "category": "TM",
+  "effect": "A variable move that changes type and power depending on the hidden ability of the Pokémon using it.",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm10.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.166Z"
+  }
+}

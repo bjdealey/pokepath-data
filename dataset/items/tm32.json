@@ -1,0 +1,12 @@
+{
+  "slug": "tm32",
+  "name": "TM32",
+  "category": "TM",
+  "effect": "The user begins moving so quickly that it creates illusory copies to raise its evasiveness.",
+  "price": 1000,
+  "sellPrice": 500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm32.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.247Z"
+  }
+}

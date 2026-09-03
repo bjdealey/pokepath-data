@@ -1,0 +1,12 @@
+{
+  "slug": "tm49",
+  "name": "TM49",
+  "category": "TM",
+  "effect": "The user steals the effects of any healing or status-changing move the foe attempts to use.",
+  "price": 1500,
+  "sellPrice": 750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm49.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.316Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "itemfinder",
+  "name": "Itemfinder",
+  "category": "Key Item",
+  "effect": "This item allows you to search for items hidden in the overworld. When you use the item, it will beep if you are near a hidden item.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/itemfinder.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.865Z"
+  }
+}

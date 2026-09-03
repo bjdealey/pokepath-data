@@ -1,0 +1,12 @@
+{
+  "slug": "liechiberry",
+  "name": "Liechi Berry",
+  "category": "Berry",
+  "effect": "If held by a Pokémon, it raises its Attack stat in a pinch.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/liechiberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.388Z"
+  }
+}

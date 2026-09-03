@@ -1,0 +1,12 @@
+{
+  "slug": "superpotion",
+  "name": "Super Potion",
+  "category": "Recovery",
+  "effect": "Heals a Pokémon by 50HPAs of Pokémon Sun & Moon, it heals a Pokémon by 60HP",
+  "price": 700,
+  "sellPrice": 350,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/superpotion.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.993Z"
+  }
+}

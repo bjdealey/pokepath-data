@@ -1,0 +1,12 @@
+{
+  "slug": "king-s-rock",
+  "name": "King's Rock",
+  "category": "Hold Item / Evolutionary",
+  "effect": "When this item is held by a Pokémon, the likelihood of the opponent flinching from a damaging attack by this Pokémon is increased by 10 %.This item, when held by a Pokémon and the Pokémon is traded evolves the following Pokémon",
+  "price": 10000,
+  "sellPrice": 5000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/king-s-rock.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.331Z"
+  }
+}

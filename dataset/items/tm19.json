@@ -1,0 +1,12 @@
+{
+  "slug": "tm19",
+  "name": "TM19",
+  "category": "TM",
+  "effect": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm19.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.194Z"
+  }
+}

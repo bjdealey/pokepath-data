@@ -1,0 +1,12 @@
+{
+  "slug": "tm05",
+  "name": "TM05",
+  "category": "TM",
+  "effect": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+  "price": 1000,
+  "sellPrice": 500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm05.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.124Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "machbike",
+  "name": "Mach Bike",
+  "category": "Key Item",
+  "effect": "This item increases the speed you can travel on the overworld. It has multiple speed settings which you can toggle with the B-button. The fastest speed will allow you to ride up certain cliffs.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/machbike.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.410Z"
+  }
+}

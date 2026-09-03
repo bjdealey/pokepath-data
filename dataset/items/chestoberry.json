@@ -1,0 +1,12 @@
+{
+  "slug": "chestoberry",
+  "name": "Chesto Berry",
+  "category": "Berry",
+  "effect": "It may be used or held by a Pokémon to recover from sleep.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/chestoberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.903Z"
+  }
+}

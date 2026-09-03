@@ -1,0 +1,12 @@
+{
+  "slug": "tinymushroom",
+  "name": "TinyMushroom",
+  "category": "Miscellaneous",
+  "effect": "An item you can sell for 250In FireRed/LeafGreen, you could exchange two of these to learn a move in your Pokémon's level up list which it has since forgotten at the Move Relearner in Two Island",
+  "price": 1000,
+  "sellPrice": 500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tinymushroom.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.085Z"
+  }
+}

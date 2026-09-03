@@ -1,0 +1,12 @@
+{
+  "slug": "wepearberry",
+  "name": "Wepear Berry",
+  "category": "Berry",
+  "effect": "In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon.",
+  "price": 20,
+  "sellPrice": 10,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/wepearberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.371Z"
+  }
+}

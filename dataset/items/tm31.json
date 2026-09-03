@@ -1,0 +1,12 @@
+{
+  "slug": "tm31",
+  "name": "TM31",
+  "category": "TM",
+  "effect": "The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm31.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.240Z"
+  }
+}

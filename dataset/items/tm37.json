@@ -1,0 +1,12 @@
+{
+  "slug": "tm37",
+  "name": "TM37",
+  "category": "TM",
+  "effect": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm37.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.262Z"
+  }
+}

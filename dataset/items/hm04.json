@@ -1,0 +1,12 @@
+{
+  "slug": "hm04",
+  "name": "HM04",
+  "category": "TM",
+  "effect": "The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hm04.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.785Z"
+  }
+}

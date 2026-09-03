@@ -1,0 +1,12 @@
+{
+  "slug": "revive",
+  "name": "Revive",
+  "category": "Recovery",
+  "effect": "Restores a fainted Pokémon to 50% of their current maximum possible Hit Points",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/revive.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.808Z"
+  }
+}

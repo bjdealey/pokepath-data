@@ -1,0 +1,12 @@
+{
+  "slug": "tm28",
+  "name": "TM28",
+  "category": "TM",
+  "effect": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+  "price": 2000,
+  "sellPrice": 1000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/tm28.shtml",
+    "scrapedAt": "2026-09-03T20:14:38.224Z"
+  }
+}

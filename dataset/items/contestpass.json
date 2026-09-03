@@ -1,0 +1,12 @@
+{
+  "slug": "contestpass",
+  "name": "Contest Pass",
+  "category": "Key Item",
+  "effect": "This item is programmed into multiple games, but is only obtainable within Ruby & Sapphire. It is required to enter the Pokémon Contests.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/contestpass.shtml",
+    "scrapedAt": "2026-09-03T20:14:33.925Z"
+  }
+}

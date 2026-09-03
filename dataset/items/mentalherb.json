@@ -1,0 +1,12 @@
+{
+  "slug": "mentalherb",
+  "name": "Mental Herb",
+  "category": "Hold Item",
+  "effect": "In Generation IV, at the end of using a move, if the holder of this item is Infatuated, the Pokémon recovers. This item disappears after use.In Generation V, at the end of using a move, if the holder of this item is Infatuated, has a move disabled or has been affected by the moves Taunt, Encore or Torment, this item heals the holder. The Mental Herb disappears after use.",
+  "price": 10000,
+  "sellPrice": 5000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/mentalherb.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.479Z"
+  }
+}

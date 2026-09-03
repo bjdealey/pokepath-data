@@ -1,0 +1,12 @@
+{
+  "slug": "hondewberry",
+  "name": "Hondew Berry",
+  "category": "Berry",
+  "effect": "Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hondewberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.818Z"
+  }
+}

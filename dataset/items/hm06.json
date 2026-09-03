@@ -1,0 +1,12 @@
+{
+  "slug": "hm06",
+  "name": "HM06",
+  "category": "TM",
+  "effect": "The user slugs the foe with a shattering punch. It can also smash cracked boulders.",
+  "price": null,
+  "sellPrice": null,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/hm06.shtml",
+    "scrapedAt": "2026-09-03T20:14:35.793Z"
+  }
+}

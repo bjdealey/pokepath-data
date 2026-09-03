@@ -10,6 +10,7 @@ import { parsePokemon } from "./parse/pokemon.ts";
 import { scrapeEncounters } from "./scrape/encounters.ts";
 import { scrapeItems } from "./scrape/items.ts";
 import { scrapeMoves } from "./scrape/moves.ts";
+import { scrapeItemdex } from "./scrape/itemdex.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import type { PokemonRecord } from "./types.ts";
@@ -94,6 +95,10 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ crawling Hoenn pokearth pages for Emerald location items…`);
   const r = await scrapeItems(refresh);
   console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.items} items → dataset/games/emerald/`);
+} else if (entity === "itemdex") {
+  console.log(`▶ scraping ItemDex definitions (effect + price) for Emerald items…`);
+  const r = await scrapeItemdex(refresh);
+  console.log(`✔ ${r.items} item definitions (of ${r.slugs}) → dataset/items/`);
 } else if (entity === "moves") {
   const limit = arg && /^\d+$/.test(arg) ? Number(arg) : 0;
   console.log(`▶ scraping Gen-III moves${limit ? ` (first ${limit})` : ""}…`);
@@ -110,6 +115,6 @@ if (!entity || entity === "pokemon") {
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "encounters", "items", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "encounters", "items", "itemdex", or "trainers"`);
   process.exit(1);
 }

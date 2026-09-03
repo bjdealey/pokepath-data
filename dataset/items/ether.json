@@ -1,0 +1,12 @@
+{
+  "slug": "ether",
+  "name": "Ether",
+  "category": "Recovery",
+  "effect": "Restores the PP of one of the Pokémon's moves by 10PP.",
+  "price": 1200,
+  "sellPrice": 600,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/ether.shtml",
+    "scrapedAt": "2026-09-03T20:14:34.018Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "maxrepel",
+  "name": "Max Repel",
+  "category": "Miscellaneous",
+  "effect": "Prevents Wild Pokémon of a level lower to the first Pokémon in your party from challenging you for 250 steps.",
+  "price": 700,
+  "sellPrice": 350,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/maxrepel.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.461Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "silverpowder",
+  "name": "SilverPowder",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Bug-type move used by the holder has its power increased by 20%In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Bug-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/silverpowder.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.848Z"
+  }
+}

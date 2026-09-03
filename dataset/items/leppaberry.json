@@ -1,0 +1,12 @@
+{
+  "slug": "leppaberry",
+  "name": "Leppa Berry",
+  "category": "Berry",
+  "effect": "It may be used or held by a Pokémon to restore a move's PP by 10.",
+  "price": 80,
+  "sellPrice": 40,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/leppaberry.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.370Z"
+  }
+}

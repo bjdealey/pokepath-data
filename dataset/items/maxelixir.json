@@ -1,0 +1,12 @@
+{
+  "slug": "maxelixir",
+  "name": "Max Elixir",
+  "category": "Recovery",
+  "effect": "Completely restores the PP of all of the Pokémon's moves by 10PP.",
+  "price": 4500,
+  "sellPrice": 2250,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/maxelixir.shtml",
+    "scrapedAt": "2026-09-03T20:14:37.444Z"
+  }
+}
