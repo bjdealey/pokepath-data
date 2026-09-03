@@ -38,6 +38,19 @@ export interface Learnset {
   tutor: string[]; // move-tutor names (Emerald-applicable)
 }
 
+/** The canonical Gen-3 TM/HM → move table (derived from the learnsets), with
+ * the move's details and where it's obtained in Emerald. */
+export interface Machine {
+  machine: string; // "TM06" / "HM01"
+  kind: "TM" | "HM";
+  number: number;
+  move: string;
+  moveSlug: string | null;
+  type: string | null;
+  category: string | null;
+  emerald: { badge?: string; locations: Array<{ location: string; method: string }> };
+}
+
 /** How a Pokémon learns a move (derived by inverting the Pokémon learnsets). */
 export interface LearnedByEntry {
   pokemon: string; // slug

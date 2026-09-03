@@ -1,0 +1,889 @@
+[
+  {
+    "machine": "HM01",
+    "kind": "HM",
+    "number": 1,
+    "move": "Cut",
+    "moveSlug": "cut",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Rustboro City",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "HM02",
+    "kind": "HM",
+    "number": 2,
+    "move": "Fly",
+    "moveSlug": "fly",
+    "type": "flying",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 119",
+          "method": "Gift from Rival"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "HM03",
+    "kind": "HM",
+    "number": 3,
+    "move": "Surf",
+    "moveSlug": "surf",
+    "type": "water",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Petalburg City",
+          "method": "Gift from Wally's Family"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "HM04",
+    "kind": "HM",
+    "number": 4,
+    "move": "Strength",
+    "moveSlug": "strength",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Rusturf Tunnel",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "HM05",
+    "kind": "HM",
+    "number": 5,
+    "move": "Flash",
+    "moveSlug": "flash",
+    "type": "normal",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "HM06",
+    "kind": "HM",
+    "number": 6,
+    "move": "Rock Smash",
+    "moveSlug": "rocksmash",
+    "type": "fighting",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Mauville City",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "HM07",
+    "kind": "HM",
+    "number": 7,
+    "move": "Waterfall",
+    "moveSlug": "waterfall",
+    "type": "water",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "HM08",
+    "kind": "HM",
+    "number": 8,
+    "move": "Dive",
+    "moveSlug": "dive",
+    "type": "water",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Mossdeep City",
+          "method": "Gift from Steven"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM01",
+    "kind": "TM",
+    "number": 1,
+    "move": "Focus Punch",
+    "moveSlug": "focuspunch",
+    "type": "fighting",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 115",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM02",
+    "kind": "TM",
+    "number": 2,
+    "move": "Dragon Claw",
+    "moveSlug": "dragonclaw",
+    "type": "dragon",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM03",
+    "kind": "TM",
+    "number": 3,
+    "move": "Water Pulse",
+    "moveSlug": "waterpulse",
+    "type": "water",
+    "category": "special",
+    "emerald": {
+      "badge": "Rain Badge",
+      "locations": [
+        {
+          "location": "Sootopolis City",
+          "method": "Gift from Wallace/Juan"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM04",
+    "kind": "TM",
+    "number": 4,
+    "move": "Calm Mind",
+    "moveSlug": "calmmind",
+    "type": "psychic",
+    "category": "status",
+    "emerald": {
+      "badge": "Mind Badge",
+      "locations": [
+        {
+          "location": "Mossdeep City",
+          "method": "Gift from Tate & Liza"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM05",
+    "kind": "TM",
+    "number": 5,
+    "move": "Roar",
+    "moveSlug": "roar",
+    "type": "normal",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 114",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM06",
+    "kind": "TM",
+    "number": 6,
+    "move": "Toxic",
+    "moveSlug": "toxic",
+    "type": "poison",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Fierypath",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM07",
+    "kind": "TM",
+    "number": 7,
+    "move": "Hail",
+    "moveSlug": "hail",
+    "type": "ice",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Shoal Cave",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM08",
+    "kind": "TM",
+    "number": 8,
+    "move": "Bulk Up",
+    "moveSlug": "bulkup",
+    "type": "fighting",
+    "category": "status",
+    "emerald": {
+      "badge": "Knuckle Badge",
+      "locations": [
+        {
+          "location": "Dewford Town",
+          "method": "Gift from Brawly"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM09",
+    "kind": "TM",
+    "number": 9,
+    "move": "Bullet Seed",
+    "moveSlug": "bulletseed",
+    "type": "grass",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 104",
+          "method": "Gift from Man"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM10",
+    "kind": "TM",
+    "number": 10,
+    "move": "Hidden Power",
+    "moveSlug": "hiddenpower",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Fortree City",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM11",
+    "kind": "TM",
+    "number": 11,
+    "move": "Sunny Day",
+    "moveSlug": "sunnyday",
+    "type": "fire",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Scorchedslab",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM12",
+    "kind": "TM",
+    "number": 12,
+    "move": "Taunt",
+    "moveSlug": "taunt",
+    "type": "dark",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 110",
+          "method": "Gift from Trick House 5"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM13",
+    "kind": "TM",
+    "number": 13,
+    "move": "Ice Beam",
+    "moveSlug": "icebeam",
+    "type": "ice",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM14",
+    "kind": "TM",
+    "number": 14,
+    "move": "Blizzard",
+    "moveSlug": "blizzard",
+    "type": "ice",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM15",
+    "kind": "TM",
+    "number": 15,
+    "move": "Hyper Beam",
+    "moveSlug": "hyperbeam",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM16",
+    "kind": "TM",
+    "number": 16,
+    "move": "Light Screen",
+    "moveSlug": "lightscreen",
+    "type": "psychic",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM17",
+    "kind": "TM",
+    "number": 17,
+    "move": "Protect",
+    "moveSlug": "protect",
+    "type": "normal",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM18",
+    "kind": "TM",
+    "number": 18,
+    "move": "Rain Dance",
+    "moveSlug": "raindance",
+    "type": "water",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM19",
+    "kind": "TM",
+    "number": 19,
+    "move": "Giga Drain",
+    "moveSlug": "gigadrain",
+    "type": "grass",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 123",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM20",
+    "kind": "TM",
+    "number": 20,
+    "move": "Safeguard",
+    "moveSlug": "safeguard",
+    "type": "normal",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM21",
+    "kind": "TM",
+    "number": 21,
+    "move": "Frustration",
+    "moveSlug": "frustration",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Pacifidlog Town",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM22",
+    "kind": "TM",
+    "number": 22,
+    "move": "Solarbeam",
+    "moveSlug": "solarbeam",
+    "type": "grass",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM23",
+    "kind": "TM",
+    "number": 23,
+    "move": "Iron Tail",
+    "moveSlug": "irontail",
+    "type": "steel",
+    "category": "physical",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM24",
+    "kind": "TM",
+    "number": 24,
+    "move": "Thunderbolt",
+    "moveSlug": "thunderbolt",
+    "type": "electric",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Mauville City",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM25",
+    "kind": "TM",
+    "number": 25,
+    "move": "Thunder",
+    "moveSlug": "thunder",
+    "type": "electric",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM26",
+    "kind": "TM",
+    "number": 26,
+    "move": "Earthquake",
+    "moveSlug": "earthquake",
+    "type": "ground",
+    "category": "physical",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM27",
+    "kind": "TM",
+    "number": 27,
+    "move": "Return",
+    "moveSlug": "return",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Fallarbor Town",
+          "method": "Gift from Prof. Cozmo"
+        },
+        {
+          "location": "Pacifidlog Town",
+          "method": "Gift from Gentleman"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM28",
+    "kind": "TM",
+    "number": 28,
+    "move": "Dig",
+    "moveSlug": "dig",
+    "type": "ground",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 114",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM29",
+    "kind": "TM",
+    "number": 29,
+    "move": "Psychic",
+    "moveSlug": "psychic",
+    "type": "psychic",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Victory Road",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM30",
+    "kind": "TM",
+    "number": 30,
+    "move": "Shadow Ball",
+    "moveSlug": "shadowball",
+    "type": "ghost",
+    "category": "physical",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM31",
+    "kind": "TM",
+    "number": 31,
+    "move": "Brick Break",
+    "moveSlug": "brickbreak",
+    "type": "fighting",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Sootopolis City",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM32",
+    "kind": "TM",
+    "number": 32,
+    "move": "Double Team",
+    "moveSlug": "doubleteam",
+    "type": "normal",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 113",
+          "method": "Itemfinder"
+        },
+        {
+          "location": "Mauville City",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM33",
+    "kind": "TM",
+    "number": 33,
+    "move": "Reflect",
+    "moveSlug": "reflect",
+    "type": "psychic",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM34",
+    "kind": "TM",
+    "number": 34,
+    "move": "Shock Wave",
+    "moveSlug": "shockwave",
+    "type": "electric",
+    "category": "special",
+    "emerald": {
+      "badge": "Dynamo Badge",
+      "locations": [
+        {
+          "location": "Mauville City",
+          "method": "Gift from Wattson"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM35",
+    "kind": "TM",
+    "number": 35,
+    "move": "Flamethrower",
+    "moveSlug": "flamethrower",
+    "type": "fire",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM36",
+    "kind": "TM",
+    "number": 36,
+    "move": "Sludge Bomb",
+    "moveSlug": "sludgebomb",
+    "type": "poison",
+    "category": "physical",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM37",
+    "kind": "TM",
+    "number": 37,
+    "move": "Sandstorm",
+    "moveSlug": "sandstorm",
+    "type": "rock",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 111",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM38",
+    "kind": "TM",
+    "number": 38,
+    "move": "Fire Blast",
+    "moveSlug": "fireblast",
+    "type": "fire",
+    "category": "special",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM39",
+    "kind": "TM",
+    "number": 39,
+    "move": "Rock Tomb",
+    "moveSlug": "rocktomb",
+    "type": "rock",
+    "category": "physical",
+    "emerald": {
+      "badge": "Stone Badge",
+      "locations": [
+        {
+          "location": "Rustboro City",
+          "method": "Gift from Roxanne"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM40",
+    "kind": "TM",
+    "number": 40,
+    "move": "Aerial Ace",
+    "moveSlug": "aerialace",
+    "type": "flying",
+    "category": "physical",
+    "emerald": {
+      "badge": "Feather Badge",
+      "locations": [
+        {
+          "location": "Fortree City",
+          "method": "Gift from Winona"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM41",
+    "kind": "TM",
+    "number": 41,
+    "move": "Torment",
+    "moveSlug": "torment",
+    "type": "dark",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Slateport City",
+          "method": "Gift from Sailor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM42",
+    "kind": "TM",
+    "number": 42,
+    "move": "Facade",
+    "moveSlug": "facade",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "badge": "Balance Badge",
+      "locations": [
+        {
+          "location": "Petalburg City",
+          "method": "Gift from Norman"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM43",
+    "kind": "TM",
+    "number": 43,
+    "move": "Secret Power",
+    "moveSlug": "secretpower",
+    "type": "normal",
+    "category": "physical",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Route 111",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM44",
+    "kind": "TM",
+    "number": 44,
+    "move": "Rest",
+    "moveSlug": "rest",
+    "type": "psychic",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM45",
+    "kind": "TM",
+    "number": 45,
+    "move": "Attract",
+    "moveSlug": "attract",
+    "type": "normal",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM46",
+    "kind": "TM",
+    "number": 46,
+    "move": "Thief",
+    "moveSlug": "thief",
+    "type": "dark",
+    "category": "special",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Slateport City",
+          "method": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM47",
+    "kind": "TM",
+    "number": 47,
+    "move": "Steel Wing",
+    "moveSlug": "steelwing",
+    "type": "steel",
+    "category": "physical",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM48",
+    "kind": "TM",
+    "number": 48,
+    "move": "Skill Swap",
+    "moveSlug": "skillswap",
+    "type": "psychic",
+    "category": "status",
+    "emerald": {
+      "locations": []
+    }
+  },
+  {
+    "machine": "TM49",
+    "kind": "TM",
+    "number": 49,
+    "move": "Snatch",
+    "moveSlug": "snatch",
+    "type": "dark",
+    "category": "status",
+    "emerald": {
+      "locations": [
+        {
+          "location": "Sstidal",
+          "method": "Gift"
+        }
+      ]
+    }
+  },
+  {
+    "machine": "TM50",
+    "kind": "TM",
+    "number": 50,
+    "move": "Overheat",
+    "moveSlug": "overheat",
+    "type": "fire",
+    "category": "special",
+    "emerald": {
+      "badge": "Heat Badge",
+      "locations": [
+        {
+          "location": "Lavaridge Town",
+          "method": "Gift from Flannery"
+        }
+      ]
+    }
+  }
+]

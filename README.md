@@ -14,6 +14,7 @@ node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts moves              # scrape all Gen-III moves (attackdex); `moves 20` = first 20
 node src/run.ts learnedby          # bake move→Pokémon reverse index into moves (after pokemon+moves)
+node src/run.ts machines           # derive TM/HM → move table (after pokemon; +moves/story/items enrich)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
@@ -22,7 +23,7 @@ npm test                           # parser fixture tests
 ```
 
 Output → canonical `dataset/{pokemon,moves,items}/<slug>.json` (each with an
-`index.json`), plus game-scoped
+`index.json`) + `dataset/machines.json`, plus game-scoped
 `dataset/games/<game>/{encounters,locations,items,trainers,story}.json`.
 
 ## How it works
@@ -60,6 +61,10 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   `dataset/items/<slug>.json`; slugs match the location items — `games/emerald/items.json`
   says *where*, this says *what it does*. Price is Serebii's ItemDex value (not gen-scoped,
   so latest where an item's price changed across gens).
+- ✅ `machines` — the canonical Gen-3 **TM/HM → move table** (`dataset/machines.json`,
+  58 = 50 TMs + 8 HMs), derived by inverting the machine learnsets (no network). Each
+  carries the move + type/category and its Emerald source (gym-badge reward or on-ground
+  find) — e.g. TM39 Rock Tomb (Stone Badge), HM03 Surf (Petalburg City).
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

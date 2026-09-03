@@ -12,6 +12,7 @@ import { scrapeItems } from "./scrape/items.ts";
 import { scrapeMoves } from "./scrape/moves.ts";
 import { scrapeItemdex } from "./scrape/itemdex.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
+import { deriveMachines } from "./derive/machines.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import type { PokemonRecord } from "./types.ts";
 
@@ -109,12 +110,17 @@ if (!entity || entity === "pokemon") {
   const r = deriveLearnedBy();
   console.log(`✔ ${r.withLearners}/${r.moves} moves have learners, ${r.totalLinks} links`);
   if (r.unmatched.length) console.warn(`⚠ ${r.unmatched.length} unmatched move names: ${r.unmatched.slice(0, 15).join(", ")}`);
+} else if (entity === "machines") {
+  console.log(`▶ deriving the TM/HM → move table from learnsets…`);
+  const r = deriveMachines();
+  console.log(`✔ ${r.machines} machines (${r.tms} TMs, ${r.hms} HMs) → dataset/machines.json`);
+  if (r.unresolved.length) console.warn(`⚠ ${r.unresolved.length} unresolved move slugs: ${r.unresolved.join(", ")}`);
 } else if (entity === "trainers") {
   console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "encounters", "items", "itemdex", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "encounters", "items", "itemdex", or "trainers"`);
   process.exit(1);
 }
