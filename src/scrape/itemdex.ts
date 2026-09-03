@@ -12,6 +12,21 @@ import type { ItemRecord } from "../types.ts";
 const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const itemUrl = (slug: string) => `https://www.serebii.net/itemdex/${slug}.shtml`;
 
+// Serebii's ItemDex keys some items by a dotted slug (exp.share, guardspec.) or
+// by their modern name — the Gen-3 name the pokearth pages link to 404s. Map the
+// clean location slug to the real ItemDex slug; the record is still keyed by the
+// location slug so it joins games/emerald/items.json. (Verified against the
+// /itemdex/ index; the record's effect/price is current-gen where the item was
+// renamed, consistent with the rest of the ItemDex.)
+const ITEMDEX_SLUG: Record<string, string> = {
+  "exp-share": "exp.share",
+  "guard-spec": "guardspec.",
+  parlyzheal: "paralyzeheal", // → Paralyze Heal
+  xdefend: "xdefense", // → X Defense
+  xspecial: "xsp.atk", // → X Sp. Atk
+  nevermeltice: "never-meltice",
+};
+
 export async function scrapeItemdex(refresh = false) {
   const locPath = `${DATASET}games/emerald/items.json`;
   if (!existsSync(locPath)) throw new Error("run `items` first — needs games/emerald/items.json for the slug list");
@@ -22,9 +37,11 @@ export async function scrapeItemdex(refresh = false) {
   const missing: string[] = [];
   for (const slug of slugs) {
     // Location slugs are sometimes slugified names (king-s-rock); the ItemDex
-    // uses concatenated slugs (kingsrock). Try the de-hyphenated form on 404.
+    // uses concatenated slugs (kingsrock). Try the known override, then the slug
+    // itself, then the de-hyphenated form, on 404.
     let html: string | undefined;
-    for (const candidate of [slug, slug.replace(/-/g, "")]) {
+    for (const candidate of [ITEMDEX_SLUG[slug], slug, slug.replace(/-/g, "")]) {
+      if (!candidate) continue;
       try {
         html = await fetchCached(itemUrl(candidate), { refresh });
         break;

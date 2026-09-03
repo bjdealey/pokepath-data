@@ -1,0 +1,12 @@
+{
+  "slug": "parlyzheal",
+  "name": "Parlyze Heal",
+  "category": "Recovery",
+  "effect": "Heals the Paralysis Status Ailment and awakens the Pokémon.",
+  "price": 200,
+  "sellPrice": 100,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/parlyzheal.shtml",
+    "scrapedAt": "2026-09-03T21:27:42.966Z"
+  }
+}

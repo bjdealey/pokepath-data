@@ -1,0 +1,12 @@
+{
+  "slug": "guard-spec",
+  "name": "Guard Spec.",
+  "category": "Battle Effect",
+  "effect": "In battle, it prevents the opponent from reducing the Pokémon's stats for five turns. It raises the Pokémon's Happiness",
+  "price": 1500,
+  "sellPrice": 750,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/guard-spec.shtml",
+    "scrapedAt": "2026-09-03T21:27:42.558Z"
+  }
+}
