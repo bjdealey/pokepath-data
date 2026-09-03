@@ -1,0 +1,403 @@
+{
+  "route101": {
+    "name": "Route 101",
+    "exits": {
+      "north": "oldaletown",
+      "south": "littleroottown"
+    }
+  },
+  "route102": {
+    "name": "Route 102",
+    "exits": {
+      "east": "oldaletown",
+      "west": "petalburgcity"
+    }
+  },
+  "route103": {
+    "name": "Route 103",
+    "exits": {
+      "south": "oldaletown",
+      "east": "route110"
+    }
+  },
+  "route104": {
+    "name": "Route 104",
+    "exits": {
+      "north": "rustborocity",
+      "south": "route105",
+      "east": "petalburgcity"
+    }
+  },
+  "route105": {
+    "name": "Route 105",
+    "exits": {
+      "north": "route104",
+      "south": "route106"
+    }
+  },
+  "route106": {
+    "name": "Route 106",
+    "exits": {
+      "north": "route105",
+      "south": "dewfordtown"
+    }
+  },
+  "route107": {
+    "name": "Route 107",
+    "exits": {
+      "east": "route108",
+      "west": "dewfordtown"
+    }
+  },
+  "route108": {
+    "name": "Route 108",
+    "exits": {
+      "north": "seamauville",
+      "east": "route109",
+      "west": "route107"
+    }
+  },
+  "route109": {
+    "name": "Route 109",
+    "exits": {
+      "north": "slateportcity",
+      "west": "route108"
+    }
+  },
+  "route110": {
+    "name": "Route 110",
+    "exits": {
+      "north": "mauvillecity",
+      "south": "slateportcity",
+      "west": "route103"
+    }
+  },
+  "route111": {
+    "name": "Route 111",
+    "exits": {
+      "north": "route113",
+      "south": "mauvillecity",
+      "west": "route112"
+    }
+  },
+  "route112": {
+    "name": "Route 112",
+    "exits": {
+      "north": "jaggedpass",
+      "east": "route111",
+      "west": "lavaridgetown"
+    }
+  },
+  "route113": {
+    "name": "Route 113",
+    "exits": {
+      "east": "route111",
+      "west": "fallarbortown"
+    }
+  },
+  "route114": {
+    "name": "Route 114",
+    "exits": {
+      "east": "fallarbortown"
+    }
+  },
+  "route115": {
+    "name": "Route 115",
+    "exits": {
+      "south": "rustborocity"
+    }
+  },
+  "route116": {
+    "name": "Route 116",
+    "exits": {
+      "west": "rustborocity"
+    }
+  },
+  "route117": {
+    "name": "Route 117",
+    "exits": {
+      "east": "mauvillecity",
+      "west": "verdanturftown"
+    }
+  },
+  "route118": {
+    "name": "Route 118",
+    "exits": {
+      "north": "route119",
+      "east": "route123",
+      "west": "mauvillecity"
+    }
+  },
+  "route119": {
+    "name": "Route 119",
+    "exits": {
+      "south": "route118",
+      "east": "fortreecity"
+    }
+  },
+  "route120": {
+    "name": "Route 120",
+    "exits": {
+      "south": "route121",
+      "west": "fortreecity"
+    }
+  },
+  "route121": {
+    "name": "Route 121",
+    "exits": {
+      "south": "route122",
+      "east": "lilycovecity",
+      "west": "route120"
+    }
+  },
+  "route122": {
+    "name": "Route 122",
+    "exits": {
+      "north": "route121",
+      "south": "route123"
+    }
+  },
+  "route123": {
+    "name": "Route 123",
+    "exits": {
+      "north": "route122",
+      "west": "route118"
+    }
+  },
+  "route124": {
+    "name": "Route 124",
+    "exits": {
+      "south": "route126",
+      "east": "mossdeepcity",
+      "west": "lilycovecity"
+    }
+  },
+  "route125": {
+    "name": "Route 125",
+    "exits": {
+      "south": "mossdeepcity",
+      "west": "route124"
+    }
+  },
+  "route126": {
+    "name": "Route 126",
+    "exits": {
+      "north": "route124",
+      "south": "secretislet",
+      "east": "route127"
+    }
+  },
+  "route127": {
+    "name": "Route 127",
+    "exits": {
+      "north": "mossdeepcity",
+      "south": "route128",
+      "west": "route126"
+    }
+  },
+  "route128": {
+    "name": "Route 128",
+    "exits": {
+      "north": "route127",
+      "south": "route129",
+      "east": "evergrandecity"
+    }
+  },
+  "route129": {
+    "name": "Route 129",
+    "exits": {
+      "north": "route128",
+      "south": "secretshore",
+      "west": "route130"
+    }
+  },
+  "route130": {
+    "name": "Route 130",
+    "exits": {
+      "east": "route129",
+      "west": "route131"
+    }
+  },
+  "route131": {
+    "name": "Route 131",
+    "exits": {
+      "north": "secretshore",
+      "east": "route130",
+      "west": "pacifidlogtown"
+    }
+  },
+  "route132": {
+    "name": "Route 132",
+    "exits": {
+      "east": "pacifidlogtown",
+      "west": "route133"
+    }
+  },
+  "route133": {
+    "name": "Route 133",
+    "exits": {
+      "east": "route132",
+      "west": "route134"
+    }
+  },
+  "route134": {
+    "name": "Route 134",
+    "exits": {
+      "east": "route133",
+      "west": "slateportcity"
+    }
+  },
+  "battlefrontier": {
+    "name": "Battle Frontier",
+    "exits": {}
+  },
+  "dewfordtown": {
+    "name": "Dewford Town",
+    "exits": {
+      "north": "route106",
+      "east": "route107"
+    }
+  },
+  "evergrandecity": {
+    "name": "Ever Grande City",
+    "exits": {
+      "west": "route128"
+    }
+  },
+  "fallarbortown": {
+    "name": "Fallarbor Town",
+    "exits": {
+      "east": "route113",
+      "west": "route114"
+    }
+  },
+  "fortreecity": {
+    "name": "Fortree City",
+    "exits": {
+      "east": "route120",
+      "west": "route119"
+    }
+  },
+  "jaggedpass": {
+    "name": "Jagged Pass",
+    "exits": {
+      "north": "chimney",
+      "south": "route112"
+    }
+  },
+  "lavaridgetown": {
+    "name": "Lavaridge Town",
+    "exits": {
+      "east": "route112"
+    }
+  },
+  "lilycovecity": {
+    "name": "Lilycove City",
+    "exits": {
+      "east": "route124",
+      "west": "route121"
+    }
+  },
+  "littleroottown": {
+    "name": "Littleroot Town",
+    "exits": {
+      "north": "route101"
+    }
+  },
+  "mauvillecity": {
+    "name": "Mauville City",
+    "exits": {
+      "north": "route111",
+      "south": "route110",
+      "east": "route118",
+      "west": "route117"
+    }
+  },
+  "meteorfalls": {
+    "name": "Meteor Falls",
+    "exits": {
+      "north": "route114",
+      "south": "route115"
+    }
+  },
+  "mossdeepcity": {
+    "name": "Mossdeep City",
+    "exits": {
+      "north": "route125",
+      "south": "route127",
+      "west": "route124"
+    }
+  },
+  "oldaletown": {
+    "name": "Oldale Town",
+    "exits": {
+      "north": "route103",
+      "south": "route101",
+      "west": "route102"
+    }
+  },
+  "pacifidlogtown": {
+    "name": "Pacifidlog Town",
+    "exits": {
+      "east": "route131",
+      "west": "route132"
+    }
+  },
+  "petalburgcity": {
+    "name": "Petalburg City",
+    "exits": {
+      "east": "route102",
+      "west": "route104"
+    }
+  },
+  "rustborocity": {
+    "name": "Rustboro City",
+    "exits": {
+      "north": "route115",
+      "south": "route104",
+      "east": "route116"
+    }
+  },
+  "seamauville": {
+    "name": "Sea Mauville",
+    "exits": {
+      "south": "route108"
+    }
+  },
+  "secretislet": {
+    "name": "Secret Islet",
+    "exits": {
+      "north": "route126"
+    }
+  },
+  "secretshore": {
+    "name": "Secret Shore",
+    "exits": {
+      "north": "route129"
+    }
+  },
+  "slateportcity": {
+    "name": "Slateport City",
+    "exits": {
+      "north": "route110",
+      "south": "route109",
+      "east": "route134"
+    }
+  },
+  "sootopoliscity": {
+    "name": "Sootopolis City",
+    "exits": {
+      "south": "route126"
+    }
+  },
+  "southernisland": {
+    "name": "Southern Island",
+    "exits": {}
+  },
+  "verdanturftown": {
+    "name": "Verdanturf Town",
+    "exits": {
+      "east": "route117"
+    }
+  }
+}

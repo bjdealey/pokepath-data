@@ -9,6 +9,7 @@ import { fetchCached } from "./fetch.ts";
 import { parsePokemon } from "./parse/pokemon.ts";
 import { scrapeEncounters } from "./scrape/encounters.ts";
 import { scrapeItems } from "./scrape/items.ts";
+import { scrapeConnectivity } from "./scrape/connectivity.ts";
 import { scrapeMoves } from "./scrape/moves.ts";
 import { scrapeItemdex } from "./scrape/itemdex.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
@@ -121,12 +122,17 @@ if (!entity || entity === "pokemon") {
   const r = deriveTypechart();
   console.log(`✔ ${r.resolved}/${r.types} type columns → dataset/typechart.json`);
   if (r.missing.length) console.warn(`⚠ unresolved types: ${r.missing.join(", ")}`);
+} else if (entity === "connectivity") {
+  console.log(`▶ crawling pokearth exits to build the Hoenn location graph…`);
+  const r = await scrapeConnectivity(refresh);
+  console.log(`✔ ${r.locations} locations, ${r.edges} exit edges → dataset/games/emerald/connections.json`);
+  if (r.dangling.length) console.warn(`⚠ ${r.dangling.length} exits point to un-crawled locations: ${r.dangling.slice(0, 10).join(", ")}`);
 } else if (entity === "trainers") {
   console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", or "trainers"`);
   process.exit(1);
 }

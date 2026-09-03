@@ -20,12 +20,13 @@ node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) 
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
+node src/run.ts connectivity       # crawl pokearth exits → Hoenn location graph
 npm test                           # parser fixture tests
 ```
 
 Output → canonical `dataset/{pokemon,moves,items}/<slug>.json` (each with an
 `index.json`) + `dataset/{machines,typechart}.json`, plus game-scoped
-`dataset/games/<game>/{encounters,locations,items,trainers,story}.json`.
+`dataset/games/<game>/{encounters,locations,items,trainers,story,connections}.json`.
 
 ## How it works
 
@@ -91,6 +92,11 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   location placed in an *inferred* order by its median trainer level (or encounter
   level), pegged to the gym level-cap `phase`. Heuristic, not canonical — Route 101
   (L3) → … → Evergrande City (L52).
+- ✅ `connectivity` — the **Hoenn map graph** (`games/emerald/connections.json`): each
+  location → `{ name, exits: { direction → location } }`, from the pokearth pages' exit
+  links (`North Exit: Oldale Town`). Taken from the ORAS pages (the 3rd-gen pages omit
+  exits; Hoenn's topology is identical across games). A real adjacency graph for
+  pathfinding — complements the level-inferred story order.
 - ⏳ Next: other generations; optional Ruby/Sapphire level enrichment for encounters
   from `/pokearth/hoenn/3rd/`.
 
