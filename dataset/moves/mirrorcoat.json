@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "egg"
+    },
+    {
       "pokemon": "voltorb",
       "natdex": 100,
       "method": "level-up",
@@ -44,6 +69,41 @@
       "natdex": 245,
       "method": "level-up",
       "level": 61
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "egg"
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "egg"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "egg"
     },
     {
       "pokemon": "wynaut",

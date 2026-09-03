@@ -16,6 +16,41 @@
   },
   "learnedBy": [
     {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "egg"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowpoke",
       "natdex": 79,
       "method": "level-up",
@@ -26,6 +61,21 @@
       "natdex": 80,
       "method": "level-up",
       "level": 46
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "egg"
     },
     {
       "pokemon": "snorlax",
@@ -52,6 +102,46 @@
       "level": 59
     },
     {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "egg"
+    },
+    {
       "pokemon": "wooper",
       "natdex": 194,
       "method": "level-up",
@@ -62,6 +152,11 @@
       "natdex": 195,
       "method": "level-up",
       "level": 23
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
     },
     {
       "pokemon": "slugma",
@@ -86,6 +181,26 @@
       "natdex": 221,
       "method": "level-up",
       "level": 70
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "egg"
     },
     {
       "pokemon": "slakoth",
@@ -170,6 +285,11 @@
       "natdex": 368,
       "method": "level-up",
       "level": 29
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "egg"
     },
     {
       "pokemon": "regice",

@@ -198,10 +198,31 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Imprison",
+      "Destiny Bond",
+      "Pain Split",
+      "Grudge",
+      "Memento",
+      "Faint Attack"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/355.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.417Z"
+    "scrapedAt": "2026-09-03T19:47:50.961Z"
   }
 }

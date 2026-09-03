@@ -204,10 +204,36 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Grasswhistle",
+      "Acid",
+      "Teeter Dance",
+      "Dynamicpunch",
+      "Counter"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/332.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.235Z"
+    "scrapedAt": "2026-09-03T19:47:50.814Z"
   }
 }

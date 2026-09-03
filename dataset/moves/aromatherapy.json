@@ -34,6 +34,16 @@
       "level": 59
     },
     {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "egg"
+    },
+    {
       "pokemon": "roselia",
       "natdex": 315,
       "method": "level-up",

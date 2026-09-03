@@ -118,10 +118,20 @@
       "machine": "TM19"
     },
     {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "egg"
+    },
+    {
       "pokemon": "venomoth",
       "natdex": 49,
       "method": "machine",
       "machine": "TM19"
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "egg"
     },
     {
       "pokemon": "bellsprout",

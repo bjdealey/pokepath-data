@@ -175,10 +175,34 @@
         "machine": "HM02",
         "move": "Fly"
       }
+    ],
+    "egg": [
+      "Steel Wing",
+      "Foresight",
+      "Mirror Move",
+      "Gust",
+      "Quick Attack",
+      "Flail",
+      "Featherdance",
+      "Curse"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/083.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.686Z"
+    "scrapedAt": "2026-09-03T19:47:49.175Z"
   }
 }

@@ -22,6 +22,21 @@
       "level": 30
     },
     {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "egg"
+    },
+    {
       "pokemon": "rattata",
       "natdex": 19,
       "method": "level-up",
@@ -44,6 +59,46 @@
       "natdex": 22,
       "method": "level-up",
       "level": 26
+    },
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "egg"
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "egg"
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "egg"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "egg"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "egg"
     },
     {
       "pokemon": "doduo",
@@ -82,6 +137,41 @@
       "level": 26
     },
     {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "egg"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "egg"
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "egg"
+    },
+    {
       "pokemon": "umbreon",
       "natdex": 197,
       "method": "level-up",
@@ -106,10 +196,40 @@
       "level": 11
     },
     {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmontop",
       "natdex": 237,
       "method": "level-up",
       "level": 13
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
     },
     {
       "pokemon": "treecko",
@@ -130,10 +250,55 @@
       "level": 17
     },
     {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "egg"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "egg"
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "egg"
+    },
+    {
       "pokemon": "wingull",
       "natdex": 278,
       "method": "level-up",
       "level": 43
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "egg"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "egg"
     },
     {
       "pokemon": "zangoose",

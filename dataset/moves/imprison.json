@@ -22,6 +22,21 @@
       "level": 25
     },
     {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "egg"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "egg"
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "egg"
+    },
+    {
       "pokemon": "ralts",
       "natdex": 280,
       "method": "level-up",
@@ -38,6 +53,26 @@
       "natdex": 282,
       "method": "level-up",
       "level": 33
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "egg"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "egg"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "egg"
     }
   ]
 }

@@ -223,10 +223,40 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Encore",
+      "Barrier",
+      "Knock Off",
+      "Fire Punch",
+      "Thunderpunch",
+      "Ice Punch"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/064.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.541Z"
+    "scrapedAt": "2026-09-03T19:47:49.051Z"
   }
 }

@@ -40,6 +40,16 @@
       "level": 20
     },
     {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "egg"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "egg"
+    },
+    {
       "pokemon": "machop",
       "natdex": 66,
       "method": "level-up",
@@ -176,6 +186,16 @@
       "natdex": 319,
       "method": "level-up",
       "level": 16
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "egg"
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "egg"
     },
     {
       "pokemon": "huntail",

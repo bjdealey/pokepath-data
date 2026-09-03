@@ -76,6 +76,11 @@
       "level": 23
     },
     {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "egg"
+    },
+    {
       "pokemon": "skitty",
       "natdex": 300,
       "method": "level-up",

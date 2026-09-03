@@ -177,10 +177,38 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Perish Song",
+      "Present",
+      "Faint Attack",
+      "Wish",
+      "Fake Tears"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/174.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.258Z"
+    "scrapedAt": "2026-09-03T19:47:49.768Z"
   }
 }

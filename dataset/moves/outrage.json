@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
       "pokemon": "dratini",
       "natdex": 147,
       "method": "level-up",
@@ -32,6 +47,21 @@
       "natdex": 149,
       "method": "level-up",
       "level": 61
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
     },
     {
       "pokemon": "rayquaza",

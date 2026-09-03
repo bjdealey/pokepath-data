@@ -28,6 +28,16 @@
       "level": 42
     },
     {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "egg"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "egg"
+    },
+    {
       "pokemon": "gastly",
       "natdex": 92,
       "method": "level-up",
@@ -80,6 +90,21 @@
       "natdex": 238,
       "method": "level-up",
       "level": 33
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "egg"
     },
     {
       "pokemon": "sableye",

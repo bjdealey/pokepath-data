@@ -194,10 +194,32 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Metal Claw",
+      "Wing Attack",
+      "Razor Wind",
+      "Counter",
+      "Sand Tomb"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Dream Eater",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/207.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.457Z"
+    "scrapedAt": "2026-09-03T19:47:49.986Z"
   }
 }

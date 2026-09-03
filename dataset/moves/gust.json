@@ -52,16 +52,36 @@
       "level": 9
     },
     {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "egg"
+    },
+    {
       "pokemon": "venomoth",
       "natdex": 49,
       "method": "level-up",
       "level": 31
     },
     {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
       "pokemon": "articuno",
       "natdex": 144,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "egg"
     },
     {
       "pokemon": "suicune",
@@ -94,10 +114,50 @@
       "level": 13
     },
     {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "egg"
+    },
+    {
       "pokemon": "masquerain",
       "natdex": 284,
       "method": "level-up",
       "level": 26
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "egg"
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "egg"
     },
     {
       "pokemon": "tropius",

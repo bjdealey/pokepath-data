@@ -52,6 +52,16 @@
       "level": null
     },
     {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmonlee",
       "natdex": 106,
       "method": "level-up",
@@ -74,6 +84,11 @@
       "natdex": 257,
       "method": "level-up",
       "level": 16
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "egg"
     }
   ]
 }

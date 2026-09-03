@@ -16,16 +16,41 @@
   },
   "learnedBy": [
     {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmonlee",
       "natdex": 106,
       "method": "level-up",
       "level": 11
     },
     {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmontop",
       "natdex": 237,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "egg"
     }
   ]
 }

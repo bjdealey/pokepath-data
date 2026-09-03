@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
       "pokemon": "oddish",
       "natdex": 43,
       "method": "level-up",

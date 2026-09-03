@@ -32,6 +32,36 @@
       "natdex": 18,
       "method": "level-up",
       "level": 34
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "egg"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "egg"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "egg"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "egg"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
     }
   ]
 }

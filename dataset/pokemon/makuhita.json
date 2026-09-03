@@ -202,10 +202,41 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Faint Attack",
+      "Detect",
+      "Foresight",
+      "Helping Hand",
+      "Cross Chop",
+      "Revenge",
+      "Dynamicpunch",
+      "Counter"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/296.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.008Z"
+    "scrapedAt": "2026-09-03T19:47:50.569Z"
   }
 }

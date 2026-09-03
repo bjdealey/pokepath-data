@@ -189,10 +189,37 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Selfdestruct"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Explosion",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/185.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.324Z"
+    "scrapedAt": "2026-09-03T19:47:49.843Z"
   }
 }

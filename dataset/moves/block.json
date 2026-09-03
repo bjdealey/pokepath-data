@@ -16,6 +16,26 @@
   },
   "learnedBy": [
     {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "egg"
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "egg"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "egg"
+    },
+    {
       "pokemon": "snorlax",
       "natdex": 143,
       "method": "level-up",
@@ -28,10 +48,25 @@
       "level": 33
     },
     {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "egg"
+    },
+    {
       "pokemon": "nosepass",
       "natdex": 299,
       "method": "level-up",
       "level": 16
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "egg"
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "egg"
     }
   ]
 }

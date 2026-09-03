@@ -204,10 +204,32 @@
         "machine": "HM07",
         "move": "Waterfall"
       }
+    ],
+    "egg": [
+      "Bubblebeam",
+      "Aurora Beam",
+      "Rapid Spin",
+      "Dig",
+      "Flail",
+      "Knock Off",
+      "Confuse Ray"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/140.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.042Z"
+    "scrapedAt": "2026-09-03T19:47:49.544Z"
   }
 }

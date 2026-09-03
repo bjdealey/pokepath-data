@@ -28,6 +28,31 @@
       "level": null
     },
     {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "egg"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "egg"
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "egg"
+    },
+    {
       "pokemon": "beautifly",
       "natdex": 267,
       "method": "level-up",
@@ -44,6 +69,31 @@
       "natdex": 284,
       "method": "level-up",
       "level": 47
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "egg"
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "egg"
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "egg"
     }
   ]
 }

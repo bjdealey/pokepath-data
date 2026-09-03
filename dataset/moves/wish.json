@@ -16,6 +16,76 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "egg"
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "egg"
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "egg"
+    },
+    {
       "pokemon": "togepi",
       "natdex": 175,
       "method": "level-up",
@@ -40,10 +110,55 @@
       "level": 35
     },
     {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "egg"
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "egg"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "egg"
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "method": "egg"
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "egg"
+    },
+    {
       "pokemon": "illumise",
       "natdex": 314,
       "method": "level-up",
       "level": 21
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
     },
     {
       "pokemon": "latias",

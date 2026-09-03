@@ -16,10 +16,50 @@
   },
   "learnedBy": [
     {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "egg"
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "egg"
+    },
+    {
       "pokemon": "nuzleaf",
       "natdex": 274,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "egg"
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "egg"
     },
     {
       "pokemon": "absol",

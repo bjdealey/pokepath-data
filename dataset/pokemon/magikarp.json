@@ -74,10 +74,12 @@
         "move": "Flail"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/129.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.977Z"
+    "scrapedAt": "2026-09-03T19:47:49.476Z"
   }
 }

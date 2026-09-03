@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "egg"
+    },
+    {
       "pokemon": "tentacool",
       "natdex": 72,
       "method": "level-up",
@@ -28,10 +43,40 @@
       "level": 25
     },
     {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "egg"
+    },
+    {
       "pokemon": "staryu",
       "natdex": 120,
       "method": "level-up",
       "level": 28
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "egg"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "egg"
     },
     {
       "pokemon": "marill",
@@ -44,6 +89,16 @@
       "natdex": 184,
       "method": "level-up",
       "level": 24
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "egg"
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "egg"
     },
     {
       "pokemon": "corsola",

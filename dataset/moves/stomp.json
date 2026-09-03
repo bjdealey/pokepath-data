@@ -28,6 +28,16 @@
       "level": 19
     },
     {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "egg"
+    },
+    {
       "pokemon": "krabby",
       "natdex": 98,
       "method": "level-up",
@@ -70,6 +80,16 @@
       "level": 10
     },
     {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "egg"
+    },
+    {
       "pokemon": "girafarig",
       "natdex": 203,
       "method": "level-up",
@@ -94,6 +114,36 @@
       "level": 41
     },
     {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "egg"
+    },
+    {
       "pokemon": "whismur",
       "natdex": 293,
       "method": "level-up",
@@ -110,6 +160,31 @@
       "natdex": 295,
       "method": "level-up",
       "level": 29
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "egg"
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "egg"
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "egg"
     },
     {
       "pokemon": "tropius",

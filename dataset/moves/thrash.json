@@ -34,6 +34,26 @@
       "level": 63
     },
     {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "egg"
+    },
+    {
       "pokemon": "cubone",
       "natdex": 104,
       "method": "level-up",
@@ -56,6 +76,36 @@
       "natdex": 130,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "egg"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
     },
     {
       "pokemon": "teddiursa",
@@ -88,10 +138,55 @@
       "level": 29
     },
     {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "egg"
+    },
+    {
       "pokemon": "spinda",
       "natdex": 327,
       "method": "level-up",
       "level": 56
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "egg"
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "egg"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "egg"
     }
   ]
 }

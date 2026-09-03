@@ -204,10 +204,28 @@
         "machine": "TM49",
         "move": "Snatch"
       }
+    ],
+    "egg": [
+      "Quick Attack",
+      "Pursuit",
+      "Faint Attack",
+      "Gust",
+      "Whirlwind",
+      "Curse"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/042.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.389Z"
+    "scrapedAt": "2026-09-03T19:47:48.895Z"
   }
 }

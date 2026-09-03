@@ -216,10 +216,40 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Light Screen",
+      "Present",
+      "Amnesia",
+      "Future Sight",
+      "Belly Drum",
+      "Perish Song",
+      "Supersonic",
+      "Substitute"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/184.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.317Z"
+    "scrapedAt": "2026-09-03T19:47:49.838Z"
   }
 }

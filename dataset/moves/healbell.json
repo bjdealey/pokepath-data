@@ -16,10 +16,30 @@
   },
   "learnedBy": [
     {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "egg"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "egg"
+    },
+    {
       "pokemon": "miltank",
       "natdex": 241,
       "method": "level-up",
       "level": 53
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "egg"
     },
     {
       "pokemon": "celebi",

@@ -224,10 +224,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Fake Tears",
+      "Swagger",
+      "Charm",
+      "False Swipe",
+      "Helping Hand"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/286.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.943Z"
+    "scrapedAt": "2026-09-03T19:47:50.501Z"
   }
 }

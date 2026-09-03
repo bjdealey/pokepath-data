@@ -211,10 +211,40 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Light Screen",
+      "Meditate",
+      "Rolling Kick",
+      "Encore",
+      "Smellingsalt",
+      "Counter",
+      "Rock Slide"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/068.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.580Z"
+    "scrapedAt": "2026-09-03T19:47:49.078Z"
   }
 }

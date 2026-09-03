@@ -194,10 +194,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Screech",
+      "Flame Wheel",
+      "Fury Swipes",
+      "Bite",
+      "Counter",
+      "Reversal",
+      "Uproar",
+      "Swagger"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/019.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.245Z"
+    "scrapedAt": "2026-09-03T19:47:48.727Z"
   }
 }

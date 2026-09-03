@@ -215,10 +215,27 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Thrash",
+      "Whirlpool",
+      "Spark"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/340.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.283Z"
+    "scrapedAt": "2026-09-03T19:47:50.865Z"
   }
 }

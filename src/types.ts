@@ -34,13 +34,15 @@ export interface MachineMove {
 export interface Learnset {
   levelUp: LevelUpMove[];
   machine: MachineMove[];
+  egg: string[]; // egg move names
+  tutor: string[]; // move-tutor names (Emerald-applicable)
 }
 
 /** How a Pokémon learns a move (derived by inverting the Pokémon learnsets). */
 export interface LearnedByEntry {
   pokemon: string; // slug
   natdex: number;
-  method: "level-up" | "machine";
+  method: "level-up" | "machine" | "egg" | "tutor";
   level?: number | null; // for level-up (null = start/evolution)
   machine?: string; // for machine (TM/HM)
 }

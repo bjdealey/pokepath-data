@@ -32,6 +32,26 @@
       "natdex": 134,
       "method": "level-up",
       "level": 47
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "egg"
     }
   ]
 }

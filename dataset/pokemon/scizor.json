@@ -187,10 +187,33 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Counter",
+      "Safeguard",
+      "Baton Pass",
+      "Razor Wind",
+      "Reversal",
+      "Light Screen",
+      "Endure",
+      "Silver Wind"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/212.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.487Z"
+    "scrapedAt": "2026-09-03T19:47:50.019Z"
   }
 }

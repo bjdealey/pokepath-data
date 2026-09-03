@@ -18,8 +18,18 @@
     {
       "pokemon": "geodude",
       "natdex": 74,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
       "method": "level-up",
       "level": 41
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "tutor"
     },
     {
       "pokemon": "graveler",
@@ -30,8 +40,88 @@
     {
       "pokemon": "golem",
       "natdex": 76,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
       "method": "level-up",
       "level": 53
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "egg"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "egg"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "egg"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "tutor"
     },
     {
       "pokemon": "voltorb",
@@ -42,8 +132,28 @@
     {
       "pokemon": "electrode",
       "natdex": 101,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
       "method": "level-up",
       "level": 54
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "tutor"
     },
     {
       "pokemon": "koffing",
@@ -54,8 +164,28 @@
     {
       "pokemon": "weezing",
       "natdex": 110,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
       "method": "level-up",
       "level": 44
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "tutor"
     },
     {
       "pokemon": "pineco",
@@ -66,14 +196,84 @@
     {
       "pokemon": "forretress",
       "natdex": 205,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
       "method": "level-up",
       "level": 39
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "egg"
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "tutor"
     },
     {
       "pokemon": "seedot",
       "natdex": 273,
       "method": "level-up",
       "level": 43
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "tutor"
     },
     {
       "pokemon": "lunatone",
@@ -84,8 +284,18 @@
     {
       "pokemon": "solrock",
       "natdex": 338,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "tutor"
     },
     {
       "pokemon": "baltoy",
@@ -96,8 +306,28 @@
     {
       "pokemon": "claydol",
       "natdex": 344,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
       "method": "level-up",
       "level": 55
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "tutor"
     },
     {
       "pokemon": "regirock",
@@ -106,16 +336,31 @@
       "level": null
     },
     {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "tutor"
+    },
+    {
       "pokemon": "regice",
       "natdex": 378,
       "method": "level-up",
       "level": null
     },
     {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "tutor"
+    },
+    {
       "pokemon": "registeel",
       "natdex": 379,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "tutor"
     }
   ]
 }

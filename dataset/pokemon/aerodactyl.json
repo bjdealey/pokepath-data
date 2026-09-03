@@ -214,10 +214,29 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Whirlwind",
+      "Pursuit",
+      "Foresight",
+      "Steel Wing",
+      "Dragonbreath",
+      "Curse"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/142.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.058Z"
+    "scrapedAt": "2026-09-03T19:47:49.558Z"
   }
 }

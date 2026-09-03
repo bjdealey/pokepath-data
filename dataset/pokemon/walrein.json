@@ -217,10 +217,35 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Water Sport",
+      "Stockpile",
+      "Swallow",
+      "Spit Up",
+      "Yawn",
+      "Rock Slide",
+      "Curse",
+      "Fissure"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/365.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.497Z"
+    "scrapedAt": "2026-09-03T19:47:51.029Z"
   }
 }

@@ -28,6 +28,21 @@
       "level": null
     },
     {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "egg"
+    },
+    {
       "pokemon": "girafarig",
       "natdex": 203,
       "method": "level-up",

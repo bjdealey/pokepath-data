@@ -346,10 +346,20 @@
       "machine": "TM28"
     },
     {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "egg"
+    },
+    {
       "pokemon": "kingler",
       "natdex": 99,
       "method": "machine",
       "machine": "TM28"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "egg"
     },
     {
       "pokemon": "cubone",
@@ -424,10 +434,20 @@
       "machine": "TM28"
     },
     {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "egg"
+    },
+    {
       "pokemon": "kabutops",
       "natdex": 141,
       "method": "machine",
       "machine": "TM28"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "egg"
     },
     {
       "pokemon": "mew",

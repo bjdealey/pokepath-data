@@ -212,10 +212,38 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Mega Punch",
+      "Rock Slide",
+      "Block"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Explosion",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/076.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.640Z"
+    "scrapedAt": "2026-09-03T19:47:49.129Z"
   }
 }

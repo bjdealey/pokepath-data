@@ -199,10 +199,26 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/233.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.619Z"
+    "scrapedAt": "2026-09-03T19:47:50.157Z"
   }
 }

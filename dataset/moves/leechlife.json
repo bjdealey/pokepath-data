@@ -52,6 +52,21 @@
       "level": 25
     },
     {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "egg"
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "egg"
+    },
+    {
       "pokemon": "spinarak",
       "natdex": 167,
       "method": "level-up",
@@ -68,6 +83,11 @@
       "natdex": 169,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "egg"
     },
     {
       "pokemon": "nincada",

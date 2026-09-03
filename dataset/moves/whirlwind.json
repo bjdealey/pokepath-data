@@ -40,6 +40,51 @@
       "level": 20
     },
     {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "egg"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "egg"
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "egg"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "egg"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "egg"
+    },
+    {
       "pokemon": "lugia",
       "natdex": 249,
       "method": "level-up",

@@ -16,6 +16,81 @@
   },
   "learnedBy": [
     {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "egg"
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "egg"
+    },
+    {
       "pokemon": "zangoose",
       "natdex": 335,
       "method": "level-up",

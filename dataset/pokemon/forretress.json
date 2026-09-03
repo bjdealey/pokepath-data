@@ -187,10 +187,33 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Reflect",
+      "Pin Missile",
+      "Flail",
+      "Swift",
+      "Counter",
+      "Sand Tomb"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Explosion",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/205.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.444Z"
+    "scrapedAt": "2026-09-03T19:47:49.974Z"
   }
 }

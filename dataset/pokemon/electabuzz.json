@@ -194,10 +194,40 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Karate Chop",
+      "Barrier",
+      "Rolling Kick",
+      "Meditate",
+      "Cross Chop",
+      "Fire Punch",
+      "Ice Punch"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/125.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.955Z"
+    "scrapedAt": "2026-09-03T19:47:49.451Z"
   }
 }

@@ -195,10 +195,33 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Haze",
+      "Drill Peck",
+      "Quick Attack",
+      "Faint Attack",
+      "Steel Wing",
+      "Psych Up",
+      "Featherdance",
+      "Refresh"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/177.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.276Z"
+    "scrapedAt": "2026-09-03T19:47:49.788Z"
   }
 }

@@ -16,10 +16,50 @@
   },
   "learnedBy": [
     {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "egg"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmonlee",
       "natdex": 106,
       "method": "level-up",
       "level": 51
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "egg"
     },
     {
       "pokemon": "kangaskhan",
@@ -28,10 +68,85 @@
       "level": 49
     },
     {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "egg"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "egg"
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "egg"
+    },
+    {
       "pokemon": "heracross",
       "natdex": 214,
       "method": "level-up",
       "level": 45
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "egg"
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "egg"
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "egg"
     },
     {
       "pokemon": "vigoroth",

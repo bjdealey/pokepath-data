@@ -46,6 +46,26 @@
       "level": 16
     },
     {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "egg"
+    },
+    {
       "pokemon": "numel",
       "natdex": 322,
       "method": "level-up",
@@ -74,6 +94,11 @@
       "natdex": 340,
       "method": "level-up",
       "level": 16
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "egg"
     }
   ]
 }

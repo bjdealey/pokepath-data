@@ -99,6 +99,16 @@
       "level": 11
     },
     {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "egg"
+    },
+    {
       "pokemon": "natu",
       "natdex": 177,
       "method": "level-up",

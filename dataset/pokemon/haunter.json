@@ -196,10 +196,30 @@
         "machine": "TM49",
         "move": "Snatch"
       }
+    ],
+    "egg": [
+      "Psywave",
+      "Perish Song",
+      "Haze",
+      "Astonish",
+      "Will-o-wisp",
+      "Grudge",
+      "Explosion"
+    ],
+    "tutor": [
+      "Mimic",
+      "Dream Eater",
+      "Explosion",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/093.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.751Z"
+    "scrapedAt": "2026-09-03T19:47:49.238Z"
   }
 }

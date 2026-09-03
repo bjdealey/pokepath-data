@@ -34,6 +34,16 @@
       "level": 50
     },
     {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "egg"
+    },
+    {
       "pokemon": "sunkern",
       "natdex": 191,
       "method": "level-up",
@@ -50,6 +60,21 @@
       "natdex": 237,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "egg"
     },
     {
       "pokemon": "mudkip",
@@ -80,6 +105,31 @@
       "natdex": 277,
       "method": "level-up",
       "level": 28
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "egg"
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "egg"
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "egg"
     }
   ]
 }

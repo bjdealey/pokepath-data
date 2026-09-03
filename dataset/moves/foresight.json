@@ -16,6 +16,36 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "egg"
+    },
+    {
       "pokemon": "venonat",
       "natdex": 48,
       "method": "level-up",
@@ -26,6 +56,26 @@
       "natdex": 49,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "egg"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "egg"
     },
     {
       "pokemon": "machop",
@@ -46,10 +96,45 @@
       "level": 22
     },
     {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmonlee",
       "natdex": 106,
       "method": "level-up",
       "level": 36
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
     },
     {
       "pokemon": "hoothoot",
@@ -70,10 +155,30 @@
       "level": 6
     },
     {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "egg"
+    },
+    {
       "pokemon": "yanma",
       "natdex": 193,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "egg"
     },
     {
       "pokemon": "mudkip",
@@ -94,10 +199,50 @@
       "level": 20
     },
     {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "egg"
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "egg"
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "egg"
+    },
+    {
       "pokemon": "sableye",
       "natdex": 302,
       "method": "level-up",
       "level": 5
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "egg"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "egg"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "egg"
     },
     {
       "pokemon": "duskull",

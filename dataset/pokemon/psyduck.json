@@ -211,10 +211,40 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Hypnosis",
+      "Psybeam",
+      "Foresight",
+      "Light Screen",
+      "Future Sight",
+      "Psychic",
+      "Cross Chop",
+      "Refresh"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/054.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.461Z"
+    "scrapedAt": "2026-09-03T19:47:48.972Z"
   }
 }

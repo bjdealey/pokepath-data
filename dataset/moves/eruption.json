@@ -22,6 +22,11 @@
       "level": 45
     },
     {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "egg"
+    },
+    {
       "pokemon": "groudon",
       "natdex": 383,
       "method": "level-up",

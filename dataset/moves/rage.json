@@ -148,6 +148,26 @@
       "level": 38
     },
     {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "egg"
+    },
+    {
       "pokemon": "carvanha",
       "natdex": 318,
       "method": "level-up",
@@ -164,6 +184,16 @@
       "natdex": 319,
       "method": "level-up",
       "level": 7
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "egg"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "egg"
     },
     {
       "pokemon": "bagon",

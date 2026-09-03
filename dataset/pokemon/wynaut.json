@@ -87,10 +87,12 @@
         "move": "Destiny Bond"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/360.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.449Z"
+    "scrapedAt": "2026-09-03T19:47:50.999Z"
   }
 }

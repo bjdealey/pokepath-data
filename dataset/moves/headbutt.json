@@ -82,6 +82,11 @@
       "level": 34
     },
     {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "egg"
+    },
+    {
       "pokemon": "zigzagoon",
       "natdex": 263,
       "method": "level-up",
@@ -140,6 +145,21 @@
       "natdex": 306,
       "method": "level-up",
       "level": 10
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "egg"
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "egg"
     },
     {
       "pokemon": "snorunt",

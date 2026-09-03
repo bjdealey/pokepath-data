@@ -183,10 +183,32 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Howl",
+      "Scary Face",
+      "Body Slam",
+      "Rollout",
+      "Defense Curl",
+      "Stomp"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/322.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.173Z"
+    "scrapedAt": "2026-09-03T19:47:50.746Z"
   }
 }

@@ -22,6 +22,36 @@
       "level": 18
     },
     {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "egg"
+    },
+    {
       "pokemon": "zubat",
       "natdex": 41,
       "method": "level-up",
@@ -94,6 +124,16 @@
       "level": 11
     },
     {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "egg"
+    },
+    {
       "pokemon": "shellder",
       "natdex": 90,
       "method": "level-up",
@@ -130,10 +170,45 @@
       "level": 10
     },
     {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "egg"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "egg"
+    },
+    {
       "pokemon": "aerodactyl",
       "natdex": 142,
       "method": "level-up",
       "level": 22
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "egg"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "egg"
     },
     {
       "pokemon": "ledyba",
@@ -184,16 +259,51 @@
       "level": 5
     },
     {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "egg"
+    },
+    {
       "pokemon": "yanma",
       "natdex": 193,
       "method": "level-up",
       "level": 31
     },
     {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "egg"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "egg"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "egg"
+    },
+    {
       "pokemon": "mantine",
       "natdex": 226,
       "method": "level-up",
       "level": 8
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "egg"
     },
     {
       "pokemon": "wingull",
@@ -224,6 +334,26 @@
       "natdex": 295,
       "method": "level-up",
       "level": 23
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "egg"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "egg"
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "egg"
     }
   ]
 }

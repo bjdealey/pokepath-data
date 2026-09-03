@@ -220,10 +220,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Crunch",
+      "Reversal",
+      "Rock Slide",
+      "Counter",
+      "Magnitude",
+      "Swords Dance",
+      "Curse",
+      "Crush Claw"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/111.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.863Z"
+    "scrapedAt": "2026-09-03T19:47:49.361Z"
   }
 }

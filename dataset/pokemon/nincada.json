@@ -176,10 +176,27 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Endure",
+      "Faint Attack",
+      "Gust",
+      "Silver Wind"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/290.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.969Z"
+    "scrapedAt": "2026-09-03T19:47:50.529Z"
   }
 }

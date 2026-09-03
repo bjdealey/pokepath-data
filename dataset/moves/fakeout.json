@@ -28,10 +28,40 @@
       "level": 59
     },
     {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "egg"
+    },
+    {
       "pokemon": "kangaskhan",
       "natdex": 115,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "egg"
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "egg"
     },
     {
       "pokemon": "lombre",
@@ -62,6 +92,16 @@
       "natdex": 302,
       "method": "level-up",
       "level": 21
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "egg"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "egg"
     }
   ]
 }

@@ -234,10 +234,39 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Double-edge",
+      "Pursuit",
+      "Slash",
+      "Focus Energy",
+      "Reversal",
+      "Substitute",
+      "Trick",
+      "Assist"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/162.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.183Z"
+    "scrapedAt": "2026-09-03T19:47:49.694Z"
   }
 }

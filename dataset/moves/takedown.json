@@ -16,6 +16,36 @@
   },
   "learnedBy": [
     {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "egg"
+    },
+    {
       "pokemon": "growlithe",
       "natdex": 58,
       "method": "level-up",
@@ -44,6 +74,16 @@
       "natdex": 87,
       "method": "level-up",
       "level": 42
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "egg"
     },
     {
       "pokemon": "rhyhorn",
@@ -100,6 +140,26 @@
       "level": 43
     },
     {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "egg"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
+    },
+    {
       "pokemon": "pineco",
       "natdex": 204,
       "method": "level-up",
@@ -142,10 +202,30 @@
       "level": 37
     },
     {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "egg"
+    },
+    {
       "pokemon": "swinub",
       "natdex": 220,
       "method": "level-up",
       "level": 28
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "egg"
     },
     {
       "pokemon": "piloswine",
@@ -200,6 +280,36 @@
       "natdex": 262,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "egg"
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "egg"
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "egg"
     },
     {
       "pokemon": "aron",

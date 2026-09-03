@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "egg"
+    },
+    {
       "pokemon": "scizor",
       "natdex": 212,
       "method": "level-up",
@@ -26,6 +41,16 @@
       "natdex": 215,
       "method": "level-up",
       "level": 64
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "egg"
     },
     {
       "pokemon": "nincada",

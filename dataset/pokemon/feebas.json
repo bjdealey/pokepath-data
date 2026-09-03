@@ -147,10 +147,29 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Mirror Coat",
+      "Dragonbreath",
+      "Mud Sport",
+      "Hypnosis",
+      "Light Screen",
+      "Confuse Ray"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/349.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.375Z"
+    "scrapedAt": "2026-09-03T19:47:50.923Z"
   }
 }

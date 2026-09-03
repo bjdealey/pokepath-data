@@ -189,10 +189,35 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Magnitude",
+      "Rollout",
+      "Explosion"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Explosion",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/299.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.028Z"
+    "scrapedAt": "2026-09-03T19:47:50.588Z"
   }
 }

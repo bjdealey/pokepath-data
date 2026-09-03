@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "egg"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "egg"
+    },
+    {
       "pokemon": "tentacool",
       "natdex": 72,
       "method": "level-up",
@@ -28,16 +43,86 @@
       "level": 38
     },
     {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "egg"
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "level-up",
       "level": null
     },
     {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "egg"
+    },
+    {
       "pokemon": "mewtwo",
       "natdex": 150,
       "method": "level-up",
       "level": 11
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "egg"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "egg"
     }
   ]
 }

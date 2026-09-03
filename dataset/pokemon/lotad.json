@@ -185,10 +185,30 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Synthesis",
+      "Razor Leaf",
+      "Sweet Scent",
+      "Leech Seed",
+      "Flail",
+      "Water Gun"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/270.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.846Z"
+    "scrapedAt": "2026-09-03T19:47:50.392Z"
   }
 }

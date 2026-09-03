@@ -36,8 +36,18 @@
     {
       "pokemon": "koffing",
       "natdex": 109,
+      "method": "egg"
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
       "method": "level-up",
       "level": 45
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "egg"
     },
     {
       "pokemon": "weezing",
@@ -46,10 +56,50 @@
       "level": 51
     },
     {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "egg"
+    },
+    {
       "pokemon": "wobbuffet",
       "natdex": 202,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "egg"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "egg"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "egg"
     },
     {
       "pokemon": "wynaut",

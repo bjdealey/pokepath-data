@@ -312,10 +312,43 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Softboiled",
+      "Dream Eater",
+      "Thunder Wave",
+      "Explosion",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/151.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.116Z"
+    "scrapedAt": "2026-09-03T19:47:49.624Z"
   }
 }

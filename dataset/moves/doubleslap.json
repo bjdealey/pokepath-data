@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
       "pokemon": "clefairy",
       "natdex": 35,
       "method": "level-up",
@@ -76,10 +86,20 @@
       "level": 21
     },
     {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    },
+    {
       "pokemon": "politoed",
       "natdex": 186,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "egg"
     },
     {
       "pokemon": "blissey",

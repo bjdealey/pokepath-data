@@ -562,6 +562,11 @@
       "machine": "TM05"
     },
     {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "egg"
+    },
+    {
       "pokemon": "tropius",
       "natdex": 357,
       "method": "machine",

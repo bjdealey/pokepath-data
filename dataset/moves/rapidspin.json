@@ -34,6 +34,46 @@
       "level": 25
     },
     {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "egg"
+    },
+    {
       "pokemon": "staryu",
       "natdex": 120,
       "method": "level-up",
@@ -44,6 +84,16 @@
       "natdex": 121,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "egg"
     },
     {
       "pokemon": "pineco",
@@ -58,10 +108,25 @@
       "level": 22
     },
     {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "egg"
+    },
+    {
       "pokemon": "donphan",
       "natdex": 232,
       "method": "level-up",
       "level": 41
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "egg"
     },
     {
       "pokemon": "hitmontop",
@@ -86,6 +151,16 @@
       "natdex": 344,
       "method": "level-up",
       "level": 5
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "egg"
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "egg"
     }
   ]
 }

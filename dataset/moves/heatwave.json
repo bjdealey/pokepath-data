@@ -16,10 +16,40 @@
   },
   "learnedBy": [
     {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "egg"
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "egg"
+    },
+    {
       "pokemon": "moltres",
       "natdex": 146,
       "method": "level-up",
       "level": 73
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "egg"
     },
     {
       "pokemon": "torkoal",

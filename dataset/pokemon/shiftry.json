@@ -189,10 +189,37 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Leech Seed",
+      "Amnesia",
+      "Quick Attack",
+      "Razor Wind",
+      "Take Down",
+      "False Swipe"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Explosion",
+      "Substitute",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/275.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.877Z"
+    "scrapedAt": "2026-09-03T19:47:50.425Z"
   }
 }

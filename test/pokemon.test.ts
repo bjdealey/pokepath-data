@@ -46,6 +46,14 @@ test("learnset (level-up + TM)", () => {
   assert.ok(record.learnset.machine.some((m) => m.machine === "TM06" && m.move === "Toxic"));
 });
 
+test("learnset (egg + tutor)", () => {
+  assert.ok(record.learnset.egg.includes("Petal Dance"), "egg moves");
+  assert.ok(record.learnset.egg.includes("Light Screen"));
+  // tutor pulls from both "FRLG/Emerald" and "Emerald" tutor tables
+  assert.ok(record.learnset.tutor.includes("Swords Dance"), "FRLG/Emerald tutor");
+  assert.ok(record.learnset.tutor.includes("Snore"), "Emerald-only tutor");
+});
+
 test("evolution chain", () => {
   assert.deepEqual(evoDex, [1, 2, 3]);
 });

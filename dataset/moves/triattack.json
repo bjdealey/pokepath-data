@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "egg"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "egg"
+    },
+    {
       "pokemon": "dugtrio",
       "natdex": 51,
       "method": "level-up",

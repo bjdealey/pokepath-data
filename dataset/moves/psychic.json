@@ -70,6 +70,16 @@
       "level": 52
     },
     {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
       "pokemon": "poliwag",
       "natdex": 60,
       "method": "machine",

@@ -16,10 +16,100 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "egg"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "egg"
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "egg"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "egg"
+    },
+    {
       "pokemon": "delibird",
       "natdex": 225,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "egg"
     }
   ]
 }

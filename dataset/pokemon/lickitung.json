@@ -245,10 +245,46 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Belly Drum",
+      "Magnitude",
+      "Body Slam",
+      "Curse",
+      "Smellingsalt",
+      "Sleep Talk",
+      "Snore",
+      "Substitute"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Dream Eater",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/108.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.845Z"
+    "scrapedAt": "2026-09-03T19:47:49.342Z"
   }
 }

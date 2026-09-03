@@ -58,6 +58,16 @@
       "level": 51
     },
     {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "egg"
+    },
+    {
       "pokemon": "sableye",
       "natdex": 302,
       "method": "level-up",

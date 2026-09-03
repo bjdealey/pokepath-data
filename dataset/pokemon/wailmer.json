@@ -207,10 +207,33 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Double-edge",
+      "Thrash",
+      "Swagger",
+      "Snore",
+      "Sleep Talk",
+      "Curse",
+      "Fissure",
+      "Tickle"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/320.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.161Z"
+    "scrapedAt": "2026-09-03T19:47:50.733Z"
   }
 }

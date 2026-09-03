@@ -64,16 +64,46 @@
       "level": 15
     },
     {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "egg"
+    },
+    {
       "pokemon": "kingdra",
       "natdex": 230,
       "method": "level-up",
       "level": 29
     },
     {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "egg"
+    },
+    {
       "pokemon": "milotic",
       "natdex": 350,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "egg"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "egg"
     },
     {
       "pokemon": "rayquaza",

@@ -189,10 +189,31 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Flail",
+      "Confusion",
+      "Mega Drain",
+      "Reflect",
+      "Amnesia",
+      "Leech Seed",
+      "Nature Power"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/114.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.889Z"
+    "scrapedAt": "2026-09-03T19:47:49.382Z"
   }
 }

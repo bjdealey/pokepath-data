@@ -234,10 +234,39 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Counter",
+      "Spite",
+      "Foresight",
+      "Reflect",
+      "Bite",
+      "Crush Claw",
+      "Fake Out"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/215.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.510Z"
+    "scrapedAt": "2026-09-03T19:47:50.037Z"
   }
 }

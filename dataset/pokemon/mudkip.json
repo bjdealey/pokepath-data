@@ -204,10 +204,32 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Refresh",
+      "Uproar",
+      "Curse",
+      "Stomp",
+      "Ice Ball",
+      "Mirror Coat"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/258.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.770Z"
+    "scrapedAt": "2026-09-03T19:47:50.321Z"
   }
 }

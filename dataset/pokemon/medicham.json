@@ -231,10 +231,43 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Fire Punch",
+      "Thunderpunch",
+      "Ice Punch",
+      "Foresight",
+      "Fake Out",
+      "Baton Pass",
+      "Dynamicpunch"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/308.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.083Z"
+    "scrapedAt": "2026-09-03T19:47:50.656Z"
   }
 }

@@ -64,6 +64,11 @@
       "level": 17
     },
     {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "egg"
+    },
+    {
       "pokemon": "pineco",
       "natdex": 204,
       "method": "level-up",

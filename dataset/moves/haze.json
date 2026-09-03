@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
       "pokemon": "ekans",
       "natdex": 23,
       "method": "level-up",
@@ -40,6 +55,76 @@
       "level": 56
     },
     {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "egg"
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "egg"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "egg"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "egg"
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "egg"
+    },
+    {
       "pokemon": "koffing",
       "natdex": 109,
       "method": "level-up",
@@ -52,16 +137,66 @@
       "level": 33
     },
     {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "egg"
+    },
+    {
       "pokemon": "vaporeon",
       "natdex": 134,
       "method": "level-up",
       "level": 42
     },
     {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "egg"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "egg"
+    },
+    {
       "pokemon": "crobat",
       "natdex": 169,
       "method": "level-up",
       "level": 56
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "egg"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "egg"
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "egg"
     },
     {
       "pokemon": "wooper",
@@ -82,10 +217,40 @@
       "level": 22
     },
     {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "egg"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "egg"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "egg"
+    },
+    {
       "pokemon": "surskit",
       "natdex": 283,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "egg"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "egg"
     },
     {
       "pokemon": "seviper",

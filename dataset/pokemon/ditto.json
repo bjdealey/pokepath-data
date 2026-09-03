@@ -61,10 +61,12 @@
         "move": "Transform"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/132.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.993Z"
+    "scrapedAt": "2026-09-03T19:47:49.493Z"
   }
 }

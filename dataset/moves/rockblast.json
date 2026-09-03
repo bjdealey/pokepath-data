@@ -52,6 +52,16 @@
       "level": 34
     },
     {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "egg"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "egg"
+    },
+    {
       "pokemon": "anorith",
       "natdex": 347,
       "method": "level-up",

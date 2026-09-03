@@ -16,6 +16,36 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "egg"
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "egg"
+    },
+    {
       "pokemon": "bellossom",
       "natdex": 182,
       "method": "level-up",

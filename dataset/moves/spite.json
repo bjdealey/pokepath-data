@@ -16,6 +16,36 @@
   },
   "learnedBy": [
     {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "egg"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "egg"
+    },
+    {
       "pokemon": "gastly",
       "natdex": 92,
       "method": "level-up",
@@ -46,6 +76,11 @@
       "level": 8
     },
     {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "egg"
+    },
+    {
       "pokemon": "misdreavus",
       "natdex": 200,
       "method": "level-up",
@@ -56,6 +91,26 @@
       "natdex": 206,
       "method": "level-up",
       "level": 21
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "egg"
     },
     {
       "pokemon": "shedinja",

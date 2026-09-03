@@ -201,10 +201,27 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/251.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.726Z"
+    "scrapedAt": "2026-09-03T19:47:50.267Z"
   }
 }

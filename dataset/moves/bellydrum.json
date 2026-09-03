@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "egg"
+    },
+    {
       "pokemon": "poliwag",
       "natdex": 60,
       "method": "level-up",
@@ -28,10 +53,55 @@
       "level": 43
     },
     {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "egg"
+    },
+    {
       "pokemon": "snorlax",
       "natdex": 143,
       "method": "level-up",
       "level": 15
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "egg"
     },
     {
       "pokemon": "zigzagoon",

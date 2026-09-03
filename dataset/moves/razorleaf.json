@@ -34,6 +34,21 @@
       "level": 22
     },
     {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vileplume",
+      "natdex": 45,
+      "method": "egg"
+    },
+    {
       "pokemon": "bellsprout",
       "natdex": 69,
       "method": "level-up",
@@ -82,10 +97,30 @@
       "level": 8
     },
     {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "egg"
+    },
+    {
       "pokemon": "sunflora",
       "natdex": 192,
       "method": "level-up",
       "level": 13
+    },
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "egg"
     },
     {
       "pokemon": "tropius",

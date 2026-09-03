@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
       "pokemon": "geodude",
       "natdex": 74,
       "method": "level-up",
@@ -44,6 +59,76 @@
       "natdex": 76,
       "method": "level-up",
       "level": 6
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "egg"
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "egg"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "egg"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "egg"
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "egg"
     },
     {
       "pokemon": "mudkip",
@@ -94,6 +179,16 @@
       "level": 6
     },
     {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "egg"
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "egg"
+    },
+    {
       "pokemon": "anorith",
       "natdex": 347,
       "method": "level-up",
@@ -112,10 +207,40 @@
       "level": 13
     },
     {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "egg"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "egg"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "egg"
+    },
+    {
       "pokemon": "relicanth",
       "natdex": 369,
       "method": "level-up",
       "level": 36
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "egg"
     }
   ]
 }

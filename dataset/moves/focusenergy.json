@@ -28,6 +28,21 @@
       "level": 20
     },
     {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "egg"
+    },
+    {
       "pokemon": "nidoran-m",
       "natdex": 32,
       "method": "level-up",
@@ -106,6 +121,11 @@
       "level": 21
     },
     {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "egg"
+    },
+    {
       "pokemon": "scyther",
       "natdex": 123,
       "method": "level-up",
@@ -116,6 +136,16 @@
       "natdex": 127,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "egg"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "egg"
     },
     {
       "pokemon": "scizor",
@@ -136,10 +166,35 @@
       "level": 38
     },
     {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "egg"
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "egg"
+    },
+    {
       "pokemon": "hitmontop",
       "natdex": 237,
       "method": "level-up",
       "level": 7
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
     },
     {
       "pokemon": "torchic",
@@ -236,6 +291,21 @@
       "natdex": 323,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "egg"
     },
     {
       "pokemon": "bagon",

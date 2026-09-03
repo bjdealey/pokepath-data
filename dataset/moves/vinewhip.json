@@ -61,6 +61,21 @@
       "natdex": 114,
       "method": "level-up",
       "level": 22
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "egg"
     }
   ]
 }

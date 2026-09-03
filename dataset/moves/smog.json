@@ -82,6 +82,16 @@
       "level": 13
     },
     {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "egg"
+    },
+    {
       "pokemon": "torkoal",
       "natdex": 324,
       "method": "level-up",

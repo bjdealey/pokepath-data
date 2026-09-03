@@ -163,10 +163,30 @@
         "machine": "HM02",
         "move": "Fly"
       }
+    ],
+    "egg": [
+      "Faint Attack",
+      "False Swipe",
+      "Scary Face",
+      "Quick Attack",
+      "Tri Attack",
+      "Astonish",
+      "Sky Attack"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/021.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.258Z"
+    "scrapedAt": "2026-09-03T19:47:48.739Z"
   }
 }

@@ -34,6 +34,16 @@
       "level": 54
     },
     {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "egg"
+    },
+    {
       "pokemon": "gyarados",
       "natdex": 130,
       "method": "level-up",
@@ -56,6 +66,26 @@
       "natdex": 149,
       "method": "level-up",
       "level": 22
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "egg"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "egg"
     }
   ]
 }

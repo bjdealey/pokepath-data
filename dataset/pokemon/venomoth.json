@@ -199,10 +199,26 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Baton Pass",
+      "Screech",
+      "Giga Drain",
+      "Signal Beam"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/049.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.430Z"
+    "scrapedAt": "2026-09-03T19:47:48.938Z"
   }
 }

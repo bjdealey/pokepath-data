@@ -16,6 +16,51 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "egg"
+    },
+    {
       "pokemon": "omanyte",
       "natdex": 138,
       "method": "level-up",
@@ -52,10 +97,90 @@
       "level": 50
     },
     {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "egg"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "egg"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "egg"
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "egg"
+    },
+    {
       "pokemon": "corsola",
       "natdex": 222,
       "method": "level-up",
       "level": 45
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "egg"
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "egg"
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
     },
     {
       "pokemon": "lugia",
@@ -74,6 +199,21 @@
       "natdex": 251,
       "method": "level-up",
       "level": 20
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "egg"
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "egg"
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "egg"
     },
     {
       "pokemon": "baltoy",

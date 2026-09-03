@@ -228,10 +228,41 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Crunch",
+      "Thrash",
+      "Hydro Pump",
+      "Ancientpower",
+      "Rock Slide",
+      "Mud Sport",
+      "Water Sport",
+      "Dragon Claw"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/160.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.170Z"
+    "scrapedAt": "2026-09-03T19:47:49.681Z"
   }
 }

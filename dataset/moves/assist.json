@@ -16,10 +16,45 @@
   },
   "learnedBy": [
     {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "egg"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "egg"
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "egg"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "egg"
+    },
+    {
       "pokemon": "skitty",
       "natdex": 300,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
     }
   ]
 }

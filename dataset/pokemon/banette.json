@@ -214,10 +214,33 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Disable",
+      "Destiny Bond",
+      "Foresight",
+      "Astonish",
+      "Imprison"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/354.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.411Z"
+    "scrapedAt": "2026-09-03T19:47:50.955Z"
   }
 }

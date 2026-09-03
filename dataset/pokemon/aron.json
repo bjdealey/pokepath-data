@@ -212,10 +212,31 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Endeavor",
+      "Body Slam",
+      "Stomp",
+      "Smellingsalt"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/304.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.059Z"
+    "scrapedAt": "2026-09-03T19:47:50.622Z"
   }
 }

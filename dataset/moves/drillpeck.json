@@ -43,6 +43,26 @@
       "natdex": 145,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "egg"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "egg"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "egg"
     }
   ]
 }

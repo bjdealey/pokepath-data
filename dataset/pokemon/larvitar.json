@@ -184,10 +184,31 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Pursuit",
+      "Stomp",
+      "Outrage",
+      "Focus Energy",
+      "Ancientpower",
+      "Dragon Dance",
+      "Curse"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/246.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.695Z"
+    "scrapedAt": "2026-09-03T19:47:50.235Z"
   }
 }

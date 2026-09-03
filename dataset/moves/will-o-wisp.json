@@ -22,6 +22,56 @@
       "level": 17
     },
     {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "egg"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "egg"
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "egg"
+    },
+    {
       "pokemon": "shuppet",
       "natdex": 353,
       "method": "level-up",

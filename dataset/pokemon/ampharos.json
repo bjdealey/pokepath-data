@@ -192,10 +192,39 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Take Down",
+      "Body Slam",
+      "Safeguard",
+      "Screech",
+      "Reflect",
+      "Odor Sleuth",
+      "Charge"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/181.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.299Z"
+    "scrapedAt": "2026-09-03T19:47:49.819Z"
   }
 }

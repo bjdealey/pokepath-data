@@ -16,6 +16,46 @@
   },
   "learnedBy": [
     {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "egg"
+    },
+    {
       "pokemon": "jigglypuff",
       "natdex": 39,
       "method": "level-up",
@@ -82,6 +122,16 @@
       "level": 29
     },
     {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "egg"
+    },
+    {
       "pokemon": "grimer",
       "natdex": 88,
       "method": "level-up",
@@ -118,16 +168,86 @@
       "level": 34
     },
     {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "egg"
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "egg"
+    },
+    {
       "pokemon": "mewtwo",
       "natdex": 150,
       "method": "level-up",
       "level": null
     },
     {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowking",
       "natdex": 199,
       "method": "level-up",
       "level": 29
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "egg"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "egg"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "egg"
     },
     {
       "pokemon": "duskull",
@@ -146,6 +266,11 @@
       "natdex": 356,
       "method": "level-up",
       "level": 5
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "egg"
     }
   ]
 }

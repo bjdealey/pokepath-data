@@ -206,10 +206,28 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Screech",
+      "Psywave",
+      "Psybeam",
+      "Destiny Bond",
+      "Pain Split",
+      "Will-o-wisp"
+    ],
+    "tutor": [
+      "Mimic",
+      "Explosion",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/110.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.855Z"
+    "scrapedAt": "2026-09-03T19:47:49.355Z"
   }
 }

@@ -75,6 +75,16 @@
       "level": 55
     },
     {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "egg"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "egg"
+    },
+    {
       "pokemon": "crobat",
       "natdex": 169,
       "method": "level-up",
@@ -85,6 +95,16 @@
       "natdex": 193,
       "method": "level-up",
       "level": 43
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "egg"
     },
     {
       "pokemon": "mantine",

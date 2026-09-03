@@ -16,10 +16,70 @@
   },
   "learnedBy": [
     {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vileplume",
+      "natdex": 45,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "egg"
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "egg"
+    },
+    {
       "pokemon": "tangela",
       "natdex": 114,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "egg"
     },
     {
       "pokemon": "sunkern",
@@ -32,6 +92,11 @@
       "natdex": 192,
       "method": "level-up",
       "level": 18
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
     },
     {
       "pokemon": "roselia",

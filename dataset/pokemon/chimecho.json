@@ -205,10 +205,30 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Disable",
+      "Curse",
+      "Hypnosis",
+      "Dream Eater"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/358.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.436Z"
+    "scrapedAt": "2026-09-03T19:47:50.980Z"
   }
 }

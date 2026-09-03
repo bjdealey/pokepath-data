@@ -58,6 +58,16 @@
       "level": 7
     },
     {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "egg"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "egg"
+    },
+    {
       "pokemon": "pikachu",
       "natdex": 25,
       "method": "level-up",
@@ -80,6 +90,31 @@
       "natdex": 38,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "egg"
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "egg"
     },
     {
       "pokemon": "scyther",
@@ -120,14 +155,29 @@
     {
       "pokemon": "cyndaquil",
       "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
       "method": "level-up",
       "level": 19
     },
     {
       "pokemon": "quilava",
       "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
       "method": "level-up",
       "level": 21
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
     },
     {
       "pokemon": "typhlosion",
@@ -152,6 +202,21 @@
       "natdex": 162,
       "method": "level-up",
       "level": 7
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "egg"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "egg"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "egg"
     },
     {
       "pokemon": "yanma",
@@ -188,6 +253,11 @@
       "natdex": 215,
       "method": "level-up",
       "level": 8
+    },
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "egg"
     },
     {
       "pokemon": "hitmontop",
@@ -254,6 +324,21 @@
       "natdex": 257,
       "method": "level-up",
       "level": 32
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "egg"
     },
     {
       "pokemon": "taillow",
@@ -332,6 +417,21 @@
       "natdex": 314,
       "method": "level-up",
       "level": 17
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "egg"
     },
     {
       "pokemon": "zangoose",

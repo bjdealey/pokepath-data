@@ -184,10 +184,33 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Vine Whip",
+      "Leech Seed",
+      "Counter",
+      "Ancientpower",
+      "Flail",
+      "Nature Power",
+      "Ingrain",
+      "Grasswhistle"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/152.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.121Z"
+    "scrapedAt": "2026-09-03T19:47:49.629Z"
   }
 }

@@ -59,10 +59,12 @@
         "move": "Hidden Power"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/201.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.422Z"
+    "scrapedAt": "2026-09-03T19:47:49.945Z"
   }
 }

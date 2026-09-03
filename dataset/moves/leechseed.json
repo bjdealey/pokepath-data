@@ -52,6 +52,26 @@
       "level": 13
     },
     {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "egg"
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "egg"
+    },
+    {
       "pokemon": "hoppip",
       "natdex": 187,
       "method": "level-up",
@@ -70,10 +90,65 @@
       "level": 22
     },
     {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "egg"
+    },
+    {
       "pokemon": "celebi",
       "natdex": 251,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "egg"
     },
     {
       "pokemon": "shroomish",
@@ -110,6 +185,11 @@
       "natdex": 332,
       "method": "level-up",
       "level": 13
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "egg"
     }
   ]
 }

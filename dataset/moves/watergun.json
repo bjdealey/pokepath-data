@@ -261,6 +261,21 @@
       "level": 10
     },
     {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "egg"
+    },
+    {
       "pokemon": "wingull",
       "natdex": 278,
       "method": "level-up",

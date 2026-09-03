@@ -219,10 +219,46 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Present",
+      "Metronome",
+      "Amnesia",
+      "Belly Drum",
+      "Splash",
+      "Mimic",
+      "Wish",
+      "Substitute"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Softboiled",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/036.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.353Z"
+    "scrapedAt": "2026-09-03T19:47:48.851Z"
   }
 }

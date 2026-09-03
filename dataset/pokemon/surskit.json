@@ -176,10 +176,29 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Foresight",
+      "Mud Shot",
+      "Psybeam",
+      "Hydro Pump",
+      "Mind Reader"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/283.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.924Z"
+    "scrapedAt": "2026-09-03T19:47:50.480Z"
   }
 }

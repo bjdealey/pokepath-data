@@ -28,6 +28,16 @@
       "level": 46
     },
     {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "egg"
+    },
+    {
       "pokemon": "pelipper",
       "natdex": 279,
       "method": "level-up",
@@ -52,6 +62,11 @@
       "level": 40
     },
     {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "egg"
+    },
+    {
       "pokemon": "lileep",
       "natdex": 345,
       "method": "level-up",
@@ -62,6 +77,21 @@
       "natdex": 346,
       "method": "level-up",
       "level": 60
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "egg"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "egg"
     }
   ]
 }

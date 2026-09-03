@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowpoke",
       "natdex": 79,
       "method": "level-up",
@@ -26,6 +51,21 @@
       "natdex": 80,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "egg"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "egg"
     },
     {
       "pokemon": "gastly",
@@ -46,16 +86,196 @@
       "level": 16
     },
     {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "egg"
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "egg"
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "egg"
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "egg"
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowking",
       "natdex": 199,
       "method": "level-up",
       "level": null
     },
     {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "egg"
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "egg"
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "egg"
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "egg"
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "egg"
+    },
+    {
       "pokemon": "torkoal",
       "natdex": 324,
       "method": "level-up",
       "level": 7
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "egg"
     },
     {
       "pokemon": "shuppet",
@@ -86,6 +306,31 @@
       "natdex": 356,
       "method": "level-up",
       "level": 34
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "egg"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "egg"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "egg"
     },
     {
       "pokemon": "regirock",

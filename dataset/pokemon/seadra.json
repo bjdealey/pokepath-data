@@ -184,10 +184,30 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Flail",
+      "Aurora Beam",
+      "Octazooka",
+      "Disable",
+      "Splash",
+      "Dragon Rage",
+      "Dragonbreath"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/117.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.905Z"
+    "scrapedAt": "2026-09-03T19:47:49.403Z"
   }
 }

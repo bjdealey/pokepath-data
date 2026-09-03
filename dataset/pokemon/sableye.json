@@ -230,10 +230,38 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Psych Up",
+      "Recover",
+      "Moonlight"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/302.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.046Z"
+    "scrapedAt": "2026-09-03T19:47:50.609Z"
   }
 }

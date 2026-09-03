@@ -203,10 +203,24 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/120.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.924Z"
+    "scrapedAt": "2026-09-03T19:47:49.421Z"
   }
 }

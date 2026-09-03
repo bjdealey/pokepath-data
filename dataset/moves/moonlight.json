@@ -34,6 +34,16 @@
       "level": 35
     },
     {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "egg"
+    },
+    {
       "pokemon": "umbreon",
       "natdex": 197,
       "method": "level-up",
@@ -44,6 +54,11 @@
       "natdex": 269,
       "method": "level-up",
       "level": 20
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "egg"
     },
     {
       "pokemon": "volbeat",

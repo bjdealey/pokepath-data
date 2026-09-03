@@ -14,5 +14,11 @@
     "url": "https://www.serebii.net/attackdex/volttackle.shtml",
     "scrapedAt": "2026-09-03T19:28:33.108Z"
   },
-  "learnedBy": []
+  "learnedBy": [
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    }
+  ]
 }

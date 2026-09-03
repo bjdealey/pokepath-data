@@ -24,6 +24,11 @@
     {
       "pokemon": "tangela",
       "natdex": 114,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
       "method": "level-up",
       "level": 31
     },

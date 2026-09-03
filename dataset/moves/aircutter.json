@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "egg"
+    },
+    {
       "pokemon": "zubat",
       "natdex": 41,
       "method": "level-up",

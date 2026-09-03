@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "egg"
+    },
+    {
       "pokemon": "ekans",
       "natdex": 23,
       "method": "level-up",
@@ -32,6 +42,36 @@
       "natdex": 42,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "egg"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "egg"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "egg"
     },
     {
       "pokemon": "meowth",
@@ -106,6 +146,16 @@
       "level": 26
     },
     {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "egg"
+    },
+    {
       "pokemon": "onix",
       "natdex": 95,
       "method": "level-up",
@@ -130,16 +180,41 @@
       "level": 8
     },
     {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "egg"
+    },
+    {
       "pokemon": "lickitung",
       "natdex": 108,
       "method": "level-up",
       "level": 45
     },
     {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "egg"
+    },
+    {
       "pokemon": "electabuzz",
       "natdex": 125,
       "method": "level-up",
       "level": 36
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "egg"
     },
     {
       "pokemon": "totodile",
@@ -166,6 +241,36 @@
       "level": null
     },
     {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "egg"
+    },
+    {
       "pokemon": "aipom",
       "natdex": 190,
       "method": "level-up",
@@ -182,6 +287,11 @@
       "natdex": 197,
       "method": "level-up",
       "level": 47
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "egg"
     },
     {
       "pokemon": "dunsparce",
@@ -208,10 +318,30 @@
       "level": 15
     },
     {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "egg"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "egg"
+    },
+    {
       "pokemon": "elekid",
       "natdex": 239,
       "method": "level-up",
       "level": 33
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "egg"
     },
     {
       "pokemon": "larvitar",

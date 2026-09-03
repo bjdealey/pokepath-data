@@ -260,10 +260,39 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Pursuit",
+      "Stomp",
+      "Outrage",
+      "Focus Energy",
+      "Ancientpower",
+      "Dragon Dance",
+      "Curse"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Thunder Wave",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/248.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.708Z"
+    "scrapedAt": "2026-09-03T19:47:50.249Z"
   }
 }

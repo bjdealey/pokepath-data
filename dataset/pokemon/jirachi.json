@@ -209,10 +209,33 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/385.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.642Z"
+    "scrapedAt": "2026-09-03T19:47:51.154Z"
   }
 }

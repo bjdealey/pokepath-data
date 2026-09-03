@@ -29,8 +29,11 @@ export function buildLearnedBy(pokemon: PokemonRecord[], moves: MoveRecord[]) {
   };
 
   for (const p of pokemon) {
-    for (const lu of p.learnset.levelUp) push(lu.move, { pokemon: p.slug, natdex: p.natdex, method: "level-up", level: lu.level });
-    for (const tm of p.learnset.machine) push(tm.move, { pokemon: p.slug, natdex: p.natdex, method: "machine", machine: tm.machine });
+    const who = { pokemon: p.slug, natdex: p.natdex };
+    for (const lu of p.learnset.levelUp) push(lu.move, { ...who, method: "level-up", level: lu.level });
+    for (const tm of p.learnset.machine) push(tm.move, { ...who, method: "machine", machine: tm.machine });
+    for (const mv of p.learnset.egg ?? []) push(mv, { ...who, method: "egg" });
+    for (const mv of p.learnset.tutor ?? []) push(mv, { ...who, method: "tutor" });
   }
   for (const list of learners.values()) list.sort((a, b) => a.natdex - b.natdex || (a.level ?? 0) - (b.level ?? 0));
   return { learners, unmatched: [...unmatched].sort() };

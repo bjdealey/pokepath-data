@@ -64,10 +64,12 @@
         "move": "Take Down"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/374.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.565Z"
+    "scrapedAt": "2026-09-03T19:47:51.085Z"
   }
 }

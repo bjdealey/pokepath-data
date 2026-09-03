@@ -277,10 +277,37 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Light Screen",
+      "Mist",
+      "Haze",
+      "Supersonic",
+      "Dragonbreath",
+      "Dragon Dance"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/149.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.102Z"
+    "scrapedAt": "2026-09-03T19:47:49.603Z"
   }
 }

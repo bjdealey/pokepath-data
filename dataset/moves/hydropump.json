@@ -81,6 +81,16 @@
       "level": 51
     },
     {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "egg"
+    },
+    {
       "pokemon": "staryu",
       "natdex": 120,
       "method": "level-up",
@@ -119,14 +129,29 @@
     {
       "pokemon": "totodile",
       "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
       "method": "level-up",
       "level": 52
     },
     {
       "pokemon": "croconaw",
       "natdex": 159,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
       "method": "level-up",
       "level": 55
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
     },
     {
       "pokemon": "feraligatr",
@@ -165,6 +190,11 @@
       "level": 46
     },
     {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "egg"
+    },
+    {
       "pokemon": "kingdra",
       "natdex": 230,
       "method": "level-up",
@@ -201,6 +231,26 @@
       "level": 61
     },
     {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "egg"
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "egg"
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "egg"
+    },
+    {
       "pokemon": "wailmer",
       "natdex": 320,
       "method": "level-up",
@@ -235,6 +285,21 @@
       "natdex": 369,
       "method": "level-up",
       "level": 64
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "egg"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "egg"
     },
     {
       "pokemon": "kyogre",

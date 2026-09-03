@@ -182,10 +182,28 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Whirlwind",
+      "Reversal",
+      "Leech Life",
+      "Signal Beam",
+      "Silver Wind"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/193.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.375Z"
+    "scrapedAt": "2026-09-03T19:47:49.893Z"
   }
 }

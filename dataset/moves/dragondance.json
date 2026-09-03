@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
       "pokemon": "horsea",
       "natdex": 116,
       "method": "level-up",
@@ -34,16 +49,66 @@
       "level": 50
     },
     {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "egg"
+    },
+    {
       "pokemon": "kingdra",
       "natdex": 230,
       "method": "level-up",
       "level": 62
     },
     {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "egg"
+    },
+    {
       "pokemon": "altaria",
       "natdex": 334,
       "method": "level-up",
       "level": 40
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "egg"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "egg"
     },
     {
       "pokemon": "latios",

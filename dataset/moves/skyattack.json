@@ -16,10 +16,50 @@
   },
   "learnedBy": [
     {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "egg"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "egg"
+    },
+    {
       "pokemon": "moltres",
       "natdex": 146,
       "method": "level-up",
       "level": 85
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "egg"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "egg"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "egg"
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "egg"
     },
     {
       "pokemon": "altaria",

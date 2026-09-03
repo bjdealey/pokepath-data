@@ -16,10 +16,40 @@
   },
   "learnedBy": [
     {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "egg"
+    },
+    {
       "pokemon": "misdreavus",
       "natdex": 200,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "egg"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "egg"
     }
   ]
 }

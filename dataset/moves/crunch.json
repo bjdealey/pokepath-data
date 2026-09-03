@@ -28,6 +28,41 @@
       "level": 53
     },
     {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "egg"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "egg"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
+    },
+    {
       "pokemon": "girafarig",
       "natdex": 203,
       "method": "level-up",
@@ -42,14 +77,34 @@
     {
       "pokemon": "snubbull",
       "natdex": 209,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
       "method": "level-up",
       "level": 53
     },
     {
       "pokemon": "granbull",
       "natdex": 210,
+      "method": "egg"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
       "method": "level-up",
       "level": 61
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "egg"
     },
     {
       "pokemon": "houndour",
@@ -88,6 +143,21 @@
       "level": 47
     },
     {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "egg"
+    },
+    {
       "pokemon": "poochyena",
       "natdex": 261,
       "method": "level-up",
@@ -104,6 +174,16 @@
       "natdex": 303,
       "method": "level-up",
       "level": 36
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "egg"
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "egg"
     },
     {
       "pokemon": "carvanha",

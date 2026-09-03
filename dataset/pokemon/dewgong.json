@@ -196,10 +196,31 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Lick",
+      "Perish Song",
+      "Disable",
+      "Horn Drill",
+      "Slam",
+      "Encore",
+      "Fake Out",
+      "Icicle Spear"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/087.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.715Z"
+    "scrapedAt": "2026-09-03T19:47:49.200Z"
   }
 }

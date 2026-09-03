@@ -174,10 +174,29 @@
         "machine": "HM04",
         "move": "Strength"
       }
+    ],
+    "egg": [
+      "Flame Wheel",
+      "Thrash",
+      "Double Kick",
+      "Hypnosis",
+      "Charm",
+      "Double-edge"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/077.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.648Z"
+    "scrapedAt": "2026-09-03T19:47:49.134Z"
   }
 }

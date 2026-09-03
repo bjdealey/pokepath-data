@@ -34,6 +34,16 @@
       "level": 19
     },
     {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "egg"
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "egg"
+    },
+    {
       "pokemon": "clamperl",
       "natdex": 366,
       "method": "level-up",

@@ -217,10 +217,35 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Synthesis",
+      "Razor Leaf",
+      "Sweet Scent",
+      "Leech Seed",
+      "Flail",
+      "Water Gun"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/271.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.851Z"
+    "scrapedAt": "2026-09-03T19:47:50.400Z"
   }
 }

@@ -227,10 +227,38 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Meditate",
+      "Psych Up",
+      "Fake Out",
+      "Wish",
+      "Ice Punch"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/124.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.947Z"
+    "scrapedAt": "2026-09-03T19:47:49.446Z"
   }
 }

@@ -176,10 +176,29 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Swords Dance",
+      "Encore",
+      "Reflect",
+      "Synthesis",
+      "Leech Life",
+      "Ingrain",
+      "Magical Leaf"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/069.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.589Z"
+    "scrapedAt": "2026-09-03T19:47:49.083Z"
   }
 }

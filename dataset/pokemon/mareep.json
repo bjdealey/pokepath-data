@@ -160,10 +160,32 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Take Down",
+      "Body Slam",
+      "Safeguard",
+      "Screech",
+      "Reflect",
+      "Odor Sleuth",
+      "Charge"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/179.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.289Z"
+    "scrapedAt": "2026-09-03T19:47:49.805Z"
   }
 }

@@ -216,10 +216,28 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Rock Slide",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/382.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.623Z"
+    "scrapedAt": "2026-09-03T19:47:51.135Z"
   }
 }

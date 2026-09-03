@@ -167,10 +167,29 @@
         "machine": "TM45",
         "move": "Attract"
       }
+    ],
+    "egg": [
+      "Barrier",
+      "Recover",
+      "Mirror Coat",
+      "Rock Slide"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/345.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.341Z"
+    "scrapedAt": "2026-09-03T19:47:50.897Z"
   }
 }

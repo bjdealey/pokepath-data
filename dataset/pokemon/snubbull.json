@@ -239,10 +239,42 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Metronome",
+      "Faint Attack",
+      "Reflect",
+      "Present",
+      "Crunch",
+      "Heal Bell",
+      "Snore",
+      "Smellingsalt"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/209.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.470Z"
+    "scrapedAt": "2026-09-03T19:47:49.999Z"
   }
 }

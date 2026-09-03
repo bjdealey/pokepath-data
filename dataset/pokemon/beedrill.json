@@ -180,10 +180,23 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/015.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.218Z"
+    "scrapedAt": "2026-09-03T19:47:48.699Z"
   }
 }

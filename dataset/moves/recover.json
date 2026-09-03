@@ -82,6 +82,11 @@
       "level": null
     },
     {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "egg"
+    },
+    {
       "pokemon": "meditite",
       "natdex": 307,
       "method": "level-up",
@@ -92,6 +97,16 @@
       "natdex": 308,
       "method": "level-up",
       "level": 54
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "egg"
     },
     {
       "pokemon": "milotic",

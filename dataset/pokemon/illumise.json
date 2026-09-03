@@ -203,10 +203,37 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Baton Pass",
+      "Silver Wind",
+      "Growth"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Thunderpunch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/314.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.120Z"
+    "scrapedAt": "2026-09-03T19:47:50.693Z"
   }
 }

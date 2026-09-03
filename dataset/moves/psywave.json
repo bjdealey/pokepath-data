@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "egg"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "egg"
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "egg"
+    },
+    {
       "pokemon": "misdreavus",
       "natdex": 200,
       "method": "level-up",

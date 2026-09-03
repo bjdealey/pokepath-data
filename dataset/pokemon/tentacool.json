@@ -191,10 +191,29 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Aurora Beam",
+      "Mirror Coat",
+      "Rapid Spin",
+      "Haze",
+      "Safeguard",
+      "Confuse Ray"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/072.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.612Z"
+    "scrapedAt": "2026-09-03T19:47:49.104Z"
   }
 }

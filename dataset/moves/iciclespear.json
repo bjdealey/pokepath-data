@@ -14,5 +14,41 @@
     "url": "https://www.serebii.net/attackdex/iciclespear.shtml",
     "scrapedAt": "2026-09-03T19:23:08.864Z"
   },
-  "learnedBy": []
+  "learnedBy": [
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "egg"
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "egg"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
+    }
+  ]
 }

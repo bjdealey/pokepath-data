@@ -28,6 +28,16 @@
       "level": 53
     },
     {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "egg"
+    },
+    {
       "pokemon": "rhyhorn",
       "natdex": 111,
       "method": "level-up",
@@ -50,6 +60,11 @@
       "natdex": 119,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "egg"
     }
   ]
 }

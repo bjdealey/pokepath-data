@@ -15,6 +15,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "egg"
+    },
+    {
       "pokemon": "pikachu",
       "natdex": 25,
       "method": "level-up",
@@ -33,10 +43,30 @@
       "level": 54
     },
     {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "egg"
+    },
+    {
       "pokemon": "onix",
       "natdex": 95,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "egg"
     },
     {
       "pokemon": "lickitung",
@@ -49,6 +79,16 @@
       "natdex": 114,
       "method": "level-up",
       "level": 40
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "egg"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "egg"
     },
     {
       "pokemon": "dratini",
@@ -87,6 +127,11 @@
       "level": 49
     },
     {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "egg"
+    },
+    {
       "pokemon": "wooper",
       "natdex": 194,
       "method": "level-up",
@@ -103,6 +148,11 @@
       "natdex": 208,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "egg"
     },
     {
       "pokemon": "treecko",
@@ -125,8 +175,18 @@
     {
       "pokemon": "azurill",
       "natdex": 298,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
       "method": "level-up",
       "level": 15
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "egg"
     }
   ]
 }

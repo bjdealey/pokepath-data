@@ -30,8 +30,58 @@
     {
       "pokemon": "mr-mime",
       "natdex": 122,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "egg"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "egg"
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "egg"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "egg"
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "egg"
     }
   ]
 }

@@ -227,10 +227,32 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Foresight",
+      "Substitute",
+      "Tickle",
+      "Refresh",
+      "Dragon Dance",
+      "Curse",
+      "Sleep Talk",
+      "Horn Drill"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/131.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.990Z"
+    "scrapedAt": "2026-09-03T19:47:49.490Z"
   }
 }

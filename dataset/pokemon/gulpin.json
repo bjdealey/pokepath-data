@@ -202,10 +202,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Dream Eater",
+      "Acid Armor",
+      "Smog",
+      "Pain Split"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Dream Eater",
+      "Explosion",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/316.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.130Z"
+    "scrapedAt": "2026-09-03T19:47:50.706Z"
   }
 }

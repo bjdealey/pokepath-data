@@ -245,10 +245,40 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Future Sight",
+      "Hypnosis",
+      "Mimic",
+      "Psych Up",
+      "Fake Out",
+      "Trick"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/122.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.934Z"
+    "scrapedAt": "2026-09-03T19:47:49.432Z"
   }
 }

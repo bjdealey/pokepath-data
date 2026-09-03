@@ -209,10 +209,39 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Mist",
+      "Splash",
+      "Bubblebeam",
+      "Haze",
+      "Mind Reader",
+      "Water Sport",
+      "Ice Ball"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/062.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.510Z"
+    "scrapedAt": "2026-09-03T19:47:49.038Z"
   }
 }

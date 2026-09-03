@@ -28,16 +28,31 @@
       "machine": "TM47"
     },
     {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "egg"
+    },
+    {
       "pokemon": "pidgeotto",
       "natdex": 17,
       "method": "machine",
       "machine": "TM47"
     },
     {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "egg"
+    },
+    {
       "pokemon": "pidgeot",
       "natdex": 18,
       "method": "machine",
       "machine": "TM47"
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "egg"
     },
     {
       "pokemon": "spearow",
@@ -70,6 +85,11 @@
       "machine": "TM47"
     },
     {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
       "pokemon": "doduo",
       "natdex": 84,
       "method": "machine",
@@ -92,6 +112,11 @@
       "natdex": 142,
       "method": "machine",
       "machine": "TM47"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "egg"
     },
     {
       "pokemon": "articuno",
@@ -154,10 +179,20 @@
       "machine": "TM47"
     },
     {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "egg"
+    },
+    {
       "pokemon": "xatu",
       "natdex": 178,
       "method": "machine",
       "machine": "TM47"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "egg"
     },
     {
       "pokemon": "yanma",

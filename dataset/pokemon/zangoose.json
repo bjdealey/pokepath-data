@@ -237,10 +237,45 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Flail",
+      "Double Kick",
+      "Razor Wind",
+      "Counter",
+      "Roar",
+      "Curse"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Thunder Wave",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/335.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.253Z"
+    "scrapedAt": "2026-09-03T19:47:50.835Z"
   }
 }

@@ -46,6 +46,36 @@
       "level": 32
     },
     {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "egg"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "egg"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
+    },
+    {
       "pokemon": "torchic",
       "natdex": 255,
       "method": "level-up",
@@ -62,6 +92,16 @@
       "natdex": 257,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "egg"
     },
     {
       "pokemon": "swablu",

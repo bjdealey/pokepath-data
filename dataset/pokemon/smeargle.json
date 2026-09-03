@@ -100,10 +100,12 @@
         "move": "Sketch"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/235.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.629Z"
+    "scrapedAt": "2026-09-03T19:47:50.167Z"
   }
 }

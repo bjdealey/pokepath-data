@@ -236,10 +236,33 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Hydro Pump",
+      "Thrash",
+      "Dragon Rage",
+      "Twister",
+      "Dragon Dance"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/373.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.557Z"
+    "scrapedAt": "2026-09-03T19:47:51.080Z"
   }
 }

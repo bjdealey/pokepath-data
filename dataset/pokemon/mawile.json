@@ -218,10 +218,40 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Swords Dance",
+      "False Swipe",
+      "Poison Fang",
+      "Psych Up",
+      "Ancientpower",
+      "Tickle"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/303.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.051Z"
+    "scrapedAt": "2026-09-03T19:47:50.617Z"
   }
 }

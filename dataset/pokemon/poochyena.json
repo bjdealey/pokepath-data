@@ -194,10 +194,30 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Astonish",
+      "Poison Fang",
+      "Covet",
+      "Leer",
+      "Yawn"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/261.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.790Z"
+    "scrapedAt": "2026-09-03T19:47:50.342Z"
   }
 }

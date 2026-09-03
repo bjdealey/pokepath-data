@@ -186,10 +186,30 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Crunch",
+      "Headbutt",
+      "Uproar",
+      "Curse",
+      "Swift"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/309.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.090Z"
+    "scrapedAt": "2026-09-03T19:47:50.661Z"
   }
 }

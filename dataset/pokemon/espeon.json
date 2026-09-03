@@ -202,10 +202,32 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Charm",
+      "Flail",
+      "Endure",
+      "Curse",
+      "Tickle",
+      "Wish"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/196.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.393Z"
+    "scrapedAt": "2026-09-03T19:47:49.915Z"
   }
 }

@@ -210,10 +210,44 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Rock Slide",
+      "Foresight",
+      "Meditate",
+      "Counter",
+      "Reversal",
+      "Beat Up",
+      "Revenge",
+      "Smellingsalt"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/056.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.474Z"
+    "scrapedAt": "2026-09-03T19:47:48.988Z"
   }
 }

@@ -18,8 +18,28 @@
     {
       "pokemon": "hitmonlee",
       "natdex": 106,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
       "method": "level-up",
       "level": 26
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "egg"
     },
     {
       "pokemon": "meditite",

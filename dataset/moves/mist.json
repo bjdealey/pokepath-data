@@ -16,6 +16,36 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "egg"
+    },
+    {
       "pokemon": "lapras",
       "natdex": 131,
       "method": "level-up",
@@ -28,10 +58,30 @@
       "level": 13
     },
     {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "egg"
+    },
+    {
       "pokemon": "mewtwo",
       "natdex": 150,
       "method": "level-up",
       "level": 55
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "egg"
     },
     {
       "pokemon": "wooper",
@@ -58,6 +108,11 @@
       "level": 42
     },
     {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
+    },
+    {
       "pokemon": "suicune",
       "natdex": 245,
       "method": "level-up",
@@ -72,8 +127,18 @@
     {
       "pokemon": "wingull",
       "natdex": 278,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
       "method": "level-up",
       "level": 21
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "egg"
     },
     {
       "pokemon": "pelipper",

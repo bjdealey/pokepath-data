@@ -199,10 +199,28 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Acid Armor",
+      "Heat Wave"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/219.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.533Z"
+    "scrapedAt": "2026-09-03T19:47:50.064Z"
   }
 }

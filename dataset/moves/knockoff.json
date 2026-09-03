@@ -16,16 +16,51 @@
   },
   "learnedBy": [
     {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "egg"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "egg"
+    },
+    {
       "pokemon": "farfetchd",
       "natdex": 83,
       "method": "level-up",
       "level": 21
     },
     {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "egg"
+    },
+    {
       "pokemon": "lickitung",
       "natdex": 108,
       "method": "level-up",
       "level": 18
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "egg"
     },
     {
       "pokemon": "makuhita",
@@ -56,6 +91,16 @@
       "natdex": 342,
       "method": "level-up",
       "level": 26
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "egg"
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "egg"
     },
     {
       "pokemon": "shuppet",

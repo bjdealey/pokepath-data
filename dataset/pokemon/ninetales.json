@@ -158,10 +158,31 @@
         "machine": "TM50",
         "move": "Overheat"
       }
+    ],
+    "egg": [
+      "Faint Attack",
+      "Hypnosis",
+      "Flail",
+      "Spite",
+      "Disable",
+      "Howl",
+      "Psych Up",
+      "Heat Wave"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/038.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.363Z"
+    "scrapedAt": "2026-09-03T19:47:48.867Z"
   }
 }

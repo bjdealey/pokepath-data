@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "egg"
+    },
+    {
       "pokemon": "zubat",
       "natdex": 41,
       "method": "level-up",
@@ -32,6 +42,21 @@
       "natdex": 169,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "egg"
     },
     {
       "pokemon": "seviper",

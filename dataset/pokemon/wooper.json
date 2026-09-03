@@ -208,10 +208,35 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Body Slam",
+      "Ancientpower",
+      "Safeguard",
+      "Curse",
+      "Mud Sport",
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/194.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.380Z"
+    "scrapedAt": "2026-09-03T19:47:49.901Z"
   }
 }

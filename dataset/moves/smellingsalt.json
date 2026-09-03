@@ -16,6 +16,76 @@
   },
   "learnedBy": [
     {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "egg"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "egg"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "egg"
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "egg"
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "egg"
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "egg"
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "egg"
+    },
+    {
       "pokemon": "makuhita",
       "natdex": 296,
       "method": "level-up",
@@ -26,6 +96,26 @@
       "natdex": 297,
       "method": "level-up",
       "level": 33
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
     }
   ]
 }

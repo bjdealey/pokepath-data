@@ -223,10 +223,35 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Rock Slide",
+      "Screech",
+      "Mist",
+      "Amnesia",
+      "Barrier",
+      "Ingrain",
+      "Confuse Ray",
+      "Icicle Spear"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Explosion",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/222.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.554Z"
+    "scrapedAt": "2026-09-03T19:47:50.083Z"
   }
 }

@@ -16,6 +16,56 @@
   },
   "learnedBy": [
     {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "egg"
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "egg"
+    },
+    {
       "pokemon": "vibrava",
       "natdex": 329,
       "method": "level-up",
@@ -32,6 +82,16 @@
       "natdex": 334,
       "method": "level-up",
       "level": 35
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "egg"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "egg"
     },
     {
       "pokemon": "bagon",

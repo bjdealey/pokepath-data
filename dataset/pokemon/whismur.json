@@ -192,10 +192,40 @@
         "machine": "TM45",
         "move": "Attract"
       }
+    ],
+    "egg": [
+      "Take Down",
+      "Snore",
+      "Swagger",
+      "Extrasensory",
+      "Smellingsalt"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/293.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.989Z"
+    "scrapedAt": "2026-09-03T19:47:50.548Z"
   }
 }

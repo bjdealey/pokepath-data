@@ -179,10 +179,30 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Rapid Spin",
+      "Knock Off",
+      "Swords Dance",
+      "Rock Slide"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/347.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.359Z"
+    "scrapedAt": "2026-09-03T19:47:50.910Z"
   }
 }

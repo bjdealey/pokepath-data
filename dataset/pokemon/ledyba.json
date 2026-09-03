@@ -195,10 +195,31 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Psybeam",
+      "Bide",
+      "Silver Wind"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Thunderpunch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/165.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.200Z"
+    "scrapedAt": "2026-09-03T19:47:49.713Z"
   }
 }

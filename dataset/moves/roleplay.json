@@ -22,6 +22,16 @@
       "level": 33
     },
     {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "level-up",

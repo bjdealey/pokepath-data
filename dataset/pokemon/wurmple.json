@@ -76,10 +76,12 @@
         "move": "Poison Sting"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/265.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.815Z"
+    "scrapedAt": "2026-09-03T19:47:50.367Z"
   }
 }

@@ -168,10 +168,32 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Leech Seed",
+      "Amnesia",
+      "Quick Attack",
+      "Razor Wind",
+      "Take Down",
+      "False Swipe"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Explosion",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/273.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.864Z"
+    "scrapedAt": "2026-09-03T19:47:50.413Z"
   }
 }

@@ -151,10 +151,29 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Refresh",
+      "Mud Sport",
+      "Body Slam",
+      "Supersonic",
+      "Barrier",
+      "Confuse Ray"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/366.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.506Z"
+    "scrapedAt": "2026-09-03T19:47:51.036Z"
   }
 }

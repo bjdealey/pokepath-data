@@ -16,10 +16,35 @@
   },
   "learnedBy": [
     {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "egg"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "egg"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "egg"
+    },
+    {
       "pokemon": "octillery",
       "natdex": 224,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "egg"
     }
   ]
 }

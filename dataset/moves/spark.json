@@ -80,6 +80,16 @@
       "natdex": 312,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "egg"
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "egg"
     }
   ]
 }

@@ -16,6 +16,26 @@
   },
   "learnedBy": [
     {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "egg"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "egg"
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "egg"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "egg"
+    },
+    {
       "pokemon": "farfetchd",
       "natdex": 83,
       "method": "level-up",
@@ -40,10 +60,20 @@
       "level": 16
     },
     {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "egg"
+    },
+    {
       "pokemon": "scizor",
       "natdex": 212,
       "method": "level-up",
       "level": 16
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "egg"
     },
     {
       "pokemon": "grovyle",
@@ -58,10 +88,40 @@
       "level": 59
     },
     {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "egg"
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "egg"
+    },
+    {
       "pokemon": "nincada",
       "natdex": 290,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "egg"
     },
     {
       "pokemon": "zangoose",

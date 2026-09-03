@@ -223,10 +223,36 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Disable",
+      "Will-o-wisp",
+      "Mean Look",
+      "Memento",
+      "Destiny Bond"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/281.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.912Z"
+    "scrapedAt": "2026-09-03T19:47:50.467Z"
   }
 }

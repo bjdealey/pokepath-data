@@ -16,10 +16,25 @@
   },
   "learnedBy": [
     {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "egg"
     },
     {
       "pokemon": "eevee",
@@ -40,6 +55,16 @@
       "level": 33
     },
     {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "egg"
+    },
+    {
       "pokemon": "aipom",
       "natdex": 190,
       "method": "level-up",
@@ -50,6 +75,11 @@
       "natdex": 203,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "egg"
     },
     {
       "pokemon": "celebi",
@@ -64,10 +94,30 @@
       "level": 45
     },
     {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "egg"
+    },
+    {
       "pokemon": "mawile",
       "natdex": 303,
       "method": "level-up",
       "level": 31
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "egg"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "egg"
     },
     {
       "pokemon": "plusle",
@@ -80,6 +130,26 @@
       "natdex": 312,
       "method": "level-up",
       "level": 40
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "egg"
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "egg"
     },
     {
       "pokemon": "huntail",

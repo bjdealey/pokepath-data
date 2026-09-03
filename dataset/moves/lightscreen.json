@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
       "pokemon": "pikachu",
       "natdex": 25,
       "method": "machine",
@@ -64,6 +79,26 @@
       "machine": "TM16"
     },
     {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "egg"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "egg"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
       "pokemon": "abra",
       "natdex": 63,
       "method": "machine",
@@ -80,6 +115,21 @@
       "natdex": 65,
       "method": "machine",
       "machine": "TM16"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "egg"
     },
     {
       "pokemon": "drowzee",
@@ -172,6 +222,11 @@
       "level": 21
     },
     {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "egg"
+    },
+    {
       "pokemon": "jynx",
       "natdex": 124,
       "method": "machine",
@@ -200,6 +255,21 @@
       "natdex": 145,
       "method": "level-up",
       "level": 73
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "egg"
     },
     {
       "pokemon": "mewtwo",
@@ -352,6 +422,16 @@
       "level": 42
     },
     {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "egg"
+    },
+    {
       "pokemon": "sunkern",
       "natdex": 191,
       "method": "machine",
@@ -386,6 +466,11 @@
       "natdex": 205,
       "method": "machine",
       "machine": "TM16"
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "egg"
     },
     {
       "pokemon": "slugma",
@@ -572,6 +657,16 @@
       "natdex": 344,
       "method": "machine",
       "machine": "TM16"
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "egg"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "egg"
     },
     {
       "pokemon": "chimecho",

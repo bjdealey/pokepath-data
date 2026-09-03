@@ -199,10 +199,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/386.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.649Z"
+    "scrapedAt": "2026-09-03T19:47:51.162Z"
   }
 }

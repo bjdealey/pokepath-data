@@ -118,6 +118,16 @@
       "level": 38
     },
     {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "egg"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "egg"
+    },
+    {
       "pokemon": "gligar",
       "natdex": 207,
       "method": "level-up",
@@ -172,10 +182,25 @@
       "level": 41
     },
     {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "egg"
+    },
+    {
       "pokemon": "vigoroth",
       "natdex": 288,
       "method": "level-up",
       "level": 31
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "egg"
     },
     {
       "pokemon": "ninjask",

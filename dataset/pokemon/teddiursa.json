@@ -202,10 +202,45 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Crunch",
+      "Take Down",
+      "Seismic Toss",
+      "Counter",
+      "Metal Claw",
+      "Fake Tears",
+      "Yawn",
+      "Sleep Talk"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/216.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.518Z"
+    "scrapedAt": "2026-09-03T19:47:50.045Z"
   }
 }

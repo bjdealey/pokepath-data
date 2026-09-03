@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
       "pokemon": "squirtle",
       "natdex": 7,
       "method": "level-up",
@@ -32,6 +47,16 @@
       "natdex": 9,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "egg"
     },
     {
       "pokemon": "ekans",
@@ -184,6 +209,11 @@
       "level": 16
     },
     {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "egg"
+    },
+    {
       "pokemon": "snubbull",
       "natdex": 209,
       "method": "level-up",
@@ -196,6 +226,21 @@
       "level": 13
     },
     {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "egg"
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "egg"
+    },
+    {
       "pokemon": "houndour",
       "natdex": 228,
       "method": "level-up",
@@ -206,6 +251,11 @@
       "natdex": 229,
       "method": "level-up",
       "level": 27
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "egg"
     },
     {
       "pokemon": "raikou",

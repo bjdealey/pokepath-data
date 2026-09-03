@@ -16,10 +16,40 @@
   },
   "learnedBy": [
     {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "egg"
+    },
+    {
       "pokemon": "nuzleaf",
       "natdex": 274,
       "method": "level-up",
       "level": 49
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "egg"
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "egg"
     }
   ]
 }

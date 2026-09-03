@@ -15,10 +15,55 @@
   },
   "learnedBy": [
     {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "egg"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "egg"
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "egg"
+    },
+    {
       "pokemon": "magikarp",
       "natdex": 129,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "egg"
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "egg"
     },
     {
       "pokemon": "hoppip",
@@ -37,6 +82,16 @@
       "natdex": 189,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "egg"
     },
     {
       "pokemon": "azurill",
@@ -79,6 +134,11 @@
       "natdex": 360,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "egg"
     }
   ]
 }

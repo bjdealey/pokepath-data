@@ -270,10 +270,40 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Present",
+      "Metronome",
+      "Heal Bell",
+      "Aromatherapy",
+      "Substitute"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Softboiled",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/242.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.674Z"
+    "scrapedAt": "2026-09-03T19:47:50.213Z"
   }
 }

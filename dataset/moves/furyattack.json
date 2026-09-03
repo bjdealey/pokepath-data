@@ -118,6 +118,11 @@
       "level": 29
     },
     {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "egg"
+    },
+    {
       "pokemon": "heracross",
       "natdex": 214,
       "method": "level-up",

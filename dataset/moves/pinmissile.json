@@ -28,6 +28,16 @@
       "level": 36
     },
     {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "egg"
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "egg"
+    },
+    {
       "pokemon": "qwilfish",
       "natdex": 211,
       "method": "level-up",
@@ -38,6 +48,11 @@
       "natdex": 263,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "egg"
     },
     {
       "pokemon": "cacnea",

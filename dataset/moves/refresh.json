@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
       "pokemon": "lickitung",
       "natdex": 108,
       "method": "level-up",
@@ -28,6 +53,21 @@
       "level": 9
     },
     {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "egg"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "egg"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "egg"
+    },
+    {
       "pokemon": "corsola",
       "natdex": 222,
       "method": "level-up",
@@ -38,6 +78,36 @@
       "natdex": 242,
       "method": "level-up",
       "level": 7
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "egg"
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "egg"
     },
     {
       "pokemon": "swablu",
@@ -56,6 +126,21 @@
       "natdex": 350,
       "method": "level-up",
       "level": 15
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "egg"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "egg"
     },
     {
       "pokemon": "latias",

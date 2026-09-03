@@ -52,6 +52,11 @@
       "level": 33
     },
     {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "egg"
+    },
+    {
       "pokemon": "cacnea",
       "natdex": 331,
       "method": "level-up",

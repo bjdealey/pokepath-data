@@ -70,10 +70,12 @@
         "move": "String Shot"
       }
     ],
-    "machine": []
+    "machine": [],
+    "egg": [],
+    "tutor": []
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/010.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.191Z"
+    "scrapedAt": "2026-09-03T19:47:48.669Z"
   }
 }

@@ -221,10 +221,39 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Refresh",
+      "Uproar",
+      "Curse",
+      "Stomp",
+      "Ice Ball",
+      "Mirror Coat"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/259.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.778Z"
+    "scrapedAt": "2026-09-03T19:47:50.327Z"
   }
 }

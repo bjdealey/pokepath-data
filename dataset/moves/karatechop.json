@@ -44,6 +44,26 @@
       "natdex": 68,
       "method": "level-up",
       "level": 13
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "egg"
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "egg"
     }
   ]
 }

@@ -216,10 +216,31 @@
         "machine": "HM07",
         "move": "Waterfall"
       }
+    ],
+    "egg": [
+      "Light Screen",
+      "Mist",
+      "Haze",
+      "Supersonic",
+      "Dragonbreath",
+      "Dragon Dance"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/148.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.093Z"
+    "scrapedAt": "2026-09-03T19:47:49.595Z"
   }
 }

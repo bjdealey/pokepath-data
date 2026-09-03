@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "egg"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "egg"
+    },
+    {
       "pokemon": "haunter",
       "natdex": 93,
       "method": "level-up",

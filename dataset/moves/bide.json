@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "egg"
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    },
+    {
       "pokemon": "pineco",
       "natdex": 204,
       "method": "level-up",
@@ -28,10 +53,20 @@
       "level": 29
     },
     {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "egg"
+    },
+    {
       "pokemon": "shuckle",
       "natdex": 213,
       "method": "level-up",
       "level": 28
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "egg"
     },
     {
       "pokemon": "miltank",

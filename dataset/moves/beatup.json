@@ -16,10 +16,105 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "egg"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "egg"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "egg"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
+    },
+    {
       "pokemon": "sneasel",
       "natdex": 215,
       "method": "level-up",
       "level": 57
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
     }
   ]
 }

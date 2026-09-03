@@ -236,6 +236,26 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     }
   }
 
+  // Egg moves + Emerald-applicable tutor moves (move names from the 6-cell rows;
+  // header row's first cell is "Attack Name", description rows have one cell).
+  const moveNamesFrom = (t: Cheerio<Element> | undefined): string[] => {
+    const out: string[] = [];
+    for (const tr of rowsOf(t)) {
+      const c = cells(tr);
+      if (c.length < 6) continue;
+      const mv = cellText(c[0]!);
+      if (mv && !/Attack Name/i.test(mv)) out.push(mv);
+    }
+    return out;
+  };
+  const egg = moveNamesFrom(section("Egg Moves"));
+  const tutorSet = new Set<string>();
+  for (const t of tables) {
+    const title = clean(t.find("tr").first().children().first().text());
+    if (/Tutor/i.test(title) && /Emerald/i.test(title)) for (const mv of moveNamesFrom(t)) tutorSet.add(mv);
+  }
+  const tutor = [...tutorSet];
+
   // --- Evolution chain (national numbers from anchor hrefs) -----------------
   const evoDex: number[] = [];
   const evo = section("Evolutionary Chain");
@@ -267,7 +287,7 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     evolutionChain: [], // resolved from evoDex in run.ts
     flavorText,
     locations,
-    learnset: { levelUp, machine },
+    learnset: { levelUp, machine, egg, tutor },
     source: { url, scrapedAt: new Date().toISOString() },
   };
   return { record, evoDex };

@@ -172,10 +172,23 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/081.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.673Z"
+    "scrapedAt": "2026-09-03T19:47:49.162Z"
   }
 }

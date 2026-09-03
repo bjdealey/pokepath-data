@@ -52,6 +52,16 @@
       "level": 7
     },
     {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "egg"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "egg"
+    },
+    {
       "pokemon": "bellsprout",
       "natdex": 69,
       "method": "level-up",
@@ -74,6 +84,26 @@
       "natdex": 182,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "shuckle",
+      "natdex": 213,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "egg"
     },
     {
       "pokemon": "surskit",

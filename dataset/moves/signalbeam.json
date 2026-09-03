@@ -16,6 +16,31 @@
   },
   "learnedBy": [
     {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "egg"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "egg"
+    },
+    {
       "pokemon": "volbeat",
       "natdex": 313,
       "method": "level-up",

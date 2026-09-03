@@ -196,10 +196,32 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Bubblebeam",
+      "Aurora Beam",
+      "Slam",
+      "Supersonic",
+      "Haze",
+      "Rock Slide",
+      "Spikes"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/138.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.029Z"
+    "scrapedAt": "2026-09-03T19:47:49.531Z"
   }
 }

@@ -175,10 +175,28 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Fake Tears",
+      "Swagger",
+      "Charm",
+      "False Swipe",
+      "Helping Hand"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/285.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.937Z"
+    "scrapedAt": "2026-09-03T19:47:50.494Z"
   }
 }

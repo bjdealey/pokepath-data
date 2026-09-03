@@ -16,6 +16,11 @@
   },
   "learnedBy": [
     {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
+    },
+    {
       "pokemon": "spoink",
       "natdex": 325,
       "method": "level-up",
@@ -26,6 +31,16 @@
       "natdex": 326,
       "method": "level-up",
       "level": 28
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "egg"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "egg"
     }
   ]
 }

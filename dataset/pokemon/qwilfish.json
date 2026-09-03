@@ -186,10 +186,32 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Flail",
+      "Haze",
+      "Bubblebeam",
+      "Supersonic",
+      "Astonish"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/211.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.480Z"
+    "scrapedAt": "2026-09-03T19:47:50.014Z"
   }
 }

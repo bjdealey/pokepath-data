@@ -186,10 +186,21 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/267.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.830Z"
+    "scrapedAt": "2026-09-03T19:47:50.376Z"
   }
 }

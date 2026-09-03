@@ -194,10 +194,33 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Dig",
+      "Haze",
+      "Amnesia",
+      "Flail",
+      "Slam",
+      "Knock Off",
+      "Swords Dance"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/098.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.783Z"
+    "scrapedAt": "2026-09-03T19:47:49.268Z"
   }
 }

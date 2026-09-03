@@ -220,10 +220,41 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Psywave",
+      "Perish Song",
+      "Haze",
+      "Astonish",
+      "Will-o-wisp",
+      "Grudge",
+      "Explosion"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Metronome",
+      "Dream Eater",
+      "Explosion",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/094.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.757Z"
+    "scrapedAt": "2026-09-03T19:47:49.245Z"
   }
 }

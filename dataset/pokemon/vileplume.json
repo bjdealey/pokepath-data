@@ -157,10 +157,29 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Swords Dance",
+      "Razor Leaf",
+      "Flail",
+      "Synthesis",
+      "Charm",
+      "Ingrain"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/045.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.407Z"
+    "scrapedAt": "2026-09-03T19:47:48.913Z"
   }
 }

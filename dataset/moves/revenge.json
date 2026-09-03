@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "egg"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "egg"
+    },
+    {
       "pokemon": "machop",
       "natdex": 66,
       "method": "level-up",
@@ -56,6 +66,16 @@
       "natdex": 237,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "egg"
     }
   ]
 }

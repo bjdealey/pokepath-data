@@ -162,10 +162,30 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Bubblebeam",
+      "Take Down",
+      "Barrier",
+      "Rapid Spin",
+      "Screech",
+      "Icicle Spear"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Explosion",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/090.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.733Z"
+    "scrapedAt": "2026-09-03T19:47:49.219Z"
   }
 }

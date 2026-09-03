@@ -184,10 +184,33 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "False Swipe",
+      "Screech",
+      "Counter",
+      "Psybeam",
+      "Flail",
+      "Sweet Scent",
+      "Light Screen",
+      "Pursuit"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/046.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.412Z"
+    "scrapedAt": "2026-09-03T19:47:48.919Z"
   }
 }

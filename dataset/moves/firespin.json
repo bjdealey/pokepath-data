@@ -46,6 +46,16 @@
       "level": 45
     },
     {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "egg"
+    },
+    {
       "pokemon": "ponyta",
       "natdex": 77,
       "method": "level-up",
@@ -68,6 +78,16 @@
       "natdex": 146,
       "method": "level-up",
       "level": 13
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "egg"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "egg"
     },
     {
       "pokemon": "entei",

@@ -22,6 +22,21 @@
       "level": 37
     },
     {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "egg"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "egg"
+    },
+    {
       "pokemon": "misdreavus",
       "natdex": 200,
       "method": "level-up",
@@ -44,6 +59,16 @@
       "natdex": 354,
       "method": "level-up",
       "level": 64
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "egg"
     }
   ]
 }

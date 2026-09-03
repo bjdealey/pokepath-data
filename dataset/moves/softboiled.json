@@ -16,10 +16,50 @@
   },
   "learnedBy": [
     {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "tutor"
+    },
+    {
       "pokemon": "chansey",
       "natdex": 113,
       "method": "level-up",
       "level": 13
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "tutor"
     },
     {
       "pokemon": "blissey",

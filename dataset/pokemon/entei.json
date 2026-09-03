@@ -196,10 +196,24 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/244.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.686Z"
+    "scrapedAt": "2026-09-03T19:47:50.225Z"
   }
 }

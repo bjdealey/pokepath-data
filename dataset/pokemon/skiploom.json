@@ -181,10 +181,30 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Confusion",
+      "Encore",
+      "Double-edge",
+      "Reflect",
+      "Amnesia",
+      "Helping Hand",
+      "Psych Up"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/188.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.341Z"
+    "scrapedAt": "2026-09-03T19:47:49.862Z"
   }
 }

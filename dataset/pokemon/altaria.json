@@ -232,10 +232,30 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Agility",
+      "Haze",
+      "Pursuit",
+      "Rage"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/334.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.245Z"
+    "scrapedAt": "2026-09-03T19:47:50.828Z"
   }
 }

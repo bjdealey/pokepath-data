@@ -22,6 +22,16 @@
       "level": 34
     },
     {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "egg"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "egg"
+    },
+    {
       "pokemon": "venonat",
       "natdex": 48,
       "method": "level-up",
@@ -32,6 +42,16 @@
       "natdex": 49,
       "method": "level-up",
       "level": 36
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
     },
     {
       "pokemon": "kadabra",
@@ -46,6 +66,26 @@
       "level": 21
     },
     {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "egg"
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "level-up",
@@ -56,6 +96,26 @@
       "natdex": 137,
       "method": "level-up",
       "level": 12
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "egg"
     },
     {
       "pokemon": "espeon",
@@ -98,6 +158,16 @@
       "natdex": 269,
       "method": "level-up",
       "level": 24
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "egg"
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "egg"
     },
     {
       "pokemon": "spoink",

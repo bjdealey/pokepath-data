@@ -118,6 +118,11 @@
       "level": 10
     },
     {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "egg"
+    },
+    {
       "pokemon": "slugma",
       "natdex": 218,
       "method": "level-up",

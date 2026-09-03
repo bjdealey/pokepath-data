@@ -253,10 +253,42 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Stomp",
+      "Foresight",
+      "Focus Energy",
+      "Safeguard",
+      "Disable",
+      "Counter",
+      "Crush Claw",
+      "Substitute"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/115.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.894Z"
+    "scrapedAt": "2026-09-03T19:47:49.390Z"
   }
 }

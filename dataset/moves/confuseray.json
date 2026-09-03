@@ -40,6 +40,16 @@
       "level": 28
     },
     {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "egg"
+    },
+    {
       "pokemon": "gastly",
       "natdex": 92,
       "method": "level-up",
@@ -74,6 +84,16 @@
       "natdex": 131,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "egg"
     },
     {
       "pokemon": "crobat",
@@ -112,10 +132,20 @@
       "level": 30
     },
     {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "egg"
+    },
+    {
       "pokemon": "misdreavus",
       "natdex": 200,
       "method": "level-up",
       "level": 17
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
     },
     {
       "pokemon": "mantine",
@@ -178,6 +208,16 @@
       "level": 29
     },
     {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "egg"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "egg"
+    },
+    {
       "pokemon": "duskull",
       "natdex": 355,
       "method": "level-up",
@@ -188,6 +228,21 @@
       "natdex": 356,
       "method": "level-up",
       "level": 23
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "egg"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "egg"
     }
   ]
 }

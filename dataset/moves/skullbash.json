@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
       "pokemon": "squirtle",
       "natdex": 7,
       "method": "level-up",
@@ -34,10 +49,25 @@
       "level": 55
     },
     {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "egg"
+    },
+    {
       "pokemon": "sharpedo",
       "natdex": 319,
       "method": "level-up",
       "level": 48
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "egg"
     }
   ]
 }

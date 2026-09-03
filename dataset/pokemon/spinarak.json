@@ -179,10 +179,28 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Psybeam",
+      "Disable",
+      "Sonicboom",
+      "Baton Pass",
+      "Pursuit",
+      "Signal Beam"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/167.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.215Z"
+    "scrapedAt": "2026-09-03T19:47:49.725Z"
   }
 }

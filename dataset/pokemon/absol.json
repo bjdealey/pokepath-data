@@ -245,10 +245,38 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Baton Pass",
+      "Faint Attack",
+      "Double-edge",
+      "Magic Coat",
+      "Curse",
+      "Substitute"
+    ],
+    "tutor": [
+      "Swords Dance",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Rock Slide",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/359.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.445Z"
+    "scrapedAt": "2026-09-03T19:47:50.993Z"
   }
 }

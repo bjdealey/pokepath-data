@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
       "pokemon": "butterfree",
       "natdex": 12,
       "method": "machine",
@@ -26,6 +41,16 @@
       "natdex": 12,
       "method": "level-up",
       "level": 40
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "egg"
     },
     {
       "pokemon": "clefairy",
@@ -76,6 +101,16 @@
       "machine": "TM20"
     },
     {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "egg"
+    },
+    {
       "pokemon": "abra",
       "natdex": 63,
       "method": "machine",
@@ -94,16 +129,36 @@
       "machine": "TM20"
     },
     {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowpoke",
       "natdex": 79,
       "method": "machine",
       "machine": "TM20"
     },
     {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowbro",
       "natdex": 80,
       "method": "machine",
       "machine": "TM20"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "egg"
     },
     {
       "pokemon": "seel",
@@ -148,6 +203,11 @@
       "machine": "TM20"
     },
     {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "machine",
@@ -158,6 +218,11 @@
       "natdex": 122,
       "method": "level-up",
       "level": 53
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "egg"
     },
     {
       "pokemon": "lapras",
@@ -334,6 +399,21 @@
       "level": 36
     },
     {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "egg"
+    },
+    {
       "pokemon": "bellossom",
       "natdex": 182,
       "method": "machine",
@@ -352,16 +432,36 @@
       "machine": "TM20"
     },
     {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowking",
       "natdex": 199,
       "method": "machine",
       "machine": "TM20"
     },
     {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "egg"
+    },
+    {
       "pokemon": "wobbuffet",
       "natdex": 202,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "egg"
     },
     {
       "pokemon": "shuckle",

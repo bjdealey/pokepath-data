@@ -20,6 +20,16 @@
       "natdex": 327,
       "method": "level-up",
       "level": 34
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "egg"
     }
   ]
 }

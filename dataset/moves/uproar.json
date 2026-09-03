@@ -16,6 +16,26 @@
   },
   "learnedBy": [
     {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "egg"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "egg"
+    },
+    {
       "pokemon": "doduo",
       "natdex": 84,
       "method": "level-up",
@@ -38,6 +58,21 @@
       "natdex": 193,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "egg"
     },
     {
       "pokemon": "lombre",
@@ -86,6 +121,26 @@
       "natdex": 295,
       "method": "level-up",
       "level": 5
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "egg"
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "egg"
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "egg"
     },
     {
       "pokemon": "spinda",

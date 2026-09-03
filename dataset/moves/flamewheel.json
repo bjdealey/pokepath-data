@@ -16,10 +16,30 @@
   },
   "learnedBy": [
     {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "egg"
+    },
+    {
       "pokemon": "growlithe",
       "natdex": 58,
       "method": "level-up",
       "level": 31
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "egg"
     },
     {
       "pokemon": "cyndaquil",

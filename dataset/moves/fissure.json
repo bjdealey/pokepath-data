@@ -28,6 +28,31 @@
       "level": 64
     },
     {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "egg"
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "egg"
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "egg"
+    },
+    {
       "pokemon": "camerupt",
       "natdex": 323,
       "method": "level-up",
@@ -44,6 +69,21 @@
       "natdex": 340,
       "method": "level-up",
       "level": 56
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "egg"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "egg"
     },
     {
       "pokemon": "groudon",

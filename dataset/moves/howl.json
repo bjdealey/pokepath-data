@@ -16,6 +16,41 @@
   },
   "learnedBy": [
     {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "egg"
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "egg"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
+    },
+    {
       "pokemon": "houndour",
       "natdex": 228,
       "method": "level-up",
@@ -98,6 +133,16 @@
       "natdex": 310,
       "method": "level-up",
       "level": 12
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "egg"
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "egg"
     }
   ]
 }

@@ -22,6 +22,31 @@
       "level": 46
     },
     {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "egg"
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "egg"
+    },
+    {
       "pokemon": "omanyte",
       "natdex": 138,
       "method": "level-up",
@@ -38,6 +63,56 @@
       "natdex": 190,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "egg"
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "egg"
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "egg"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "egg"
     },
     {
       "pokemon": "whiscash",

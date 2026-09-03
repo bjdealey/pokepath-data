@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
       "pokemon": "mankey",
       "natdex": 56,
       "method": "level-up",
@@ -44,6 +54,36 @@
       "natdex": 68,
       "method": "level-up",
       "level": 46
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "egg"
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "egg"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "egg"
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "egg"
     }
   ]
 }

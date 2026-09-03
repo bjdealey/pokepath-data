@@ -210,6 +210,11 @@
     {
       "pokemon": "aipom",
       "natdex": 190,
+      "method": "egg"
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
       "method": "level-up",
       "level": 50
     },
@@ -294,8 +299,18 @@
     {
       "pokemon": "wingull",
       "natdex": 278,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
       "method": "level-up",
       "level": 55
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "egg"
     },
     {
       "pokemon": "surskit",
@@ -332,6 +347,16 @@
       "natdex": 319,
       "method": "level-up",
       "level": 53
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "egg"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "egg"
     },
     {
       "pokemon": "gorebyss",

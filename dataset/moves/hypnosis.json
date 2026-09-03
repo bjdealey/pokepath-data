@@ -16,6 +16,36 @@
   },
   "learnedBy": [
     {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "egg"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "egg"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
       "pokemon": "poliwag",
       "natdex": 60,
       "method": "level-up",
@@ -38,6 +68,16 @@
       "natdex": 62,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "egg"
     },
     {
       "pokemon": "gastly",
@@ -80,6 +120,11 @@
       "natdex": 103,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "egg"
     },
     {
       "pokemon": "hoothoot",
@@ -134,6 +179,21 @@
       "natdex": 337,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "egg"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "egg"
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "egg"
     }
   ]
 }

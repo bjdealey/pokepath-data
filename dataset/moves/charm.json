@@ -16,6 +16,96 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "egg"
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vileplume",
+      "natdex": 45,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "egg"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "egg"
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "egg"
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "egg"
+    },
+    {
       "pokemon": "pichu",
       "natdex": 172,
       "method": "level-up",
@@ -46,6 +136,21 @@
       "level": null
     },
     {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "egg"
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "egg"
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "egg"
+    },
+    {
       "pokemon": "snubbull",
       "natdex": 209,
       "method": "level-up",
@@ -56,6 +161,26 @@
       "natdex": 210,
       "method": "level-up",
       "level": 8
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "egg"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "egg"
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "egg"
     },
     {
       "pokemon": "azurill",

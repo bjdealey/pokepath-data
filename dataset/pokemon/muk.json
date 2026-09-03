@@ -226,10 +226,34 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Haze",
+      "Mean Look",
+      "Lick",
+      "Imprison",
+      "Curse",
+      "Shadow Punch",
+      "Explosion"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Mimic",
+      "Explosion",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/089.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.728Z"
+    "scrapedAt": "2026-09-03T19:47:49.214Z"
   }
 }

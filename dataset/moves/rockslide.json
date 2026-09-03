@@ -16,10 +16,400 @@
   },
   "learnedBy": [
     {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "egg"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "egg"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "egg"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "egg"
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "egg"
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "egg"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "egg"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "egg"
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "egg"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "tutor"
+    },
+    {
       "pokemon": "sudowoodo",
       "natdex": 185,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "egg"
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "shuckle",
+      "natdex": 213,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "tutor"
     },
     {
       "pokemon": "slugma",
@@ -30,8 +420,78 @@
     {
       "pokemon": "magcargo",
       "natdex": 219,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
       "method": "level-up",
       "level": 48
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "egg"
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "egg"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "tutor"
     },
     {
       "pokemon": "larvitar",
@@ -42,8 +502,18 @@
     {
       "pokemon": "pupitar",
       "natdex": 247,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
       "method": "level-up",
       "level": 22
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "tutor"
     },
     {
       "pokemon": "tyranitar",
@@ -52,10 +522,125 @@
       "level": 22
     },
     {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "egg"
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "egg"
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "tutor"
+    },
+    {
       "pokemon": "nosepass",
       "natdex": 299,
       "method": "level-up",
       "level": 28
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "tutor"
     },
     {
       "pokemon": "camerupt",
@@ -64,10 +649,225 @@
       "level": 33
     },
     {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "tutor"
+    },
+    {
       "pokemon": "solrock",
       "natdex": 338,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "egg"
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "egg"
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "egg"
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "egg"
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "egg"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "egg"
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "tutor"
+    },
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "tutor"
     }
   ]
 }

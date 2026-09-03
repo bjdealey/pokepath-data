@@ -172,10 +172,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Karate Chop",
+      "Mega Punch",
+      "Barrier",
+      "Screech",
+      "Cross Chop",
+      "Thunderpunch"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Dynamicpunch",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Thunderpunch",
+      "Fire Punch"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/240.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.657Z"
+    "scrapedAt": "2026-09-03T19:47:50.198Z"
   }
 }

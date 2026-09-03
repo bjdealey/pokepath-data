@@ -173,10 +173,28 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Splash",
+      "Supersonic",
+      "Water Sport",
+      "Mud Sport"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/370.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.533Z"
+    "scrapedAt": "2026-09-03T19:47:51.060Z"
   }
 }

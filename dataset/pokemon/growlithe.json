@@ -190,10 +190,30 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Body Slam",
+      "Safeguard",
+      "Crunch",
+      "Thrash",
+      "Fire Spin",
+      "Howl",
+      "Heat Wave"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/058.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.487Z"
+    "scrapedAt": "2026-09-03T19:47:49.003Z"
   }
 }

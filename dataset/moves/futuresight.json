@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "egg"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "egg"
+    },
+    {
       "pokemon": "kadabra",
       "natdex": 64,
       "method": "level-up",
@@ -26,6 +36,16 @@
       "natdex": 65,
       "method": "level-up",
       "level": 30
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "egg"
     },
     {
       "pokemon": "drowzee",
@@ -40,10 +60,25 @@
       "level": 60
     },
     {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "egg"
+    },
+    {
       "pokemon": "mewtwo",
       "natdex": 150,
       "method": "level-up",
       "level": 44
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "egg"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "egg"
     },
     {
       "pokemon": "natu",
@@ -56,6 +91,31 @@
       "natdex": 178,
       "method": "level-up",
       "level": 35
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "egg"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "egg"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "egg"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "egg"
     },
     {
       "pokemon": "lugia",
@@ -94,6 +154,16 @@
       "level": 42
     },
     {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "egg"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "egg"
+    },
+    {
       "pokemon": "lunatone",
       "natdex": 337,
       "method": "level-up",
@@ -110,6 +180,11 @@
       "natdex": 340,
       "method": "level-up",
       "level": 46
+    },
+    {
+      "pokemon": "castform",
+      "natdex": 351,
+      "method": "egg"
     },
     {
       "pokemon": "duskull",

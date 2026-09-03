@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "egg"
+    },
+    {
       "pokemon": "poliwrath",
       "natdex": 62,
       "method": "level-up",
@@ -24,14 +39,49 @@
     {
       "pokemon": "hitmonlee",
       "natdex": 106,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
       "method": "level-up",
       "level": 31
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "egg"
     },
     {
       "pokemon": "articuno",
       "natdex": 144,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "egg"
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "egg"
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "egg"
     },
     {
       "pokemon": "breloom",

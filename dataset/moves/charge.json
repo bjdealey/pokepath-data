@@ -16,6 +16,16 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
       "pokemon": "voltorb",
       "natdex": 100,
       "method": "level-up",
@@ -44,6 +54,26 @@
       "natdex": 171,
       "method": "level-up",
       "level": 61
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "egg"
     },
     {
       "pokemon": "electrike",

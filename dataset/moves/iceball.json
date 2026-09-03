@@ -16,6 +16,46 @@
   },
   "learnedBy": [
     {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "egg"
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "egg"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "egg"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "egg"
+    },
+    {
       "pokemon": "spheal",
       "natdex": 363,
       "method": "level-up",

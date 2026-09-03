@@ -16,16 +16,86 @@
   },
   "learnedBy": [
     {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "egg"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "egg"
+    },
+    {
       "pokemon": "clefairy",
       "natdex": 35,
       "method": "level-up",
       "level": 5
     },
     {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "egg"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "egg"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "egg"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "egg"
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "egg"
+    },
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "egg"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "egg"
     },
     {
       "pokemon": "cleffa",
@@ -44,6 +114,31 @@
       "natdex": 176,
       "method": "level-up",
       "level": 21
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "egg"
     },
     {
       "pokemon": "shuckle",
@@ -82,6 +177,11 @@
       "level": 7
     },
     {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "egg"
+    },
+    {
       "pokemon": "plusle",
       "natdex": 311,
       "method": "level-up",
@@ -110,6 +210,11 @@
       "natdex": 317,
       "method": "level-up",
       "level": 23
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "egg"
     },
     {
       "pokemon": "wynaut",

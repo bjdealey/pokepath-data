@@ -51,10 +51,25 @@
       "machine": "TM02"
     },
     {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "egg"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "egg"
+    },
+    {
       "pokemon": "feraligatr",
       "natdex": 160,
       "method": "machine",
       "machine": "TM02"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "egg"
     },
     {
       "pokemon": "tyranitar",

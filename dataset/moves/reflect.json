@@ -70,6 +70,21 @@
       "level": 23
     },
     {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "egg"
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "egg"
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "egg"
+    },
+    {
       "pokemon": "magnemite",
       "natdex": 81,
       "method": "machine",
@@ -102,6 +117,11 @@
     {
       "pokemon": "exeggcute",
       "natdex": 102,
+      "method": "egg"
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
       "method": "level-up",
       "level": 7
     },
@@ -110,6 +130,16 @@
       "natdex": 103,
       "method": "machine",
       "machine": "TM33"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "egg"
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "egg"
     },
     {
       "pokemon": "staryu",
@@ -298,6 +328,36 @@
       "machine": "TM33"
     },
     {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "egg"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "egg"
+    },
+    {
       "pokemon": "espeon",
       "natdex": 196,
       "method": "machine",
@@ -316,10 +376,35 @@
       "machine": "TM33"
     },
     {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "egg"
+    },
+    {
       "pokemon": "forretress",
       "natdex": 205,
       "method": "machine",
       "machine": "TM33"
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "egg"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "egg"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "egg"
     },
     {
       "pokemon": "slugma",

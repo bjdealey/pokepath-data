@@ -201,10 +201,30 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Screech",
+      "Destiny Bond",
+      "Psych Up",
+      "Imprison"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/200.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.417Z"
+    "scrapedAt": "2026-09-03T19:47:49.939Z"
   }
 }

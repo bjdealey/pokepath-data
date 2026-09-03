@@ -64,6 +64,16 @@
       "level": 19
     },
     {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "egg"
+    },
+    {
       "pokemon": "lileep",
       "natdex": 345,
       "method": "level-up",

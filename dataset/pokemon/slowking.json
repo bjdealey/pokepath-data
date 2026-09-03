@@ -245,10 +245,42 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Safeguard",
+      "Belly Drum",
+      "Future Sight",
+      "Stomp",
+      "Mud Sport",
+      "Sleep Talk",
+      "Snore"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Dream Eater",
+      "Thunder Wave",
+      "Substitute",
+      "Dynamicpunch",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Ice Punch",
+      "Swagger",
+      "Sleep Talk",
+      "Swift",
+      "Fury Cutter"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/199.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.412Z"
+    "scrapedAt": "2026-09-03T19:47:49.934Z"
   }
 }

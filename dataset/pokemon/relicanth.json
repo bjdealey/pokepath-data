@@ -211,10 +211,32 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Magnitude",
+      "Skull Bash",
+      "Water Sport",
+      "Amnesia",
+      "Sleep Talk",
+      "Rock Slide"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Psych Up",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/369.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.528Z"
+    "scrapedAt": "2026-09-03T19:47:51.055Z"
   }
 }

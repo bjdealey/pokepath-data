@@ -16,10 +16,60 @@
   },
   "learnedBy": [
     {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "egg"
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "egg"
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "egg"
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "egg"
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "egg"
+    },
+    {
       "pokemon": "roselia",
       "natdex": 315,
       "method": "level-up",
       "level": 29
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "egg"
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "egg"
     }
   ]
 }

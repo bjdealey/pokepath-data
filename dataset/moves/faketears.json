@@ -16,16 +16,41 @@
   },
   "learnedBy": [
     {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "egg"
+    },
+    {
       "pokemon": "jynx",
       "natdex": 124,
       "method": "level-up",
       "level": 41
     },
     {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "egg"
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "egg"
+    },
+    {
       "pokemon": "teddiursa",
       "natdex": 216,
       "method": "level-up",
       "level": 19
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "egg"
     },
     {
       "pokemon": "ursaring",
@@ -38,6 +63,26 @@
       "natdex": 238,
       "method": "level-up",
       "level": 37
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "egg"
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "egg"
     },
     {
       "pokemon": "mawile",

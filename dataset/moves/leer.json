@@ -418,6 +418,16 @@
       "level": null
     },
     {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "egg"
+    },
+    {
       "pokemon": "sableye",
       "natdex": 302,
       "method": "level-up",

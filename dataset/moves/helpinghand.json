@@ -46,6 +46,16 @@
       "level": 37
     },
     {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "egg"
+    },
+    {
       "pokemon": "eevee",
       "natdex": 133,
       "method": "level-up",
@@ -82,6 +92,31 @@
       "level": 19
     },
     {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "egg"
+    },
+    {
       "pokemon": "espeon",
       "natdex": 196,
       "method": "level-up",
@@ -92,6 +127,51 @@
       "natdex": 197,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "egg"
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "egg"
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "egg"
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "egg"
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "egg"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "egg"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "egg"
     },
     {
       "pokemon": "plusle",

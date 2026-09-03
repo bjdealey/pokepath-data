@@ -203,10 +203,25 @@
         "machine": "HM08",
         "move": "Dive"
       }
+    ],
+    "egg": [
+      "Flail",
+      "Screech",
+      "Amnesia"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/171.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.238Z"
+    "scrapedAt": "2026-09-03T19:47:49.751Z"
   }
 }

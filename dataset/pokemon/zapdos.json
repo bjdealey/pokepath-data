@@ -185,10 +185,23 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Thunder Wave",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/145.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.075Z"
+    "scrapedAt": "2026-09-03T19:47:49.576Z"
   }
 }

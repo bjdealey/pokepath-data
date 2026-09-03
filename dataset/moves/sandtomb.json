@@ -40,6 +40,21 @@
       "level": 49
     },
     {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "egg"
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "egg"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "egg"
+    },
+    {
       "pokemon": "trapinch",
       "natdex": 328,
       "method": "level-up",

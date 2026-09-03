@@ -16,6 +16,21 @@
   },
   "learnedBy": [
     {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "egg"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "egg"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "egg"
+    },
+    {
       "pokemon": "slowpoke",
       "natdex": 79,
       "method": "level-up",
@@ -70,6 +85,16 @@
       "level": 11
     },
     {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "egg"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "egg"
+    },
+    {
       "pokemon": "slugma",
       "natdex": 218,
       "method": "level-up",
@@ -80,6 +105,16 @@
       "natdex": 219,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "egg"
     },
     {
       "pokemon": "slakoth",
@@ -112,10 +147,30 @@
       "level": 6
     },
     {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "egg"
+    },
+    {
       "pokemon": "chimecho",
       "natdex": 358,
       "method": "level-up",
       "level": 25
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "egg"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "egg"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "egg"
     },
     {
       "pokemon": "relicanth",

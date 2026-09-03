@@ -28,6 +28,21 @@
       "level": 10
     },
     {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "egg"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "egg"
+    },
+    {
       "pokemon": "venonat",
       "natdex": 48,
       "method": "level-up",
@@ -118,6 +133,11 @@
       "level": null
     },
     {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "egg"
+    },
+    {
       "pokemon": "mr-mime",
       "natdex": 122,
       "method": "level-up",
@@ -140,6 +160,21 @@
       "natdex": 164,
       "method": "level-up",
       "level": 41
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "egg"
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "egg"
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "egg"
     },
     {
       "pokemon": "espeon",

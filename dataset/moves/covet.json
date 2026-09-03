@@ -22,6 +22,31 @@
       "level": 42
     },
     {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "egg"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "egg"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "egg"
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "egg"
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "egg"
+    },
+    {
       "pokemon": "zigzagoon",
       "natdex": 263,
       "method": "level-up",

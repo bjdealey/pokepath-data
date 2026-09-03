@@ -211,10 +211,28 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Block",
+      "Spikes"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Explosion",
+      "Substitute",
+      "Rollout",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Swagger",
+      "Sleep Talk",
+      "Defense Curl"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/362.shtml",
-    "scrapedAt": "2026-09-02T21:36:14.466Z"
+    "scrapedAt": "2026-09-03T19:47:51.010Z"
   }
 }

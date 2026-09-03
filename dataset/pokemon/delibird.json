@@ -147,10 +147,35 @@
         "machine": "HM02",
         "move": "Fly"
       }
+    ],
+    "egg": [
+      "Aurora Beam",
+      "Quick Attack",
+      "Future Sight",
+      "Splash",
+      "Rapid Spin",
+      "Ice Ball"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Substitute",
+      "Snore",
+      "Icy Wind",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/225.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.571Z"
+    "scrapedAt": "2026-09-03T19:47:50.101Z"
   }
 }

@@ -207,10 +207,28 @@
         "machine": "HM04",
         "move": "Strength"
       }
+    ],
+    "egg": [
+      "Pursuit",
+      "Slam",
+      "Spite",
+      "Beat Up",
+      "Poison Fang"
+    ],
+    "tutor": [
+      "Body Slam",
+      "Double-edge",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/024.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.276Z"
+    "scrapedAt": "2026-09-03T19:47:48.761Z"
   }
 }

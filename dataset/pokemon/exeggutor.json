@@ -175,10 +175,32 @@
         "machine": "HM05",
         "move": "Flash"
       }
+    ],
+    "egg": [
+      "Synthesis",
+      "Moonlight",
+      "Reflect",
+      "Ancientpower",
+      "Psych Up",
+      "Ingrain",
+      "Curse"
+    ],
+    "tutor": [
+      "Double-edge",
+      "Mimic",
+      "Dream Eater",
+      "Explosion",
+      "Substitute",
+      "Rollout",
+      "Psych Up",
+      "Snore",
+      "Endure",
+      "Swagger",
+      "Sleep Talk"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/103.shtml",
-    "scrapedAt": "2026-09-02T21:36:12.813Z"
+    "scrapedAt": "2026-09-03T19:47:49.300Z"
   }
 }

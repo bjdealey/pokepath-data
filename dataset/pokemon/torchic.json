@@ -187,10 +187,36 @@
         "machine": "HM06",
         "move": "Rock Smash"
       }
+    ],
+    "egg": [
+      "Counter",
+      "Reversal",
+      "Endure",
+      "Swagger",
+      "Rock Slide",
+      "Smellingsalt"
+    ],
+    "tutor": [
+      "Mega Punch",
+      "Swords Dance",
+      "Mega Kick",
+      "Body Slam",
+      "Double-edge",
+      "Counter",
+      "Seismic Toss",
+      "Mimic",
+      "Rock Slide",
+      "Substitute",
+      "Snore",
+      "Endure",
+      "Mud-slap",
+      "Swagger",
+      "Sleep Talk",
+      "Swift"
     ]
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/255.shtml",
-    "scrapedAt": "2026-09-02T21:36:13.751Z"
+    "scrapedAt": "2026-09-03T19:47:50.302Z"
   }
 }
