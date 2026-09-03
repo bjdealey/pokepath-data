@@ -74,6 +74,7 @@ export interface MoveRecord {
   secondaryEffect?: string;
   effectRate: number | null; // % chance of the secondary effect
   contestType?: string;
+  gameExclusive?: boolean; // true = side-game only (Colosseum/XD Shadow moves), not obtainable in the core Gen-3 games
   learnedBy?: LearnedByEntry[]; // derived: Pokémon that learn this move (level-up + TM/HM)
   source: { url: string; scrapedAt: string };
 }

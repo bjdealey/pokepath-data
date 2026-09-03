@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers opponent's EVASIVENESS one stage.",
   "effectRate": 100,
   "contestType": "na",
+  "gameExclusive": true,
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowmist.shtml",
     "scrapedAt": "2026-09-03T19:26:14.996Z"

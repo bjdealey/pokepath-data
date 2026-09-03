@@ -58,7 +58,9 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   physical/special split). Canonical — lives at `dataset/moves/<slug>.json`. Each move
   also carries **`learnedBy`** — which Pokémon learn it and how (level-up / TM-HM / egg /
   tutor), derived by inverting the Pokémon learnsets (`run.ts learnedby`, no network).
-  348/374 moves have learners, ~20.2k links.
+  348/374 moves have learners, ~20.2k links. Non-standard types are handled, not dropped:
+  Curse's Serebii type is mapped to Gen-3 **`???`** (typeless), and the 18 Colosseum/XD
+  **Shadow** moves are tagged **`gameExclusive`** (filter with `/moves?core=true`).
 - ✅ `itemdex` — item **definitions** (name, category, **In-Depth Effect**, purchase/sell
   price) for the 164 items findable in Emerald, from `/itemdex/<slug>.shtml`. Canonical at
   `dataset/items/<slug>.json`; slugs match the location items — `games/emerald/items.json`

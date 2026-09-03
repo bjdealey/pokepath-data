@@ -10,6 +10,7 @@
   "secondaryEffect": "User takes recoil damage.",
   "effectRate": 100,
   "contestType": "na",
+  "gameExclusive": true,
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowend.shtml",
     "scrapedAt": "2026-09-03T19:26:08.974Z"

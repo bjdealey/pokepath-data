@@ -10,6 +10,7 @@
   "secondaryEffect": "Destroys protective barriers.",
   "effectRate": 100,
   "contestType": "na",
+  "gameExclusive": true,
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowshed.shtml",
     "scrapedAt": "2026-09-03T19:26:24.004Z"

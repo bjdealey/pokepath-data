@@ -7,6 +7,9 @@ import type { MoveRecord } from "../types.ts";
 
 // Gen-3 physical/special is decided by type, not per move.
 const PHYSICAL = new Set(["normal", "fighting", "flying", "poison", "ground", "rock", "bug", "ghost", "steel"]);
+// Serebii's type images that aren't one of the 17 battle types:
+//   curse.gif = the Gen-3 ??? (typeless) type used by Curse.
+const TYPE_ALIAS: Record<string, string> = { curse: "???" };
 
 const clean = (s: string) => s.replace(/\s+/g, " ").trim();
 const numOrNull = (s: string): number | null => {
@@ -29,8 +32,11 @@ export function parseMove(html: string, url: string): MoveRecord {
   const nameRow = after(findRow(/Attack Name/i));
   const nameCells = nameRow ? cells(nameRow) : [];
   const name = clean($(nameCells[0]).text());
-  const type = typeFromImg($(nameCells[1]).find("img").attr("src")) ?? "";
+  const rawType = typeFromImg($(nameCells[1]).find("img").attr("src")) ?? "";
+  const type = TYPE_ALIAS[rawType] ?? rawType;
   const contestType = typeFromImg($(nameCells[2]).find("img").attr("src"));
+  // Shadow-typed moves are Colosseum/XD only (not in the 17-type chart, not in Emerald).
+  const gameExclusive = type === "shadow" ? true : undefined;
 
   // Power Points / Base Power / Accuracy
   const statRow = after(findRow(/Base Power/i));
@@ -52,5 +58,5 @@ export function parseMove(html: string, url: string): MoveRecord {
   const category = power === null ? "status" : PHYSICAL.has(type) ? "physical" : "special";
   const slug = url.match(/\/attackdex\/([a-z0-9-]+)\.shtml/i)?.[1] ?? name.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 
-  return { slug, name, type, category, power, accuracy, pp, effect, secondaryEffect, effectRate, contestType, source: { url, scrapedAt: new Date().toISOString() } };
+  return { slug, name, type, category, power, accuracy, pp, effect, secondaryEffect, effectRate, contestType, gameExclusive, source: { url, scrapedAt: new Date().toISOString() } };
 }

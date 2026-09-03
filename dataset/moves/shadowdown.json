@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers opponent's DEFENSE two stages.",
   "effectRate": 100,
   "contestType": "na",
+  "gameExclusive": true,
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowdown.shtml",
     "scrapedAt": "2026-09-03T19:26:07.506Z"

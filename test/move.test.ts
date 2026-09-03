@@ -33,3 +33,21 @@ test("status moves have null power/accuracy and status category", () => {
   assert.equal(agility.power, null);
   assert.equal(agility.accuracy, null);
 });
+
+test("Curse's Serebii 'curse' type maps to Gen-3 ??? (typeless)", () => {
+  const curse = parseMove(
+    readFileSync(fileURLToPath(new URL("./fixtures/attackdex-curse.html", import.meta.url)), "utf8"),
+    "https://www.serebii.net/attackdex/curse.shtml",
+  );
+  assert.equal(curse.type, "???");
+  assert.equal(curse.gameExclusive, undefined); // Curse IS obtainable in the core games
+});
+
+test("Shadow moves are tagged gameExclusive (Colosseum/XD only)", () => {
+  const shadow = parseMove(
+    readFileSync(fileURLToPath(new URL("./fixtures/attackdex-shadowblast.html", import.meta.url)), "utf8"),
+    "https://www.serebii.net/attackdex/shadowblast.shtml",
+  );
+  assert.equal(shadow.type, "shadow");
+  assert.equal(shadow.gameExclusive, true);
+});

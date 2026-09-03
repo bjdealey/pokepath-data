@@ -9,6 +9,7 @@
   "effect": "Deals Damage to One Opponent",
   "effectRate": null,
   "contestType": "na",
+  "gameExclusive": true,
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowrush2.shtml",
     "scrapedAt": "2026-09-03T19:26:22.537Z"
