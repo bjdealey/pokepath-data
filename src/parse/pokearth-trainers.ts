@@ -15,6 +15,10 @@ const monSlug = (name: string) =>
 
 const RIVAL = /\bPok.?mon Trainer\b.*\b(Brendan|May|Wally)\b|\b(Brendan|May|Wally)\b/;
 const VILLAIN = /\b(Magma|Aqua|Maxie|Archie|Tabitha|Courtney|Matt|Shelly)\b/;
+// Pokearth city pages re-list gym leaders / E4 / champion (as escalating rematch
+// tiers, without movesets). Reclassify to their real kind and strip the honorific
+// so their identity merges with the authoritative gym/elite-page rows.
+const MARQUEE = /^(Gym Leader|Elite Four|Champion)\s+(.+)$/i;
 
 const PLACE_WORDS =
   /(city|town|hideout|pass|tunnel|woods|road|cavern|cave|institute|center|falls|island|forest|tower|frontier|league|underpass|hall)/g;
@@ -51,7 +55,11 @@ export function parseRouteTrainers(html: string, location: string): Trainer[] {
 
     const label = clean($(cells(nameRow)[0]).text());
     if (!label) return;
-    const kind: Trainer["kind"] = RIVAL.test(label) ? "rival" : VILLAIN.test(label) ? "villain" : "trainer";
+    const mq = label.match(MARQUEE);
+    const kind: Trainer["kind"] = mq
+      ? (/^champion$/i.test(mq[1]!) ? "champion" : /^elite four$/i.test(mq[1]!) ? "elite-four" : "gym-leader")
+      : RIVAL.test(label) ? "rival" : VILLAIN.test(label) ? "villain" : "trainer";
+    const identity = mq ? mq[2]! : label; // honorific stripped → merges with gym/elite-page row
 
     const nameCells = cells(nameRow).slice(1); // drop leader column
     const spriteCells = cells(spriteRow).slice(1);
@@ -71,7 +79,8 @@ export function parseRouteTrainers(html: string, location: string): Trainer[] {
 
     const variant = rows.map((r) => clean($(r).text())).find((t) => /\bChosen\b/i.test(t))?.match(/(\w+)\s+Chosen/i)?.[0];
 
-    out.push({ slug: trainerSlug(label), label, kind, location, locationName: locationName(location), variant, team });
+    const slug = trainerSlug(identity);
+    out.push({ slug, trainer: slug, label, kind, location, locationName: locationName(location), variant, team });
   });
 
   return out;

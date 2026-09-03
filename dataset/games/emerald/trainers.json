@@ -1,6 +1,7 @@
 [
   {
     "slug": "roxanne",
+    "trainer": "roxanne",
     "label": "Roxanne",
     "kind": "gym-leader",
     "location": "Rustboro City",
@@ -51,6 +52,7 @@
   },
   {
     "slug": "brawly",
+    "trainer": "brawly",
     "label": "Brawly",
     "kind": "gym-leader",
     "location": "Dewford Town",
@@ -101,6 +103,7 @@
   },
   {
     "slug": "wattson",
+    "trainer": "wattson",
     "label": "Wattson",
     "kind": "gym-leader",
     "location": "Mauville City",
@@ -163,6 +166,7 @@
   },
   {
     "slug": "flannery",
+    "trainer": "flannery",
     "label": "Flannery",
     "kind": "gym-leader",
     "location": "Lavaridge Town",
@@ -225,6 +229,7 @@
   },
   {
     "slug": "norman",
+    "trainer": "norman",
     "label": "Norman",
     "kind": "gym-leader",
     "location": "Petalburg City",
@@ -287,6 +292,7 @@
   },
   {
     "slug": "winona",
+    "trainer": "winona",
     "label": "Winona",
     "kind": "gym-leader",
     "location": "Fortree City",
@@ -361,6 +367,7 @@
   },
   {
     "slug": "tate-and-liza",
+    "trainer": "tate-and-liza",
     "label": "Tate & Liza",
     "kind": "gym-leader",
     "location": "Mossdeep City",
@@ -423,6 +430,7 @@
   },
   {
     "slug": "juan",
+    "trainer": "juan",
     "label": "Juan",
     "kind": "gym-leader",
     "location": "Sootopolis City",
@@ -496,6 +504,7 @@
   },
   {
     "slug": "sidney",
+    "trainer": "sidney",
     "label": "Sidney",
     "kind": "elite-four",
     "location": "",
@@ -567,6 +576,7 @@
   },
   {
     "slug": "phoebe",
+    "trainer": "phoebe",
     "label": "Phoebe",
     "kind": "elite-four",
     "location": "",
@@ -638,6 +648,7 @@
   },
   {
     "slug": "glacia",
+    "trainer": "glacia",
     "label": "Glacia",
     "kind": "elite-four",
     "location": "",
@@ -709,6 +720,7 @@
   },
   {
     "slug": "drake",
+    "trainer": "drake",
     "label": "Drake",
     "kind": "elite-four",
     "location": "",
@@ -780,6 +792,7 @@
   },
   {
     "slug": "wallace",
+    "trainer": "wallace",
     "label": "Wallace",
     "kind": "champion",
     "location": "",
@@ -862,6 +875,7 @@
   },
   {
     "slug": "cool-trainer-randall",
+    "trainer": "cool-trainer-randall",
     "label": "Cool Trainer Randall",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -876,6 +890,7 @@
   },
   {
     "slug": "cool-trainer-mary",
+    "trainer": "cool-trainer-mary",
     "label": "Cool Trainer Mary",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -890,6 +905,7 @@
   },
   {
     "slug": "cool-trainer-parker",
+    "trainer": "cool-trainer-parker",
     "label": "Cool Trainer Parker",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -904,6 +920,7 @@
   },
   {
     "slug": "cool-trainer-alexia",
+    "trainer": "cool-trainer-alexia",
     "label": "Cool Trainer Alexia",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -918,6 +935,7 @@
   },
   {
     "slug": "cool-trainer-george",
+    "trainer": "cool-trainer-george",
     "label": "Cool Trainer George",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -932,6 +950,7 @@
   },
   {
     "slug": "cool-trainer-jody",
+    "trainer": "cool-trainer-jody",
     "label": "Cool Trainer Jody",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -946,6 +965,7 @@
   },
   {
     "slug": "cool-trainer-berke",
+    "trainer": "cool-trainer-berke",
     "label": "Cool Trainer Berke",
     "kind": "trainer",
     "location": "petalburgcity",
@@ -959,9 +979,10 @@
     ]
   },
   {
-    "slug": "gym-leader-norman",
+    "slug": "norman-2",
+    "trainer": "norman",
     "label": "Gym Leader Norman",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "petalburgcity",
     "locationName": "Petalburg City",
     "team": [
@@ -988,9 +1009,10 @@
     ]
   },
   {
-    "slug": "gym-leader-norman",
+    "slug": "norman-3",
+    "trainer": "norman",
     "label": "Gym Leader Norman",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "petalburgcity",
     "locationName": "Petalburg City",
     "team": [
@@ -1017,9 +1039,10 @@
     ]
   },
   {
-    "slug": "gym-leader-norman",
+    "slug": "norman-4",
+    "trainer": "norman",
     "label": "Gym Leader Norman",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "petalburgcity",
     "locationName": "Petalburg City",
     "team": [
@@ -1051,9 +1074,10 @@
     ]
   },
   {
-    "slug": "gym-leader-norman",
+    "slug": "norman-5",
+    "trainer": "norman",
     "label": "Gym Leader Norman",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "petalburgcity",
     "locationName": "Petalburg City",
     "team": [
@@ -1085,9 +1109,10 @@
     ]
   },
   {
-    "slug": "gym-leader-norman",
+    "slug": "norman-6",
+    "trainer": "norman",
     "label": "Gym Leader Norman",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "petalburgcity",
     "locationName": "Petalburg City",
     "team": [
@@ -1125,6 +1150,7 @@
   },
   {
     "slug": "pok-mon-trainer-brendan",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "rustborocity",
@@ -1144,7 +1170,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-2",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "rustborocity",
@@ -1164,7 +1191,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-3",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "rustborocity",
@@ -1185,6 +1213,7 @@
   },
   {
     "slug": "pok-mon-trainer-may",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "rustborocity",
@@ -1204,7 +1233,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-2",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "rustborocity",
@@ -1224,7 +1254,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-3",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "rustborocity",
@@ -1244,6 +1275,7 @@
   },
   {
     "slug": "youngster-josh",
+    "trainer": "youngster-josh",
     "label": "Youngster Josh",
     "kind": "trainer",
     "location": "rustborocity",
@@ -1258,6 +1290,7 @@
   },
   {
     "slug": "youngster-tommy",
+    "trainer": "youngster-tommy",
     "label": "Youngster Tommy",
     "kind": "trainer",
     "location": "rustborocity",
@@ -1277,6 +1310,7 @@
   },
   {
     "slug": "hiker-marc",
+    "trainer": "hiker-marc",
     "label": "Hiker Marc",
     "kind": "trainer",
     "location": "rustborocity",
@@ -1295,9 +1329,10 @@
     ]
   },
   {
-    "slug": "gym-leader-roxanne",
+    "slug": "roxanne-2",
+    "trainer": "roxanne",
     "label": "Gym Leader Roxanne",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "rustborocity",
     "locationName": "Rustboro City",
     "team": [
@@ -1314,9 +1349,10 @@
     ]
   },
   {
-    "slug": "gym-leader-roxanne",
+    "slug": "roxanne-3",
+    "trainer": "roxanne",
     "label": "Gym Leader Roxanne",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "rustborocity",
     "locationName": "Rustboro City",
     "team": [
@@ -1343,9 +1379,10 @@
     ]
   },
   {
-    "slug": "gym-leader-roxanne",
+    "slug": "roxanne-4",
+    "trainer": "roxanne",
     "label": "Gym Leader Roxanne",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "rustborocity",
     "locationName": "Rustboro City",
     "team": [
@@ -1377,9 +1414,10 @@
     ]
   },
   {
-    "slug": "gym-leader-roxanne",
+    "slug": "roxanne-5",
+    "trainer": "roxanne",
     "label": "Gym Leader Roxanne",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "rustborocity",
     "locationName": "Rustboro City",
     "team": [
@@ -1411,9 +1449,10 @@
     ]
   },
   {
-    "slug": "gym-leader-roxanne",
+    "slug": "roxanne-6",
+    "trainer": "roxanne",
     "label": "Gym Leader Roxanne",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "rustborocity",
     "locationName": "Rustboro City",
     "team": [
@@ -1451,6 +1490,7 @@
   },
   {
     "slug": "battle-girl-laura",
+    "trainer": "battle-girl-laura",
     "label": "Battle Girl Laura",
     "kind": "trainer",
     "location": "dewfordtown",
@@ -1465,6 +1505,7 @@
   },
   {
     "slug": "battle-girl-lilith",
+    "trainer": "battle-girl-lilith",
     "label": "Battle Girl Lilith",
     "kind": "trainer",
     "location": "dewfordtown",
@@ -1479,6 +1520,7 @@
   },
   {
     "slug": "sailor-brenden",
+    "trainer": "sailor-brenden",
     "label": "Sailor Brenden",
     "kind": "trainer",
     "location": "dewfordtown",
@@ -1493,6 +1535,7 @@
   },
   {
     "slug": "black-belt-takao",
+    "trainer": "black-belt-takao",
     "label": "Black Belt Takao",
     "kind": "trainer",
     "location": "dewfordtown",
@@ -1507,6 +1550,7 @@
   },
   {
     "slug": "black-belt-cristian",
+    "trainer": "black-belt-cristian",
     "label": "Black Belt Cristian",
     "kind": "trainer",
     "location": "dewfordtown",
@@ -1521,6 +1565,7 @@
   },
   {
     "slug": "battle-girl-jocelyn",
+    "trainer": "battle-girl-jocelyn",
     "label": "Battle Girl Jocelyn",
     "kind": "trainer",
     "location": "dewfordtown",
@@ -1534,9 +1579,10 @@
     ]
   },
   {
-    "slug": "gym-leader-brawly",
+    "slug": "brawly-2",
+    "trainer": "brawly",
     "label": "Gym Leader Brawly",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "dewfordtown",
     "locationName": "Dewford Town",
     "team": [
@@ -1558,9 +1604,10 @@
     ]
   },
   {
-    "slug": "gym-leader-brawly",
+    "slug": "brawly-3",
+    "trainer": "brawly",
     "label": "Gym Leader Brawly",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "dewfordtown",
     "locationName": "Dewford Town",
     "team": [
@@ -1587,9 +1634,10 @@
     ]
   },
   {
-    "slug": "gym-leader-brawly",
+    "slug": "brawly-4",
+    "trainer": "brawly",
     "label": "Gym Leader Brawly",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "dewfordtown",
     "locationName": "Dewford Town",
     "team": [
@@ -1616,9 +1664,10 @@
     ]
   },
   {
-    "slug": "gym-leader-brawly",
+    "slug": "brawly-5",
+    "trainer": "brawly",
     "label": "Gym Leader Brawly",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "dewfordtown",
     "locationName": "Dewford Town",
     "team": [
@@ -1650,9 +1699,10 @@
     ]
   },
   {
-    "slug": "gym-leader-brawly",
+    "slug": "brawly-6",
+    "trainer": "brawly",
     "label": "Gym Leader Brawly",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "dewfordtown",
     "locationName": "Dewford Town",
     "team": [
@@ -1690,6 +1740,7 @@
   },
   {
     "slug": "team-aqua-grunt",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "slateportcity",
@@ -1703,7 +1754,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-2",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "slateportcity",
@@ -1723,6 +1775,7 @@
   },
   {
     "slug": "pok-mon-trainer-wally",
+    "trainer": "pok-mon-trainer-wally",
     "label": "Pokémon Trainer Wally",
     "kind": "rival",
     "location": "mauvillecity",
@@ -1737,6 +1790,7 @@
   },
   {
     "slug": "battle-girl-vivian",
+    "trainer": "battle-girl-vivian",
     "label": "Battle Girl Vivian",
     "kind": "trainer",
     "location": "mauvillecity",
@@ -1756,6 +1810,7 @@
   },
   {
     "slug": "guitarist-kirk",
+    "trainer": "guitarist-kirk",
     "label": "Guitarist Kirk",
     "kind": "trainer",
     "location": "mauvillecity",
@@ -1775,6 +1830,7 @@
   },
   {
     "slug": "youngster-ben",
+    "trainer": "youngster-ben",
     "label": "Youngster Ben",
     "kind": "trainer",
     "location": "mauvillecity",
@@ -1794,6 +1850,7 @@
   },
   {
     "slug": "bug-maniac-angelo",
+    "trainer": "bug-maniac-angelo",
     "label": "Bug Maniac Angelo",
     "kind": "trainer",
     "location": "mauvillecity",
@@ -1813,6 +1870,7 @@
   },
   {
     "slug": "guitarist-shawn",
+    "trainer": "guitarist-shawn",
     "label": "Guitarist Shawn",
     "kind": "trainer",
     "location": "mauvillecity",
@@ -1831,9 +1889,10 @@
     ]
   },
   {
-    "slug": "gym-leader-wattson",
+    "slug": "wattson-2",
+    "trainer": "wattson",
     "label": "Gym Leader Wattson",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mauvillecity",
     "locationName": "Mauville City",
     "team": [
@@ -1860,9 +1919,10 @@
     ]
   },
   {
-    "slug": "gym-leader-wattson",
+    "slug": "wattson-3",
+    "trainer": "wattson",
     "label": "Gym Leader Wattson",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mauvillecity",
     "locationName": "Mauville City",
     "team": [
@@ -1889,9 +1949,10 @@
     ]
   },
   {
-    "slug": "gym-leader-wattson",
+    "slug": "wattson-4",
+    "trainer": "wattson",
     "label": "Gym Leader Wattson",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mauvillecity",
     "locationName": "Mauville City",
     "team": [
@@ -1923,9 +1984,10 @@
     ]
   },
   {
-    "slug": "gym-leader-wattson",
+    "slug": "wattson-5",
+    "trainer": "wattson",
     "label": "Gym Leader Wattson",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mauvillecity",
     "locationName": "Mauville City",
     "team": [
@@ -1957,9 +2019,10 @@
     ]
   },
   {
-    "slug": "gym-leader-wattson",
+    "slug": "wattson-6",
+    "trainer": "wattson",
     "label": "Gym Leader Wattson",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mauvillecity",
     "locationName": "Mauville City",
     "team": [
@@ -1997,6 +2060,7 @@
   },
   {
     "slug": "kindler-jeff",
+    "trainer": "kindler-jeff",
     "label": "Kindler Jeff",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2016,6 +2080,7 @@
   },
   {
     "slug": "kindler-jace",
+    "trainer": "kindler-jace",
     "label": "Kindler Jace",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2030,6 +2095,7 @@
   },
   {
     "slug": "hiker-eli",
+    "trainer": "hiker-eli",
     "label": "Hiker Eli",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2044,6 +2110,7 @@
   },
   {
     "slug": "kindler-cole",
+    "trainer": "kindler-cole",
     "label": "Kindler Cole",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2058,6 +2125,7 @@
   },
   {
     "slug": "cool-trainer-gerald",
+    "trainer": "cool-trainer-gerald",
     "label": "Cool Trainer Gerald",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2072,6 +2140,7 @@
   },
   {
     "slug": "kindler-axle",
+    "trainer": "kindler-axle",
     "label": "Kindler Axle",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2086,6 +2155,7 @@
   },
   {
     "slug": "kindler-keegan",
+    "trainer": "kindler-keegan",
     "label": "Kindler Keegan",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2100,6 +2170,7 @@
   },
   {
     "slug": "battle-girl-danielle",
+    "trainer": "battle-girl-danielle",
     "label": "Battle Girl Danielle",
     "kind": "trainer",
     "location": "lavaridgetown",
@@ -2113,9 +2184,10 @@
     ]
   },
   {
-    "slug": "gym-leader-flannery",
+    "slug": "flannery-2",
+    "trainer": "flannery",
     "label": "Gym Leader Flannery",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "lavaridgetown",
     "locationName": "Lavaridge Town",
     "team": [
@@ -2142,9 +2214,10 @@
     ]
   },
   {
-    "slug": "gym-leader-flannery",
+    "slug": "flannery-3",
+    "trainer": "flannery",
     "label": "Gym Leader Flannery",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "lavaridgetown",
     "locationName": "Lavaridge Town",
     "team": [
@@ -2171,9 +2244,10 @@
     ]
   },
   {
-    "slug": "gym-leader-flannery",
+    "slug": "flannery-4",
+    "trainer": "flannery",
     "label": "Gym Leader Flannery",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "lavaridgetown",
     "locationName": "Lavaridge Town",
     "team": [
@@ -2205,9 +2279,10 @@
     ]
   },
   {
-    "slug": "gym-leader-flannery",
+    "slug": "flannery-5",
+    "trainer": "flannery",
     "label": "Gym Leader Flannery",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "lavaridgetown",
     "locationName": "Lavaridge Town",
     "team": [
@@ -2244,9 +2319,10 @@
     ]
   },
   {
-    "slug": "gym-leader-flannery",
+    "slug": "flannery-6",
+    "trainer": "flannery",
     "label": "Gym Leader Flannery",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "lavaridgetown",
     "locationName": "Lavaridge Town",
     "team": [
@@ -2284,6 +2360,7 @@
   },
   {
     "slug": "bird-keeper-humberto",
+    "trainer": "bird-keeper-humberto",
     "label": "Bird Keeper Humberto",
     "kind": "trainer",
     "location": "fortreecity",
@@ -2298,6 +2375,7 @@
   },
   {
     "slug": "bird-keeper-jared",
+    "trainer": "bird-keeper-jared",
     "label": "Bird Keeper Jared",
     "kind": "trainer",
     "location": "fortreecity",
@@ -2322,6 +2400,7 @@
   },
   {
     "slug": "picknicker-ashley",
+    "trainer": "picknicker-ashley",
     "label": "Picknicker Ashley",
     "kind": "trainer",
     "location": "fortreecity",
@@ -2346,6 +2425,7 @@
   },
   {
     "slug": "camper-flint",
+    "trainer": "camper-flint",
     "label": "Camper Flint",
     "kind": "trainer",
     "location": "fortreecity",
@@ -2365,6 +2445,7 @@
   },
   {
     "slug": "bird-keeper-edwardo",
+    "trainer": "bird-keeper-edwardo",
     "label": "Bird Keeper Edwardo",
     "kind": "trainer",
     "location": "fortreecity",
@@ -2384,6 +2465,7 @@
   },
   {
     "slug": "bird-keeper-darius",
+    "trainer": "bird-keeper-darius",
     "label": "Bird Keeper Darius",
     "kind": "trainer",
     "location": "fortreecity",
@@ -2397,9 +2479,10 @@
     ]
   },
   {
-    "slug": "gym-leader-winona",
+    "slug": "winona-2",
+    "trainer": "winona",
     "label": "Gym Leader Winona",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "fortreecity",
     "locationName": "Fortree City",
     "team": [
@@ -2431,9 +2514,10 @@
     ]
   },
   {
-    "slug": "gym-leader-winona",
+    "slug": "winona-3",
+    "trainer": "winona",
     "label": "Gym Leader Winona",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "fortreecity",
     "locationName": "Fortree City",
     "team": [
@@ -2465,9 +2549,10 @@
     ]
   },
   {
-    "slug": "gym-leader-winona",
+    "slug": "winona-4",
+    "trainer": "winona",
     "label": "Gym Leader Winona",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "fortreecity",
     "locationName": "Fortree City",
     "team": [
@@ -2504,9 +2589,10 @@
     ]
   },
   {
-    "slug": "gym-leader-winona",
+    "slug": "winona-5",
+    "trainer": "winona",
     "label": "Gym Leader Winona",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "fortreecity",
     "locationName": "Fortree City",
     "team": [
@@ -2543,9 +2629,10 @@
     ]
   },
   {
-    "slug": "gym-leader-winona",
+    "slug": "winona-6",
+    "trainer": "winona",
     "label": "Gym Leader Winona",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "fortreecity",
     "locationName": "Fortree City",
     "team": [
@@ -2582,7 +2669,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-4",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "lilycovecity",
@@ -2612,7 +2700,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-5",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "lilycovecity",
@@ -2642,7 +2731,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-6",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "lilycovecity",
@@ -2672,7 +2762,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-4",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "lilycovecity",
@@ -2702,7 +2793,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-5",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "lilycovecity",
@@ -2732,7 +2824,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-6",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "lilycovecity",
@@ -2763,6 +2856,7 @@
   },
   {
     "slug": "lass-andrea",
+    "trainer": "lass-andrea",
     "label": "Lass Andrea",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2777,6 +2871,7 @@
   },
   {
     "slug": "beauty-connie",
+    "trainer": "beauty-connie",
     "label": "Beauty Connie",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2791,6 +2886,7 @@
   },
   {
     "slug": "lady-daphne",
+    "trainer": "lady-daphne",
     "label": "Lady Daphne",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2810,6 +2906,7 @@
   },
   {
     "slug": "pok-fan-annika",
+    "trainer": "pok-fan-annika",
     "label": "PokéFan Annika",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2829,6 +2926,7 @@
   },
   {
     "slug": "lass-crissy",
+    "trainer": "lass-crissy",
     "label": "Lass Crissy",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2848,6 +2946,7 @@
   },
   {
     "slug": "pok-fan-bethany",
+    "trainer": "pok-fan-bethany",
     "label": "PokéFan Bethany",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2872,6 +2971,7 @@
   },
   {
     "slug": "beauty-olivia",
+    "trainer": "beauty-olivia",
     "label": "Beauty Olivia",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2896,6 +2996,7 @@
   },
   {
     "slug": "beauty-tiffany",
+    "trainer": "beauty-tiffany",
     "label": "Beauty Tiffany",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2915,6 +3016,7 @@
   },
   {
     "slug": "lady-briana",
+    "trainer": "lady-briana",
     "label": "Lady Briana",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2929,6 +3031,7 @@
   },
   {
     "slug": "beauty-bridget",
+    "trainer": "beauty-bridget",
     "label": "Beauty Bridget",
     "kind": "trainer",
     "location": "sootopoliscity",
@@ -2942,9 +3045,10 @@
     ]
   },
   {
-    "slug": "gym-leader-juan",
+    "slug": "juan-2",
+    "trainer": "juan",
     "label": "Gym Leader Juan",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "sootopoliscity",
     "locationName": "Sootopolis City",
     "team": [
@@ -2976,9 +3080,10 @@
     ]
   },
   {
-    "slug": "gym-leader-juan",
+    "slug": "juan-3",
+    "trainer": "juan",
     "label": "Gym Leader Juan",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "sootopoliscity",
     "locationName": "Sootopolis City",
     "team": [
@@ -3010,9 +3115,10 @@
     ]
   },
   {
-    "slug": "gym-leader-juan",
+    "slug": "juan-4",
+    "trainer": "juan",
     "label": "Gym Leader Juan",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "sootopoliscity",
     "locationName": "Sootopolis City",
     "team": [
@@ -3044,9 +3150,10 @@
     ]
   },
   {
-    "slug": "gym-leader-juan",
+    "slug": "juan-5",
+    "trainer": "juan",
     "label": "Gym Leader Juan",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "sootopoliscity",
     "locationName": "Sootopolis City",
     "team": [
@@ -3083,9 +3190,10 @@
     ]
   },
   {
-    "slug": "gym-leader-juan",
+    "slug": "juan-6",
+    "trainer": "juan",
     "label": "Gym Leader Juan",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "sootopoliscity",
     "locationName": "Sootopolis City",
     "team": [
@@ -3123,6 +3231,7 @@
   },
   {
     "slug": "psychic-preston",
+    "trainer": "psychic-preston",
     "label": "Psychic Preston",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3137,6 +3246,7 @@
   },
   {
     "slug": "psychic-maura",
+    "trainer": "psychic-maura",
     "label": "Psychic Maura",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3151,6 +3261,7 @@
   },
   {
     "slug": "psychic-samantha",
+    "trainer": "psychic-samantha",
     "label": "Psychic Samantha",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3165,6 +3276,7 @@
   },
   {
     "slug": "psychic-blake",
+    "trainer": "psychic-blake",
     "label": "Psychic Blake",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3179,6 +3291,7 @@
   },
   {
     "slug": "gentleman-clifford",
+    "trainer": "gentleman-clifford",
     "label": "Gentleman Clifford",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3193,6 +3306,7 @@
   },
   {
     "slug": "hex-maniac-kathleen",
+    "trainer": "hex-maniac-kathleen",
     "label": "Hex Maniac Kathleen",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3207,6 +3321,7 @@
   },
   {
     "slug": "psychic-macey",
+    "trainer": "psychic-macey",
     "label": "Psychic Macey",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3221,6 +3336,7 @@
   },
   {
     "slug": "psychic-nicholas",
+    "trainer": "psychic-nicholas",
     "label": "Psychic Nicholas",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3235,6 +3351,7 @@
   },
   {
     "slug": "gentleman-nate",
+    "trainer": "gentleman-nate",
     "label": "Gentleman Nate",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3249,6 +3366,7 @@
   },
   {
     "slug": "psychic-virgil",
+    "trainer": "psychic-virgil",
     "label": "Psychic Virgil",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3263,6 +3381,7 @@
   },
   {
     "slug": "hex-maniac-sylvia",
+    "trainer": "hex-maniac-sylvia",
     "label": "Hex Maniac Sylvia",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3277,6 +3396,7 @@
   },
   {
     "slug": "psychic-hannah",
+    "trainer": "psychic-hannah",
     "label": "Psychic Hannah",
     "kind": "trainer",
     "location": "mossdeepcity",
@@ -3290,9 +3410,10 @@
     ]
   },
   {
-    "slug": "gym-leader-tate-and-liza",
+    "slug": "tate-and-liza-2",
+    "trainer": "tate-and-liza",
     "label": "Gym Leader Tate & Liza",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mossdeepcity",
     "locationName": "Mossdeep City",
     "team": [
@@ -3319,9 +3440,10 @@
     ]
   },
   {
-    "slug": "gym-leader-tate-and-liza",
+    "slug": "tate-and-liza-3",
+    "trainer": "tate-and-liza",
     "label": "Gym Leader Tate & Liza",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mossdeepcity",
     "locationName": "Mossdeep City",
     "team": [
@@ -3353,9 +3475,10 @@
     ]
   },
   {
-    "slug": "gym-leader-tate-and-liza",
+    "slug": "tate-and-liza-4",
+    "trainer": "tate-and-liza",
     "label": "Gym Leader Tate & Liza",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mossdeepcity",
     "locationName": "Mossdeep City",
     "team": [
@@ -3392,9 +3515,10 @@
     ]
   },
   {
-    "slug": "gym-leader-tate-and-liza",
+    "slug": "tate-and-liza-5",
+    "trainer": "tate-and-liza",
     "label": "Gym Leader Tate & Liza",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mossdeepcity",
     "locationName": "Mossdeep City",
     "team": [
@@ -3431,9 +3555,10 @@
     ]
   },
   {
-    "slug": "gym-leader-tate-and-liza",
+    "slug": "tate-and-liza-6",
+    "trainer": "tate-and-liza",
     "label": "Gym Leader Tate & Liza",
-    "kind": "trainer",
+    "kind": "gym-leader",
     "location": "mossdeepcity",
     "locationName": "Mossdeep City",
     "team": [
@@ -3471,6 +3596,7 @@
   },
   {
     "slug": "team-magma-grunt",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3489,7 +3615,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-2",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3503,7 +3630,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-3",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3517,7 +3645,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-4",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3541,7 +3670,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-5",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3555,7 +3685,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-6",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3570,6 +3701,7 @@
   },
   {
     "slug": "magma-admin-tabitha",
+    "trainer": "magma-admin-tabitha",
     "label": "Magma Admin Tabitha",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3594,6 +3726,7 @@
   },
   {
     "slug": "magma-leader-maxie",
+    "trainer": "magma-leader-maxie",
     "label": "Magma Leader Maxie",
     "kind": "villain",
     "location": "mossdeepcity",
@@ -3617,9 +3750,10 @@
     ]
   },
   {
-    "slug": "elite-four-sidney",
+    "slug": "sidney-2",
+    "trainer": "sidney",
     "label": "Elite Four Sidney",
-    "kind": "trainer",
+    "kind": "elite-four",
     "location": "evergrandecity",
     "locationName": "Evergrande City",
     "team": [
@@ -3651,9 +3785,10 @@
     ]
   },
   {
-    "slug": "elite-four-phoebe",
+    "slug": "phoebe-2",
+    "trainer": "phoebe",
     "label": "Elite Four Phoebe",
-    "kind": "trainer",
+    "kind": "elite-four",
     "location": "evergrandecity",
     "locationName": "Evergrande City",
     "team": [
@@ -3685,9 +3820,10 @@
     ]
   },
   {
-    "slug": "elite-four-glacia",
+    "slug": "glacia-2",
+    "trainer": "glacia",
     "label": "Elite Four Glacia",
-    "kind": "trainer",
+    "kind": "elite-four",
     "location": "evergrandecity",
     "locationName": "Evergrande City",
     "team": [
@@ -3719,9 +3855,10 @@
     ]
   },
   {
-    "slug": "elite-four-drake",
+    "slug": "drake-2",
+    "trainer": "drake",
     "label": "Elite Four Drake",
-    "kind": "trainer",
+    "kind": "elite-four",
     "location": "evergrandecity",
     "locationName": "Evergrande City",
     "team": [
@@ -3753,9 +3890,10 @@
     ]
   },
   {
-    "slug": "champion-wallace",
+    "slug": "wallace-2",
+    "trainer": "wallace",
     "label": "Champion Wallace",
-    "kind": "trainer",
+    "kind": "champion",
     "location": "evergrandecity",
     "locationName": "Evergrande City",
     "team": [
@@ -3793,6 +3931,7 @@
   },
   {
     "slug": "youngster-calvin",
+    "trainer": "youngster-calvin",
     "label": "Youngster Calvin",
     "kind": "trainer",
     "location": "route102",
@@ -3806,7 +3945,8 @@
     ]
   },
   {
-    "slug": "youngster-calvin",
+    "slug": "youngster-calvin-2",
+    "trainer": "youngster-calvin",
     "label": "Youngster Calvin",
     "kind": "trainer",
     "location": "route102",
@@ -3820,7 +3960,8 @@
     ]
   },
   {
-    "slug": "youngster-calvin",
+    "slug": "youngster-calvin-3",
+    "trainer": "youngster-calvin",
     "label": "Youngster Calvin",
     "kind": "trainer",
     "location": "route102",
@@ -3839,7 +3980,8 @@
     ]
   },
   {
-    "slug": "youngster-calvin",
+    "slug": "youngster-calvin-4",
+    "trainer": "youngster-calvin",
     "label": "Youngster Calvin",
     "kind": "trainer",
     "location": "route102",
@@ -3863,7 +4005,8 @@
     ]
   },
   {
-    "slug": "youngster-calvin",
+    "slug": "youngster-calvin-5",
+    "trainer": "youngster-calvin",
     "label": "Youngster Calvin",
     "kind": "trainer",
     "location": "route102",
@@ -3888,6 +4031,7 @@
   },
   {
     "slug": "bug-catcher-rick",
+    "trainer": "bug-catcher-rick",
     "label": "Bug Catcher Rick",
     "kind": "trainer",
     "location": "route102",
@@ -3907,6 +4051,7 @@
   },
   {
     "slug": "youngster-allen",
+    "trainer": "youngster-allen",
     "label": "Youngster Allen",
     "kind": "trainer",
     "location": "route102",
@@ -3926,6 +4071,7 @@
   },
   {
     "slug": "lass-tiana",
+    "trainer": "lass-tiana",
     "label": "Lass Tiana",
     "kind": "trainer",
     "location": "route102",
@@ -3944,7 +4090,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-7",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route103",
@@ -3959,7 +4106,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-8",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route103",
@@ -3974,7 +4122,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-9",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route103",
@@ -3989,7 +4138,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-7",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route103",
@@ -4004,7 +4154,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-8",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route103",
@@ -4019,7 +4170,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-9",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route103",
@@ -4035,6 +4187,7 @@
   },
   {
     "slug": "aroma-lady-daisy",
+    "trainer": "aroma-lady-daisy",
     "label": "Aroma Lady Daisy",
     "kind": "trainer",
     "location": "route103",
@@ -4054,6 +4207,7 @@
   },
   {
     "slug": "twins-amy-and-liv",
+    "trainer": "twins-amy-and-liv",
     "label": "Twins Amy & Liv",
     "kind": "trainer",
     "location": "route103",
@@ -4072,7 +4226,8 @@
     ]
   },
   {
-    "slug": "twins-amy-and-liv",
+    "slug": "twins-amy-and-liv-2",
+    "trainer": "twins-amy-and-liv",
     "label": "Twins Amy & Liv",
     "kind": "trainer",
     "location": "route103",
@@ -4091,7 +4246,8 @@
     ]
   },
   {
-    "slug": "twins-amy-and-liv",
+    "slug": "twins-amy-and-liv-3",
+    "trainer": "twins-amy-and-liv",
     "label": "Twins Amy & Liv",
     "kind": "trainer",
     "location": "route103",
@@ -4110,7 +4266,8 @@
     ]
   },
   {
-    "slug": "twins-amy-and-liv",
+    "slug": "twins-amy-and-liv-4",
+    "trainer": "twins-amy-and-liv",
     "label": "Twins Amy & Liv",
     "kind": "trainer",
     "location": "route103",
@@ -4129,7 +4286,8 @@
     ]
   },
   {
-    "slug": "twins-amy-and-liv",
+    "slug": "twins-amy-and-liv-5",
+    "trainer": "twins-amy-and-liv",
     "label": "Twins Amy & Liv",
     "kind": "trainer",
     "location": "route103",
@@ -4149,6 +4307,7 @@
   },
   {
     "slug": "pok-fan-miguel",
+    "trainer": "pok-fan-miguel",
     "label": "PokéFan Miguel",
     "kind": "trainer",
     "location": "route103",
@@ -4162,7 +4321,8 @@
     ]
   },
   {
-    "slug": "pok-fan-miguel",
+    "slug": "pok-fan-miguel-2",
+    "trainer": "pok-fan-miguel",
     "label": "PokéFan Miguel",
     "kind": "trainer",
     "location": "route103",
@@ -4176,7 +4336,8 @@
     ]
   },
   {
-    "slug": "pok-fan-miguel",
+    "slug": "pok-fan-miguel-3",
+    "trainer": "pok-fan-miguel",
     "label": "PokéFan Miguel",
     "kind": "trainer",
     "location": "route103",
@@ -4190,7 +4351,8 @@
     ]
   },
   {
-    "slug": "pok-fan-miguel",
+    "slug": "pok-fan-miguel-4",
+    "trainer": "pok-fan-miguel",
     "label": "PokéFan Miguel",
     "kind": "trainer",
     "location": "route103",
@@ -4204,7 +4366,8 @@
     ]
   },
   {
-    "slug": "pok-fan-miguel",
+    "slug": "pok-fan-miguel-5",
+    "trainer": "pok-fan-miguel",
     "label": "PokéFan Miguel",
     "kind": "trainer",
     "location": "route103",
@@ -4219,6 +4382,7 @@
   },
   {
     "slug": "fisherman-andrew",
+    "trainer": "fisherman-andrew",
     "label": "Fisherman Andrew",
     "kind": "trainer",
     "location": "route103",
@@ -4243,6 +4407,7 @@
   },
   {
     "slug": "guitarist-marcos",
+    "trainer": "guitarist-marcos",
     "label": "Guitarist Marcos",
     "kind": "trainer",
     "location": "route103",
@@ -4257,6 +4422,7 @@
   },
   {
     "slug": "black-belt-rhett",
+    "trainer": "black-belt-rhett",
     "label": "Black Belt Rhett",
     "kind": "trainer",
     "location": "route103",
@@ -4271,6 +4437,7 @@
   },
   {
     "slug": "swimmer-isabelle",
+    "trainer": "swimmer-isabelle",
     "label": "Swimmer Isabelle",
     "kind": "trainer",
     "location": "route103",
@@ -4285,6 +4452,7 @@
   },
   {
     "slug": "swimmer-pete",
+    "trainer": "swimmer-pete",
     "label": "Swimmer Pete",
     "kind": "trainer",
     "location": "route103",
@@ -4299,6 +4467,7 @@
   },
   {
     "slug": "youngster-billy",
+    "trainer": "youngster-billy",
     "label": "Youngster Billy",
     "kind": "trainer",
     "location": "route104",
@@ -4318,6 +4487,7 @@
   },
   {
     "slug": "fisherman-darian",
+    "trainer": "fisherman-darian",
     "label": "Fisherman Darian",
     "kind": "trainer",
     "location": "route104",
@@ -4332,6 +4502,7 @@
   },
   {
     "slug": "lady-cindy",
+    "trainer": "lady-cindy",
     "label": "Lady Cindy",
     "kind": "trainer",
     "location": "route104",
@@ -4345,7 +4516,8 @@
     ]
   },
   {
-    "slug": "lady-cindy",
+    "slug": "lady-cindy-2",
+    "trainer": "lady-cindy",
     "label": "Lady Cindy",
     "kind": "trainer",
     "location": "route104",
@@ -4359,7 +4531,8 @@
     ]
   },
   {
-    "slug": "lady-cindy",
+    "slug": "lady-cindy-3",
+    "trainer": "lady-cindy",
     "label": "Lady Cindy",
     "kind": "trainer",
     "location": "route104",
@@ -4373,7 +4546,8 @@
     ]
   },
   {
-    "slug": "lady-cindy",
+    "slug": "lady-cindy-4",
+    "trainer": "lady-cindy",
     "label": "Lady Cindy",
     "kind": "trainer",
     "location": "route104",
@@ -4387,7 +4561,8 @@
     ]
   },
   {
-    "slug": "lady-cindy",
+    "slug": "lady-cindy-5",
+    "trainer": "lady-cindy",
     "label": "Lady Cindy",
     "kind": "trainer",
     "location": "route104",
@@ -4402,6 +4577,7 @@
   },
   {
     "slug": "rich-boy-winston",
+    "trainer": "rich-boy-winston",
     "label": "Rich Boy Winston",
     "kind": "trainer",
     "location": "route104",
@@ -4415,7 +4591,8 @@
     ]
   },
   {
-    "slug": "rich-boy-winston",
+    "slug": "rich-boy-winston-2",
+    "trainer": "rich-boy-winston",
     "label": "Rich Boy Winston",
     "kind": "trainer",
     "location": "route104",
@@ -4429,7 +4606,8 @@
     ]
   },
   {
-    "slug": "rich-boy-winston",
+    "slug": "rich-boy-winston-3",
+    "trainer": "rich-boy-winston",
     "label": "Rich Boy Winston",
     "kind": "trainer",
     "location": "route104",
@@ -4443,7 +4621,8 @@
     ]
   },
   {
-    "slug": "rich-boy-winston",
+    "slug": "rich-boy-winston-4",
+    "trainer": "rich-boy-winston",
     "label": "Rich Boy Winston",
     "kind": "trainer",
     "location": "route104",
@@ -4457,7 +4636,8 @@
     ]
   },
   {
-    "slug": "rich-boy-winston",
+    "slug": "rich-boy-winston-5",
+    "trainer": "rich-boy-winston",
     "label": "Rich Boy Winston",
     "kind": "trainer",
     "location": "route104",
@@ -4472,6 +4652,7 @@
   },
   {
     "slug": "lass-haley",
+    "trainer": "lass-haley",
     "label": "Lass Haley",
     "kind": "trainer",
     "location": "route104",
@@ -4490,7 +4671,8 @@
     ]
   },
   {
-    "slug": "lass-haley",
+    "slug": "lass-haley-2",
+    "trainer": "lass-haley",
     "label": "Lass Haley",
     "kind": "trainer",
     "location": "route104",
@@ -4509,7 +4691,8 @@
     ]
   },
   {
-    "slug": "lass-haley",
+    "slug": "lass-haley-3",
+    "trainer": "lass-haley",
     "label": "Lass Haley",
     "kind": "trainer",
     "location": "route104",
@@ -4528,7 +4711,8 @@
     ]
   },
   {
-    "slug": "lass-haley",
+    "slug": "lass-haley-4",
+    "trainer": "lass-haley",
     "label": "Lass Haley",
     "kind": "trainer",
     "location": "route104",
@@ -4547,7 +4731,8 @@
     ]
   },
   {
-    "slug": "lass-haley",
+    "slug": "lass-haley-5",
+    "trainer": "lass-haley",
     "label": "Lass Haley",
     "kind": "trainer",
     "location": "route104",
@@ -4572,6 +4757,7 @@
   },
   {
     "slug": "twins-gia-and-mia",
+    "trainer": "twins-gia-and-mia",
     "label": "Twins Gia & Mia",
     "kind": "trainer",
     "location": "route104",
@@ -4591,6 +4777,7 @@
   },
   {
     "slug": "fisherman-ivan",
+    "trainer": "fisherman-ivan",
     "label": "Fisherman Ivan",
     "kind": "trainer",
     "location": "route104",
@@ -4615,6 +4802,7 @@
   },
   {
     "slug": "swimmer-imani",
+    "trainer": "swimmer-imani",
     "label": "Swimmer Imani",
     "kind": "trainer",
     "location": "route105",
@@ -4629,6 +4817,7 @@
   },
   {
     "slug": "swimmer-dominik",
+    "trainer": "swimmer-dominik",
     "label": "Swimmer Dominik",
     "kind": "trainer",
     "location": "route105",
@@ -4643,6 +4832,7 @@
   },
   {
     "slug": "swimmer-luis",
+    "trainer": "swimmer-luis",
     "label": "Swimmer Luis",
     "kind": "trainer",
     "location": "route105",
@@ -4657,6 +4847,7 @@
   },
   {
     "slug": "ruin-maniac-foster",
+    "trainer": "ruin-maniac-foster",
     "label": "Ruin Maniac Foster",
     "kind": "trainer",
     "location": "route105",
@@ -4676,6 +4867,7 @@
   },
   {
     "slug": "swimmer-beverly",
+    "trainer": "swimmer-beverly",
     "label": "Swimmer Beverly",
     "kind": "trainer",
     "location": "route105",
@@ -4695,6 +4887,7 @@
   },
   {
     "slug": "bird-keeper-josue",
+    "trainer": "bird-keeper-josue",
     "label": "Bird Keeper Josue",
     "kind": "trainer",
     "location": "route105",
@@ -4714,6 +4907,7 @@
   },
   {
     "slug": "ruin-maniac-andres",
+    "trainer": "ruin-maniac-andres",
     "label": "Ruin Maniac Andres",
     "kind": "trainer",
     "location": "route105",
@@ -4732,7 +4926,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-andres",
+    "slug": "ruin-maniac-andres-2",
+    "trainer": "ruin-maniac-andres",
     "label": "Ruin Maniac Andres",
     "kind": "trainer",
     "location": "route105",
@@ -4751,7 +4946,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-andres",
+    "slug": "ruin-maniac-andres-3",
+    "trainer": "ruin-maniac-andres",
     "label": "Ruin Maniac Andres",
     "kind": "trainer",
     "location": "route105",
@@ -4775,7 +4971,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-andres",
+    "slug": "ruin-maniac-andres-4",
+    "trainer": "ruin-maniac-andres",
     "label": "Ruin Maniac Andres",
     "kind": "trainer",
     "location": "route105",
@@ -4799,7 +4996,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-andres",
+    "slug": "ruin-maniac-andres-5",
+    "trainer": "ruin-maniac-andres",
     "label": "Ruin Maniac Andres",
     "kind": "trainer",
     "location": "route105",
@@ -4824,6 +5022,7 @@
   },
   {
     "slug": "fisherman-ned",
+    "trainer": "fisherman-ned",
     "label": "Fisherman Ned",
     "kind": "trainer",
     "location": "route106",
@@ -4838,6 +5037,7 @@
   },
   {
     "slug": "fisherman-elliot",
+    "trainer": "fisherman-elliot",
     "label": "Fisherman Elliot",
     "kind": "trainer",
     "location": "route106",
@@ -4861,7 +5061,8 @@
     ]
   },
   {
-    "slug": "fisherman-elliot",
+    "slug": "fisherman-elliot-2",
+    "trainer": "fisherman-elliot",
     "label": "Fisherman Elliot",
     "kind": "trainer",
     "location": "route106",
@@ -4885,7 +5086,8 @@
     ]
   },
   {
-    "slug": "fisherman-elliot",
+    "slug": "fisherman-elliot-3",
+    "trainer": "fisherman-elliot",
     "label": "Fisherman Elliot",
     "kind": "trainer",
     "location": "route106",
@@ -4914,7 +5116,8 @@
     ]
   },
   {
-    "slug": "fisherman-elliot",
+    "slug": "fisherman-elliot-4",
+    "trainer": "fisherman-elliot",
     "label": "Fisherman Elliot",
     "kind": "trainer",
     "location": "route106",
@@ -4943,7 +5146,8 @@
     ]
   },
   {
-    "slug": "fisherman-elliot",
+    "slug": "fisherman-elliot-5",
+    "trainer": "fisherman-elliot",
     "label": "Fisherman Elliot",
     "kind": "trainer",
     "location": "route106",
@@ -4973,6 +5177,7 @@
   },
   {
     "slug": "swimmer-kyla",
+    "trainer": "swimmer-kyla",
     "label": "Swimmer Kyla",
     "kind": "trainer",
     "location": "route106",
@@ -4987,6 +5192,7 @@
   },
   {
     "slug": "swimmer-douglas",
+    "trainer": "swimmer-douglas",
     "label": "Swimmer Douglas",
     "kind": "trainer",
     "location": "route106",
@@ -5006,6 +5212,7 @@
   },
   {
     "slug": "swimmer-beth",
+    "trainer": "swimmer-beth",
     "label": "Swimmer Beth",
     "kind": "trainer",
     "location": "route107",
@@ -5020,6 +5227,7 @@
   },
   {
     "slug": "triathlete-camron",
+    "trainer": "triathlete-camron",
     "label": "Triathlete Camron",
     "kind": "trainer",
     "location": "route107",
@@ -5034,6 +5242,7 @@
   },
   {
     "slug": "swimmer-darrin",
+    "trainer": "swimmer-darrin",
     "label": "Swimmer Darrin",
     "kind": "trainer",
     "location": "route107",
@@ -5058,6 +5267,7 @@
   },
   {
     "slug": "sis-and-bro-lisa-and-ray",
+    "trainer": "sis-and-bro-lisa-and-ray",
     "label": "Sis and Bro Lisa & Ray",
     "kind": "trainer",
     "location": "route107",
@@ -5077,6 +5287,7 @@
   },
   {
     "slug": "swimmer-tony",
+    "trainer": "swimmer-tony",
     "label": "Swimmer Tony",
     "kind": "trainer",
     "location": "route107",
@@ -5090,7 +5301,8 @@
     ]
   },
   {
-    "slug": "swimmer-tony",
+    "slug": "swimmer-tony-2",
+    "trainer": "swimmer-tony",
     "label": "Swimmer Tony",
     "kind": "trainer",
     "location": "route107",
@@ -5104,7 +5316,8 @@
     ]
   },
   {
-    "slug": "swimmer-tony",
+    "slug": "swimmer-tony-3",
+    "trainer": "swimmer-tony",
     "label": "Swimmer Tony",
     "kind": "trainer",
     "location": "route107",
@@ -5118,7 +5331,8 @@
     ]
   },
   {
-    "slug": "swimmer-tony",
+    "slug": "swimmer-tony-4",
+    "trainer": "swimmer-tony",
     "label": "Swimmer Tony",
     "kind": "trainer",
     "location": "route107",
@@ -5137,7 +5351,8 @@
     ]
   },
   {
-    "slug": "swimmer-tony",
+    "slug": "swimmer-tony-5",
+    "trainer": "swimmer-tony",
     "label": "Swimmer Tony",
     "kind": "trainer",
     "location": "route107",
@@ -5157,6 +5372,7 @@
   },
   {
     "slug": "swimmer-denise",
+    "trainer": "swimmer-denise",
     "label": "Swimmer Denise",
     "kind": "trainer",
     "location": "route107",
@@ -5176,6 +5392,7 @@
   },
   {
     "slug": "swimmer-missy",
+    "trainer": "swimmer-missy",
     "label": "Swimmer Missy",
     "kind": "trainer",
     "location": "route108",
@@ -5190,6 +5407,7 @@
   },
   {
     "slug": "swimmer-matthew",
+    "trainer": "swimmer-matthew",
     "label": "Swimmer Matthew",
     "kind": "trainer",
     "location": "route108",
@@ -5204,6 +5422,7 @@
   },
   {
     "slug": "swimmer-tara",
+    "trainer": "swimmer-tara",
     "label": "Swimmer Tara",
     "kind": "trainer",
     "location": "route108",
@@ -5223,6 +5442,7 @@
   },
   {
     "slug": "swimmer-jerome",
+    "trainer": "swimmer-jerome",
     "label": "Swimmer Jerome",
     "kind": "trainer",
     "location": "route108",
@@ -5237,6 +5457,7 @@
   },
   {
     "slug": "cool-trainer-carolina",
+    "trainer": "cool-trainer-carolina",
     "label": "Cool Trainer Carolina",
     "kind": "trainer",
     "location": "route108",
@@ -5261,6 +5482,7 @@
   },
   {
     "slug": "sailor-cory",
+    "trainer": "sailor-cory",
     "label": "Sailor Cory",
     "kind": "trainer",
     "location": "route108",
@@ -5284,7 +5506,8 @@
     ]
   },
   {
-    "slug": "sailor-cory",
+    "slug": "sailor-cory-2",
+    "trainer": "sailor-cory",
     "label": "Sailor Cory",
     "kind": "trainer",
     "location": "route108",
@@ -5308,7 +5531,8 @@
     ]
   },
   {
-    "slug": "sailor-cory",
+    "slug": "sailor-cory-3",
+    "trainer": "sailor-cory",
     "label": "Sailor Cory",
     "kind": "trainer",
     "location": "route108",
@@ -5332,7 +5556,8 @@
     ]
   },
   {
-    "slug": "sailor-cory",
+    "slug": "sailor-cory-4",
+    "trainer": "sailor-cory",
     "label": "Sailor Cory",
     "kind": "trainer",
     "location": "route108",
@@ -5356,7 +5581,8 @@
     ]
   },
   {
-    "slug": "sailor-cory",
+    "slug": "sailor-cory-5",
+    "trainer": "sailor-cory",
     "label": "Sailor Cory",
     "kind": "trainer",
     "location": "route108",
@@ -5381,6 +5607,7 @@
   },
   {
     "slug": "sailor-huey",
+    "trainer": "sailor-huey",
     "label": "Sailor Huey",
     "kind": "trainer",
     "location": "route109",
@@ -5400,6 +5627,7 @@
   },
   {
     "slug": "sailor-edmond",
+    "trainer": "sailor-edmond",
     "label": "Sailor Edmond",
     "kind": "trainer",
     "location": "route109",
@@ -5414,6 +5642,7 @@
   },
   {
     "slug": "tuber-ricky",
+    "trainer": "tuber-ricky",
     "label": "Tuber Ricky",
     "kind": "trainer",
     "location": "route109",
@@ -5427,7 +5656,8 @@
     ]
   },
   {
-    "slug": "tuber-ricky",
+    "slug": "tuber-ricky-2",
+    "trainer": "tuber-ricky",
     "label": "Tuber Ricky",
     "kind": "trainer",
     "location": "route109",
@@ -5441,7 +5671,8 @@
     ]
   },
   {
-    "slug": "tuber-ricky",
+    "slug": "tuber-ricky-3",
+    "trainer": "tuber-ricky",
     "label": "Tuber Ricky",
     "kind": "trainer",
     "location": "route109",
@@ -5455,7 +5686,8 @@
     ]
   },
   {
-    "slug": "tuber-ricky",
+    "slug": "tuber-ricky-4",
+    "trainer": "tuber-ricky",
     "label": "Tuber Ricky",
     "kind": "trainer",
     "location": "route109",
@@ -5469,7 +5701,8 @@
     ]
   },
   {
-    "slug": "tuber-ricky",
+    "slug": "tuber-ricky-5",
+    "trainer": "tuber-ricky",
     "label": "Tuber Ricky",
     "kind": "trainer",
     "location": "route109",
@@ -5484,6 +5717,7 @@
   },
   {
     "slug": "tuber-hailey",
+    "trainer": "tuber-hailey",
     "label": "Tuber Hailey",
     "kind": "trainer",
     "location": "route109",
@@ -5498,6 +5732,7 @@
   },
   {
     "slug": "tuber-lola",
+    "trainer": "tuber-lola",
     "label": "Tuber Lola",
     "kind": "trainer",
     "location": "route109",
@@ -5516,7 +5751,8 @@
     ]
   },
   {
-    "slug": "tuber-lola",
+    "slug": "tuber-lola-2",
+    "trainer": "tuber-lola",
     "label": "Tuber Lola",
     "kind": "trainer",
     "location": "route109",
@@ -5535,7 +5771,8 @@
     ]
   },
   {
-    "slug": "tuber-lola",
+    "slug": "tuber-lola-3",
+    "trainer": "tuber-lola",
     "label": "Tuber Lola",
     "kind": "trainer",
     "location": "route109",
@@ -5554,7 +5791,8 @@
     ]
   },
   {
-    "slug": "tuber-lola",
+    "slug": "tuber-lola-4",
+    "trainer": "tuber-lola",
     "label": "Tuber Lola",
     "kind": "trainer",
     "location": "route109",
@@ -5573,7 +5811,8 @@
     ]
   },
   {
-    "slug": "tuber-lola",
+    "slug": "tuber-lola-5",
+    "trainer": "tuber-lola",
     "label": "Tuber Lola",
     "kind": "trainer",
     "location": "route109",
@@ -5593,6 +5832,7 @@
   },
   {
     "slug": "tuber-simon",
+    "trainer": "tuber-simon",
     "label": "Tuber Simon",
     "kind": "trainer",
     "location": "route109",
@@ -5612,6 +5852,7 @@
   },
   {
     "slug": "tuber-chandler",
+    "trainer": "tuber-chandler",
     "label": "Tuber Chandler",
     "kind": "trainer",
     "location": "route109",
@@ -5631,6 +5872,7 @@
   },
   {
     "slug": "sailor-dwayne",
+    "trainer": "sailor-dwayne",
     "label": "Sailor Dwayne",
     "kind": "trainer",
     "location": "route109",
@@ -5655,6 +5897,7 @@
   },
   {
     "slug": "beauty-johanna",
+    "trainer": "beauty-johanna",
     "label": "Beauty Johanna",
     "kind": "trainer",
     "location": "route109",
@@ -5669,6 +5912,7 @@
   },
   {
     "slug": "bird-keeper-elijah",
+    "trainer": "bird-keeper-elijah",
     "label": "Bird Keeper Elijah",
     "kind": "trainer",
     "location": "route109",
@@ -5688,6 +5932,7 @@
   },
   {
     "slug": "fisherman-carter",
+    "trainer": "fisherman-carter",
     "label": "Fisherman Carter",
     "kind": "trainer",
     "location": "route109",
@@ -5707,6 +5952,7 @@
   },
   {
     "slug": "young-couple-mel-and-paul",
+    "trainer": "young-couple-mel-and-paul",
     "label": "Young Couple Mel & Paul",
     "kind": "trainer",
     "location": "route109",
@@ -5726,6 +5972,7 @@
   },
   {
     "slug": "swimmer-alice",
+    "trainer": "swimmer-alice",
     "label": "Swimmer Alice",
     "kind": "trainer",
     "location": "route109",
@@ -5750,6 +5997,7 @@
   },
   {
     "slug": "swimmer-david",
+    "trainer": "swimmer-david",
     "label": "Swimmer David",
     "kind": "trainer",
     "location": "route109",
@@ -5769,6 +6017,7 @@
   },
   {
     "slug": "tuber-austina",
+    "trainer": "tuber-austina",
     "label": "Tuber Austina",
     "kind": "trainer",
     "location": "route109",
@@ -5783,6 +6032,7 @@
   },
   {
     "slug": "tuber-gwen",
+    "trainer": "tuber-gwen",
     "label": "Tuber Gwen",
     "kind": "trainer",
     "location": "route109",
@@ -5797,6 +6047,7 @@
   },
   {
     "slug": "pok-fan-isabel",
+    "trainer": "pok-fan-isabel",
     "label": "PokéFan Isabel",
     "kind": "trainer",
     "location": "route110",
@@ -5815,7 +6066,8 @@
     ]
   },
   {
-    "slug": "pok-fan-isabel",
+    "slug": "pok-fan-isabel-2",
+    "trainer": "pok-fan-isabel",
     "label": "PokéFan Isabel",
     "kind": "trainer",
     "location": "route110",
@@ -5834,7 +6086,8 @@
     ]
   },
   {
-    "slug": "pok-fan-isabel",
+    "slug": "pok-fan-isabel-3",
+    "trainer": "pok-fan-isabel",
     "label": "PokéFan Isabel",
     "kind": "trainer",
     "location": "route110",
@@ -5853,7 +6106,8 @@
     ]
   },
   {
-    "slug": "pok-fan-isabel",
+    "slug": "pok-fan-isabel-4",
+    "trainer": "pok-fan-isabel",
     "label": "PokéFan Isabel",
     "kind": "trainer",
     "location": "route110",
@@ -5872,7 +6126,8 @@
     ]
   },
   {
-    "slug": "pok-fan-isabel",
+    "slug": "pok-fan-isabel-5",
+    "trainer": "pok-fan-isabel",
     "label": "PokéFan Isabel",
     "kind": "trainer",
     "location": "route110",
@@ -5892,6 +6147,7 @@
   },
   {
     "slug": "pok-fan-kaleb",
+    "trainer": "pok-fan-kaleb",
     "label": "PokéFan Kaleb",
     "kind": "trainer",
     "location": "route110",
@@ -5911,6 +6167,7 @@
   },
   {
     "slug": "youngster-timmy",
+    "trainer": "youngster-timmy",
     "label": "Youngster Timmy",
     "kind": "trainer",
     "location": "route110",
@@ -5929,7 +6186,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-10",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route110",
@@ -5954,7 +6212,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-11",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route110",
@@ -5979,7 +6238,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-12",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route110",
@@ -6004,7 +6264,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-10",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route110",
@@ -6029,7 +6290,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-11",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route110",
@@ -6054,7 +6316,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-12",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route110",
@@ -6080,6 +6343,7 @@
   },
   {
     "slug": "collector-edwin",
+    "trainer": "collector-edwin",
     "label": "Collector Edwin",
     "kind": "trainer",
     "location": "route110",
@@ -6098,7 +6362,8 @@
     ]
   },
   {
-    "slug": "collector-edwin",
+    "slug": "collector-edwin-2",
+    "trainer": "collector-edwin",
     "label": "Collector Edwin",
     "kind": "trainer",
     "location": "route110",
@@ -6117,7 +6382,8 @@
     ]
   },
   {
-    "slug": "collector-edwin",
+    "slug": "collector-edwin-3",
+    "trainer": "collector-edwin",
     "label": "Collector Edwin",
     "kind": "trainer",
     "location": "route110",
@@ -6136,7 +6402,8 @@
     ]
   },
   {
-    "slug": "collector-edwin",
+    "slug": "collector-edwin-4",
+    "trainer": "collector-edwin",
     "label": "Collector Edwin",
     "kind": "trainer",
     "location": "route110",
@@ -6155,7 +6422,8 @@
     ]
   },
   {
-    "slug": "collector-edwin",
+    "slug": "collector-edwin-5",
+    "trainer": "collector-edwin",
     "label": "Collector Edwin",
     "kind": "trainer",
     "location": "route110",
@@ -6175,6 +6443,7 @@
   },
   {
     "slug": "guitarist-joseph",
+    "trainer": "guitarist-joseph",
     "label": "Guitarist Joseph",
     "kind": "trainer",
     "location": "route110",
@@ -6194,6 +6463,7 @@
   },
   {
     "slug": "psychic-edward",
+    "trainer": "psychic-edward",
     "label": "Psychic Edward",
     "kind": "trainer",
     "location": "route110",
@@ -6208,6 +6478,7 @@
   },
   {
     "slug": "triathlete-alyssa",
+    "trainer": "triathlete-alyssa",
     "label": "Triathlete Alyssa",
     "kind": "trainer",
     "location": "route110",
@@ -6222,6 +6493,7 @@
   },
   {
     "slug": "fisherman-dale",
+    "trainer": "fisherman-dale",
     "label": "Fisherman Dale",
     "kind": "trainer",
     "location": "route110",
@@ -6251,6 +6523,7 @@
   },
   {
     "slug": "triathlete-abigail",
+    "trainer": "triathlete-abigail",
     "label": "Triathlete Abigail",
     "kind": "trainer",
     "location": "route110",
@@ -6264,7 +6537,8 @@
     ]
   },
   {
-    "slug": "triathlete-abigail",
+    "slug": "triathlete-abigail-2",
+    "trainer": "triathlete-abigail",
     "label": "Triathlete Abigail",
     "kind": "trainer",
     "location": "route110",
@@ -6278,7 +6552,8 @@
     ]
   },
   {
-    "slug": "triathlete-abigail",
+    "slug": "triathlete-abigail-3",
+    "trainer": "triathlete-abigail",
     "label": "Triathlete Abigail",
     "kind": "trainer",
     "location": "route110",
@@ -6292,7 +6567,8 @@
     ]
   },
   {
-    "slug": "triathlete-abigail",
+    "slug": "triathlete-abigail-4",
+    "trainer": "triathlete-abigail",
     "label": "Triathlete Abigail",
     "kind": "trainer",
     "location": "route110",
@@ -6306,7 +6582,8 @@
     ]
   },
   {
-    "slug": "triathlete-abigail",
+    "slug": "triathlete-abigail-5",
+    "trainer": "triathlete-abigail",
     "label": "Triathlete Abigail",
     "kind": "trainer",
     "location": "route110",
@@ -6321,6 +6598,7 @@
   },
   {
     "slug": "triathlete-anthony",
+    "trainer": "triathlete-anthony",
     "label": "Triathlete Anthony",
     "kind": "trainer",
     "location": "route110",
@@ -6340,6 +6618,7 @@
   },
   {
     "slug": "triathlete-benjamin",
+    "trainer": "triathlete-benjamin",
     "label": "Triathlete Benjamin",
     "kind": "trainer",
     "location": "route110",
@@ -6353,7 +6632,8 @@
     ]
   },
   {
-    "slug": "triathlete-benjamin",
+    "slug": "triathlete-benjamin-2",
+    "trainer": "triathlete-benjamin",
     "label": "Triathlete Benjamin",
     "kind": "trainer",
     "location": "route110",
@@ -6367,7 +6647,8 @@
     ]
   },
   {
-    "slug": "triathlete-benjamin",
+    "slug": "triathlete-benjamin-3",
+    "trainer": "triathlete-benjamin",
     "label": "Triathlete Benjamin",
     "kind": "trainer",
     "location": "route110",
@@ -6381,7 +6662,8 @@
     ]
   },
   {
-    "slug": "triathlete-benjamin",
+    "slug": "triathlete-benjamin-4",
+    "trainer": "triathlete-benjamin",
     "label": "Triathlete Benjamin",
     "kind": "trainer",
     "location": "route110",
@@ -6395,7 +6677,8 @@
     ]
   },
   {
-    "slug": "triathlete-benjamin",
+    "slug": "triathlete-benjamin-5",
+    "trainer": "triathlete-benjamin",
     "label": "Triathlete Benjamin",
     "kind": "trainer",
     "location": "route110",
@@ -6410,6 +6693,7 @@
   },
   {
     "slug": "triathlete-jasmine",
+    "trainer": "triathlete-jasmine",
     "label": "Triathlete Jasmine",
     "kind": "trainer",
     "location": "route110",
@@ -6434,6 +6718,7 @@
   },
   {
     "slug": "triathlete-jacob",
+    "trainer": "triathlete-jacob",
     "label": "Triathlete Jacob",
     "kind": "trainer",
     "location": "route110",
@@ -6458,6 +6743,7 @@
   },
   {
     "slug": "lass-sally",
+    "trainer": "lass-sally",
     "label": "Lass Sally",
     "kind": "trainer",
     "location": "route110",
@@ -6472,6 +6758,7 @@
   },
   {
     "slug": "lass-robin",
+    "trainer": "lass-robin",
     "label": "Lass Robin",
     "kind": "trainer",
     "location": "route110",
@@ -6496,6 +6783,7 @@
   },
   {
     "slug": "youngster-eddie",
+    "trainer": "youngster-eddie",
     "label": "Youngster Eddie",
     "kind": "trainer",
     "location": "route110",
@@ -6515,6 +6803,7 @@
   },
   {
     "slug": "school-kid-paul",
+    "trainer": "school-kid-paul",
     "label": "School Kid Paul",
     "kind": "trainer",
     "location": "route110",
@@ -6539,6 +6828,7 @@
   },
   {
     "slug": "school-kid-ted",
+    "trainer": "school-kid-ted",
     "label": "School Kid Ted",
     "kind": "trainer",
     "location": "route110",
@@ -6553,6 +6843,7 @@
   },
   {
     "slug": "school-kid-georgia",
+    "trainer": "school-kid-georgia",
     "label": "School Kid Georgia",
     "kind": "trainer",
     "location": "route110",
@@ -6572,6 +6863,7 @@
   },
   {
     "slug": "camper-justin",
+    "trainer": "camper-justin",
     "label": "Camper Justin",
     "kind": "trainer",
     "location": "route110",
@@ -6586,6 +6878,7 @@
   },
   {
     "slug": "hiker-alan",
+    "trainer": "hiker-alan",
     "label": "Hiker Alan",
     "kind": "trainer",
     "location": "route110",
@@ -6610,6 +6903,7 @@
   },
   {
     "slug": "picknicker-martha",
+    "trainer": "picknicker-martha",
     "label": "Picknicker Martha",
     "kind": "trainer",
     "location": "route110",
@@ -6629,6 +6923,7 @@
   },
   {
     "slug": "battle-girl-cora",
+    "trainer": "battle-girl-cora",
     "label": "Battle Girl Cora",
     "kind": "trainer",
     "location": "route110",
@@ -6643,6 +6938,7 @@
   },
   {
     "slug": "black-belt-yuji",
+    "trainer": "black-belt-yuji",
     "label": "Black Belt Yuji",
     "kind": "trainer",
     "location": "route110",
@@ -6662,6 +6958,7 @@
   },
   {
     "slug": "battle-girl-paula",
+    "trainer": "battle-girl-paula",
     "label": "Battle Girl Paula",
     "kind": "trainer",
     "location": "route110",
@@ -6676,6 +6973,7 @@
   },
   {
     "slug": "pok-mon-ranger-sophia",
+    "trainer": "pok-mon-ranger-sophia",
     "label": "Pokémon Ranger Sophia",
     "kind": "trainer",
     "location": "route110",
@@ -6695,6 +6993,7 @@
   },
   {
     "slug": "pok-mon-ranger-sebastian",
+    "trainer": "pok-mon-ranger-sebastian",
     "label": "Pokémon Ranger Sebastian",
     "kind": "trainer",
     "location": "route110",
@@ -6709,6 +7008,7 @@
   },
   {
     "slug": "bird-keeper-benny",
+    "trainer": "bird-keeper-benny",
     "label": "Bird Keeper Benny",
     "kind": "trainer",
     "location": "route110",
@@ -6733,6 +7033,7 @@
   },
   {
     "slug": "psychic-joshua",
+    "trainer": "psychic-joshua",
     "label": "Psychic Joshua",
     "kind": "trainer",
     "location": "route110",
@@ -6752,6 +7053,7 @@
   },
   {
     "slug": "hex-maniac-patricia",
+    "trainer": "hex-maniac-patricia",
     "label": "Hex Maniac Patricia",
     "kind": "trainer",
     "location": "route110",
@@ -6771,6 +7073,7 @@
   },
   {
     "slug": "psychic-alexis",
+    "trainer": "psychic-alexis",
     "label": "Psychic Alexis",
     "kind": "trainer",
     "location": "route110",
@@ -6790,6 +7093,7 @@
   },
   {
     "slug": "psychic-alvaro",
+    "trainer": "psychic-alvaro",
     "label": "Psychic Alvaro",
     "kind": "trainer",
     "location": "route110",
@@ -6809,6 +7113,7 @@
   },
   {
     "slug": "psychic-mariella",
+    "trainer": "psychic-mariella",
     "label": "Psychic Mariella",
     "kind": "trainer",
     "location": "route110",
@@ -6823,6 +7128,7 @@
   },
   {
     "slug": "gentleman-everett",
+    "trainer": "gentleman-everett",
     "label": "Gentleman Everett",
     "kind": "trainer",
     "location": "route110",
@@ -6837,6 +7143,7 @@
   },
   {
     "slug": "cool-trainer-keira",
+    "trainer": "cool-trainer-keira",
     "label": "Cool Trainer Keira",
     "kind": "trainer",
     "location": "route110",
@@ -6856,6 +7163,7 @@
   },
   {
     "slug": "cool-trainer-vincent",
+    "trainer": "cool-trainer-vincent",
     "label": "Cool Trainer Vincent",
     "kind": "trainer",
     "location": "route110",
@@ -6880,6 +7188,7 @@
   },
   {
     "slug": "cool-trainer-leroy",
+    "trainer": "cool-trainer-leroy",
     "label": "Cool Trainer Leroy",
     "kind": "trainer",
     "location": "route110",
@@ -6899,6 +7208,7 @@
   },
   {
     "slug": "camper-tyron",
+    "trainer": "camper-tyron",
     "label": "Camper Tyron",
     "kind": "trainer",
     "location": "route111",
@@ -6913,6 +7223,7 @@
   },
   {
     "slug": "aroma-lady-celina",
+    "trainer": "aroma-lady-celina",
     "label": "Aroma Lady Celina",
     "kind": "trainer",
     "location": "route111",
@@ -6927,6 +7238,7 @@
   },
   {
     "slug": "picknicker-bianca",
+    "trainer": "picknicker-bianca",
     "label": "Picknicker Bianca",
     "kind": "trainer",
     "location": "route111",
@@ -6941,6 +7253,7 @@
   },
   {
     "slug": "kindler-hayden",
+    "trainer": "kindler-hayden",
     "label": "Kindler Hayden",
     "kind": "trainer",
     "location": "route111",
@@ -6955,6 +7268,7 @@
   },
   {
     "slug": "interviewers-gabby-and-ty",
+    "trainer": "interviewers-gabby-and-ty",
     "label": "Interviewers Gabby & Ty",
     "kind": "trainer",
     "location": "route111",
@@ -6974,6 +7288,7 @@
   },
   {
     "slug": "picknicker-irene",
+    "trainer": "picknicker-irene",
     "label": "Picknicker Irene",
     "kind": "trainer",
     "location": "route111",
@@ -6993,6 +7308,7 @@
   },
   {
     "slug": "camper-travis",
+    "trainer": "camper-travis",
     "label": "Camper Travis",
     "kind": "trainer",
     "location": "route111",
@@ -7007,6 +7323,7 @@
   },
   {
     "slug": "cool-trainer-wilton",
+    "trainer": "cool-trainer-wilton",
     "label": "Cool Trainer Wilton",
     "kind": "trainer",
     "location": "route111",
@@ -7030,7 +7347,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-wilton",
+    "slug": "cool-trainer-wilton-2",
+    "trainer": "cool-trainer-wilton",
     "label": "Cool Trainer Wilton",
     "kind": "trainer",
     "location": "route111",
@@ -7054,7 +7372,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-wilton",
+    "slug": "cool-trainer-wilton-3",
+    "trainer": "cool-trainer-wilton",
     "label": "Cool Trainer Wilton",
     "kind": "trainer",
     "location": "route111",
@@ -7078,7 +7397,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-wilton",
+    "slug": "cool-trainer-wilton-4",
+    "trainer": "cool-trainer-wilton",
     "label": "Cool Trainer Wilton",
     "kind": "trainer",
     "location": "route111",
@@ -7102,7 +7422,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-wilton",
+    "slug": "cool-trainer-wilton-5",
+    "trainer": "cool-trainer-wilton",
     "label": "Cool Trainer Wilton",
     "kind": "trainer",
     "location": "route111",
@@ -7127,6 +7448,7 @@
   },
   {
     "slug": "black-belt-daisuke",
+    "trainer": "black-belt-daisuke",
     "label": "Black Belt Daisuke",
     "kind": "trainer",
     "location": "route111",
@@ -7141,6 +7463,7 @@
   },
   {
     "slug": "cool-trainer-brooke",
+    "trainer": "cool-trainer-brooke",
     "label": "Cool Trainer Brooke",
     "kind": "trainer",
     "location": "route111",
@@ -7164,7 +7487,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-brooke",
+    "slug": "cool-trainer-brooke-2",
+    "trainer": "cool-trainer-brooke",
     "label": "Cool Trainer Brooke",
     "kind": "trainer",
     "location": "route111",
@@ -7188,7 +7512,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-brooke",
+    "slug": "cool-trainer-brooke-3",
+    "trainer": "cool-trainer-brooke",
     "label": "Cool Trainer Brooke",
     "kind": "trainer",
     "location": "route111",
@@ -7212,7 +7537,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-brooke",
+    "slug": "cool-trainer-brooke-4",
+    "trainer": "cool-trainer-brooke",
     "label": "Cool Trainer Brooke",
     "kind": "trainer",
     "location": "route111",
@@ -7236,7 +7562,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-brooke",
+    "slug": "cool-trainer-brooke-5",
+    "trainer": "cool-trainer-brooke",
     "label": "Cool Trainer Brooke",
     "kind": "trainer",
     "location": "route111",
@@ -7260,7 +7587,8 @@
     ]
   },
   {
-    "slug": "interviewers-gabby-and-ty",
+    "slug": "interviewers-gabby-and-ty-2",
+    "trainer": "interviewers-gabby-and-ty",
     "label": "Interviewers Gabby & Ty",
     "kind": "trainer",
     "location": "route111",
@@ -7279,7 +7607,8 @@
     ]
   },
   {
-    "slug": "interviewers-gabby-and-ty",
+    "slug": "interviewers-gabby-and-ty-3",
+    "trainer": "interviewers-gabby-and-ty",
     "label": "Interviewers Gabby & Ty",
     "kind": "trainer",
     "location": "route111",
@@ -7298,7 +7627,8 @@
     ]
   },
   {
-    "slug": "interviewers-gabby-and-ty",
+    "slug": "interviewers-gabby-and-ty-4",
+    "trainer": "interviewers-gabby-and-ty",
     "label": "Interviewers Gabby & Ty",
     "kind": "trainer",
     "location": "route111",
@@ -7318,6 +7648,7 @@
   },
   {
     "slug": "picknicker-heidi",
+    "trainer": "picknicker-heidi",
     "label": "Picknicker Heidi",
     "kind": "trainer",
     "location": "route111",
@@ -7337,6 +7668,7 @@
   },
   {
     "slug": "camper-beau",
+    "trainer": "camper-beau",
     "label": "Camper Beau",
     "kind": "trainer",
     "location": "route111",
@@ -7361,6 +7693,7 @@
   },
   {
     "slug": "camper-drew",
+    "trainer": "camper-drew",
     "label": "Camper Drew",
     "kind": "trainer",
     "location": "route111",
@@ -7375,6 +7708,7 @@
   },
   {
     "slug": "picknicker-becky",
+    "trainer": "picknicker-becky",
     "label": "Picknicker Becky",
     "kind": "trainer",
     "location": "route111",
@@ -7394,6 +7728,7 @@
   },
   {
     "slug": "ruin-maniac-dusty",
+    "trainer": "ruin-maniac-dusty",
     "label": "Ruin Maniac Dusty",
     "kind": "trainer",
     "location": "route111",
@@ -7407,7 +7742,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-dusty",
+    "slug": "ruin-maniac-dusty-2",
+    "trainer": "ruin-maniac-dusty",
     "label": "Ruin Maniac Dusty",
     "kind": "trainer",
     "location": "route111",
@@ -7421,7 +7757,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-dusty",
+    "slug": "ruin-maniac-dusty-3",
+    "trainer": "ruin-maniac-dusty",
     "label": "Ruin Maniac Dusty",
     "kind": "trainer",
     "location": "route111",
@@ -7435,7 +7772,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-dusty",
+    "slug": "ruin-maniac-dusty-4",
+    "trainer": "ruin-maniac-dusty",
     "label": "Ruin Maniac Dusty",
     "kind": "trainer",
     "location": "route111",
@@ -7449,7 +7787,8 @@
     ]
   },
   {
-    "slug": "ruin-maniac-dusty",
+    "slug": "ruin-maniac-dusty-5",
+    "trainer": "ruin-maniac-dusty",
     "label": "Ruin Maniac Dusty",
     "kind": "trainer",
     "location": "route111",
@@ -7464,6 +7803,7 @@
   },
   {
     "slug": "picknicker-celia",
+    "trainer": "picknicker-celia",
     "label": "Picknicker Celia",
     "kind": "trainer",
     "location": "route111",
@@ -7483,6 +7823,7 @@
   },
   {
     "slug": "ruin-maniac-bryan",
+    "trainer": "ruin-maniac-bryan",
     "label": "Ruin Maniac Bryan",
     "kind": "trainer",
     "location": "route111",
@@ -7502,6 +7843,7 @@
   },
   {
     "slug": "camper-branden",
+    "trainer": "camper-branden",
     "label": "Camper Branden",
     "kind": "trainer",
     "location": "route111",
@@ -7521,6 +7863,7 @@
   },
   {
     "slug": "pok-fan-victor",
+    "trainer": "pok-fan-victor",
     "label": "PokéFan Victor",
     "kind": "trainer",
     "location": "route111",
@@ -7540,6 +7883,7 @@
   },
   {
     "slug": "pok-fan-victoria",
+    "trainer": "pok-fan-victoria",
     "label": "PokéFan Victoria",
     "kind": "trainer",
     "location": "route111",
@@ -7554,6 +7898,7 @@
   },
   {
     "slug": "lass-vivi",
+    "trainer": "lass-vivi",
     "label": "Lass Vivi",
     "kind": "trainer",
     "location": "route111",
@@ -7578,6 +7923,7 @@
   },
   {
     "slug": "expert-vicky",
+    "trainer": "expert-vicky",
     "label": "Expert Vicky",
     "kind": "trainer",
     "location": "route111",
@@ -7592,6 +7938,7 @@
   },
   {
     "slug": "camper-larry",
+    "trainer": "camper-larry",
     "label": "Camper Larry",
     "kind": "trainer",
     "location": "route112",
@@ -7606,6 +7953,7 @@
   },
   {
     "slug": "picknicker-carol",
+    "trainer": "picknicker-carol",
     "label": "Picknicker Carol",
     "kind": "trainer",
     "location": "route112",
@@ -7625,6 +7973,7 @@
   },
   {
     "slug": "hiker-trent",
+    "trainer": "hiker-trent",
     "label": "Hiker Trent",
     "kind": "trainer",
     "location": "route112",
@@ -7648,7 +7997,8 @@
     ]
   },
   {
-    "slug": "hiker-trent",
+    "slug": "hiker-trent-2",
+    "trainer": "hiker-trent",
     "label": "Hiker Trent",
     "kind": "trainer",
     "location": "route112",
@@ -7677,7 +8027,8 @@
     ]
   },
   {
-    "slug": "hiker-trent",
+    "slug": "hiker-trent-3",
+    "trainer": "hiker-trent",
     "label": "Hiker Trent",
     "kind": "trainer",
     "location": "route112",
@@ -7706,7 +8057,8 @@
     ]
   },
   {
-    "slug": "hiker-trent",
+    "slug": "hiker-trent-4",
+    "trainer": "hiker-trent",
     "label": "Hiker Trent",
     "kind": "trainer",
     "location": "route112",
@@ -7735,7 +8087,8 @@
     ]
   },
   {
-    "slug": "hiker-trent",
+    "slug": "hiker-trent-5",
+    "trainer": "hiker-trent",
     "label": "Hiker Trent",
     "kind": "trainer",
     "location": "route112",
@@ -7765,6 +8118,7 @@
   },
   {
     "slug": "hiker-brice",
+    "trainer": "hiker-brice",
     "label": "Hiker Brice",
     "kind": "trainer",
     "location": "route112",
@@ -7784,6 +8138,7 @@
   },
   {
     "slug": "kindler-bryant",
+    "trainer": "kindler-bryant",
     "label": "Kindler Bryant",
     "kind": "trainer",
     "location": "route112",
@@ -7803,6 +8158,7 @@
   },
   {
     "slug": "aroma-lady-shayla",
+    "trainer": "aroma-lady-shayla",
     "label": "Aroma Lady Shayla",
     "kind": "trainer",
     "location": "route112",
@@ -7822,6 +8178,7 @@
   },
   {
     "slug": "youngster-jaylen",
+    "trainer": "youngster-jaylen",
     "label": "Youngster Jaylen",
     "kind": "trainer",
     "location": "route113",
@@ -7836,6 +8193,7 @@
   },
   {
     "slug": "ninja-boy-lung",
+    "trainer": "ninja-boy-lung",
     "label": "Ninja Boy Lung",
     "kind": "trainer",
     "location": "route113",
@@ -7855,6 +8213,7 @@
   },
   {
     "slug": "pok-maniac-wyatt",
+    "trainer": "pok-maniac-wyatt",
     "label": "PokéManiac Wyatt",
     "kind": "trainer",
     "location": "route113",
@@ -7874,6 +8233,7 @@
   },
   {
     "slug": "camper-lawrence",
+    "trainer": "camper-lawrence",
     "label": "Camper Lawrence",
     "kind": "trainer",
     "location": "route113",
@@ -7893,6 +8253,7 @@
   },
   {
     "slug": "parasol-lady-madeline",
+    "trainer": "parasol-lady-madeline",
     "label": "Parasol Lady Madeline",
     "kind": "trainer",
     "location": "route113",
@@ -7906,7 +8267,8 @@
     ]
   },
   {
-    "slug": "parasol-lady-madeline",
+    "slug": "parasol-lady-madeline-2",
+    "trainer": "parasol-lady-madeline",
     "label": "Parasol Lady Madeline",
     "kind": "trainer",
     "location": "route113",
@@ -7920,7 +8282,8 @@
     ]
   },
   {
-    "slug": "parasol-lady-madeline",
+    "slug": "parasol-lady-madeline-3",
+    "trainer": "parasol-lady-madeline",
     "label": "Parasol Lady Madeline",
     "kind": "trainer",
     "location": "route113",
@@ -7934,7 +8297,8 @@
     ]
   },
   {
-    "slug": "parasol-lady-madeline",
+    "slug": "parasol-lady-madeline-4",
+    "trainer": "parasol-lady-madeline",
     "label": "Parasol Lady Madeline",
     "kind": "trainer",
     "location": "route113",
@@ -7953,7 +8317,8 @@
     ]
   },
   {
-    "slug": "parasol-lady-madeline",
+    "slug": "parasol-lady-madeline-5",
+    "trainer": "parasol-lady-madeline",
     "label": "Parasol Lady Madeline",
     "kind": "trainer",
     "location": "route113",
@@ -7973,6 +8338,7 @@
   },
   {
     "slug": "twins-tori-and-tia",
+    "trainer": "twins-tori-and-tia",
     "label": "Twins Tori & Tia",
     "kind": "trainer",
     "location": "route113",
@@ -7992,6 +8358,7 @@
   },
   {
     "slug": "ninja-boy-lao",
+    "trainer": "ninja-boy-lao",
     "label": "Ninja Boy Lao",
     "kind": "trainer",
     "location": "route113",
@@ -8015,7 +8382,8 @@
     ]
   },
   {
-    "slug": "ninja-boy-lao",
+    "slug": "ninja-boy-lao-2",
+    "trainer": "ninja-boy-lao",
     "label": "Ninja Boy Lao",
     "kind": "trainer",
     "location": "route113",
@@ -8044,7 +8412,8 @@
     ]
   },
   {
-    "slug": "ninja-boy-lao",
+    "slug": "ninja-boy-lao-3",
+    "trainer": "ninja-boy-lao",
     "label": "Ninja Boy Lao",
     "kind": "trainer",
     "location": "route113",
@@ -8073,7 +8442,8 @@
     ]
   },
   {
-    "slug": "ninja-boy-lao",
+    "slug": "ninja-boy-lao-4",
+    "trainer": "ninja-boy-lao",
     "label": "Ninja Boy Lao",
     "kind": "trainer",
     "location": "route113",
@@ -8102,7 +8472,8 @@
     ]
   },
   {
-    "slug": "ninja-boy-lao",
+    "slug": "ninja-boy-lao-5",
+    "trainer": "ninja-boy-lao",
     "label": "Ninja Boy Lao",
     "kind": "trainer",
     "location": "route113",
@@ -8132,6 +8503,7 @@
   },
   {
     "slug": "youngster-dillon",
+    "trainer": "youngster-dillon",
     "label": "Youngster Dillon",
     "kind": "trainer",
     "location": "route113",
@@ -8146,6 +8518,7 @@
   },
   {
     "slug": "picknicker-sophie",
+    "trainer": "picknicker-sophie",
     "label": "Picknicker Sophie",
     "kind": "trainer",
     "location": "route113",
@@ -8165,6 +8538,7 @@
   },
   {
     "slug": "bird-keeper-coby",
+    "trainer": "bird-keeper-coby",
     "label": "Bird Keeper Coby",
     "kind": "trainer",
     "location": "route113",
@@ -8184,6 +8558,7 @@
   },
   {
     "slug": "fisherman-kai",
+    "trainer": "fisherman-kai",
     "label": "Fisherman Kai",
     "kind": "trainer",
     "location": "route114",
@@ -8198,6 +8573,7 @@
   },
   {
     "slug": "fisherman-nolan",
+    "trainer": "fisherman-nolan",
     "label": "Fisherman Nolan",
     "kind": "trainer",
     "location": "route114",
@@ -8212,6 +8588,7 @@
   },
   {
     "slug": "picknicker-charlotte",
+    "trainer": "picknicker-charlotte",
     "label": "Picknicker Charlotte",
     "kind": "trainer",
     "location": "route114",
@@ -8226,6 +8603,7 @@
   },
   {
     "slug": "fisherman-claude",
+    "trainer": "fisherman-claude",
     "label": "Fisherman Claude",
     "kind": "trainer",
     "location": "route114",
@@ -8250,6 +8628,7 @@
   },
   {
     "slug": "picknicker-nancy",
+    "trainer": "picknicker-nancy",
     "label": "Picknicker Nancy",
     "kind": "trainer",
     "location": "route114",
@@ -8269,6 +8648,7 @@
   },
   {
     "slug": "sr-and-jr-tyra-and-ivy",
+    "trainer": "sr-and-jr-tyra-and-ivy",
     "label": "Sr. And Jr. Tyra & Ivy",
     "kind": "trainer",
     "location": "route114",
@@ -8288,6 +8668,7 @@
   },
   {
     "slug": "camper-shane",
+    "trainer": "camper-shane",
     "label": "Camper Shane",
     "kind": "trainer",
     "location": "route114",
@@ -8307,6 +8688,7 @@
   },
   {
     "slug": "pok-maniac-steve",
+    "trainer": "pok-maniac-steve",
     "label": "PokéManiac Steve",
     "kind": "trainer",
     "location": "route114",
@@ -8320,7 +8702,8 @@
     ]
   },
   {
-    "slug": "pok-maniac-steve",
+    "slug": "pok-maniac-steve-2",
+    "trainer": "pok-maniac-steve",
     "label": "PokéManiac Steve",
     "kind": "trainer",
     "location": "route114",
@@ -8334,7 +8717,8 @@
     ]
   },
   {
-    "slug": "pok-maniac-steve",
+    "slug": "pok-maniac-steve-3",
+    "trainer": "pok-maniac-steve",
     "label": "PokéManiac Steve",
     "kind": "trainer",
     "location": "route114",
@@ -8353,7 +8737,8 @@
     ]
   },
   {
-    "slug": "pok-maniac-steve",
+    "slug": "pok-maniac-steve-4",
+    "trainer": "pok-maniac-steve",
     "label": "PokéManiac Steve",
     "kind": "trainer",
     "location": "route114",
@@ -8372,7 +8757,8 @@
     ]
   },
   {
-    "slug": "pok-maniac-steve",
+    "slug": "pok-maniac-steve-5",
+    "trainer": "pok-maniac-steve",
     "label": "PokéManiac Steve",
     "kind": "trainer",
     "location": "route114",
@@ -8392,6 +8778,7 @@
   },
   {
     "slug": "kindler-bernie",
+    "trainer": "kindler-bernie",
     "label": "Kindler Bernie",
     "kind": "trainer",
     "location": "route114",
@@ -8410,7 +8797,8 @@
     ]
   },
   {
-    "slug": "kindler-bernie",
+    "slug": "kindler-bernie-2",
+    "trainer": "kindler-bernie",
     "label": "Kindler Bernie",
     "kind": "trainer",
     "location": "route114",
@@ -8429,7 +8817,8 @@
     ]
   },
   {
-    "slug": "kindler-bernie",
+    "slug": "kindler-bernie-3",
+    "trainer": "kindler-bernie",
     "label": "Kindler Bernie",
     "kind": "trainer",
     "location": "route114",
@@ -8448,7 +8837,8 @@
     ]
   },
   {
-    "slug": "kindler-bernie",
+    "slug": "kindler-bernie-4",
+    "trainer": "kindler-bernie",
     "label": "Kindler Bernie",
     "kind": "trainer",
     "location": "route114",
@@ -8467,7 +8857,8 @@
     ]
   },
   {
-    "slug": "kindler-bernie",
+    "slug": "kindler-bernie-5",
+    "trainer": "kindler-bernie",
     "label": "Kindler Bernie",
     "kind": "trainer",
     "location": "route114",
@@ -8487,6 +8878,7 @@
   },
   {
     "slug": "hiker-lucas",
+    "trainer": "hiker-lucas",
     "label": "Hiker Lucas",
     "kind": "trainer",
     "location": "route114",
@@ -8506,6 +8898,7 @@
   },
   {
     "slug": "picknicker-angelina",
+    "trainer": "picknicker-angelina",
     "label": "Picknicker Angelina",
     "kind": "trainer",
     "location": "route114",
@@ -8525,6 +8918,7 @@
   },
   {
     "slug": "hiker-lenny",
+    "trainer": "hiker-lenny",
     "label": "Hiker Lenny",
     "kind": "trainer",
     "location": "route114",
@@ -8544,6 +8938,7 @@
   },
   {
     "slug": "old-couple-john-and-jay",
+    "trainer": "old-couple-john-and-jay",
     "label": "Old Couple John & Jay",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8562,7 +8957,8 @@
     ]
   },
   {
-    "slug": "old-couple-john-and-jay",
+    "slug": "old-couple-john-and-jay-2",
+    "trainer": "old-couple-john-and-jay",
     "label": "Old Couple John & Jay",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8581,7 +8977,8 @@
     ]
   },
   {
-    "slug": "old-couple-john-and-jay",
+    "slug": "old-couple-john-and-jay-3",
+    "trainer": "old-couple-john-and-jay",
     "label": "Old Couple John & Jay",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8600,7 +8997,8 @@
     ]
   },
   {
-    "slug": "old-couple-john-and-jay",
+    "slug": "old-couple-john-and-jay-4",
+    "trainer": "old-couple-john-and-jay",
     "label": "Old Couple John & Jay",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8619,7 +9017,8 @@
     ]
   },
   {
-    "slug": "old-couple-john-and-jay",
+    "slug": "old-couple-john-and-jay-5",
+    "trainer": "old-couple-john-and-jay",
     "label": "Old Couple John & Jay",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8639,6 +9038,7 @@
   },
   {
     "slug": "dragon-tamer-nicolas",
+    "trainer": "dragon-tamer-nicolas",
     "label": "Dragon Tamer Nicolas",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8657,7 +9057,8 @@
     ]
   },
   {
-    "slug": "dragon-tamer-nicolas",
+    "slug": "dragon-tamer-nicolas-2",
+    "trainer": "dragon-tamer-nicolas",
     "label": "Dragon Tamer Nicolas",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8676,7 +9077,8 @@
     ]
   },
   {
-    "slug": "dragon-tamer-nicolas",
+    "slug": "dragon-tamer-nicolas-3",
+    "trainer": "dragon-tamer-nicolas",
     "label": "Dragon Tamer Nicolas",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8695,7 +9097,8 @@
     ]
   },
   {
-    "slug": "dragon-tamer-nicolas",
+    "slug": "dragon-tamer-nicolas-4",
+    "trainer": "dragon-tamer-nicolas",
     "label": "Dragon Tamer Nicolas",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8719,7 +9122,8 @@
     ]
   },
   {
-    "slug": "dragon-tamer-nicolas",
+    "slug": "dragon-tamer-nicolas-5",
+    "trainer": "dragon-tamer-nicolas",
     "label": "Dragon Tamer Nicolas",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8744,6 +9148,7 @@
   },
   {
     "slug": "pok-mon-trainer-steven",
+    "trainer": "pok-mon-trainer-steven",
     "label": "Pokémon Trainer Steven",
     "kind": "trainer",
     "location": "meteorfalls",
@@ -8783,6 +9188,7 @@
   },
   {
     "slug": "black-belt-nob",
+    "trainer": "black-belt-nob",
     "label": "Black Belt Nob",
     "kind": "trainer",
     "location": "route115",
@@ -8796,7 +9202,8 @@
     ]
   },
   {
-    "slug": "black-belt-nob",
+    "slug": "black-belt-nob-2",
+    "trainer": "black-belt-nob",
     "label": "Black Belt Nob",
     "kind": "trainer",
     "location": "route115",
@@ -8810,7 +9217,8 @@
     ]
   },
   {
-    "slug": "black-belt-nob",
+    "slug": "black-belt-nob-3",
+    "trainer": "black-belt-nob",
     "label": "Black Belt Nob",
     "kind": "trainer",
     "location": "route115",
@@ -8829,7 +9237,8 @@
     ]
   },
   {
-    "slug": "black-belt-nob",
+    "slug": "black-belt-nob-4",
+    "trainer": "black-belt-nob",
     "label": "Black Belt Nob",
     "kind": "trainer",
     "location": "route115",
@@ -8853,7 +9262,8 @@
     ]
   },
   {
-    "slug": "black-belt-nob",
+    "slug": "black-belt-nob-5",
+    "trainer": "black-belt-nob",
     "label": "Black Belt Nob",
     "kind": "trainer",
     "location": "route115",
@@ -8883,6 +9293,7 @@
   },
   {
     "slug": "collector-hector",
+    "trainer": "collector-hector",
     "label": "Collector Hector",
     "kind": "trainer",
     "location": "route115",
@@ -8902,6 +9313,7 @@
   },
   {
     "slug": "psychic-marlene",
+    "trainer": "psychic-marlene",
     "label": "Psychic Marlene",
     "kind": "trainer",
     "location": "route115",
@@ -8921,6 +9333,7 @@
   },
   {
     "slug": "battle-girl-cyndy",
+    "trainer": "battle-girl-cyndy",
     "label": "Battle Girl Cyndy",
     "kind": "trainer",
     "location": "route115",
@@ -8939,7 +9352,8 @@
     ]
   },
   {
-    "slug": "battle-girl-cyndy",
+    "slug": "battle-girl-cyndy-2",
+    "trainer": "battle-girl-cyndy",
     "label": "Battle Girl Cyndy",
     "kind": "trainer",
     "location": "route115",
@@ -8958,7 +9372,8 @@
     ]
   },
   {
-    "slug": "battle-girl-cyndy",
+    "slug": "battle-girl-cyndy-3",
+    "trainer": "battle-girl-cyndy",
     "label": "Battle Girl Cyndy",
     "kind": "trainer",
     "location": "route115",
@@ -8977,7 +9392,8 @@
     ]
   },
   {
-    "slug": "battle-girl-cyndy",
+    "slug": "battle-girl-cyndy-4",
+    "trainer": "battle-girl-cyndy",
     "label": "Battle Girl Cyndy",
     "kind": "trainer",
     "location": "route115",
@@ -8996,7 +9412,8 @@
     ]
   },
   {
-    "slug": "battle-girl-cyndy",
+    "slug": "battle-girl-cyndy-5",
+    "trainer": "battle-girl-cyndy",
     "label": "Battle Girl Cyndy",
     "kind": "trainer",
     "location": "route115",
@@ -9016,6 +9433,7 @@
   },
   {
     "slug": "triathlete-kyra",
+    "trainer": "triathlete-kyra",
     "label": "Triathlete Kyra",
     "kind": "trainer",
     "location": "route115",
@@ -9035,6 +9453,7 @@
   },
   {
     "slug": "ninja-boy-jaiden",
+    "trainer": "ninja-boy-jaiden",
     "label": "Ninja Boy Jaiden",
     "kind": "trainer",
     "location": "route115",
@@ -9054,6 +9473,7 @@
   },
   {
     "slug": "expert-timothy",
+    "trainer": "expert-timothy",
     "label": "Expert Timothy",
     "kind": "trainer",
     "location": "route115",
@@ -9067,7 +9487,8 @@
     ]
   },
   {
-    "slug": "expert-timothy",
+    "slug": "expert-timothy-2",
+    "trainer": "expert-timothy",
     "label": "Expert Timothy",
     "kind": "trainer",
     "location": "route115",
@@ -9081,7 +9502,8 @@
     ]
   },
   {
-    "slug": "expert-timothy",
+    "slug": "expert-timothy-3",
+    "trainer": "expert-timothy",
     "label": "Expert Timothy",
     "kind": "trainer",
     "location": "route115",
@@ -9095,7 +9517,8 @@
     ]
   },
   {
-    "slug": "expert-timothy",
+    "slug": "expert-timothy-4",
+    "trainer": "expert-timothy",
     "label": "Expert Timothy",
     "kind": "trainer",
     "location": "route115",
@@ -9109,7 +9532,8 @@
     ]
   },
   {
-    "slug": "expert-timothy",
+    "slug": "expert-timothy-5",
+    "trainer": "expert-timothy",
     "label": "Expert Timothy",
     "kind": "trainer",
     "location": "route115",
@@ -9124,6 +9548,7 @@
   },
   {
     "slug": "black-belt-koichi",
+    "trainer": "black-belt-koichi",
     "label": "Black Belt Koichi",
     "kind": "trainer",
     "location": "route115",
@@ -9143,6 +9568,7 @@
   },
   {
     "slug": "battle-girl-helene",
+    "trainer": "battle-girl-helene",
     "label": "Battle Girl Helene",
     "kind": "trainer",
     "location": "route115",
@@ -9162,6 +9588,7 @@
   },
   {
     "slug": "psychic-alix",
+    "trainer": "psychic-alix",
     "label": "Psychic Alix",
     "kind": "trainer",
     "location": "route115",
@@ -9181,6 +9608,7 @@
   },
   {
     "slug": "bug-catcher-jose",
+    "trainer": "bug-catcher-jose",
     "label": "Bug Catcher Jose",
     "kind": "trainer",
     "location": "route116",
@@ -9200,6 +9628,7 @@
   },
   {
     "slug": "youngster-joey",
+    "trainer": "youngster-joey",
     "label": "Youngster Joey",
     "kind": "trainer",
     "location": "route116",
@@ -9214,6 +9643,7 @@
   },
   {
     "slug": "school-kid-karen",
+    "trainer": "school-kid-karen",
     "label": "School Kid Karen",
     "kind": "trainer",
     "location": "route116",
@@ -9227,7 +9657,8 @@
     ]
   },
   {
-    "slug": "school-kid-karen",
+    "slug": "school-kid-karen-2",
+    "trainer": "school-kid-karen",
     "label": "School Kid Karen",
     "kind": "trainer",
     "location": "route116",
@@ -9246,7 +9677,8 @@
     ]
   },
   {
-    "slug": "school-kid-karen",
+    "slug": "school-kid-karen-3",
+    "trainer": "school-kid-karen",
     "label": "School Kid Karen",
     "kind": "trainer",
     "location": "route116",
@@ -9265,7 +9697,8 @@
     ]
   },
   {
-    "slug": "school-kid-karen",
+    "slug": "school-kid-karen-4",
+    "trainer": "school-kid-karen",
     "label": "School Kid Karen",
     "kind": "trainer",
     "location": "route116",
@@ -9284,7 +9717,8 @@
     ]
   },
   {
-    "slug": "school-kid-karen",
+    "slug": "school-kid-karen-5",
+    "trainer": "school-kid-karen",
     "label": "School Kid Karen",
     "kind": "trainer",
     "location": "route116",
@@ -9304,6 +9738,7 @@
   },
   {
     "slug": "youngster-johnson",
+    "trainer": "youngster-johnson",
     "label": "Youngster Johnson",
     "kind": "trainer",
     "location": "route116",
@@ -9323,6 +9758,7 @@
   },
   {
     "slug": "hiker-devan",
+    "trainer": "hiker-devan",
     "label": "Hiker Devan",
     "kind": "trainer",
     "location": "route116",
@@ -9342,6 +9778,7 @@
   },
   {
     "slug": "hiker-clark",
+    "trainer": "hiker-clark",
     "label": "Hiker Clark",
     "kind": "trainer",
     "location": "route116",
@@ -9356,6 +9793,7 @@
   },
   {
     "slug": "school-kid-jerry",
+    "trainer": "school-kid-jerry",
     "label": "School Kid Jerry",
     "kind": "trainer",
     "location": "route116",
@@ -9369,7 +9807,8 @@
     ]
   },
   {
-    "slug": "school-kid-jerry",
+    "slug": "school-kid-jerry-2",
+    "trainer": "school-kid-jerry",
     "label": "School Kid Jerry",
     "kind": "trainer",
     "location": "route116",
@@ -9388,7 +9827,8 @@
     ]
   },
   {
-    "slug": "school-kid-jerry",
+    "slug": "school-kid-jerry-3",
+    "trainer": "school-kid-jerry",
     "label": "School Kid Jerry",
     "kind": "trainer",
     "location": "route116",
@@ -9407,7 +9847,8 @@
     ]
   },
   {
-    "slug": "school-kid-jerry",
+    "slug": "school-kid-jerry-4",
+    "trainer": "school-kid-jerry",
     "label": "School Kid Jerry",
     "kind": "trainer",
     "location": "route116",
@@ -9426,7 +9867,8 @@
     ]
   },
   {
-    "slug": "school-kid-jerry",
+    "slug": "school-kid-jerry-5",
+    "trainer": "school-kid-jerry",
     "label": "School Kid Jerry",
     "kind": "trainer",
     "location": "route116",
@@ -9451,6 +9893,7 @@
   },
   {
     "slug": "lass-janice",
+    "trainer": "lass-janice",
     "label": "Lass Janice",
     "kind": "trainer",
     "location": "route116",
@@ -9465,6 +9908,7 @@
   },
   {
     "slug": "lady-sarah",
+    "trainer": "lady-sarah",
     "label": "Lady Sarah",
     "kind": "trainer",
     "location": "route116",
@@ -9484,6 +9928,7 @@
   },
   {
     "slug": "rich-boy-dawson",
+    "trainer": "rich-boy-dawson",
     "label": "Rich Boy Dawson",
     "kind": "trainer",
     "location": "route116",
@@ -9503,6 +9948,7 @@
   },
   {
     "slug": "triathlete-dylan",
+    "trainer": "triathlete-dylan",
     "label": "Triathlete Dylan",
     "kind": "trainer",
     "location": "route117",
@@ -9516,7 +9962,8 @@
     ]
   },
   {
-    "slug": "triathlete-dylan",
+    "slug": "triathlete-dylan-2",
+    "trainer": "triathlete-dylan",
     "label": "Triathlete Dylan",
     "kind": "trainer",
     "location": "route117",
@@ -9530,7 +9977,8 @@
     ]
   },
   {
-    "slug": "triathlete-dylan",
+    "slug": "triathlete-dylan-3",
+    "trainer": "triathlete-dylan",
     "label": "Triathlete Dylan",
     "kind": "trainer",
     "location": "route117",
@@ -9544,7 +9992,8 @@
     ]
   },
   {
-    "slug": "triathlete-dylan",
+    "slug": "triathlete-dylan-4",
+    "trainer": "triathlete-dylan",
     "label": "Triathlete Dylan",
     "kind": "trainer",
     "location": "route117",
@@ -9558,7 +10007,8 @@
     ]
   },
   {
-    "slug": "triathlete-dylan",
+    "slug": "triathlete-dylan-5",
+    "trainer": "triathlete-dylan",
     "label": "Triathlete Dylan",
     "kind": "trainer",
     "location": "route117",
@@ -9573,6 +10023,7 @@
   },
   {
     "slug": "pok-mon-breeder-lydia",
+    "trainer": "pok-mon-breeder-lydia",
     "label": "Pokémon Breeder Lydia",
     "kind": "trainer",
     "location": "route117",
@@ -9611,7 +10062,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-lydia",
+    "slug": "pok-mon-breeder-lydia-2",
+    "trainer": "pok-mon-breeder-lydia",
     "label": "Pokémon Breeder Lydia",
     "kind": "trainer",
     "location": "route117",
@@ -9650,7 +10102,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-lydia",
+    "slug": "pok-mon-breeder-lydia-3",
+    "trainer": "pok-mon-breeder-lydia",
     "label": "Pokémon Breeder Lydia",
     "kind": "trainer",
     "location": "route117",
@@ -9689,7 +10142,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-lydia",
+    "slug": "pok-mon-breeder-lydia-4",
+    "trainer": "pok-mon-breeder-lydia",
     "label": "Pokémon Breeder Lydia",
     "kind": "trainer",
     "location": "route117",
@@ -9728,7 +10182,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-lydia",
+    "slug": "pok-mon-breeder-lydia-5",
+    "trainer": "pok-mon-breeder-lydia",
     "label": "Pokémon Breeder Lydia",
     "kind": "trainer",
     "location": "route117",
@@ -9768,6 +10223,7 @@
   },
   {
     "slug": "sr-and-jr-anna-and-meg",
+    "trainer": "sr-and-jr-anna-and-meg",
     "label": "Sr. And Jr. Anna & Meg",
     "kind": "trainer",
     "location": "route117",
@@ -9786,7 +10242,8 @@
     ]
   },
   {
-    "slug": "sr-and-jr-anna-and-meg",
+    "slug": "sr-and-jr-anna-and-meg-2",
+    "trainer": "sr-and-jr-anna-and-meg",
     "label": "Sr. And Jr. Anna & Meg",
     "kind": "trainer",
     "location": "route117",
@@ -9805,7 +10262,8 @@
     ]
   },
   {
-    "slug": "sr-and-jr-anna-and-meg",
+    "slug": "sr-and-jr-anna-and-meg-3",
+    "trainer": "sr-and-jr-anna-and-meg",
     "label": "Sr. And Jr. Anna & Meg",
     "kind": "trainer",
     "location": "route117",
@@ -9824,7 +10282,8 @@
     ]
   },
   {
-    "slug": "sr-and-jr-anna-and-meg",
+    "slug": "sr-and-jr-anna-and-meg-4",
+    "trainer": "sr-and-jr-anna-and-meg",
     "label": "Sr. And Jr. Anna & Meg",
     "kind": "trainer",
     "location": "route117",
@@ -9843,7 +10302,8 @@
     ]
   },
   {
-    "slug": "sr-and-jr-anna-and-meg",
+    "slug": "sr-and-jr-anna-and-meg-5",
+    "trainer": "sr-and-jr-anna-and-meg",
     "label": "Sr. And Jr. Anna & Meg",
     "kind": "trainer",
     "location": "route117",
@@ -9863,6 +10323,7 @@
   },
   {
     "slug": "triathlete-maria",
+    "trainer": "triathlete-maria",
     "label": "Triathlete Maria",
     "kind": "trainer",
     "location": "route117",
@@ -9876,7 +10337,8 @@
     ]
   },
   {
-    "slug": "triathlete-maria",
+    "slug": "triathlete-maria-2",
+    "trainer": "triathlete-maria",
     "label": "Triathlete Maria",
     "kind": "trainer",
     "location": "route117",
@@ -9890,7 +10352,8 @@
     ]
   },
   {
-    "slug": "triathlete-maria",
+    "slug": "triathlete-maria-3",
+    "trainer": "triathlete-maria",
     "label": "Triathlete Maria",
     "kind": "trainer",
     "location": "route117",
@@ -9904,7 +10367,8 @@
     ]
   },
   {
-    "slug": "triathlete-maria",
+    "slug": "triathlete-maria-4",
+    "trainer": "triathlete-maria",
     "label": "Triathlete Maria",
     "kind": "trainer",
     "location": "route117",
@@ -9918,7 +10382,8 @@
     ]
   },
   {
-    "slug": "triathlete-maria",
+    "slug": "triathlete-maria-5",
+    "trainer": "triathlete-maria",
     "label": "Triathlete Maria",
     "kind": "trainer",
     "location": "route117",
@@ -9933,6 +10398,7 @@
   },
   {
     "slug": "pok-mon-breeder-isaac",
+    "trainer": "pok-mon-breeder-isaac",
     "label": "Pokémon Breeder Isaac",
     "kind": "trainer",
     "location": "route117",
@@ -9971,7 +10437,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-isaac",
+    "slug": "pok-mon-breeder-isaac-2",
+    "trainer": "pok-mon-breeder-isaac",
     "label": "Pokémon Breeder Isaac",
     "kind": "trainer",
     "location": "route117",
@@ -10010,7 +10477,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-isaac",
+    "slug": "pok-mon-breeder-isaac-3",
+    "trainer": "pok-mon-breeder-isaac",
     "label": "Pokémon Breeder Isaac",
     "kind": "trainer",
     "location": "route117",
@@ -10049,7 +10517,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-isaac",
+    "slug": "pok-mon-breeder-isaac-4",
+    "trainer": "pok-mon-breeder-isaac",
     "label": "Pokémon Breeder Isaac",
     "kind": "trainer",
     "location": "route117",
@@ -10088,7 +10557,8 @@
     ]
   },
   {
-    "slug": "pok-mon-breeder-isaac",
+    "slug": "pok-mon-breeder-isaac-5",
+    "trainer": "pok-mon-breeder-isaac",
     "label": "Pokémon Breeder Isaac",
     "kind": "trainer",
     "location": "route117",
@@ -10128,6 +10598,7 @@
   },
   {
     "slug": "battle-girl-aisha",
+    "trainer": "battle-girl-aisha",
     "label": "Battle Girl Aisha",
     "kind": "trainer",
     "location": "route117",
@@ -10142,6 +10613,7 @@
   },
   {
     "slug": "triathlete-melina",
+    "trainer": "triathlete-melina",
     "label": "Triathlete Melina",
     "kind": "trainer",
     "location": "route117",
@@ -10156,6 +10628,7 @@
   },
   {
     "slug": "psychic-brandi",
+    "trainer": "psychic-brandi",
     "label": "Psychic Brandi",
     "kind": "trainer",
     "location": "route117",
@@ -10170,6 +10643,7 @@
   },
   {
     "slug": "bug-maniac-derek",
+    "trainer": "bug-maniac-derek",
     "label": "Bug Maniac Derek",
     "kind": "trainer",
     "location": "route117",
@@ -10189,6 +10663,7 @@
   },
   {
     "slug": "aroma-lady-rose",
+    "trainer": "aroma-lady-rose",
     "label": "Aroma Lady Rose",
     "kind": "trainer",
     "location": "route118",
@@ -10212,7 +10687,8 @@
     ]
   },
   {
-    "slug": "aroma-lady-rose",
+    "slug": "aroma-lady-rose-2",
+    "trainer": "aroma-lady-rose",
     "label": "Aroma Lady Rose",
     "kind": "trainer",
     "location": "route118",
@@ -10231,7 +10707,8 @@
     ]
   },
   {
-    "slug": "aroma-lady-rose",
+    "slug": "aroma-lady-rose-3",
+    "trainer": "aroma-lady-rose",
     "label": "Aroma Lady Rose",
     "kind": "trainer",
     "location": "route118",
@@ -10255,7 +10732,8 @@
     ]
   },
   {
-    "slug": "aroma-lady-rose",
+    "slug": "aroma-lady-rose-4",
+    "trainer": "aroma-lady-rose",
     "label": "Aroma Lady Rose",
     "kind": "trainer",
     "location": "route118",
@@ -10279,7 +10757,8 @@
     ]
   },
   {
-    "slug": "aroma-lady-rose",
+    "slug": "aroma-lady-rose-5",
+    "trainer": "aroma-lady-rose",
     "label": "Aroma Lady Rose",
     "kind": "trainer",
     "location": "route118",
@@ -10304,6 +10783,7 @@
   },
   {
     "slug": "youngster-deandre",
+    "trainer": "youngster-deandre",
     "label": "Youngster Deandre",
     "kind": "trainer",
     "location": "route118",
@@ -10328,6 +10808,7 @@
   },
   {
     "slug": "fisherman-wade",
+    "trainer": "fisherman-wade",
     "label": "Fisherman Wade",
     "kind": "trainer",
     "location": "route118",
@@ -10342,6 +10823,7 @@
   },
   {
     "slug": "guitarist-dalton",
+    "trainer": "guitarist-dalton",
     "label": "Guitarist Dalton",
     "kind": "trainer",
     "location": "route118",
@@ -10360,7 +10842,8 @@
     ]
   },
   {
-    "slug": "guitarist-dalton",
+    "slug": "guitarist-dalton-2",
+    "trainer": "guitarist-dalton",
     "label": "Guitarist Dalton",
     "kind": "trainer",
     "location": "route118",
@@ -10384,7 +10867,8 @@
     ]
   },
   {
-    "slug": "guitarist-dalton",
+    "slug": "guitarist-dalton-3",
+    "trainer": "guitarist-dalton",
     "label": "Guitarist Dalton",
     "kind": "trainer",
     "location": "route118",
@@ -10408,7 +10892,8 @@
     ]
   },
   {
-    "slug": "guitarist-dalton",
+    "slug": "guitarist-dalton-4",
+    "trainer": "guitarist-dalton",
     "label": "Guitarist Dalton",
     "kind": "trainer",
     "location": "route118",
@@ -10432,7 +10917,8 @@
     ]
   },
   {
-    "slug": "guitarist-dalton",
+    "slug": "guitarist-dalton-5",
+    "trainer": "guitarist-dalton",
     "label": "Guitarist Dalton",
     "kind": "trainer",
     "location": "route118",
@@ -10456,7 +10942,8 @@
     ]
   },
   {
-    "slug": "interviewers-gabby-and-ty",
+    "slug": "interviewers-gabby-and-ty-5",
+    "trainer": "interviewers-gabby-and-ty",
     "label": "Interviewers Gabby & Ty",
     "kind": "trainer",
     "location": "route118",
@@ -10476,6 +10963,7 @@
   },
   {
     "slug": "fisherman-barny",
+    "trainer": "fisherman-barny",
     "label": "Fisherman Barny",
     "kind": "trainer",
     "location": "route118",
@@ -10495,6 +10983,7 @@
   },
   {
     "slug": "bird-keeper-chester",
+    "trainer": "bird-keeper-chester",
     "label": "Bird Keeper Chester",
     "kind": "trainer",
     "location": "route118",
@@ -10514,6 +11003,7 @@
   },
   {
     "slug": "bird-keeper-perry",
+    "trainer": "bird-keeper-perry",
     "label": "Bird Keeper Perry",
     "kind": "trainer",
     "location": "route118",
@@ -10528,6 +11018,7 @@
   },
   {
     "slug": "bug-catcher-kent",
+    "trainer": "bug-catcher-kent",
     "label": "Bug Catcher Kent",
     "kind": "trainer",
     "location": "route119",
@@ -10542,6 +11033,7 @@
   },
   {
     "slug": "bug-maniac-donald",
+    "trainer": "bug-maniac-donald",
     "label": "Bug Maniac Donald",
     "kind": "trainer",
     "location": "route119",
@@ -10566,6 +11058,7 @@
   },
   {
     "slug": "bug-catcher-greg",
+    "trainer": "bug-catcher-greg",
     "label": "Bug Catcher Greg",
     "kind": "trainer",
     "location": "route119",
@@ -10585,6 +11078,7 @@
   },
   {
     "slug": "bug-maniac-taylor",
+    "trainer": "bug-maniac-taylor",
     "label": "Bug Maniac Taylor",
     "kind": "trainer",
     "location": "route119",
@@ -10609,6 +11103,7 @@
   },
   {
     "slug": "bug-maniac-brent",
+    "trainer": "bug-maniac-brent",
     "label": "Bug Maniac Brent",
     "kind": "trainer",
     "location": "route119",
@@ -10623,6 +11118,7 @@
   },
   {
     "slug": "bug-catcher-doug",
+    "trainer": "bug-catcher-doug",
     "label": "Bug Catcher Doug",
     "kind": "trainer",
     "location": "route119",
@@ -10642,6 +11138,7 @@
   },
   {
     "slug": "fisherman-chris",
+    "trainer": "fisherman-chris",
     "label": "Fisherman Chris",
     "kind": "trainer",
     "location": "route119",
@@ -10671,6 +11168,7 @@
   },
   {
     "slug": "pok-mon-ranger-catherine",
+    "trainer": "pok-mon-ranger-catherine",
     "label": "Pokémon Ranger Catherine",
     "kind": "trainer",
     "location": "route119",
@@ -10689,7 +11187,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-catherine",
+    "slug": "pok-mon-ranger-catherine-2",
+    "trainer": "pok-mon-ranger-catherine",
     "label": "Pokémon Ranger Catherine",
     "kind": "trainer",
     "location": "route119",
@@ -10708,7 +11207,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-catherine",
+    "slug": "pok-mon-ranger-catherine-3",
+    "trainer": "pok-mon-ranger-catherine",
     "label": "Pokémon Ranger Catherine",
     "kind": "trainer",
     "location": "route119",
@@ -10727,7 +11227,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-catherine",
+    "slug": "pok-mon-ranger-catherine-4",
+    "trainer": "pok-mon-ranger-catherine",
     "label": "Pokémon Ranger Catherine",
     "kind": "trainer",
     "location": "route119",
@@ -10746,7 +11247,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-catherine",
+    "slug": "pok-mon-ranger-catherine-5",
+    "trainer": "pok-mon-ranger-catherine",
     "label": "Pokémon Ranger Catherine",
     "kind": "trainer",
     "location": "route119",
@@ -10766,6 +11268,7 @@
   },
   {
     "slug": "pok-mon-ranger-jackson",
+    "trainer": "pok-mon-ranger-jackson",
     "label": "Pokémon Ranger Jackson",
     "kind": "trainer",
     "location": "route119",
@@ -10779,7 +11282,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-jackson",
+    "slug": "pok-mon-ranger-jackson-2",
+    "trainer": "pok-mon-ranger-jackson",
     "label": "Pokémon Ranger Jackson",
     "kind": "trainer",
     "location": "route119",
@@ -10793,7 +11297,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-jackson",
+    "slug": "pok-mon-ranger-jackson-3",
+    "trainer": "pok-mon-ranger-jackson",
     "label": "Pokémon Ranger Jackson",
     "kind": "trainer",
     "location": "route119",
@@ -10807,7 +11312,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-jackson",
+    "slug": "pok-mon-ranger-jackson-4",
+    "trainer": "pok-mon-ranger-jackson",
     "label": "Pokémon Ranger Jackson",
     "kind": "trainer",
     "location": "route119",
@@ -10821,7 +11327,8 @@
     ]
   },
   {
-    "slug": "pok-mon-ranger-jackson",
+    "slug": "pok-mon-ranger-jackson-5",
+    "trainer": "pok-mon-ranger-jackson",
     "label": "Pokémon Ranger Jackson",
     "kind": "trainer",
     "location": "route119",
@@ -10841,6 +11348,7 @@
   },
   {
     "slug": "bird-keeper-phil",
+    "trainer": "bird-keeper-phil",
     "label": "Bird Keeper Phil",
     "kind": "trainer",
     "location": "route119",
@@ -10855,6 +11363,7 @@
   },
   {
     "slug": "parasol-lady-rachel",
+    "trainer": "parasol-lady-rachel",
     "label": "Parasol Lady Rachel",
     "kind": "trainer",
     "location": "route119",
@@ -10869,6 +11378,7 @@
   },
   {
     "slug": "ninja-boy-takashi",
+    "trainer": "ninja-boy-takashi",
     "label": "Ninja Boy Takashi",
     "kind": "trainer",
     "location": "route119",
@@ -10888,6 +11398,7 @@
   },
   {
     "slug": "kindler-dayton",
+    "trainer": "kindler-dayton",
     "label": "Kindler Dayton",
     "kind": "trainer",
     "location": "route119",
@@ -10907,6 +11418,7 @@
   },
   {
     "slug": "bird-keeper-hugh",
+    "trainer": "bird-keeper-hugh",
     "label": "Bird Keeper Hugh",
     "kind": "trainer",
     "location": "route119",
@@ -10925,7 +11437,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-13",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route119",
@@ -10950,7 +11463,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-14",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route119",
@@ -10975,7 +11489,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-brendan",
+    "slug": "pok-mon-trainer-brendan-15",
+    "trainer": "pok-mon-trainer-brendan",
     "label": "Pokémon Trainer Brendan",
     "kind": "rival",
     "location": "route119",
@@ -11000,7 +11515,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-13",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route119",
@@ -11025,7 +11541,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-14",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route119",
@@ -11050,7 +11567,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-may",
+    "slug": "pok-mon-trainer-may-15",
+    "trainer": "pok-mon-trainer-may",
     "label": "Pokémon Trainer May",
     "kind": "rival",
     "location": "route119",
@@ -11076,6 +11594,7 @@
   },
   {
     "slug": "guitarist-fabian",
+    "trainer": "guitarist-fabian",
     "label": "Guitarist Fabian",
     "kind": "trainer",
     "location": "route119",
@@ -11090,6 +11609,7 @@
   },
   {
     "slug": "ninja-boy-yasu",
+    "trainer": "ninja-boy-yasu",
     "label": "Ninja Boy Yasu",
     "kind": "trainer",
     "location": "route119",
@@ -11104,6 +11624,7 @@
   },
   {
     "slug": "ninja-boy-hideo",
+    "trainer": "ninja-boy-hideo",
     "label": "Ninja Boy Hideo",
     "kind": "trainer",
     "location": "route119",
@@ -11122,7 +11643,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-3",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "route119",
@@ -11136,7 +11658,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-4",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "route119",
@@ -11155,7 +11678,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-5",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "route119",
@@ -11174,7 +11698,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-6",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "route119",
@@ -11199,6 +11724,7 @@
   },
   {
     "slug": "aqua-admin-shelly",
+    "trainer": "aqua-admin-shelly",
     "label": "Aqua Admin Shelly",
     "kind": "villain",
     "location": "route119",
@@ -11218,6 +11744,7 @@
   },
   {
     "slug": "parasol-lady-clarissa",
+    "trainer": "parasol-lady-clarissa",
     "label": "Parasol Lady Clarissa",
     "kind": "trainer",
     "location": "route120",
@@ -11237,6 +11764,7 @@
   },
   {
     "slug": "bird-keeper-robert",
+    "trainer": "bird-keeper-robert",
     "label": "Bird Keeper Robert",
     "kind": "trainer",
     "location": "route120",
@@ -11250,7 +11778,8 @@
     ]
   },
   {
-    "slug": "bird-keeper-robert",
+    "slug": "bird-keeper-robert-2",
+    "trainer": "bird-keeper-robert",
     "label": "Bird Keeper Robert",
     "kind": "trainer",
     "location": "route120",
@@ -11269,7 +11798,8 @@
     ]
   },
   {
-    "slug": "bird-keeper-robert",
+    "slug": "bird-keeper-robert-3",
+    "trainer": "bird-keeper-robert",
     "label": "Bird Keeper Robert",
     "kind": "trainer",
     "location": "route120",
@@ -11288,7 +11818,8 @@
     ]
   },
   {
-    "slug": "bird-keeper-robert",
+    "slug": "bird-keeper-robert-4",
+    "trainer": "bird-keeper-robert",
     "label": "Bird Keeper Robert",
     "kind": "trainer",
     "location": "route120",
@@ -11307,7 +11838,8 @@
     ]
   },
   {
-    "slug": "bird-keeper-robert",
+    "slug": "bird-keeper-robert-5",
+    "trainer": "bird-keeper-robert",
     "label": "Bird Keeper Robert",
     "kind": "trainer",
     "location": "route120",
@@ -11326,7 +11858,8 @@
     ]
   },
   {
-    "slug": "interviewers-gabby-and-ty",
+    "slug": "interviewers-gabby-and-ty-6",
+    "trainer": "interviewers-gabby-and-ty",
     "label": "Interviewers Gabby & Ty",
     "kind": "trainer",
     "location": "route120",
@@ -11346,6 +11879,7 @@
   },
   {
     "slug": "bird-keeper-colin",
+    "trainer": "bird-keeper-colin",
     "label": "Bird Keeper Colin",
     "kind": "trainer",
     "location": "route120",
@@ -11365,6 +11899,7 @@
   },
   {
     "slug": "parasol-lady-angelica",
+    "trainer": "parasol-lady-angelica",
     "label": "Parasol Lady Angelica",
     "kind": "trainer",
     "location": "route120",
@@ -11379,6 +11914,7 @@
   },
   {
     "slug": "cool-trainer-leonel",
+    "trainer": "cool-trainer-leonel",
     "label": "Cool Trainer Leonel",
     "kind": "trainer",
     "location": "route120",
@@ -11393,6 +11929,7 @@
   },
   {
     "slug": "ninja-boy-riley",
+    "trainer": "ninja-boy-riley",
     "label": "Ninja Boy Riley",
     "kind": "trainer",
     "location": "route120",
@@ -11412,6 +11949,7 @@
   },
   {
     "slug": "battle-girl-callie",
+    "trainer": "battle-girl-callie",
     "label": "Battle Girl Callie",
     "kind": "trainer",
     "location": "route120",
@@ -11431,6 +11969,7 @@
   },
   {
     "slug": "cool-trainer-jennifer",
+    "trainer": "cool-trainer-jennifer",
     "label": "Cool Trainer Jennifer",
     "kind": "trainer",
     "location": "route120",
@@ -11445,6 +11984,7 @@
   },
   {
     "slug": "pok-mon-ranger-jenna",
+    "trainer": "pok-mon-ranger-jenna",
     "label": "Pokémon Ranger Jenna",
     "kind": "trainer",
     "location": "route120",
@@ -11469,6 +12009,7 @@
   },
   {
     "slug": "pok-mon-ranger-lorenzo",
+    "trainer": "pok-mon-ranger-lorenzo",
     "label": "Pokémon Ranger Lorenzo",
     "kind": "trainer",
     "location": "route120",
@@ -11493,6 +12034,7 @@
   },
   {
     "slug": "bug-maniac-jeffrey",
+    "trainer": "bug-maniac-jeffrey",
     "label": "Bug Maniac Jeffrey",
     "kind": "trainer",
     "location": "route120",
@@ -11516,7 +12058,8 @@
     ]
   },
   {
-    "slug": "bug-maniac-jeffrey",
+    "slug": "bug-maniac-jeffrey-2",
+    "trainer": "bug-maniac-jeffrey",
     "label": "Bug Maniac Jeffrey",
     "kind": "trainer",
     "location": "route120",
@@ -11540,7 +12083,8 @@
     ]
   },
   {
-    "slug": "bug-maniac-jeffrey",
+    "slug": "bug-maniac-jeffrey-3",
+    "trainer": "bug-maniac-jeffrey",
     "label": "Bug Maniac Jeffrey",
     "kind": "trainer",
     "location": "route120",
@@ -11564,7 +12108,8 @@
     ]
   },
   {
-    "slug": "bug-maniac-jeffrey",
+    "slug": "bug-maniac-jeffrey-4",
+    "trainer": "bug-maniac-jeffrey",
     "label": "Bug Maniac Jeffrey",
     "kind": "trainer",
     "location": "route120",
@@ -11593,7 +12138,8 @@
     ]
   },
   {
-    "slug": "bug-maniac-jeffrey",
+    "slug": "bug-maniac-jeffrey-5",
+    "trainer": "bug-maniac-jeffrey",
     "label": "Bug Maniac Jeffrey",
     "kind": "trainer",
     "location": "route120",
@@ -11628,6 +12174,7 @@
   },
   {
     "slug": "ninja-boy-keigo",
+    "trainer": "ninja-boy-keigo",
     "label": "Ninja Boy Keigo",
     "kind": "trainer",
     "location": "route120",
@@ -11647,6 +12194,7 @@
   },
   {
     "slug": "ruin-maniac-chip",
+    "trainer": "ruin-maniac-chip",
     "label": "Ruin Maniac Chip",
     "kind": "trainer",
     "location": "route120",
@@ -11671,6 +12219,7 @@
   },
   {
     "slug": "hex-maniac-tammy",
+    "trainer": "hex-maniac-tammy",
     "label": "Hex Maniac Tammy",
     "kind": "trainer",
     "location": "route121",
@@ -11690,6 +12239,7 @@
   },
   {
     "slug": "bug-maniac-cale",
+    "trainer": "bug-maniac-cale",
     "label": "Bug Maniac Cale",
     "kind": "trainer",
     "location": "route121",
@@ -11709,6 +12259,7 @@
   },
   {
     "slug": "beauty-jessica",
+    "trainer": "beauty-jessica",
     "label": "Beauty Jessica",
     "kind": "trainer",
     "location": "route121",
@@ -11727,7 +12278,8 @@
     ]
   },
   {
-    "slug": "beauty-jessica",
+    "slug": "beauty-jessica-2",
+    "trainer": "beauty-jessica",
     "label": "Beauty Jessica",
     "kind": "trainer",
     "location": "route121",
@@ -11746,7 +12298,8 @@
     ]
   },
   {
-    "slug": "beauty-jessica",
+    "slug": "beauty-jessica-3",
+    "trainer": "beauty-jessica",
     "label": "Beauty Jessica",
     "kind": "trainer",
     "location": "route121",
@@ -11765,7 +12318,8 @@
     ]
   },
   {
-    "slug": "beauty-jessica",
+    "slug": "beauty-jessica-4",
+    "trainer": "beauty-jessica",
     "label": "Beauty Jessica",
     "kind": "trainer",
     "location": "route121",
@@ -11784,7 +12338,8 @@
     ]
   },
   {
-    "slug": "beauty-jessica",
+    "slug": "beauty-jessica-5",
+    "trainer": "beauty-jessica",
     "label": "Beauty Jessica",
     "kind": "trainer",
     "location": "route121",
@@ -11804,6 +12359,7 @@
   },
   {
     "slug": "sr-and-jr-kate-and-joy",
+    "trainer": "sr-and-jr-kate-and-joy",
     "label": "Sr. And Jr. Kate & Joy",
     "kind": "trainer",
     "location": "route121",
@@ -11823,6 +12379,7 @@
   },
   {
     "slug": "pok-mon-breeder-myles",
+    "trainer": "pok-mon-breeder-myles",
     "label": "Pokémon Breeder Myles",
     "kind": "trainer",
     "location": "route121",
@@ -11862,6 +12419,7 @@
   },
   {
     "slug": "pok-mon-breeder-pat",
+    "trainer": "pok-mon-breeder-pat",
     "label": "Pokémon Breeder Pat",
     "kind": "trainer",
     "location": "route121",
@@ -11901,6 +12459,7 @@
   },
   {
     "slug": "gentleman-walter",
+    "trainer": "gentleman-walter",
     "label": "Gentleman Walter",
     "kind": "trainer",
     "location": "route121",
@@ -11914,7 +12473,8 @@
     ]
   },
   {
-    "slug": "gentleman-walter",
+    "slug": "gentleman-walter-2",
+    "trainer": "gentleman-walter",
     "label": "Gentleman Walter",
     "kind": "trainer",
     "location": "route121",
@@ -11928,7 +12488,8 @@
     ]
   },
   {
-    "slug": "gentleman-walter",
+    "slug": "gentleman-walter-3",
+    "trainer": "gentleman-walter",
     "label": "Gentleman Walter",
     "kind": "trainer",
     "location": "route121",
@@ -11947,7 +12508,8 @@
     ]
   },
   {
-    "slug": "gentleman-walter",
+    "slug": "gentleman-walter-4",
+    "trainer": "gentleman-walter",
     "label": "Gentleman Walter",
     "kind": "trainer",
     "location": "route121",
@@ -11966,7 +12528,8 @@
     ]
   },
   {
-    "slug": "gentleman-walter",
+    "slug": "gentleman-walter-5",
+    "trainer": "gentleman-walter",
     "label": "Gentleman Walter",
     "kind": "trainer",
     "location": "route121",
@@ -11991,6 +12554,7 @@
   },
   {
     "slug": "pok-fan-vanessa",
+    "trainer": "pok-fan-vanessa",
     "label": "PokéFan Vanessa",
     "kind": "trainer",
     "location": "route121",
@@ -12005,6 +12569,7 @@
   },
   {
     "slug": "cool-trainer-marcel",
+    "trainer": "cool-trainer-marcel",
     "label": "Cool Trainer Marcel",
     "kind": "trainer",
     "location": "route121",
@@ -12024,6 +12589,7 @@
   },
   {
     "slug": "cool-trainer-cristin",
+    "trainer": "cool-trainer-cristin",
     "label": "Cool Trainer Cristin",
     "kind": "trainer",
     "location": "route121",
@@ -12042,7 +12608,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-cristin",
+    "slug": "cool-trainer-cristin-2",
+    "trainer": "cool-trainer-cristin",
     "label": "Cool Trainer Cristin",
     "kind": "trainer",
     "location": "route121",
@@ -12061,7 +12628,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-cristin",
+    "slug": "cool-trainer-cristin-3",
+    "trainer": "cool-trainer-cristin",
     "label": "Cool Trainer Cristin",
     "kind": "trainer",
     "location": "route121",
@@ -12085,7 +12653,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-cristin",
+    "slug": "cool-trainer-cristin-4",
+    "trainer": "cool-trainer-cristin",
     "label": "Cool Trainer Cristin",
     "kind": "trainer",
     "location": "route121",
@@ -12109,7 +12678,8 @@
     ]
   },
   {
-    "slug": "cool-trainer-cristin",
+    "slug": "cool-trainer-cristin-5",
+    "trainer": "cool-trainer-cristin",
     "label": "Cool Trainer Cristin",
     "kind": "trainer",
     "location": "route121",
@@ -12134,6 +12704,7 @@
   },
   {
     "slug": "cool-trainer-jazmyn",
+    "trainer": "cool-trainer-jazmyn",
     "label": "Cool Trainer Jazmyn",
     "kind": "trainer",
     "location": "route123",
@@ -12148,6 +12719,7 @@
   },
   {
     "slug": "bug-catcher-davis",
+    "trainer": "bug-catcher-davis",
     "label": "Bug Catcher Davis",
     "kind": "trainer",
     "location": "route123",
@@ -12162,6 +12734,7 @@
   },
   {
     "slug": "aroma-lady-violet",
+    "trainer": "aroma-lady-violet",
     "label": "Aroma Lady Violet",
     "kind": "trainer",
     "location": "route123",
@@ -12181,6 +12754,7 @@
   },
   {
     "slug": "twins-miu-and-yuki",
+    "trainer": "twins-miu-and-yuki",
     "label": "Twins Miu & Yuki",
     "kind": "trainer",
     "location": "route123",
@@ -12200,6 +12774,7 @@
   },
   {
     "slug": "psychic-cameron",
+    "trainer": "psychic-cameron",
     "label": "Psychic Cameron",
     "kind": "trainer",
     "location": "route123",
@@ -12213,7 +12788,8 @@
     ]
   },
   {
-    "slug": "psychic-cameron",
+    "slug": "psychic-cameron-2",
+    "trainer": "psychic-cameron",
     "label": "Psychic Cameron",
     "kind": "trainer",
     "location": "route123",
@@ -12232,7 +12808,8 @@
     ]
   },
   {
-    "slug": "psychic-cameron",
+    "slug": "psychic-cameron-3",
+    "trainer": "psychic-cameron",
     "label": "Psychic Cameron",
     "kind": "trainer",
     "location": "route123",
@@ -12251,7 +12828,8 @@
     ]
   },
   {
-    "slug": "psychic-cameron",
+    "slug": "psychic-cameron-4",
+    "trainer": "psychic-cameron",
     "label": "Psychic Cameron",
     "kind": "trainer",
     "location": "route123",
@@ -12270,7 +12848,8 @@
     ]
   },
   {
-    "slug": "psychic-cameron",
+    "slug": "psychic-cameron-5",
+    "trainer": "psychic-cameron",
     "label": "Psychic Cameron",
     "kind": "trainer",
     "location": "route123",
@@ -12290,6 +12869,7 @@
   },
   {
     "slug": "ninja-boy-jonas",
+    "trainer": "ninja-boy-jonas",
     "label": "Ninja Boy Jonas",
     "kind": "trainer",
     "location": "route123",
@@ -12304,6 +12884,7 @@
   },
   {
     "slug": "parasol-lady-kayley",
+    "trainer": "parasol-lady-kayley",
     "label": "Parasol Lady Kayley",
     "kind": "trainer",
     "location": "route123",
@@ -12318,6 +12899,7 @@
   },
   {
     "slug": "hex-maniac-kindra",
+    "trainer": "hex-maniac-kindra",
     "label": "Hex Maniac Kindra",
     "kind": "trainer",
     "location": "route123",
@@ -12337,6 +12919,7 @@
   },
   {
     "slug": "collector-ed",
+    "trainer": "collector-ed",
     "label": "Collector Ed",
     "kind": "trainer",
     "location": "route123",
@@ -12356,6 +12939,7 @@
   },
   {
     "slug": "cool-trainer-wendy",
+    "trainer": "cool-trainer-wendy",
     "label": "Cool Trainer Wendy",
     "kind": "trainer",
     "location": "route123",
@@ -12380,6 +12964,7 @@
   },
   {
     "slug": "cool-trainer-braxton",
+    "trainer": "cool-trainer-braxton",
     "label": "Cool Trainer Braxton",
     "kind": "trainer",
     "location": "route123",
@@ -12414,6 +12999,7 @@
   },
   {
     "slug": "guitarist-fernando",
+    "trainer": "guitarist-fernando",
     "label": "Guitarist Fernando",
     "kind": "trainer",
     "location": "route123",
@@ -12432,7 +13018,8 @@
     ]
   },
   {
-    "slug": "guitarist-fernando",
+    "slug": "guitarist-fernando-2",
+    "trainer": "guitarist-fernando",
     "label": "Guitarist Fernando",
     "kind": "trainer",
     "location": "route123",
@@ -12456,7 +13043,8 @@
     ]
   },
   {
-    "slug": "guitarist-fernando",
+    "slug": "guitarist-fernando-3",
+    "trainer": "guitarist-fernando",
     "label": "Guitarist Fernando",
     "kind": "trainer",
     "location": "route123",
@@ -12480,7 +13068,8 @@
     ]
   },
   {
-    "slug": "guitarist-fernando",
+    "slug": "guitarist-fernando-4",
+    "trainer": "guitarist-fernando",
     "label": "Guitarist Fernando",
     "kind": "trainer",
     "location": "route123",
@@ -12504,7 +13093,8 @@
     ]
   },
   {
-    "slug": "guitarist-fernando",
+    "slug": "guitarist-fernando-5",
+    "trainer": "guitarist-fernando",
     "label": "Guitarist Fernando",
     "kind": "trainer",
     "location": "route123",
@@ -12529,6 +13119,7 @@
   },
   {
     "slug": "bird-keeper-alberto",
+    "trainer": "bird-keeper-alberto",
     "label": "Bird Keeper Alberto",
     "kind": "trainer",
     "location": "route123",
@@ -12548,6 +13139,7 @@
   },
   {
     "slug": "psychic-jacki",
+    "trainer": "psychic-jacki",
     "label": "Psychic Jacki",
     "kind": "trainer",
     "location": "route123",
@@ -12566,7 +13158,8 @@
     ]
   },
   {
-    "slug": "psychic-jacki",
+    "slug": "psychic-jacki-2",
+    "trainer": "psychic-jacki",
     "label": "Psychic Jacki",
     "kind": "trainer",
     "location": "route123",
@@ -12585,7 +13178,8 @@
     ]
   },
   {
-    "slug": "psychic-jacki",
+    "slug": "psychic-jacki-3",
+    "trainer": "psychic-jacki",
     "label": "Psychic Jacki",
     "kind": "trainer",
     "location": "route123",
@@ -12604,7 +13198,8 @@
     ]
   },
   {
-    "slug": "psychic-jacki",
+    "slug": "psychic-jacki-4",
+    "trainer": "psychic-jacki",
     "label": "Psychic Jacki",
     "kind": "trainer",
     "location": "route123",
@@ -12623,7 +13218,8 @@
     ]
   },
   {
-    "slug": "psychic-jacki",
+    "slug": "psychic-jacki-5",
+    "trainer": "psychic-jacki",
     "label": "Psychic Jacki",
     "kind": "trainer",
     "location": "route123",
@@ -12643,6 +13239,7 @@
   },
   {
     "slug": "expert-fredrick",
+    "trainer": "expert-fredrick",
     "label": "Expert Fredrick",
     "kind": "trainer",
     "location": "route123",
@@ -12662,6 +13259,7 @@
   },
   {
     "slug": "swimmer-grace",
+    "trainer": "swimmer-grace",
     "label": "Swimmer Grace",
     "kind": "trainer",
     "location": "route124",
@@ -12676,6 +13274,7 @@
   },
   {
     "slug": "swimmer-declan",
+    "trainer": "swimmer-declan",
     "label": "Swimmer Declan",
     "kind": "trainer",
     "location": "route124",
@@ -12690,6 +13289,7 @@
   },
   {
     "slug": "swimmer-spencer",
+    "trainer": "swimmer-spencer",
     "label": "Swimmer Spencer",
     "kind": "trainer",
     "location": "route124",
@@ -12709,6 +13309,7 @@
   },
   {
     "slug": "sis-and-bro-lila-and-roy",
+    "trainer": "sis-and-bro-lila-and-roy",
     "label": "Sis and Bro Lila & Roy",
     "kind": "trainer",
     "location": "route124",
@@ -12727,7 +13328,8 @@
     ]
   },
   {
-    "slug": "sis-and-bro-lila-and-roy",
+    "slug": "sis-and-bro-lila-and-roy-2",
+    "trainer": "sis-and-bro-lila-and-roy",
     "label": "Sis and Bro Lila & Roy",
     "kind": "trainer",
     "location": "route124",
@@ -12746,7 +13348,8 @@
     ]
   },
   {
-    "slug": "sis-and-bro-lila-and-roy",
+    "slug": "sis-and-bro-lila-and-roy-3",
+    "trainer": "sis-and-bro-lila-and-roy",
     "label": "Sis and Bro Lila & Roy",
     "kind": "trainer",
     "location": "route124",
@@ -12765,7 +13368,8 @@
     ]
   },
   {
-    "slug": "sis-and-bro-lila-and-roy",
+    "slug": "sis-and-bro-lila-and-roy-4",
+    "trainer": "sis-and-bro-lila-and-roy",
     "label": "Sis and Bro Lila & Roy",
     "kind": "trainer",
     "location": "route124",
@@ -12784,7 +13388,8 @@
     ]
   },
   {
-    "slug": "sis-and-bro-lila-and-roy",
+    "slug": "sis-and-bro-lila-and-roy-5",
+    "trainer": "sis-and-bro-lila-and-roy",
     "label": "Sis and Bro Lila & Roy",
     "kind": "trainer",
     "location": "route124",
@@ -12804,6 +13409,7 @@
   },
   {
     "slug": "swimmer-jenny",
+    "trainer": "swimmer-jenny",
     "label": "Swimmer Jenny",
     "kind": "trainer",
     "location": "route124",
@@ -12817,7 +13423,8 @@
     ]
   },
   {
-    "slug": "swimmer-jenny",
+    "slug": "swimmer-jenny-2",
+    "trainer": "swimmer-jenny",
     "label": "Swimmer Jenny",
     "kind": "trainer",
     "location": "route124",
@@ -12831,7 +13438,8 @@
     ]
   },
   {
-    "slug": "swimmer-jenny",
+    "slug": "swimmer-jenny-3",
+    "trainer": "swimmer-jenny",
     "label": "Swimmer Jenny",
     "kind": "trainer",
     "location": "route124",
@@ -12845,7 +13453,8 @@
     ]
   },
   {
-    "slug": "swimmer-jenny",
+    "slug": "swimmer-jenny-4",
+    "trainer": "swimmer-jenny",
     "label": "Swimmer Jenny",
     "kind": "trainer",
     "location": "route124",
@@ -12864,7 +13473,8 @@
     ]
   },
   {
-    "slug": "swimmer-jenny",
+    "slug": "swimmer-jenny-5",
+    "trainer": "swimmer-jenny",
     "label": "Swimmer Jenny",
     "kind": "trainer",
     "location": "route124",
@@ -12889,6 +13499,7 @@
   },
   {
     "slug": "swimmer-chad",
+    "trainer": "swimmer-chad",
     "label": "Swimmer Chad",
     "kind": "trainer",
     "location": "route124",
@@ -12908,6 +13519,7 @@
   },
   {
     "slug": "triathlete-isabella",
+    "trainer": "triathlete-isabella",
     "label": "Triathlete Isabella",
     "kind": "trainer",
     "location": "route124",
@@ -12922,6 +13534,7 @@
   },
   {
     "slug": "swimmer-roland",
+    "trainer": "swimmer-roland",
     "label": "Swimmer Roland",
     "kind": "trainer",
     "location": "route124",
@@ -12936,6 +13549,7 @@
   },
   {
     "slug": "sailor-ernest",
+    "trainer": "sailor-ernest",
     "label": "Sailor Ernest",
     "kind": "trainer",
     "location": "route125",
@@ -12954,7 +13568,8 @@
     ]
   },
   {
-    "slug": "sailor-ernest",
+    "slug": "sailor-ernest-2",
+    "trainer": "sailor-ernest",
     "label": "Sailor Ernest",
     "kind": "trainer",
     "location": "route125",
@@ -12978,7 +13593,8 @@
     ]
   },
   {
-    "slug": "sailor-ernest",
+    "slug": "sailor-ernest-3",
+    "trainer": "sailor-ernest",
     "label": "Sailor Ernest",
     "kind": "trainer",
     "location": "route125",
@@ -13002,7 +13618,8 @@
     ]
   },
   {
-    "slug": "sailor-ernest",
+    "slug": "sailor-ernest-4",
+    "trainer": "sailor-ernest",
     "label": "Sailor Ernest",
     "kind": "trainer",
     "location": "route125",
@@ -13026,7 +13643,8 @@
     ]
   },
   {
-    "slug": "sailor-ernest",
+    "slug": "sailor-ernest-5",
+    "trainer": "sailor-ernest",
     "label": "Sailor Ernest",
     "kind": "trainer",
     "location": "route125",
@@ -13051,6 +13669,7 @@
   },
   {
     "slug": "swimmer-sharon",
+    "trainer": "swimmer-sharon",
     "label": "Swimmer Sharon",
     "kind": "trainer",
     "location": "route125",
@@ -13065,6 +13684,7 @@
   },
   {
     "slug": "swimmer-tanya",
+    "trainer": "swimmer-tanya",
     "label": "Swimmer Tanya",
     "kind": "trainer",
     "location": "route125",
@@ -13079,6 +13699,7 @@
   },
   {
     "slug": "bird-keeper-presley",
+    "trainer": "bird-keeper-presley",
     "label": "Bird Keeper Presley",
     "kind": "trainer",
     "location": "route125",
@@ -13098,6 +13719,7 @@
   },
   {
     "slug": "expert-auron",
+    "trainer": "expert-auron",
     "label": "Expert Auron",
     "kind": "trainer",
     "location": "route125",
@@ -13117,6 +13739,7 @@
   },
   {
     "slug": "sr-and-jr-kim-and-iris",
+    "trainer": "sr-and-jr-kim-and-iris",
     "label": "Sr. And Jr. Kim & Iris",
     "kind": "trainer",
     "location": "route125",
@@ -13136,6 +13759,7 @@
   },
   {
     "slug": "swimmer-nolen",
+    "trainer": "swimmer-nolen",
     "label": "Swimmer Nolen",
     "kind": "trainer",
     "location": "route125",
@@ -13150,6 +13774,7 @@
   },
   {
     "slug": "triathlete-isobel",
+    "trainer": "triathlete-isobel",
     "label": "Triathlete Isobel",
     "kind": "trainer",
     "location": "route126",
@@ -13164,6 +13789,7 @@
   },
   {
     "slug": "swimmer-leonardo",
+    "trainer": "swimmer-leonardo",
     "label": "Swimmer Leonardo",
     "kind": "trainer",
     "location": "route126",
@@ -13178,6 +13804,7 @@
   },
   {
     "slug": "swimmer-nikki",
+    "trainer": "swimmer-nikki",
     "label": "Swimmer Nikki",
     "kind": "trainer",
     "location": "route126",
@@ -13197,6 +13824,7 @@
   },
   {
     "slug": "swimmer-barry",
+    "trainer": "swimmer-barry",
     "label": "Swimmer Barry",
     "kind": "trainer",
     "location": "route126",
@@ -13211,6 +13839,7 @@
   },
   {
     "slug": "swimmer-sienna",
+    "trainer": "swimmer-sienna",
     "label": "Swimmer Sienna",
     "kind": "trainer",
     "location": "route126",
@@ -13230,6 +13859,7 @@
   },
   {
     "slug": "triathlete-pablo",
+    "trainer": "triathlete-pablo",
     "label": "Triathlete Pablo",
     "kind": "trainer",
     "location": "route126",
@@ -13248,7 +13878,8 @@
     ]
   },
   {
-    "slug": "triathlete-pablo",
+    "slug": "triathlete-pablo-2",
+    "trainer": "triathlete-pablo",
     "label": "Triathlete Pablo",
     "kind": "trainer",
     "location": "route126",
@@ -13267,7 +13898,8 @@
     ]
   },
   {
-    "slug": "triathlete-pablo",
+    "slug": "triathlete-pablo-3",
+    "trainer": "triathlete-pablo",
     "label": "Triathlete Pablo",
     "kind": "trainer",
     "location": "route126",
@@ -13291,7 +13923,8 @@
     ]
   },
   {
-    "slug": "triathlete-pablo",
+    "slug": "triathlete-pablo-4",
+    "trainer": "triathlete-pablo",
     "label": "Triathlete Pablo",
     "kind": "trainer",
     "location": "route126",
@@ -13315,7 +13948,8 @@
     ]
   },
   {
-    "slug": "triathlete-pablo",
+    "slug": "triathlete-pablo-5",
+    "trainer": "triathlete-pablo",
     "label": "Triathlete Pablo",
     "kind": "trainer",
     "location": "route126",
@@ -13340,6 +13974,7 @@
   },
   {
     "slug": "bird-keeper-aiden",
+    "trainer": "bird-keeper-aiden",
     "label": "Bird Keeper Aiden",
     "kind": "trainer",
     "location": "route127",
@@ -13354,6 +13989,7 @@
   },
   {
     "slug": "cool-trainer-athena",
+    "trainer": "cool-trainer-athena",
     "label": "Cool Trainer Athena",
     "kind": "trainer",
     "location": "route127",
@@ -13373,6 +14009,7 @@
   },
   {
     "slug": "fisherman-roger",
+    "trainer": "fisherman-roger",
     "label": "Fisherman Roger",
     "kind": "trainer",
     "location": "route127",
@@ -13397,6 +14034,7 @@
   },
   {
     "slug": "fisherman-jonah",
+    "trainer": "fisherman-jonah",
     "label": "Fisherman Jonah",
     "kind": "trainer",
     "location": "route127",
@@ -13421,6 +14059,7 @@
   },
   {
     "slug": "fisherman-henry",
+    "trainer": "fisherman-henry",
     "label": "Fisherman Henry",
     "kind": "trainer",
     "location": "route127",
@@ -13440,6 +14079,7 @@
   },
   {
     "slug": "triathlete-camden",
+    "trainer": "triathlete-camden",
     "label": "Triathlete Camden",
     "kind": "trainer",
     "location": "route127",
@@ -13459,6 +14099,7 @@
   },
   {
     "slug": "black-belt-koji",
+    "trainer": "black-belt-koji",
     "label": "Black Belt Koji",
     "kind": "trainer",
     "location": "route127",
@@ -13472,7 +14113,8 @@
     ]
   },
   {
-    "slug": "black-belt-koji",
+    "slug": "black-belt-koji-2",
+    "trainer": "black-belt-koji",
     "label": "Black Belt Koji",
     "kind": "trainer",
     "location": "route127",
@@ -13491,7 +14133,8 @@
     ]
   },
   {
-    "slug": "black-belt-koji",
+    "slug": "black-belt-koji-3",
+    "trainer": "black-belt-koji",
     "label": "Black Belt Koji",
     "kind": "trainer",
     "location": "route127",
@@ -13515,7 +14158,8 @@
     ]
   },
   {
-    "slug": "black-belt-koji",
+    "slug": "black-belt-koji-4",
+    "trainer": "black-belt-koji",
     "label": "Black Belt Koji",
     "kind": "trainer",
     "location": "route127",
@@ -13539,7 +14183,8 @@
     ]
   },
   {
-    "slug": "black-belt-koji",
+    "slug": "black-belt-koji-5",
+    "trainer": "black-belt-koji",
     "label": "Black Belt Koji",
     "kind": "trainer",
     "location": "route127",
@@ -13564,6 +14209,7 @@
   },
   {
     "slug": "triathlete-donny",
+    "trainer": "triathlete-donny",
     "label": "Triathlete Donny",
     "kind": "trainer",
     "location": "route127",
@@ -13583,6 +14229,7 @@
   },
   {
     "slug": "triathlete-isaiah",
+    "trainer": "triathlete-isaiah",
     "label": "Triathlete Isaiah",
     "kind": "trainer",
     "location": "route128",
@@ -13596,7 +14243,8 @@
     ]
   },
   {
-    "slug": "triathlete-isaiah",
+    "slug": "triathlete-isaiah-2",
+    "trainer": "triathlete-isaiah",
     "label": "Triathlete Isaiah",
     "kind": "trainer",
     "location": "route128",
@@ -13610,7 +14258,8 @@
     ]
   },
   {
-    "slug": "triathlete-isaiah",
+    "slug": "triathlete-isaiah-3",
+    "trainer": "triathlete-isaiah",
     "label": "Triathlete Isaiah",
     "kind": "trainer",
     "location": "route128",
@@ -13624,7 +14273,8 @@
     ]
   },
   {
-    "slug": "triathlete-isaiah",
+    "slug": "triathlete-isaiah-4",
+    "trainer": "triathlete-isaiah",
     "label": "Triathlete Isaiah",
     "kind": "trainer",
     "location": "route128",
@@ -13638,7 +14288,8 @@
     ]
   },
   {
-    "slug": "triathlete-isaiah",
+    "slug": "triathlete-isaiah-5",
+    "trainer": "triathlete-isaiah",
     "label": "Triathlete Isaiah",
     "kind": "trainer",
     "location": "route128",
@@ -13653,6 +14304,7 @@
   },
   {
     "slug": "cool-trainer-alexa",
+    "trainer": "cool-trainer-alexa",
     "label": "Cool Trainer Alexa",
     "kind": "trainer",
     "location": "route128",
@@ -13672,6 +14324,7 @@
   },
   {
     "slug": "cool-trainer-ruben",
+    "trainer": "cool-trainer-ruben",
     "label": "Cool Trainer Ruben",
     "kind": "trainer",
     "location": "route128",
@@ -13691,6 +14344,7 @@
   },
   {
     "slug": "fisherman-wayne",
+    "trainer": "fisherman-wayne",
     "label": "Fisherman Wayne",
     "kind": "trainer",
     "location": "route128",
@@ -13715,6 +14369,7 @@
   },
   {
     "slug": "triathlete-katelyn",
+    "trainer": "triathlete-katelyn",
     "label": "Triathlete Katelyn",
     "kind": "trainer",
     "location": "route128",
@@ -13728,7 +14383,8 @@
     ]
   },
   {
-    "slug": "triathlete-katelyn",
+    "slug": "triathlete-katelyn-2",
+    "trainer": "triathlete-katelyn",
     "label": "Triathlete Katelyn",
     "kind": "trainer",
     "location": "route128",
@@ -13742,7 +14398,8 @@
     ]
   },
   {
-    "slug": "triathlete-katelyn",
+    "slug": "triathlete-katelyn-3",
+    "trainer": "triathlete-katelyn",
     "label": "Triathlete Katelyn",
     "kind": "trainer",
     "location": "route128",
@@ -13756,7 +14413,8 @@
     ]
   },
   {
-    "slug": "triathlete-katelyn",
+    "slug": "triathlete-katelyn-4",
+    "trainer": "triathlete-katelyn",
     "label": "Triathlete Katelyn",
     "kind": "trainer",
     "location": "route128",
@@ -13770,7 +14428,8 @@
     ]
   },
   {
-    "slug": "triathlete-katelyn",
+    "slug": "triathlete-katelyn-5",
+    "trainer": "triathlete-katelyn",
     "label": "Triathlete Katelyn",
     "kind": "trainer",
     "location": "route128",
@@ -13785,6 +14444,7 @@
   },
   {
     "slug": "swimmer-carlee",
+    "trainer": "swimmer-carlee",
     "label": "Swimmer Carlee",
     "kind": "trainer",
     "location": "route128",
@@ -13799,6 +14459,7 @@
   },
   {
     "slug": "swimmer-harrison",
+    "trainer": "swimmer-harrison",
     "label": "Swimmer Harrison",
     "kind": "trainer",
     "location": "route128",
@@ -13813,6 +14474,7 @@
   },
   {
     "slug": "swimmer-reed",
+    "trainer": "swimmer-reed",
     "label": "Swimmer Reed",
     "kind": "trainer",
     "location": "route129",
@@ -13832,6 +14494,7 @@
   },
   {
     "slug": "triathlete-chase",
+    "trainer": "triathlete-chase",
     "label": "Triathlete Chase",
     "kind": "trainer",
     "location": "route129",
@@ -13851,6 +14514,7 @@
   },
   {
     "slug": "triathlete-allison",
+    "trainer": "triathlete-allison",
     "label": "Triathlete Allison",
     "kind": "trainer",
     "location": "route129",
@@ -13870,6 +14534,7 @@
   },
   {
     "slug": "swimmer-tisha",
+    "trainer": "swimmer-tisha",
     "label": "Swimmer Tisha",
     "kind": "trainer",
     "location": "route129",
@@ -13884,6 +14549,7 @@
   },
   {
     "slug": "swimmer-clarence",
+    "trainer": "swimmer-clarence",
     "label": "Swimmer Clarence",
     "kind": "trainer",
     "location": "route129",
@@ -13898,6 +14564,7 @@
   },
   {
     "slug": "swimmer-rodney",
+    "trainer": "swimmer-rodney",
     "label": "Swimmer Rodney",
     "kind": "trainer",
     "location": "route130",
@@ -13912,6 +14579,7 @@
   },
   {
     "slug": "swimmer-katie",
+    "trainer": "swimmer-katie",
     "label": "Swimmer Katie",
     "kind": "trainer",
     "location": "route130",
@@ -13931,6 +14599,7 @@
   },
   {
     "slug": "swimmer-santiago",
+    "trainer": "swimmer-santiago",
     "label": "Swimmer Santiago",
     "kind": "trainer",
     "location": "route130",
@@ -13950,6 +14619,7 @@
   },
   {
     "slug": "swimmer-kevin",
+    "trainer": "swimmer-kevin",
     "label": "Swimmer Kevin",
     "kind": "trainer",
     "location": "route131",
@@ -13964,6 +14634,7 @@
   },
   {
     "slug": "triathlete-taila",
+    "trainer": "triathlete-taila",
     "label": "Triathlete Taila",
     "kind": "trainer",
     "location": "route131",
@@ -13978,6 +14649,7 @@
   },
   {
     "slug": "swimmer-richard",
+    "trainer": "swimmer-richard",
     "label": "Swimmer Richard",
     "kind": "trainer",
     "location": "route131",
@@ -13992,6 +14664,7 @@
   },
   {
     "slug": "swimmer-kara",
+    "trainer": "swimmer-kara",
     "label": "Swimmer Kara",
     "kind": "trainer",
     "location": "route131",
@@ -14006,6 +14679,7 @@
   },
   {
     "slug": "swimmer-susie",
+    "trainer": "swimmer-susie",
     "label": "Swimmer Susie",
     "kind": "trainer",
     "location": "route131",
@@ -14020,6 +14694,7 @@
   },
   {
     "slug": "swimmer-herman",
+    "trainer": "swimmer-herman",
     "label": "Swimmer Herman",
     "kind": "trainer",
     "location": "route131",
@@ -14039,6 +14714,7 @@
   },
   {
     "slug": "sis-and-bro-reli-and-ian",
+    "trainer": "sis-and-bro-reli-and-ian",
     "label": "Sis and Bro Reli & Ian",
     "kind": "trainer",
     "location": "route131",
@@ -14058,6 +14734,7 @@
   },
   {
     "slug": "swimmer-gilbert",
+    "trainer": "swimmer-gilbert",
     "label": "Swimmer Gilbert",
     "kind": "trainer",
     "location": "route132",
@@ -14072,6 +14749,7 @@
   },
   {
     "slug": "swimmer-dana",
+    "trainer": "swimmer-dana",
     "label": "Swimmer Dana",
     "kind": "trainer",
     "location": "route132",
@@ -14086,6 +14764,7 @@
   },
   {
     "slug": "swimmer-linda",
+    "trainer": "swimmer-linda",
     "label": "Swimmer Linda",
     "kind": "trainer",
     "location": "route132",
@@ -14105,6 +14784,7 @@
   },
   {
     "slug": "fisherman-ronald",
+    "trainer": "fisherman-ronald",
     "label": "Fisherman Ronald",
     "kind": "trainer",
     "location": "route132",
@@ -14144,6 +14824,7 @@
   },
   {
     "slug": "expert-paxton",
+    "trainer": "expert-paxton",
     "label": "Expert Paxton",
     "kind": "trainer",
     "location": "route132",
@@ -14163,6 +14844,7 @@
   },
   {
     "slug": "cool-trainer-darcy",
+    "trainer": "cool-trainer-darcy",
     "label": "Cool Trainer Darcy",
     "kind": "trainer",
     "location": "route132",
@@ -14182,6 +14864,7 @@
   },
   {
     "slug": "expert-makayla",
+    "trainer": "expert-makayla",
     "label": "Expert Makayla",
     "kind": "trainer",
     "location": "route132",
@@ -14201,6 +14884,7 @@
   },
   {
     "slug": "cool-trainer-jonathan",
+    "trainer": "cool-trainer-jonathan",
     "label": "Cool Trainer Jonathan",
     "kind": "trainer",
     "location": "route132",
@@ -14220,6 +14904,7 @@
   },
   {
     "slug": "black-belt-kiyo",
+    "trainer": "black-belt-kiyo",
     "label": "Black Belt Kiyo",
     "kind": "trainer",
     "location": "route132",
@@ -14234,6 +14919,7 @@
   },
   {
     "slug": "cool-trainer-warren",
+    "trainer": "cool-trainer-warren",
     "label": "Cool Trainer Warren",
     "kind": "trainer",
     "location": "route133",
@@ -14253,6 +14939,7 @@
   },
   {
     "slug": "swimmer-debra",
+    "trainer": "swimmer-debra",
     "label": "Swimmer Debra",
     "kind": "trainer",
     "location": "route133",
@@ -14267,6 +14954,7 @@
   },
   {
     "slug": "swimmer-franklin",
+    "trainer": "swimmer-franklin",
     "label": "Swimmer Franklin",
     "kind": "trainer",
     "location": "route133",
@@ -14281,6 +14969,7 @@
   },
   {
     "slug": "expert-conor",
+    "trainer": "expert-conor",
     "label": "Expert Conor",
     "kind": "trainer",
     "location": "route133",
@@ -14300,6 +14989,7 @@
   },
   {
     "slug": "expert-mollie",
+    "trainer": "expert-mollie",
     "label": "Expert Mollie",
     "kind": "trainer",
     "location": "route133",
@@ -14319,6 +15009,7 @@
   },
   {
     "slug": "bird-keeper-beck",
+    "trainer": "bird-keeper-beck",
     "label": "Bird Keeper Beck",
     "kind": "trainer",
     "location": "route133",
@@ -14333,6 +15024,7 @@
   },
   {
     "slug": "dragon-tamer-aaron",
+    "trainer": "dragon-tamer-aaron",
     "label": "Dragon Tamer Aaron",
     "kind": "trainer",
     "location": "route134",
@@ -14347,6 +15039,7 @@
   },
   {
     "slug": "cool-trainer-marley",
+    "trainer": "cool-trainer-marley",
     "label": "Cool Trainer Marley",
     "kind": "trainer",
     "location": "route134",
@@ -14361,6 +15054,7 @@
   },
   {
     "slug": "sailor-kelvin",
+    "trainer": "sailor-kelvin",
     "label": "Sailor Kelvin",
     "kind": "trainer",
     "location": "route134",
@@ -14380,6 +15074,7 @@
   },
   {
     "slug": "bird-keeper-alex",
+    "trainer": "bird-keeper-alex",
     "label": "Bird Keeper Alex",
     "kind": "trainer",
     "location": "route134",
@@ -14399,6 +15094,7 @@
   },
   {
     "slug": "swimmer-laurel",
+    "trainer": "swimmer-laurel",
     "label": "Swimmer Laurel",
     "kind": "trainer",
     "location": "route134",
@@ -14418,6 +15114,7 @@
   },
   {
     "slug": "swimmer-jack",
+    "trainer": "swimmer-jack",
     "label": "Swimmer Jack",
     "kind": "trainer",
     "location": "route134",
@@ -14432,6 +15129,7 @@
   },
   {
     "slug": "black-belt-hitoshi",
+    "trainer": "black-belt-hitoshi",
     "label": "Black Belt Hitoshi",
     "kind": "trainer",
     "location": "route134",
@@ -14451,6 +15149,7 @@
   },
   {
     "slug": "battle-girl-reyna",
+    "trainer": "battle-girl-reyna",
     "label": "Battle Girl Reyna",
     "kind": "trainer",
     "location": "route134",
@@ -14470,6 +15169,7 @@
   },
   {
     "slug": "young-couple-lea-and-jad",
+    "trainer": "young-couple-lea-and-jad",
     "label": "Young Couple Lea & Jad",
     "kind": "trainer",
     "location": "sstidal",
@@ -14489,6 +15189,7 @@
   },
   {
     "slug": "rich-boy-garret",
+    "trainer": "rich-boy-garret",
     "label": "Rich Boy Garret",
     "kind": "trainer",
     "location": "sstidal",
@@ -14503,6 +15204,7 @@
   },
   {
     "slug": "gentleman-micah",
+    "trainer": "gentleman-micah",
     "label": "Gentleman Micah",
     "kind": "trainer",
     "location": "sstidal",
@@ -14522,6 +15224,7 @@
   },
   {
     "slug": "pok-fan-colton",
+    "trainer": "pok-fan-colton",
     "label": "PokéFan Colton",
     "kind": "trainer",
     "location": "sstidal",
@@ -14561,6 +15264,7 @@
   },
   {
     "slug": "lady-naomi",
+    "trainer": "lady-naomi",
     "label": "Lady Naomi",
     "kind": "trainer",
     "location": "sstidal",
@@ -14575,6 +15279,7 @@
   },
   {
     "slug": "gentleman-thomas",
+    "trainer": "gentleman-thomas",
     "label": "Gentleman Thomas",
     "kind": "trainer",
     "location": "sstidal",
@@ -14589,6 +15294,7 @@
   },
   {
     "slug": "sailor-phillip",
+    "trainer": "sailor-phillip",
     "label": "Sailor Phillip",
     "kind": "trainer",
     "location": "sstidal",
@@ -14608,6 +15314,7 @@
   },
   {
     "slug": "sailor-leonard",
+    "trainer": "sailor-leonard",
     "label": "Sailor Leonard",
     "kind": "trainer",
     "location": "sstidal",
@@ -14631,7 +15338,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-7",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "rusturftunnel",
@@ -14647,6 +15355,7 @@
   },
   {
     "slug": "hiker-mike",
+    "trainer": "hiker-mike",
     "label": "Hiker Mike",
     "kind": "trainer",
     "location": "rusturftunnel",
@@ -14670,7 +15379,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-8",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14684,7 +15394,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-9",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14698,7 +15409,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-10",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14717,7 +15429,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-11",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14736,7 +15449,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-12",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14750,7 +15464,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-13",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14765,6 +15480,7 @@
   },
   {
     "slug": "aqua-admin-matt",
+    "trainer": "aqua-admin-matt",
     "label": "Aqua Admin Matt",
     "kind": "villain",
     "location": "aquahideout",
@@ -14783,7 +15499,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-wally",
+    "slug": "pok-mon-trainer-wally-2",
+    "trainer": "pok-mon-trainer-wally",
     "label": "Pokémon Trainer Wally",
     "kind": "rival",
     "location": "victoryroad",
@@ -14817,7 +15534,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-wally",
+    "slug": "pok-mon-trainer-wally-3",
+    "trainer": "pok-mon-trainer-wally",
     "label": "Pokémon Trainer Wally",
     "kind": "rival",
     "location": "victoryroad",
@@ -14851,7 +15569,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-wally",
+    "slug": "pok-mon-trainer-wally-4",
+    "trainer": "pok-mon-trainer-wally",
     "label": "Pokémon Trainer Wally",
     "kind": "rival",
     "location": "victoryroad",
@@ -14885,7 +15604,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-wally",
+    "slug": "pok-mon-trainer-wally-5",
+    "trainer": "pok-mon-trainer-wally",
     "label": "Pokémon Trainer Wally",
     "kind": "rival",
     "location": "victoryroad",
@@ -14919,7 +15639,8 @@
     ]
   },
   {
-    "slug": "pok-mon-trainer-wally",
+    "slug": "pok-mon-trainer-wally-6",
+    "trainer": "pok-mon-trainer-wally",
     "label": "Pokémon Trainer Wally",
     "kind": "rival",
     "location": "victoryroad",
@@ -14954,6 +15675,7 @@
   },
   {
     "slug": "cool-trainer-hope",
+    "trainer": "cool-trainer-hope",
     "label": "Cool Trainer Hope",
     "kind": "trainer",
     "location": "victoryroad",
@@ -14968,6 +15690,7 @@
   },
   {
     "slug": "cool-trainer-albert",
+    "trainer": "cool-trainer-albert",
     "label": "Cool Trainer Albert",
     "kind": "trainer",
     "location": "victoryroad",
@@ -14987,6 +15710,7 @@
   },
   {
     "slug": "cool-trainer-edgar",
+    "trainer": "cool-trainer-edgar",
     "label": "Cool Trainer Edgar",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15006,6 +15730,7 @@
   },
   {
     "slug": "cool-trainer-katelynn",
+    "trainer": "cool-trainer-katelynn",
     "label": "Cool Trainer Katelynn",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15025,6 +15750,7 @@
   },
   {
     "slug": "cool-trainer-quincy",
+    "trainer": "cool-trainer-quincy",
     "label": "Cool Trainer Quincy",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15044,6 +15770,7 @@
   },
   {
     "slug": "cool-trainer-shannon",
+    "trainer": "cool-trainer-shannon",
     "label": "Cool Trainer Shannon",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15058,6 +15785,7 @@
   },
   {
     "slug": "cool-trainer-samuel",
+    "trainer": "cool-trainer-samuel",
     "label": "Cool Trainer Samuel",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15082,6 +15810,7 @@
   },
   {
     "slug": "cool-trainer-julie",
+    "trainer": "cool-trainer-julie",
     "label": "Cool Trainer Julie",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15106,6 +15835,7 @@
   },
   {
     "slug": "cool-trainer-owen",
+    "trainer": "cool-trainer-owen",
     "label": "Cool Trainer Owen",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15130,6 +15860,7 @@
   },
   {
     "slug": "cool-trainer-vito",
+    "trainer": "cool-trainer-vito",
     "label": "Cool Trainer Vito",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15159,6 +15890,7 @@
   },
   {
     "slug": "cool-trainer-diane",
+    "trainer": "cool-trainer-diane",
     "label": "Cool Trainer Diane",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15178,6 +15910,7 @@
   },
   {
     "slug": "cool-trainer-felix",
+    "trainer": "cool-trainer-felix",
     "label": "Cool Trainer Felix",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15197,6 +15930,7 @@
   },
   {
     "slug": "cool-trainer-caroline",
+    "trainer": "cool-trainer-caroline",
     "label": "Cool Trainer Caroline",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15216,6 +15950,7 @@
   },
   {
     "slug": "cool-trainer-michelle",
+    "trainer": "cool-trainer-michelle",
     "label": "Cool Trainer Michelle",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15240,6 +15975,7 @@
   },
   {
     "slug": "cool-trainer-mitchell",
+    "trainer": "cool-trainer-mitchell",
     "label": "Cool Trainer Mitchell",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15259,6 +15995,7 @@
   },
   {
     "slug": "cool-trainer-halle",
+    "trainer": "cool-trainer-halle",
     "label": "Cool Trainer Halle",
     "kind": "trainer",
     "location": "victoryroad",
@@ -15278,6 +16015,7 @@
   },
   {
     "slug": "bug-catcher-lyle",
+    "trainer": "bug-catcher-lyle",
     "label": "Bug Catcher Lyle",
     "kind": "trainer",
     "location": "petalburgwoods",
@@ -15306,7 +16044,8 @@
     ]
   },
   {
-    "slug": "team-aqua-grunt",
+    "slug": "team-aqua-grunt-14",
+    "trainer": "team-aqua-grunt",
     "label": "Team Aqua Grunt",
     "kind": "villain",
     "location": "petalburgwoods",
@@ -15321,6 +16060,7 @@
   },
   {
     "slug": "bug-catcher-james",
+    "trainer": "bug-catcher-james",
     "label": "Bug Catcher James",
     "kind": "trainer",
     "location": "petalburgwoods",
@@ -15339,7 +16079,8 @@
     ]
   },
   {
-    "slug": "bug-catcher-james",
+    "slug": "bug-catcher-james-2",
+    "trainer": "bug-catcher-james",
     "label": "Bug Catcher James",
     "kind": "trainer",
     "location": "petalburgwoods",
@@ -15353,7 +16094,8 @@
     ]
   },
   {
-    "slug": "bug-catcher-james",
+    "slug": "bug-catcher-james-3",
+    "trainer": "bug-catcher-james",
     "label": "Bug Catcher James",
     "kind": "trainer",
     "location": "petalburgwoods",
@@ -15372,7 +16114,8 @@
     ]
   },
   {
-    "slug": "bug-catcher-james",
+    "slug": "bug-catcher-james-4",
+    "trainer": "bug-catcher-james",
     "label": "Bug Catcher James",
     "kind": "trainer",
     "location": "petalburgwoods",
@@ -15396,7 +16139,8 @@
     ]
   },
   {
-    "slug": "bug-catcher-james",
+    "slug": "bug-catcher-james-5",
+    "trainer": "bug-catcher-james",
     "label": "Bug Catcher James",
     "kind": "trainer",
     "location": "petalburgwoods",
@@ -15426,6 +16170,7 @@
   },
   {
     "slug": "hiker-eric",
+    "trainer": "hiker-eric",
     "label": "Hiker Eric",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15444,7 +16189,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-7",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "jaggedpass",
@@ -15464,6 +16210,7 @@
   },
   {
     "slug": "picknicker-diana",
+    "trainer": "picknicker-diana",
     "label": "Picknicker Diana",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15487,7 +16234,8 @@
     ]
   },
   {
-    "slug": "picknicker-diana",
+    "slug": "picknicker-diana-2",
+    "trainer": "picknicker-diana",
     "label": "Picknicker Diana",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15511,7 +16259,8 @@
     ]
   },
   {
-    "slug": "picknicker-diana",
+    "slug": "picknicker-diana-3",
+    "trainer": "picknicker-diana",
     "label": "Picknicker Diana",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15535,7 +16284,8 @@
     ]
   },
   {
-    "slug": "picknicker-diana",
+    "slug": "picknicker-diana-4",
+    "trainer": "picknicker-diana",
     "label": "Picknicker Diana",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15559,7 +16309,8 @@
     ]
   },
   {
-    "slug": "picknicker-diana",
+    "slug": "picknicker-diana-5",
+    "trainer": "picknicker-diana",
     "label": "Picknicker Diana",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15584,6 +16335,7 @@
   },
   {
     "slug": "triathlete-julio",
+    "trainer": "triathlete-julio",
     "label": "Triathlete Julio",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15598,6 +16350,7 @@
   },
   {
     "slug": "picknicker-autumn",
+    "trainer": "picknicker-autumn",
     "label": "Picknicker Autumn",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15612,6 +16365,7 @@
   },
   {
     "slug": "camper-ethan",
+    "trainer": "camper-ethan",
     "label": "Camper Ethan",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15630,7 +16384,8 @@
     ]
   },
   {
-    "slug": "camper-ethan",
+    "slug": "camper-ethan-2",
+    "trainer": "camper-ethan",
     "label": "Camper Ethan",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15649,7 +16404,8 @@
     ]
   },
   {
-    "slug": "camper-ethan",
+    "slug": "camper-ethan-3",
+    "trainer": "camper-ethan",
     "label": "Camper Ethan",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15668,7 +16424,8 @@
     ]
   },
   {
-    "slug": "camper-ethan",
+    "slug": "camper-ethan-4",
+    "trainer": "camper-ethan",
     "label": "Camper Ethan",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15692,7 +16449,8 @@
     ]
   },
   {
-    "slug": "camper-ethan",
+    "slug": "camper-ethan-5",
+    "trainer": "camper-ethan",
     "label": "Camper Ethan",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15717,6 +16475,7 @@
   },
   {
     "slug": "beauty-shirley",
+    "trainer": "beauty-shirley",
     "label": "Beauty Shirley",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15731,6 +16490,7 @@
   },
   {
     "slug": "beauty-sheila",
+    "trainer": "beauty-sheila",
     "label": "Beauty Sheila",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15745,6 +16505,7 @@
   },
   {
     "slug": "beauty-melissa",
+    "trainer": "beauty-melissa",
     "label": "Beauty Melissa",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15759,6 +16520,7 @@
   },
   {
     "slug": "expert-shelby",
+    "trainer": "expert-shelby",
     "label": "Expert Shelby",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15777,7 +16539,8 @@
     ]
   },
   {
-    "slug": "expert-shelby",
+    "slug": "expert-shelby-2",
+    "trainer": "expert-shelby",
     "label": "Expert Shelby",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15796,7 +16559,8 @@
     ]
   },
   {
-    "slug": "expert-shelby",
+    "slug": "expert-shelby-3",
+    "trainer": "expert-shelby",
     "label": "Expert Shelby",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15815,7 +16579,8 @@
     ]
   },
   {
-    "slug": "expert-shelby",
+    "slug": "expert-shelby-4",
+    "trainer": "expert-shelby",
     "label": "Expert Shelby",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15834,7 +16599,8 @@
     ]
   },
   {
-    "slug": "expert-shelby",
+    "slug": "expert-shelby-5",
+    "trainer": "expert-shelby",
     "label": "Expert Shelby",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15854,6 +16620,7 @@
   },
   {
     "slug": "hiker-sawyer",
+    "trainer": "hiker-sawyer",
     "label": "Hiker Sawyer",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15867,7 +16634,8 @@
     ]
   },
   {
-    "slug": "hiker-sawyer",
+    "slug": "hiker-sawyer-2",
+    "trainer": "hiker-sawyer",
     "label": "Hiker Sawyer",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15886,7 +16654,8 @@
     ]
   },
   {
-    "slug": "hiker-sawyer",
+    "slug": "hiker-sawyer-3",
+    "trainer": "hiker-sawyer",
     "label": "Hiker Sawyer",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15910,7 +16679,8 @@
     ]
   },
   {
-    "slug": "hiker-sawyer",
+    "slug": "hiker-sawyer-4",
+    "trainer": "hiker-sawyer",
     "label": "Hiker Sawyer",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15934,7 +16704,8 @@
     ]
   },
   {
-    "slug": "hiker-sawyer",
+    "slug": "hiker-sawyer-5",
+    "trainer": "hiker-sawyer",
     "label": "Hiker Sawyer",
     "kind": "trainer",
     "location": "jaggedpass",
@@ -15958,7 +16729,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-8",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -15972,7 +16744,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-9",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -15986,7 +16759,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-10",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -16000,7 +16774,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-11",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -16019,7 +16794,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-12",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -16038,7 +16814,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-13",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -16052,7 +16829,8 @@
     ]
   },
   {
-    "slug": "team-magma-grunt",
+    "slug": "team-magma-grunt-14",
+    "trainer": "team-magma-grunt",
     "label": "Team Magma Grunt",
     "kind": "villain",
     "location": "magmahideout",
@@ -16066,7 +16844,8 @@
     ]
   },
   {
-    "slug": "magma-admin-tabitha",
+    "slug": "magma-admin-tabitha-2",
+    "trainer": "magma-admin-tabitha",
     "label": "Magma Admin Tabitha",
     "kind": "villain",
     "location": "magmahideout",
@@ -16095,7 +16874,8 @@
     ]
   },
   {
-    "slug": "magma-leader-maxie",
+    "slug": "magma-leader-maxie-2",
+    "trainer": "magma-leader-maxie",
     "label": "Magma Leader Maxie",
     "kind": "villain",
     "location": "magmahideout",

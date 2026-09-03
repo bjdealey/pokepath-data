@@ -81,11 +81,17 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 - ✅ `items` — **Emerald** findable items per location, from the same pokearth pages
   (item + how obtained: Floor / Itemfinder-hidden / Gift / Berry Tree). 51 locations,
   304 items; item slugs come from Serebii's itemdex links.
-- ✅ `trainers` — **every Emerald trainer in one file** (780), tagged `kind`:
+- ✅ `trainers` — **every Emerald trainer battle in one file** (780), tagged `kind`:
   `gym-leader` / `elite-four` / `champion` (from `/emerald/gym.shtml`+`elite.shtml`,
   **with movesets + held items** and badge/field-move metadata) and `rival` / `villain`
-  / `trainer` (all 700+ route trainers from the pokearth `trainers-em` sections, team +
+  / `trainer` (all 650+ route trainers from the pokearth `trainers-em` sections, team +
   level). Rival keeps its **starter-choice variants**; exact-duplicate tables de-duped.
+  Each row is a distinct battle with a **unique `slug`**; a trainer's rematch tiers /
+  story battles share a `trainer` identity (the canonical gym battle is `roxanne`,
+  rematches `roxanne-2…`), so `?trainer=roxanne` regroups them. Pokearth city pages
+  re-list the gym leaders / E4 / champion as escalating rematch tiers — those are
+  reclassified to their real `kind` and merged onto the gym-page identity (not left
+  mis-tagged `trainer`).
 - ✅ `story` — `{ milestones, locations }`. **milestones** = the fixed 13-step gym →
   Elite Four → Champion spine (order, city, badge, TM, field-move unlock from the gym
   "Method" prose — Stone→Cut, Balance→Surf, …, level cap). **locations** = every

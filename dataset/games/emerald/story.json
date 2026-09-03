@@ -151,6 +151,20 @@
       "via": "encounters"
     },
     {
+      "slug": "dewfordtown",
+      "name": "Dewford Town",
+      "level": 13,
+      "phase": 0,
+      "via": "trainers"
+    },
+    {
+      "slug": "rustborocity",
+      "name": "Rustboro City",
+      "level": 13,
+      "phase": 0,
+      "via": "trainers"
+    },
+    {
       "slug": "slateportcity",
       "name": "Slateport City",
       "level": 14,
@@ -179,6 +193,13 @@
       "via": "trainers"
     },
     {
+      "slug": "mauvillecity",
+      "name": "Mauville City",
+      "level": 17,
+      "phase": 1,
+      "via": "trainers"
+    },
+    {
       "slug": "route114",
       "name": "Route 114",
       "level": 19,
@@ -189,6 +210,13 @@
       "slug": "route110",
       "name": "Route 110",
       "level": 22,
+      "phase": 2,
+      "via": "trainers"
+    },
+    {
+      "slug": "lavaridgetown",
+      "name": "Lavaridge Town",
+      "level": 23,
       "phase": 2,
       "via": "trainers"
     },
@@ -242,6 +270,13 @@
       "via": "encounters"
     },
     {
+      "slug": "petalburgcity",
+      "name": "Petalburg City",
+      "level": 26,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
       "slug": "route107",
       "name": "Route 107",
       "level": 26,
@@ -282,6 +317,13 @@
       "level": 28,
       "phase": 3,
       "via": "encounters"
+    },
+    {
+      "slug": "fortreecity",
+      "name": "Fortree City",
+      "level": 28,
+      "phase": 3,
+      "via": "trainers"
     },
     {
       "slug": "jaggedpass",
@@ -333,6 +375,13 @@
       "via": "trainers"
     },
     {
+      "slug": "evergrandecity",
+      "name": "Evergrande City",
+      "level": 30,
+      "phase": 4,
+      "via": "encounters"
+    },
+    {
       "slug": "pacifidlogtown",
       "name": "Pacifidlog Town",
       "level": 30,
@@ -377,13 +426,6 @@
     {
       "slug": "route123",
       "name": "Route 123",
-      "level": 32,
-      "phase": 5,
-      "via": "trainers"
-    },
-    {
-      "slug": "rustborocity",
-      "name": "Rustboro City",
       "level": 32,
       "phase": 5,
       "via": "trainers"
@@ -480,6 +522,13 @@
       "via": "trainers"
     },
     {
+      "slug": "mossdeepcity",
+      "name": "Mossdeep City",
+      "level": 36,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
       "slug": "route125",
       "name": "Route 125",
       "level": 36,
@@ -494,20 +543,6 @@
       "via": "trainers"
     },
     {
-      "slug": "dewfordtown",
-      "name": "Dewford Town",
-      "level": 38,
-      "phase": 6,
-      "via": "trainers"
-    },
-    {
-      "slug": "mauvillecity",
-      "name": "Mauville City",
-      "level": 38,
-      "phase": 6,
-      "via": "trainers"
-    },
-    {
       "slug": "skypillar",
       "name": "Skypillar",
       "level": 38,
@@ -515,9 +550,9 @@
       "via": "encounters"
     },
     {
-      "slug": "lavaridgetown",
-      "name": "Lavaridge Town",
-      "level": 41,
+      "slug": "sootopoliscity",
+      "name": "Sootopolis City",
+      "level": 39,
       "phase": 6,
       "via": "trainers"
     },
@@ -525,20 +560,6 @@
       "slug": "route124",
       "name": "Route 124",
       "level": 41,
-      "phase": 6,
-      "via": "trainers"
-    },
-    {
-      "slug": "fortreecity",
-      "name": "Fortree City",
-      "level": 42,
-      "phase": 6,
-      "via": "trainers"
-    },
-    {
-      "slug": "mossdeepcity",
-      "name": "Mossdeep City",
-      "level": 42,
       "phase": 6,
       "via": "trainers"
     },
@@ -564,22 +585,8 @@
       "via": "trainers"
     },
     {
-      "slug": "petalburgcity",
-      "name": "Petalburg City",
-      "level": 45,
-      "phase": 7,
-      "via": "trainers"
-    },
-    {
       "slug": "meteorfalls",
       "name": "Meteor Falls",
-      "level": 46,
-      "phase": 7,
-      "via": "trainers"
-    },
-    {
-      "slug": "sootopoliscity",
-      "name": "Sootopolis City",
       "level": 46,
       "phase": 7,
       "via": "trainers"
@@ -597,13 +604,6 @@
       "level": 50,
       "phase": 8,
       "via": "encounters"
-    },
-    {
-      "slug": "evergrandecity",
-      "name": "Evergrande City",
-      "level": 52,
-      "phase": 8,
-      "via": "trainers"
     }
   ]
 }

@@ -42,7 +42,7 @@ export async function scrapeTrainers(refresh = false) {
     const meta = gymMeta[i];
     const slug = trainerSlug(r.name);
     trainers.push({
-      slug, label: r.name, kind: "gym-leader",
+      slug, trainer: slug, label: r.name, kind: "gym-leader",
       location: meta?.location ?? "", locationName: meta?.city ?? meta?.location ?? "",
       order: i + 1, specialty: meta?.specialty, badge: meta?.badge, tmReward: meta?.tmReward, fieldMove: meta?.fieldMove,
       team: r.team,
@@ -60,7 +60,7 @@ export async function scrapeTrainers(refresh = false) {
     const meta = isChamp ? undefined : eliteMeta[i];
     const slug = trainerSlug(r.name);
     trainers.push({
-      slug, label: r.name, kind: isChamp ? "champion" : "elite-four",
+      slug, trainer: slug, label: r.name, kind: isChamp ? "champion" : "elite-four",
       location: "", locationName: "", order: gymRosters.length + i + 1, specialty: meta?.specialty, team: r.team,
     });
     milestones.push({
@@ -79,6 +79,18 @@ export async function scrapeTrainers(refresh = false) {
       seen.add(sig);
       trainers.push(t);
     }
+  }
+
+  // --- Unique slug per battle (a trainer's rematch tiers / story battles share
+  //     `trainer` identity but need distinct `slug`s so none get shadowed by the
+  //     API's by-slug lookup). Gym/elite rows come first, so the marquee battle
+  //     keeps the bare slug and rematches get -2, -3, …
+  // ponytail: suffix order follows scrape order (stable across runs); good enough. ---
+  const slugCount = new Map<string, number>();
+  for (const t of trainers) {
+    const n = (slugCount.get(t.trainer) ?? 0) + 1;
+    slugCount.set(t.trainer, n);
+    t.slug = n > 1 ? `${t.trainer}-${n}` : t.trainer;
   }
 
   // --- Story: infer a location order from levels ---

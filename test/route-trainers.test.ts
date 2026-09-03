@@ -24,3 +24,23 @@ test("regular trainer has a team with levels", () => {
   assert.ok(timmy.team.length > 0);
   assert.ok(timmy.team.every((p) => p.level > 0 && p.pokemon));
 });
+
+test("reclassifies pokearth 'Gym Leader/Champion X' rows to their real kind + merged identity", () => {
+  const html = `
+    <a name="trainers-em"></a>
+    <table class="trainer">
+      <tr><td></td><td><img src="/pokedexbw/sprites/rs/304.png"></td></tr>
+      <tr><td>Gym Leader Roxanne</td><td>Aron</td></tr>
+      <tr><td></td><td>Level 40</td></tr>
+    </table>
+    <table class="trainer">
+      <tr><td></td><td><img src="/pokedexbw/sprites/rs/260.png"></td></tr>
+      <tr><td>Champion Wallace</td><td>Swampert</td></tr>
+      <tr><td></td><td>Level 58</td></tr>
+    </table>`;
+  const [rox, wal] = parseRouteTrainers(html, "rustborocity");
+  assert.equal(rox!.kind, "gym-leader");
+  assert.equal(rox!.trainer, "roxanne"); // honorific stripped → merges with the gym-page Roxanne
+  assert.equal(wal!.kind, "champion");
+  assert.equal(wal!.trainer, "wallace");
+});

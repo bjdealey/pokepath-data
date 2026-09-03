@@ -90,7 +90,8 @@ export interface TrainerPokemon {
  * marquee battles (gym-leader/elite-four/champion, from the gym/elite pages,
  * with movesets) from pokearth route trainers (rival/villain/trainer). */
 export interface Trainer {
-  slug: string;
+  slug: string; // unique per battle (a trainer with N battles gets slug, slug-2, …)
+  trainer: string; // shared identity slug across a trainer's battles (rematches/story tiers regroup on this)
   label: string; // "Roxanne" / "Youngster Timmy" / "Pokémon Trainer Brendan"
   kind: "gym-leader" | "elite-four" | "champion" | "rival" | "villain" | "trainer";
   location: string; // slug
