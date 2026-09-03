@@ -59,6 +59,13 @@
       "method": "Trade"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "ALAKAZAM's brain continually grows, making its head far too heavy to support with its neck. This POKéMON holds its head up using its psychokinetic power instead.",
     "sapphire": "ALAKAZAM's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this POKéMON an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
@@ -273,6 +280,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/065.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.715Z"
+    "scrapedAt": "2026-09-03T20:31:33.180Z"
   }
 }

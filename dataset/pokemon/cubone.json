@@ -53,6 +53,14 @@
       "method": "Level 28"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "poison": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
     "sapphire": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
@@ -259,6 +267,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/104.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.968Z"
+    "scrapedAt": "2026-09-03T20:31:33.445Z"
   }
 }

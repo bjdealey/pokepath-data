@@ -55,6 +55,14 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "The shell covering this POKéMON's body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
     "sapphire": "The shell covering this POKéMON's body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
@@ -88,6 +96,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/011.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.336Z"
+    "scrapedAt": "2026-09-03T20:31:32.800Z"
   }
 }

@@ -50,6 +50,15 @@
       "method": "Level 22"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
     "sapphire": "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This POKéMON feeds on WURMPLE that live in forests.",
@@ -194,6 +203,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/276.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.171Z"
+    "scrapedAt": "2026-09-03T20:31:34.650Z"
   }
 }

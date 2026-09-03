@@ -51,6 +51,15 @@
       "method": "Level 35"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
     "sapphire": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself.",
@@ -215,6 +224,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/333.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.597Z"
+    "scrapedAt": "2026-09-03T20:31:35.055Z"
   }
 }

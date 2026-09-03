@@ -49,6 +49,14 @@
       "method": "Level 37"
     }
   ],
+  "damageTaken": {
+    "normal": 0,
+    "fighting": 0,
+    "poison": 0.5,
+    "bug": 0.5,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "DUSCLOPS's body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This POKéMON will absorb anything into its body, but nothing will ever come back out.",
     "sapphire": "DUSCLOPS absorbs anything, however large the object may be. This POKéMON hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS's bidding.",
@@ -277,6 +285,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/356.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.762Z"
+    "scrapedAt": "2026-09-03T20:31:35.212Z"
   }
 }

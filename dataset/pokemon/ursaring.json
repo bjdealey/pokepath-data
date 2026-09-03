@@ -49,6 +49,10 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
     "sapphire": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
@@ -265,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/217.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.775Z"
+    "scrapedAt": "2026-09-03T20:31:34.207Z"
   }
 }

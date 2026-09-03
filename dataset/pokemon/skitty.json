@@ -50,6 +50,10 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy.",
     "sapphire": "SKITTY is known to chase around playfully after its own tail. In the wild, this POKéMON lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
@@ -250,6 +254,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/300.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.335Z"
+    "scrapedAt": "2026-09-03T20:31:34.821Z"
   }
 }

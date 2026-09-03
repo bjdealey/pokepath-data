@@ -57,6 +57,17 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "electric": 2,
+    "grass": 0.25,
+    "fighting": 0.5,
+    "ground": 0,
+    "bug": 0.25,
+    "rock": 4,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
     "sapphire": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
@@ -277,6 +288,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/006.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.295Z"
+    "scrapedAt": "2026-09-03T20:31:32.762Z"
   }
 }

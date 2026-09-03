@@ -58,6 +58,14 @@ test("evolution chain", () => {
   assert.deepEqual(evoDex, [1, 2, 3]);
 });
 
+test("damage taken (type effectiveness, non-neutral only)", () => {
+  assert.equal(record.damageTaken.fire, 2); // Grass weak to Fire
+  assert.equal(record.damageTaken.grass, 0.25); // Grass/Poison doubly resists Grass
+  assert.equal(record.damageTaken.psychic, 2); // Poison weak to Psychic
+  assert.equal(record.damageTaken.water, 0.5);
+  assert.equal(record.damageTaken.normal, undefined); // neutral omitted
+});
+
 test("evolution edges carry the method", () => {
   assert.deepEqual(evoEdges, [
     { from: 1, to: 2, method: "Level 16" },

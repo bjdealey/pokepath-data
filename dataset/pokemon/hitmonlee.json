@@ -61,6 +61,13 @@
       "method": "Tyrogue20aed"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "HITMONLEE's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
     "sapphire": "HITMONLEE's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
@@ -243,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/106.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.993Z"
+    "scrapedAt": "2026-09-03T20:31:33.459Z"
   }
 }

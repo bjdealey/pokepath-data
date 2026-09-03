@@ -56,6 +56,17 @@
       "method": "Trade"
     }
   ],
+  "damageTaken": {
+    "normal": 0,
+    "grass": 0.5,
+    "fighting": 0,
+    "poison": 0.25,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.25,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
     "sapphire": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
@@ -224,6 +235,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/092.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.892Z"
+    "scrapedAt": "2026-09-03T20:31:33.362Z"
   }
 }

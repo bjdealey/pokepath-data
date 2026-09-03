@@ -42,6 +42,10 @@
     "miltank"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "MILTANK gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
     "sapphire": "MILTANK gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
@@ -258,6 +262,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/241.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.932Z"
+    "scrapedAt": "2026-09-03T20:31:34.414Z"
   }
 }

@@ -55,6 +55,14 @@
       "method": "Female"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
     "sapphire": "ILLUMISE leads a flight of illuminated VOLBEAT to draw signs in the night sky. This POKéMON is said to earn greater respect from its peers by composing more complex designs in the sky.",
@@ -246,6 +254,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/314.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.434Z"
+    "scrapedAt": "2026-09-03T20:31:34.921Z"
   }
 }

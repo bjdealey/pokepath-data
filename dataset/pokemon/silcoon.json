@@ -67,6 +67,14 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
     "sapphire": "SILCOON was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this POKéMON slakes its thirst by drinking rainwater that collects on its silk.",
@@ -100,6 +108,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/266.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.102Z"
+    "scrapedAt": "2026-09-03T20:31:34.587Z"
   }
 }

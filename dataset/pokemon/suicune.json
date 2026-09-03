@@ -37,6 +37,14 @@
     "suicune"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
     "sapphire": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
@@ -224,6 +232,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/245.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.958Z"
+    "scrapedAt": "2026-09-03T20:31:34.439Z"
   }
 }

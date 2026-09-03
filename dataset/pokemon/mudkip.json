@@ -56,6 +56,14 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "The fin on MUDKIP's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
     "sapphire": "In water, MUDKIP breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this POKéMON will unleash its amazing power - it can crush rocks bigger than itself.",
@@ -242,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/258.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.053Z"
+    "scrapedAt": "2026-09-03T20:31:34.530Z"
   }
 }

@@ -56,6 +56,17 @@
       "method": "High Friendship"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "ground": 0,
+    "psychic": 2,
+    "bug": 0.25,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "If this POKéMON is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that CROBAT has been flying a long distance. It switches the wings it uses if it is tired.",
     "sapphire": "CROBAT sneaks up on its intended prey using wings that barely make a sound. This POKéMON rests by hanging on a tree branch with its rear legs that serve as wings.",
@@ -242,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/169.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.411Z"
+    "scrapedAt": "2026-09-03T20:31:33.879Z"
   }
 }

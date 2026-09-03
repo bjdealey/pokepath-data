@@ -56,6 +56,14 @@
       "method": "Trade holding Dragon Scale"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this POKéMON anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
     "sapphire": "If HORSEA senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This POKéMON swims by cleverly flapping the fins on its back.",
@@ -204,6 +212,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/116.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.062Z"
+    "scrapedAt": "2026-09-03T20:31:33.528Z"
   }
 }

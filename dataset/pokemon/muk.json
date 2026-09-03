@@ -53,6 +53,14 @@
       "method": "Level 38"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "From MUK's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this POKéMON's body fluid can turn a pool stagnant and rancid.",
     "sapphire": "This POKéMON's favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, MUK are certain to gather.",
@@ -261,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/089.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.873Z"
+    "scrapedAt": "2026-09-03T20:31:33.339Z"
   }
 }

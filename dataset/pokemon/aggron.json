@@ -60,6 +60,21 @@
       "method": "Level 42"
     }
   ],
+  "damageTaken": {
+    "normal": 0.25,
+    "water": 2,
+    "ice": 0.5,
+    "fighting": 4,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0.25,
+    "psychic": 0.5,
+    "bug": 0.5,
+    "rock": 0.5,
+    "ghost": 0.5,
+    "dragon": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "AGGRON claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This POKéMON vigilantly patrols its territory at all times.",
     "sapphire": "AGGRON is surprisingly protective of its environment. If its mountain is ravaged by a landslide or a fire, this POKéMON will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
@@ -323,6 +338,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/306.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.381Z"
+    "scrapedAt": "2026-09-03T20:31:34.864Z"
   }
 }

@@ -79,6 +79,14 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
     "sapphire": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
@@ -269,6 +277,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/029.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.460Z"
+    "scrapedAt": "2026-09-03T20:31:32.925Z"
   }
 }

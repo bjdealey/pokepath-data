@@ -54,6 +54,17 @@
       "method": "Level 18"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "flying": 2,
+    "bug": 0.5,
+    "rock": 4
+  },
   "flavorText": {
     "ruby": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
     "sapphire": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
@@ -235,6 +246,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/166.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.392Z"
+    "scrapedAt": "2026-09-03T20:31:33.861Z"
   }
 }

@@ -60,6 +60,14 @@
       "method": "Level 18"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "AZUMARILL's long ears are indispensable sensors. By focusing its hearing, this POKéMON can identify what kinds of prey are around, even in rough and fast-running rivers.",
     "sapphire": "AZUMARILL can make balloons out of air. It makes these air balloons if it spots a drowning POKéMON. The air balloons enable the POKéMON in trouble to breathe.",
@@ -262,6 +270,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/184.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.544Z"
+    "scrapedAt": "2026-09-03T20:31:33.987Z"
   }
 }

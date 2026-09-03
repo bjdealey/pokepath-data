@@ -53,6 +53,12 @@
       "method": "Level 26"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
     "sapphire": "ELECTRIKE runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this POKéMON's fur.",
@@ -217,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/309.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.401Z"
+    "scrapedAt": "2026-09-03T20:31:34.887Z"
   }
 }

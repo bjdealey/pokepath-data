@@ -51,6 +51,16 @@
       "method": "Level 22"
     }
   ],
+  "damageTaken": {
+    "water": 0.5,
+    "electric": 2,
+    "ice": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes.",
     "sapphire": "If SURSKIT senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some POKéMON that love eating this syrup.",
@@ -206,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/283.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.215Z"
+    "scrapedAt": "2026-09-03T20:31:34.697Z"
   }
 }

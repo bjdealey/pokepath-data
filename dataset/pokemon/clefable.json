@@ -55,6 +55,10 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
     "sapphire": "CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
@@ -271,6 +275,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/036.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.510Z"
+    "scrapedAt": "2026-09-03T20:31:32.976Z"
   }
 }

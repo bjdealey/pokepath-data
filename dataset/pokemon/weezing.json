@@ -49,6 +49,14 @@
       "method": "Level 35"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "WEEZING loves the gases given off by rotted kitchen garbage. This POKéMON will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
     "sapphire": "WEEZING alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The POKéMON also becomes more putrid.",
@@ -235,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/110.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.018Z"
+    "scrapedAt": "2026-09-03T20:31:33.487Z"
   }
 }

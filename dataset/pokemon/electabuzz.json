@@ -49,6 +49,12 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
     "sapphire": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
@@ -235,6 +241,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/125.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.119Z"
+    "scrapedAt": "2026-09-03T20:31:33.587Z"
   }
 }

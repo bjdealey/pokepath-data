@@ -37,6 +37,14 @@
     "groudon"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "poison": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "GROUDON has long been described in mythology as the POKéMON that raised lands and expanded continents. This POKéMON took to sleep after a cataclysmic battle with KYOGRE.",
     "sapphire": "GROUDON has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
@@ -260,6 +268,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/383.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.939Z"
+    "scrapedAt": "2026-09-03T20:31:35.429Z"
   }
 }

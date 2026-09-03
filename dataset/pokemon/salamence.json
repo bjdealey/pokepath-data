@@ -56,6 +56,17 @@
       "method": "Level 50"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "grass": 0.25,
+    "ice": 4,
+    "fighting": 0.5,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "dragon": 2
+  },
   "flavorText": {
     "ruby": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON's cells, causing it to sprout its magnificent wings.",
     "sapphire": "By evolving into SALAMENCE, this POKéMON finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth.",
@@ -275,6 +286,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/373.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.876Z"
+    "scrapedAt": "2026-09-03T20:31:35.355Z"
   }
 }

@@ -56,6 +56,14 @@
       "method": "Level 45"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "electric": 0,
+    "ice": 4,
+    "poison": 0.5,
+    "rock": 0.5,
+    "dragon": 2
+  },
   "flavorText": {
     "ruby": "FLYGON is nicknamed \"the elemental spirit of the desert.\" Because its flapping wings whip up a cloud of sand, this POKéMON is always enveloped in a sandstorm while flying.",
     "sapphire": "FLYGON whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the \"singing\" is the only thing that can be heard in a sandstorm, this POKéMON is said to be the desert spirit.",
@@ -252,6 +260,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/330.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.571Z"
+    "scrapedAt": "2026-09-03T20:31:35.033Z"
   }
 }

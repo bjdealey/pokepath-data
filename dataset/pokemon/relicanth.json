@@ -48,6 +48,17 @@
     "relicanth"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.25,
+    "electric": 2,
+    "grass": 4,
+    "ice": 0.5,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5
+  },
   "flavorText": {
     "ruby": "RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form. This ancient POKéMON feeds on microscopic organisms with its toothless mouth.",
     "sapphire": "RELICANTH is a rare species that was discovered in deep-sea explorations. This POKéMON's body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks.",
@@ -238,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/369.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.846Z"
+    "scrapedAt": "2026-09-03T20:31:35.297Z"
   }
 }

@@ -46,6 +46,10 @@
       "method": "Trade holding Up-Grade"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "PORYGON2 was created by humans using the power of science. The man-made POKéMON has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
     "sapphire": "PORYGON2 was created by humans using the power of science. The man-made POKéMON has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
@@ -226,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/233.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.882Z"
+    "scrapedAt": "2026-09-03T20:31:34.355Z"
   }
 }

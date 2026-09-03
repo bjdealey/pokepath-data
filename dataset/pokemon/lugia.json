@@ -38,6 +38,17 @@
     "lugia"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "psychic": 0.5,
+    "rock": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "LUGIA's wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
     "sapphire": "LUGIA's wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
@@ -275,6 +286,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/249.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.985Z"
+    "scrapedAt": "2026-09-03T20:31:34.468Z"
   }
 }

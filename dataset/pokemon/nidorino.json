@@ -79,6 +79,14 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
     "sapphire": "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
@@ -265,6 +273,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/033.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.488Z"
+    "scrapedAt": "2026-09-03T20:31:32.954Z"
   }
 }

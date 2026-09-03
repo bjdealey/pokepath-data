@@ -48,6 +48,16 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "ice": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "rock": 2,
+    "ghost": 2,
+    "dark": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
     "sapphire": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.",
@@ -236,6 +246,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/238.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.912Z"
+    "scrapedAt": "2026-09-03T20:31:34.394Z"
   }
 }

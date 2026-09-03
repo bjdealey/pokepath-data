@@ -53,6 +53,10 @@
       "method": "High Friendship"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
     "sapphire": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
@@ -311,6 +315,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/242.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.940Z"
+    "scrapedAt": "2026-09-03T20:31:34.420Z"
   }
 }

@@ -61,6 +61,13 @@
       "method": "Tyrogue20aed"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "HITMONTOP spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The POKéMON travels faster spinning than it does walking.",
     "sapphire": "HITMONTOP spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The POKéMON travels faster spinning than it does walking.",
@@ -232,6 +239,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/237.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.907Z"
+    "scrapedAt": "2026-09-03T20:31:34.385Z"
   }
 }

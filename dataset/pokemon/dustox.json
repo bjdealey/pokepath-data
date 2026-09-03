@@ -68,6 +68,16 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.25,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
     "sapphire": "When DUSTOX flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This POKéMON searches for food using its antennae like radar.",
@@ -227,6 +237,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/269.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.118Z"
+    "scrapedAt": "2026-09-03T20:31:34.604Z"
   }
 }

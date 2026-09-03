@@ -50,6 +50,15 @@
       "method": "Level 20"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "FEAROW is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
     "sapphire": "FEAROW is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
@@ -202,6 +211,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/022.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.410Z"
+    "scrapedAt": "2026-09-03T20:31:32.874Z"
   }
 }

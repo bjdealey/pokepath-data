@@ -49,6 +49,17 @@
       "method": "Sun Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "SUNFLORA converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
     "sapphire": "SUNFLORA converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
@@ -207,6 +218,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/192.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.601Z"
+    "scrapedAt": "2026-09-03T20:31:34.039Z"
   }
 }

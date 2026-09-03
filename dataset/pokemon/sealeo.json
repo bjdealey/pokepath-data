@@ -57,6 +57,14 @@
       "method": "Level 44"
     }
   ],
+  "damageTaken": {
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.25,
+    "fighting": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
     "sapphire": "SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not.",
@@ -254,6 +262,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/364.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.814Z"
+    "scrapedAt": "2026-09-03T20:31:35.264Z"
   }
 }

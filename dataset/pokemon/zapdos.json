@@ -38,6 +38,16 @@
     "zapdos"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 0.5,
+    "ground": 0,
+    "flying": 0.5,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. The POKéMON gains power if it is stricken by lightning bolts.",
     "sapphire": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. The POKéMON gains power if it is stricken by lightning bolts.",
@@ -203,6 +213,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/145.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.247Z"
+    "scrapedAt": "2026-09-03T20:31:33.722Z"
   }
 }

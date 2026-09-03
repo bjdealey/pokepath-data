@@ -50,6 +50,16 @@
       "method": "Level 31"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.25,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
     "sapphire": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
@@ -226,6 +236,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/049.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.596Z"
+    "scrapedAt": "2026-09-03T20:31:33.072Z"
   }
 }

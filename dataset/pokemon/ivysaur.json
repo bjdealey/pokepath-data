@@ -57,6 +57,16 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "There is a bud on this POKéMON's back. To support its weight, IVYSAUR's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "sapphire": "There is a bud on this POKéMON's back. To support its weight, IVYSAUR's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
@@ -233,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/002.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.254Z"
+    "scrapedAt": "2026-09-03T20:31:32.719Z"
   }
 }

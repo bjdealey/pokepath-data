@@ -56,6 +56,14 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "Once CROCONAW has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
     "sapphire": "Once CROCONAW has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
@@ -259,6 +267,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/159.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.345Z"
+    "scrapedAt": "2026-09-03T20:31:33.817Z"
   }
 }

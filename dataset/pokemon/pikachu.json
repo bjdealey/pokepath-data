@@ -56,6 +56,12 @@
       "method": "Thunder Stone"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "Whenever PIKACHU comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this POKéMON mistook the intensity of its charge.",
     "sapphire": "This POKéMON has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while PIKACHU sleeps. It occasionally discharges electricity when it is dozy after waking up.",
@@ -242,6 +248,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/025.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.432Z"
+    "scrapedAt": "2026-09-03T20:31:32.895Z"
   }
 }

@@ -50,6 +50,13 @@
       "method": "Level 42"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "ice": 0.5,
+    "fighting": 2,
+    "rock": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POKéMON steals away to live quietly among stalactites and stalagmites deep in caverns.",
     "sapphire": "SNORUNT survives by eating only snow and ice. Old folklore claims that a house visited by this POKéMON is sure to prosper for many generations to come.",
@@ -209,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/361.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.793Z"
+    "scrapedAt": "2026-09-03T20:31:35.244Z"
   }
 }

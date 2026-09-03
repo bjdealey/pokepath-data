@@ -56,6 +56,16 @@
       "method": "Leaf Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
     "sapphire": "BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
@@ -211,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/069.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.743Z"
+    "scrapedAt": "2026-09-03T20:31:33.207Z"
   }
 }

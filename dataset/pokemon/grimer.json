@@ -53,6 +53,14 @@
       "method": "Level 38"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "GRIMER's sludgy and rubbery body can be forced through any opening, however small it may be. This POKéMON enters sewer pipes to drink filthy wastewater.",
     "sapphire": "GRIMER emerged from the sludge that settled on a polluted seabed. This POKéMON loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
@@ -237,6 +245,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/088.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.866Z"
+    "scrapedAt": "2026-09-03T20:31:33.331Z"
   }
 }

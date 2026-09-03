@@ -79,6 +79,14 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this POKéMON's notice.",
     "sapphire": "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this POKéMON's notice.",
@@ -265,6 +273,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/032.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.482Z"
+    "scrapedAt": "2026-09-03T20:31:32.947Z"
   }
 }

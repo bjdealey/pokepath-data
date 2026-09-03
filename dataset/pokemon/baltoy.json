@@ -47,6 +47,19 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "rock": 0.5,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POKéMON living among people were discovered in some ancient ruins.",
     "sapphire": "As soon as it spots others of its kind, BALTOY congregates with them and then begins crying noisily in unison. This POKéMON sleeps while cleverly balancing itself on its one foot.",
@@ -222,6 +235,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/343.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.666Z"
+    "scrapedAt": "2026-09-03T20:31:35.126Z"
   }
 }

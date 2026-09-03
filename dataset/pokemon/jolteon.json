@@ -73,6 +73,12 @@
       "method": "High Friendship (Nighttime)"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "JOLTEON's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
     "sapphire": "JOLTEON's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
@@ -246,6 +252,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/135.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.182Z"
+    "scrapedAt": "2026-09-03T20:31:33.656Z"
   }
 }

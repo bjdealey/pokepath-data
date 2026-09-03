@@ -59,6 +59,13 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.",
     "sapphire": "KIRLIA uses the horns on its head to amplify its psychokinetic power. When the POKéMON uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
@@ -265,6 +272,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/281.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.201Z"
+    "scrapedAt": "2026-09-03T20:31:34.683Z"
   }
 }

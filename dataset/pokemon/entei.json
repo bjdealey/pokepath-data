@@ -37,6 +37,16 @@
     "entei"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
     "sapphire": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
@@ -215,6 +225,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/244.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.951Z"
+    "scrapedAt": "2026-09-03T20:31:34.434Z"
   }
 }

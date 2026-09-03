@@ -47,6 +47,18 @@
     "qwilfish"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "ice": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
     "sapphire": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
@@ -213,6 +225,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/211.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.735Z"
+    "scrapedAt": "2026-09-03T20:31:34.167Z"
   }
 }

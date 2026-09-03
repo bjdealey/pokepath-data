@@ -48,6 +48,14 @@
     "lapras"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.25,
+    "fighting": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain.",
     "sapphire": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain.",
@@ -254,6 +262,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/131.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.156Z"
+    "scrapedAt": "2026-09-03T20:31:33.624Z"
   }
 }

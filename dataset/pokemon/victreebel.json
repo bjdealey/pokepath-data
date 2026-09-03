@@ -56,6 +56,16 @@
       "method": "Leaf Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
     "sapphire": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
@@ -192,6 +202,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/071.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.756Z"
+    "scrapedAt": "2026-09-03T20:31:33.218Z"
   }
 }

@@ -53,6 +53,10 @@
       "method": "Level 20"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "RATICATE's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
     "sapphire": "RATICATE's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
@@ -247,6 +251,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/020.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.397Z"
+    "scrapedAt": "2026-09-03T20:31:32.860Z"
   }
 }

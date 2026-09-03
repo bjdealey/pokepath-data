@@ -49,6 +49,14 @@
       "method": "Level 37"
     }
   ],
+  "damageTaken": {
+    "normal": 0,
+    "fighting": 0,
+    "poison": 0.5,
+    "bug": 0.5,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person's home.",
     "sapphire": "SHUPPET grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
@@ -230,6 +238,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/353.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.739Z"
+    "scrapedAt": "2026-09-03T20:31:35.192Z"
   }
 }

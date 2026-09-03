@@ -55,6 +55,17 @@
       "method": "Level 40"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.25,
+    "electric": 2,
+    "grass": 4,
+    "ice": 0.5,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5
+  },
   "flavorText": {
     "ruby": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
     "sapphire": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
@@ -242,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/139.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.207Z"
+    "scrapedAt": "2026-09-03T20:31:33.680Z"
   }
 }

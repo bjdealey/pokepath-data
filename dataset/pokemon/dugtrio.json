@@ -53,6 +53,14 @@
       "method": "Level 26"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "poison": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
     "sapphire": "DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
@@ -226,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/051.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.610Z"
+    "scrapedAt": "2026-09-03T20:31:33.083Z"
   }
 }

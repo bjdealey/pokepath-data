@@ -50,6 +50,17 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
     "sapphire": "The more arid and harsh the environment, the more pretty and fragrant a flower CACNEA grows. This POKéMON battles by wildly swinging its thorny arms.",
@@ -223,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/331.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.581Z"
+    "scrapedAt": "2026-09-03T20:31:35.041Z"
   }
 }

@@ -54,6 +54,14 @@
       "method": "Level 33"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This POKéMON is definitely much faster than even the most athletic swimmer.",
     "sapphire": "GOLDUCK is the fastest swimmer among all POKéMON. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
@@ -265,6 +273,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/055.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.640Z"
+    "scrapedAt": "2026-09-03T20:31:33.112Z"
   }
 }

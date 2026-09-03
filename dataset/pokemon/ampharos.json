@@ -56,6 +56,12 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this POKéMON to send signals back and forth with others far away.",
     "sapphire": "AMPHAROS gives off so much light that it can be seen even from space. People in the old days used the light of this POKéMON to send signals back and forth with others far away.",
@@ -237,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/181.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.516Z"
+    "scrapedAt": "2026-09-03T20:31:33.968Z"
   }
 }

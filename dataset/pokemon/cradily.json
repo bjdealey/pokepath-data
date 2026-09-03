@@ -50,6 +50,14 @@
       "method": "Level 40"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "electric": 0.5,
+    "ice": 2,
+    "fighting": 2,
+    "bug": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "CRADILY roams around the ocean floor in search of food. This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
     "sapphire": "CRADILY's body serves as an anchor, preventing it from being washed away in rough seas. This POKéMON secretes a strong digestive fluid from its tentacles.",
@@ -229,6 +237,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/346.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.693Z"
+    "scrapedAt": "2026-09-03T20:31:35.145Z"
   }
 }

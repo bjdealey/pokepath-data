@@ -56,6 +56,17 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail.",
     "sapphire": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground.",
@@ -252,6 +263,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/252.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.011Z"
+    "scrapedAt": "2026-09-03T20:31:34.487Z"
   }
 }

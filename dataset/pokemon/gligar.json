@@ -47,6 +47,15 @@
     "gligar"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "ice": 4,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 0,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
     "sapphire": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
@@ -221,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/207.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.707Z"
+    "scrapedAt": "2026-09-03T20:31:34.138Z"
   }
 }

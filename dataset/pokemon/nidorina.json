@@ -76,6 +76,14 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
     "sapphire": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
@@ -266,6 +274,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/030.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.466Z"
+    "scrapedAt": "2026-09-03T20:31:32.931Z"
   }
 }

@@ -55,6 +55,17 @@
       "method": "Level 40"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.25,
+    "electric": 2,
+    "grass": 4,
+    "ice": 0.5,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5
+  },
   "flavorText": {
     "ruby": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
     "sapphire": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
@@ -237,6 +248,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/140.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.214Z"
+    "scrapedAt": "2026-09-03T20:31:33.688Z"
   }
 }

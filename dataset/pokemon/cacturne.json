@@ -51,6 +51,21 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "psychic": 0,
+    "bug": 4,
+    "ghost": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops.",
     "sapphire": "If a traveler is going through a desert in the thick of night, CACTURNE will follow in a ragtag group. The POKéMON are biding their time, waiting for the traveler to tire and become incapable of moving.",
@@ -241,6 +256,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/332.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.588Z"
+    "scrapedAt": "2026-09-03T20:31:35.048Z"
   }
 }

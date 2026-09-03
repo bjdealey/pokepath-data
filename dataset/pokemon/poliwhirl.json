@@ -65,6 +65,14 @@
       "method": "Trade holding King's Rock"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "The surface of POLIWHIRL's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
     "sapphire": "The surface of POLIWHIRL's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
@@ -261,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/061.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.689Z"
+    "scrapedAt": "2026-09-03T20:31:33.154Z"
   }
 }

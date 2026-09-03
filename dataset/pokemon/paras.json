@@ -51,6 +51,19 @@
       "method": "Level 24"
     }
   ],
+  "damageTaken": {
+    "fire": 4,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "poison": 2,
+    "ground": 0.25,
+    "flying": 4,
+    "bug": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from the BUG POKéMON host. They are highly valued as a medicine for extending life.",
     "sapphire": "PARAS has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this BUG POKéMON host. They are highly valued as a medicine for extending life.",
@@ -218,6 +231,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/046.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.577Z"
+    "scrapedAt": "2026-09-03T20:31:33.042Z"
   }
 }

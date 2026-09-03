@@ -56,6 +56,15 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
     "sapphire": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
@@ -198,6 +207,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/016.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.367Z"
+    "scrapedAt": "2026-09-03T20:31:32.829Z"
   }
 }

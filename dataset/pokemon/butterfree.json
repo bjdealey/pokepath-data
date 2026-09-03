@@ -56,6 +56,17 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "flying": 2,
+    "bug": 0.5,
+    "rock": 4
+  },
   "flavorText": {
     "ruby": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
     "sapphire": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
@@ -224,6 +235,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/012.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.344Z"
+    "scrapedAt": "2026-09-03T20:31:32.806Z"
   }
 }

@@ -56,6 +56,14 @@
       "method": "Level 55"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "dragon": 2
+  },
   "flavorText": {
     "ruby": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
     "sapphire": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
@@ -253,6 +261,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/148.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.265Z"
+    "scrapedAt": "2026-09-03T20:31:33.741Z"
   }
 }

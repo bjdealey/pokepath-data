@@ -53,6 +53,19 @@
       "method": "Level 45"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0.5,
+    "psychic": 0.25,
+    "rock": 0.5,
+    "dragon": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs.",
     "sapphire": "METAGROSS is the result of two METANG achieving fusion. When hunting, this POKéMON pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach.",
@@ -256,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/376.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.893Z"
+    "scrapedAt": "2026-09-03T20:31:35.378Z"
   }
 }

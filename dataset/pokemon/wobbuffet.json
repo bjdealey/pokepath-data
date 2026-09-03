@@ -49,6 +49,13 @@
       "method": "Level 15"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
     "sapphire": "WOBBUFFET does nothing but endure attacks - it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND.",
@@ -90,6 +97,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/202.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.673Z"
+    "scrapedAt": "2026-09-03T20:31:34.104Z"
   }
 }

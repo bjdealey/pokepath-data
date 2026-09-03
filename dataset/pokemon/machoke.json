@@ -55,6 +55,13 @@
       "method": "Trade"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "MACHOKE's thoroughly toned muscles possess the hardness of steel. This POKéMON has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
     "sapphire": "MACHOKE undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this POKéMON heads to the fields and mountains to exercise and train.",
@@ -253,6 +260,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/067.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.729Z"
+    "scrapedAt": "2026-09-03T20:31:33.194Z"
   }
 }

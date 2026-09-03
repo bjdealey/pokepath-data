@@ -49,6 +49,13 @@
       "method": "Level 18"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "psychic": 0,
+    "bug": 2,
+    "ghost": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.",
     "sapphire": "MIGHTYENA travel and act as a pack in the wild. The memory of its life in the wild compels the POKéMON to obey only those TRAINERS that it recognizes to possess superior skill.",
@@ -245,6 +252,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/262.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.080Z"
+    "scrapedAt": "2026-09-03T20:31:34.557Z"
   }
 }

@@ -53,6 +53,19 @@
       "method": "Level 20 (empty party slot + spare Poké Ball → Shedinja)"
     }
   ],
+  "damageTaken": {
+    "normal": 0,
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0,
+    "poison": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "SHEDINJA's hard body doesn't move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back.",
     "sapphire": "SHEDINJA is a peculiar POKéMON. It seems to appear unsought in a POKé BALL after a NINCADA evolves. This bizarre POKéMON is entirely immobile - it doesn't even breathe.",
@@ -215,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/292.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.277Z"
+    "scrapedAt": "2026-09-03T20:31:34.765Z"
   }
 }

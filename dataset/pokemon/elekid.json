@@ -47,6 +47,12 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
     "sapphire": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
@@ -217,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/239.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.920Z"
+    "scrapedAt": "2026-09-03T20:31:34.400Z"
   }
 }

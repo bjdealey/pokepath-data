@@ -55,6 +55,14 @@
       "method": "Trade holding Deep Sea Scale"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON's body is unharmed by ordinary attacks.",
     "sapphire": "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this POKéMON inserts its thin mouth into the prey's body and drains the prey of its body fluids.",
@@ -220,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/368.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.838Z"
+    "scrapedAt": "2026-09-03T20:31:35.291Z"
   }
 }

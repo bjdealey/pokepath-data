@@ -346,6 +346,28 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
   }
   const tutor = [...tutorSet];
 
+  // --- Damage Taken: type effectiveness against this Pokémon ----------------
+  const VALID_TYPES = new Set([
+    "normal", "fire", "water", "electric", "grass", "ice", "fighting", "poison", "ground",
+    "flying", "psychic", "bug", "rock", "ghost", "dragon", "dark", "steel",
+  ]);
+  const damageTaken: Record<string, number> = {};
+  const dtTable = section("Damage Taken");
+  if (dtTable) {
+    const rows = rowsOf(dtTable);
+    const typeRow = rows.find((r) => cells(r).filter((c) => $(c).find("img").length).length > 10);
+    const multRow = rows.find((r) => cells(r).some((c) => /^\*/.test(cellText(c))));
+    if (typeRow && multRow) {
+      const typeCells = cells(typeRow);
+      const multCells = cells(multRow);
+      typeCells.forEach((tc, i) => {
+        const t = ($(tc).find("img").attr("src") ?? "").split("/").pop()?.replace(/\d*\.gif$/i, "").toLowerCase() ?? "";
+        const mult = Number(cellText(multCells[i] ?? tc).replace(/[*×]/g, ""));
+        if (VALID_TYPES.has(t) && Number.isFinite(mult) && mult !== 1) damageTaken[t] = mult;
+      });
+    }
+  }
+
   // --- Evolution chain (national numbers from anchor hrefs) -----------------
   const evoDex: number[] = [];
   const evo = section("Evolutionary Chain");
@@ -377,6 +399,7 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     baseStats,
     evolutionChain: [], // resolved from evoDex in run.ts
     evolutions: [], // resolved from evoEdges in run.ts
+    damageTaken,
     flavorText,
     locations,
     learnset: { levelUp, machine, egg, tutor },

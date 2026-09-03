@@ -46,6 +46,17 @@
     "nosepass"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.5,
+    "water": 2,
+    "grass": 2,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "NOSEPASS's magnetic nose is always pointed to the north. If two of these POKéMON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
     "sapphire": "NOSEPASS had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the POKéMON actually moves by a little over 3/8 of an inch every year.",
@@ -219,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/299.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.322Z"
+    "scrapedAt": "2026-09-03T20:31:34.814Z"
   }
 }

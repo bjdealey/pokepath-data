@@ -42,6 +42,12 @@
     "minun"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
     "sapphire": "MINUN loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this POKéMON gives off increasing amounts of sparks.",
@@ -204,6 +210,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/312.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.420Z"
+    "scrapedAt": "2026-09-03T20:31:34.907Z"
   }
 }

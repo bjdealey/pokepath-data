@@ -13,6 +13,7 @@ import { scrapeMoves } from "./scrape/moves.ts";
 import { scrapeItemdex } from "./scrape/itemdex.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { deriveMachines } from "./derive/machines.ts";
+import { deriveTypechart } from "./derive/typechart.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import type { PokemonRecord } from "./types.ts";
 
@@ -115,12 +116,17 @@ if (!entity || entity === "pokemon") {
   const r = deriveMachines();
   console.log(`✔ ${r.machines} machines (${r.tms} TMs, ${r.hms} HMs) → dataset/machines.json`);
   if (r.unresolved.length) console.warn(`⚠ ${r.unresolved.length} unresolved move slugs: ${r.unresolved.join(", ")}`);
+} else if (entity === "typechart") {
+  console.log(`▶ deriving the Gen-3 type chart from Pokémon damage-taken…`);
+  const r = deriveTypechart();
+  console.log(`✔ ${r.resolved}/${r.types} type columns → dataset/typechart.json`);
+  if (r.missing.length) console.warn(`⚠ unresolved types: ${r.missing.join(", ")}`);
 } else if (entity === "trainers") {
   console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "encounters", "items", "itemdex", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", or "trainers"`);
   process.exit(1);
 }

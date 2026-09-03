@@ -55,6 +55,14 @@
       "method": "Level 50"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "dragon": 2
+  },
   "flavorText": {
     "ruby": "Inside SHELGON's armor-like shell, cells are in the midst of transformation to create an entirely new body. This POKéMON's shell is extremely heavy, making its movements sluggish.",
     "sapphire": "Covering SHELGON's body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this POKéMON hides away in a cavern.",
@@ -249,6 +257,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/372.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.869Z"
+    "scrapedAt": "2026-09-03T20:31:35.344Z"
   }
 }

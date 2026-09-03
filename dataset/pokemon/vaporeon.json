@@ -73,6 +73,14 @@
       "method": "High Friendship (Nighttime)"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
     "sapphire": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
@@ -258,6 +266,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/134.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.173Z"
+    "scrapedAt": "2026-09-03T20:31:33.647Z"
   }
 }

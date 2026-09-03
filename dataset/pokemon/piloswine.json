@@ -50,6 +50,15 @@
       "method": "Level 33"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "fighting": 2,
+    "poison": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
     "sapphire": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
@@ -238,6 +247,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/221.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.799Z"
+    "scrapedAt": "2026-09-03T20:31:34.261Z"
   }
 }

@@ -40,6 +40,20 @@
     "lunatone"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.5,
+    "water": 2,
+    "grass": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POKéMON came from space. However, no one has been able to prove this theory so far.",
     "sapphire": "LUNATONE becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The POKéMON's intimidating red eyes cause all those who see it to become transfixed with fear.",
@@ -214,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/337.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.626Z"
+    "scrapedAt": "2026-09-03T20:31:35.081Z"
   }
 }

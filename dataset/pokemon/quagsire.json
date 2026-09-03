@@ -55,6 +55,14 @@
       "method": "Level 20"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "electric": 0,
+    "grass": 4,
+    "poison": 0.5,
+    "rock": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
     "sapphire": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
@@ -268,6 +276,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/195.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.622Z"
+    "scrapedAt": "2026-09-03T20:31:34.059Z"
   }
 }

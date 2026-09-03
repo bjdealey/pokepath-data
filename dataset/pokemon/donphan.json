@@ -49,6 +49,14 @@
       "method": "Level 25"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "poison": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "DONPHAN's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this POKéMON can't stop very easily.",
     "sapphire": "If DONPHAN were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the POKéMON helps clear rock and mud slides that block mountain trails.",
@@ -208,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/232.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.877Z"
+    "scrapedAt": "2026-09-03T20:31:34.349Z"
   }
 }

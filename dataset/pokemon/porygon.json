@@ -46,6 +46,10 @@
       "method": "Trade holding Up-Grade"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying.",
     "sapphire": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying.",
@@ -225,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/137.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.195Z"
+    "scrapedAt": "2026-09-03T20:31:33.667Z"
   }
 }

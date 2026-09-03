@@ -59,6 +59,13 @@
       "method": "Trade"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "ABRA sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this POKéMON immediately teleports to safety.",
     "sapphire": "ABRA needs to sleep for eighteen hours a day. If it doesn't, this POKéMON loses its ability to use telekinetic powers. If it is attacked, ABRA escapes using TELEPORT while it is still sleeping.",
@@ -225,6 +232,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/063.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.701Z"
+    "scrapedAt": "2026-09-03T20:31:33.166Z"
   }
 }

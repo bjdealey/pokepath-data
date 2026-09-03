@@ -51,6 +51,14 @@
       "method": "Level 34"
     }
   ],
+  "damageTaken": {
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.25,
+    "fighting": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
     "sapphire": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
@@ -228,6 +236,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/087.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.860Z"
+    "scrapedAt": "2026-09-03T20:31:33.326Z"
   }
 }

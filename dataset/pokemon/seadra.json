@@ -56,6 +56,14 @@
       "method": "Trade holding Dragon Scale"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this POKéMON's poison barbs if they fail to notice it.",
     "sapphire": "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This POKéMON weakens prey with these currents, then swallows it whole.",
@@ -220,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/117.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.068Z"
+    "scrapedAt": "2026-09-03T20:31:33.533Z"
   }
 }

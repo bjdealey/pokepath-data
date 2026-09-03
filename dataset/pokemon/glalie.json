@@ -50,6 +50,13 @@
       "method": "Level 42"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "ice": 0.5,
+    "fighting": 2,
+    "rock": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
     "sapphire": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
@@ -240,6 +247,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/362.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.799Z"
+    "scrapedAt": "2026-09-03T20:31:35.250Z"
   }
 }

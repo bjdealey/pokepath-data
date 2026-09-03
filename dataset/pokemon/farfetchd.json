@@ -48,6 +48,15 @@
     "farfetchd"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "FARFETCH'D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This POKéMON has been known to fight with others over sticks.",
     "sapphire": "FARFETCH'D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This POKéMON has been known to fight with others over sticks.",
@@ -204,6 +213,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/083.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.833Z"
+    "scrapedAt": "2026-09-03T20:31:33.298Z"
   }
 }

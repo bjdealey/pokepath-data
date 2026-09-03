@@ -42,6 +42,13 @@
     "mr-mime"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
     "sapphire": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
@@ -280,6 +287,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/122.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.100Z"
+    "scrapedAt": "2026-09-03T20:31:33.566Z"
   }
 }

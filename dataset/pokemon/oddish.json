@@ -62,6 +62,16 @@
       "method": "Sun Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "During the daytime, ODDISH buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
     "sapphire": "ODDISH searches for fertile, nutrient- rich soil, then plants itself. During the daytime, while it is planted, this POKéMON's feet are thought to change shape and become similar to the roots of trees.",
@@ -204,6 +214,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/043.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.558Z"
+    "scrapedAt": "2026-09-03T20:31:33.024Z"
   }
 }

@@ -50,6 +50,16 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "ice": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "rock": 2,
+    "ghost": 2,
+    "dark": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
     "sapphire": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
@@ -266,6 +276,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/124.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.113Z"
+    "scrapedAt": "2026-09-03T20:31:33.579Z"
   }
 }

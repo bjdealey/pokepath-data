@@ -56,6 +56,14 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "SQUIRTLE's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
     "sapphire": "SQUIRTLE's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
@@ -250,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/007.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.307Z"
+    "scrapedAt": "2026-09-03T20:31:32.770Z"
   }
 }

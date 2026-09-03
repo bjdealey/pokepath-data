@@ -53,6 +53,13 @@
       "method": "Level 24"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POKéMON's powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
     "sapphire": "HARIYAMA's thick body may appear fat, but it is actually a hunk of solid muscle. If this POKéMON bears down and tightens all its muscles, its body becomes as hard as a rock.",
@@ -256,6 +263,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/297.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.311Z"
+    "scrapedAt": "2026-09-03T20:31:34.801Z"
   }
 }

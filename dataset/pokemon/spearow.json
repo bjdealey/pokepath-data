@@ -50,6 +50,15 @@
       "method": "Level 20"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
     "sapphire": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
@@ -194,6 +203,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/021.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.403Z"
+    "scrapedAt": "2026-09-03T20:31:32.866Z"
   }
 }

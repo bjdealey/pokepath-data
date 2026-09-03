@@ -61,6 +61,14 @@
       "method": "Water Stone"
     }
   ],
+  "damageTaken": {
+    "water": 0.25,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "LUDICOLO begins dancing as soon as it hears cheerful, festive music. This POKéMON is said to appear when it hears the singing of children on hiking outings.",
     "sapphire": "Upon hearing an upbeat and cheerful rhythm, the cells in LUDICOLO's body become very energetic and active. Even in battle, this POKéMON will exhibit an amazing amount of power.",
@@ -247,6 +255,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/272.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.139Z"
+    "scrapedAt": "2026-09-03T20:31:34.623Z"
   }
 }

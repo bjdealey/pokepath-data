@@ -56,6 +56,17 @@
       "method": "High Friendship"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "ground": 0,
+    "psychic": 2,
+    "bug": 0.25,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "GOLBAT loves to drink the blood of living things. It is particularly active in the pitch black of night. This POKéMON flits around in the night skies, seeking fresh blood.",
     "sapphire": "GOLBAT bites down on prey with its four fangs and drinks the victim's blood. It becomes active on inky dark moonless nights, flying around to attack people and POKéMON.",
@@ -238,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/042.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.552Z"
+    "scrapedAt": "2026-09-03T20:31:33.018Z"
   }
 }

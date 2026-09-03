@@ -77,6 +77,17 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "ice": 2,
+    "fighting": 0.5,
+    "poison": 0.25,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "NIDOQUEEN's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This POKéMON is at its strongest when it is defending its young.",
     "sapphire": "NIDOQUEEN's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This POKéMON is at its strongest when it is defending its young.",
@@ -309,6 +320,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/031.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.473Z"
+    "scrapedAt": "2026-09-03T20:31:32.937Z"
   }
 }

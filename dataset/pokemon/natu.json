@@ -54,6 +54,17 @@
       "method": "Level 25"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "psychic": 0.5,
+    "rock": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "NATU cannot fly because its wings are not yet fully grown. If your eyes meet with this POKéMON's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
     "sapphire": "NATU has a highly developed jumping ability. The POKéMON flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
@@ -229,6 +240,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/177.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.462Z"
+    "scrapedAt": "2026-09-03T20:31:33.933Z"
   }
 }

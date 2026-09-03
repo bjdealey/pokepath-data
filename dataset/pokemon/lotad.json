@@ -61,6 +61,14 @@
       "method": "Water Stone"
     }
   ],
+  "damageTaken": {
+    "water": 0.25,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water.",
     "sapphire": "LOTAD is said to have dwelled on land before. However, this POKéMON is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
@@ -221,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/270.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.126Z"
+    "scrapedAt": "2026-09-03T20:31:34.612Z"
   }
 }

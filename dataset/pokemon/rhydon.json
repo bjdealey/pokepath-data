@@ -55,6 +55,20 @@
       "method": "Level 42"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.5,
+    "water": 4,
+    "electric": 0,
+    "grass": 4,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 0.25,
+    "ground": 2,
+    "flying": 0.5,
+    "rock": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "RHYDON's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This POKéMON's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
     "sapphire": "RHYDON has a horn that serves as a drill. It is used for destroying rocks and boulders. This POKéMON occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
@@ -292,6 +306,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/112.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.033Z"
+    "scrapedAt": "2026-09-03T20:31:33.500Z"
   }
 }

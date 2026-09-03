@@ -55,6 +55,10 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can't tolerate sitting still for even a minute. This POKéMON's stress level rises if it can't be moving constantly.",
     "sapphire": "VIGOROTH is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this POKéMON to run wild throughout the jungle before it can settle down.",
@@ -286,6 +290,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/288.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.250Z"
+    "scrapedAt": "2026-09-03T20:31:34.732Z"
   }
 }

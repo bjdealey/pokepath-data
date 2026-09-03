@@ -50,6 +50,15 @@
       "method": "Level 33"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 4,
+    "electric": 0,
+    "poison": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON's back erupt, spewing the superheated magma.",
     "sapphire": "The humps on CAMERUPT's back are formed by a transformation of its bones. They sometimes blast out molten magma. This POKéMON apparently erupts often when it is enraged.",
@@ -237,6 +246,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/323.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.495Z"
+    "scrapedAt": "2026-09-03T20:31:34.988Z"
   }
 }

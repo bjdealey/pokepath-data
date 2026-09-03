@@ -50,6 +50,10 @@
       "method": "Level 23"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
     "sapphire": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
@@ -291,6 +295,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/210.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.727Z"
+    "scrapedAt": "2026-09-03T20:31:34.160Z"
   }
 }

@@ -50,6 +50,15 @@
       "method": "Level 33"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "fighting": 2,
+    "poison": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
     "sapphire": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
@@ -222,6 +231,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/220.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.793Z"
+    "scrapedAt": "2026-09-03T20:31:34.252Z"
   }
 }

@@ -61,6 +61,17 @@
       "method": "Sun Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This POKéMON's dancing is renowned in the southern lands.",
     "sapphire": "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this POKéMON closes its petals and goes to sleep.",
@@ -203,6 +214,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/182.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.526Z"
+    "scrapedAt": "2026-09-03T20:31:33.973Z"
   }
 }

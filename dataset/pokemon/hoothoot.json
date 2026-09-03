@@ -54,6 +54,15 @@
       "method": "Level 20"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "HOOTHOOT has an internal organ that senses and tracks the earth's rotation. Using this special organ, this POKéMON begins hooting at precisely the same time every day.",
     "sapphire": "HOOTHOOT has an internal organ that senses and tracks the earth's rotation. Using this special organ, this POKéMON begins hooting at precisely the same time every day.",
@@ -215,6 +224,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/163.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.373Z"
+    "scrapedAt": "2026-09-03T20:31:33.842Z"
   }
 }

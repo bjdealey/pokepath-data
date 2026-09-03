@@ -44,6 +44,17 @@
     "tropius"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "grass": 0.25,
+    "ice": 4,
+    "fighting": 0.5,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "The bunches of fruit around TROPIUS's neck are very popular with children. This POKéMON loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
     "sapphire": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of TROPIUS. This POKéMON flies by flapping the leaves on its back as if they were wings.",
@@ -232,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/357.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.768Z"
+    "scrapedAt": "2026-09-03T20:31:35.220Z"
   }
 }

@@ -51,6 +51,17 @@
       "method": "Level 35"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "grass": 0.25,
+    "ice": 4,
+    "fighting": 0.5,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "dragon": 2
+  },
   "flavorText": {
     "ruby": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
     "sapphire": "ALTARIA sings in a gorgeous soprano. Its wings are like cotton clouds. This POKéMON catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
@@ -263,6 +274,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/334.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.604Z"
+    "scrapedAt": "2026-09-03T20:31:35.061Z"
   }
 }

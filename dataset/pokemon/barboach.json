@@ -50,6 +50,14 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "electric": 0,
+    "grass": 4,
+    "poison": 0.5,
+    "rock": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "BARBOACH's sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
     "sapphire": "BARBOACH's body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy's grip. This POKéMON grows weak if the slimy coating dries up.",
@@ -218,6 +226,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/339.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.640Z"
+    "scrapedAt": "2026-09-03T20:31:35.094Z"
   }
 }

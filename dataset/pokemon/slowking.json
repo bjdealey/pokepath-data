@@ -61,6 +61,19 @@
       "method": "Trade holding King's Rock"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
     "sapphire": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
@@ -293,6 +306,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/199.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.657Z"
+    "scrapedAt": "2026-09-03T20:31:34.088Z"
   }
 }

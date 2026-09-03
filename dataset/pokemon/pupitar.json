@@ -56,6 +56,20 @@
       "method": "Level 55"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.5,
+    "water": 4,
+    "electric": 0,
+    "grass": 4,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 0.25,
+    "ground": 2,
+    "flying": 0.5,
+    "rock": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
     "sapphire": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
@@ -229,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/247.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.972Z"
+    "scrapedAt": "2026-09-03T20:31:34.453Z"
   }
 }

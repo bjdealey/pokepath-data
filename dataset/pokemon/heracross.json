@@ -47,6 +47,16 @@
     "heracross"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "HERACROSS charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This POKéMON even has enough power to topple a massive tree.",
     "sapphire": "HERACROSS has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree, giving the POKéMON a secure and solid footing to forcefully fling away foes with its proud horn.",
@@ -224,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/214.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.754Z"
+    "scrapedAt": "2026-09-03T20:31:34.186Z"
   }
 }

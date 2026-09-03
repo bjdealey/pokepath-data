@@ -73,6 +73,13 @@
       "method": "High Friendship (Nighttime)"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "psychic": 0,
+    "bug": 2,
+    "ghost": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "UMBREON evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
     "sapphire": "UMBREON evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
@@ -251,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/197.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.642Z"
+    "scrapedAt": "2026-09-03T20:31:34.074Z"
   }
 }

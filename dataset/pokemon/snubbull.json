@@ -54,6 +54,10 @@
       "method": "Level 23"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
     "sapphire": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
@@ -282,6 +286,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/209.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.721Z"
+    "scrapedAt": "2026-09-03T20:31:34.153Z"
   }
 }

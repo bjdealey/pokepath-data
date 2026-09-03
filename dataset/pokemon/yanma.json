@@ -47,6 +47,17 @@
     "yanma"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 2,
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "flying": 2,
+    "bug": 0.5,
+    "rock": 4
+  },
   "flavorText": {
     "ruby": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
     "sapphire": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
@@ -205,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/193.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.607Z"
+    "scrapedAt": "2026-09-03T20:31:34.044Z"
   }
 }

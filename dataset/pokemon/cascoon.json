@@ -67,6 +67,14 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POKéMON prepares for its evolution inside the cocoon.",
     "sapphire": "If it is attacked, CASCOON remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This POKéMON will also not forget the pain it endured.",
@@ -100,6 +108,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/268.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.113Z"
+    "scrapedAt": "2026-09-03T20:31:34.598Z"
   }
 }

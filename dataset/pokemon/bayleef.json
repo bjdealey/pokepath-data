@@ -56,6 +56,17 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "BAYLEEF's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
     "sapphire": "BAYLEEF's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
@@ -240,6 +251,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/153.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.304Z"
+    "scrapedAt": "2026-09-03T20:31:33.775Z"
   }
 }

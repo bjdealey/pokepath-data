@@ -53,6 +53,16 @@
       "method": "Level 40"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "PONYTA is very weak at birth. It can barely stand up. This POKéMON becomes stronger by stumbling and falling to keep up with its parent.",
     "sapphire": "PONYTA is very weak at birth. It can barely stand up. This POKéMON becomes stronger by stumbling and falling to keep up with its parent.",
@@ -204,6 +214,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/077.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.794Z"
+    "scrapedAt": "2026-09-03T20:31:33.259Z"
   }
 }

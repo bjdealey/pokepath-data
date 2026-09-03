@@ -56,6 +56,16 @@
       "method": "Leaf Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
     "sapphire": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
@@ -219,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/070.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.748Z"
+    "scrapedAt": "2026-09-03T20:31:33.213Z"
   }
 }

@@ -57,6 +57,14 @@
       "method": "Level 44"
     }
   ],
+  "damageTaken": {
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.25,
+    "fighting": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "SPHEAL is much faster rolling than walking to get around. When groups of this POKéMON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy.",
     "sapphire": "SPHEAL always travels by rolling around on its ball-like body. When the season for ice floes arrives, this POKéMON can be seen rolling about on ice and crossing the sea.",
@@ -246,6 +254,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/363.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.806Z"
+    "scrapedAt": "2026-09-03T20:31:35.258Z"
   }
 }

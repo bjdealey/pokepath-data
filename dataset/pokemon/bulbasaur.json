@@ -57,6 +57,16 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
     "sapphire": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
@@ -225,6 +235,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/001.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.241Z"
+    "scrapedAt": "2026-09-03T20:31:32.705Z"
   }
 }

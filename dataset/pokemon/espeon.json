@@ -73,6 +73,13 @@
       "method": "High Friendship (Nighttime)"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
     "sapphire": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
@@ -255,6 +262,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/196.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.628Z"
+    "scrapedAt": "2026-09-03T20:31:34.067Z"
   }
 }

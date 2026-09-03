@@ -54,6 +54,15 @@
       "method": "Level 31"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "Watch out if DODRIO's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this POKéMON if it's being wary - it may decide to peck you.",
     "sapphire": "Apparently, the heads aren't the only parts of the body that DODRIO has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
@@ -214,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/085.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.846Z"
+    "scrapedAt": "2026-09-03T20:31:33.312Z"
   }
 }

@@ -61,6 +61,21 @@
       "method": "Leaf Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "psychic": 0,
+    "bug": 4,
+    "ghost": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched.",
     "sapphire": "This POKéMON pulls out the leaf on its head and makes a flute with it. The sound of NUZLEAF's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
@@ -252,6 +267,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/274.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.151Z"
+    "scrapedAt": "2026-09-03T20:31:34.637Z"
   }
 }

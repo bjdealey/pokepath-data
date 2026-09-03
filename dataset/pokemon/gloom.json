@@ -62,6 +62,16 @@
       "method": "Sun Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this POKéMON is feeling calm and secure, it does not release its usual stinky aroma.",
     "sapphire": "From its mouth GLOOM drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
@@ -212,6 +222,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/044.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.563Z"
+    "scrapedAt": "2026-09-03T20:31:33.029Z"
   }
 }

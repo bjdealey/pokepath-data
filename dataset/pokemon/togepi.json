@@ -51,6 +51,10 @@
       "method": "High Friendship"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
     "sapphire": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
@@ -243,6 +247,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/175.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.448Z"
+    "scrapedAt": "2026-09-03T20:31:33.919Z"
   }
 }

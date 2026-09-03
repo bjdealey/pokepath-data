@@ -62,6 +62,16 @@
       "method": "Sun Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "VILEPLUME's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
     "sapphire": "VILEPLUME has the world's largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this POKéMON catches and devours them.",
@@ -197,6 +207,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/045.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.571Z"
+    "scrapedAt": "2026-09-03T20:31:33.037Z"
   }
 }

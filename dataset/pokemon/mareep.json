@@ -56,6 +56,12 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "MAREEP's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
     "sapphire": "MAREEP's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
@@ -198,6 +204,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/179.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.493Z"
+    "scrapedAt": "2026-09-03T20:31:33.945Z"
   }
 }

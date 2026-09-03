@@ -57,6 +57,17 @@
       "method": "Level 27"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "grass": 0.25,
+    "ice": 4,
+    "fighting": 0.5,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
     "sapphire": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
@@ -221,6 +232,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/189.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.579Z"
+    "scrapedAt": "2026-09-03T20:31:34.020Z"
   }
 }

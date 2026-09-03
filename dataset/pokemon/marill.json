@@ -60,6 +60,14 @@
       "method": "Level 18"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "MARILL's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this POKéMON is diving beneath the water to feed on aquatic plants.",
     "sapphire": "When fishing for food at the edge of a fast-running stream, MARILL wraps its tail around the trunk of a tree. This POKéMON's tail is flexible and configured to stretch.",
@@ -246,6 +254,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/183.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.534Z"
+    "scrapedAt": "2026-09-03T20:31:33.979Z"
   }
 }

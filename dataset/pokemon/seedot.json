@@ -60,6 +60,17 @@
       "method": "Leaf Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON's body becomes.",
     "sapphire": "SEEDOT looks exactly like an acorn when it is dangling from a tree branch. It startles other POKéMON by suddenly moving. This POKéMON polishes its body once a day using leaves.",
@@ -206,6 +217,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/273.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.145Z"
+    "scrapedAt": "2026-09-03T20:31:34.631Z"
   }
 }

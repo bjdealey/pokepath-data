@@ -47,6 +47,16 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "MAGBY's state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
     "sapphire": "MAGBY's state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
@@ -209,6 +219,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/240.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.926Z"
+    "scrapedAt": "2026-09-03T20:31:34.405Z"
   }
 }

@@ -53,6 +53,14 @@
       "method": "Level 33"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "In the autumn, SEAKING males can be seen performing courtship dances in riverbeds to woo females. During this season, this POKéMON's body coloration is at its most beautiful.",
     "sapphire": "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these POKéMON goes on for over a month.",
@@ -215,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/119.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.081Z"
+    "scrapedAt": "2026-09-03T20:31:33.547Z"
   }
 }

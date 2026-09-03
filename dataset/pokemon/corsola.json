@@ -48,6 +48,17 @@
     "corsola"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.25,
+    "electric": 2,
+    "grass": 4,
+    "ice": 0.5,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5
+  },
   "flavorText": {
     "ruby": "CORSOLA's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this POKéMON grows it back in just one night.",
     "sapphire": "Clusters of CORSOLA congregate in warm seas where they serve as ideal hiding places for smaller POKéMON. When the water temperature falls, this POKéMON migrates to the southern seas.",
@@ -253,6 +264,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/222.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.807Z"
+    "scrapedAt": "2026-09-03T20:31:34.272Z"
   }
 }

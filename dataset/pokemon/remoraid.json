@@ -50,6 +50,14 @@
       "method": "Level 25"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
     "sapphire": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
@@ -220,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/223.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.813Z"
+    "scrapedAt": "2026-09-03T20:31:34.281Z"
   }
 }

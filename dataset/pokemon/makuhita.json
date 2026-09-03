@@ -53,6 +53,13 @@
       "method": "Level 24"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving.",
     "sapphire": "MAKUHITA has a tireless spirit - it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this POKéMON packs its body with energy.",
@@ -244,6 +251,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/296.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.304Z"
+    "scrapedAt": "2026-09-03T20:31:34.793Z"
   }
 }

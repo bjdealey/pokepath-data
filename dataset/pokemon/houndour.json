@@ -54,6 +54,19 @@
       "method": "Level 24"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "fighting": 2,
+    "ground": 2,
+    "psychic": 0,
+    "rock": 2,
+    "ghost": 0.5,
+    "dark": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON's remarkable teamwork is unparalleled.",
     "sapphire": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON's remarkable teamwork is unparalleled.",
@@ -238,6 +251,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/228.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.851Z"
+    "scrapedAt": "2026-09-03T20:31:34.319Z"
   }
 }

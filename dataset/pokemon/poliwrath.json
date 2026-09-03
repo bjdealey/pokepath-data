@@ -66,6 +66,19 @@
       "method": "Trade holding King's Rock"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "POLIWRATH's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
     "sapphire": "POLIWRATH's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
@@ -259,6 +272,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/062.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.695Z"
+    "scrapedAt": "2026-09-03T20:31:33.160Z"
   }
 }

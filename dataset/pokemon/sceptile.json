@@ -56,6 +56,17 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "The leaves growing on SCEPTILE's body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
     "sapphire": "SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This POKéMON raises the trees in a forest with loving care.",
@@ -280,6 +291,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/254.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.025Z"
+    "scrapedAt": "2026-09-03T20:31:34.501Z"
   }
 }

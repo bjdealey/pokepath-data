@@ -47,6 +47,12 @@
     "girafarig"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 0,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "GIRAFARIG's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this POKéMON from behind can cause the rear head to suddenly lash out and bite.",
     "sapphire": "GIRAFARIG's rear head contains a tiny brain that is too small for thinking. However, the rear head doesn't need to sleep, so it can keep watch over its surroundings 24 hours a day.",
@@ -244,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/203.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.679Z"
+    "scrapedAt": "2026-09-03T20:31:34.110Z"
   }
 }

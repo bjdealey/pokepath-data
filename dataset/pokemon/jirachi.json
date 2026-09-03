@@ -38,6 +38,19 @@
     "jirachi"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0.5,
+    "psychic": 0.25,
+    "rock": 0.5,
+    "dragon": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POKéMON senses danger, it will fight without awakening.",
     "sapphire": "JIRACHI will awaken from its sleep of a thousand years if you sing to it in a voice of purity. It is said to make true any wish that people desire.",
@@ -237,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/385.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.952Z"
+    "scrapedAt": "2026-09-03T20:31:35.443Z"
   }
 }

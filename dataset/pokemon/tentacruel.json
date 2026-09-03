@@ -54,6 +54,18 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "ice": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "TENTACRUEL has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This POKéMON's outburst creates rough waves around it.",
     "sapphire": "TENTACRUEL has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
@@ -233,6 +245,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/073.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.767Z"
+    "scrapedAt": "2026-09-03T20:31:33.231Z"
   }
 }

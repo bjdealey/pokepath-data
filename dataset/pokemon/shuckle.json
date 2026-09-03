@@ -43,6 +43,13 @@
     "shuckle"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "water": 2,
+    "poison": 0.5,
+    "rock": 2,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
     "sapphire": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
@@ -192,6 +199,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/213.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.746Z"
+    "scrapedAt": "2026-09-03T20:31:34.178Z"
   }
 }

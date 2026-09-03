@@ -57,6 +57,16 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "flying": 2,
+    "psychic": 2
+  },
   "flavorText": {
     "ruby": "There is a large flower on VENUSAUR's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "sapphire": "There is a large flower on VENUSAUR's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
@@ -249,6 +259,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/003.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.264Z"
+    "scrapedAt": "2026-09-03T20:31:32.728Z"
   }
 }

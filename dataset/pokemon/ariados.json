@@ -54,6 +54,16 @@
       "method": "Level 22"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.25,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "ARIADOS's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
     "sapphire": "ARIADOS's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
@@ -220,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/168.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.403Z"
+    "scrapedAt": "2026-09-03T20:31:33.874Z"
   }
 }

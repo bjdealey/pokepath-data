@@ -55,6 +55,16 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
     "sapphire": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
@@ -203,6 +213,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/155.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.317Z"
+    "scrapedAt": "2026-09-03T20:31:33.789Z"
   }
 }

@@ -56,6 +56,18 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.25,
+    "dark": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON's legs possess both speed and power, enabling it to dole out ten kicks in one second.",
     "sapphire": "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This POKéMON's cry is very loud and distracting.",
@@ -258,6 +270,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/256.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.039Z"
+    "scrapedAt": "2026-09-03T20:31:34.516Z"
   }
 }

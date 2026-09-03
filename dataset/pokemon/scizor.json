@@ -50,6 +50,19 @@
       "method": "Trade holding Metal Coat"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 4,
+    "grass": 0.25,
+    "ice": 0.5,
+    "poison": 0,
+    "psychic": 0.5,
+    "bug": 0.5,
+    "ghost": 0.5,
+    "dragon": 0.5,
+    "dark": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
     "sapphire": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
@@ -221,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/212.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.741Z"
+    "scrapedAt": "2026-09-03T20:31:34.173Z"
   }
 }

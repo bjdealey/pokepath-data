@@ -56,6 +56,14 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "Despite the smallness of its body, TOTODILE's jaws are very powerful. While the POKéMON may think it is just playfully nipping, its bite has enough power to cause serious injury.",
     "sapphire": "Despite the smallness of its body, TOTODILE's jaws are very powerful. While the POKéMON may think it is just playfully nipping, its bite has enough power to cause serious injury.",
@@ -242,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/158.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.339Z"
+    "scrapedAt": "2026-09-03T20:31:33.809Z"
   }
 }

@@ -61,6 +61,19 @@
       "method": "Trade holding King's Rock"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "SLOWBRO's tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
     "sapphire": "SLOWBRO's tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
@@ -301,6 +314,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/080.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.815Z"
+    "scrapedAt": "2026-09-03T20:31:33.279Z"
   }
 }

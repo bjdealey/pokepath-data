@@ -50,6 +50,19 @@
       "method": "Level 31"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 4,
+    "grass": 0.25,
+    "ice": 0.5,
+    "poison": 0,
+    "psychic": 0.5,
+    "bug": 0.5,
+    "ghost": 0.5,
+    "dragon": 0.5,
+    "dark": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
     "sapphire": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
@@ -221,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/205.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.693Z"
+    "scrapedAt": "2026-09-03T20:31:34.123Z"
   }
 }

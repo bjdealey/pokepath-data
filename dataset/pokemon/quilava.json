@@ -55,6 +55,16 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
     "sapphire": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
@@ -228,6 +238,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/156.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.325Z"
+    "scrapedAt": "2026-09-03T20:31:33.794Z"
   }
 }

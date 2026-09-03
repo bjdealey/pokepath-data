@@ -56,6 +56,14 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this POKéMON's toughness as a battler.",
     "sapphire": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this POKéMON's toughness as a battler.",
@@ -258,6 +266,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/008.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.318Z"
+    "scrapedAt": "2026-09-03T20:31:32.777Z"
   }
 }

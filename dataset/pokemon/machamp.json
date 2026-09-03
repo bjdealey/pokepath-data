@@ -55,6 +55,13 @@
       "method": "Trade"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "MACHAMP has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This POKéMON tends to leap into action before it thinks.",
     "sapphire": "MACHAMP is known as the POKéMON that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.",
@@ -257,6 +264,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/068.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.737Z"
+    "scrapedAt": "2026-09-03T20:31:33.200Z"
   }
 }

@@ -53,6 +53,10 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
     "sapphire": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
@@ -230,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/173.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.435Z"
+    "scrapedAt": "2026-09-03T20:31:33.905Z"
   }
 }

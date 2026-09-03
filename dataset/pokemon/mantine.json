@@ -47,6 +47,16 @@
     "mantine"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 4,
+    "fighting": 0.5,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea's waves. This POKéMON is not bothered by the REMORAID that hitches rides.",
     "sapphire": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea's waves. This POKéMON is not bothered by the REMORAID that hitches rides.",
@@ -208,6 +218,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/226.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.838Z"
+    "scrapedAt": "2026-09-03T20:31:34.306Z"
   }
 }

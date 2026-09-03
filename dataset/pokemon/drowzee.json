@@ -49,6 +49,13 @@
       "method": "Level 26"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
     "sapphire": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
@@ -247,6 +254,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/096.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.917Z"
+    "scrapedAt": "2026-09-03T20:31:33.392Z"
   }
 }

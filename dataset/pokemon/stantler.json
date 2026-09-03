@@ -42,6 +42,10 @@
     "stantler"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "STANTLER's magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers.",
     "sapphire": "STANTLER's magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers.",
@@ -233,6 +237,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/234.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.890Z"
+    "scrapedAt": "2026-09-03T20:31:34.363Z"
   }
 }

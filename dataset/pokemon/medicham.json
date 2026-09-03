@@ -50,6 +50,12 @@
       "method": "Level 37"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "flying": 2,
+    "rock": 0.5,
+    "ghost": 2
+  },
   "flavorText": {
     "ruby": "It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POKéMON hides its presence by merging itself with fields and mountains.",
     "sapphire": "Through the power of meditation, MEDICHAM developed its sixth sense. It gained the ability to use psychokinetic powers. This POKéMON is known to meditate for a whole month without eating.",
@@ -275,6 +281,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/308.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.396Z"
+    "scrapedAt": "2026-09-03T20:31:34.879Z"
   }
 }

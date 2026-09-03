@@ -57,6 +57,10 @@
       "method": "Level 18"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet.",
     "sapphire": "AZURILL's tail is large and bouncy. It is packed full of the nutrients this POKéMON needs to grow. AZURILL can be seen bouncing and playing on its big, rubbery tail.",
@@ -199,6 +203,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/298.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.317Z"
+    "scrapedAt": "2026-09-03T20:31:34.806Z"
   }
 }

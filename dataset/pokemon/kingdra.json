@@ -57,6 +57,12 @@
       "method": "Trade holding Dragon Scale"
     }
   ],
+  "damageTaken": {
+    "fire": 0.25,
+    "water": 0.25,
+    "dragon": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents.",
     "sapphire": "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the POKéMON is said to awaken and wander about in search of prey.",
@@ -222,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/230.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.863Z"
+    "scrapedAt": "2026-09-03T20:31:34.334Z"
   }
 }

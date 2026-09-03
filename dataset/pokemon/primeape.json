@@ -49,6 +49,13 @@
       "method": "Level 28"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
     "sapphire": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
@@ -271,6 +278,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/057.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.655Z"
+    "scrapedAt": "2026-09-03T20:31:33.127Z"
   }
 }

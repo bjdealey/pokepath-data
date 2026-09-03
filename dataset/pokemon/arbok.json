@@ -54,6 +54,14 @@
       "method": "Level 22"
     }
   ],
+  "damageTaken": {
+    "grass": 0.5,
+    "fighting": 0.5,
+    "poison": 0.5,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5
+  },
   "flavorText": {
     "ruby": "This POKéMON is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
     "sapphire": "This POKéMON is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once ARBOK wraps its body around its foe, escaping its crunching embrace is impossible.",
@@ -236,6 +244,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/024.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.422Z"
+    "scrapedAt": "2026-09-03T20:31:32.888Z"
   }
 }

@@ -65,6 +65,14 @@
       "method": "Trade holding King's Rock"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "The curled hair on POLITOED's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
     "sapphire": "The curled hair on POLITOED's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
@@ -249,6 +257,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/186.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.559Z"
+    "scrapedAt": "2026-09-03T20:31:34.001Z"
   }
 }

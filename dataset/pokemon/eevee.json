@@ -73,6 +73,10 @@
       "method": "High Friendship (Nighttime)"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this POKéMON to evolve.",
     "sapphire": "EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this POKéMON to evolve.",
@@ -213,6 +217,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/133.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.167Z"
+    "scrapedAt": "2026-09-03T20:31:33.633Z"
   }
 }

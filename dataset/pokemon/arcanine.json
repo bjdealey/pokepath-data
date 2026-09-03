@@ -53,6 +53,16 @@
       "method": "Fire Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON's body is its source of power.",
     "sapphire": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON's body is its source of power.",
@@ -205,6 +215,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/059.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.666Z"
+    "scrapedAt": "2026-09-03T20:31:33.141Z"
   }
 }

@@ -56,6 +56,17 @@
       "method": "Level 32"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "The fragrance of MEGANIUM's flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe's fighting spirit.",
     "sapphire": "The fragrance of MEGANIUM's flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe's fighting spirit.",
@@ -248,6 +259,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/154.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.312Z"
+    "scrapedAt": "2026-09-03T20:31:33.783Z"
   }
 }

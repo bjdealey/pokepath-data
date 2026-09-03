@@ -42,6 +42,10 @@
     "kangaskhan"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON's parent is sure to be in the area, and it will become violently enraged at you.",
     "sapphire": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON's parent is sure to be in the area, and it will become violently enraged at you.",
@@ -290,6 +294,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/115.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.054Z"
+    "scrapedAt": "2026-09-03T20:31:33.522Z"
   }
 }

@@ -54,6 +54,18 @@
       "method": "Level 38"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.25,
+    "water": 4,
+    "ice": 0.5,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 4,
+    "flying": 0.5,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "MAGCARGO's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This POKéMON returns to its original size by dipping itself in magma.",
     "sapphire": "MAGCARGO's body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this POKéMON is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
@@ -228,6 +240,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/219.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.788Z"
+    "scrapedAt": "2026-09-03T20:31:34.238Z"
   }
 }

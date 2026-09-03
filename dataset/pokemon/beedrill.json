@@ -56,6 +56,16 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.25,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
     "sapphire": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
@@ -209,6 +219,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/015.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.362Z"
+    "scrapedAt": "2026-09-03T20:31:32.823Z"
   }
 }

@@ -15,6 +15,7 @@ node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts moves              # scrape all Gen-III moves (attackdex); `moves 20` = first 20
 node src/run.ts learnedby          # bake move→Pokémon reverse index into moves (after pokemon+moves)
 node src/run.ts machines           # derive TM/HM → move table (after pokemon; +moves/story/items enrich)
+node src/run.ts typechart          # derive the Gen-3 type chart from Pokémon damage-taken (after pokemon)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
@@ -23,7 +24,7 @@ npm test                           # parser fixture tests
 ```
 
 Output → canonical `dataset/{pokemon,moves,items}/<slug>.json` (each with an
-`index.json`) + `dataset/machines.json`, plus game-scoped
+`index.json`) + `dataset/{machines,typechart}.json`, plus game-scoped
 `dataset/games/<game>/{encounters,locations,items,trainers,story}.json`.
 
 ## How it works
@@ -48,6 +49,7 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   Trade holding King's Rock / High Beauty / …, decoded from the chain's method icons —
   handles branches like Eevee, Wurmple, Slowpoke, Nincada→Shedinja), per-game
   flavor/location, full **learnset** — level-up, TM/HM, egg, and Emerald tutor moves),
+  and **type effectiveness** (`damageTaken` — non-neutral weak/resist/immune multipliers),
   parsed from `/pokedex-rs/NNN.shtml`.
 - ✅ `moves` — all **Gen-III moves** (~355) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
@@ -65,6 +67,10 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   58 = 50 TMs + 8 HMs), derived by inverting the machine learnsets (no network). Each
   carries the move + type/category and its Emerald source (gym-badge reward or on-ground
   find) — e.g. TM39 Rock Tomb (Stone Badge), HM03 Surf (Petalburg City).
+- ✅ `typechart` — the **Gen-3 17×17 type effectiveness chart** (`dataset/typechart.json`,
+  `chart[attacking][defending]`), derived from the pure-type Pokémon's `damageTaken` (no
+  network). Gen-3-accurate: Steel resists Ghost/Dark. Flying (no pure Gen-3 rep) is
+  derived from a Bug/Flying mon. Verified against known matchups.
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

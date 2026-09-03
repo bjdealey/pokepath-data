@@ -56,6 +56,17 @@
       "method": "High Friendship"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "ground": 0,
+    "psychic": 2,
+    "bug": 0.25,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "ZUBAT remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
     "sapphire": "ZUBAT avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
@@ -222,6 +233,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/041.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.545Z"
+    "scrapedAt": "2026-09-03T20:31:33.010Z"
   }
 }

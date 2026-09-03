@@ -42,6 +42,17 @@
     "tangela"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "TANGELA's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
     "sapphire": "TANGELA's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
@@ -215,6 +226,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/114.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.047Z"
+    "scrapedAt": "2026-09-03T20:31:33.514Z"
   }
 }

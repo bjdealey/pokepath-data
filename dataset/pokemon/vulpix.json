@@ -49,6 +49,16 @@
       "method": "Fire Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "At the time of its birth, VULPIX has one white tail. The tail separates into six if this POKéMON receives plenty of love from its TRAINER. The six tails become magnificently curled.",
     "sapphire": "Inside VULPIX's body burns a flame that never goes out. During the daytime, when the temperatures rise, this POKéMON releases flames from its mouth to prevent its body from growing too hot.",
@@ -210,6 +220,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/037.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.519Z"
+    "scrapedAt": "2026-09-03T20:31:32.985Z"
   }
 }

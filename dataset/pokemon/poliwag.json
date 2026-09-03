@@ -65,6 +65,14 @@
       "method": "Trade holding King's Rock"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "POLIWAG has a very thin skin. It is possible to see the POKéMON's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
     "sapphire": "POLIWAG has a very thin skin. It is possible to see the POKéMON's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
@@ -226,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/060.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.678Z"
+    "scrapedAt": "2026-09-03T20:31:33.146Z"
   }
 }

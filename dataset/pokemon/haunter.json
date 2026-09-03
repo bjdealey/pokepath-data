@@ -56,6 +56,17 @@
       "method": "Trade"
     }
   ],
+  "damageTaken": {
+    "normal": 0,
+    "grass": 0.5,
+    "fighting": 0,
+    "poison": 0.25,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.25,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
     "sapphire": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
@@ -232,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/093.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.897Z"
+    "scrapedAt": "2026-09-03T20:31:33.372Z"
   }
 }

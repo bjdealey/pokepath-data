@@ -54,6 +54,17 @@
       "method": "Level 25"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "psychic": 0.5,
+    "rock": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "XATU stands rooted and still in one spot all day long. People believe that this POKéMON does so out of fear of the terrible things it has foreseen in the future.",
     "sapphire": "XATU is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical POKéMON out of their belief that XATU is in possession of the power to see into the future.",
@@ -237,6 +248,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/178.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.468Z"
+    "scrapedAt": "2026-09-03T20:31:33.939Z"
   }
 }

@@ -56,6 +56,16 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
     "sapphire": "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
@@ -248,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/005.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.282Z"
+    "scrapedAt": "2026-09-03T20:31:32.751Z"
   }
 }

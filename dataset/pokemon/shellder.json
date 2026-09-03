@@ -49,6 +49,14 @@
       "method": "Water Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
     "sapphire": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
@@ -193,6 +201,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/090.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.879Z"
+    "scrapedAt": "2026-09-03T20:31:33.345Z"
   }
 }

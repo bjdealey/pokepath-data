@@ -47,6 +47,17 @@
     "sneasel"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 2,
+    "ice": 0.5,
+    "fighting": 4,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 2,
+    "ghost": 0.5,
+    "dark": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
     "sapphire": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
@@ -268,6 +279,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/215.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.760Z"
+    "scrapedAt": "2026-09-03T20:31:34.192Z"
   }
 }

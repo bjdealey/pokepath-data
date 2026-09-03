@@ -50,6 +50,15 @@
       "method": "Level 33"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 4,
+    "electric": 0,
+    "poison": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "NUMEL is extremely dull witted - it doesn't notice being hit. However, it can't stand hunger for even a second. This POKéMON's body is a seething cauldron of boiling magma.",
     "sapphire": "NUMEL stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the POKéMON's body grows heavy and its movements become sluggish.",
@@ -216,6 +225,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/322.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.487Z"
+    "scrapedAt": "2026-09-03T20:31:34.980Z"
   }
 }

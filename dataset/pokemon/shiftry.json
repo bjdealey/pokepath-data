@@ -61,6 +61,21 @@
       "method": "Leaf Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "psychic": 0,
+    "bug": 4,
+    "ghost": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
     "sapphire": "SHIFTRY's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This POKéMON chooses to live quietly deep in forests.",
@@ -232,6 +247,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/275.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.163Z"
+    "scrapedAt": "2026-09-03T20:31:34.645Z"
   }
 }

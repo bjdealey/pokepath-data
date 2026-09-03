@@ -54,6 +54,14 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "CORPHISH were originally foreign POKéMON that were imported as pets. They eventually turned up in the wild. This POKéMON is very hardy and has greatly increased its population.",
     "sapphire": "CORPHISH catches prey with its sharp claws. It has no likes or dislikes when it comes to food - it will eat anything. This POKéMON has no trouble living in filthy water.",
@@ -247,6 +255,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/341.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.654Z"
+    "scrapedAt": "2026-09-03T20:31:35.108Z"
   }
 }

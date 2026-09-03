@@ -185,6 +185,7 @@ export interface PokemonRecord {
   baseStats: BaseStats;
   evolutionChain: string[]; // slugs of the whole family, in order
   evolutions: EvolutionEdge[]; // how each member evolves (with method)
+  damageTaken: Record<string, number>; // attacking type → multiplier, non-neutral only (weak/resist/immune)
   flavorText: Partial<Record<GameSlug, string>>;
   locations: Partial<Record<GameSlug, string>>;
   learnset: Learnset; // scoped to the scraped game family (RSE for now)

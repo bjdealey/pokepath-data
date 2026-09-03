@@ -56,6 +56,14 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
     "sapphire": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
@@ -275,6 +283,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/160.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.351Z"
+    "scrapedAt": "2026-09-03T20:31:33.823Z"
   }
 }

@@ -42,6 +42,14 @@
     "luvdisc"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "LUVDISC live in shallow seas in the tropics. This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean's waves.",
     "sapphire": "LUVDISC's heart-shaped body is a symbol of love and romance. It is said that any couple meeting this POKéMON is promised a loving relationship that never ends.",
@@ -196,6 +204,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/370.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.855Z"
+    "scrapedAt": "2026-09-03T20:31:35.321Z"
   }
 }

@@ -46,6 +46,10 @@
     "lickitung"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
     "sapphire": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
@@ -286,6 +290,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/108.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.005Z"
+    "scrapedAt": "2026-09-03T20:31:33.474Z"
   }
 }

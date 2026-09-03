@@ -53,6 +53,16 @@
       "method": "Level 40"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
     "sapphire": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
@@ -224,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/078.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.799Z"
+    "scrapedAt": "2026-09-03T20:31:33.264Z"
   }
 }

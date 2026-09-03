@@ -54,6 +54,14 @@
       "method": "Level 40"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "WAILORD is the largest of all identified POKéMON up to now. This giant POKéMON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
     "sapphire": "When chasing prey, WAILORD herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this POKéMON leaping out of the sea with others in its pod.",
@@ -257,6 +265,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/321.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.481Z"
+    "scrapedAt": "2026-09-03T20:31:34.974Z"
   }
 }

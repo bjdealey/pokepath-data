@@ -46,6 +46,17 @@
     "sudowoodo"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.5,
+    "water": 2,
+    "grass": 2,
+    "fighting": 2,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
     "sapphire": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
@@ -221,6 +232,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/185.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.550Z"
+    "scrapedAt": "2026-09-03T20:31:33.993Z"
   }
 }

@@ -49,6 +49,13 @@
       "method": "Level 26"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
     "sapphire": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
@@ -259,6 +266,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/097.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.925Z"
+    "scrapedAt": "2026-09-03T20:31:33.398Z"
   }
 }

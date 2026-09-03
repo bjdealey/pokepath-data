@@ -51,6 +51,19 @@
       "method": "Level 24"
     }
   ],
+  "damageTaken": {
+    "fire": 4,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.5,
+    "poison": 2,
+    "ground": 0.25,
+    "flying": 4,
+    "bug": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
     "sapphire": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
@@ -230,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/047.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.585Z"
+    "scrapedAt": "2026-09-03T20:31:33.051Z"
   }
 }

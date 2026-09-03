@@ -56,6 +56,12 @@
       "method": "Level 30"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "FLAAFFY's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
     "sapphire": "FLAAFFY's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
@@ -225,6 +231,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/180.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.506Z"
+    "scrapedAt": "2026-09-03T20:31:33.957Z"
   }
 }

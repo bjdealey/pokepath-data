@@ -42,6 +42,13 @@
     "chimecho"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 0.5,
+    "psychic": 0.5,
+    "bug": 2,
+    "ghost": 2,
+    "dark": 2
+  },
   "flavorText": {
     "ruby": "CHIMECHO makes its cries echo inside its hollow body. When this POKéMON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
     "sapphire": "In high winds, CHIMECHO cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This POKéMON plucks berries with its long tail and eats them.",
@@ -230,6 +237,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/358.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.776Z"
+    "scrapedAt": "2026-09-03T20:31:35.226Z"
   }
 }

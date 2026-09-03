@@ -49,6 +49,14 @@
       "method": "Level 25"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "poison": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "For its nest, PHANPY digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
     "sapphire": "PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These POKéMON can be seen drying their soaking-wet bodies at the edge of water.",
@@ -203,6 +211,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/231.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.870Z"
+    "scrapedAt": "2026-09-03T20:31:34.342Z"
   }
 }

@@ -56,6 +56,21 @@
       "method": "Level 55"
     }
   ],
+  "damageTaken": {
+    "normal": 0.5,
+    "fire": 0.5,
+    "water": 2,
+    "grass": 2,
+    "fighting": 4,
+    "poison": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "psychic": 0,
+    "bug": 2,
+    "ghost": 0.5,
+    "dark": 0.5,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
     "sapphire": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
@@ -305,6 +320,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/248.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.979Z"
+    "scrapedAt": "2026-09-03T20:31:34.462Z"
   }
 }

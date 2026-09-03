@@ -53,6 +53,10 @@
       "method": "Level 15"
     }
   ],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear.",
     "sapphire": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear.",
@@ -246,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/161.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.359Z"
+    "scrapedAt": "2026-09-03T20:31:33.829Z"
   }
 }

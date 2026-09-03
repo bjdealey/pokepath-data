@@ -55,6 +55,16 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
     "sapphire": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
@@ -248,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/157.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.331Z"
+    "scrapedAt": "2026-09-03T20:31:33.803Z"
   }
 }

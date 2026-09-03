@@ -59,6 +59,13 @@
       "method": "Tyrogue20aed"
     }
   ],
+  "damageTaken": {
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5,
+    "dark": 0.5
+  },
   "flavorText": {
     "ruby": "TYROGUE becomes stressed out if it does not get to train every day. When raising this POKéMON, the TRAINER must establish and uphold various training methods.",
     "sapphire": "TYROGUE becomes stressed out if it does not get to train every day. When raising this POKéMON, the TRAINER must establish and uphold various training methods.",
@@ -182,6 +189,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/236.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.899Z"
+    "scrapedAt": "2026-09-03T20:31:34.373Z"
   }
 }

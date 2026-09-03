@@ -56,6 +56,16 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.25,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
     "sapphire": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
@@ -89,6 +99,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/014.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.356Z"
+    "scrapedAt": "2026-09-03T20:31:32.817Z"
   }
 }

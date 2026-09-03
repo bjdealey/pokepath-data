@@ -68,6 +68,17 @@
       "method": "Level 10"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "electric": 2,
+    "grass": 0.25,
+    "ice": 2,
+    "fighting": 0.25,
+    "ground": 0,
+    "flying": 2,
+    "bug": 0.5,
+    "rock": 4
+  },
   "flavorText": {
     "ruby": "BEAUTIFLY's favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
     "sapphire": "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This POKéMON rides the spring winds as it flits around gathering pollen.",
@@ -223,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/267.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.109Z"
+    "scrapedAt": "2026-09-03T20:31:34.592Z"
   }
 }

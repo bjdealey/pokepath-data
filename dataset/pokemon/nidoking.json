@@ -80,6 +80,17 @@
       "method": "Moon Stone"
     }
   ],
+  "damageTaken": {
+    "water": 2,
+    "electric": 0,
+    "ice": 2,
+    "fighting": 0.5,
+    "poison": 0.25,
+    "ground": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 0.5
+  },
   "flavorText": {
     "ruby": "NIDOKING's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it.",
     "sapphire": "NIDOKING's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it.",
@@ -308,6 +319,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/034.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.497Z"
+    "scrapedAt": "2026-09-03T20:31:32.962Z"
   }
 }

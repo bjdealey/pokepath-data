@@ -53,6 +53,12 @@
       "method": "Level 26"
     }
   ],
+  "damageTaken": {
+    "electric": 0.5,
+    "ground": 2,
+    "flying": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this POKéMON creates thunderclouds.",
     "sapphire": "MANECTRIC discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This POKéMON creates thunderclouds above its head.",
@@ -233,6 +239,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/310.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.407Z"
+    "scrapedAt": "2026-09-03T20:31:34.893Z"
   }
 }

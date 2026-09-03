@@ -56,6 +56,15 @@
       "method": "Level 36"
     }
   ],
+  "damageTaken": {
+    "electric": 2,
+    "grass": 0.5,
+    "ice": 2,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
     "sapphire": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
@@ -214,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/018.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.381Z"
+    "scrapedAt": "2026-09-03T20:31:32.843Z"
   }
 }

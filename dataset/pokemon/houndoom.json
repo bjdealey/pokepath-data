@@ -54,6 +54,19 @@
       "method": "Level 24"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "fighting": 2,
+    "ground": 2,
+    "psychic": 0,
+    "rock": 2,
+    "ghost": 0.5,
+    "dark": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
     "sapphire": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
@@ -250,6 +263,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/229.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.857Z"
+    "scrapedAt": "2026-09-03T20:31:34.328Z"
   }
 }

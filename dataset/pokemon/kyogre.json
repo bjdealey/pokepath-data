@@ -37,6 +37,14 @@
     "kyogre"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0.5,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This POKéMON saved people who were suffering from droughts.",
     "sapphire": "KYOGRE is named in mythology as the POKéMON that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with GROUDON.",
@@ -239,6 +247,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/382.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.933Z"
+    "scrapedAt": "2026-09-03T20:31:35.422Z"
   }
 }

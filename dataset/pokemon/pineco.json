@@ -49,6 +49,14 @@
       "method": "Level 31"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.5,
+    "fighting": 0.5,
+    "ground": 0.5,
+    "flying": 2,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
     "sapphire": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
@@ -212,6 +220,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/204.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.687Z"
+    "scrapedAt": "2026-09-03T20:31:34.118Z"
   }
 }

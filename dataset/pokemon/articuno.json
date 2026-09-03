@@ -38,6 +38,15 @@
     "articuno"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fire": 2,
+    "electric": 2,
+    "grass": 0.5,
+    "ground": 0,
+    "bug": 0.5,
+    "rock": 4,
+    "steel": 2
+  },
   "flavorText": {
     "ruby": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
     "sapphire": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
@@ -203,6 +212,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/144.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.239Z"
+    "scrapedAt": "2026-09-03T20:31:33.714Z"
   }
 }

@@ -54,6 +54,16 @@
       "method": "Level 22"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "grass": 0.25,
+    "fighting": 0.25,
+    "poison": 0.5,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0.5,
+    "rock": 2
+  },
   "flavorText": {
     "ruby": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
     "sapphire": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
@@ -208,6 +218,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/167.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.398Z"
+    "scrapedAt": "2026-09-03T20:31:33.868Z"
   }
 }

@@ -56,6 +56,14 @@
       "method": "Level 55"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "dragon": 2
+  },
   "flavorText": {
     "ruby": "DRATINI continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
     "sapphire": "DRATINI continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
@@ -245,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/147.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.257Z"
+    "scrapedAt": "2026-09-03T20:31:33.733Z"
   }
 }

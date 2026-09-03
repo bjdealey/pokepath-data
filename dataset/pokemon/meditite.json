@@ -50,6 +50,12 @@
       "method": "Level 37"
     }
   ],
+  "damageTaken": {
+    "fighting": 0.5,
+    "flying": 2,
+    "rock": 0.5,
+    "ghost": 2
+  },
   "flavorText": {
     "ruby": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POKéMON always loses its concentration and focus. As a result, its training never ends.",
     "sapphire": "MEDITITE heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this POKéMON's training.",
@@ -246,6 +252,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/307.shtml",
-    "scrapedAt": "2026-09-03T19:59:37.387Z"
+    "scrapedAt": "2026-09-03T20:31:34.872Z"
   }
 }

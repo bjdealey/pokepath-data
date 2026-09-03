@@ -53,6 +53,16 @@
       "method": "Fire Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 0.5,
+    "water": 2,
+    "grass": 0.5,
+    "ice": 0.5,
+    "ground": 2,
+    "bug": 0.5,
+    "rock": 2,
+    "steel": 0.5
+  },
   "flavorText": {
     "ruby": "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
     "sapphire": "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
@@ -221,6 +231,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/058.shtml",
-    "scrapedAt": "2026-09-03T19:59:35.661Z"
+    "scrapedAt": "2026-09-03T20:31:33.133Z"
   }
 }

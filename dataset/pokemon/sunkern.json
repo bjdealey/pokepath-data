@@ -49,6 +49,17 @@
       "method": "Sun Stone"
     }
   ],
+  "damageTaken": {
+    "fire": 2,
+    "water": 0.5,
+    "electric": 0.5,
+    "grass": 0.5,
+    "ice": 2,
+    "poison": 2,
+    "ground": 0.5,
+    "flying": 2,
+    "bug": 2
+  },
   "flavorText": {
     "ruby": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
     "sapphire": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
@@ -199,6 +210,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/191.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.593Z"
+    "scrapedAt": "2026-09-03T20:31:34.033Z"
   }
 }

@@ -42,6 +42,10 @@
     "tauros"
   ],
   "evolutions": [],
+  "damageTaken": {
+    "fighting": 2,
+    "ghost": 0
+  },
   "flavorText": {
     "ruby": "This POKéMON is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
     "sapphire": "This POKéMON is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
@@ -230,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/128.shtml",
-    "scrapedAt": "2026-09-03T19:59:36.139Z"
+    "scrapedAt": "2026-09-03T20:31:33.606Z"
   }
 }
