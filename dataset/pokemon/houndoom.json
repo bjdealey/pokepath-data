@@ -47,6 +47,13 @@
     "houndour",
     "houndoom"
   ],
+  "evolutions": [
+    {
+      "from": "houndour",
+      "to": "houndoom",
+      "method": "Level 24"
+    }
+  ],
   "flavorText": {
     "ruby": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
     "sapphire": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
@@ -243,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/229.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.131Z"
+    "scrapedAt": "2026-09-03T19:59:36.857Z"
   }
 }

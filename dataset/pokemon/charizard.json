@@ -45,6 +45,18 @@
     "charmeleon",
     "charizard"
   ],
+  "evolutions": [
+    {
+      "from": "charmander",
+      "to": "charmeleon",
+      "method": "Level 16"
+    },
+    {
+      "from": "charmeleon",
+      "to": "charizard",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
     "sapphire": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
@@ -265,6 +277,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/006.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.635Z"
+    "scrapedAt": "2026-09-03T19:59:35.295Z"
   }
 }

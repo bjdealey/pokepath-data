@@ -43,6 +43,13 @@
     "carvanha",
     "sharpedo"
   ],
+  "evolutions": [
+    {
+      "from": "carvanha",
+      "to": "sharpedo",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "CARVANHA's strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
     "sapphire": "If anything invades CARVANHA's territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this POKéMON turns suddenly timid.",
@@ -209,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/318.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.719Z"
+    "scrapedAt": "2026-09-03T19:59:37.459Z"
   }
 }

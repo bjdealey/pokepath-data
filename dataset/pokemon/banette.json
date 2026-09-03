@@ -42,6 +42,13 @@
     "shuppet",
     "banette"
   ],
+  "evolutions": [
+    {
+      "from": "shuppet",
+      "to": "banette",
+      "method": "Level 37"
+    }
+  ],
   "flavorText": {
     "ruby": "BANETTE generates energy for laying strong curses by sticking pins into its own body. This POKéMON was originally a pitiful plush doll that was thrown away.",
     "sapphire": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as BANETTE. The POKéMON's energy would escape if it were to ever open its mouth.",
@@ -241,6 +248,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/354.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.955Z"
+    "scrapedAt": "2026-09-03T19:59:37.747Z"
   }
 }

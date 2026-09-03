@@ -46,6 +46,13 @@
     "ponyta",
     "rapidash"
   ],
+  "evolutions": [
+    {
+      "from": "ponyta",
+      "to": "rapidash",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "PONYTA is very weak at birth. It can barely stand up. This POKéMON becomes stronger by stumbling and falling to keep up with its parent.",
     "sapphire": "PONYTA is very weak at birth. It can barely stand up. This POKéMON becomes stronger by stumbling and falling to keep up with its parent.",
@@ -197,6 +204,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/077.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.134Z"
+    "scrapedAt": "2026-09-03T19:59:35.794Z"
   }
 }

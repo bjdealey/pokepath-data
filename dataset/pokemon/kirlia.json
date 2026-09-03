@@ -47,6 +47,18 @@
     "kirlia",
     "gardevoir"
   ],
+  "evolutions": [
+    {
+      "from": "ralts",
+      "to": "kirlia",
+      "method": "Level 20"
+    },
+    {
+      "from": "kirlia",
+      "to": "gardevoir",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.",
     "sapphire": "KIRLIA uses the horns on its head to amplify its psychokinetic power. When the POKéMON uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
@@ -253,6 +265,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/281.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.467Z"
+    "scrapedAt": "2026-09-03T19:59:37.201Z"
   }
 }

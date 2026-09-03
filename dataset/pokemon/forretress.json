@@ -43,6 +43,13 @@
     "pineco",
     "forretress"
   ],
+  "evolutions": [
+    {
+      "from": "pineco",
+      "to": "forretress",
+      "method": "Level 31"
+    }
+  ],
   "flavorText": {
     "ruby": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
     "sapphire": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.",
@@ -214,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/205.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.974Z"
+    "scrapedAt": "2026-09-03T19:59:36.693Z"
   }
 }

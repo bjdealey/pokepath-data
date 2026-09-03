@@ -47,6 +47,13 @@
     "hoothoot",
     "noctowl"
   ],
+  "evolutions": [
+    {
+      "from": "hoothoot",
+      "to": "noctowl",
+      "method": "Level 20"
+    }
+  ],
   "flavorText": {
     "ruby": "NOCTOWL never fails at catching prey in darkness. This POKéMON owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
     "sapphire": "NOCTOWL never fails at catching prey in darkness. This POKéMON owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight.",
@@ -220,6 +227,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/164.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.707Z"
+    "scrapedAt": "2026-09-03T19:59:36.379Z"
   }
 }

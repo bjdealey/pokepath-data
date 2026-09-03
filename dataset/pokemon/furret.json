@@ -46,6 +46,13 @@
     "sentret",
     "furret"
   ],
+  "evolutions": [
+    {
+      "from": "sentret",
+      "to": "furret",
+      "method": "Level 15"
+    }
+  ],
   "flavorText": {
     "ruby": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
     "sapphire": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
@@ -267,6 +274,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/162.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.694Z"
+    "scrapedAt": "2026-09-03T19:59:36.365Z"
   }
 }

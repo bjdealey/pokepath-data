@@ -44,6 +44,13 @@
     "swablu",
     "altaria"
   ],
+  "evolutions": [
+    {
+      "from": "swablu",
+      "to": "altaria",
+      "method": "Level 35"
+    }
+  ],
   "flavorText": {
     "ruby": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
     "sapphire": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself.",
@@ -208,6 +215,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/333.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.823Z"
+    "scrapedAt": "2026-09-03T19:59:37.597Z"
   }
 }

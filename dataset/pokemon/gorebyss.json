@@ -43,6 +43,18 @@
     "huntail",
     "gorebyss"
   ],
+  "evolutions": [
+    {
+      "from": "clamperl",
+      "to": "huntail",
+      "method": "Trade holding Deep Sea Tooth"
+    },
+    {
+      "from": "clamperl",
+      "to": "gorebyss",
+      "method": "Trade holding Deep Sea Scale"
+    }
+  ],
   "flavorText": {
     "ruby": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON's body is unharmed by ordinary attacks.",
     "sapphire": "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this POKéMON inserts its thin mouth into the prey's body and drains the prey of its body fluids.",
@@ -208,6 +220,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/368.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.047Z"
+    "scrapedAt": "2026-09-03T19:59:37.838Z"
   }
 }

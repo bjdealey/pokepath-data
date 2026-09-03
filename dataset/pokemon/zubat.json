@@ -44,6 +44,18 @@
     "golbat",
     "crobat"
   ],
+  "evolutions": [
+    {
+      "from": "zubat",
+      "to": "golbat",
+      "method": "Level 22"
+    },
+    {
+      "from": "golbat",
+      "to": "crobat",
+      "method": "High Friendship"
+    }
+  ],
   "flavorText": {
     "ruby": "ZUBAT remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
     "sapphire": "ZUBAT avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
@@ -210,6 +222,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/041.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.887Z"
+    "scrapedAt": "2026-09-03T19:59:35.545Z"
   }
 }

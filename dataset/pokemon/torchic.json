@@ -43,6 +43,18 @@
     "combusken",
     "blaziken"
   ],
+  "evolutions": [
+    {
+      "from": "torchic",
+      "to": "combusken",
+      "method": "Level 16"
+    },
+    {
+      "from": "combusken",
+      "to": "blaziken",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POKéMON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
     "sapphire": "TORCHIC has a place inside its body where it keeps its flame. Give it a hug - it will be glowing with warmth. This POKéMON is covered all over by a fluffy coat of down.",
@@ -217,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/255.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.302Z"
+    "scrapedAt": "2026-09-03T19:59:37.030Z"
   }
 }

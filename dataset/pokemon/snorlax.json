@@ -45,6 +45,7 @@
   "evolutionChain": [
     "snorlax"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SNORLAX's typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
     "sapphire": "SNORLAX's typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
@@ -278,6 +279,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/143.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.564Z"
+    "scrapedAt": "2026-09-03T19:59:36.234Z"
   }
 }

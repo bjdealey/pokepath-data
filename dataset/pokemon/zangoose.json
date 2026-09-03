@@ -41,6 +41,7 @@
   "evolutionChain": [
     "zangoose"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE's body. This POKéMON adroitly dodges attacks with incredible agility.",
     "sapphire": "ZANGOOSE usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This POKéMON shares a bitter rivalry with SEVIPER that dates back over generations.",
@@ -276,6 +277,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/335.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.835Z"
+    "scrapedAt": "2026-09-03T19:59:37.611Z"
   }
 }

@@ -47,6 +47,13 @@
     "tentacool",
     "tentacruel"
   ],
+  "evolutions": [
+    {
+      "from": "tentacool",
+      "to": "tentacruel",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "TENTACOOL's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this POKéMON happens to become dehydrated, put it back into the sea.",
     "sapphire": "TENTACOOL absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This POKéMON shoots beams from its crystal-like eyes.",
@@ -214,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/072.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.104Z"
+    "scrapedAt": "2026-09-03T19:59:35.761Z"
   }
 }

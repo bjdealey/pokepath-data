@@ -44,6 +44,18 @@
     "dragonair",
     "dragonite"
   ],
+  "evolutions": [
+    {
+      "from": "dratini",
+      "to": "dragonair",
+      "method": "Level 30"
+    },
+    {
+      "from": "dragonair",
+      "to": "dragonite",
+      "method": "Level 55"
+    }
+  ],
   "flavorText": {
     "ruby": "DRATINI continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
     "sapphire": "DRATINI continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
@@ -233,6 +245,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/147.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.589Z"
+    "scrapedAt": "2026-09-03T19:59:36.257Z"
   }
 }

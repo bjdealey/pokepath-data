@@ -44,6 +44,13 @@
     "magikarp",
     "gyarados"
   ],
+  "evolutions": [
+    {
+      "from": "magikarp",
+      "to": "gyarados",
+      "method": "Level 20"
+    }
+  ],
   "flavorText": {
     "ruby": "When MAGIKARP evolves into GYARADOS, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this POKéMON's wildly violent nature.",
     "sapphire": "Once GYARADOS goes on a rampage, its ferociously violent blood doesn't calm until it has burned everything down. There are records of this POKéMON's rampages lasting a whole month.",
@@ -237,6 +244,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/130.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.482Z"
+    "scrapedAt": "2026-09-03T19:59:36.150Z"
   }
 }

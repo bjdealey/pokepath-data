@@ -46,6 +46,33 @@
     "espeon",
     "umbreon"
   ],
+  "evolutions": [
+    {
+      "from": "eevee",
+      "to": "jolteon",
+      "method": "Thunder Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "vaporeon",
+      "method": "Water Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "flareon",
+      "method": "Fire Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "espeon",
+      "method": "High Friendship (Daytime)"
+    },
+    {
+      "from": "eevee",
+      "to": "umbreon",
+      "method": "High Friendship (Nighttime)"
+    }
+  ],
   "flavorText": {
     "ruby": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
     "sapphire": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
@@ -228,6 +255,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/196.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.915Z"
+    "scrapedAt": "2026-09-03T19:59:36.628Z"
   }
 }

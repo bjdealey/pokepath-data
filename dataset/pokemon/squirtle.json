@@ -44,6 +44,18 @@
     "wartortle",
     "blastoise"
   ],
+  "evolutions": [
+    {
+      "from": "squirtle",
+      "to": "wartortle",
+      "method": "Level 16"
+    },
+    {
+      "from": "wartortle",
+      "to": "blastoise",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "SQUIRTLE's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
     "sapphire": "SQUIRTLE's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this POKéMON to swim at high speeds.",
@@ -238,6 +250,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/007.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.647Z"
+    "scrapedAt": "2026-09-03T19:59:35.307Z"
   }
 }

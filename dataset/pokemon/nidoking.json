@@ -48,6 +48,38 @@
     "nidorino",
     "nidoking"
   ],
+  "evolutions": [
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-f",
+      "method": "Female"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidorina",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorina",
+      "to": "nidoqueen",
+      "method": "Moon Stone"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-m",
+      "method": "Male"
+    },
+    {
+      "from": "nidoran-m",
+      "to": "nidorino",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorino",
+      "to": "nidoking",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "NIDOKING's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it.",
     "sapphire": "NIDOKING's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it.",
@@ -276,6 +308,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/034.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.838Z"
+    "scrapedAt": "2026-09-03T19:59:35.497Z"
   }
 }

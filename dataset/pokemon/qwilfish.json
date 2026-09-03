@@ -46,6 +46,7 @@
   "evolutionChain": [
     "qwilfish"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
     "sapphire": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
@@ -212,6 +213,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/211.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.014Z"
+    "scrapedAt": "2026-09-03T19:59:36.735Z"
   }
 }

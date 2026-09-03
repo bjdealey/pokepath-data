@@ -47,6 +47,38 @@
     "nidorino",
     "nidoking"
   ],
+  "evolutions": [
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-f",
+      "method": "Female"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidorina",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorina",
+      "to": "nidoqueen",
+      "method": "Moon Stone"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-m",
+      "method": "Male"
+    },
+    {
+      "from": "nidoran-m",
+      "to": "nidorino",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorino",
+      "to": "nidoking",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
     "sapphire": "NIDORINO has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
@@ -233,6 +265,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/033.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.828Z"
+    "scrapedAt": "2026-09-03T19:59:35.488Z"
   }
 }

@@ -46,6 +46,13 @@
     "spoink",
     "grumpig"
   ],
+  "evolutions": [
+    {
+      "from": "spoink",
+      "to": "grumpig",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POKéMON uses its special power, its snorting breath grows labored.",
     "sapphire": "GRUMPIG uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This POKéMON's black pearls are valuable as works of art.",
@@ -263,6 +270,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/326.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.771Z"
+    "scrapedAt": "2026-09-03T19:59:37.532Z"
   }
 }

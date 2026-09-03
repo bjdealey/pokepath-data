@@ -44,6 +44,18 @@
     "wartortle",
     "blastoise"
   ],
+  "evolutions": [
+    {
+      "from": "squirtle",
+      "to": "wartortle",
+      "method": "Level 16"
+    },
+    {
+      "from": "wartortle",
+      "to": "blastoise",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
     "sapphire": "BLASTOISE has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
@@ -262,6 +274,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/009.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.665Z"
+    "scrapedAt": "2026-09-03T19:59:35.326Z"
   }
 }

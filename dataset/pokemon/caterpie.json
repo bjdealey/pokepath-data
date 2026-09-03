@@ -43,6 +43,18 @@
     "metapod",
     "butterfree"
   ],
+  "evolutions": [
+    {
+      "from": "caterpie",
+      "to": "metapod",
+      "method": "Level 7"
+    },
+    {
+      "from": "metapod",
+      "to": "butterfree",
+      "method": "Level 10"
+    }
+  ],
   "flavorText": {
     "ruby": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor.",
     "sapphire": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor.",
@@ -76,6 +88,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/010.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.669Z"
+    "scrapedAt": "2026-09-03T19:59:35.331Z"
   }
 }

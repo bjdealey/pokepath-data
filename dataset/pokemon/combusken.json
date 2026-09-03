@@ -44,6 +44,18 @@
     "combusken",
     "blaziken"
   ],
+  "evolutions": [
+    {
+      "from": "torchic",
+      "to": "combusken",
+      "method": "Level 16"
+    },
+    {
+      "from": "combusken",
+      "to": "blaziken",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON's legs possess both speed and power, enabling it to dole out ten kicks in one second.",
     "sapphire": "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This POKéMON's cry is very loud and distracting.",
@@ -246,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/256.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.308Z"
+    "scrapedAt": "2026-09-03T19:59:37.039Z"
   }
 }

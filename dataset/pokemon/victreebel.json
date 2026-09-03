@@ -44,6 +44,18 @@
     "weepinbell",
     "victreebel"
   ],
+  "evolutions": [
+    {
+      "from": "bellsprout",
+      "to": "weepinbell",
+      "method": "Level 21"
+    },
+    {
+      "from": "weepinbell",
+      "to": "victreebel",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
     "sapphire": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
@@ -180,6 +192,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/071.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.096Z"
+    "scrapedAt": "2026-09-03T19:59:35.756Z"
   }
 }

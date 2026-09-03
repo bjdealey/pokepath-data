@@ -44,6 +44,38 @@
     "nidorino",
     "nidoking"
   ],
+  "evolutions": [
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-f",
+      "method": "Female"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidorina",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorina",
+      "to": "nidoqueen",
+      "method": "Moon Stone"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-m",
+      "method": "Male"
+    },
+    {
+      "from": "nidoran-m",
+      "to": "nidorino",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorino",
+      "to": "nidoking",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
     "sapphire": "When NIDORINA are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This POKéMON appears to become nervous if separated from the others.",
@@ -234,6 +266,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/030.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.806Z"
+    "scrapedAt": "2026-09-03T19:59:35.466Z"
   }
 }

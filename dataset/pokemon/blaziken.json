@@ -44,6 +44,18 @@
     "combusken",
     "blaziken"
   ],
+  "evolutions": [
+    {
+      "from": "torchic",
+      "to": "combusken",
+      "method": "Level 16"
+    },
+    {
+      "from": "combusken",
+      "to": "blaziken",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON's wrists burn.",
     "sapphire": "BLAZIKEN has incredibly strong legs - it can easily clear a 30-story building in one leap. This POKéMON's blazing punches leave its foes scorched and blackened.",
@@ -266,6 +278,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/257.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.314Z"
+    "scrapedAt": "2026-09-03T19:59:37.045Z"
   }
 }

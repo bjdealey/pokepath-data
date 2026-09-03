@@ -49,6 +49,18 @@
     "slowbro",
     "slowking"
   ],
+  "evolutions": [
+    {
+      "from": "slowpoke",
+      "to": "slowbro",
+      "method": "Level 37"
+    },
+    {
+      "from": "slowpoke",
+      "to": "slowking",
+      "method": "Trade holding King's Rock"
+    }
+  ],
   "flavorText": {
     "ruby": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
     "sapphire": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
@@ -281,6 +293,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/199.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.934Z"
+    "scrapedAt": "2026-09-03T19:59:36.657Z"
   }
 }

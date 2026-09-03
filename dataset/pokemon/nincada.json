@@ -44,6 +44,18 @@
     "ninjask",
     "shedinja"
   ],
+  "evolutions": [
+    {
+      "from": "nincada",
+      "to": "ninjask",
+      "method": "Level 20"
+    },
+    {
+      "from": "nincada",
+      "to": "shedinja",
+      "method": "Level 20 (empty party slot + spare Poké Ball → Shedinja)"
+    }
+  ],
   "flavorText": {
     "ruby": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
     "sapphire": "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can't withstand bright sunlight so avoids it.",
@@ -197,6 +209,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/290.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.529Z"
+    "scrapedAt": "2026-09-03T19:59:37.264Z"
   }
 }

@@ -46,6 +46,28 @@
     "cascoon",
     "dustox"
   ],
+  "evolutions": [
+    {
+      "from": "wurmple",
+      "to": "silcoon",
+      "method": "Level 7 (by personality value)"
+    },
+    {
+      "from": "silcoon",
+      "to": "beautifly",
+      "method": "Level 10"
+    },
+    {
+      "from": "wurmple",
+      "to": "cascoon",
+      "method": "Level 7 (by personality value)"
+    },
+    {
+      "from": "cascoon",
+      "to": "dustox",
+      "method": "Level 10"
+    }
+  ],
   "flavorText": {
     "ruby": "BEAUTIFLY's favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
     "sapphire": "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This POKéMON rides the spring winds as it flits around gathering pollen.",
@@ -201,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/267.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.376Z"
+    "scrapedAt": "2026-09-03T19:59:37.109Z"
   }
 }

@@ -47,6 +47,13 @@
     "psyduck",
     "golduck"
   ],
+  "evolutions": [
+    {
+      "from": "psyduck",
+      "to": "golduck",
+      "method": "Level 33"
+    }
+  ],
   "flavorText": {
     "ruby": "PSYDUCK uses a mysterious power. When it does so, this POKéMON generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
     "sapphire": "If it uses its mysterious power, PSYDUCK can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.",
@@ -245,6 +252,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/054.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.972Z"
+    "scrapedAt": "2026-09-03T19:59:35.631Z"
   }
 }

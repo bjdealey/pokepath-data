@@ -42,6 +42,13 @@
     "zigzagoon",
     "linoone"
   ],
+  "evolutions": [
+    {
+      "from": "zigzagoon",
+      "to": "linoone",
+      "method": "Level 20"
+    }
+  ],
   "flavorText": {
     "ruby": "ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see.",
     "sapphire": "The hair on ZIGZAGOON's back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This POKéMON may play dead to fool foes in battle.",
@@ -238,6 +245,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/263.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.355Z"
+    "scrapedAt": "2026-09-03T19:59:37.087Z"
   }
 }

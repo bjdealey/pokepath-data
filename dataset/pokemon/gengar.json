@@ -44,6 +44,18 @@
     "haunter",
     "gengar"
   ],
+  "evolutions": [
+    {
+      "from": "gastly",
+      "to": "haunter",
+      "method": "Level 25"
+    },
+    {
+      "from": "haunter",
+      "to": "gengar",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
     "sapphire": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
@@ -255,6 +267,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/094.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.245Z"
+    "scrapedAt": "2026-09-03T19:59:35.906Z"
   }
 }

@@ -44,6 +44,18 @@
     "pidgeotto",
     "pidgeot"
   ],
+  "evolutions": [
+    {
+      "from": "pidgey",
+      "to": "pidgeotto",
+      "method": "Level 18"
+    },
+    {
+      "from": "pidgeotto",
+      "to": "pidgeot",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
     "sapphire": "PIDGEY has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
@@ -186,6 +198,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/016.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.704Z"
+    "scrapedAt": "2026-09-03T19:59:35.367Z"
   }
 }

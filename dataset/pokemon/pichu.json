@@ -41,6 +41,18 @@
     "pikachu",
     "raichu"
   ],
+  "evolutions": [
+    {
+      "from": "pichu",
+      "to": "pikachu",
+      "method": "High Friendship"
+    },
+    {
+      "from": "pikachu",
+      "to": "raichu",
+      "method": "Thunder Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "PICHU charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this POKéMON.",
     "sapphire": "When PICHU plays with others, it may short out electricity with another PICHU, creating a shower of sparks. In that event, this POKéMON will begin crying, startled by the flash of sparks.",
@@ -182,6 +194,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/172.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.756Z"
+    "scrapedAt": "2026-09-03T19:59:36.429Z"
   }
 }

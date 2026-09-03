@@ -47,6 +47,18 @@
     "kadabra",
     "alakazam"
   ],
+  "evolutions": [
+    {
+      "from": "abra",
+      "to": "kadabra",
+      "method": "Level 16"
+    },
+    {
+      "from": "kadabra",
+      "to": "alakazam",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "ALAKAZAM's brain continually grows, making its head far too heavy to support with its neck. This POKéMON holds its head up using its psychokinetic power instead.",
     "sapphire": "ALAKAZAM's brain continually grows, infinitely multiplying brain cells. This amazing brain gives this POKéMON an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
@@ -261,6 +273,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/065.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.057Z"
+    "scrapedAt": "2026-09-03T19:59:35.715Z"
   }
 }

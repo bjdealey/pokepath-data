@@ -47,6 +47,18 @@
     "kadabra",
     "alakazam"
   ],
+  "evolutions": [
+    {
+      "from": "abra",
+      "to": "kadabra",
+      "method": "Level 16"
+    },
+    {
+      "from": "kadabra",
+      "to": "alakazam",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "ABRA sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this POKéMON immediately teleports to safety.",
     "sapphire": "ABRA needs to sleep for eighteen hours a day. If it doesn't, this POKéMON loses its ability to use telekinetic powers. If it is attacked, ABRA escapes using TELEPORT while it is still sleeping.",
@@ -213,6 +225,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/063.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.044Z"
+    "scrapedAt": "2026-09-03T19:59:35.701Z"
   }
 }

@@ -41,6 +41,7 @@
   "evolutionChain": [
     "misdreavus"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
     "sapphire": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
@@ -225,6 +226,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/200.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.939Z"
+    "scrapedAt": "2026-09-03T19:59:36.663Z"
   }
 }

@@ -45,6 +45,38 @@
     "nidorino",
     "nidoking"
   ],
+  "evolutions": [
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-f",
+      "method": "Female"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidorina",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorina",
+      "to": "nidoqueen",
+      "method": "Moon Stone"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-m",
+      "method": "Male"
+    },
+    {
+      "from": "nidoran-m",
+      "to": "nidorino",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorino",
+      "to": "nidoking",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "NIDOQUEEN's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This POKéMON is at its strongest when it is defending its young.",
     "sapphire": "NIDOQUEEN's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This POKéMON is at its strongest when it is defending its young.",
@@ -277,6 +309,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/031.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.813Z"
+    "scrapedAt": "2026-09-03T19:59:35.473Z"
   }
 }

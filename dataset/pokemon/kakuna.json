@@ -44,6 +44,18 @@
     "kakuna",
     "beedrill"
   ],
+  "evolutions": [
+    {
+      "from": "weedle",
+      "to": "kakuna",
+      "method": "Level 7"
+    },
+    {
+      "from": "kakuna",
+      "to": "beedrill",
+      "method": "Level 10"
+    }
+  ],
   "flavorText": {
     "ruby": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
     "sapphire": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
@@ -77,6 +89,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/014.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.694Z"
+    "scrapedAt": "2026-09-03T19:59:35.356Z"
   }
 }

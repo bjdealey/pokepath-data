@@ -47,6 +47,13 @@
     "spinarak",
     "ariados"
   ],
+  "evolutions": [
+    {
+      "from": "spinarak",
+      "to": "ariados",
+      "method": "Level 22"
+    }
+  ],
   "flavorText": {
     "ruby": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
     "sapphire": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands.",
@@ -201,6 +208,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/167.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.725Z"
+    "scrapedAt": "2026-09-03T19:59:36.398Z"
   }
 }

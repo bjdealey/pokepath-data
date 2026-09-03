@@ -36,6 +36,7 @@
   "evolutionChain": [
     "mew"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "MEW is said to possess the genetic composition of all POKéMON. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
     "sapphire": "MEW is said to possess the genetic composition of all POKéMON. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
@@ -349,6 +350,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/151.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.624Z"
+    "scrapedAt": "2026-09-03T19:59:36.293Z"
   }
 }

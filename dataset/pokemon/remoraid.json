@@ -43,6 +43,13 @@
     "remoraid",
     "octillery"
   ],
+  "evolutions": [
+    {
+      "from": "remoraid",
+      "to": "octillery",
+      "method": "Level 25"
+    }
+  ],
   "flavorText": {
     "ruby": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
     "sapphire": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
@@ -213,6 +220,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/223.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.088Z"
+    "scrapedAt": "2026-09-03T19:59:36.813Z"
   }
 }

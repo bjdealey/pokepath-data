@@ -46,6 +46,13 @@
     "growlithe",
     "arcanine"
   ],
+  "evolutions": [
+    {
+      "from": "growlithe",
+      "to": "arcanine",
+      "method": "Fire Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON's body is its source of power.",
     "sapphire": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON's body is its source of power.",
@@ -198,6 +205,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/059.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.008Z"
+    "scrapedAt": "2026-09-03T19:59:35.666Z"
   }
 }

@@ -46,6 +46,13 @@
     "chansey",
     "blissey"
   ],
+  "evolutions": [
+    {
+      "from": "chansey",
+      "to": "blissey",
+      "method": "High Friendship"
+    }
+  ],
   "flavorText": {
     "ruby": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
     "sapphire": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
@@ -304,6 +311,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/242.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.213Z"
+    "scrapedAt": "2026-09-03T19:59:36.940Z"
   }
 }

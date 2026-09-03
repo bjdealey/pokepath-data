@@ -44,6 +44,18 @@
     "loudred",
     "exploud"
   ],
+  "evolutions": [
+    {
+      "from": "whismur",
+      "to": "loudred",
+      "method": "Level 20"
+    },
+    {
+      "from": "loudred",
+      "to": "exploud",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it's a sign that it is preparing to let loose a huge bellow.",
     "sapphire": "EXPLOUD communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This POKéMON only raises its voice when it is in battle.",
@@ -275,6 +287,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/295.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.563Z"
+    "scrapedAt": "2026-09-03T19:59:37.298Z"
   }
 }

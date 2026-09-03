@@ -44,6 +44,18 @@
     "charmeleon",
     "charizard"
   ],
+  "evolutions": [
+    {
+      "from": "charmander",
+      "to": "charmeleon",
+      "method": "Level 16"
+    },
+    {
+      "from": "charmeleon",
+      "to": "charizard",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
     "sapphire": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when CHARMANDER is enjoying itself. If the POKéMON becomes enraged, the flame burns fiercely.",
@@ -232,6 +244,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/004.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.613Z"
+    "scrapedAt": "2026-09-03T19:59:35.273Z"
   }
 }

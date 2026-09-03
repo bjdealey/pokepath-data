@@ -42,6 +42,13 @@
     "mankey",
     "primeape"
   ],
+  "evolutions": [
+    {
+      "from": "mankey",
+      "to": "primeape",
+      "method": "Level 28"
+    }
+  ],
   "flavorText": {
     "ruby": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
     "sapphire": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
@@ -264,6 +271,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/057.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.997Z"
+    "scrapedAt": "2026-09-03T19:59:35.655Z"
   }
 }

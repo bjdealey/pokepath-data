@@ -44,6 +44,13 @@
     "swablu",
     "altaria"
   ],
+  "evolutions": [
+    {
+      "from": "swablu",
+      "to": "altaria",
+      "method": "Level 35"
+    }
+  ],
   "flavorText": {
     "ruby": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
     "sapphire": "ALTARIA sings in a gorgeous soprano. Its wings are like cotton clouds. This POKéMON catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
@@ -256,6 +263,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/334.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.828Z"
+    "scrapedAt": "2026-09-03T19:59:37.604Z"
   }
 }

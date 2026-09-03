@@ -42,6 +42,13 @@
     "sandshrew",
     "sandslash"
   ],
+  "evolutions": [
+    {
+      "from": "sandshrew",
+      "to": "sandslash",
+      "method": "Level 22"
+    }
+  ],
   "flavorText": {
     "ruby": "SANDSLASH's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
     "sapphire": "SANDSLASH can roll up its body as if it were a ball covered with large spikes. In battle, this POKéMON will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.",
@@ -236,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/028.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.792Z"
+    "scrapedAt": "2026-09-03T19:59:35.452Z"
   }
 }

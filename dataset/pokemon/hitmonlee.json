@@ -44,6 +44,23 @@
     "hitmonlee",
     "hitmontop"
   ],
+  "evolutions": [
+    {
+      "from": "tyrogue",
+      "to": "hitmonchan",
+      "method": "Tyrogue20ald"
+    },
+    {
+      "from": "tyrogue",
+      "to": "hitmonlee",
+      "method": "Tyrogue20agd"
+    },
+    {
+      "from": "tyrogue",
+      "to": "hitmontop",
+      "method": "Tyrogue20aed"
+    }
+  ],
   "flavorText": {
     "ruby": "HITMONLEE's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
     "sapphire": "HITMONLEE's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
@@ -226,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/106.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.329Z"
+    "scrapedAt": "2026-09-03T19:59:35.993Z"
   }
 }

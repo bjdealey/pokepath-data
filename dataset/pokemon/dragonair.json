@@ -44,6 +44,18 @@
     "dragonair",
     "dragonite"
   ],
+  "evolutions": [
+    {
+      "from": "dratini",
+      "to": "dragonair",
+      "method": "Level 30"
+    },
+    {
+      "from": "dragonair",
+      "to": "dragonite",
+      "method": "Level 55"
+    }
+  ],
   "flavorText": {
     "ruby": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
     "sapphire": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
@@ -241,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/148.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.595Z"
+    "scrapedAt": "2026-09-03T19:59:36.265Z"
   }
 }

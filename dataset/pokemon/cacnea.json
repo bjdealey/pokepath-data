@@ -43,6 +43,13 @@
     "cacnea",
     "cacturne"
   ],
+  "evolutions": [
+    {
+      "from": "cacnea",
+      "to": "cacturne",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
     "sapphire": "The more arid and harsh the environment, the more pretty and fragrant a flower CACNEA grows. This POKéMON battles by wildly swinging its thorny arms.",
@@ -216,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/331.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.803Z"
+    "scrapedAt": "2026-09-03T19:59:37.581Z"
   }
 }

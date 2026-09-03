@@ -53,8 +53,10 @@ async function scrapePokemon(dexNums: number[], refresh: boolean) {
   // Resolve evolution chains (national number -> slug) across this run.
   const byDex = new Map<number, string>();
   for (const { record } of parsed) byDex.set(record.natdex, record.slug);
-  for (const { record, evoDex } of parsed) {
-    record.evolutionChain = evoDex.map((d) => byDex.get(d) ?? `#${d}`);
+  const slugOf = (d: number) => byDex.get(d) ?? `#${d}`;
+  for (const { record, evoDex, evoEdges } of parsed) {
+    record.evolutionChain = evoDex.map(slugOf);
+    record.evolutions = evoEdges.map((e) => ({ from: slugOf(e.from), to: slugOf(e.to), method: e.method }));
   }
 
   // Emit one file per Pokémon + an index.

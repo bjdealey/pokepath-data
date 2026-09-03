@@ -49,6 +49,18 @@
     "slowbro",
     "slowking"
   ],
+  "evolutions": [
+    {
+      "from": "slowpoke",
+      "to": "slowbro",
+      "method": "Level 37"
+    },
+    {
+      "from": "slowpoke",
+      "to": "slowking",
+      "method": "Trade holding King's Rock"
+    }
+  ],
   "flavorText": {
     "ruby": "SLOWBRO's tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
     "sapphire": "SLOWBRO's tail has a SHELLDER firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead.",
@@ -289,6 +301,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/080.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.157Z"
+    "scrapedAt": "2026-09-03T19:59:35.815Z"
   }
 }

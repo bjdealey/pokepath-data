@@ -45,6 +45,18 @@
     "ivysaur",
     "venusaur"
   ],
+  "evolutions": [
+    {
+      "from": "bulbasaur",
+      "to": "ivysaur",
+      "method": "Level 16"
+    },
+    {
+      "from": "ivysaur",
+      "to": "venusaur",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "There is a bud on this POKéMON's back. To support its weight, IVYSAUR's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "sapphire": "There is a bud on this POKéMON's back. To support its weight, IVYSAUR's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
@@ -221,6 +233,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/002.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.595Z"
+    "scrapedAt": "2026-09-03T19:59:35.254Z"
   }
 }

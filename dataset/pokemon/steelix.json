@@ -47,6 +47,13 @@
     "onix",
     "steelix"
   ],
+  "evolutions": [
+    {
+      "from": "onix",
+      "to": "steelix",
+      "method": "Trade holding Metal Coat"
+    }
+  ],
   "flavorText": {
     "ruby": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth's core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
     "sapphire": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth's core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
@@ -228,6 +235,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/208.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.993Z"
+    "scrapedAt": "2026-09-03T19:59:36.712Z"
   }
 }

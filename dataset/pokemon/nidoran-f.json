@@ -47,6 +47,38 @@
     "nidorino",
     "nidoking"
   ],
+  "evolutions": [
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-f",
+      "method": "Female"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidorina",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorina",
+      "to": "nidoqueen",
+      "method": "Moon Stone"
+    },
+    {
+      "from": "nidoran-f",
+      "to": "nidoran-m",
+      "method": "Male"
+    },
+    {
+      "from": "nidoran-m",
+      "to": "nidorino",
+      "method": "Level 16"
+    },
+    {
+      "from": "nidorino",
+      "to": "nidoking",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
     "sapphire": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn.",
@@ -237,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/029.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.801Z"
+    "scrapedAt": "2026-09-03T19:59:35.460Z"
   }
 }

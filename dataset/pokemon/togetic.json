@@ -48,6 +48,13 @@
     "togepi",
     "togetic"
   ],
+  "evolutions": [
+    {
+      "from": "togepi",
+      "to": "togetic",
+      "method": "High Friendship"
+    }
+  ],
   "flavorText": {
     "ruby": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
     "sapphire": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
@@ -264,6 +271,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/176.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.780Z"
+    "scrapedAt": "2026-09-03T19:59:36.454Z"
   }
 }

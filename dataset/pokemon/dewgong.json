@@ -44,6 +44,13 @@
     "seel",
     "dewgong"
   ],
+  "evolutions": [
+    {
+      "from": "seel",
+      "to": "dewgong",
+      "method": "Level 34"
+    }
+  ],
   "flavorText": {
     "ruby": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
     "sapphire": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
@@ -221,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/087.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.200Z"
+    "scrapedAt": "2026-09-03T19:59:35.860Z"
   }
 }

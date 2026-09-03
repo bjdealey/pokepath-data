@@ -47,6 +47,18 @@
     "kirlia",
     "gardevoir"
   ],
+  "evolutions": [
+    {
+      "from": "ralts",
+      "to": "kirlia",
+      "method": "Level 20"
+    },
+    {
+      "from": "kirlia",
+      "to": "gardevoir",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
     "sapphire": "GARDEVOIR has the psychokinetic power to distort the dimensions and create a small black hole. This POKéMON will try to protect its TRAINER even at the risk of its own life.",
@@ -257,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/282.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.475Z"
+    "scrapedAt": "2026-09-03T19:59:37.210Z"
   }
 }

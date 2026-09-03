@@ -41,6 +41,7 @@
   "evolutionChain": [
     "smeargle"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SMEARGLE marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this POKéMON have been found.",
     "sapphire": "SMEARGLE marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this POKéMON have been found.",
@@ -106,6 +107,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/235.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.167Z"
+    "scrapedAt": "2026-09-03T19:59:36.894Z"
   }
 }

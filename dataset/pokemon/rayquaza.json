@@ -37,6 +37,7 @@
   "evolutionChain": [
     "rayquaza"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "RAYQUAZA lived for hundreds of millions of years in the earth's ozone layer, never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere.",
     "sapphire": "RAYQUAZA is said to have lived for hundreds of millions of years in the earth's ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
@@ -267,6 +268,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/384.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.146Z"
+    "scrapedAt": "2026-09-03T19:59:37.945Z"
   }
 }

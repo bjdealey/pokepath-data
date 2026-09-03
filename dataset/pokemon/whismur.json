@@ -44,6 +44,18 @@
     "loudred",
     "exploud"
   ],
+  "evolutions": [
+    {
+      "from": "whismur",
+      "to": "loudred",
+      "method": "Level 20"
+    },
+    {
+      "from": "loudred",
+      "to": "exploud",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "Normally, WHISMUR's voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume.",
     "sapphire": "WHISMUR is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the POKéMON goes to sleep, all tired out.",
@@ -226,6 +238,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/293.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.548Z"
+    "scrapedAt": "2026-09-03T19:59:37.283Z"
   }
 }

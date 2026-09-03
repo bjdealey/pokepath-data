@@ -45,6 +45,18 @@
     "sealeo",
     "walrein"
   ],
+  "evolutions": [
+    {
+      "from": "spheal",
+      "to": "sealeo",
+      "method": "Level 32"
+    },
+    {
+      "from": "sealeo",
+      "to": "walrein",
+      "method": "Level 44"
+    }
+  ],
   "flavorText": {
     "ruby": "WALREIN's two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This POKéMON's thick coat of blubber insulates it from subzero temperatures.",
     "sapphire": "WALREIN swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
@@ -246,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/365.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.029Z"
+    "scrapedAt": "2026-09-03T19:59:37.820Z"
   }
 }

@@ -46,6 +46,13 @@
     "gulpin",
     "swalot"
   ],
+  "evolutions": [
+    {
+      "from": "gulpin",
+      "to": "swalot",
+      "method": "Level 26"
+    }
+  ],
   "flavorText": {
     "ruby": "Virtually all of GULPIN's body is its stomach. As a result, it can swallow something its own size. This POKéMON's stomach contains a special fluid that digests anything.",
     "sapphire": "Most of GULPIN's body is made up of its stomach - its heart and brain are very small in comparison. This POKéMON's stomach contains special enzymes that dissolve anything.",
@@ -232,6 +239,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/316.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.706Z"
+    "scrapedAt": "2026-09-03T19:59:37.448Z"
   }
 }

@@ -44,6 +44,18 @@
     "weepinbell",
     "victreebel"
   ],
+  "evolutions": [
+    {
+      "from": "bellsprout",
+      "to": "weepinbell",
+      "method": "Level 21"
+    },
+    {
+      "from": "weepinbell",
+      "to": "victreebel",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
     "sapphire": "BELLSPROUT's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this POKéMON spits a corrosive fluid that melts even iron.",
@@ -199,6 +211,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/069.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.083Z"
+    "scrapedAt": "2026-09-03T19:59:35.743Z"
   }
 }

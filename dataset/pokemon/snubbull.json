@@ -47,6 +47,13 @@
     "snubbull",
     "granbull"
   ],
+  "evolutions": [
+    {
+      "from": "snubbull",
+      "to": "granbull",
+      "method": "Level 23"
+    }
+  ],
   "flavorText": {
     "ruby": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
     "sapphire": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
@@ -275,6 +282,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/209.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.999Z"
+    "scrapedAt": "2026-09-03T19:59:36.721Z"
   }
 }

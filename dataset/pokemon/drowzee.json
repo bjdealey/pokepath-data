@@ -42,6 +42,13 @@
     "drowzee",
     "hypno"
   ],
+  "evolutions": [
+    {
+      "from": "drowzee",
+      "to": "hypno",
+      "method": "Level 26"
+    }
+  ],
   "flavorText": {
     "ruby": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
     "sapphire": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils.",
@@ -240,6 +247,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/096.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.257Z"
+    "scrapedAt": "2026-09-03T19:59:35.917Z"
   }
 }

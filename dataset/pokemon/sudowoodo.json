@@ -45,6 +45,7 @@
   "evolutionChain": [
     "sudowoodo"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
     "sapphire": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
@@ -220,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/185.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.843Z"
+    "scrapedAt": "2026-09-03T19:59:36.550Z"
   }
 }

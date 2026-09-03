@@ -44,6 +44,18 @@
     "pidgeotto",
     "pidgeot"
   ],
+  "evolutions": [
+    {
+      "from": "pidgey",
+      "to": "pidgeotto",
+      "method": "Level 18"
+    },
+    {
+      "from": "pidgeotto",
+      "to": "pidgeot",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
     "sapphire": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
@@ -194,6 +206,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/017.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.712Z"
+    "scrapedAt": "2026-09-03T19:59:35.376Z"
   }
 }

@@ -44,6 +44,23 @@
     "vileplume",
     "bellossom"
   ],
+  "evolutions": [
+    {
+      "from": "oddish",
+      "to": "gloom",
+      "method": "Level 21"
+    },
+    {
+      "from": "gloom",
+      "to": "vileplume",
+      "method": "Leaf Stone"
+    },
+    {
+      "from": "oddish",
+      "to": "bellossom",
+      "method": "Sun Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This POKéMON's dancing is renowned in the southern lands.",
     "sapphire": "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this POKéMON closes its petals and goes to sleep.",
@@ -186,6 +203,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/182.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.824Z"
+    "scrapedAt": "2026-09-03T19:59:36.526Z"
   }
 }

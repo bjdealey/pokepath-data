@@ -37,6 +37,7 @@
   "evolutionChain": [
     "celebi"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
     "sapphire": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
@@ -222,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/251.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.267Z"
+    "scrapedAt": "2026-09-03T19:59:37.005Z"
   }
 }

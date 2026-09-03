@@ -46,6 +46,13 @@
     "growlithe",
     "arcanine"
   ],
+  "evolutions": [
+    {
+      "from": "growlithe",
+      "to": "arcanine",
+      "method": "Fire Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
     "sapphire": "GROWLITHE has a superb sense of smell. Once it smells anything, this POKéMON won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
@@ -214,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/058.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.003Z"
+    "scrapedAt": "2026-09-03T19:59:35.661Z"
   }
 }

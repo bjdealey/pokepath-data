@@ -44,6 +44,18 @@
     "seadra",
     "kingdra"
   ],
+  "evolutions": [
+    {
+      "from": "horsea",
+      "to": "seadra",
+      "method": "Level 32"
+    },
+    {
+      "from": "seadra",
+      "to": "kingdra",
+      "method": "Trade holding Dragon Scale"
+    }
+  ],
   "flavorText": {
     "ruby": "SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this POKéMON's poison barbs if they fail to notice it.",
     "sapphire": "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This POKéMON weakens prey with these currents, then swallows it whole.",
@@ -208,6 +220,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/117.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.403Z"
+    "scrapedAt": "2026-09-03T19:59:36.068Z"
   }
 }

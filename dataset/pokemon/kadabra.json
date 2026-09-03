@@ -47,6 +47,18 @@
     "kadabra",
     "alakazam"
   ],
+  "evolutions": [
+    {
+      "from": "abra",
+      "to": "kadabra",
+      "method": "Level 16"
+    },
+    {
+      "from": "kadabra",
+      "to": "alakazam",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "KADABRA emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a TRAINER of this POKéMON.",
     "sapphire": "KADABRA holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the POKéMON is said to be limited to half the usual amount of its telekinetic powers.",
@@ -257,6 +269,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/064.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.051Z"
+    "scrapedAt": "2026-09-03T19:59:35.709Z"
   }
 }

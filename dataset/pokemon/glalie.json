@@ -43,6 +43,13 @@
     "snorunt",
     "glalie"
   ],
+  "evolutions": [
+    {
+      "from": "snorunt",
+      "to": "glalie",
+      "method": "Level 42"
+    }
+  ],
   "flavorText": {
     "ruby": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
     "sapphire": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
@@ -233,6 +240,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/362.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.010Z"
+    "scrapedAt": "2026-09-03T19:59:37.799Z"
   }
 }

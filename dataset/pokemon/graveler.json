@@ -48,6 +48,18 @@
     "graveler",
     "golem"
   ],
+  "evolutions": [
+    {
+      "from": "geodude",
+      "to": "graveler",
+      "method": "Level 25"
+    },
+    {
+      "from": "graveler",
+      "to": "golem",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "GRAVELER grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This POKéMON eats its way through a ton of rocks on a daily basis.",
     "sapphire": "Rocks are GRAVELER's favorite food. This POKéMON will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom.",
@@ -234,6 +246,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/075.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.123Z"
+    "scrapedAt": "2026-09-03T19:59:35.780Z"
   }
 }

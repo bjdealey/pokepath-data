@@ -43,6 +43,18 @@
     "jigglypuff",
     "wigglytuff"
   ],
+  "evolutions": [
+    {
+      "from": "igglybuff",
+      "to": "jigglypuff",
+      "method": "High Friendship"
+    },
+    {
+      "from": "jigglypuff",
+      "to": "wigglytuff",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "JIGGLYPUFF's vocal chords can freely adjust the wavelength of its voice. This POKéMON uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
     "sapphire": "When this POKéMON sings, it never pauses to breathe. If it is in a battle against an opponent that does not easily fall asleep, JIGGLYPUFF cannot breathe, endangering its life.",
@@ -270,6 +282,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/039.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.873Z"
+    "scrapedAt": "2026-09-03T19:59:35.531Z"
   }
 }

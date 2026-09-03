@@ -44,6 +44,23 @@
     "hitmonlee",
     "hitmontop"
   ],
+  "evolutions": [
+    {
+      "from": "tyrogue",
+      "to": "hitmonchan",
+      "method": "Tyrogue20ald"
+    },
+    {
+      "from": "tyrogue",
+      "to": "hitmonlee",
+      "method": "Tyrogue20agd"
+    },
+    {
+      "from": "tyrogue",
+      "to": "hitmontop",
+      "method": "Tyrogue20aed"
+    }
+  ],
   "flavorText": {
     "ruby": "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This POKéMON has an indomitable spirit and will never give up in the face of adversity.",
     "sapphire": "HITMONCHAN is said to possess the spirit of a boxer who had been working towards a world championship. This POKéMON has an indomitable spirit and will never give up in the face of adversity.",
@@ -225,6 +242,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/107.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.334Z"
+    "scrapedAt": "2026-09-03T19:59:35.999Z"
   }
 }

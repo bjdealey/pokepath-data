@@ -43,6 +43,18 @@
     "quilava",
     "typhlosion"
   ],
+  "evolutions": [
+    {
+      "from": "cyndaquil",
+      "to": "quilava",
+      "method": "Level 14"
+    },
+    {
+      "from": "quilava",
+      "to": "typhlosion",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
     "sapphire": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
@@ -191,6 +203,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/155.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.647Z"
+    "scrapedAt": "2026-09-03T19:59:36.317Z"
   }
 }

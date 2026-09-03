@@ -36,6 +36,7 @@
   "evolutionChain": [
     "raikou"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
     "sapphire": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
@@ -215,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/243.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.218Z"
+    "scrapedAt": "2026-09-03T19:59:36.945Z"
   }
 }

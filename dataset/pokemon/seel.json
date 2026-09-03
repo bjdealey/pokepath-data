@@ -43,6 +43,13 @@
     "seel",
     "dewgong"
   ],
+  "evolutions": [
+    {
+      "from": "seel",
+      "to": "dewgong",
+      "method": "Level 34"
+    }
+  ],
   "flavorText": {
     "ruby": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
     "sapphire": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
@@ -200,6 +207,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/086.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.194Z"
+    "scrapedAt": "2026-09-03T19:59:35.854Z"
   }
 }

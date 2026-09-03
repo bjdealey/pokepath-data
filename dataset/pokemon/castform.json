@@ -42,6 +42,7 @@
   "evolutionChain": [
     "castform"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "CASTFORM's appearance changes with the weather. This POKéMON gained the ability to use the vast power of nature to protect its tiny body.",
     "sapphire": "CASTFORM borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This POKéMON's feelings change with the weather.",
@@ -221,6 +222,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/351.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.935Z"
+    "scrapedAt": "2026-09-03T19:59:37.727Z"
   }
 }

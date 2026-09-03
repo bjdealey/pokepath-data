@@ -44,6 +44,18 @@
     "charmeleon",
     "charizard"
   ],
+  "evolutions": [
+    {
+      "from": "charmander",
+      "to": "charmeleon",
+      "method": "Level 16"
+    },
+    {
+      "from": "charmeleon",
+      "to": "charizard",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
     "sapphire": "CHARMELEON mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
@@ -236,6 +248,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/005.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.622Z"
+    "scrapedAt": "2026-09-03T19:59:35.282Z"
   }
 }

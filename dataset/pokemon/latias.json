@@ -40,6 +40,7 @@
   "evolutionChain": [
     "latias"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
     "sapphire": "LATIAS is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The POKéMON enfolds its body with its down and refracts light to alter its appearance.",
@@ -274,6 +275,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/380.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.122Z"
+    "scrapedAt": "2026-09-03T19:59:37.920Z"
   }
 }

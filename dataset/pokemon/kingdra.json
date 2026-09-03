@@ -45,6 +45,18 @@
     "seadra",
     "kingdra"
   ],
+  "evolutions": [
+    {
+      "from": "horsea",
+      "to": "seadra",
+      "method": "Level 32"
+    },
+    {
+      "from": "seadra",
+      "to": "kingdra",
+      "method": "Trade holding Dragon Scale"
+    }
+  ],
   "flavorText": {
     "ruby": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents.",
     "sapphire": "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the POKéMON is said to awaken and wander about in search of prey.",
@@ -210,6 +222,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/230.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.139Z"
+    "scrapedAt": "2026-09-03T19:59:36.863Z"
   }
 }

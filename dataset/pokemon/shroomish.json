@@ -43,6 +43,13 @@
     "shroomish",
     "breloom"
   ],
+  "evolutions": [
+    {
+      "from": "shroomish",
+      "to": "breloom",
+      "method": "Level 23"
+    }
+  ],
   "flavorText": {
     "ruby": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves.",
     "sapphire": "If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This POKéMON's spores are so toxic, they make trees and weeds wilt.",
@@ -197,6 +204,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/285.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.494Z"
+    "scrapedAt": "2026-09-03T19:59:37.229Z"
   }
 }

@@ -42,6 +42,13 @@
     "pineco",
     "forretress"
   ],
+  "evolutions": [
+    {
+      "from": "pineco",
+      "to": "forretress",
+      "method": "Level 31"
+    }
+  ],
   "flavorText": {
     "ruby": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
     "sapphire": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
@@ -205,6 +212,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/204.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.966Z"
+    "scrapedAt": "2026-09-03T19:59:36.687Z"
   }
 }

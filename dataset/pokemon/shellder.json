@@ -42,6 +42,13 @@
     "shellder",
     "cloyster"
   ],
+  "evolutions": [
+    {
+      "from": "shellder",
+      "to": "cloyster",
+      "method": "Water Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
     "sapphire": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
@@ -186,6 +193,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/090.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.219Z"
+    "scrapedAt": "2026-09-03T19:59:35.879Z"
   }
 }

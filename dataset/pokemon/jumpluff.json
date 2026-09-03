@@ -45,6 +45,18 @@
     "skiploom",
     "jumpluff"
   ],
+  "evolutions": [
+    {
+      "from": "hoppip",
+      "to": "skiploom",
+      "method": "Level 18"
+    },
+    {
+      "from": "skiploom",
+      "to": "jumpluff",
+      "method": "Level 27"
+    }
+  ],
   "flavorText": {
     "ruby": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
     "sapphire": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
@@ -209,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/189.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.869Z"
+    "scrapedAt": "2026-09-03T19:59:36.579Z"
   }
 }

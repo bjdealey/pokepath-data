@@ -42,6 +42,7 @@
   "evolutionChain": [
     "seviper"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword- edged tail.",
     "sapphire": "SEVIPER's swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This POKéMON will not give up its long- running blood feud with ZANGOOSE.",
@@ -217,6 +218,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/336.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.842Z"
+    "scrapedAt": "2026-09-03T19:59:37.620Z"
   }
 }

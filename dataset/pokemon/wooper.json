@@ -48,6 +48,13 @@
     "wooper",
     "quagsire"
   ],
+  "evolutions": [
+    {
+      "from": "wooper",
+      "to": "quagsire",
+      "method": "Level 20"
+    }
+  ],
   "flavorText": {
     "ruby": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
     "sapphire": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
@@ -237,6 +244,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/194.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.901Z"
+    "scrapedAt": "2026-09-03T19:59:36.615Z"
   }
 }

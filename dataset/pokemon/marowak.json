@@ -46,6 +46,13 @@
     "cubone",
     "marowak"
   ],
+  "evolutions": [
+    {
+      "from": "cubone",
+      "to": "marowak",
+      "method": "Level 28"
+    }
+  ],
   "flavorText": {
     "ruby": "MAROWAK is the evolved form of a CUBONE that has overcome its sadness at the loss of its mother and grown tough. This POKéMON's tempered and hardened spirit is not easily broken.",
     "sapphire": "MAROWAK is the evolved form of a CUBONE that has overcome its sadness at the loss of its mother and grown tough. This POKéMON's tempered and hardened spirit is not easily broken.",
@@ -268,6 +275,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/105.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.323Z"
+    "scrapedAt": "2026-09-03T19:59:35.982Z"
   }
 }

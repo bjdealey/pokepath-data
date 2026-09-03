@@ -36,6 +36,7 @@
   "evolutionChain": [
     "unown"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known.",
     "sapphire": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known.",
@@ -65,6 +66,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/201.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.945Z"
+    "scrapedAt": "2026-09-03T19:59:36.668Z"
   }
 }

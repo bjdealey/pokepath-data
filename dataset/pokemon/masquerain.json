@@ -44,6 +44,13 @@
     "surskit",
     "masquerain"
   ],
+  "evolutions": [
+    {
+      "from": "surskit",
+      "to": "masquerain",
+      "method": "Level 22"
+    }
+  ],
   "flavorText": {
     "ruby": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
     "sapphire": "MASQUERAIN's antennas have eyelike patterns that usually give it an angry look. If the \"eyes\" are droopy and appear sad, it is said to be a sign that a heavy rainfall is on its way.",
@@ -223,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/284.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.486Z"
+    "scrapedAt": "2026-09-03T19:59:37.221Z"
   }
 }

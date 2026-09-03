@@ -48,6 +48,13 @@
     "wooper",
     "quagsire"
   ],
+  "evolutions": [
+    {
+      "from": "wooper",
+      "to": "quagsire",
+      "method": "Level 20"
+    }
+  ],
   "flavorText": {
     "ruby": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
     "sapphire": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
@@ -261,6 +268,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/195.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.907Z"
+    "scrapedAt": "2026-09-03T19:59:36.622Z"
   }
 }

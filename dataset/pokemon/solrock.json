@@ -39,6 +39,7 @@
   "evolutionChain": [
     "solrock"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light.",
     "sapphire": "Sunlight is the source of SOLROCK's power. It is said to possess the ability to read the emotions of others. This POKéMON gives off intense heat while rotating its body.",
@@ -225,6 +226,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/338.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.855Z"
+    "scrapedAt": "2026-09-03T19:59:37.632Z"
   }
 }

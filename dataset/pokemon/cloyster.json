@@ -43,6 +43,13 @@
     "shellder",
     "cloyster"
   ],
+  "evolutions": [
+    {
+      "from": "shellder",
+      "to": "cloyster",
+      "method": "Water Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
     "sapphire": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
@@ -187,6 +194,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/091.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.226Z"
+    "scrapedAt": "2026-09-03T19:59:35.884Z"
   }
 }

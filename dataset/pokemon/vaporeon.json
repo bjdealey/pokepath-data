@@ -46,6 +46,33 @@
     "espeon",
     "umbreon"
   ],
+  "evolutions": [
+    {
+      "from": "eevee",
+      "to": "jolteon",
+      "method": "Thunder Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "vaporeon",
+      "method": "Water Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "flareon",
+      "method": "Fire Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "espeon",
+      "method": "High Friendship (Daytime)"
+    },
+    {
+      "from": "eevee",
+      "to": "umbreon",
+      "method": "High Friendship (Nighttime)"
+    }
+  ],
   "flavorText": {
     "ruby": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
     "sapphire": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
@@ -231,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/134.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.507Z"
+    "scrapedAt": "2026-09-03T19:59:36.173Z"
   }
 }

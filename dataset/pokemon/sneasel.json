@@ -46,6 +46,7 @@
   "evolutionChain": [
     "sneasel"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
     "sapphire": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
@@ -267,6 +268,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/215.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.037Z"
+    "scrapedAt": "2026-09-03T19:59:36.760Z"
   }
 }

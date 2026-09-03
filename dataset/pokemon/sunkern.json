@@ -42,6 +42,13 @@
     "sunkern",
     "sunflora"
   ],
+  "evolutions": [
+    {
+      "from": "sunkern",
+      "to": "sunflora",
+      "method": "Sun Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
     "sapphire": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
@@ -192,6 +199,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/191.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.883Z"
+    "scrapedAt": "2026-09-03T19:59:36.593Z"
   }
 }

@@ -44,6 +44,13 @@
     "staryu",
     "starmie"
   ],
+  "evolutions": [
+    {
+      "from": "staryu",
+      "to": "starmie",
+      "method": "Water Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "STARMIE's center section - the core - glows brightly in seven colors. Because of its luminous nature, this POKéMON has been given the nickname \"the gem of the sea.\"",
     "sapphire": "STARMIE swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this POKéMON's body glows in seven colors.",
@@ -203,6 +210,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/121.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.426Z"
+    "scrapedAt": "2026-09-03T19:59:36.093Z"
   }
 }

@@ -47,6 +47,13 @@
     "chinchou",
     "lanturn"
   ],
+  "evolutions": [
+    {
+      "from": "chinchou",
+      "to": "lanturn",
+      "method": "Level 27"
+    }
+  ],
   "flavorText": {
     "ruby": "CHINCHOU lets loose positive and negative electrical charges from its two antennas to make its prey faint. This POKéMON flashes its electric lights to exchange signals with others.",
     "sapphire": "CHINCHOU's two antennas are filled with cells that generate strong electricity. This POKéMON's cells create so much electrical power, it even makes itself tingle slightly.",
@@ -214,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/170.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.743Z"
+    "scrapedAt": "2026-09-03T19:59:36.416Z"
   }
 }

@@ -48,6 +48,18 @@
     "lairon",
     "aggron"
   ],
+  "evolutions": [
+    {
+      "from": "aron",
+      "to": "lairon",
+      "method": "Level 32"
+    },
+    {
+      "from": "lairon",
+      "to": "aggron",
+      "method": "Level 42"
+    }
+  ],
   "flavorText": {
     "ruby": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POKéMON makes its nest close to springs of delicious water.",
     "sapphire": "LAIRON feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the POKéMON often clashes with humans mining the iron ore.",
@@ -249,6 +261,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/305.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.630Z"
+    "scrapedAt": "2026-09-03T19:59:37.372Z"
   }
 }

@@ -43,6 +43,13 @@
     "barboach",
     "whiscash"
   ],
+  "evolutions": [
+    {
+      "from": "barboach",
+      "to": "whiscash",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "BARBOACH's sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
     "sapphire": "BARBOACH's body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy's grip. This POKéMON grows weak if the slimy coating dries up.",
@@ -211,6 +218,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/339.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.860Z"
+    "scrapedAt": "2026-09-03T19:59:37.640Z"
   }
 }

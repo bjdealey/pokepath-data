@@ -46,6 +46,13 @@
     "diglett",
     "dugtrio"
   ],
+  "evolutions": [
+    {
+      "from": "diglett",
+      "to": "dugtrio",
+      "method": "Level 26"
+    }
+  ],
   "flavorText": {
     "ruby": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
     "sapphire": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
@@ -203,6 +210,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/050.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.946Z"
+    "scrapedAt": "2026-09-03T19:59:35.604Z"
   }
 }

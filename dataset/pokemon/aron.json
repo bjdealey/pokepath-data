@@ -48,6 +48,18 @@
     "lairon",
     "aggron"
   ],
+  "evolutions": [
+    {
+      "from": "aron",
+      "to": "lairon",
+      "method": "Level 32"
+    },
+    {
+      "from": "lairon",
+      "to": "aggron",
+      "method": "Level 42"
+    }
+  ],
   "flavorText": {
     "ruby": "This POKéMON has a body of steel. To make its body, ARON feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
     "sapphire": "ARON has a body of steel. With one all-out charge, this POKéMON can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the POKéMON.",
@@ -237,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/304.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.622Z"
+    "scrapedAt": "2026-09-03T19:59:37.366Z"
   }
 }

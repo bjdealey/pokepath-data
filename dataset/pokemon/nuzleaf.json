@@ -49,6 +49,18 @@
     "nuzleaf",
     "shiftry"
   ],
+  "evolutions": [
+    {
+      "from": "seedot",
+      "to": "nuzleaf",
+      "method": "Level 14"
+    },
+    {
+      "from": "nuzleaf",
+      "to": "shiftry",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched.",
     "sapphire": "This POKéMON pulls out the leaf on its head and makes a flute with it. The sound of NUZLEAF's flute strikes fear and uncertainty in the hearts of people lost in a forest.",
@@ -240,6 +252,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/274.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.419Z"
+    "scrapedAt": "2026-09-03T19:59:37.151Z"
   }
 }

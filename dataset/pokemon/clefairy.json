@@ -43,6 +43,18 @@
     "clefairy",
     "clefable"
   ],
+  "evolutions": [
+    {
+      "from": "cleffa",
+      "to": "clefairy",
+      "method": "High Friendship"
+    },
+    {
+      "from": "clefairy",
+      "to": "clefable",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "On every night of a full moon, groups of this POKéMON come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
     "sapphire": "On every night of a full moon, groups of this POKéMON come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
@@ -291,6 +303,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/035.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.845Z"
+    "scrapedAt": "2026-09-03T19:59:35.504Z"
   }
 }

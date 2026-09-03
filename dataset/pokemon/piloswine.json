@@ -43,6 +43,13 @@
     "swinub",
     "piloswine"
   ],
+  "evolutions": [
+    {
+      "from": "swinub",
+      "to": "piloswine",
+      "method": "Level 33"
+    }
+  ],
   "flavorText": {
     "ruby": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
     "sapphire": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
@@ -231,6 +238,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/221.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.077Z"
+    "scrapedAt": "2026-09-03T19:59:36.799Z"
   }
 }

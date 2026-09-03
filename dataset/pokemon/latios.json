@@ -40,6 +40,7 @@
   "evolutionChain": [
     "latios"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POKéMON is intelligent and understands human speech.",
     "sapphire": "LATIOS will only open its heart to a TRAINER with a compassionate spirit. This POKéMON can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
@@ -274,6 +275,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/381.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.128Z"
+    "scrapedAt": "2026-09-03T19:59:37.926Z"
   }
 }

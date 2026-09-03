@@ -45,6 +45,18 @@
     "skiploom",
     "jumpluff"
   ],
+  "evolutions": [
+    {
+      "from": "hoppip",
+      "to": "skiploom",
+      "method": "Level 18"
+    },
+    {
+      "from": "skiploom",
+      "to": "jumpluff",
+      "method": "Level 27"
+    }
+  ],
   "flavorText": {
     "ruby": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
     "sapphire": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
@@ -193,6 +205,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/187.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.857Z"
+    "scrapedAt": "2026-09-03T19:59:36.565Z"
   }
 }

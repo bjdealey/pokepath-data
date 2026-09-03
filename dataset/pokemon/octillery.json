@@ -43,6 +43,13 @@
     "remoraid",
     "octillery"
   ],
+  "evolutions": [
+    {
+      "from": "remoraid",
+      "to": "octillery",
+      "method": "Level 25"
+    }
+  ],
   "flavorText": {
     "ruby": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
     "sapphire": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
@@ -226,6 +233,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/224.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.096Z"
+    "scrapedAt": "2026-09-03T19:59:36.825Z"
   }
 }

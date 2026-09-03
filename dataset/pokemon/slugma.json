@@ -46,6 +46,13 @@
     "slugma",
     "magcargo"
   ],
+  "evolutions": [
+    {
+      "from": "slugma",
+      "to": "magcargo",
+      "method": "Level 38"
+    }
+  ],
   "flavorText": {
     "ruby": "Molten magma courses throughout SLUGMA's circulatory system. If this POKéMON is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
     "sapphire": "SLUGMA does not have any blood in its body. Instead, intensely hot magma circulates throughout this POKéMON's body, carrying essential nutrients and oxygen to its organs.",
@@ -192,6 +199,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/218.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.058Z"
+    "scrapedAt": "2026-09-03T19:59:36.780Z"
   }
 }

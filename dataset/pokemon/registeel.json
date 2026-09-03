@@ -36,6 +36,7 @@
   "evolutionChain": [
     "registeel"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this POKéMON eats.",
     "sapphire": "REGISTEEL was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
@@ -221,6 +222,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/379.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.116Z"
+    "scrapedAt": "2026-09-03T19:59:37.912Z"
   }
 }

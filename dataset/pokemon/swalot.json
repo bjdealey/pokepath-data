@@ -46,6 +46,13 @@
     "gulpin",
     "swalot"
   ],
+  "evolutions": [
+    {
+      "from": "gulpin",
+      "to": "swalot",
+      "method": "Level 26"
+    }
+  ],
   "flavorText": {
     "ruby": "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth.",
     "sapphire": "SWALOT has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this POKéMON's mouth.",
@@ -252,6 +259,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/317.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.714Z"
+    "scrapedAt": "2026-09-03T19:59:37.453Z"
   }
 }

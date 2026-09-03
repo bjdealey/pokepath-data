@@ -41,6 +41,7 @@
   "evolutionChain": [
     "plusle"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POKéMON shorts out its body to create the crackling noises of sparks to show its joy.",
     "sapphire": "When PLUSLE is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this POKéMON cries loudly.",
@@ -203,6 +204,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/311.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.674Z"
+    "scrapedAt": "2026-09-03T19:59:37.415Z"
   }
 }

@@ -46,6 +46,13 @@
     "ponyta",
     "rapidash"
   ],
+  "evolutions": [
+    {
+      "from": "ponyta",
+      "to": "rapidash",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
     "sapphire": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
@@ -217,6 +224,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/078.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.142Z"
+    "scrapedAt": "2026-09-03T19:59:35.799Z"
   }
 }

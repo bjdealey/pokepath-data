@@ -49,6 +49,23 @@
     "poliwrath",
     "politoed"
   ],
+  "evolutions": [
+    {
+      "from": "poliwag",
+      "to": "poliwhirl",
+      "method": "Level 25"
+    },
+    {
+      "from": "poliwhirl",
+      "to": "poliwrath",
+      "method": "Water Stone"
+    },
+    {
+      "from": "poliwag",
+      "to": "politoed",
+      "method": "Trade holding King's Rock"
+    }
+  ],
   "flavorText": {
     "ruby": "POLIWRATH's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
     "sapphire": "POLIWRATH's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
@@ -242,6 +259,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/062.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.038Z"
+    "scrapedAt": "2026-09-03T19:59:35.695Z"
   }
 }

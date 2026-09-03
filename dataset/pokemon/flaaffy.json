@@ -44,6 +44,18 @@
     "flaaffy",
     "ampharos"
   ],
+  "evolutions": [
+    {
+      "from": "mareep",
+      "to": "flaaffy",
+      "method": "Level 15"
+    },
+    {
+      "from": "flaaffy",
+      "to": "ampharos",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "FLAAFFY's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
     "sapphire": "FLAAFFY's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
@@ -213,6 +225,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/180.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.813Z"
+    "scrapedAt": "2026-09-03T19:59:36.506Z"
   }
 }

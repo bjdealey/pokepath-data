@@ -46,6 +46,13 @@
     "chansey",
     "blissey"
   ],
+  "evolutions": [
+    {
+      "from": "chansey",
+      "to": "blissey",
+      "method": "High Friendship"
+    }
+  ],
   "flavorText": {
     "ruby": "CHANSEY lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
     "sapphire": "CHANSEY lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
@@ -305,6 +312,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/113.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.376Z"
+    "scrapedAt": "2026-09-03T19:59:36.041Z"
   }
 }

@@ -44,6 +44,18 @@
     "seadra",
     "kingdra"
   ],
+  "evolutions": [
+    {
+      "from": "horsea",
+      "to": "seadra",
+      "method": "Level 32"
+    },
+    {
+      "from": "seadra",
+      "to": "kingdra",
+      "method": "Trade holding Dragon Scale"
+    }
+  ],
   "flavorText": {
     "ruby": "HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this POKéMON anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
     "sapphire": "If HORSEA senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This POKéMON swims by cleverly flapping the fins on its back.",
@@ -192,6 +204,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/116.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.395Z"
+    "scrapedAt": "2026-09-03T19:59:36.062Z"
   }
 }

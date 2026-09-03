@@ -41,6 +41,7 @@
   "evolutionChain": [
     "pinsir"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "PINSIR is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This POKéMON's movements turn sluggish in cold places.",
     "sapphire": "PINSIR has a pair of massive horns Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.",
@@ -217,6 +218,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/127.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.465Z"
+    "scrapedAt": "2026-09-03T19:59:36.133Z"
   }
 }

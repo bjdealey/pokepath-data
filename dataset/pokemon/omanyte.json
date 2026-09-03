@@ -48,6 +48,13 @@
     "omanyte",
     "omastar"
   ],
+  "evolutions": [
+    {
+      "from": "omanyte",
+      "to": "omastar",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
     "sapphire": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
@@ -222,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/138.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.531Z"
+    "scrapedAt": "2026-09-03T19:59:36.201Z"
   }
 }

@@ -42,6 +42,13 @@
     "meowth",
     "persian"
   ],
+  "evolutions": [
+    {
+      "from": "meowth",
+      "to": "persian",
+      "method": "Level 28"
+    }
+  ],
   "flavorText": {
     "ruby": "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the POKéMON's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
     "sapphire": "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the POKéMON's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
@@ -242,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/053.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.966Z"
+    "scrapedAt": "2026-09-03T19:59:35.624Z"
   }
 }

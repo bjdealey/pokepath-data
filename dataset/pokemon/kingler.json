@@ -46,6 +46,13 @@
     "krabby",
     "kingler"
   ],
+  "evolutions": [
+    {
+      "from": "krabby",
+      "to": "kingler",
+      "method": "Level 28"
+    }
+  ],
   "flavorText": {
     "ruby": "KINGLER has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the POKéMON quickly tires.",
     "sapphire": "KINGLER has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the POKéMON quickly tires.",
@@ -233,6 +240,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/099.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.276Z"
+    "scrapedAt": "2026-09-03T19:59:35.936Z"
   }
 }

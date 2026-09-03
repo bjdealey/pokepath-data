@@ -42,6 +42,13 @@
     "sandshrew",
     "sandslash"
   ],
+  "evolutions": [
+    {
+      "from": "sandshrew",
+      "to": "sandslash",
+      "method": "Level 22"
+    }
+  ],
   "flavorText": {
     "ruby": "SANDSHREW's body is configured to absorb water without waste, enabling it to survive in an arid desert. This POKéMON curls up to protect itself from its enemies.",
     "sapphire": "SANDSHREW has a very dry hide that is extremely tough. The POKéMON can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
@@ -224,6 +231,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/027.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.786Z"
+    "scrapedAt": "2026-09-03T19:59:35.446Z"
   }
 }

@@ -42,6 +42,7 @@
   "evolutionChain": [
     "murkrow"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
     "sapphire": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
@@ -207,6 +208,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/198.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.925Z"
+    "scrapedAt": "2026-09-03T19:59:36.650Z"
   }
 }

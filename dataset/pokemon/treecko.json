@@ -44,6 +44,18 @@
     "grovyle",
     "sceptile"
   ],
+  "evolutions": [
+    {
+      "from": "treecko",
+      "to": "grovyle",
+      "method": "Level 16"
+    },
+    {
+      "from": "grovyle",
+      "to": "sceptile",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail.",
     "sapphire": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground.",
@@ -240,6 +252,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/252.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.275Z"
+    "scrapedAt": "2026-09-03T19:59:37.011Z"
   }
 }

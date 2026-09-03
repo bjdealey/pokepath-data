@@ -46,6 +46,13 @@
     "spoink",
     "grumpig"
   ],
+  "evolutions": [
+    {
+      "from": "spoink",
+      "to": "grumpig",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POKéMON cannot afford to stop bouncing - if it stops, its heart will stop.",
     "sapphire": "SPOINK keeps a pearl on top of its head. The pearl functions to amplify this POKéMON's psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
@@ -234,6 +241,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/325.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.765Z"
+    "scrapedAt": "2026-09-03T19:59:37.506Z"
   }
 }

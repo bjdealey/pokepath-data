@@ -44,6 +44,18 @@
     "bayleef",
     "meganium"
   ],
+  "evolutions": [
+    {
+      "from": "chikorita",
+      "to": "bayleef",
+      "method": "Level 16"
+    },
+    {
+      "from": "bayleef",
+      "to": "meganium",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
     "sapphire": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
@@ -211,6 +223,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/152.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.629Z"
+    "scrapedAt": "2026-09-03T19:59:36.298Z"
   }
 }

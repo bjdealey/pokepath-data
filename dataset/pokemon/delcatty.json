@@ -43,6 +43,13 @@
     "skitty",
     "delcatty"
   ],
+  "evolutions": [
+    {
+      "from": "skitty",
+      "to": "delcatty",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random.",
     "sapphire": "DELCATTY sleeps anywhere it wants without keeping a permanent nest. If other POKéMON approach it as it sleeps, this POKéMON will never fight - it will just move away somewhere else.",
@@ -223,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/301.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.602Z"
+    "scrapedAt": "2026-09-03T19:59:37.345Z"
   }
 }

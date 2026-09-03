@@ -47,6 +47,13 @@
     "spinarak",
     "ariados"
   ],
+  "evolutions": [
+    {
+      "from": "spinarak",
+      "to": "ariados",
+      "method": "Level 22"
+    }
+  ],
   "flavorText": {
     "ruby": "ARIADOS's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
     "sapphire": "ARIADOS's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
@@ -213,6 +220,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/168.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.730Z"
+    "scrapedAt": "2026-09-03T19:59:36.403Z"
   }
 }

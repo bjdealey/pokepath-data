@@ -47,6 +47,13 @@
     "houndour",
     "houndoom"
   ],
+  "evolutions": [
+    {
+      "from": "houndour",
+      "to": "houndoom",
+      "method": "Level 24"
+    }
+  ],
   "flavorText": {
     "ruby": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON's remarkable teamwork is unparalleled.",
     "sapphire": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON's remarkable teamwork is unparalleled.",
@@ -231,6 +238,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/228.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.119Z"
+    "scrapedAt": "2026-09-03T19:59:36.851Z"
   }
 }

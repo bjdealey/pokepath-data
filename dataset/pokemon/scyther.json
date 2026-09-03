@@ -43,6 +43,13 @@
     "scyther",
     "scizor"
   ],
+  "evolutions": [
+    {
+      "from": "scyther",
+      "to": "scizor",
+      "method": "Trade holding Metal Coat"
+    }
+  ],
   "flavorText": {
     "ruby": "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This POKéMON's scythes are so effective, they can slice through thick logs in one wicked stroke.",
     "sapphire": "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This POKéMON's scythes are so effective, they can slice through thick logs in one wicked stroke.",
@@ -206,6 +213,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/123.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.440Z"
+    "scrapedAt": "2026-09-03T19:59:36.105Z"
   }
 }

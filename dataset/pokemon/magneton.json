@@ -44,6 +44,13 @@
     "magnemite",
     "magneton"
   ],
+  "evolutions": [
+    {
+      "from": "magnemite",
+      "to": "magneton",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "MAGNETON emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this POKéMON.",
     "sapphire": "MAGNETON emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this POKéMON inside a POKé BALL.",
@@ -201,6 +208,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/082.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.167Z"
+    "scrapedAt": "2026-09-03T19:59:35.827Z"
   }
 }

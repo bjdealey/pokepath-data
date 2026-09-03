@@ -42,9 +42,99 @@ const unit = (s: string, re: RegExp): number | undefined => {
   return m ? Number(m[1]) : undefined;
 };
 
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+// Gen-3 trade-with-item evolutions, keyed by the item text in the method image name.
+const TRADE_ITEMS: Record<string, string> = {
+  kingsrock: "King's Rock",
+  dragonscale: "Dragon Scale",
+  metalcoat: "Metal Coat",
+  upgrade: "Up-Grade",
+  deepseatooth: "Deep Sea Tooth",
+  deepseascale: "Deep Sea Scale",
+};
+
+/** Turn an evolution-method image filename into human-readable text. */
+export function decodeEvoMethod(fileName: string): string {
+  const f = fileName.replace(/\.(png|gif)$/i, "").toLowerCase().replace(/^eevee/, "");
+  let m: RegExpMatchArray | null;
+  if ((m = f.match(/^l(\d+)$/))) return `Level ${m[1]}`;
+  if (f.startsWith("levelpokeblock")) return "Level up with high Beauty";
+  if ((m = f.match(/^levelpokeball(\d+)/))) return `Level ${m[1]} (empty party slot + spare Poké Ball → Shedinja)`;
+  if ((m = f.match(/^p\d+level(\d+)/))) return `Level ${m[1]} (by personality value)`;
+  if ((m = f.match(/(fire|water|thunder|leaf|moon|sun)stone/))) return `${cap(m[1]!)} Stone`;
+  if (f.startsWith("happiness")) return `High Friendship${f.includes("day") ? " (Daytime)" : f.includes("night") ? " (Nighttime)" : ""}`;
+  if (f.startsWith("beauty")) return "High Beauty";
+  if (f.startsWith("trade")) {
+    const item = f.replace(/^trade/, "").replace(/[^a-z]/g, "");
+    return item ? `Trade holding ${TRADE_ITEMS[item] ?? cap(item)}` : "Trade";
+  }
+  return cap(f); // fallback: raw filename
+}
+
+type EvoCell = { type: "pkmn"; dex: number } | { type: "method"; img: string };
+export interface EvoEdge { from: number; to: number; method: string }
+
+/** Parse the "Evolutionary Chain" table into edges (dex numbers + method).
+ * Handles linear chains, the Eevee-style vertical fan, and offset branches. */
+export function parseEvolutions($: cheerio.CheerioAPI, evoTable: Cheerio<Element> | undefined): EvoEdge[] {
+  if (!evoTable) return [];
+  const classify = (cell: Element): EvoCell | null => {
+    const $c = $(cell);
+    const cls = $c.attr("class") ?? "";
+    if (cls.includes("pkmn")) {
+      const ref = $c.find("a[href*='pokedex']").attr("href") ?? $c.find("img").attr("src") ?? "";
+      const dex = ref.match(/(\d{1,4})\.(?:shtml|png)/)?.[1];
+      return dex ? { type: "pkmn", dex: Number(dex) } : null;
+    }
+    const img = $c.find("img").attr("src");
+    if (img && !/foo/.test(cls)) return { type: "method", img: img.split("/").pop() ?? "" };
+    return null;
+  };
+
+  const rows = evoTable
+    .find("tr")
+    .toArray()
+    .map((r) => $(r).children("td,th").toArray().map(classify).filter((c): c is EvoCell => c !== null))
+    .filter((r) => r.length > 0);
+
+  const base = rows.flat().find((c) => c.type === "pkmn");
+  if (!base || base.type !== "pkmn") return [];
+
+  const edges: EvoEdge[] = [];
+  for (let i = 0; i < rows.length; i++) {
+    const cells = rows[i]!;
+    const nextRow = rows[i + 1];
+    // Vertical fan (Eevee): a row of only methods, then a row of only Pokémon.
+    if (cells.every((c) => c.type === "method") && nextRow?.every((c) => c.type === "pkmn")) {
+      cells.forEach((mCell, j) => {
+        const target = nextRow[j];
+        if (mCell.type === "method" && target?.type === "pkmn") edges.push({ from: base.dex, to: target.dex, method: decodeEvoMethod(mCell.img) });
+      });
+      i++; // consumed the Pokémon row
+      continue;
+    }
+    // Mixed row: a row starting with a method is an offset branch off the base.
+    let src = cells[0]!.type === "method" ? base.dex : 0;
+    let pending: string | null = null;
+    for (const c of cells) {
+      if (c.type === "pkmn") {
+        if (pending !== null) {
+          edges.push({ from: src, to: c.dex, method: decodeEvoMethod(pending) });
+          pending = null;
+        }
+        src = c.dex;
+      } else {
+        pending = c.img;
+      }
+    }
+  }
+  return edges;
+}
+
 export interface ParsedPokemon {
   record: PokemonRecord;
   evoDex: number[]; // national numbers in the evolution chain; resolved to slugs later
+  evoEdges: EvoEdge[]; // evolution steps (dex numbers); resolved to slugs later
 }
 
 export function parsePokemon(html: string, url: string): ParsedPokemon {
@@ -268,6 +358,7 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
       }
     });
   }
+  const evoEdges = parseEvolutions($, evo);
 
   const record: PokemonRecord = {
     slug: slugify(name),
@@ -285,10 +376,11 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     abilities,
     baseStats,
     evolutionChain: [], // resolved from evoDex in run.ts
+    evolutions: [], // resolved from evoEdges in run.ts
     flavorText,
     locations,
     learnset: { levelUp, machine, egg, tutor },
     source: { url, scrapedAt: new Date().toISOString() },
   };
-  return { record, evoDex };
+  return { record, evoDex, evoEdges };
 }

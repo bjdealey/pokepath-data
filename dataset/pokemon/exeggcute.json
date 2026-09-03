@@ -43,6 +43,13 @@
     "exeggcute",
     "exeggutor"
   ],
+  "evolutions": [
+    {
+      "from": "exeggcute",
+      "to": "exeggutor",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
     "sapphire": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
@@ -217,6 +224,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/102.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.294Z"
+    "scrapedAt": "2026-09-03T19:59:35.957Z"
   }
 }

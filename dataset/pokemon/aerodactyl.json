@@ -46,6 +46,7 @@
   "evolutionChain": [
     "aerodactyl"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
     "sapphire": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
@@ -237,6 +238,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/142.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.558Z"
+    "scrapedAt": "2026-09-03T19:59:36.226Z"
   }
 }

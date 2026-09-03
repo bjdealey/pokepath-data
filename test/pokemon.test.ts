@@ -5,10 +5,10 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { parsePokemon } from "../src/parse/pokemon.ts";
+import { parsePokemon, decodeEvoMethod } from "../src/parse/pokemon.ts";
 
 const html = readFileSync(fileURLToPath(new URL("./fixtures/pokedex-rs-001.html", import.meta.url)), "utf8");
-const { record, evoDex } = parsePokemon(html, "test://pokedex-rs/001");
+const { record, evoDex, evoEdges } = parsePokemon(html, "test://pokedex-rs/001");
 
 test("identity + types", () => {
   assert.equal(record.name, "Bulbasaur");
@@ -56,6 +56,22 @@ test("learnset (egg + tutor)", () => {
 
 test("evolution chain", () => {
   assert.deepEqual(evoDex, [1, 2, 3]);
+});
+
+test("evolution edges carry the method", () => {
+  assert.deepEqual(evoEdges, [
+    { from: 1, to: 2, method: "Level 16" },
+    { from: 2, to: 3, method: "Level 32" },
+  ]);
+});
+
+test("decodeEvoMethod handles stones / trade+item / friendship / personality", () => {
+  assert.equal(decodeEvoMethod("firestone.png"), "Fire Stone");
+  assert.equal(decodeEvoMethod("eeveewaterstone.png"), "Water Stone");
+  assert.equal(decodeEvoMethod("trade.png"), "Trade");
+  assert.equal(decodeEvoMethod("tradekingsrock.png"), "Trade holding King's Rock");
+  assert.equal(decodeEvoMethod("eeveehappinessnight.png"), "High Friendship (Nighttime)");
+  assert.equal(decodeEvoMethod("levelpokeball20.png"), "Level 20 (empty party slot + spare Poké Ball → Shedinja)");
 });
 
 // Magnemite: genderless + two possible abilities (edge cases the full-dex

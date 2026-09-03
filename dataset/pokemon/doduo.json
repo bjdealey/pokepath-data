@@ -47,6 +47,13 @@
     "doduo",
     "dodrio"
   ],
+  "evolutions": [
+    {
+      "from": "doduo",
+      "to": "dodrio",
+      "method": "Level 31"
+    }
+  ],
   "flavorText": {
     "ruby": "DODUO's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
     "sapphire": "DODUO's two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this POKéMON possessing different sets of brains.",
@@ -187,6 +194,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/084.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.180Z"
+    "scrapedAt": "2026-09-03T19:59:35.840Z"
   }
 }

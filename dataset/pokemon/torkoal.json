@@ -41,6 +41,7 @@
   "evolutionChain": [
     "torkoal"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat.",
     "sapphire": "TORKOAL generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this POKéMON burns more coal.",
@@ -204,6 +205,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/324.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.757Z"
+    "scrapedAt": "2026-09-03T19:59:37.500Z"
   }
 }

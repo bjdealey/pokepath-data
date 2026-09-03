@@ -46,6 +46,13 @@
     "cubone",
     "marowak"
   ],
+  "evolutions": [
+    {
+      "from": "cubone",
+      "to": "marowak",
+      "method": "Level 28"
+    }
+  ],
   "flavorText": {
     "ruby": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
     "sapphire": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POKéMON wears are made by the tears it sheds.",
@@ -252,6 +259,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/104.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.312Z"
+    "scrapedAt": "2026-09-03T19:59:35.968Z"
   }
 }

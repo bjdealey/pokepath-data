@@ -43,6 +43,13 @@
     "taillow",
     "swellow"
   ],
+  "evolutions": [
+    {
+      "from": "taillow",
+      "to": "swellow",
+      "method": "Level 22"
+    }
+  ],
   "flavorText": {
     "ruby": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW's clawed feet, preventing escape.",
     "sapphire": "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other's wings.",
@@ -199,6 +206,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/277.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.437Z"
+    "scrapedAt": "2026-09-03T19:59:37.176Z"
   }
 }

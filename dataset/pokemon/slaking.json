@@ -43,6 +43,18 @@
     "vigoroth",
     "slaking"
   ],
+  "evolutions": [
+    {
+      "from": "slakoth",
+      "to": "vigoroth",
+      "method": "Level 18"
+    },
+    {
+      "from": "vigoroth",
+      "to": "slaking",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot.",
     "sapphire": "Wherever SLAKING live, rings of over a yard in diameter appear in grassy fields. They are made by the POKéMON as it eats all the grass within reach while lying prone on the ground.",
@@ -278,6 +290,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/289.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.522Z"
+    "scrapedAt": "2026-09-03T19:59:37.258Z"
   }
 }

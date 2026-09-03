@@ -42,6 +42,13 @@
     "wynaut",
     "wobbuffet"
   ],
+  "evolutions": [
+    {
+      "from": "wynaut",
+      "to": "wobbuffet",
+      "method": "Level 15"
+    }
+  ],
   "flavorText": {
     "ruby": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
     "sapphire": "WOBBUFFET does nothing but endure attacks - it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND.",
@@ -83,6 +90,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/202.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.949Z"
+    "scrapedAt": "2026-09-03T19:59:36.673Z"
   }
 }

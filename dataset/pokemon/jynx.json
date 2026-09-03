@@ -43,6 +43,13 @@
     "smoochum",
     "jynx"
   ],
+  "evolutions": [
+    {
+      "from": "smoochum",
+      "to": "jynx",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
     "sapphire": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
@@ -259,6 +266,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/124.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.446Z"
+    "scrapedAt": "2026-09-03T19:59:36.113Z"
   }
 }

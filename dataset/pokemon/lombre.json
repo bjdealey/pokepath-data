@@ -49,6 +49,18 @@
     "lombre",
     "ludicolo"
   ],
+  "evolutions": [
+    {
+      "from": "lotad",
+      "to": "lombre",
+      "method": "Level 14"
+    },
+    {
+      "from": "lombre",
+      "to": "ludicolo",
+      "method": "Water Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
     "sapphire": "LOMBRE's entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this POKéMON's hands. LOMBRE is often mistaken for a human child.",
@@ -246,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/271.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.400Z"
+    "scrapedAt": "2026-09-03T19:59:37.132Z"
   }
 }

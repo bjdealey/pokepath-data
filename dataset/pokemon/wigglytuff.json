@@ -43,6 +43,18 @@
     "jigglypuff",
     "wigglytuff"
   ],
+  "evolutions": [
+    {
+      "from": "igglybuff",
+      "to": "jigglypuff",
+      "method": "High Friendship"
+    },
+    {
+      "from": "jigglypuff",
+      "to": "wigglytuff",
+      "method": "Moon Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "WIGGLYTUFF has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this POKéMON's eyes, it is quickly washed away.",
     "sapphire": "WIGGLYTUFF's body is very flexible. By inhaling deeply, this POKéMON can inflate itself seemingly without end. Once inflated, WIGGLYTUFF bounces along lightly like a balloon.",
@@ -246,6 +258,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/040.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.882Z"
+    "scrapedAt": "2026-09-03T19:59:35.539Z"
   }
 }

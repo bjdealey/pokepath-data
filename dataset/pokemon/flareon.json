@@ -46,6 +46,33 @@
     "espeon",
     "umbreon"
   ],
+  "evolutions": [
+    {
+      "from": "eevee",
+      "to": "jolteon",
+      "method": "Thunder Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "vaporeon",
+      "method": "Water Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "flareon",
+      "method": "Fire Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "espeon",
+      "method": "High Friendship (Daytime)"
+    },
+    {
+      "from": "eevee",
+      "to": "umbreon",
+      "method": "High Friendship (Nighttime)"
+    }
+  ],
   "flavorText": {
     "ruby": "FLAREON's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This POKéMON's body temperature can rise to a maximum of 1,650 degrees F.",
     "sapphire": "FLAREON's fluffy fur has a functional purpose - it releases heat into the air so that its body does not get excessively hot. This POKéMON's body temperature can rise to a maximum of 1,650 degrees F.",
@@ -214,6 +241,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/136.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.520Z"
+    "scrapedAt": "2026-09-03T19:59:36.187Z"
   }
 }

@@ -42,6 +42,13 @@
     "teddiursa",
     "ursaring"
   ],
+  "evolutions": [
+    {
+      "from": "teddiursa",
+      "to": "ursaring",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
     "sapphire": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
@@ -241,6 +248,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/216.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.045Z"
+    "scrapedAt": "2026-09-03T19:59:36.768Z"
   }
 }

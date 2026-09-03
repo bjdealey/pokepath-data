@@ -42,8 +42,11 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 
 - ✅ `pokemon` — **full national dex, #001–386 (386 species)**. Canonical +
   RSE-scoped facts (identity, i18n names, types, stats, abilities, egg groups,
-  evolution chain, per-game flavor/location, full **learnset** — level-up, TM/HM,
-  egg, and Emerald tutor moves), parsed from `/pokedex-rs/NNN.shtml`.
+  evolution chain **+ methods** (`evolutions` edges: Level 16 / Fire Stone / Trade /
+  Trade holding King's Rock / High Beauty / …, decoded from the chain's method icons —
+  handles branches like Eevee, Wurmple, Slowpoke, Nincada→Shedinja), per-game
+  flavor/location, full **learnset** — level-up, TM/HM, egg, and Emerald tutor moves),
+  parsed from `/pokedex-rs/NNN.shtml`.
 - ✅ `moves` — all **Gen-III moves** (~355) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
   effect + rate, contest type. **Category is derived from type** (Gen 3 predates the

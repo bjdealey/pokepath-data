@@ -42,6 +42,13 @@
     "mankey",
     "primeape"
   ],
+  "evolutions": [
+    {
+      "from": "mankey",
+      "to": "primeape",
+      "method": "Level 28"
+    }
+  ],
   "flavorText": {
     "ruby": "When MANKEY starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
     "sapphire": "When MANKEY starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
@@ -248,6 +255,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/056.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.988Z"
+    "scrapedAt": "2026-09-03T19:59:35.646Z"
   }
 }

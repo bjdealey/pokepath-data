@@ -43,6 +43,13 @@
     "feebas",
     "milotic"
   ],
+  "evolutions": [
+    {
+      "from": "feebas",
+      "to": "milotic",
+      "method": "Level up with high Beauty"
+    }
+  ],
   "flavorText": {
     "ruby": "MILOTIC is said to be the most beautiful of all the POKéMON. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
     "sapphire": "MILOTIC live at the bottom of large lakes. When this POKéMON's body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
@@ -217,6 +224,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/350.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.928Z"
+    "scrapedAt": "2026-09-03T19:59:37.718Z"
   }
 }

@@ -46,6 +46,7 @@
   "evolutionChain": [
     "mawile"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "MAWHILE's huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWHILE chomps it with its gaping jaws.",
     "sapphire": "Don't be taken in by this POKéMON's cute face - it's very dangerous. MAWILE fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
@@ -252,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/303.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.617Z"
+    "scrapedAt": "2026-09-03T19:59:37.358Z"
   }
 }

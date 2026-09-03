@@ -36,6 +36,7 @@
   "evolutionChain": [
     "regirock"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "REGIROCK was sealed away by people long ago. If this POKéMON's body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
     "sapphire": "REGIROCK's body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
@@ -214,6 +215,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/377.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.104Z"
+    "scrapedAt": "2026-09-03T19:59:37.901Z"
   }
 }

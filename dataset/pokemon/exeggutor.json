@@ -43,6 +43,13 @@
     "exeggcute",
     "exeggutor"
   ],
+  "evolutions": [
+    {
+      "from": "exeggcute",
+      "to": "exeggutor",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.",
     "sapphire": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE.",
@@ -201,6 +208,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/103.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.300Z"
+    "scrapedAt": "2026-09-03T19:59:35.962Z"
   }
 }

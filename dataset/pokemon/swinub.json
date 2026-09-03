@@ -43,6 +43,13 @@
     "swinub",
     "piloswine"
   ],
+  "evolutions": [
+    {
+      "from": "swinub",
+      "to": "piloswine",
+      "method": "Level 33"
+    }
+  ],
   "flavorText": {
     "ruby": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
     "sapphire": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
@@ -215,6 +222,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/220.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.069Z"
+    "scrapedAt": "2026-09-03T19:59:36.793Z"
   }
 }

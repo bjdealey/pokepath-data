@@ -45,6 +45,18 @@
     "marshtomp",
     "swampert"
   ],
+  "evolutions": [
+    {
+      "from": "mudkip",
+      "to": "marshtomp",
+      "method": "Level 16"
+    },
+    {
+      "from": "marshtomp",
+      "to": "swampert",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water.",
     "sapphire": "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
@@ -270,6 +282,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/260.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.336Z"
+    "scrapedAt": "2026-09-03T19:59:37.066Z"
   }
 }

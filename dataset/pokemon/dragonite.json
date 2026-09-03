@@ -45,6 +45,18 @@
     "dragonair",
     "dragonite"
   ],
+  "evolutions": [
+    {
+      "from": "dratini",
+      "to": "dragonair",
+      "method": "Level 30"
+    },
+    {
+      "from": "dragonair",
+      "to": "dragonite",
+      "method": "Level 55"
+    }
+  ],
   "flavorText": {
     "ruby": "DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted POKéMON that leads lost and foundering ships in a storm to the safety of land.",
     "sapphire": "DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted POKéMON that leads lost and foundering ships in a storm to the safety of land.",
@@ -308,6 +320,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/149.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.603Z"
+    "scrapedAt": "2026-09-03T19:59:36.271Z"
   }
 }

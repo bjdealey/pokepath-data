@@ -43,6 +43,13 @@
     "snorunt",
     "glalie"
   ],
+  "evolutions": [
+    {
+      "from": "snorunt",
+      "to": "glalie",
+      "method": "Level 42"
+    }
+  ],
   "flavorText": {
     "ruby": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POKéMON steals away to live quietly among stalactites and stalagmites deep in caverns.",
     "sapphire": "SNORUNT survives by eating only snow and ice. Old folklore claims that a house visited by this POKéMON is sure to prosper for many generations to come.",
@@ -202,6 +209,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/361.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.004Z"
+    "scrapedAt": "2026-09-03T19:59:37.793Z"
   }
 }

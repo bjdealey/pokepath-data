@@ -43,6 +43,18 @@
     "huntail",
     "gorebyss"
   ],
+  "evolutions": [
+    {
+      "from": "clamperl",
+      "to": "huntail",
+      "method": "Trade holding Deep Sea Tooth"
+    },
+    {
+      "from": "clamperl",
+      "to": "gorebyss",
+      "method": "Trade holding Deep Sea Scale"
+    }
+  ],
   "flavorText": {
     "ruby": "HUNTAIL's presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POKéMON's eyes can see clearly even in the murky dark depths of the ocean.",
     "sapphire": "HUNTAIL's tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This POKéMON swims by wiggling its slender body like a snake.",
@@ -204,6 +216,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/367.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.042Z"
+    "scrapedAt": "2026-09-03T19:59:37.832Z"
   }
 }

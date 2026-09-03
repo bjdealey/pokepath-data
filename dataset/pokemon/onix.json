@@ -47,6 +47,13 @@
     "onix",
     "steelix"
   ],
+  "evolutions": [
+    {
+      "from": "onix",
+      "to": "steelix",
+      "method": "Trade holding Metal Coat"
+    }
+  ],
   "flavorText": {
     "ruby": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
     "sapphire": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
@@ -219,6 +226,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/095.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.250Z"
+    "scrapedAt": "2026-09-03T19:59:35.911Z"
   }
 }

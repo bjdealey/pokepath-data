@@ -137,6 +137,13 @@ export interface Story {
   locations: StoryLocation[];
 }
 
+/** One evolution step, e.g. { from: "bulbasaur", to: "ivysaur", method: "Level 16" }. */
+export interface EvolutionEdge {
+  from: string; // slug
+  to: string; // slug
+  method: string; // natural-language: "Level 16", "Fire Stone", "Trade holding King's Rock", …
+}
+
 export interface PokemonRecord {
   slug: string;
   natdex: number;
@@ -152,7 +159,8 @@ export interface PokemonRecord {
   eggGroups: string[];
   abilities: Ability[];
   baseStats: BaseStats;
-  evolutionChain: string[]; // slugs in order, [] if none
+  evolutionChain: string[]; // slugs of the whole family, in order
+  evolutions: EvolutionEdge[]; // how each member evolves (with method)
   flavorText: Partial<Record<GameSlug, string>>;
   locations: Partial<Record<GameSlug, string>>;
   learnset: Learnset; // scoped to the scraped game family (RSE for now)

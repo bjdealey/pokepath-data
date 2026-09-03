@@ -44,6 +44,18 @@
     "pidgeotto",
     "pidgeot"
   ],
+  "evolutions": [
+    {
+      "from": "pidgey",
+      "to": "pidgeotto",
+      "method": "Level 18"
+    },
+    {
+      "from": "pidgeotto",
+      "to": "pidgeot",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
     "sapphire": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
@@ -202,6 +214,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/018.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.717Z"
+    "scrapedAt": "2026-09-03T19:59:35.381Z"
   }
 }

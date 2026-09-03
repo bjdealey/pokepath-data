@@ -43,6 +43,13 @@
     "venonat",
     "venomoth"
   ],
+  "evolutions": [
+    {
+      "from": "venonat",
+      "to": "venomoth",
+      "method": "Level 31"
+    }
+  ],
   "flavorText": {
     "ruby": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
     "sapphire": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
@@ -199,6 +206,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/048.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.933Z"
+    "scrapedAt": "2026-09-03T19:59:35.590Z"
   }
 }

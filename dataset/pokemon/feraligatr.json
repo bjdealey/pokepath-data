@@ -44,6 +44,18 @@
     "croconaw",
     "feraligatr"
   ],
+  "evolutions": [
+    {
+      "from": "totodile",
+      "to": "croconaw",
+      "method": "Level 18"
+    },
+    {
+      "from": "croconaw",
+      "to": "feraligatr",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
     "sapphire": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
@@ -263,6 +275,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/160.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.681Z"
+    "scrapedAt": "2026-09-03T19:59:36.351Z"
   }
 }

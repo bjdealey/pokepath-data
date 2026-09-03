@@ -45,6 +45,23 @@
     "vileplume",
     "bellossom"
   ],
+  "evolutions": [
+    {
+      "from": "oddish",
+      "to": "gloom",
+      "method": "Level 21"
+    },
+    {
+      "from": "gloom",
+      "to": "vileplume",
+      "method": "Leaf Stone"
+    },
+    {
+      "from": "oddish",
+      "to": "bellossom",
+      "method": "Sun Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this POKéMON is feeling calm and secure, it does not release its usual stinky aroma.",
     "sapphire": "From its mouth GLOOM drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
@@ -195,6 +212,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/044.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.906Z"
+    "scrapedAt": "2026-09-03T19:59:35.563Z"
   }
 }

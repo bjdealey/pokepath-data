@@ -45,6 +45,7 @@
   "evolutionChain": [
     "dunsparce"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
     "sapphire": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
@@ -252,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/206.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.980Z"
+    "scrapedAt": "2026-09-03T19:59:36.701Z"
   }
 }

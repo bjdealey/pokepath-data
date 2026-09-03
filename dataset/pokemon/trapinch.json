@@ -47,6 +47,18 @@
     "vibrava",
     "flygon"
   ],
+  "evolutions": [
+    {
+      "from": "trapinch",
+      "to": "vibrava",
+      "method": "Level 35"
+    },
+    {
+      "from": "vibrava",
+      "to": "flygon",
+      "method": "Level 45"
+    }
+  ],
   "flavorText": {
     "ruby": "TRAPINCH's nest is a sloped, bowl-like pit dug in sand. This POKéMON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
     "sapphire": "TRAPINCH is a patient hunter. It digs an inescapable pit in a desert and waits for its prey to come tumbling down. This POKéMON can go a whole week without access to any water.",
@@ -200,6 +212,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/328.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.784Z"
+    "scrapedAt": "2026-09-03T19:59:37.553Z"
   }
 }

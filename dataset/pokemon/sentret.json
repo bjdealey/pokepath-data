@@ -46,6 +46,13 @@
     "sentret",
     "furret"
   ],
+  "evolutions": [
+    {
+      "from": "sentret",
+      "to": "furret",
+      "method": "Level 15"
+    }
+  ],
   "flavorText": {
     "ruby": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear.",
     "sapphire": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear.",
@@ -239,6 +246,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/161.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.688Z"
+    "scrapedAt": "2026-09-03T19:59:36.359Z"
   }
 }

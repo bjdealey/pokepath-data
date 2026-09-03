@@ -43,6 +43,18 @@
     "huntail",
     "gorebyss"
   ],
+  "evolutions": [
+    {
+      "from": "clamperl",
+      "to": "huntail",
+      "method": "Trade holding Deep Sea Tooth"
+    },
+    {
+      "from": "clamperl",
+      "to": "gorebyss",
+      "method": "Trade holding Deep Sea Scale"
+    }
+  ],
   "flavorText": {
     "ruby": "CLAMPERL's sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL's shell will be scored with nicks and scratches all over.",
     "sapphire": "CLAMPERL grows while being protected by its rock-hard shell. When its body becomes too large to fit inside the shell, it is sure evidence that this POKéMON is getting close to evolution.",
@@ -174,6 +186,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/366.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.036Z"
+    "scrapedAt": "2026-09-03T19:59:37.825Z"
   }
 }

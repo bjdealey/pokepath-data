@@ -44,6 +44,18 @@
     "ninjask",
     "shedinja"
   ],
+  "evolutions": [
+    {
+      "from": "nincada",
+      "to": "ninjask",
+      "method": "Level 20"
+    },
+    {
+      "from": "nincada",
+      "to": "shedinja",
+      "method": "Level 20 (empty party slot + spare Poké Ball → Shedinja)"
+    }
+  ],
   "flavorText": {
     "ruby": "NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible.",
     "sapphire": "If NINJASK is not trained properly, it will refuse to obey the TRAINER and cry loudly continuously. Because of this quality, this POKéMON is said to be one that puts the TRAINER's abilities to the test.",
@@ -231,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/291.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.535Z"
+    "scrapedAt": "2026-09-03T19:59:37.269Z"
   }
 }

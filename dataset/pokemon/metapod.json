@@ -43,6 +43,18 @@
     "metapod",
     "butterfree"
   ],
+  "evolutions": [
+    {
+      "from": "caterpie",
+      "to": "metapod",
+      "method": "Level 7"
+    },
+    {
+      "from": "metapod",
+      "to": "butterfree",
+      "method": "Level 10"
+    }
+  ],
   "flavorText": {
     "ruby": "The shell covering this POKéMON's body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
     "sapphire": "The shell covering this POKéMON's body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
@@ -76,6 +88,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/011.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.674Z"
+    "scrapedAt": "2026-09-03T19:59:35.336Z"
   }
 }

@@ -41,6 +41,7 @@
   "evolutionChain": [
     "kecleon"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "KECLEON is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this POKéMON can't change the zigzag pattern on its belly.",
     "sapphire": "KECLEON alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
@@ -290,6 +291,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/352.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.942Z"
+    "scrapedAt": "2026-09-03T19:59:37.733Z"
   }
 }

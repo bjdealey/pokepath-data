@@ -47,6 +47,13 @@
     "ledyba",
     "ledian"
   ],
+  "evolutions": [
+    {
+      "from": "ledyba",
+      "to": "ledian",
+      "method": "Level 18"
+    }
+  ],
   "flavorText": {
     "ruby": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid's scent.",
     "sapphire": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid's scent.",
@@ -220,6 +227,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/165.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.713Z"
+    "scrapedAt": "2026-09-03T19:59:36.384Z"
   }
 }

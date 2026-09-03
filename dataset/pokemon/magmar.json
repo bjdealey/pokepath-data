@@ -42,6 +42,13 @@
     "magby",
     "magmar"
   ],
+  "evolutions": [
+    {
+      "from": "magby",
+      "to": "magmar",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This POKéMON's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
     "sapphire": "In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This POKéMON's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
@@ -224,6 +231,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/126.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.459Z"
+    "scrapedAt": "2026-09-03T19:59:36.127Z"
   }
 }

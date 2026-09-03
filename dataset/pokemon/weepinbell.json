@@ -44,6 +44,18 @@
     "weepinbell",
     "victreebel"
   ],
+  "evolutions": [
+    {
+      "from": "bellsprout",
+      "to": "weepinbell",
+      "method": "Level 21"
+    },
+    {
+      "from": "weepinbell",
+      "to": "victreebel",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
     "sapphire": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
@@ -207,6 +219,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/070.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.091Z"
+    "scrapedAt": "2026-09-03T19:59:35.748Z"
   }
 }

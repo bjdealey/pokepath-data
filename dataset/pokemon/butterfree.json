@@ -44,6 +44,18 @@
     "metapod",
     "butterfree"
   ],
+  "evolutions": [
+    {
+      "from": "caterpie",
+      "to": "metapod",
+      "method": "Level 7"
+    },
+    {
+      "from": "metapod",
+      "to": "butterfree",
+      "method": "Level 10"
+    }
+  ],
   "flavorText": {
     "ruby": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
     "sapphire": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
@@ -212,6 +224,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/012.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.682Z"
+    "scrapedAt": "2026-09-03T19:59:35.344Z"
   }
 }

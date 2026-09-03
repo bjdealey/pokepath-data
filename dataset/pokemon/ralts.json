@@ -47,6 +47,18 @@
     "kirlia",
     "gardevoir"
   ],
+  "evolutions": [
+    {
+      "from": "ralts",
+      "to": "kirlia",
+      "method": "Level 20"
+    },
+    {
+      "from": "kirlia",
+      "to": "gardevoir",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
     "sapphire": "RALTS has the ability to sense the emotions of people. If its TRAINER is in a cheerful mood, this POKéMON grows cheerful and joyous in the same way.",
@@ -241,6 +253,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/280.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.455Z"
+    "scrapedAt": "2026-09-03T19:59:37.195Z"
   }
 }

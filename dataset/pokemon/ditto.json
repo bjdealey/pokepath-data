@@ -38,6 +38,7 @@
   "evolutionChain": [
     "ditto"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong.",
     "sapphire": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong.",
@@ -67,6 +68,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/132.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.493Z"
+    "scrapedAt": "2026-09-03T19:59:36.162Z"
   }
 }

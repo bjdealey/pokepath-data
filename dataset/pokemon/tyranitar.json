@@ -44,6 +44,18 @@
     "pupitar",
     "tyranitar"
   ],
+  "evolutions": [
+    {
+      "from": "larvitar",
+      "to": "pupitar",
+      "method": "Level 30"
+    },
+    {
+      "from": "pupitar",
+      "to": "tyranitar",
+      "method": "Level 55"
+    }
+  ],
   "flavorText": {
     "ruby": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
     "sapphire": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
@@ -293,6 +305,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/248.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.249Z"
+    "scrapedAt": "2026-09-03T19:59:36.979Z"
   }
 }

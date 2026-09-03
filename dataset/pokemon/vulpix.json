@@ -42,6 +42,13 @@
     "vulpix",
     "ninetales"
   ],
+  "evolutions": [
+    {
+      "from": "vulpix",
+      "to": "ninetales",
+      "method": "Fire Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "At the time of its birth, VULPIX has one white tail. The tail separates into six if this POKéMON receives plenty of love from its TRAINER. The six tails become magnificently curled.",
     "sapphire": "Inside VULPIX's body burns a flame that never goes out. During the daytime, when the temperatures rise, this POKéMON releases flames from its mouth to prevent its body from growing too hot.",
@@ -203,6 +210,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/037.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.861Z"
+    "scrapedAt": "2026-09-03T19:59:35.519Z"
   }
 }

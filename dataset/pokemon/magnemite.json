@@ -44,6 +44,13 @@
     "magnemite",
     "magneton"
   ],
+  "evolutions": [
+    {
+      "from": "magnemite",
+      "to": "magneton",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "MAGNEMITE attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this POKéMON clinging to the breaker box.",
     "sapphire": "MAGNEMITE floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This POKéMON becomes incapable of flight if its internal electrical supply is depleted.",
@@ -189,6 +196,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/081.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.162Z"
+    "scrapedAt": "2026-09-03T19:59:35.822Z"
   }
 }

@@ -41,6 +41,7 @@
   "evolutionChain": [
     "tangela"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "TANGELA's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
     "sapphire": "TANGELA's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
@@ -214,6 +215,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/114.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.382Z"
+    "scrapedAt": "2026-09-03T19:59:36.047Z"
   }
 }

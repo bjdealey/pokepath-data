@@ -44,6 +44,18 @@
     "vibrava",
     "flygon"
   ],
+  "evolutions": [
+    {
+      "from": "trapinch",
+      "to": "vibrava",
+      "method": "Level 35"
+    },
+    {
+      "from": "vibrava",
+      "to": "flygon",
+      "method": "Level 45"
+    }
+  ],
   "flavorText": {
     "ruby": "To make prey faint, VIBRAVA generates ultrasonic waves by vigorously making its two wings vibrate. This POKéMON's ultrasonic waves are so powerful, they can bring on headaches in people.",
     "sapphire": "VIBRAVA's wings have not yet completed the process of growing. Rather than flying long distances, they are more useful for generating ultrasonic waves by vibrating.",
@@ -222,6 +234,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/329.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.790Z"
+    "scrapedAt": "2026-09-03T19:59:37.563Z"
   }
 }

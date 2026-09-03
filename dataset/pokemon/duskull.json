@@ -42,6 +42,13 @@
     "duskull",
     "dusclops"
   ],
+  "evolutions": [
+    {
+      "from": "duskull",
+      "to": "dusclops",
+      "method": "Level 37"
+    }
+  ],
   "flavorText": {
     "ruby": "DUSKULL can pass through any wall no matter how thick it may be. Once this POKéMON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
     "sapphire": "DUSKULL wanders lost among the deep darkness of midnight. There is an oft- told admonishment given to misbehaving children that this POKéMON will spirit away bad children who earn scoldings from their mothers.",
@@ -223,6 +230,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/355.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.961Z"
+    "scrapedAt": "2026-09-03T19:59:37.753Z"
   }
 }

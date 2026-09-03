@@ -49,6 +49,18 @@
     "slowbro",
     "slowking"
   ],
+  "evolutions": [
+    {
+      "from": "slowpoke",
+      "to": "slowbro",
+      "method": "Level 37"
+    },
+    {
+      "from": "slowpoke",
+      "to": "slowking",
+      "method": "Trade holding King's Rock"
+    }
+  ],
   "flavorText": {
     "ruby": "SLOWPOKE uses its tail to catch prey by dipping it in water at the side of a river. However, this POKéMON often forgets what it's doing and often spends entire days just loafing at water's edge.",
     "sapphire": "SLOWPOKE uses its tail to catch prey by dipping it in water at the side of a river. However, this POKéMON often forgets what it's doing and often spends entire days just loafing at water's edge.",
@@ -258,6 +270,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/079.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.149Z"
+    "scrapedAt": "2026-09-03T19:59:35.808Z"
   }
 }

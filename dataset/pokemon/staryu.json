@@ -43,6 +43,13 @@
     "staryu",
     "starmie"
   ],
+  "evolutions": [
+    {
+      "from": "staryu",
+      "to": "starmie",
+      "method": "Water Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "STARYU's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these POKéMON look like the stars in the sky.",
     "sapphire": "STARYU apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this POKéMON simply regenerates the missing pieces and limbs.",
@@ -221,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/120.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.421Z"
+    "scrapedAt": "2026-09-03T19:59:36.086Z"
   }
 }

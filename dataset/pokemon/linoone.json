@@ -42,6 +42,13 @@
     "zigzagoon",
     "linoone"
   ],
+  "evolutions": [
+    {
+      "from": "zigzagoon",
+      "to": "linoone",
+      "method": "Level 20"
+    }
+  ],
   "flavorText": {
     "ruby": "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads.",
     "sapphire": "When hunting, LINOONE will make a beeline straight for the prey at a full run. While this POKéMON is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
@@ -258,6 +265,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/264.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.361Z"
+    "scrapedAt": "2026-09-03T19:59:37.094Z"
   }
 }

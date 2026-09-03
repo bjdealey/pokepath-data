@@ -37,6 +37,7 @@
   "evolutionChain": [
     "ho-oh"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "HO-OH's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This POKéMON is said to live at the foot of a rainbow.",
     "sapphire": "HO-OH's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This POKéMON is said to live at the foot of a rainbow.",
@@ -256,6 +257,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/250.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.262Z"
+    "scrapedAt": "2026-09-03T19:59:36.997Z"
   }
 }

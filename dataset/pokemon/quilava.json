@@ -43,6 +43,18 @@
     "quilava",
     "typhlosion"
   ],
+  "evolutions": [
+    {
+      "from": "cyndaquil",
+      "to": "quilava",
+      "method": "Level 14"
+    },
+    {
+      "from": "quilava",
+      "to": "typhlosion",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
     "sapphire": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
@@ -216,6 +228,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/156.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.655Z"
+    "scrapedAt": "2026-09-03T19:59:36.325Z"
   }
 }

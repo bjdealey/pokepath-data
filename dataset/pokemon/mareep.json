@@ -44,6 +44,18 @@
     "flaaffy",
     "ampharos"
   ],
+  "evolutions": [
+    {
+      "from": "mareep",
+      "to": "flaaffy",
+      "method": "Level 15"
+    },
+    {
+      "from": "flaaffy",
+      "to": "ampharos",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "MAREEP's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
     "sapphire": "MAREEP's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
@@ -186,6 +198,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/179.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.805Z"
+    "scrapedAt": "2026-09-03T19:59:36.493Z"
   }
 }

@@ -45,6 +45,23 @@
     "vileplume",
     "bellossom"
   ],
+  "evolutions": [
+    {
+      "from": "oddish",
+      "to": "gloom",
+      "method": "Level 21"
+    },
+    {
+      "from": "gloom",
+      "to": "vileplume",
+      "method": "Leaf Stone"
+    },
+    {
+      "from": "oddish",
+      "to": "bellossom",
+      "method": "Sun Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "VILEPLUME's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
     "sapphire": "VILEPLUME has the world's largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this POKéMON catches and devours them.",
@@ -180,6 +197,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/045.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.913Z"
+    "scrapedAt": "2026-09-03T19:59:35.571Z"
   }
 }

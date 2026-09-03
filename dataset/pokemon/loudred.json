@@ -44,6 +44,18 @@
     "loudred",
     "exploud"
   ],
+  "evolutions": [
+    {
+      "from": "whismur",
+      "to": "loudred",
+      "method": "Level 20"
+    },
+    {
+      "from": "loudred",
+      "to": "exploud",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "LOUDRED's bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POKéMON's round ears serve as loudspeakers.",
     "sapphire": "LOUDRED shouts while stamping its feet. After it finishes shouting, this POKéMON becomes incapable of hearing anything for a while. This is considered to be a weak point.",
@@ -267,6 +279,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/294.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.554Z"
+    "scrapedAt": "2026-09-03T19:59:37.289Z"
   }
 }

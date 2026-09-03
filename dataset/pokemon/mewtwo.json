@@ -36,6 +36,7 @@
   "evolutionChain": [
     "mewtwo"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON's body, they failed to endow MEWTWO with a compassionate heart.",
     "sapphire": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON's body, they failed to endow MEWTWO with a compassionate heart.",
@@ -302,6 +303,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/150.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.615Z"
+    "scrapedAt": "2026-09-03T19:59:36.283Z"
   }
 }

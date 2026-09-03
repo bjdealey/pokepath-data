@@ -40,6 +40,13 @@
     "wynaut",
     "wobbuffet"
   ],
+  "evolutions": [
+    {
+      "from": "wynaut",
+      "to": "wobbuffet",
+      "method": "Level 15"
+    }
+  ],
   "flavorText": {
     "ruby": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail.",
     "sapphire": "WYNAUT gather on moonlit nights to play by squeezing up against each other. By being squeezed, this POKéMON gains endurance and is trained to dole out powerful counterattacks.",
@@ -93,6 +100,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/360.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.999Z"
+    "scrapedAt": "2026-09-03T19:59:37.786Z"
   }
 }

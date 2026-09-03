@@ -41,6 +41,18 @@
     "metang",
     "metagross"
   ],
+  "evolutions": [
+    {
+      "from": "beldum",
+      "to": "metang",
+      "method": "Level 20"
+    },
+    {
+      "from": "metang",
+      "to": "metagross",
+      "method": "Level 45"
+    }
+  ],
   "flavorText": {
     "ruby": "Instead of blood, a powerful magnetic force courses throughout BELDUM's body. This POKéMON communicates with others by sending controlled pulses of magnetism.",
     "sapphire": "BELDUM keeps itself floating by generating a magnetic force that repels earth's natural magnetism. When it sleeps, this POKéMON anchors itself to a cliff using the hooks on its rear.",
@@ -70,6 +82,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/374.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.085Z"
+    "scrapedAt": "2026-09-03T19:59:37.880Z"
   }
 }

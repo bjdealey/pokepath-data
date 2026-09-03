@@ -44,6 +44,13 @@
     "cacnea",
     "cacturne"
   ],
+  "evolutions": [
+    {
+      "from": "cacnea",
+      "to": "cacturne",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops.",
     "sapphire": "If a traveler is going through a desert in the thick of night, CACTURNE will follow in a ragtag group. The POKéMON are biding their time, waiting for the traveler to tire and become incapable of moving.",
@@ -234,6 +241,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/332.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.814Z"
+    "scrapedAt": "2026-09-03T19:59:37.588Z"
   }
 }

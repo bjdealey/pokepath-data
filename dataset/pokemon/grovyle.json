@@ -44,6 +44,18 @@
     "grovyle",
     "sceptile"
   ],
+  "evolutions": [
+    {
+      "from": "treecko",
+      "to": "grovyle",
+      "method": "Level 16"
+    },
+    {
+      "from": "grovyle",
+      "to": "sceptile",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "The leaves growing out of GROVYLE's body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles.",
     "sapphire": "This POKéMON adeptly flies from branch to branch in trees. In a forest, no POKéMON can ever hope to catch a fleeing GROVYLE however fast they may be.",
@@ -252,6 +264,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/253.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.281Z"
+    "scrapedAt": "2026-09-03T19:59:37.017Z"
   }
 }

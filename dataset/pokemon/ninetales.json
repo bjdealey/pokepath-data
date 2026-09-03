@@ -42,6 +42,13 @@
     "vulpix",
     "ninetales"
   ],
+  "evolutions": [
+    {
+      "from": "vulpix",
+      "to": "ninetales",
+      "method": "Fire Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "NINETALES casts a sinister light from its bright red eyes to gain total control over its foe's mind. This POKéMON is said to live for a thousand years.",
     "sapphire": "Legend has it that NINETALES came into being when nine wizards possessing sacred powers merged into one. This POKéMON is highly intelligent - it can understand human speech.",
@@ -183,6 +190,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/038.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.867Z"
+    "scrapedAt": "2026-09-03T19:59:35.525Z"
   }
 }

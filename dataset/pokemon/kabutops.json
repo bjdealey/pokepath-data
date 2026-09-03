@@ -48,6 +48,13 @@
     "kabuto",
     "kabutops"
   ],
+  "evolutions": [
+    {
+      "from": "kabuto",
+      "to": "kabutops",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
     "sapphire": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
@@ -258,6 +265,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/141.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.550Z"
+    "scrapedAt": "2026-09-03T19:59:36.220Z"
   }
 }

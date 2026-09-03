@@ -43,6 +43,13 @@
     "scyther",
     "scizor"
   ],
+  "evolutions": [
+    {
+      "from": "scyther",
+      "to": "scizor",
+      "method": "Trade holding Metal Coat"
+    }
+  ],
   "flavorText": {
     "ruby": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
     "sapphire": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
@@ -214,6 +221,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/212.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.019Z"
+    "scrapedAt": "2026-09-03T19:59:36.741Z"
   }
 }

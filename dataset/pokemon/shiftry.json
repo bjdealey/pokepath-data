@@ -49,6 +49,18 @@
     "nuzleaf",
     "shiftry"
   ],
+  "evolutions": [
+    {
+      "from": "seedot",
+      "to": "nuzleaf",
+      "method": "Level 14"
+    },
+    {
+      "from": "nuzleaf",
+      "to": "shiftry",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
     "sapphire": "SHIFTRY's large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This POKéMON chooses to live quietly deep in forests.",
@@ -220,6 +232,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/275.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.425Z"
+    "scrapedAt": "2026-09-03T19:59:37.163Z"
   }
 }

@@ -45,6 +45,18 @@
     "sealeo",
     "walrein"
   ],
+  "evolutions": [
+    {
+      "from": "spheal",
+      "to": "sealeo",
+      "method": "Level 32"
+    },
+    {
+      "from": "sealeo",
+      "to": "walrein",
+      "method": "Level 44"
+    }
+  ],
   "flavorText": {
     "ruby": "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
     "sapphire": "SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object's aroma and texture to determine whether it likes the object or not.",
@@ -242,6 +254,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/364.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.023Z"
+    "scrapedAt": "2026-09-03T19:59:37.814Z"
   }
 }

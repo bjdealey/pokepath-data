@@ -43,6 +43,18 @@
     "vigoroth",
     "slaking"
   ],
+  "evolutions": [
+    {
+      "from": "slakoth",
+      "to": "vigoroth",
+      "method": "Level 18"
+    },
+    {
+      "from": "vigoroth",
+      "to": "slaking",
+      "method": "Level 36"
+    }
+  ],
   "flavorText": {
     "ruby": "SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POKéMON's sole daily meal consists of just three leaves.",
     "sapphire": "SLAKOTH's heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this POKéMON in motion.",
@@ -250,6 +262,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/287.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.507Z"
+    "scrapedAt": "2026-09-03T19:59:37.244Z"
   }
 }

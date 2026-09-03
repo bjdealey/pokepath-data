@@ -46,6 +46,7 @@
   "evolutionChain": [
     "skarmory"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "SKARMORY is entirely encased in hard, protective armor. This POKéMON flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
     "sapphire": "SKARMORY's steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
@@ -214,6 +215,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/227.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.114Z"
+    "scrapedAt": "2026-09-03T19:59:36.843Z"
   }
 }

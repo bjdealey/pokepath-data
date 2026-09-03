@@ -47,6 +47,13 @@
     "natu",
     "xatu"
   ],
+  "evolutions": [
+    {
+      "from": "natu",
+      "to": "xatu",
+      "method": "Level 25"
+    }
+  ],
   "flavorText": {
     "ruby": "NATU cannot fly because its wings are not yet fully grown. If your eyes meet with this POKéMON's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety.",
     "sapphire": "NATU has a highly developed jumping ability. The POKéMON flaps and leaps onto tree branches that are taller than grown-up people to pick at the tree's new shoots.",
@@ -222,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/177.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.788Z"
+    "scrapedAt": "2026-09-03T19:59:36.462Z"
   }
 }

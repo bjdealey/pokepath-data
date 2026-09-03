@@ -47,6 +47,7 @@
   "evolutionChain": [
     "roselia"
   ],
+  "evolutions": [],
   "flavorText": {
     "ruby": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things.",
     "sapphire": "On extremely rare occasions, a ROSELIA is said to appear with its flowers in unusual colors. The thorns on this POKéMON's head contain a vicious poison.",
@@ -224,6 +225,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/315.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.701Z"
+    "scrapedAt": "2026-09-03T19:59:37.440Z"
   }
 }

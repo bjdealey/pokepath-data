@@ -46,6 +46,13 @@
     "goldeen",
     "seaking"
   ],
+  "evolutions": [
+    {
+      "from": "goldeen",
+      "to": "seaking",
+      "method": "Level 33"
+    }
+  ],
   "flavorText": {
     "ruby": "GOLDEEN is a very beautiful POKéMON with fins that billow elegantly in water. However, don't let your guard down around this POKéMON - it could ram you powerfully with its horn.",
     "sapphire": "GOLDEEN loves swimming wild and free in rivers and ponds. If one of these POKéMON is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
@@ -200,6 +207,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/118.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.408Z"
+    "scrapedAt": "2026-09-03T19:59:36.073Z"
   }
 }

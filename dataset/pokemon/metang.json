@@ -41,6 +41,18 @@
     "metang",
     "metagross"
   ],
+  "evolutions": [
+    {
+      "from": "beldum",
+      "to": "metang",
+      "method": "Level 20"
+    },
+    {
+      "from": "metang",
+      "to": "metagross",
+      "method": "Level 45"
+    }
+  ],
   "flavorText": {
     "ruby": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POKéMON generates strong psychokinetic power.",
     "sapphire": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. This POKéMON turns its arms to the rear for traveling at high speed.",
@@ -232,6 +244,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/375.shtml",
-    "scrapedAt": "2026-09-03T19:47:51.091Z"
+    "scrapedAt": "2026-09-03T19:59:37.887Z"
   }
 }

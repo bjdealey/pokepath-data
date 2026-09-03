@@ -44,6 +44,18 @@
     "pupitar",
     "tyranitar"
   ],
+  "evolutions": [
+    {
+      "from": "larvitar",
+      "to": "pupitar",
+      "method": "Level 30"
+    },
+    {
+      "from": "pupitar",
+      "to": "tyranitar",
+      "method": "Level 55"
+    }
+  ],
   "flavorText": {
     "ruby": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
     "sapphire": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
@@ -217,6 +229,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/247.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.243Z"
+    "scrapedAt": "2026-09-03T19:59:36.972Z"
   }
 }

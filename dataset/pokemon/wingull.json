@@ -44,6 +44,13 @@
     "wingull",
     "pelipper"
   ],
+  "evolutions": [
+    {
+      "from": "wingull",
+      "to": "pelipper",
+      "method": "Level 25"
+    }
+  ],
   "flavorText": {
     "ruby": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky.",
     "sapphire": "WINGULL rides updrafts rising from the sea by extending its long and narrow wings to glide. This POKéMON's long beak is useful for catching prey.",
@@ -199,6 +206,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/278.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.442Z"
+    "scrapedAt": "2026-09-03T19:59:37.182Z"
   }
 }

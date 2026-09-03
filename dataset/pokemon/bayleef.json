@@ -44,6 +44,18 @@
     "bayleef",
     "meganium"
   ],
+  "evolutions": [
+    {
+      "from": "chikorita",
+      "to": "bayleef",
+      "method": "Level 16"
+    },
+    {
+      "from": "bayleef",
+      "to": "meganium",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "BAYLEEF's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
     "sapphire": "BAYLEEF's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
@@ -228,6 +240,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/153.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.635Z"
+    "scrapedAt": "2026-09-03T19:59:36.304Z"
   }
 }

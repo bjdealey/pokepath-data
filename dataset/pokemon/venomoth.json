@@ -43,6 +43,13 @@
     "venonat",
     "venomoth"
   ],
+  "evolutions": [
+    {
+      "from": "venonat",
+      "to": "venomoth",
+      "method": "Level 31"
+    }
+  ],
   "flavorText": {
     "ruby": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
     "sapphire": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
@@ -219,6 +226,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/049.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.938Z"
+    "scrapedAt": "2026-09-03T19:59:35.596Z"
   }
 }

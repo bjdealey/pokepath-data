@@ -43,6 +43,13 @@
     "barboach",
     "whiscash"
   ],
+  "evolutions": [
+    {
+      "from": "barboach",
+      "to": "whiscash",
+      "method": "Level 30"
+    }
+  ],
   "flavorText": {
     "ruby": "WHISCASH is extremely territorial. Just one of these POKéMON will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
     "sapphire": "If WHISCASH goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This POKéMON has the ability to predict real earthquakes.",
@@ -236,6 +243,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/340.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.865Z"
+    "scrapedAt": "2026-09-03T19:59:37.646Z"
   }
 }

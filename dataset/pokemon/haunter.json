@@ -44,6 +44,18 @@
     "haunter",
     "gengar"
   ],
+  "evolutions": [
+    {
+      "from": "gastly",
+      "to": "haunter",
+      "method": "Level 25"
+    },
+    {
+      "from": "haunter",
+      "to": "gengar",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
     "sapphire": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
@@ -220,6 +232,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/093.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.238Z"
+    "scrapedAt": "2026-09-03T19:59:35.897Z"
   }
 }

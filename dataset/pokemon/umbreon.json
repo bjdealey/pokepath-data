@@ -46,6 +46,33 @@
     "espeon",
     "umbreon"
   ],
+  "evolutions": [
+    {
+      "from": "eevee",
+      "to": "jolteon",
+      "method": "Thunder Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "vaporeon",
+      "method": "Water Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "flareon",
+      "method": "Fire Stone"
+    },
+    {
+      "from": "eevee",
+      "to": "espeon",
+      "method": "High Friendship (Daytime)"
+    },
+    {
+      "from": "eevee",
+      "to": "umbreon",
+      "method": "High Friendship (Nighttime)"
+    }
+  ],
   "flavorText": {
     "ruby": "UMBREON evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
     "sapphire": "UMBREON evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
@@ -224,6 +251,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/197.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.920Z"
+    "scrapedAt": "2026-09-03T19:59:36.642Z"
   }
 }

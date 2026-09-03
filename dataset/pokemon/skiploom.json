@@ -45,6 +45,18 @@
     "skiploom",
     "jumpluff"
   ],
+  "evolutions": [
+    {
+      "from": "hoppip",
+      "to": "skiploom",
+      "method": "Level 18"
+    },
+    {
+      "from": "skiploom",
+      "to": "jumpluff",
+      "method": "Level 27"
+    }
+  ],
   "flavorText": {
     "ruby": "SKIPLOOM's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
     "sapphire": "SKIPLOOM's flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
@@ -205,6 +217,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/188.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.862Z"
+    "scrapedAt": "2026-09-03T19:59:36.571Z"
   }
 }

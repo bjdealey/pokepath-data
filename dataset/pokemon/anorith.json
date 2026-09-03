@@ -43,6 +43,13 @@
     "anorith",
     "armaldo"
   ],
+  "evolutions": [
+    {
+      "from": "anorith",
+      "to": "armaldo",
+      "method": "Level 40"
+    }
+  ],
   "flavorText": {
     "ruby": "ANORITH was regenerated from a prehistoric fossil. This primitive POKéMON once lived in warm seas. It grips its prey firmly between its two large claws.",
     "sapphire": "ANORITH is said to be a type of POKéMON predecessor, with eight wings at the sides of its body. This POKéMON swam in the primordial sea by undulating these eight wings.",
@@ -203,6 +210,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/347.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.910Z"
+    "scrapedAt": "2026-09-03T19:59:37.698Z"
   }
 }

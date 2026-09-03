@@ -44,6 +44,13 @@
     "shroomish",
     "breloom"
   ],
+  "evolutions": [
+    {
+      "from": "shroomish",
+      "to": "breloom",
+      "method": "Level 23"
+    }
+  ],
   "flavorText": {
     "ruby": "BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POKéMON's fighting technique puts boxers to shame.",
     "sapphire": "The seeds ringing BRELOOM's tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this POKéMON's seed will cause your stomach to rumble.",
@@ -254,6 +261,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/286.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.501Z"
+    "scrapedAt": "2026-09-03T19:59:37.235Z"
   }
 }

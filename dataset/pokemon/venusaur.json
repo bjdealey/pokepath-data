@@ -45,6 +45,18 @@
     "ivysaur",
     "venusaur"
   ],
+  "evolutions": [
+    {
+      "from": "bulbasaur",
+      "to": "ivysaur",
+      "method": "Level 16"
+    },
+    {
+      "from": "ivysaur",
+      "to": "venusaur",
+      "method": "Level 32"
+    }
+  ],
   "flavorText": {
     "ruby": "There is a large flower on VENUSAUR's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "sapphire": "There is a large flower on VENUSAUR's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
@@ -237,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/003.shtml",
-    "scrapedAt": "2026-09-03T19:47:48.604Z"
+    "scrapedAt": "2026-09-03T19:59:35.264Z"
   }
 }

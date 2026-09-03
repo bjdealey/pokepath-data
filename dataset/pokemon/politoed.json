@@ -48,6 +48,23 @@
     "poliwrath",
     "politoed"
   ],
+  "evolutions": [
+    {
+      "from": "poliwag",
+      "to": "poliwhirl",
+      "method": "Level 25"
+    },
+    {
+      "from": "poliwhirl",
+      "to": "poliwrath",
+      "method": "Water Stone"
+    },
+    {
+      "from": "poliwag",
+      "to": "politoed",
+      "method": "Trade holding King's Rock"
+    }
+  ],
   "flavorText": {
     "ruby": "The curled hair on POLITOED's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
     "sapphire": "The curled hair on POLITOED's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
@@ -232,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/186.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.851Z"
+    "scrapedAt": "2026-09-03T19:59:36.559Z"
   }
 }

@@ -43,6 +43,18 @@
     "machoke",
     "machamp"
   ],
+  "evolutions": [
+    {
+      "from": "machop",
+      "to": "machoke",
+      "method": "Level 28"
+    },
+    {
+      "from": "machoke",
+      "to": "machamp",
+      "method": "Trade"
+    }
+  ],
   "flavorText": {
     "ruby": "MACHOP's muscles are special - they never get sore no matter how much they are used in exercise. This POKéMON has sufficient power to hurl a hundred adult humans.",
     "sapphire": "MACHOP exercises by hefting around a GRAVELER as if it were a barbell. There are some MACHOP that travel the world in a quest to master all kinds of martial arts.",
@@ -237,6 +249,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/066.shtml",
-    "scrapedAt": "2026-09-03T19:47:49.066Z"
+    "scrapedAt": "2026-09-03T19:59:35.723Z"
   }
 }

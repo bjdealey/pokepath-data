@@ -48,6 +48,18 @@
     "nuzleaf",
     "shiftry"
   ],
+  "evolutions": [
+    {
+      "from": "seedot",
+      "to": "nuzleaf",
+      "method": "Level 14"
+    },
+    {
+      "from": "nuzleaf",
+      "to": "shiftry",
+      "method": "Leaf Stone"
+    }
+  ],
   "flavorText": {
     "ruby": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON's body becomes.",
     "sapphire": "SEEDOT looks exactly like an acorn when it is dangling from a tree branch. It startles other POKéMON by suddenly moving. This POKéMON polishes its body once a day using leaves.",
@@ -194,6 +206,6 @@
   },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/273.shtml",
-    "scrapedAt": "2026-09-03T19:47:50.413Z"
+    "scrapedAt": "2026-09-03T19:59:37.145Z"
   }
 }
