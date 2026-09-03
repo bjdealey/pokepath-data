@@ -10,7 +10,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Rustboro City",
+          "location": "rustborocity",
           "method": "Gift"
         }
       ]
@@ -27,7 +27,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 119",
+          "location": "route119",
           "method": "Gift from Rival"
         }
       ]
@@ -44,7 +44,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Petalburg City",
+          "location": "petalburgcity",
           "method": "Gift from Wally's Family"
         }
       ]
@@ -61,7 +61,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Rusturf Tunnel",
+          "location": "rusturftunnel",
           "method": "Gift"
         }
       ]
@@ -90,7 +90,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Mauville City",
+          "location": "mauvillecity",
           "method": "Gift"
         }
       ]
@@ -119,7 +119,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Mossdeep City",
+          "location": "mossdeepcity",
           "method": "Gift from Steven"
         }
       ]
@@ -136,7 +136,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 115",
+          "location": "route115",
           "method": "Floor"
         }
       ]
@@ -166,7 +166,7 @@
       "badge": "Rain Badge",
       "locations": [
         {
-          "location": "Sootopolis City",
+          "location": "sootopoliscity",
           "method": "Gift from Wallace/Juan"
         }
       ]
@@ -184,7 +184,7 @@
       "badge": "Mind Badge",
       "locations": [
         {
-          "location": "Mossdeep City",
+          "location": "mossdeepcity",
           "method": "Gift from Tate & Liza"
         }
       ]
@@ -201,7 +201,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 114",
+          "location": "route114",
           "method": "Gift"
         }
       ]
@@ -218,7 +218,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Fierypath",
+          "location": "fierypath",
           "method": "Floor"
         }
       ]
@@ -235,7 +235,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Shoal Cave",
+          "location": "shoalcave",
           "method": "Floor"
         }
       ]
@@ -253,7 +253,7 @@
       "badge": "Knuckle Badge",
       "locations": [
         {
-          "location": "Dewford Town",
+          "location": "dewfordtown",
           "method": "Gift from Brawly"
         }
       ]
@@ -270,7 +270,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 104",
+          "location": "route104",
           "method": "Gift from Man"
         }
       ]
@@ -287,7 +287,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Fortree City",
+          "location": "fortreecity",
           "method": "Gift"
         }
       ]
@@ -304,7 +304,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Scorchedslab",
+          "location": "scorchedslab",
           "method": "Floor"
         }
       ]
@@ -321,7 +321,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 110",
+          "location": "route110",
           "method": "Gift from Trick House 5"
         }
       ]
@@ -410,7 +410,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 123",
+          "location": "route123",
           "method": "Gift"
         }
       ]
@@ -439,7 +439,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Pacifidlog Town",
+          "location": "pacifidlogtown",
           "method": "Gift"
         }
       ]
@@ -480,7 +480,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Mauville City",
+          "location": "mauvillecity",
           "method": "Gift"
         }
       ]
@@ -521,11 +521,11 @@
     "emerald": {
       "locations": [
         {
-          "location": "Fallarbor Town",
+          "location": "fallarbortown",
           "method": "Gift from Prof. Cozmo"
         },
         {
-          "location": "Pacifidlog Town",
+          "location": "pacifidlogtown",
           "method": "Gift from Gentleman"
         }
       ]
@@ -542,7 +542,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 114",
+          "location": "route114",
           "method": "Gift"
         }
       ]
@@ -559,7 +559,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Victory Road",
+          "location": "victoryroad",
           "method": "Floor"
         }
       ]
@@ -588,7 +588,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Sootopolis City",
+          "location": "sootopoliscity",
           "method": "Gift"
         }
       ]
@@ -605,11 +605,11 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 113",
+          "location": "route113",
           "method": "Itemfinder"
         },
         {
-          "location": "Mauville City",
+          "location": "mauvillecity",
           "method": "Gift"
         }
       ]
@@ -639,7 +639,7 @@
       "badge": "Dynamo Badge",
       "locations": [
         {
-          "location": "Mauville City",
+          "location": "mauvillecity",
           "method": "Gift from Wattson"
         }
       ]
@@ -680,7 +680,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 111",
+          "location": "route111",
           "method": "Floor"
         }
       ]
@@ -710,7 +710,7 @@
       "badge": "Stone Badge",
       "locations": [
         {
-          "location": "Rustboro City",
+          "location": "rustborocity",
           "method": "Gift from Roxanne"
         }
       ]
@@ -728,7 +728,7 @@
       "badge": "Feather Badge",
       "locations": [
         {
-          "location": "Fortree City",
+          "location": "fortreecity",
           "method": "Gift from Winona"
         }
       ]
@@ -745,7 +745,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Slateport City",
+          "location": "slateportcity",
           "method": "Gift from Sailor"
         }
       ]
@@ -763,7 +763,7 @@
       "badge": "Balance Badge",
       "locations": [
         {
-          "location": "Petalburg City",
+          "location": "petalburgcity",
           "method": "Gift from Norman"
         }
       ]
@@ -780,7 +780,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Route 111",
+          "location": "route111",
           "method": "Gift"
         }
       ]
@@ -821,7 +821,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Slateport City",
+          "location": "slateportcity",
           "method": "Floor"
         }
       ]
@@ -862,7 +862,7 @@
     "emerald": {
       "locations": [
         {
-          "location": "Sstidal",
+          "location": "sstidal",
           "method": "Gift"
         }
       ]
@@ -880,7 +880,7 @@
       "badge": "Heat Badge",
       "locations": [
         {
-          "location": "Lavaridge Town",
+          "location": "lavaridgetown",
           "method": "Gift from Flannery"
         }
       ]

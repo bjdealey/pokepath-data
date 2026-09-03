@@ -12,8 +12,9 @@ export function parseExits(html: string): { name: string; exits: Record<string, 
   const exits: Record<string, string> = {};
   if (cell.length) {
     const inner = cell.html() ?? "";
-    // e.g. <b>North Exit</b>: <a href="oldaletown.shtml">…
-    for (const m of inner.matchAll(/([A-Za-z][A-Za-z-]*)\s*Exit<\/b>\s*:\s*<a\b[^>]*href="[^"]*?([a-z0-9]+)\.shtml"/gi)) {
+    // e.g. <b>North Exit</b>: <a href="oldaletown.shtml">… (slugs may contain
+    // dots, e.g. mt.chimney.shtml — capture the whole filename stem).
+    for (const m of inner.matchAll(/([A-Za-z][A-Za-z-]*)\s*Exit<\/b>\s*:\s*<a\b[^>]*href="[^"]*?([a-z0-9.]+)\.shtml"/gi)) {
       exits[m[1]!.toLowerCase()] = m[2]!.toLowerCase();
     }
   }

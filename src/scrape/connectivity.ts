@@ -16,7 +16,7 @@ const MAX_PAGES = 140;
 function seedSlugs($: cheerio.CheerioAPI): string[] {
   const slugs = new Set<string>();
   $("area, a").each((_i, e) => {
-    const m = ($(e).attr("href") ?? "").match(/\/pokearth\/hoenn\/([a-z0-9]+)\.shtml/i);
+    const m = ($(e).attr("href") ?? "").match(/\/pokearth\/hoenn\/([a-z0-9.]+)\.shtml/i);
     if (m?.[1] && !/^index$/i.test(m[1])) slugs.add(m[1].toLowerCase());
   });
   return [...slugs];

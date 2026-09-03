@@ -42,13 +42,13 @@ export function deriveMachines() {
   const itemsPath = `${DATASET}games/emerald/items.json`;
   if (existsSync(itemsPath)) {
     const items = JSON.parse(readFileSync(itemsPath, "utf8")) as Record<string, { location: string; items: Array<{ slug: string; method: string }> }>;
-    for (const loc of Object.values(items)) {
+    for (const [locSlug, loc] of Object.entries(items)) {
       for (const it of loc.items) {
         if (!/^(tm|hm)\d+$/i.test(it.slug)) continue;
         const key = codeKey(it.slug);
         const list = findsOf.get(key) ?? [];
         if (!findsOf.has(key)) findsOf.set(key, list);
-        list.push({ location: loc.location, method: it.method });
+        list.push({ location: locSlug, method: it.method }); // slug key, not the display-name field — joins the other location files
       }
     }
   }

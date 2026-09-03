@@ -281,7 +281,7 @@
   "jaggedpass": {
     "name": "Jagged Pass",
     "exits": {
-      "north": "chimney",
+      "north": "mt.chimney",
       "south": "route112"
     }
   },
@@ -326,6 +326,12 @@
       "north": "route125",
       "south": "route127",
       "west": "route124"
+    }
+  },
+  "mt.chimney": {
+    "name": "Mt. Chimney",
+    "exits": {
+      "south": "jaggedpass"
     }
   },
   "oldaletown": {
