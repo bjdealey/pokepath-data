@@ -132,6 +132,7 @@ if (!entity || entity === "pokemon") {
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
+  if (r.unresolvedMoves.length) console.warn(`⚠ ${r.unresolvedMoves.length} trainer move(s) don't match a move record: ${r.unresolvedMoves.join(", ")}`);
 } else {
   console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", or "trainers"`);
   process.exit(1);

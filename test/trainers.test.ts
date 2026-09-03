@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { parseTrainerRosters, parseGymProgression } from "../src/parse/trainers.ts";
+import { parseTrainerRosters, parseGymProgression, aliasMoveName } from "../src/parse/trainers.ts";
 
 const gym = readFileSync(fileURLToPath(new URL("./fixtures/emerald-gym.html", import.meta.url)), "utf8");
 const rosters = parseTrainerRosters(gym);
@@ -37,4 +37,11 @@ test("gym-1 progression metadata + field-move unlock", () => {
 test("all 8 gyms have a badge", () => {
   assert.equal(progression.length, 8);
   assert.ok(progression.every((g) => /Badge$/.test(g.badge ?? "")));
+});
+
+test("gym-page move names are aliased to their Gen-3 name so they join move records", () => {
+  assert.equal(aliasMoveName("Feint Attack"), "Faint Attack"); // Gen-6 name → Gen-3 (slug faintattack)
+  assert.equal(aliasMoveName("Tackle"), "Tackle"); // untouched
+  // No roster should still carry the un-aliased "Feint Attack" after parsing.
+  assert.ok(!rosters.some((r) => r.team.some((p) => p.moves?.includes("Feint Attack"))));
 });

@@ -93,6 +93,17 @@ export async function scrapeTrainers(refresh = false) {
     t.slug = n > 1 ? `${t.trainer}-${n}` : t.trainer;
   }
 
+  // --- Validate gym/elite movesets join the move records (like learnsets do,
+  //     via normalization). Warn on any that don't, post-alias. ---
+  const moveNorm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const knownMoves = new Set<string>();
+  const movesIndex = `${DATASET}moves/index.json`;
+  if (existsSync(movesIndex))
+    for (const m of JSON.parse(readFileSync(movesIndex, "utf8")) as Array<{ name: string }>) knownMoves.add(moveNorm(m.name));
+  const unresolvedMoves = new Set<string>();
+  if (knownMoves.size)
+    for (const t of trainers) for (const p of t.team) for (const mv of p.moves ?? []) if (!knownMoves.has(moveNorm(mv))) unresolvedMoves.add(mv);
+
   // --- Story: infer a location order from levels ---
   const gymCaps = milestones.filter((m) => m.kind === "gym").map((m) => m.levelCap).sort((a, b) => a - b);
   const locLevels = new Map<string, { name: string; levels: number[]; via: "trainers" | "encounters" }>();
@@ -125,5 +136,5 @@ export async function scrapeTrainers(refresh = false) {
   await writeFile(`${dir}story.json`, JSON.stringify({ milestones, locations }, null, 2));
 
   const byKind = trainers.reduce<Record<string, number>>((m, t) => ((m[t.kind] = (m[t.kind] ?? 0) + 1), m), {});
-  return { pages: pages.length, trainers: trainers.length, byKind, milestones: milestones.length, locations: locations.length };
+  return { pages: pages.length, trainers: trainers.length, byKind, milestones: milestones.length, locations: locations.length, unresolvedMoves: [...unresolvedMoves] };
 }

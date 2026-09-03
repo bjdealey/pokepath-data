@@ -83,7 +83,9 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   304 items; item slugs come from Serebii's itemdex links.
 - ✅ `trainers` — **every Emerald trainer battle in one file** (780), tagged `kind`:
   `gym-leader` / `elite-four` / `champion` (from `/emerald/gym.shtml`+`elite.shtml`,
-  **with movesets + held items** and badge/field-move metadata) and `rival` / `villain`
+  **with movesets + held items** and badge/field-move metadata — every moveset move
+  name resolves to a move record, with post-Gen-3 gym-page names aliased back, e.g.
+  Feint→Faint Attack) and `rival` / `villain`
   / `trainer` (all 650+ route trainers from the pokearth `trainers-em` sections, team +
   level). Rival keeps its **starter-choice variants**; exact-duplicate tables de-duped.
   Each row is a distinct battle with a **unique `slug`**; a trainer's rematch tiers /

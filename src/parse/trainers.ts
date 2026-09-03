@@ -9,6 +9,15 @@ import type { TrainerPokemon } from "../types.ts";
 
 const clean = (s: string) => s.replace(/\s+/g, " ").trim();
 
+// The Emerald gym/elite pages print a few post-Gen-3 move names that don't match
+// the Gen-III AttackDex, so a trainer's move can't be joined to a move record.
+// Map them back to the Gen-3 name (which normalizes to the move slug). Keyed by
+// lowercased display text.
+export const TRAINER_MOVE_ALIASES: Record<string, string> = {
+  "feint attack": "Faint Attack", // renamed in Gen 6; Gen-3 move is Faint Attack (slug faintattack)
+};
+export const aliasMoveName = (raw: string): string => TRAINER_MOVE_ALIASES[raw.toLowerCase()] ?? raw;
+
 export function trainerSlug(name: string): string {
   return name
     .toLowerCase()
@@ -58,7 +67,7 @@ export function parseTrainerRosters(html: string): Roster[] {
       const src = $(right(spriteRow, i)).find("img").attr("src") ?? "";
       const natdex = Number(src.match(/\/sprites\/\w+\/(\d+)\.png/i)?.[1] ?? 0);
       const level = Number(clean($(right(levelRow, i)).text()).match(/(\d+)/)?.[1] ?? 0);
-      const moves = $(attackCells[i]!).find("a").map((_i, a) => clean($(a).text())).get();
+      const moves = $(attackCells[i]!).find("a").map((_i, a) => aliasMoveName(clean($(a).text()))).get();
       const itemCell = itemRow ? cells(itemRow)[i] : undefined;
       const itemText = itemCell ? clean($(itemCell).text()).replace(/^Hold Item:\s*/i, "") : "";
       const heldItem = !itemText || /no item/i.test(itemText) ? null : itemText;
