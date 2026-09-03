@@ -12,5 +12,97 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/rockthrow.shtml",
     "scrapedAt": "2026-09-03T19:25:34.492Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": 9
+    }
+  ]
 }

@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/poisongas.shtml",
     "scrapedAt": "2026-09-03T19:24:46.442Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": 9
+    }
+  ]
 }

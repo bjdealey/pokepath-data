@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/machpunch.shtml",
     "scrapedAt": "2026-09-03T19:23:38.960Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 23
+    }
+  ]
 }

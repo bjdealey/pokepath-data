@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/furycutter.shtml",
     "scrapedAt": "2026-09-03T19:22:19.401Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": 46
+    }
+  ]
 }

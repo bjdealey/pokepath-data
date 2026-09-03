@@ -13,5 +13,439 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/calmmind.shtml",
     "scrapedAt": "2026-09-03T19:20:29.740Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "raikou",
+      "natdex": 243,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "raikou",
+      "natdex": 243,
+      "method": "level-up",
+      "level": 81
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "level-up",
+      "level": 81
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "level-up",
+      "level": 81
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "machine",
+      "machine": "TM04"
+    },
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "machine",
+      "machine": "TM04"
+    }
+  ]
 }

@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/flamewheel.shtml",
     "scrapedAt": "2026-09-03T19:22:02.841Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "level-up",
+      "level": 31
+    }
+  ]
 }

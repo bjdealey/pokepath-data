@@ -12,5 +12,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/vicegrip.shtml",
     "scrapedAt": "2026-09-03T19:28:28.640Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 10
+    }
+  ]
 }

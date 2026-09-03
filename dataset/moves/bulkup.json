@@ -13,5 +13,205 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bulkup.shtml",
     "scrapedAt": "2026-09-03T19:20:26.789Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "machine",
+      "machine": "TM08"
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "machine",
+      "machine": "TM08"
+    }
+  ]
 }

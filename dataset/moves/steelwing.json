@@ -13,5 +13,271 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/steelwing.shtml",
     "scrapedAt": "2026-09-03T19:27:21.048Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "moltres",
+      "natdex": 146,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "machine",
+      "machine": "TM47"
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "machine",
+      "machine": "TM47"
+    }
+  ]
 }

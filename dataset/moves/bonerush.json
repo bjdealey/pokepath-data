@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bonerush.shtml",
     "scrapedAt": "2026-09-03T19:20:19.269Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": 53
+    }
+  ]
 }

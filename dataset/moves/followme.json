@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/followme.shtml",
     "scrapedAt": "2026-09-03T19:22:11.792Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": 26
+    }
+  ]
 }

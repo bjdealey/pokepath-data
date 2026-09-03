@@ -13,5 +13,145 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/stunspore.shtml",
     "scrapedAt": "2026-09-03T19:27:30.044Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "vileplume",
+      "natdex": 45,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

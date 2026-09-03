@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/superfang.shtml",
     "scrapedAt": "2026-09-03T19:27:36.081Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "level-up",
+      "level": 40
+    }
+  ]
 }

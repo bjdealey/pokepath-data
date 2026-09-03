@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sketch.shtml",
     "scrapedAt": "2026-09-03T19:26:39.031Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 71
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 81
+    },
+    {
+      "pokemon": "smeargle",
+      "natdex": 235,
+      "method": "level-up",
+      "level": 91
+    }
+  ]
 }

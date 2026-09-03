@@ -13,5 +13,889 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/irontail.shtml",
     "scrapedAt": "2026-09-03T19:23:16.417Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "raikou",
+      "natdex": 243,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "machine",
+      "machine": "TM23"
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "machine",
+      "machine": "TM23"
+    }
+  ]
 }

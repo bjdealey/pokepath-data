@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/swordsdance.shtml",
     "scrapedAt": "2026-09-03T19:27:49.575Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "level-up",
+      "level": 26
+    }
+  ]
 }

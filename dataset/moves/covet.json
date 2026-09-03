@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/covet.shtml",
     "scrapedAt": "2026-09-03T19:20:50.766Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 37
+    }
+  ]
 }

@@ -13,5 +13,73 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/acid.shtml",
     "scrapedAt": "2026-09-03T19:19:45.900Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": 15
+    }
+  ]
 }

@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/iceball.shtml",
     "scrapedAt": "2026-09-03T19:23:04.361Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

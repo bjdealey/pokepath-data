@@ -12,5 +12,145 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dragonclaw.shtml",
     "scrapedAt": "2026-09-03T19:21:20.773Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": 69
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": 79
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "machine",
+      "machine": "TM02"
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

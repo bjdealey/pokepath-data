@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/transform.shtml",
     "scrapedAt": "2026-09-03T19:28:18.146Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "ditto",
+      "natdex": 132,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "level-up",
+      "level": 10
+    }
+  ]
 }

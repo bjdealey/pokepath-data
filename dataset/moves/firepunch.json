@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/firepunch.shtml",
     "scrapedAt": "2026-09-03T19:21:55.373Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

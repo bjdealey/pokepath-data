@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sleeptalk.shtml",
     "scrapedAt": "2026-09-03T19:26:52.589Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "level-up",
+      "level": 55
+    }
+  ]
 }

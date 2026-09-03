@@ -10,6 +10,7 @@ import { parsePokemon } from "./parse/pokemon.ts";
 import { scrapeEncounters } from "./scrape/encounters.ts";
 import { scrapeItems } from "./scrape/items.ts";
 import { scrapeMoves } from "./scrape/moves.ts";
+import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import type { PokemonRecord } from "./types.ts";
 
@@ -96,12 +97,17 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ scraping Gen-III moves${limit ? ` (first ${limit})` : ""}…`);
   const r = await scrapeMoves(refresh, limit);
   console.log(`✔ ${r.moves} moves (of ${r.discovered} discovered) → dataset/moves/`);
+} else if (entity === "learnedby") {
+  console.log(`▶ deriving move → Pokémon reverse index from learnsets…`);
+  const r = deriveLearnedBy();
+  console.log(`✔ ${r.withLearners}/${r.moves} moves have learners, ${r.totalLinks} links`);
+  if (r.unmatched.length) console.warn(`⚠ ${r.unmatched.length} unmatched move names: ${r.unmatched.slice(0, 15).join(", ")}`);
 } else if (entity === "trainers") {
   console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "encounters", "items", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "encounters", "items", or "trainers"`);
   process.exit(1);
 }

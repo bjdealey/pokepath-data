@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/crabhammer.shtml",
     "scrapedAt": "2026-09-03T19:20:52.305Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 39
+    }
+  ]
 }

@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/fakeout.shtml",
     "scrapedAt": "2026-09-03T19:21:47.815Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "level-up",
+      "level": 21
+    }
+  ]
 }

@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/aeroblast.shtml",
     "scrapedAt": "2026-09-03T19:19:45.918Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "level-up",
+      "level": 77
+    }
+  ]
 }

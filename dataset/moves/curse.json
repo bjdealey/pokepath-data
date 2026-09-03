@@ -13,5 +13,97 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/curse.shtml",
     "scrapedAt": "2026-09-03T19:20:58.286Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 17
+    }
+  ]
 }

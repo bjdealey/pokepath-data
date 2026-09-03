@@ -13,5 +13,97 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/gust.shtml",
     "scrapedAt": "2026-09-03T19:22:34.359Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "dustox",
+      "natdex": 269,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

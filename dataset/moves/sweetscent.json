@@ -13,5 +13,109 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sweetscent.shtml",
     "scrapedAt": "2026-09-03T19:27:46.562Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "level-up",
+      "level": 21
+    }
+  ]
 }

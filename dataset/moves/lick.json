@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/lick.shtml",
     "scrapedAt": "2026-09-03T19:23:29.902Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

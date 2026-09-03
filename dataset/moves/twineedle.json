@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/twineedle.shtml",
     "scrapedAt": "2026-09-03T19:28:24.085Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "beedrill",
+      "natdex": 15,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

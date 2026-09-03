@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/swagger.shtml",
     "scrapedAt": "2026-09-03T19:27:42.119Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "level-up",
+      "level": 37
+    }
+  ]
 }

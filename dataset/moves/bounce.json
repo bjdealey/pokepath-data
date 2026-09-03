@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bounce.shtml",
     "scrapedAt": "2026-09-03T19:20:20.783Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "level-up",
+      "level": 55
+    }
+  ]
 }

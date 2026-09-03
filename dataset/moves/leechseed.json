@@ -13,5 +13,103 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/leechseed.shtml",
     "scrapedAt": "2026-09-03T19:23:26.918Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

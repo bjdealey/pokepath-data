@@ -13,5 +13,1069 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/thief.shtml",
     "scrapedAt": "2026-09-03T19:28:03.099Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "beedrill",
+      "natdex": 15,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "tyrogue",
+      "natdex": 236,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "dustox",
+      "natdex": 269,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "castform",
+      "natdex": 351,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "machine",
+      "machine": "TM46"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "machine",
+      "machine": "TM46"
+    }
+  ]
 }

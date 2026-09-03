@@ -13,5 +13,733 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/psychic.shtml",
     "scrapedAt": "2026-09-03T19:25:00.025Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 66
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 63
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "level-up",
+      "level": 65
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "dustox",
+      "natdex": 269,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "machine",
+      "machine": "TM29"
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "machine",
+      "machine": "TM29"
+    }
+  ]
 }

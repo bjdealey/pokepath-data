@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/destinybond.shtml",
     "scrapedAt": "2026-09-03T19:21:02.782Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "wobbuffet",
+      "natdex": 202,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "wynaut",
+      "natdex": 360,
+      "method": "level-up",
+      "level": 15
+    }
+  ]
 }

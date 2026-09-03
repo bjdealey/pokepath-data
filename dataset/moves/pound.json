@@ -12,5 +12,151 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/pound.shtml",
     "scrapedAt": "2026-09-03T19:24:52.445Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

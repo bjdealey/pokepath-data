@@ -13,5 +13,103 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/mist.shtml",
     "scrapedAt": "2026-09-03T19:24:11.900Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": 28
+    }
+  ]
 }

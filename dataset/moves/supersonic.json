@@ -13,5 +13,217 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/supersonic.shtml",
     "scrapedAt": "2026-09-03T19:27:39.089Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "level-up",
+      "level": 23
+    }
+  ]
 }

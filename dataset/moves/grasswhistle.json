@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/grasswhistle.shtml",
     "scrapedAt": "2026-09-03T19:22:26.873Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 29
+    }
+  ]
 }

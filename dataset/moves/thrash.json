@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/thrash.shtml",
     "scrapedAt": "2026-09-03T19:28:04.588Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "level-up",
+      "level": 63
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "level-up",
+      "level": 56
+    }
+  ]
 }

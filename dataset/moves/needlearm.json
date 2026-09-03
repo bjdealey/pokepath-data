@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/needlearm.shtml",
     "scrapedAt": "2026-09-03T19:24:25.411Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 41
+    }
+  ]
 }

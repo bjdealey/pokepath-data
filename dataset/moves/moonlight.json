@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/moonlight.shtml",
     "scrapedAt": "2026-09-03T19:24:14.933Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "dustox",
+      "natdex": 269,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

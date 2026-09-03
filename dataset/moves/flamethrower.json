@@ -13,5 +13,709 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/flamethrower.shtml",
     "scrapedAt": "2026-09-03T19:22:01.339Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "moltres",
+      "natdex": 146,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "moltres",
+      "natdex": 146,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "level-up",
+      "level": 60
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "castform",
+      "natdex": 351,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "machine",
+      "machine": "TM35"
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "machine",
+      "machine": "TM35"
+    }
+  ]
 }

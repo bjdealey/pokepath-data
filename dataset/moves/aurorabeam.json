@@ -13,5 +13,79 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/aurorabeam.shtml",
     "scrapedAt": "2026-09-03T19:19:55.197Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/wish.shtml",
     "scrapedAt": "2026-09-03T19:28:49.595Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

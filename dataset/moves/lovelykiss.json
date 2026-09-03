@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/lovelykiss.shtml",
     "scrapedAt": "2026-09-03T19:23:34.419Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": 9
+    }
+  ]
 }

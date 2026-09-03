@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/triattack.shtml",
     "scrapedAt": "2026-09-03T19:28:19.574Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "level-up",
+      "level": 36
+    }
+  ]
 }

@@ -13,5 +13,229 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/scaryface.shtml",
     "scrapedAt": "2026-09-03T19:25:49.507Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 5
+    }
+  ]
 }

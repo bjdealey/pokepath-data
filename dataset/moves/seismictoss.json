@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/seismictoss.shtml",
     "scrapedAt": "2026-09-03T19:25:55.588Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": 51
+    }
+  ]
 }

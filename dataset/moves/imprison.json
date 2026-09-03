@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/imprison.shtml",
     "scrapedAt": "2026-09-03T19:23:11.852Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": 33
+    }
+  ]
 }

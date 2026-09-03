@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/waterspout.shtml",
     "scrapedAt": "2026-09-03T19:28:40.690Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 75
+    }
+  ]
 }

@@ -12,5 +12,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/megapunch.shtml",
     "scrapedAt": "2026-09-03T19:23:52.387Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

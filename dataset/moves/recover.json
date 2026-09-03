@@ -13,5 +13,103 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/recover.shtml",
     "scrapedAt": "2026-09-03T19:25:16.507Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 88
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 45
+    }
+  ]
 }

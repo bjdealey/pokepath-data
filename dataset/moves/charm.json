@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/charm.shtml",
     "scrapedAt": "2026-09-03T19:20:34.278Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "level-up",
+      "level": 3
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "wynaut",
+      "natdex": 360,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 50
+    }
+  ]
 }

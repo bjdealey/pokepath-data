@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sacredfire.shtml",
     "scrapedAt": "2026-09-03T19:25:41.965Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "level-up",
+      "level": 77
+    }
+  ]
 }

@@ -13,6 +13,7 @@ node src/run.ts pokemon 1-386      # full national dex (Gen-3 pages)
 node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
 node src/run.ts moves              # scrape all Gen-III moves (attackdex); `moves 20` = first 20
+node src/run.ts learnedby          # bake move→Pokémon reverse index into moves (after pokemon+moves)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
@@ -46,7 +47,10 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 - ✅ `moves` — all **Gen-III moves** (~355) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
   effect + rate, contest type. **Category is derived from type** (Gen 3 predates the
-  physical/special split). Canonical — lives at `dataset/moves/<slug>.json`.
+  physical/special split). Canonical — lives at `dataset/moves/<slug>.json`. Each move
+  also carries **`learnedBy`** — which Pokémon learn it (level-up + TM/HM), derived by
+  inverting the Pokémon learnsets (`run.ts learnedby`, no network). 346/374 moves have
+  learners, ~12.9k links. (Egg/tutor learn methods aren't captured yet, so not included.)
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

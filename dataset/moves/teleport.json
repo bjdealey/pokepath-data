@@ -13,5 +13,73 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/teleport.shtml",
     "scrapedAt": "2026-09-03T19:28:01.624Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

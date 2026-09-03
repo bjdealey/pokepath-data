@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/firespin.shtml",
     "scrapedAt": "2026-09-03T19:21:56.830Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "level-up",
+      "level": 64
+    },
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "ponyta",
+      "natdex": 77,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "rapidash",
+      "natdex": 78,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "moltres",
+      "natdex": 146,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "entei",
+      "natdex": 244,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "level-up",
+      "level": 19
+    }
+  ]
 }

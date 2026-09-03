@@ -13,5 +13,73 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/mudshot.shtml",
     "scrapedAt": "2026-09-03T19:24:20.951Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

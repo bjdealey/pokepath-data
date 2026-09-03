@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/extrasensory.shtml",
     "scrapedAt": "2026-09-03T19:21:41.803Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 49
+    }
+  ]
 }

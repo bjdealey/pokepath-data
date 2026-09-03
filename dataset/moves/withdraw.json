@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/withdraw.shtml",
     "scrapedAt": "2026-09-03T19:28:51.155Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "shuckle",
+      "natdex": 213,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

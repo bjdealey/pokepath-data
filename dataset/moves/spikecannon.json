@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/spikecannon.shtml",
     "scrapedAt": "2026-09-03T19:27:12.048Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 28
+    }
+  ]
 }

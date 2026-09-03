@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sweetkiss.shtml",
     "scrapedAt": "2026-09-03T19:27:45.100Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "igglybuff",
+      "natdex": 174,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "level-up",
+      "level": 36
+    }
+  ]
 }

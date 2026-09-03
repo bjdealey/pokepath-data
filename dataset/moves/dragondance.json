@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dragondance.shtml",
     "scrapedAt": "2026-09-03T19:21:22.290Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "level-up",
+      "level": 62
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "level-up",
+      "level": 62
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 30
+    }
+  ]
 }

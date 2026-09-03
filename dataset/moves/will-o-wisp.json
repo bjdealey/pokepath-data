@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/will-o-wisp.shtml",
     "scrapedAt": "2026-09-03T19:28:46.620Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 41
+    }
+  ]
 }

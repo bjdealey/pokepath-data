@@ -13,5 +13,79 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/metalclaw.shtml",
     "scrapedAt": "2026-09-03T19:23:55.458Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "level-up",
+      "level": 64
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 9
+    }
+  ]
 }

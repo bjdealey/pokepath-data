@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/razorwind.shtml",
     "scrapedAt": "2026-09-03T19:25:14.931Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "level-up",
+      "level": 17
+    }
+  ]
 }

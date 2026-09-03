@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/acidarmor.shtml",
     "scrapedAt": "2026-09-03T19:19:45.904Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "level-up",
+      "level": 47
+    }
+  ]
 }

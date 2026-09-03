@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/ingrain.shtml",
     "scrapedAt": "2026-09-03T19:23:13.391Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": 22
+    }
+  ]
 }

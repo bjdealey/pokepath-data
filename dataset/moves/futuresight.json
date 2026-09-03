@@ -13,5 +13,127 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/futuresight.shtml",
     "scrapedAt": "2026-09-03T19:22:22.420Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 60
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "level-up",
+      "level": 99
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "level-up",
+      "level": 99
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 58
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": 40
+    }
+  ]
 }

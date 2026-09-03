@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sandtomb.shtml",
     "scrapedAt": "2026-09-03T19:25:47.968Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

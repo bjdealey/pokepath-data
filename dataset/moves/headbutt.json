@@ -13,5 +13,175 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/headbutt.shtml",
     "scrapedAt": "2026-09-03T19:22:40.363Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": 17
+    }
+  ]
 }

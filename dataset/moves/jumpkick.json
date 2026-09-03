@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/jumpkick.shtml",
     "scrapedAt": "2026-09-03T19:23:17.842Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 16
+    }
+  ]
 }

@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/rockblast.shtml",
     "scrapedAt": "2026-09-03T19:25:30.003Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": 64
+    }
+  ]
 }

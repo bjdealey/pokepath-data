@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/conversion2.shtml",
     "scrapedAt": "2026-09-03T19:20:44.733Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

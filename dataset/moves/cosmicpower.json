@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/cosmicpower.shtml",
     "scrapedAt": "2026-09-03T19:20:46.283Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": 45
+    }
+  ]
 }

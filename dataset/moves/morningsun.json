@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/morningsun.shtml",
     "scrapedAt": "2026-09-03T19:24:16.417Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

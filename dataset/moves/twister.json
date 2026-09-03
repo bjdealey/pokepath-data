@@ -13,5 +13,73 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/twister.shtml",
     "scrapedAt": "2026-09-03T19:28:25.580Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

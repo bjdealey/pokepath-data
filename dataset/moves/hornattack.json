@@ -12,5 +12,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/hornattack.shtml",
     "scrapedAt": "2026-09-03T19:22:50.883Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

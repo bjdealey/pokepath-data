@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dragonbreath.shtml",
     "scrapedAt": "2026-09-03T19:21:19.286Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

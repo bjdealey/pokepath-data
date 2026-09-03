@@ -12,5 +12,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/megahorn.shtml",
     "scrapedAt": "2026-09-03T19:23:49.447Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "level-up",
+      "level": 66
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "level-up",
+      "level": 53
+    }
+  ]
 }

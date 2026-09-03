@@ -13,5 +13,79 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/detect.shtml",
     "scrapedAt": "2026-09-03T19:21:04.320Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "level-up",
+      "level": 46
+    }
+  ]
 }

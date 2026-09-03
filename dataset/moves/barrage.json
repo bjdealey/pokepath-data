@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/barrage.shtml",
     "scrapedAt": "2026-09-03T19:19:56.698Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

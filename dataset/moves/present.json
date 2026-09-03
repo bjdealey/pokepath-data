@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/present.shtml",
     "scrapedAt": "2026-09-03T19:24:55.516Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

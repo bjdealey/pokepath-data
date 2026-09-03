@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/horndrill.shtml",
     "scrapedAt": "2026-09-03T19:22:52.363Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": 49
+    }
+  ]
 }

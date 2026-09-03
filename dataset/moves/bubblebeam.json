@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bubblebeam.shtml",
     "scrapedAt": "2026-09-03T19:20:25.212Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

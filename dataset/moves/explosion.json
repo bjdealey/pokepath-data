@@ -13,5 +13,109 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/explosion.shtml",
     "scrapedAt": "2026-09-03T19:21:40.308Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

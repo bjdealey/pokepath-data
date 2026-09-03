@@ -13,5 +13,295 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/harden.shtml",
     "scrapedAt": "2026-09-03T19:22:37.390Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "metapod",
+      "natdex": 11,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "metapod",
+      "natdex": 11,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "kakuna",
+      "natdex": 14,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kakuna",
+      "natdex": 14,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "silcoon",
+      "natdex": 266,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "silcoon",
+      "natdex": 266,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "cascoon",
+      "natdex": 268,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cascoon",
+      "natdex": 268,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "level-up",
+      "level": 3
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 3
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "level-up",
+      "level": 3
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": 3
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

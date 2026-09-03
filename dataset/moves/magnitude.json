@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/magnitude.shtml",
     "scrapedAt": "2026-09-03T19:23:43.445Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": 16
+    }
+  ]
 }

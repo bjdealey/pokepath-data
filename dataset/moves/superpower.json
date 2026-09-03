@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/superpower.shtml",
     "scrapedAt": "2026-09-03T19:27:37.543Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

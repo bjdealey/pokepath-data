@@ -13,5 +13,133 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/swift.shtml",
     "scrapedAt": "2026-09-03T19:27:48.122Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "level-up",
+      "level": 66
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "level-up",
+      "level": 66
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": 10
+    }
+  ]
 }

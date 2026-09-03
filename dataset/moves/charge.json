@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/charge.shtml",
     "scrapedAt": "2026-09-03T19:20:32.830Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "level-up",
+      "level": 31
+    }
+  ]
 }

@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/glare.shtml",
     "scrapedAt": "2026-09-03T19:22:25.323Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

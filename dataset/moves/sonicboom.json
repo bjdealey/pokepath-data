@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sonicboom.shtml",
     "scrapedAt": "2026-09-03T19:27:07.626Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "level-up",
+      "level": 19
+    }
+  ]
 }

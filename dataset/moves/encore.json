@@ -13,5 +13,139 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/encore.shtml",
     "scrapedAt": "2026-09-03T19:21:34.310Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "shuckle",
+      "natdex": 213,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "wynaut",
+      "natdex": 360,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": 7
+    }
+  ]
 }

@@ -13,5 +13,463 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dive.shtml",
     "scrapedAt": "2026-09-03T19:21:08.765Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "machine",
+      "machine": "HM08"
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "machine",
+      "machine": "HM08"
+    }
+  ]
 }

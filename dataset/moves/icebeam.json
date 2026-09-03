@@ -13,5 +13,985 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/icebeam.shtml",
     "scrapedAt": "2026-09-03T19:23:05.933Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "rhydon",
+      "natdex": 112,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "totodile",
+      "natdex": 158,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "croconaw",
+      "natdex": 159,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "feraligatr",
+      "natdex": 160,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "delibird",
+      "natdex": 225,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "castform",
+      "natdex": 351,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "machine",
+      "machine": "TM13"
+    },
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "machine",
+      "machine": "TM13"
+    }
+  ]
 }

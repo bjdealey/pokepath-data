@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/flatter.shtml",
     "scrapedAt": "2026-09-03T19:22:05.911Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "method": "level-up",
+      "level": 29
+    }
+  ]
 }

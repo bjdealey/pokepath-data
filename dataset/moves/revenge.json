@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/revenge.shtml",
     "scrapedAt": "2026-09-03T19:25:25.465Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

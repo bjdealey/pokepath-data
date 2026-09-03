@@ -13,5 +13,277 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sand-attack.shtml",
     "scrapedAt": "2026-09-03T19:25:45.069Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "vaporeon",
+      "natdex": 134,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "stantler",
+      "natdex": 234,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 17
+    }
+  ]
 }

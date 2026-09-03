@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/fissure.shtml",
     "scrapedAt": "2026-09-03T19:21:58.331Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "diglett",
+      "natdex": 50,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "dugtrio",
+      "natdex": 51,
+      "method": "level-up",
+      "level": 64
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": 56
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "level-up",
+      "level": 60
+    }
+  ]
 }

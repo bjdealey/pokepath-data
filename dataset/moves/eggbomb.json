@@ -12,5 +12,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/eggbomb.shtml",
     "scrapedAt": "2026-09-03T19:21:31.283Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "exeggutor",
+      "natdex": 103,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": 28
+    }
+  ]
 }

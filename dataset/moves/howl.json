@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/howl.shtml",
     "scrapedAt": "2026-09-03T19:22:53.898Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "level-up",
+      "level": 12
+    }
+  ]
 }

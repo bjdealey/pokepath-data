@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/slackoff.shtml",
     "scrapedAt": "2026-09-03T19:26:46.495Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

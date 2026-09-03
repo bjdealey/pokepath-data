@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/poisonfang.shtml",
     "scrapedAt": "2026-09-03T19:24:44.898Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "level-up",
+      "level": 34
+    }
+  ]
 }

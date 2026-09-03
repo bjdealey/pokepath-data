@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/roleplay.shtml",
     "scrapedAt": "2026-09-03T19:25:37.450Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": 41
+    }
+  ]
 }

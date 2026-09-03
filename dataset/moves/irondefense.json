@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/irondefense.shtml",
     "scrapedAt": "2026-09-03T19:23:14.880Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 41
+    }
+  ]
 }

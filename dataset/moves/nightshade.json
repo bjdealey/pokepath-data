@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/nightshade.shtml",
     "scrapedAt": "2026-09-03T19:24:28.444Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

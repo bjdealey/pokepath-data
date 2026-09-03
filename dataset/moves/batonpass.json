@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/batonpass.shtml",
     "scrapedAt": "2026-09-03T19:19:59.695Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "eevee",
+      "natdex": 133,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "level-up",
+      "level": 43
+    }
+  ]
 }

@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/triplekick.shtml",
     "scrapedAt": "2026-09-03T19:28:22.594Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

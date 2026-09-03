@@ -13,5 +13,175 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/crunch.shtml",
     "scrapedAt": "2026-09-03T19:20:55.263Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "snubbull",
+      "natdex": 209,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "granbull",
+      "natdex": 210,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "raikou",
+      "natdex": 243,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "larvitar",
+      "natdex": 246,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "pupitar",
+      "natdex": 247,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "tyranitar",
+      "natdex": 248,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "vibrava",
+      "natdex": 329,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "flygon",
+      "natdex": 330,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "seviper",
+      "natdex": 336,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": 56
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 35
+    }
+  ]
 }

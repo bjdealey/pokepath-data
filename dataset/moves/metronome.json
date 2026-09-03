@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/metronome.shtml",
     "scrapedAt": "2026-09-03T19:24:01.396Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": 6
+    }
+  ]
 }

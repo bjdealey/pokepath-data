@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/spiderweb.shtml",
     "scrapedAt": "2026-09-03T19:27:10.560Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 43
+    }
+  ]
 }

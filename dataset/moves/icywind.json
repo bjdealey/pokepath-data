@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/icywind.shtml",
     "scrapedAt": "2026-09-03T19:23:10.400Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "seel",
+      "natdex": 86,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": 9
+    }
+  ]
 }

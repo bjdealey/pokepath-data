@@ -13,5 +13,115 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/odorsleuth.shtml",
     "scrapedAt": "2026-09-03T19:24:31.444Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "level-up",
+      "level": 10
+    }
+  ]
 }

@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/swallow.shtml",
     "scrapedAt": "2026-09-03T19:27:43.574Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "ekans",
+      "natdex": 23,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "arbok",
+      "natdex": 24,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": 60
+    }
+  ]
 }

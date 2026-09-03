@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/meditate.shtml",
     "scrapedAt": "2026-09-03T19:23:46.395Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 4
+    }
+  ]
 }

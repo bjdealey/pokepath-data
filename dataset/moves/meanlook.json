@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/meanlook.shtml",
     "scrapedAt": "2026-09-03T19:23:44.913Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 51
+    }
+  ]
 }

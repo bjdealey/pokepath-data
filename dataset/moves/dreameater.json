@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dreameater.shtml",
     "scrapedAt": "2026-09-03T19:21:25.315Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "gastly",
+      "natdex": 92,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "kirlia",
+      "natdex": 281,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "gardevoir",
+      "natdex": 282,
+      "method": "level-up",
+      "level": 60
+    }
+  ]
 }

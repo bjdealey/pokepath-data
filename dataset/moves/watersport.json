@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/watersport.shtml",
     "scrapedAt": "2026-09-03T19:28:39.099Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

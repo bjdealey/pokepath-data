@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bellydrum.shtml",
     "scrapedAt": "2026-09-03T19:20:02.692Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": 40
+    }
+  ]
 }

@@ -13,5 +13,103 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sleeppowder.shtml",
     "scrapedAt": "2026-09-03T19:26:51.145Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "victreebel",
+      "natdex": 71,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "exeggcute",
+      "natdex": 102,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "level-up",
+      "level": 17
+    }
+  ]
 }

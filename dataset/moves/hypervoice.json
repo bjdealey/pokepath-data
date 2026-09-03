@@ -12,5 +12,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/hypervoice.shtml",
     "scrapedAt": "2026-09-03T19:23:01.370Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "method": "level-up",
+      "level": 63
+    }
+  ]
 }

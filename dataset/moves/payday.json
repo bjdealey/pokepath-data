@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/payday.shtml",
     "scrapedAt": "2026-09-03T19:24:37.428Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

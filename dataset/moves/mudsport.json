@@ -13,5 +13,109 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/mudsport.shtml",
     "scrapedAt": "2026-09-03T19:24:22.475Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "level-up",
+      "level": 36
+    }
+  ]
 }

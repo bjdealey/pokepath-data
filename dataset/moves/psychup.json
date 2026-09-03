@@ -13,5 +13,73 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/psychup.shtml",
     "scrapedAt": "2026-09-03T19:25:02.952Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "espeon",
+      "natdex": 196,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "grumpig",
+      "natdex": 326,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "level-up",
+      "level": 38
+    }
+  ]
 }

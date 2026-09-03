@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/tailglow.shtml",
     "scrapedAt": "2026-09-03T19:27:54.089Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "level-up",
+      "level": 21
+    }
+  ]
 }

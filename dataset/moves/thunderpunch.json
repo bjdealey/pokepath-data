@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/thunderpunch.shtml",
     "scrapedAt": "2026-09-03T19:28:09.078Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "electabuzz",
+      "natdex": 125,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "elekid",
+      "natdex": 239,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

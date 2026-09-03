@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/whirlpool.shtml",
     "scrapedAt": "2026-09-03T19:28:43.575Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mudkip",
+      "natdex": 258,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "huntail",
+      "natdex": 367,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

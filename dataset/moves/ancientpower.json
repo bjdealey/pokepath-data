@@ -13,5 +13,151 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/ancientpower.shtml",
     "scrapedAt": "2026-09-03T19:19:46.480Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "level-up",
+      "level": 65
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "mew",
+      "natdex": 151,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "lugia",
+      "natdex": 249,
+      "method": "level-up",
+      "level": 88
+    },
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "method": "level-up",
+      "level": 88
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "anorith",
+      "natdex": 347,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "armaldo",
+      "natdex": 348,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 15
+    }
+  ]
 }

@@ -13,5 +13,79 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/smog.shtml",
     "scrapedAt": "2026-09-03T19:26:58.508Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "flareon",
+      "natdex": 136,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "houndour",
+      "natdex": 228,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "houndoom",
+      "natdex": 229,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 4
+    }
+  ]
 }

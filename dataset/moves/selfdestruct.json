@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/selfdestruct.shtml",
     "scrapedAt": "2026-09-03T19:25:56.956Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": 19
+    }
+  ]
 }

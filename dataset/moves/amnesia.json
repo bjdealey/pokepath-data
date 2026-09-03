@@ -13,5 +13,175 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/amnesia.shtml",
     "scrapedAt": "2026-09-03T19:19:45.939Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 77
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "wooper",
+      "natdex": 194,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "quagsire",
+      "natdex": 195,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "level-up",
+      "level": 70
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "gorebyss",
+      "natdex": 368,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 41
+    }
+  ]
 }

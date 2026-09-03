@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dizzypunch.shtml",
     "scrapedAt": "2026-09-03T19:21:10.305Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "level-up",
+      "level": 27
+    }
+  ]
 }

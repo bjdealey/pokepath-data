@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/octazooka.shtml",
     "scrapedAt": "2026-09-03T19:24:29.879Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/powdersnow.shtml",
     "scrapedAt": "2026-09-03T19:24:54.020Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "swinub",
+      "natdex": 220,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "piloswine",
+      "natdex": 221,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "castform",
+      "natdex": 351,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

@@ -12,5 +12,115 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/wingattack.shtml",
     "scrapedAt": "2026-09-03T19:28:48.134Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "aerodactyl",
+      "natdex": 142,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "moltres",
+      "natdex": 146,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "yanma",
+      "natdex": 193,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

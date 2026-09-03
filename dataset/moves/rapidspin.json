@@ -13,5 +13,79 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/rapidspin.shtml",
     "scrapedAt": "2026-09-03T19:25:11.984Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "method": "level-up",
+      "level": 5
+    }
+  ]
 }

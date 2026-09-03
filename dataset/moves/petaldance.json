@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/petaldance.shtml",
     "scrapedAt": "2026-09-03T19:24:41.941Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "vileplume",
+      "natdex": 45,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 49
+    }
+  ]
 }

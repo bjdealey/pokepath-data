@@ -13,5 +13,97 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/flail.shtml",
     "scrapedAt": "2026-09-03T19:21:59.887Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "magikarp",
+      "natdex": 129,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "donphan",
+      "natdex": 232,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "method": "level-up",
+      "level": 40
+    }
+  ]
 }

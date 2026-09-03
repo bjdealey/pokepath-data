@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/rollingkick.shtml",
     "scrapedAt": "2026-09-03T19:25:39.019Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

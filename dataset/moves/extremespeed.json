@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/extremespeed.shtml",
     "scrapedAt": "2026-09-03T19:21:43.346Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 60
+    }
+  ]
 }

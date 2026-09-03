@@ -36,6 +36,15 @@ export interface Learnset {
   machine: MachineMove[];
 }
 
+/** How a Pokémon learns a move (derived by inverting the Pokémon learnsets). */
+export interface LearnedByEntry {
+  pokemon: string; // slug
+  natdex: number;
+  method: "level-up" | "machine";
+  level?: number | null; // for level-up (null = start/evolution)
+  machine?: string; // for machine (TM/HM)
+}
+
 /** A move from the Gen-III AttackDex. Category is derived from type — Gen 3
  * predates the physical/special split (that was per-type, not per-move). */
 export interface MoveRecord {
@@ -50,6 +59,7 @@ export interface MoveRecord {
   secondaryEffect?: string;
   effectRate: number | null; // % chance of the secondary effect
   contestType?: string;
+  learnedBy?: LearnedByEntry[]; // derived: Pokémon that learn this move (level-up + TM/HM)
   source: { url: string; scrapedAt: string };
 }
 

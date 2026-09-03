@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/counter.shtml",
     "scrapedAt": "2026-09-03T19:20:49.388Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "wobbuffet",
+      "natdex": 202,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "slaking",
+      "natdex": 289,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "wynaut",
+      "natdex": 360,
+      "method": "level-up",
+      "level": 15
+    }
+  ]
 }

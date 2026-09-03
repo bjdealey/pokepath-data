@@ -13,5 +13,121 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/smokescreen.shtml",
     "scrapedAt": "2026-09-03T19:27:00.013Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "charmander",
+      "natdex": 4,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "charmeleon",
+      "natdex": 5,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "charizard",
+      "natdex": 6,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "cyndaquil",
+      "natdex": 155,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "quilava",
+      "natdex": 156,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "typhlosion",
+      "natdex": 157,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 14
+    }
+  ]
 }

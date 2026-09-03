@@ -13,5 +13,139 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/disable.shtml",
     "scrapedAt": "2026-09-03T19:21:07.308Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "drowzee",
+      "natdex": 96,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hypno",
+      "natdex": 97,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 5
+    }
+  ]
 }

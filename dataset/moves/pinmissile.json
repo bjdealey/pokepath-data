@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/pinmissile.shtml",
     "scrapedAt": "2026-09-03T19:24:43.464Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "beedrill",
+      "natdex": 15,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 21
+    }
+  ]
 }

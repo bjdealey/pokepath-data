@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/silverwind.shtml",
     "scrapedAt": "2026-09-03T19:26:35.977Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "butterfree",
+      "natdex": 12,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "dustox",
+      "natdex": 269,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": 47
+    }
+  ]
 }

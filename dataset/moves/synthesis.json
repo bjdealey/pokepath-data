@@ -13,5 +13,97 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/synthesis.shtml",
     "scrapedAt": "2026-09-03T19:27:51.144Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "level-up",
+      "level": 47
+    }
+  ]
 }

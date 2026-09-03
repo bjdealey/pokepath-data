@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/karatechop.shtml",
     "scrapedAt": "2026-09-03T19:23:19.385Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

@@ -13,5 +13,85 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/leechlife.shtml",
     "scrapedAt": "2026-09-03T19:23:25.402Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "venonat",
+      "natdex": 48,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "venomoth",
+      "natdex": 49,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "level-up",
+      "level": 5
+    }
+  ]
 }

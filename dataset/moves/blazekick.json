@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/blazekick.shtml",
     "scrapedAt": "2026-09-03T19:20:10.297Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "level-up",
+      "level": 36
+    }
+  ]
 }

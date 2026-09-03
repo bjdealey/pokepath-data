@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/minimize.shtml",
     "scrapedAt": "2026-09-03T19:24:07.418Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": 18
+    }
+  ]
 }

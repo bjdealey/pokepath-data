@@ -13,5 +13,169 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/furyswipes.shtml",
     "scrapedAt": "2026-09-03T19:22:20.870Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "persian",
+      "natdex": 53,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "teddiursa",
+      "natdex": 216,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ursaring",
+      "natdex": 217,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "method": "level-up",
+      "level": 12
+    }
+  ]
 }

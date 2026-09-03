@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/naturepower.shtml",
     "scrapedAt": "2026-09-03T19:24:23.915Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "lotad",
+      "natdex": 270,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "lombre",
+      "natdex": 271,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "ludicolo",
+      "natdex": 272,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

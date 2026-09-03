@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/refresh.shtml",
     "scrapedAt": "2026-09-03T19:25:21.007Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "milotic",
+      "natdex": 350,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "latias",
+      "natdex": 380,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

@@ -13,5 +13,145 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/thunderwave.shtml",
     "scrapedAt": "2026-09-03T19:28:12.112Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "method": "level-up",
+      "level": 4
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "method": "level-up",
+      "level": 4
+    }
+  ]
 }

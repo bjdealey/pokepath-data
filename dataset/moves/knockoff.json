@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/knockoff.shtml",
     "scrapedAt": "2026-09-03T19:23:22.449Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "lickitung",
+      "natdex": 108,
+      "method": "level-up",
+      "level": 18
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "sableye",
+      "natdex": 302,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

@@ -13,5 +13,211 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/double-edge.shtml",
     "scrapedAt": "2026-09-03T19:21:13.370Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "method": "level-up",
+      "level": 62
+    },
+    {
+      "pokemon": "golem",
+      "natdex": 76,
+      "method": "level-up",
+      "level": 62
+    },
+    {
+      "pokemon": "onix",
+      "natdex": 95,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "ledyba",
+      "natdex": 165,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "ledian",
+      "natdex": 166,
+      "method": "level-up",
+      "level": 60
+    },
+    {
+      "pokemon": "togepi",
+      "natdex": 175,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "togetic",
+      "natdex": 176,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "method": "level-up",
+      "level": 28
+    },
+    {
+      "pokemon": "azumarill",
+      "natdex": 184,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 63
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "method": "level-up",
+      "level": 78
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "method": "level-up",
+      "level": 93
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 65
+    },
+    {
+      "pokemon": "jirachi",
+      "natdex": 385,
+      "method": "level-up",
+      "level": 35
+    }
+  ]
 }

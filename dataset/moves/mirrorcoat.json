@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/mirrorcoat.shtml",
     "scrapedAt": "2026-09-03T19:24:08.916Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "wobbuffet",
+      "natdex": 202,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "suicune",
+      "natdex": 245,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "wynaut",
+      "natdex": 360,
+      "method": "level-up",
+      "level": 15
+    }
+  ]
 }

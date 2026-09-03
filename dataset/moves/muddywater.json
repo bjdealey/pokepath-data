@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/muddywater.shtml",
     "scrapedAt": "2026-09-03T19:24:19.427Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "marshtomp",
+      "natdex": 259,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "swampert",
+      "natdex": 260,
+      "method": "level-up",
+      "level": 39
+    }
+  ]
 }

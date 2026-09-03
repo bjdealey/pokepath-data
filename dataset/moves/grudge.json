@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/grudge.shtml",
     "scrapedAt": "2026-09-03T19:22:31.350Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "method": "level-up",
+      "level": 56
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "method": "level-up",
+      "level": 64
+    }
+  ]
 }

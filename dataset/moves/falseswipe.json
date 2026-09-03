@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/falseswipe.shtml",
     "scrapedAt": "2026-09-03T19:21:50.814Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "level-up",
+      "level": 55
+    }
+  ]
 }

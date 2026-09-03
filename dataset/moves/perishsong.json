@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/perishsong.shtml",
     "scrapedAt": "2026-09-03T19:24:40.454Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "level-up",
+      "level": 48
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": 54
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "method": "level-up",
+      "level": 46
+    }
+  ]
 }

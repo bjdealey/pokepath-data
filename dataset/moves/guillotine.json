@@ -13,5 +13,43 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/guillotine.shtml",
     "scrapedAt": "2026-09-03T19:22:32.901Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "gligar",
+      "natdex": 207,
+      "method": "level-up",
+      "level": 52
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": 44
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": 52
+    }
+  ]
 }

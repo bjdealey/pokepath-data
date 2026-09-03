@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/reversal.shtml",
     "scrapedAt": "2026-09-03T19:25:26.999Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "kangaskhan",
+      "natdex": 115,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "vigoroth",
+      "natdex": 288,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 46
+    }
+  ]
 }

@@ -13,5 +13,157 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/pursuit.shtml",
     "scrapedAt": "2026-09-03T19:25:06.017Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "beedrill",
+      "natdex": 15,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "hitmonchan",
+      "natdex": 107,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "scyther",
+      "natdex": 123,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "tauros",
+      "natdex": 128,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "umbreon",
+      "natdex": 197,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "level-up",
+      "level": 14
+    },
+    {
+      "pokemon": "dunsparce",
+      "natdex": 206,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "scizor",
+      "natdex": 212,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "hitmontop",
+      "natdex": 237,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "treecko",
+      "natdex": 252,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": 32
+    }
+  ]
 }

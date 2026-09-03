@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/camouflage.shtml",
     "scrapedAt": "2026-09-03T19:20:31.265Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "method": "level-up",
+      "level": 19
+    }
+  ]
 }

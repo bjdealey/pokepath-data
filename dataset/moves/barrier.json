@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/barrier.shtml",
     "scrapedAt": "2026-09-03T19:19:58.258Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mewtwo",
+      "natdex": 150,
+      "method": "level-up",
+      "level": 11
+    }
+  ]
 }

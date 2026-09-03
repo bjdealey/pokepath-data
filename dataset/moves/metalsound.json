@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/metalsound.shtml",
     "scrapedAt": "2026-09-03T19:23:56.895Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kabuto",
+      "natdex": 140,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "kabutops",
+      "natdex": 141,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "method": "level-up",
+      "level": 50
+    }
+  ]
 }

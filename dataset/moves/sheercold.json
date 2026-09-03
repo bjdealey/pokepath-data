@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/sheercold.shtml",
     "scrapedAt": "2026-09-03T19:26:31.500Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "dewgong",
+      "natdex": 87,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "level-up",
+      "level": 85
+    },
+    {
+      "pokemon": "glalie",
+      "natdex": 362,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": 55
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 60
+    }
+  ]
 }

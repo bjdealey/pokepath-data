@@ -13,5 +13,133 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bubble.shtml",
     "scrapedAt": "2026-09-03T19:20:23.753Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "squirtle",
+      "natdex": 7,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "wartortle",
+      "natdex": 8,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "blastoise",
+      "natdex": 9,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "krabby",
+      "natdex": 98,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kingler",
+      "natdex": 99,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "lanturn",
+      "natdex": 171,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "mantine",
+      "natdex": 226,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "azurill",
+      "natdex": 298,
+      "method": "level-up",
+      "level": 10
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "crawdaunt",
+      "natdex": 342,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

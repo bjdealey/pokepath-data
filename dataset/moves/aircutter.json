@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/aircutter.shtml",
     "scrapedAt": "2026-09-03T19:19:45.933Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "crobat",
+      "natdex": 169,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": 29
+    }
+  ]
 }

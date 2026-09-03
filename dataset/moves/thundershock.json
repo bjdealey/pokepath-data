@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/thundershock.shtml",
     "scrapedAt": "2026-09-03T19:28:10.570Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "raikou",
+      "natdex": 243,
+      "method": "level-up",
+      "level": 11
+    }
+  ]
 }

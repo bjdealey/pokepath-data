@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/tickle.shtml",
     "scrapedAt": "2026-09-03T19:28:13.536Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "aipom",
+      "natdex": 190,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

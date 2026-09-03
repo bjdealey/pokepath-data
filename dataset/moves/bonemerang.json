@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bonemerang.shtml",
     "scrapedAt": "2026-09-03T19:20:17.738Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "method": "level-up",
+      "level": 25
+    }
+  ]
 }

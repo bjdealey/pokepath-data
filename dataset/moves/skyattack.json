@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/skyattack.shtml",
     "scrapedAt": "2026-09-03T19:26:43.538Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "moltres",
+      "natdex": 146,
+      "method": "level-up",
+      "level": 85
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": 59
+    }
+  ]
 }

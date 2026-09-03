@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/clamp.shtml",
     "scrapedAt": "2026-09-03T19:20:35.718Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

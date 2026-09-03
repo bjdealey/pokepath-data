@@ -12,5 +12,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/drillpeck.shtml",
     "scrapedAt": "2026-09-03T19:21:26.838Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "level-up",
+      "level": 40
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "level-up",
+      "level": 47
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "level-up",
+      "level": 49
+    }
+  ]
 }

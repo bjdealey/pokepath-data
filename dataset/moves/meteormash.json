@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/meteormash.shtml",
     "scrapedAt": "2026-09-03T19:23:59.928Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "method": "level-up",
+      "level": 55
+    }
+  ]
 }

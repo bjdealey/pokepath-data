@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/beatup.shtml",
     "scrapedAt": "2026-09-03T19:20:01.201Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "method": "level-up",
+      "level": 57
+    }
+  ]
 }

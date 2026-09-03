@@ -13,5 +13,127 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/bodyslam.shtml",
     "scrapedAt": "2026-09-03T19:20:14.792Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "lapras",
+      "natdex": 131,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "chikorita",
+      "natdex": 152,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "bayleef",
+      "natdex": 153,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "meganium",
+      "natdex": 154,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "magcargo",
+      "natdex": 219,
+      "method": "level-up",
+      "level": 60
+    },
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "method": "level-up",
+      "level": 20
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "sealeo",
+      "natdex": 364,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "walrein",
+      "natdex": 365,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "kyogre",
+      "natdex": 382,
+      "method": "level-up",
+      "level": 20
+    }
+  ]
 }

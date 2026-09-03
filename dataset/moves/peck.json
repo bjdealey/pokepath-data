@@ -12,5 +12,157 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/peck.shtml",
     "scrapedAt": "2026-09-03T19:24:39.014Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "spearow",
+      "natdex": 21,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "zapdos",
+      "natdex": 145,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hoothoot",
+      "natdex": 163,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "noctowl",
+      "natdex": 164,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "murkrow",
+      "natdex": 198,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "torchic",
+      "natdex": 255,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

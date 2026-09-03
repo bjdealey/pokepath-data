@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/lock-on.shtml",
     "scrapedAt": "2026-09-03T19:23:32.962Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "method": "level-up",
+      "level": 35
+    },
+    {
+      "pokemon": "porygon",
+      "natdex": 137,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "remoraid",
+      "natdex": 223,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "porygon2",
+      "natdex": 233,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "method": "level-up",
+      "level": 46
+    },
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "method": "level-up",
+      "level": 57
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "method": "level-up",
+      "level": 57
+    }
+  ]
 }

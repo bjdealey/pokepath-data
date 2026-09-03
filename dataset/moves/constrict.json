@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/constrict.shtml",
     "scrapedAt": "2026-09-03T19:20:41.786Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "omanyte",
+      "natdex": 138,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "omastar",
+      "natdex": 139,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "shuckle",
+      "natdex": 213,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "octillery",
+      "natdex": 224,
+      "method": "level-up",
+      "level": 11
+    },
+    {
+      "pokemon": "lileep",
+      "natdex": 345,
+      "method": "level-up",
+      "level": 8
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cradily",
+      "natdex": 346,
+      "method": "level-up",
+      "level": 8
+    }
+  ]
 }

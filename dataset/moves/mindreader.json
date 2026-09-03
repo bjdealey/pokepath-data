@@ -13,5 +13,61 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/mindreader.shtml",
     "scrapedAt": "2026-09-03T19:24:05.949Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "level-up",
+      "level": 51
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "articuno",
+      "natdex": 144,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 45
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "ninjask",
+      "natdex": 291,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "shedinja",
+      "natdex": 292,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 22
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 22
+    }
+  ]
 }

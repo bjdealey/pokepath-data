@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/aromatherapy.shtml",
     "scrapedAt": "2026-09-03T19:19:49.188Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "vileplume",
+      "natdex": 45,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 53
+    }
+  ]
 }

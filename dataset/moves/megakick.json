@@ -12,5 +12,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/megakick.shtml",
     "scrapedAt": "2026-09-03T19:23:50.911Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 46
+    }
+  ]
 }

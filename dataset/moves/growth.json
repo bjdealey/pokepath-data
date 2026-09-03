@@ -13,5 +13,127 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/growth.shtml",
     "scrapedAt": "2026-09-03T19:22:29.826Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "bulbasaur",
+      "natdex": 1,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "ivysaur",
+      "natdex": 2,
+      "method": "level-up",
+      "level": 38
+    },
+    {
+      "pokemon": "venusaur",
+      "natdex": 3,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "bellsprout",
+      "natdex": 69,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "weepinbell",
+      "natdex": 70,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "tangela",
+      "natdex": 114,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "sunkern",
+      "natdex": 191,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "sunflora",
+      "natdex": 192,
+      "method": "level-up",
+      "level": 6
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "method": "level-up",
+      "level": 7
+    },
+    {
+      "pokemon": "shiftry",
+      "natdex": 275,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "level-up",
+      "level": 36
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 5
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "level-up",
+      "level": 7
+    }
+  ]
 }

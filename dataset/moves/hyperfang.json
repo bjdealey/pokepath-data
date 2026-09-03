@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/hyperfang.shtml",
     "scrapedAt": "2026-09-03T19:22:59.907Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "rattata",
+      "natdex": 19,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "raticate",
+      "natdex": 20,
+      "method": "level-up",
+      "level": 13
+    }
+  ]
 }

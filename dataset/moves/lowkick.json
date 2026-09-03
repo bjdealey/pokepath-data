@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/lowkick.shtml",
     "scrapedAt": "2026-09-03T19:23:35.882Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mankey",
+      "natdex": 56,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "primeape",
+      "natdex": 57,
+      "method": "level-up",
+      "level": 9
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "level-up",
+      "level": 17
+    }
+  ]
 }

@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowpunch.shtml",
     "scrapedAt": "2026-09-03T19:26:18.076Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "haunter",
+      "natdex": 93,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "gengar",
+      "natdex": 94,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "method": "level-up",
+      "level": 37
+    }
+  ]
 }

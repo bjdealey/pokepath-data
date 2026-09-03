@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/memento.shtml",
     "scrapedAt": "2026-09-03T19:23:53.913Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "muk",
+      "natdex": 89,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "weezing",
+      "natdex": 110,
+      "method": "level-up",
+      "level": 58
+    },
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 5
+    }
+  ]
 }

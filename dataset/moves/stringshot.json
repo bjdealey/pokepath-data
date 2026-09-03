@@ -13,5 +13,37 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/stringshot.shtml",
     "scrapedAt": "2026-09-03T19:27:27.076Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "caterpie",
+      "natdex": 10,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "weedle",
+      "natdex": 13,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "spinarak",
+      "natdex": 167,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "ariados",
+      "natdex": 168,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "wurmple",
+      "natdex": 265,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

@@ -13,5 +13,49 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/spikes.shtml",
     "scrapedAt": "2026-09-03T19:27:13.540Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "pineco",
+      "natdex": 204,
+      "method": "level-up",
+      "level": 43
+    },
+    {
+      "pokemon": "forretress",
+      "natdex": 205,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "qwilfish",
+      "natdex": 211,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "method": "level-up",
+      "level": 42
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 35
+    }
+  ]
 }

@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/leafblade.shtml",
     "scrapedAt": "2026-09-03T19:23:23.903Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "grovyle",
+      "natdex": 253,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "sceptile",
+      "natdex": 254,
+      "method": "level-up",
+      "level": 29
+    }
+  ]
 }

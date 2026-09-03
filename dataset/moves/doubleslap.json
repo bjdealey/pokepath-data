@@ -13,5 +13,91 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/doubleslap.shtml",
     "scrapedAt": "2026-09-03T19:21:16.356Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 24
+    },
+    {
+      "pokemon": "wigglytuff",
+      "natdex": 40,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "poliwag",
+      "natdex": 60,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "method": "level-up",
+      "level": 19
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "method": "level-up",
+      "level": 17
+    },
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "method": "level-up",
+      "level": 21
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "level-up",
+      "level": 15
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/featherdance.shtml",
     "scrapedAt": "2026-09-03T19:21:52.318Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "pidgey",
+      "natdex": 16,
+      "method": "level-up",
+      "level": 31
+    },
+    {
+      "pokemon": "pidgeotto",
+      "natdex": 17,
+      "method": "level-up",
+      "level": 34
+    },
+    {
+      "pokemon": "pidgeot",
+      "natdex": 18,
+      "method": "level-up",
+      "level": 34
+    }
+  ]
 }

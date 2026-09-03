@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/magicalleaf.shtml",
     "scrapedAt": "2026-09-03T19:23:40.418Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "bellossom",
+      "natdex": 182,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "method": "level-up",
+      "level": 31
+    }
+  ]
 }

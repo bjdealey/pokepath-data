@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/assist.shtml",
     "scrapedAt": "2026-09-03T19:19:50.692Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "level-up",
+      "level": 19
+    }
+  ]
 }

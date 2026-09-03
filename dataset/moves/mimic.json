@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/mimic.shtml",
     "scrapedAt": "2026-09-03T19:24:04.492Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "method": "level-up",
+      "level": 39
+    },
+    {
+      "pokemon": "sudowoodo",
+      "natdex": 185,
+      "method": "level-up",
+      "level": null
+    }
+  ]
 }

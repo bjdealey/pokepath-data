@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/painsplit.shtml",
     "scrapedAt": "2026-09-03T19:24:35.934Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "method": "level-up",
+      "level": 37
+    }
+  ]
 }

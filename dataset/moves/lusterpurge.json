@@ -13,5 +13,13 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/lusterpurge.shtml",
     "scrapedAt": "2026-09-03T19:23:37.415Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "latios",
+      "natdex": 381,
+      "method": "level-up",
+      "level": 35
+    }
+  ]
 }

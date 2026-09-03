@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/hijumpkick.shtml",
     "scrapedAt": "2026-09-03T19:22:49.412Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": 26
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "method": "level-up",
+      "level": 32
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "method": "level-up",
+      "level": 32
+    }
+  ]
 }

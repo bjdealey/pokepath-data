@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/outrage.shtml",
     "scrapedAt": "2026-09-03T19:24:32.955Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "method": "level-up",
+      "level": 50
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "method": "level-up",
+      "level": 56
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "method": "level-up",
+      "level": 61
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "method": "level-up",
+      "level": 65
+    }
+  ]
 }

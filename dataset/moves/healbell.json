@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/healbell.shtml",
     "scrapedAt": "2026-09-03T19:22:41.877Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "method": "level-up",
+      "level": 53
+    },
+    {
+      "pokemon": "celebi",
+      "natdex": 251,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "method": "level-up",
+      "level": 37
+    },
+    {
+      "pokemon": "chimecho",
+      "natdex": 358,
+      "method": "level-up",
+      "level": 38
+    }
+  ]
 }

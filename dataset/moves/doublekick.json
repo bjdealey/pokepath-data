@@ -13,5 +13,67 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/doublekick.shtml",
     "scrapedAt": "2026-09-03T19:21:14.804Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "nidoran-f",
+      "natdex": 29,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "nidorina",
+      "natdex": 30,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "nidoqueen",
+      "natdex": 31,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "nidoran-m",
+      "natdex": 32,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "nidorino",
+      "natdex": 33,
+      "method": "level-up",
+      "level": 12
+    },
+    {
+      "pokemon": "nidoking",
+      "natdex": 34,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "hitmonlee",
+      "natdex": 106,
+      "method": "level-up",
+      "level": null
+    },
+    {
+      "pokemon": "jolteon",
+      "natdex": 135,
+      "method": "level-up",
+      "level": 30
+    },
+    {
+      "pokemon": "combusken",
+      "natdex": 256,
+      "method": "level-up",
+      "level": 16
+    },
+    {
+      "pokemon": "blaziken",
+      "natdex": 257,
+      "method": "level-up",
+      "level": 16
+    }
+  ]
 }

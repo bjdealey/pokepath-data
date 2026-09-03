@@ -13,5 +13,25 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/spore.shtml",
     "scrapedAt": "2026-09-03T19:27:19.526Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "method": "level-up",
+      "level": 54
+    }
+  ]
 }

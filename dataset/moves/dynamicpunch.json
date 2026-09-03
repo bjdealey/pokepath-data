@@ -13,5 +13,31 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/dynamicpunch.shtml",
     "scrapedAt": "2026-09-03T19:21:28.312Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "method": "level-up",
+      "level": 49
+    },
+    {
+      "pokemon": "machoke",
+      "natdex": 67,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "machamp",
+      "natdex": 68,
+      "method": "level-up",
+      "level": 59
+    },
+    {
+      "pokemon": "breloom",
+      "natdex": 286,
+      "method": "level-up",
+      "level": 54
+    }
+  ]
 }

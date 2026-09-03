@@ -13,5 +13,19 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/softboiled.shtml",
     "scrapedAt": "2026-09-03T19:27:04.521Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "chansey",
+      "natdex": 113,
+      "method": "level-up",
+      "level": 13
+    },
+    {
+      "pokemon": "blissey",
+      "natdex": 242,
+      "method": "level-up",
+      "level": 10
+    }
+  ]
 }

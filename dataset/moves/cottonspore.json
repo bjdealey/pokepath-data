@@ -13,5 +13,55 @@
   "source": {
     "url": "https://www.serebii.net/attackdex/cottonspore.shtml",
     "scrapedAt": "2026-09-03T19:20:47.779Z"
-  }
+  },
+  "learnedBy": [
+    {
+      "pokemon": "mareep",
+      "natdex": 179,
+      "method": "level-up",
+      "level": 23
+    },
+    {
+      "pokemon": "flaaffy",
+      "natdex": 180,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "ampharos",
+      "natdex": 181,
+      "method": "level-up",
+      "level": 27
+    },
+    {
+      "pokemon": "hoppip",
+      "natdex": 187,
+      "method": "level-up",
+      "level": 25
+    },
+    {
+      "pokemon": "skiploom",
+      "natdex": 188,
+      "method": "level-up",
+      "level": 29
+    },
+    {
+      "pokemon": "jumpluff",
+      "natdex": 189,
+      "method": "level-up",
+      "level": 33
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "method": "level-up",
+      "level": 41
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "method": "level-up",
+      "level": 47
+    }
+  ]
 }
