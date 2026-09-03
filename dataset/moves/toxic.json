@@ -1,0 +1,17 @@
+{
+  "slug": "toxic",
+  "name": "Toxic",
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": "Poisons the foe with an intensifying toxin.",
+  "secondaryEffect": "Induces severe poison.",
+  "effectRate": 100,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/toxic.shtml",
+    "scrapedAt": "2026-09-03T19:28:16.637Z"
+  }
+}

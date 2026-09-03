@@ -1,0 +1,17 @@
+{
+  "slug": "submission",
+  "name": "Submission",
+  "type": "fighting",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 80,
+  "pp": 25,
+  "effect": "A reckless body slam that also hurts the user.",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/submission.shtml",
+    "scrapedAt": "2026-09-03T19:27:31.541Z"
+  }
+}

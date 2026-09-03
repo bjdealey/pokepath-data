@@ -1,0 +1,17 @@
+{
+  "slug": "psychic",
+  "name": "Psychic",
+  "type": "psychic",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A powerful psychic attack that may lower SP. DEF.",
+  "secondaryEffect": "May lower opponent's SP. DEF one stage.",
+  "effectRate": 10,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/psychic.shtml",
+    "scrapedAt": "2026-09-03T19:25:00.025Z"
+  }
+}

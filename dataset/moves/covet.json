@@ -1,0 +1,17 @@
+{
+  "slug": "covet",
+  "name": "Covet",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "Cutely begs to obtain an item held by the foe.",
+  "secondaryEffect": "May steal opponent's item (temporarily in trainer battles).",
+  "effectRate": 100,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/covet.shtml",
+    "scrapedAt": "2026-09-03T19:20:50.766Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "boneclub",
+  "name": "Bone Club",
+  "type": "ground",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "Clubs the foe with a bone. May cause flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 10,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/boneclub.shtml",
+    "scrapedAt": "2026-09-03T19:20:16.332Z"
+  }
+}

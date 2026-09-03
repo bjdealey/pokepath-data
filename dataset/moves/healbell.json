@@ -1,0 +1,17 @@
+{
+  "slug": "healbell",
+  "name": "Heal Bell",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "Chimes soothingly to heal all status abnormalities.",
+  "secondaryEffect": "Heals party's status problems.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/healbell.shtml",
+    "scrapedAt": "2026-09-03T19:22:41.877Z"
+  }
+}

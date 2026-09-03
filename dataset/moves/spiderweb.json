@@ -1,0 +1,17 @@
+{
+  "slug": "spiderweb",
+  "name": "Spider Web",
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Ensnares the foe to stop it from fleeing or switching.",
+  "secondaryEffect": "Prevents the opponent from escaping.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spiderweb.shtml",
+    "scrapedAt": "2026-09-03T19:27:10.560Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "return",
+  "name": "Return",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "An attack that increases in power with friendship.",
+  "secondaryEffect": "The happier the user, the stronger the attack.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/return.shtml",
+    "scrapedAt": "2026-09-03T19:25:24.027Z"
+  }
+}

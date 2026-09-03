@@ -1,0 +1,17 @@
+{
+  "slug": "acidarmor",
+  "name": "Acid Armor",
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "Liquifies the user's body to sharply raise DEFENSE.",
+  "secondaryEffect": "Raises user's DEFENSE two stages.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/acidarmor.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.904Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "mist",
+  "name": "Mist",
+  "type": "ice",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Creates a mist that stops reduction of abilities.",
+  "secondaryEffect": "Stops ability reduction.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mist.shtml",
+    "scrapedAt": "2026-09-03T19:24:11.900Z"
+  }
+}

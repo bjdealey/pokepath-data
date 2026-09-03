@@ -1,0 +1,17 @@
+{
+  "slug": "counter",
+  "name": "Counter",
+  "type": "fighting",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Retaliates any physical hit with double the power.",
+  "secondaryEffect": "If hit by a physical attack, deals double the damage received.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/counter.shtml",
+    "scrapedAt": "2026-09-03T19:20:49.388Z"
+  }
+}

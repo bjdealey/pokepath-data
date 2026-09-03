@@ -1,0 +1,17 @@
+{
+  "slug": "smellingsalt",
+  "name": "Smellingsalt",
+  "type": "normal",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Powerful against paralyzed foes, but also heals them.",
+  "secondaryEffect": "Stronger against a paralyzed opponent but also heals them.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/smellingsalt.shtml",
+    "scrapedAt": "2026-09-03T19:26:57.000Z"
+  }
+}

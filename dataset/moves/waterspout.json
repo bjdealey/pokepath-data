@@ -1,0 +1,17 @@
+{
+  "slug": "waterspout",
+  "name": "Water Spout",
+  "type": "water",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "Inflicts more damage if the user's HP is high.",
+  "secondaryEffect": "Inflicts more damage when the user's HP is high.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/waterspout.shtml",
+    "scrapedAt": "2026-09-03T19:28:40.690Z"
+  }
+}

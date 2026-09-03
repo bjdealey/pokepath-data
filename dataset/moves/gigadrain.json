@@ -1,0 +1,17 @@
+{
+  "slug": "gigadrain",
+  "name": "Giga Drain",
+  "type": "grass",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "An attack that steals half the damage inflicted.",
+  "secondaryEffect": "User recovers half the damage inflicted.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/gigadrain.shtml",
+    "scrapedAt": "2026-09-03T19:22:23.868Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "shadowblast",
+  "name": "Shadow Blast",
+  "type": "shadow",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "A Powerful Vaccuum Attack",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowblast.shtml",
+    "scrapedAt": "2026-09-03T19:26:01.473Z"
+  }
+}

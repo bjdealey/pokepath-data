@@ -1,0 +1,16 @@
+{
+  "slug": "shadowstorm",
+  "name": "Shadow Storm",
+  "type": "shadow",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Powerful Twister that hits both Opponents",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowstorm.shtml",
+    "scrapedAt": "2026-09-03T19:26:26.999Z"
+  }
+}

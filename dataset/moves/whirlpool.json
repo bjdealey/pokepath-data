@@ -1,0 +1,17 @@
+{
+  "slug": "whirlpool",
+  "name": "Whirlpool",
+  "type": "water",
+  "category": "special",
+  "power": 15,
+  "accuracy": 70,
+  "pp": 15,
+  "effect": "Traps and hurts the foe in a whirlpool for 2 to 5 turns.",
+  "secondaryEffect": "Traps opponent.",
+  "effectRate": 100,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/whirlpool.shtml",
+    "scrapedAt": "2026-09-03T19:28:43.575Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "flamethrower",
+  "name": "Flamethrower",
+  "type": "fire",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A powerful fire attack that may inflict a burn.",
+  "secondaryEffect": "May induce burn.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/flamethrower.shtml",
+    "scrapedAt": "2026-09-03T19:22:01.339Z"
+  }
+}

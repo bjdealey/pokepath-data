@@ -1,0 +1,17 @@
+{
+  "slug": "thunderbolt",
+  "name": "Thunderbolt",
+  "type": "electric",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A strong electrical attack that may paralyze the foe.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 10,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/thunderbolt.shtml",
+    "scrapedAt": "2026-09-03T19:28:07.642Z"
+  }
+}

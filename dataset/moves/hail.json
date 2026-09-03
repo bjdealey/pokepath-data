@@ -1,0 +1,17 @@
+{
+  "slug": "hail",
+  "name": "Hail",
+  "type": "ice",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Summons a hailstorm that strikes every turn.",
+  "secondaryEffect": "Causes Hailstorm for 5 rounds.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hail.shtml",
+    "scrapedAt": "2026-09-03T19:22:35.827Z"
+  }
+}

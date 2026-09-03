@@ -1,0 +1,17 @@
+{
+  "slug": "disable",
+  "name": "Disable",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 20,
+  "effect": "Psychically disables one of the foe's moves.",
+  "secondaryEffect": "Disables opponent's last move.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/disable.shtml",
+    "scrapedAt": "2026-09-03T19:21:07.308Z"
+  }
+}

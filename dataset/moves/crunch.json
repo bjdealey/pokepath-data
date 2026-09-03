@@ -1,0 +1,17 @@
+{
+  "slug": "crunch",
+  "name": "Crunch",
+  "type": "dark",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Crunches with sharp fangs. May lower SP. DEF.",
+  "secondaryEffect": "May lower opponent's SP. DEF one stage.",
+  "effectRate": 20,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/crunch.shtml",
+    "scrapedAt": "2026-09-03T19:20:55.263Z"
+  }
+}

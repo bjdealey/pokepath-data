@@ -1,0 +1,17 @@
+{
+  "slug": "teeterdance",
+  "name": "Teeter Dance",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Confuses all POKéMON on the scene.",
+  "secondaryEffect": "Confuses all Pokémon on the field.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/teeterdance.shtml",
+    "scrapedAt": "2026-09-03T19:28:00.057Z"
+  }
+}

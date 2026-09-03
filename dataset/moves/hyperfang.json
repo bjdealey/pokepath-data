@@ -1,0 +1,17 @@
+{
+  "slug": "hyperfang",
+  "name": "Hyper Fang",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": "Attacks with sharp fangs. May cause flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 10,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hyperfang.shtml",
+    "scrapedAt": "2026-09-03T19:22:59.907Z"
+  }
+}

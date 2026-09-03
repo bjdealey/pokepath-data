@@ -1,0 +1,17 @@
+{
+  "slug": "frustration",
+  "name": "Frustration",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "An attack that is stronger if the TRAINER is disliked.",
+  "secondaryEffect": "The less happy the user, the stronger the attack.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/frustration.shtml",
+    "scrapedAt": "2026-09-03T19:22:16.469Z"
+  }
+}

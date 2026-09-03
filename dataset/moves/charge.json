@@ -1,0 +1,17 @@
+{
+  "slug": "charge",
+  "name": "Charge",
+  "type": "electric",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Charges power to boost the electric move used next.",
+  "secondaryEffect": "Increases the power of the next ELECTRIC attack.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/charge.shtml",
+    "scrapedAt": "2026-09-03T19:20:32.830Z"
+  }
+}

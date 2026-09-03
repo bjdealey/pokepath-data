@@ -1,0 +1,17 @@
+{
+  "slug": "icywind",
+  "name": "Icy Wind",
+  "type": "ice",
+  "category": "special",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": "A chilling attack that lowers the foe's SPEED.",
+  "secondaryEffect": "May lower opponent's SPEED one stage.",
+  "effectRate": 100,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/icywind.shtml",
+    "scrapedAt": "2026-09-03T19:23:10.400Z"
+  }
+}

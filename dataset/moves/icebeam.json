@@ -1,0 +1,17 @@
+{
+  "slug": "icebeam",
+  "name": "Ice Beam",
+  "type": "ice",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Blasts the foe with an icy beam that may freeze it.",
+  "secondaryEffect": "May induce freeze.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/icebeam.shtml",
+    "scrapedAt": "2026-09-03T19:23:05.933Z"
+  }
+}

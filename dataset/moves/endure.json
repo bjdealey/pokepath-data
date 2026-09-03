@@ -1,0 +1,17 @@
+{
+  "slug": "endure",
+  "name": "Endure",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Endures any attack for 1 turn, leaving at least 1HP.",
+  "secondaryEffect": "Survives any attack for one turn leaving at least 1 HP but move's accuracy drops.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/endure.shtml",
+    "scrapedAt": "2026-09-03T19:21:37.376Z"
+  }
+}

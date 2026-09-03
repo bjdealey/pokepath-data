@@ -1,0 +1,17 @@
+{
+  "slug": "uproar",
+  "name": "Uproar",
+  "type": "normal",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Causes an uproar for 2 to 5 turns and prevents sleep.",
+  "secondaryEffect": "User cannot sleep for 2-5 turns.",
+  "effectRate": 100,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/uproar.shtml",
+    "scrapedAt": "2026-09-03T19:28:27.101Z"
+  }
+}

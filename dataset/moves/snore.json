@@ -1,0 +1,17 @@
+{
+  "slug": "snore",
+  "name": "Snore",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A loud attack that can be used only while asleep.",
+  "secondaryEffect": "Can only be used while asleep.",
+  "effectRate": 30,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/snore.shtml",
+    "scrapedAt": "2026-09-03T19:27:03.081Z"
+  }
+}

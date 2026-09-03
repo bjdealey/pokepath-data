@@ -1,0 +1,17 @@
+{
+  "slug": "mudsport",
+  "name": "Mud Sport",
+  "type": "ground",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Covers the user in mud to raise electrical resistance.",
+  "secondaryEffect": "Lowers the power of ELECTRIC moves.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mudsport.shtml",
+    "scrapedAt": "2026-09-03T19:24:22.475Z"
+  }
+}

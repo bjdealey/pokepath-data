@@ -1,0 +1,17 @@
+{
+  "slug": "wish",
+  "name": "Wish",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A wish that restores HP. It takes time to work.",
+  "secondaryEffect": "Recovers HP. Delays 1 turn.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/wish.shtml",
+    "scrapedAt": "2026-09-03T19:28:49.595Z"
+  }
+}

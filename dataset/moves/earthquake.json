@@ -1,0 +1,17 @@
+{
+  "slug": "earthquake",
+  "name": "Earthquake",
+  "type": "ground",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A powerful quake, but has no effect on flying foes.",
+  "secondaryEffect": "Hits everyone on the field.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/earthquake.shtml",
+    "scrapedAt": "2026-09-03T19:21:29.768Z"
+  }
+}

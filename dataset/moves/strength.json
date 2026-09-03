@@ -1,0 +1,16 @@
+{
+  "slug": "strength",
+  "name": "Strength",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Builds enormous power, then slams the foe.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/strength.shtml",
+    "scrapedAt": "2026-09-03T19:27:25.585Z"
+  }
+}

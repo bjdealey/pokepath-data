@@ -1,0 +1,17 @@
+{
+  "slug": "psychup",
+  "name": "Psych Up",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Copies the foe's effect(s) and gives to the user.",
+  "secondaryEffect": "Copies opponent's stat changes.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/psychup.shtml",
+    "scrapedAt": "2026-09-03T19:25:02.952Z"
+  }
+}

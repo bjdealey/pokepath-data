@@ -1,0 +1,17 @@
+{
+  "slug": "leafblade",
+  "name": "Leaf Blade",
+  "type": "grass",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Slashes with a sharp leaf. High critical-hit ratio.",
+  "secondaryEffect": "Has high critical hit ratio.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/leafblade.shtml",
+    "scrapedAt": "2026-09-03T19:23:23.903Z"
+  }
+}

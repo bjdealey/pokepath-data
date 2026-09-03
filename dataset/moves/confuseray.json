@@ -1,0 +1,17 @@
+{
+  "slug": "confuseray",
+  "name": "Confuse Ray",
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A sinister ray that confuses the foe.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/confuseray.shtml",
+    "scrapedAt": "2026-09-03T19:20:38.758Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "ingrain",
+  "name": "Ingrain",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Lays roots that restore HP. The user can't switch out.",
+  "secondaryEffect": "Recovers HP every turn. User cannot switch.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/ingrain.shtml",
+    "scrapedAt": "2026-09-03T19:23:13.391Z"
+  }
+}

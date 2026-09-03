@@ -1,0 +1,17 @@
+{
+  "slug": "swagger",
+  "name": "Swagger",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": "Confuses the foe, but also sharply raises ATTACK.",
+  "secondaryEffect": "Induces CONFUSE. Raises opponent's ATTACK two stages.",
+  "effectRate": 100,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/swagger.shtml",
+    "scrapedAt": "2026-09-03T19:27:42.119Z"
+  }
+}

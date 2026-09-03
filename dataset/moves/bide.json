@@ -1,0 +1,17 @@
+{
+  "slug": "bide",
+  "name": "Bide",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Endures attack for 2 turns to retaliate double.",
+  "secondaryEffect": "User takes hits for 2 rounds, then strikes back.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bide.shtml",
+    "scrapedAt": "2026-09-03T19:20:04.227Z"
+  }
+}

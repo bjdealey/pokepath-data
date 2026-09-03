@@ -1,0 +1,17 @@
+{
+  "slug": "stringshot",
+  "name": "String Shot",
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": 95,
+  "pp": 40,
+  "effect": "Binds the foe with string to reduce its SPEED.",
+  "secondaryEffect": "Lowers opponent's SPEED one stage.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/stringshot.shtml",
+    "scrapedAt": "2026-09-03T19:27:27.076Z"
+  }
+}

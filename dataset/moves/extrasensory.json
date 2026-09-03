@@ -1,0 +1,17 @@
+{
+  "slug": "extrasensory",
+  "name": "Extrasensory",
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Attacks with a peculiar power. May cause flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 10,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/extrasensory.shtml",
+    "scrapedAt": "2026-09-03T19:21:41.803Z"
+  }
+}

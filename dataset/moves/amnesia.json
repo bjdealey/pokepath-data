@@ -1,0 +1,17 @@
+{
+  "slug": "amnesia",
+  "name": "Amnesia",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Forgets about something and sharply raises SP. DEF.",
+  "secondaryEffect": "Raises user's SP. DEF two stages.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/amnesia.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.939Z"
+  }
+}

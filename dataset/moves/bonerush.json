@@ -1,0 +1,17 @@
+{
+  "slug": "bonerush",
+  "name": "Bone Rush",
+  "type": "ground",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 80,
+  "pp": 10,
+  "effect": "Strikes the foe with a bone in hand 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bonerush.shtml",
+    "scrapedAt": "2026-09-03T19:20:19.269Z"
+  }
+}

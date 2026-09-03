@@ -1,0 +1,17 @@
+{
+  "slug": "sacredfire",
+  "name": "Sacred Fire",
+  "type": "fire",
+  "category": "special",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "effect": "A mystical fire attack that may inflict a burn.",
+  "secondaryEffect": "May induce burn.",
+  "effectRate": 50,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sacredfire.shtml",
+    "scrapedAt": "2026-09-03T19:25:41.965Z"
+  }
+}

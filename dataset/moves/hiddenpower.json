@@ -1,0 +1,17 @@
+{
+  "slug": "hiddenpower",
+  "name": "Hidden Power",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "The effectiveness varies with the user.",
+  "secondaryEffect": "Power and type depend on user's IVs.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hiddenpower.shtml",
+    "scrapedAt": "2026-09-03T19:22:47.947Z"
+  }
+}

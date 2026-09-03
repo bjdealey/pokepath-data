@@ -1,0 +1,17 @@
+{
+  "slug": "shadowpanic",
+  "name": "Shadow Panic",
+  "type": "shadow",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Confuses Both Opponents",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": 100,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowpanic.shtml",
+    "scrapedAt": "2026-09-03T19:26:16.562Z"
+  }
+}

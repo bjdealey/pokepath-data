@@ -1,0 +1,17 @@
+{
+  "slug": "crushclaw",
+  "name": "Crush Claw",
+  "type": "normal",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 10,
+  "effect": "Tears at the foe with sharp claws. May lower DEFENSE.",
+  "secondaryEffect": "May lower opponent's DEFENSE one stage.",
+  "effectRate": 50,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/crushclaw.shtml",
+    "scrapedAt": "2026-09-03T19:20:56.787Z"
+  }
+}

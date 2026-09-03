@@ -1,0 +1,17 @@
+{
+  "slug": "cometpunch",
+  "name": "Comet Punch",
+  "type": "normal",
+  "category": "physical",
+  "power": 18,
+  "accuracy": 85,
+  "pp": 15,
+  "effect": "Repeatedly punches the foe 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/cometpunch.shtml",
+    "scrapedAt": "2026-09-03T19:20:37.294Z"
+  }
+}

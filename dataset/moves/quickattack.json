@@ -1,0 +1,17 @@
+{
+  "slug": "quickattack",
+  "name": "Quick Attack",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "An extremely fast attack that always strikes first.",
+  "secondaryEffect": "Always strikes first.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/quickattack.shtml",
+    "scrapedAt": "2026-09-03T19:25:07.564Z"
+  }
+}

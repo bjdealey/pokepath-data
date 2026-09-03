@@ -1,0 +1,17 @@
+{
+  "slug": "fissure",
+  "name": "Fissure",
+  "type": "ground",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 30,
+  "pp": 5,
+  "effect": "A one-hit KO move that drops the foe in a fissure.",
+  "secondaryEffect": "May cause one-hit KO.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/fissure.shtml",
+    "scrapedAt": "2026-09-03T19:21:58.331Z"
+  }
+}

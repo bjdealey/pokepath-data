@@ -1,0 +1,16 @@
+{
+  "slug": "drillpeck",
+  "name": "Drill Peck",
+  "type": "flying",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "A corkscrewing attack with the beak acting as a drill.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/drillpeck.shtml",
+    "scrapedAt": "2026-09-03T19:21:26.838Z"
+  }
+}

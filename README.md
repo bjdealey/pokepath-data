@@ -12,13 +12,15 @@ node src/run.ts pokemon            # default slice: Emerald opening (#252–265)
 node src/run.ts pokemon 1-386      # full national dex (Gen-3 pages)
 node src/run.ts pokemon 252,255    # explicit list
 node src/run.ts pokemon 1-151 --refresh   # bypass cache
+node src/run.ts moves              # scrape all Gen-III moves (attackdex); `moves 20` = first 20
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 npm test                           # parser fixture tests
 ```
 
-Output → `dataset/pokemon/<slug>.json` + `index.json` + `meta.json`, and
+Output → canonical `dataset/pokemon/<slug>.json` and `dataset/moves/<slug>.json`
+(each with an `index.json`), plus game-scoped
 `dataset/games/<game>/{encounters,locations,items,trainers,story}.json`.
 
 ## How it works
@@ -41,6 +43,10 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   RSE-scoped facts (identity, i18n names, types, stats, abilities, egg groups,
   evolution chain, per-game flavor/location, level-up + TM/HM learnset), parsed
   from `/pokedex-rs/NNN.shtml`.
+- ✅ `moves` — all **Gen-III moves** (~355) from the `/attackdex/` AttackDex (its
+  title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
+  effect + rate, contest type. **Category is derived from type** (Gen 3 predates the
+  physical/special split). Canonical — lives at `dataset/moves/<slug>.json`.
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

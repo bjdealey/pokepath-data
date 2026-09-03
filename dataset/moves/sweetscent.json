@@ -1,0 +1,17 @@
+{
+  "slug": "sweetscent",
+  "name": "Sweet Scent",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Allures the foe to reduce evasiveness.",
+  "secondaryEffect": "Lowers opponent's EVASIVENESS one stage.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sweetscent.shtml",
+    "scrapedAt": "2026-09-03T19:27:46.562Z"
+  }
+}

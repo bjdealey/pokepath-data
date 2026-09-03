@@ -1,0 +1,17 @@
+{
+  "slug": "stockpile",
+  "name": "Stockpile",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Charges up power for up to 3 turns.",
+  "secondaryEffect": "User stockpiles power for up to 3 turns.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/stockpile.shtml",
+    "scrapedAt": "2026-09-03T19:27:22.557Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "bulletseed",
+  "name": "Bullet Seed",
+  "type": "grass",
+  "category": "special",
+  "power": 10,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Shoots 2 to 5 seeds in a row to strike the foe.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bulletseed.shtml",
+    "scrapedAt": "2026-09-03T19:20:28.259Z"
+  }
+}

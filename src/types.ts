@@ -36,6 +36,23 @@ export interface Learnset {
   machine: MachineMove[];
 }
 
+/** A move from the Gen-III AttackDex. Category is derived from type — Gen 3
+ * predates the physical/special split (that was per-type, not per-move). */
+export interface MoveRecord {
+  slug: string;
+  name: string;
+  type: string;
+  category: "physical" | "special" | "status";
+  power: number | null; // null = status or variable power
+  accuracy: number | null; // null = never misses
+  pp: number;
+  effect: string; // battle effect description
+  secondaryEffect?: string;
+  effectRate: number | null; // % chance of the secondary effect
+  contestType?: string;
+  source: { url: string; scrapedAt: string };
+}
+
 export interface TrainerPokemon {
   pokemon: string; // slug
   natdex: number;

@@ -1,0 +1,17 @@
+{
+  "slug": "flash",
+  "name": "Flash",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 70,
+  "pp": 20,
+  "effect": "Looses a powerful blast of light that cuts accuracy.",
+  "secondaryEffect": "Lowers opponent's ACCURACY one stage.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/flash.shtml",
+    "scrapedAt": "2026-09-03T19:22:04.372Z"
+  }
+}

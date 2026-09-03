@@ -1,0 +1,17 @@
+{
+  "slug": "psychoboost",
+  "name": "Psycho Boost",
+  "type": "psychic",
+  "category": "special",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": "Allows a full-power attack, but sharply lowers SP. ATK.",
+  "secondaryEffect": "Lowers user's SP. ATK two stages.",
+  "effectRate": 100,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/psychoboost.shtml",
+    "scrapedAt": "2026-09-03T19:25:01.469Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "rollingkick",
+  "name": "Rolling Kick",
+  "type": "fighting",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 85,
+  "pp": 15,
+  "effect": "A fast kick delivered from a rapid spin.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 30,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rollingkick.shtml",
+    "scrapedAt": "2026-09-03T19:25:39.019Z"
+  }
+}

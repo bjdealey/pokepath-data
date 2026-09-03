@@ -1,0 +1,17 @@
+{
+  "slug": "iceball",
+  "name": "Ice Ball",
+  "type": "ice",
+  "category": "special",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "A 5-turn attack that gains power on successive hits.",
+  "secondaryEffect": "Uses the same move for 5 turns; move's power raises if it hits.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/iceball.shtml",
+    "scrapedAt": "2026-09-03T19:23:04.361Z"
+  }
+}

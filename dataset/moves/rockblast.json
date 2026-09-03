@@ -1,0 +1,17 @@
+{
+  "slug": "rockblast",
+  "name": "Rock Blast",
+  "type": "rock",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 80,
+  "pp": 10,
+  "effect": "Hurls boulders at the foe 2 to 5 times in a row.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rockblast.shtml",
+    "scrapedAt": "2026-09-03T19:25:30.003Z"
+  }
+}

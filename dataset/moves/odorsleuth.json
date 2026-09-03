@@ -1,0 +1,17 @@
+{
+  "slug": "odorsleuth",
+  "name": "Odor Sleuth",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "Negates the foe's efforts to heighten evasiveness.",
+  "secondaryEffect": "Resets opponent's EVASIVENESS.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/odorsleuth.shtml",
+    "scrapedAt": "2026-09-03T19:24:31.444Z"
+  }
+}

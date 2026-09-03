@@ -1,0 +1,16 @@
+{
+  "slug": "shadowbreak",
+  "name": "Shadow Break",
+  "type": "shadow",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Damages One Opponent",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowbreak.shtml",
+    "scrapedAt": "2026-09-03T19:26:04.465Z"
+  }
+}

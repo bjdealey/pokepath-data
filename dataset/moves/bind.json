@@ -1,0 +1,17 @@
+{
+  "slug": "bind",
+  "name": "Bind",
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 75,
+  "pp": 20,
+  "effect": "Binds and squeezes the foe for 2 to 5 turns.",
+  "secondaryEffect": "Traps opponent.",
+  "effectRate": 100,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bind.shtml",
+    "scrapedAt": "2026-09-03T19:20:05.698Z"
+  }
+}

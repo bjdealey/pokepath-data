@@ -1,0 +1,17 @@
+{
+  "slug": "torment",
+  "name": "Torment",
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Torments the foe and stops successive use of a move.",
+  "secondaryEffect": "Opponent cannot use the same move in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/torment.shtml",
+    "scrapedAt": "2026-09-03T19:28:15.098Z"
+  }
+}

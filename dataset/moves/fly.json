@@ -1,0 +1,17 @@
+{
+  "slug": "fly",
+  "name": "Fly",
+  "type": "flying",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": "Flies up on the first turn, then strikes the next turn.",
+  "secondaryEffect": "The user is protected the first turn, attacks the second turn.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/fly.shtml",
+    "scrapedAt": "2026-09-03T19:22:07.331Z"
+  }
+}

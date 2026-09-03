@@ -1,0 +1,17 @@
+{
+  "slug": "seismictoss",
+  "name": "Seismic Toss",
+  "type": "fighting",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Inflicts damage identical to the user's level.",
+  "secondaryEffect": "Inflicts damage equal to the user's level.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/seismictoss.shtml",
+    "scrapedAt": "2026-09-03T19:25:55.588Z"
+  }
+}

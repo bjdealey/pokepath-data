@@ -1,0 +1,16 @@
+{
+  "slug": "rockthrow",
+  "name": "Rock Throw",
+  "type": "rock",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": "Throws small rocks to strike the foe.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rockthrow.shtml",
+    "scrapedAt": "2026-09-03T19:25:34.492Z"
+  }
+}

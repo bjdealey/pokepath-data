@@ -1,0 +1,17 @@
+{
+  "slug": "rage",
+  "name": "Rage",
+  "type": "normal",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Raises the user's ATTACK every time it is hit.",
+  "secondaryEffect": "User's ATTACK raises if hit.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rage.shtml",
+    "scrapedAt": "2026-09-03T19:25:08.987Z"
+  }
+}

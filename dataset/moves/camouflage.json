@@ -1,0 +1,17 @@
+{
+  "slug": "camouflage",
+  "name": "Camouflage",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Alters the POKéMON's type depending on the location.",
+  "secondaryEffect": "User changes type depending on the location.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/camouflage.shtml",
+    "scrapedAt": "2026-09-03T19:20:31.265Z"
+  }
+}

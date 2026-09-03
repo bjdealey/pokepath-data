@@ -1,0 +1,17 @@
+{
+  "slug": "dizzypunch",
+  "name": "Dizzy Punch",
+  "type": "normal",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A rhythmic punch that may confuse the foe.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": 20,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dizzypunch.shtml",
+    "scrapedAt": "2026-09-03T19:21:10.305Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "struggle",
+  "name": "Struggle",
+  "type": "normal",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 1,
+  "effect": "Used only if all PP are gone. Also hurts the user a little.",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/struggle.shtml",
+    "scrapedAt": "2026-09-03T19:27:28.593Z"
+  }
+}

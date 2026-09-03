@@ -1,0 +1,17 @@
+{
+  "slug": "jumpkick",
+  "name": "Jump Kick",
+  "type": "fighting",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 95,
+  "pp": 25,
+  "effect": "A strong jumping kick. May miss and hurt the kicker.",
+  "secondaryEffect": "If attack misses, user takes 1/8 HP of damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/jumpkick.shtml",
+    "scrapedAt": "2026-09-03T19:23:17.842Z"
+  }
+}

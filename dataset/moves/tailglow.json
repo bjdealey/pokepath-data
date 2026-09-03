@@ -1,0 +1,17 @@
+{
+  "slug": "tailglow",
+  "name": "Tail Glow",
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Flashes a light that sharply raises SP. ATK.",
+  "secondaryEffect": "Raises user's SP. ATK two stages.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/tailglow.shtml",
+    "scrapedAt": "2026-09-03T19:27:54.089Z"
+  }
+}

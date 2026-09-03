@@ -1,0 +1,17 @@
+{
+  "slug": "spitup",
+  "name": "Spit Up",
+  "type": "normal",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Releases stockpiled power (the more the better).",
+  "secondaryEffect": "Releases power from STOCKPILE.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spitup.shtml",
+    "scrapedAt": "2026-09-03T19:27:16.566Z"
+  }
+}

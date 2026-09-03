@@ -1,0 +1,17 @@
+{
+  "slug": "naturepower",
+  "name": "Nature Power",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 95,
+  "pp": 20,
+  "effect": "The type of attack varies depending on the location.",
+  "secondaryEffect": "Depends on battle location.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/naturepower.shtml",
+    "scrapedAt": "2026-09-03T19:24:23.915Z"
+  }
+}

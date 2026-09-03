@@ -1,0 +1,17 @@
+{
+  "slug": "triattack",
+  "name": "Tri Attack",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Fires three types of beams at the same time.",
+  "secondaryEffect": "May induce burn, freeze or paralysis.",
+  "effectRate": 20,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/triattack.shtml",
+    "scrapedAt": "2026-09-03T19:28:19.574Z"
+  }
+}

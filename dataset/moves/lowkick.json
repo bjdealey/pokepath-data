@@ -1,0 +1,17 @@
+{
+  "slug": "lowkick",
+  "name": "Low Kick",
+  "type": "fighting",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "A kick that inflicts more damage on heavier foes.",
+  "secondaryEffect": "Damage inflicted raises the heavier the opponent is.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/lowkick.shtml",
+    "scrapedAt": "2026-09-03T19:23:35.882Z"
+  }
+}

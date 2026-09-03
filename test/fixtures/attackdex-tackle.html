@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Serebii.net Generation III AttackDex - Tackle</title>
+
+<script data-cfasync="false">
+  window.ramp = window.ramp || {};
+  window.ramp.que = window.ramp.que || [];
+</script>
+
+<meta http-equiv="imagetoolbar" CONTENT="no">
+	<link rel="stylesheet" type="text/css" href="/style/layout.css" />
+<meta name="viewport" content="width=device-width,initial-scale=1" id="viewport-meta">
+
+<!-- GDPR Compliancy -->
+<style>
+body {
+	--cmpBgColor: #507C36;
+	--cmpTextColor: #000000;
+	--cmpLinkColor: #ffffff;
+	--cmpPurposesColor: #000000;
+	--cmpBrandColor: #000000;
+	--cmpLogo: url('https://www.serebii.net/extralogo.png');
+}
+</style>
+<!-- GDPR Compliancy -->
+
+<link rel="search" href="/serebii-opensearch.xml" type="application/opensearchdescription+xml" title="Serebii Open Search" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128947957-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-128947957-1');
+</script>
+<!-- Place the below code anywhere you like in the <head> (higher is better) -->
+
+
+
+<link rel="stylesheet" type="text/css" HREF="/style/dexy-new.css">
+
+
+</head>
+<body>
+<script type="text/javascript">
+	var viewport_meta = document.getElementById('viewport-meta');
+	var viewport_timer;
+
+	// these body*Class are reused in the lbar mobile menu
+	function bodyAddClass(className){
+		if(document.body) document.body.classList.add(className);
+	}
+	function bodyRemoveClass(className){
+		if(document.body) document.body.className = document.body.className.replace(className,"");
+	}
+
+	function viewport_set() {
+		// Define our viewport meta values
+		var viewports = {
+			default: viewport_meta.getAttribute('content'),
+			mobileL: 'width=device-width,initial-scale=0.75',
+			mobileM: 'width=device-width,initial-scale=0.5',
+			mobileS: 'width=device-width,initial-scale=0.4'
+		};
+
+		// Change the viewport value based on screen.width
+		if(screen.width < 370){
+			viewport_meta.setAttribute('content', viewports.mobileS);
+			bodyAddClass("nav_mobileS");
+			bodyRemoveClass("nav_mobileM");
+			bodyRemoveClass("nav_mobileL");
+		} else if(screen.width < 505){
+			viewport_meta.setAttribute('content', viewports.mobileM);
+			bodyRemoveClass("nav_mobileS");
+			bodyAddClass("nav_mobileM");
+			bodyRemoveClass("nav_mobileL");
+		} else if (screen.width < 760){
+			viewport_meta.setAttribute('content', viewports.mobileL);
+			bodyRemoveClass("nav_mobileS");
+			bodyRemoveClass("nav_mobileM");
+			bodyAddClass("nav_mobileL");
+		} else{
+			viewport_meta.setAttribute('content', viewports.default);
+			bodyRemoveClass("nav_mobileS");
+			bodyRemoveClass("nav_mobileM");
+			bodyRemoveClass("nav_mobileL");
+		}
+	}
+
+	// Set the correct viewport value on page load
+	viewport_set();
+
+	/* attach listener to (delay) set the correct viewport after device orientation change or resize. also onload so the nav_mobile* class gets added to body AFTER <body> has loaded */
+	if(window.addEventListener){
+		window.addEventListener('load', viewport_set);
+		window.addEventListener('resize', function(){
+			clearTimeout(viewport_timer);
+			viewport_timer = setTimeout(viewport_set, 100);
+		})
+	} else{
+		window.attachEvent('onload', viewport_set)
+		window.attachEvent('onresize', function(){
+			clearTimeout(viewport_timer);
+			viewport_timer = setTimeout(viewport_set, 100);
+		})
+	}
+
+</script>
+
+
+<header id="header">
+	<div class="banner">
+		<a href="/"><img src="/Banner.jpg" alt="Serebii.net Header" style="height:139px"></a>
+	</div>
+
+	<nav class="quicklinks">
+		<ul>
+			<li><b>Quick Links</b></li>
+			<li><a href="/index2.shtml">Home</a></li>
+			<li><a href="https://forums.serebii.net/" target="blank">Forums</a></li>
+			<li><a href="mailto:webmaster@serebii.net">Contact</a></li>
+			<li><a href="/discord.shtml">Discord</a></li>
+			<li><a href="/pokemon">Pokédex Hub</a></li>
+			<li><a href="/pokedex-sv">Scarlet & Violet Pokédex</a></li>
+			<li><a href="/pokedex-champions">Champions Pokédex</a></li>
+			<li><a href="/pokearth">Pokéarth</a></li>
+
+			<li class="search">
+				<form id="searchbox_018410473690156091934:6gahkiyodbi" action="/search.shtml" style="margin:0px;">
+					<input type="hidden" name="cx" value="018410473690156091934:6gahkiyodbi" />
+					<input type="hidden" name="cof" value="FORID:11" />
+					<input name="q" type="text" size="20" />
+					<input type="submit" name="sa" value="Search" />
+				</form>
+				<script type="text/javascript" src="//www.google.com/coop/cse/brand?form=searchbox_018410473690156091934%3A6gahkiyodbi"></script>
+			</li>
+		</ul>
+	</nav>
+</header>
+
+
+
+
+<div id="wrapper">
+
+<ul id="tbar_sticky">
+	<li>
+		<a href="#lbar" class="navheader" id="tbar_lbar_open"><img src="/hidden/2019-04/burger.svg"></a>
+	</li>
+	<li>
+		<form id="searchbox_018410473690156091934:6gahkiyodbi" action="/search.shtml" style="margin:0px;">
+			<input type="hidden" name="cx" value="018410473690156091934:6gahkiyodbi" />
+			<input type="hidden" name="cof" value="FORID:11" />
+			<input name="q" type="search" placeholder="Search Serebii.net..." />
+		</form>
+	</li>
+	<li>
+		<a href="#rbar" class="navheader" id="tbar_rbar_open" style="padding-right:20px"><img src="/hidden/2019-04/burger.svg"></a>
+	</li>
+</ul>
+<div id="tbar_backdrop"></div>
+
+<nav id="lbar">
+	<ul id="lbar_ul">
+		<li>
+			<a href="/" class="navheader">Databases</a>
+			<ul>
+				<li><a href="/index2.shtml">News</a>
+				<li><a href="/archive.shtml">Archived news</a></li>
+				<li><a href="/pokemon/"><b>Pokédex</b></a></li>
+				<li><a href="/pokedex/">-Red/Blue Pokédex</a></li>
+				<li><a href="/pokedex-gs/">-Gold/Silver Pokédex</a></li>
+				<li><a href="/pokedex-rs/">-Ruby/Sapphire Pokédex</a></li>
+				<li><a href="/pokedex-dp/">-Diamond/Pearl Pokédex</a></li>
+				<li><a href="/pokedex-bw/">-Black/White Pokédex</a></li>
+				<li><a href="/pokedex-xy/">-X & Y Pokédex</a></li>
+				<li><a href="/pokedex-sm/">-Sun & Moon Pokédex</a></li>
+				<li><a href="/pokedex-sm/">-Let's Go Pokédex</a></li>
+				<li><a href="/pokedex-swsh/">-Sword & Shield Pokédex</a></li>
+				<li><a href="/pokedex-swsh/">-BDSP Pokédex</a></li>
+				<li><a href="/pokedex-swsh/">-Legends: Arceus Pokédex</a></li>
+				<li><a href="/pokemongo/pokemon/">-GO Pokédex</a></li>
+				<li><a href="/pokedex-sv/">-Scarlet & Violet Pokédex</a></li>
+				<li><a href="/pokedex-sv/">-Legends: Z-A Pokédex</a></li>
+				<li><a href="/pokedex-champions/">-Champions Pokédex</a></li>
+
+				<li><strong>Attackdex</strong></li>
+				<li><a href="/attackdex-rby/">-Gen 1 Attackdex</a></li>
+				<li><a href="/attackdex-gs/">-Gen 2 Attackdex</a></li>
+				<li><a href="/attackdex/">-Gen 3 Attackdex</a></li>
+				<li><a href="/attackdex-dp/">-Gen 4 Attackdex</a></li>
+				<li><a href="/attackdex-bw/">-Gen 5 Attackdex</a></li>
+				<li><a href="/attackdex-xy/">-Gen 6 Attackdex</a></li>
+				<li><a href="/attackdex-sm/">-Gen 7 Attackdex</a></li>
+				<li><a href="/attackdex-swsh/">-Gen 8 Attackdex</a></li>
+				<li><a href="/attackdex-sv/">-Gen 9 Attackdex</a></li>
+				<li><a href="/attackdex-champions/">-Champions Attackdex</a></li>
+				<li><a href="/itemdex/">ItemDex</a></li>
+				<li><a href="/pokearth/">Pokéarth</a></li>
+				<li><a href="/abilitydex/">Abilitydex</a></li>
+				<li><a href="/spindex/">Spin-Off Pokédex</a></li>
+				<li><a href="/spindex-dp/">Spin-Off Pokédex DP</a></li>
+				<li><a href="/spindex-bw/">Spin-Off Pokédex BW</a></li>
+				<li><a href="/card/dex/">Cardex</a></li>
+				<li><a href="/movies/dex/">Cinematic Pokédex</a></li>
+				<li><a href="/games/mechanics.shtml">Game Mechanics</a></li>
+				<li><a href="/games/iv-calcsv.shtml">-Scarlet/Violet IV Calc.</a></li>
+				<li><a href="/potw-champions">Pokémon of the Week</a></li>
+				<li><a href="/potw-champions/">-Champions</a></li>
+				<li><a href="/potw-sv/">-9th Gen</a></li>
+				<li><a href="/potw-swsh/">-8th Gen</a></li>
+				<li><a href="/potw-sm/">-7th Gen</a></li>
+				<li><a href="/pokemon/timeline.shtml">Pokémon Timeline</a></li>
+				<li><a href="/pokemoncenter/">Pokémon Centers</a></li>
+				<li><a href="/playpokemon">Pokémon Championship Series</a></li>
+				<li><a href="/pokemonxp/">PokémonXP</a></li>
+
+				<li><a href="/music/projectvoltage">Hatsune Miku Project Voltage</a></li>
+				<li><a href="/museums/">Pokémon in Museums & Exhibitions</a></li>
+				<li><a href="/pokemon/vangoghmuseum/">-Pokémon x Van Gogh</a></li>
+				<li><a href="/pokemonday/">Pokémon Day</a></li>
+				<li><a href="/presentations">Pokémon Presentations</a></li>
+				<li><a href="/lego/">LEGO Pokémon</a></li>
+				<li><a href="/pokemonshirts/">Pokémon Shirts</a></li>
+				<li><a href="/themeparks/">Theme Parks</a></li>
+				<li><a href="https://forums.serebii.net" target="blank">Forums</a></li>
+				<li><a href="/discord.shtml">Discord Chat</a></li>		
+				<li><a href="/games/currentevents.shtml">Current & Upcoming Events</a></li>
+				<li><a href="/events">Event Database</a></li>
+				<li><a href="/scarletviolet/pokemon.shtml">9th Generation Pokémon</a></li>
+				<li><a href="/scarletviolet/dlc-pokemon.shtml">-New Pokémon in DLC</a></li>
+				<li><a href="/scarletviolet/paldeanforms.shtml">-Paldean Form Pokémon</a></li>
+
+			</ul>
+		</li>
+
+
+		<li>
+			<a href="/anime/" class="navheader">Anime & TV</a>
+			<ul>
+				<li><a href="/anime/epiguide/">Episode Listings & Pictures</a></li>
+				<li><a href="/anime/dex/">AniméDex</a></li>
+				<li><a href="/anime/characters/">Character Bios</a></li>
+				<li><a href="/anime/epiguide/indigo/">The Indigo League</a></li>
+				<li><a href="/anime/epiguide/orange/">The Orange League</a></li>
+				<li><a href="/anime/epiguide/johto/">The Johto Saga</a></li>
+				<li><a href="/anime/epiguide/houen/">The Saga in Hoenn!</a></li>
+				<li><a href="/anime/epiguide/kanto/">Kanto Battle Frontier Saga!</a></li>
+				<li><a href="/anime/epiguide/shinou/">The Sinnoh Saga!</a></li>
+				<li><a href="/anime/epiguide/bestwishes/">Best Wishes - Unova Saga</a></li>
+				<li><a href="/anime/epiguide/xy/">XY - Kalos Saga</a></li>
+				<li><a href="/anime/epiguide/sunmoon/">Sun & Moon - Alola Saga</a></li>
+				<li><a href="/anime/epiguide/pokemon/">Pokémon Journeys - Galar Saga</a></li>
+				<li><a href="/anime/epiguide/pokemonmaster/">Pokémon Aim To Be A Pokémon Master</a></li>
+				<li><a href="/anime/epiguide/pokemon2023/">Pokémon Horizons - Paldea Saga</a></li>
+				<li><a href="/anime/epiguide/chronicles/">Pokémon Chronicles</a></li>	
+				<li><a href="/anime/epiguide/specials/">The Special Episodes</a></li>
+				<li><a href="/anime/banned.shtml">The Banned Episodes</a></li>
+				<li><a href="/anime/shiny/">Shiny Pokémon</a></li>
+<li><b>Other Web Series</b></li>
+				<li><a href="/anime/epiguide/generations/">Pokémon Generations</a></li>
+				<li><a href="/anime/epiguide/twilightwings/">Pokémon Twilight Wings</a></li>
+				<li><a href="/anime/epiguide/evolutions/">Pokémon Evolutions</a></li>
+				<li><a href="/anime/hisuiansnow/">Pokémon: Hisuian Snow</a></li>
+				<li><a href="/anime/paldeanwinds/">Pokémon: Paldean Winds</a></li>
+				<li><a href="/anime/poketoon/">PokéToon</a></li>
+				<li><a href="/anime/other/pathtothepeak/">Path to the Peak</a></li>
+				<li><a href="/anime/other/pokeminutes/">PokéMinutes</a></li>
+				<li><a href="/anime/other/pokevideodex/">PokéVideoDex</a></li>
+				<li><a href="/anime/other/goodmorningwithpokemon/">Good Morning with Pokémon</a></li>
+				<li><a href="/anime/other/">Other Animations</a></li>
+				<li><b>Other Series</b></li>
+				<li><a href="/pokemonconcierge/">Pokémon Concierge</a></li>
+				<li><a href="/pokemontales/">Pokémon Tales: The Misadventures of Sirfetch'd & Pichu</a></li>
+
+				<li><b>Live Action</b></li>
+				<li><a href="/poketsume/">PokéTsume</a></li>
+
+
+			</ul>
+		</li>
+
+		<li>
+			<a href="/games/" class="navheader">Video Games</a>
+			<ul>
+				<li><a href="/pokemon/generation10.shtml"><b>Gen X</b></li>
+				<li><a href="/windswaves/">Winds & Waves</a></li>
+
+				<li><a href="/pokemon/generation9.shtml"><b>Gen IX</b></a></li>
+				<li><a href="/scarletviolet/">Scarlet & Violet</a></li>
+				<li><a href="/legendsz-a/">Legends: Z-A</a></li>
+				<li><a href="/pokemonchampions/">Pokémon Champions</a></li>
+				<li><a href="/pokemonpokopia/">Pokémon Pokopia</a></li>
+				<li><a href="/pokemonfriends/">Pokémon Friends</a></li>
+				<li><a href="/pokemongo/">Pokémon GO</a></li>
+				<li><a href="/cafemix/">Pokémon Café ReMix</a></li>
+				<li><a href="/pokemonmasters/">Pokémon Masters EX</a></li>
+				<li><a href="/pokemonunite/">Pokémon UNITE</a></li>
+				<li><a href="/pokemonsleep/">Pokémon Sleep</a></li>
+				<li><a href="/detectivepikachureturns/">Detective Pikachu Returns</a></li>
+				<li><a href="/tcgpocket/">Pokémon TCG Pocket</a></li>
+
+				<li><a href="/pokemon/generation8.shtml"><b>Gen VIII</b></a></li>
+				<li><a href="/swordshield/">Sword & Shield</a></li>
+				<li><a href="/brilliantdiamondshiningpearl/">Brilliant Diamond & Shining Pearl</a></li>
+				<li><a href="/legendsarceus/">Pokémon Legends: Arceus</a></li>
+				<li><a href="/pokemonhome/">Pokémon HOME</a></li>
+				<li><a href="/pokemongo/">Pokémon GO</a></li>
+				<li><a href="/pokemonmasters/">Pokémon Masters EX</a></li>
+				<li><a href="/dungeonrescueteamdx/">Pokémon Mystery Dungeon Rescue Team DX</a></li>
+				<li><a href="/pokemonsmile/">Pokémon Smile</a></li>
+				<li><a href="/cafemix/">Pokémon Café ReMix</a></li>
+				<li><a href="/newpokemonsnap/">New Pokémon Snap</a></li>
+				<li><a href="/pokemonunite/">Pokémon UNITE</a></li>
+				<li><a href="/tcglive/">Pokémon TCG Live</a></li>
+
+				<li><a href="/pokemon/generation7.shtml"><b>Gen VII</b></a></li>
+				<li><a href="/sunmoon/">Sun & Moon</a></li>
+				<li><a href="/ultrasunultramoon/">Ultra Sun & Ultra Moon</a></li>
+				<li><a href="/letsgopikachueevee/">Let's Go, Pikachu! & Let's Go, Eevee!</a></li>
+				<li><a href="/pokemongo/">Pokémon GO</a></li>
+				<li><a href="/magikarpjump/">Pokémon: Magikarp Jump</a></li>
+				<li><a href="/rumblerush/">Pokémon Rumble Rush</a></li>
+				<li><a href="/pokkendx/">Pokkén Tournament DX</a></li>
+				<li><a href="/detective/">Detective Pikachu</a></li>
+				<li><a href="/quest/">Pokémon Quest</a></li>
+				<li><a href="/smashbrosultimate/">Super Smash Bros. Ultimate</a></li>
+				<li><a href="/pokemon/generation6.shtml"><b>Gen VI</b></a></li>
+				<li><a href="/xy/">X & Y</a></li>
+				<li><a href="/omegarubyalphasapphire/">Omega Ruby & Alpha Sapphire</a></li>
+				<li><a href="/bank/">Pokémon Bank</a></li>
+				<li><a href="/battletrozei/">Pokémon Battle TrozeiPokémon Link: Battle</a></li>
+				<li><a href="/artacademy/">Pokémon Art Academy</a></li>
+				<li><a href="/bandofthieves/">The Band of Thieves & 1000 Pokémon</a></li>
+				<li><a href="/shuffle/">Pokémon Shuffle</a></li>
+				<li><a href="/rumbleworld/">Pokémon Rumble World</a></li>
+				<li><a href="/supermysterydungeon/">Pokémon Super Mystery Dungeon</a></li>
+				<li><a href="/picross/">Pokémon Picross</a></li>
+				<li><a href="/detective/">Detective Pikachu</a></li>
+				<li><a href="/pokken/">Pokkén Tournament</a></li>
+				<li><a href="/duel/">Pokémon Duel</a></li>
+				<li><a href="/smashbros3dswiiu/">Smash Bros for 3DS/Wii U</a></li>
+				<li><a href="/games/badge/">Nintendo Badge Arcade</a></li>
+				<li><a href="/pokemon/generation5.shtml"><b>Gen V</b></a></li>
+				<li><a href="/blackwhite/">Black & White</a></li>
+				<li><a href="/black2white2/">Black 2 & White 2</a></li>
+				<li><a href="/dreamradar/">Pokémon Dream Radar</a></li>
+				<li><a href="/trettalab/">Pokémon Tretta Lab</a></li>
+				<li><a href="/rumbleu/">Pokémon Rumble U</a></li>
+				<li><a href="/dungeoninfinity/">Mystery Dungeon: Gates to Infinity</a></li>
+				<li><a href="/conquest/">Pokémon Conquest</a></li>
+				<li><a href="/pokepark2/">PokéPark 2: Wonders Beyond</a></li>
+				<li><a href="/rumble2/">Pokémon Rumble Blast</a></li>
+				<li><a href="/pokedex3d/">Pokédex 3D</a></li>
+				<li><a href="/pokedex3dpro/">Pokédex 3D Pro</a></li>
+				<li><a href="/typingds/">Learn With Pokémon: Typing Adventure</a></li>
+				<li><a href="/card/howtoplayds/">TCG How to Play DS</a></li>
+				<li><a href="/pokedexios/">Pokédex for iOS</a></li>
+				<li><a href="/pokemon/generation4.shtml"><b>Gen IV</b></a></li>
+				<li><a href="/diamondpearl/">Diamond & Pearl</a></li>
+				<li><a href="/platinum/">Platinum</a></li>
+				<li><a href="/heartgoldsoulsilver/">Heart Gold & Soul Silver</a></li>
+				<li><a href="/ranger3/">Pokémon Ranger: Guardian Signs</a></li>
+				<li><a href="/melee/">Pokémon Rumble</a></li>
+				<li><a href="/dungeon3/">Mystery Dungeon: Blazing, Stormy & Light Adventure Squad</a></li>
+				<li><a href="/pokepark/">PokéPark Wii - Pikachu's  Adventure</a></li>
+				<li><a href="/battle/">Pokémon Battle Revolution</a></li>
+				<li><a href="/dungeonsky/">Mystery Dungeon - Explorers of Sky</a></li>
+				<li><a href="/ranger2/">Pokémon Ranger: Shadows of Almia</a></li>
+				<li><a href="/dungeon2/">Mystery Dungeon - Explorers of Time & Darkness</a></li>
+				<li><a href="/ranch/">My Pokémon Ranch</a></li>
+				<li><a href="/ssbb/">Smash Bros Brawl</a></li>
+				<li><a href="/pokemon/generation3.shtml"><b>Gen III</b></a></li>
+				<li><a href="/rubysapphire/">Ruby & Sapphire</a></li>
+				<li><a href="/fireredleafgreen/">Fire Red & Leaf Green</a></li>
+				<li><a href="/emerald/">Emerald</a></li>
+				<li><a href="/colosseum/">Pokémon Colosseum</a></li>
+				<li><a href="/xd/">Pokémon XD: Gale of Darkness</a></li>
+				<li><a href="/dash/">Pokémon Dash</a></li>
+				<li><a href="/pokemon_channel/">Pokémon Channel</a></li>
+				<li><a href="/pokemon_box/">Pokémon Box: RS</a></li>
+				<li><a href="/pinball_rs/">Pokémon Pinball RS</a></li>
+				<li><a href="/ranger/">Pokémon Ranger</a></li>
+				<li><a href="/mysteriousdungeon/">Mystery Dungeon Red & Blue</a></li>
+				<li><a href="/torouze/">PokémonTrozei</a></li>
+				<li><a href="/pikachu/">Pikachu DS Tech Demo</a></li>
+				<li><a href="/pokeparkfish/">PokéPark Fishing Rally</a></li>
+				<li><a href="/e-reader/">The E-Reader</a></li>
+				<li><a href="/pokemate/">PokéMate</a></li>
+				<li><a href="/pokemon/generation2.shtml"><b>Gen II</b></a></li>
+				<li><a href="/gs/">Gold/Silver</a></li>
+				<li><a href="/crystal/">Crystal</a></li>
+				<li><a href="/stadium2/">Pokémon Stadium 2</a></li>
+				<li><a href="/puzzlechallenge/">Pokémon Puzzle Challenge</a></li>
+				<li><a href="/mini/">Pokémon Mini</a></li>
+				<li><a href="/smash_bros_2/">Super Smash Bros. Melee</a></li>
+				<li><a href="/pokemon/generation1.shtml"><b>Gen I</b></a></li>
+				<li><a href="/rb/">Red, Blue & Green</a></li>
+				<li><a href="/yellow/">Yellow</a></li>
+				<li><a href="/puzzleleague/">Pokémon Puzzle League</a></li>
+				<li><a href="/snap/">Pokémon Snap</a></li>
+				<li><a href="/pinball/">Pokémon Pinball</a></li>
+				<li><a href="/stadiumjp/">Pokémon Stadium (Japanese)</a></li>
+				<li><a href="/stadium/">Pokémon Stadium</a></li>
+				<li><a href="/tradingcardgamegb/">Pokémon Trading Card Game GB</a></li>
+				<li><a href="/smash_bros/">Super Smash Bros.</a></li>
+
+				<li><strong>Miscellaneous</strong></li>
+				<li><a href="/games/mechanics.shtml">Game Mechanics</a></li>
+				<li><a href="/playpokemon">Pokémon Championship Series</a></li>
+				<li><a href="/games/others.shtml">In Other Games</a></li>
+				<li><a href="/games/virtualconsole.shtml">Virtual Console</a></li>
+				<li><a href="/games/consoles.shtml">Special Edition Consoles</a></li>
+				<li><a href="/games/themes.shtml">Pokémon 3DS Themes</a></li>
+				<li><a href="/apps">Smartphone & Tablet Apps</a></li>
+				<li><a href="/virtualpet">Virtual Pets</a></li>
+				<li><a href="/amiibo">amiibo</a></li>
+				<li><a href="/nintendoswitchonline/">Nintendo Switch Online & Icons</a></li>
+				<li><strong>Board Game</strong></li>
+				<li><a href="/pokemongoita">Pokémon Goita</a></li>
+				<li><strong>Arcade</strong></li>
+				<li><a href="/frienda">Pokémon FRIENDA</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="/manga/" class="navheader">Manga</a>
+			<ul>
+				<li><a href="/manga/">General Information</a>
+				<li><a href="/manga/dex">MangaDex</a></li>
+				<li><a href="/manga/characters">Character BIOs</a></li>
+				<li><a href="/manga/characters-new">Detailed BIOs</a></li>
+				<li><a href="/manga/chapter.shtml">Chapter Guides</a></li>
+				<li><a href="/manga/volume.shtml">Volume Guides</a></li>
+				<li><a href="/manga/rby/">RBG Series</a></li>
+				<li><a href="/manga/yellow/">Yellow Series</a></li>
+				<li><a href="/manga/gsc/">GSC Series</a></li>
+				<li><a href="/manga/rs/">RS Series</a></li>
+				<li><a href="/manga/frlg/">FRLG Series</a></li>
+				<li><a href="/manga/bf/">Emerald Series</a></li>
+				<li><a href="/manga/dp/">DP Series</a></li>
+				<li><a href="/manga/pt/">Platinum Series</a></li>
+				<li><a href="/manga/hgss/">HGSS Series</a></li>
+				<li><a href="/manga/bw/">BW Series</a></li>
+				<li><a href="/manga/b2w2/">B2W2 Series</a></li>
+				<li><a href="/manga/xy/">XY Series</a></li>
+				<li><a href="/manga/oras/">ORAS Series</a></li>
+				<li><a href="/manga/sunmoon/">SM Series</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="/movies/" class="navheader">Movies</a>
+			<ul>
+				<li><strong>Anime</strong></li>
+				<li><a href="/movies/mewtwo/origin/">The Origin of Mewtwo</a></li>
+				<li><a href="/movies/mewtwo/">Mewtwo Strikes Back</a></li>
+				<li><a href="/movies/lugia/">The Power of One</a></li>
+				<li><a href="/movies/entei/">Spell Of The Unown</a></li>
+				<li><a href="/anime/epiguide/specials/002.shtml">Mewtwo Returns</a></li>
+				<li><a href="/movies/serebii/">Celebi: Voice of the Forest</a></li>
+				<li><a href="/movies/latias_latios/">Pokémon Heroes</a></li>
+				<li><a href="/movies/jirachi/">Jirachi - Wish Maker</a></li>
+				<li><a href="/movies/deoxys/">Destiny Deoxys!</a></li>
+				<li><a href="/movies/mew/">Lucario and the Mystery of Mew!</a></li>
+				<li><a href="/movies/kyogre/">Pokémon Ranger & The Temple of the Sea!</a></li>
+				<li><a href="/movies/dp/">The Rise of Darkrai!</a></li>
+				<li><a href="/movies/giratina/">Giratina & The Sky Warrior!</a></li>
+				<li><a href="/movies/arceus/">Arceus and the Jewel of Life</a></li>
+				<li><a href="/movies/celebi/">Zoroark - Master of Illusions</a></li>
+				<li><a href="/movies/victini/">Black: Victini & ReshiramWhite: Victini & Zekrom</a></li>
+				<li><a href="/movies/kyurem/">Kyurem VS The Sword of Justice</a></li>
+				<li><a href="/movies/meloetta/">-Meloetta's Midnight Serenade</a></li>
+				<li><a href="/movies/genesect/">Genesect and the Legend Awakened</a></li>
+				<li><a href="/movies/xy/">Diancie & The Cocoon of Destruction</a></li>
+				<li><a href="/movies/hoopa/">Hoopa & The Clash of Ages</a></li>
+				<li><a href="/movies/volcanion/">Volcanion and the Mechanical Marvel</a></li>
+				<li><a href="/movies/pokemon20/">Pokémon I Choose You!</a></li>
+				<li><a href="/movies/thepowerofus/">Pokémon The Power of Us</a></li>
+				<li><a href="/movies/mewtwoevolution/">Mewtwo Strikes Back Evolution</a></li>
+				<li><a href="/movies/secretsofthejungle/">Secrets of the Jungle</a></li>
+				<li><a href="/movies/pokemonwildcard/">Wild Card</a></li>
+				<li><strong>Live Action</strong></li>
+				<li><a href="/movies/detectivepikachu/">Pokémon Detective Pikachu</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="/movies/" class="navheader">Pikachu Shorts</a>
+			<ul>
+				<li><a href="/movies/pikachu1/">Pikachu's Summer Vacation</a></li>
+				<li><a href="/movies/pikachu2/">Pikachu's Rescue Adventure</a></li>
+				<li><a href="/movies/pikachu3/">Pikachu And Pichu</a></li>
+				<li><a href="/movies/pikachu4/">Pikachu's PikaBoo</a></li>
+				<li><a href="/movies/pikachu5/">Camp Pikachu!</a></li>
+				<li><a href="/movies/pikachu6/">Gotta Dance!!</a></li>
+				<li><a href="/movies/pikachu7/">Pikachu's Summer Festival!</a></li>
+				<li><a href="/movies/pikachu8/">Pikachu's Ghost Festival!</a></li>
+				<li><a href="/movies/pikachu9/">Pikachu's Island Adventure!</a></li>
+				<li><a href="/movies/pikachu10/">Pikachu's Exploration Club</a></li>
+				<li><a href="/movies/pikachu11/">Pikachu's Great Ice Adventure</a></li>
+				<li><a href="/movies/pikachu12/">Pikachu's Sparkling Search</a></li>
+				<li><a href="/movies/pikachu13/">Pikachu's Really Mysterious Adventure</a></li>
+				<li><a href="/movies/eevee/">Eevee & Friends</a></li>
+				<li><a href="/movies/klefki/">Pikachu, What's This Key?</a></li>
+				<li><a href="/movies/pikachumusic/">Pikachu & The Pokémon Music Squad</a></li>
+			</ul>
+		</li>
+
+		<li>
+			<a href="/card/" class="navheader">Trading Cards</a>
+			<ul>
+				<li><a href="/tcglive/">Pokémon TCG Live</a></li>
+				<li><a href="/card/dex/">Cardex</a></li>
+				<li><a href="/card/dex/extra">-Extra Pokémon Types</a></li>
+				<li><a href="/card/dex/trainers">Trainer Cards</a></li>
+				<li><a href="/card/dex/energy">Energy Cards</a></li>
+				<li><a href="/card/dex/extra/altart.shtml">Alternate Art Cards</a></li>
+				<li><a href="/card/raidbattles">Raid Battles</a></li>
+				<li><a href="/card/classic/">Pokémon TCG Classic</a></li>
+				<li><a href="/card/english.shtml"><b>English Sets</b></a></li>
+				<li><a href="/card/deltareign/">-Delta Reign</a></li>
+				<li><a href="/card/30thcelebration/">-30th Celebration</a></li>
+				<li><a href="/card/pitchblack/">-Pitch Black</a></li>
+				<li><a href="/card/chaosrising/">-Chaos Rising</a></li>
+				<li><a href="/card/perfectorder/">-Perfect Order</a></li>
+				<li><a href="/card/ascendedheroes/">-Ascended Heroes</a></li>
+				<li><a href="/card/phantasmalflames/">-Phantasmal Flames</a></li>
+				<li><a href="/card/megaevolution/">-Mega Evolution</a></li>
+				<li><a href="/card/blackbolt/">-Black Bolt</a></li>
+				<li><a href="/card/whiteflare/">-White Flare</a></li>
+				<li><a href="/card/destinedrivals/">-Destined Rivals</a></li>
+				<li><a href="/card/journeytogether/">-Journey Together</a></li>
+				<li><a href="/card/prismaticevolutions/">-Prismatic Evolutions</a></li>
+				<li><a href="/card/surgingsparks/">-Surging Sparks</a></li>
+				<li><a href="/card/stellarcrown/">-Stellar Crown</a></li>
+				<li><a href="/card/shroudedfable/">-Shrouded Fable</a></li>
+				<li><a href="/card/twilightmasquerade/">-Twilight Masquerade</a></li>
+				<li><a href="/card/temporalforces/">-Temporal Forces</a></li>
+				<li><a href="/card/paldeanfates/">-Paldean Fates</a></li>
+				<li><a href="/card/paradoxrift/">-Paradox Rift</a></li>
+				<li><a href="/card/151/">-151</a></li>
+				<li><a href="/card/obsidianflames/">-Obsidian Flames</a></li>
+				<li><a href="/card/paldeaevolved/">-Paldea Evolved</a></li>
+				<li><a href="/card/scarletviolet/">-Scarlet Violet</a></li>
+				<li><a href="/card/swsh.shtml">-SWSH Series</a></li>
+				<li><a href="/card/sm.shtml">-SM Series</a></li>
+				<li><a href="/card/xy.shtml">-XY Series</a></li>
+				<li><a href="/card/bw.shtml">-BW Series</a></li>
+				<li><a href="/card/dpt.shtml">-DPtHS Series</a></li>
+				<li><a href="/card/ex.shtml">-EX Series</a></li>
+				<li><a href="/card/neo.shtml">-Neo/eSeries</a></li>
+				<li><a href="/card/first.shtml">-First Gen Series</a></li>
+				<li><a href="/card/engpromo.shtml"><b>English Promos</b></a></li>
+				<li><a href="/card/megapromos">-Mega Promos</a></li>
+				<li><a href="/card/svpromos">-SV Promos</a></li>
+				<li><a href="/card/swshpromos">-SWSH Promos</a></li>
+				<li><a href="/card/smpromos">-SM Promos</a></li>
+				<li><a href="/card/xypromos">-XY Promos</a></li>
+				<li><a href="/card/popseries.shtml">-POP Series</a></li>
+				<li><a href="/card/japanese.shtml"><b>Japanese Sets</b></a></li>
+				<li><a href="/card/abysseye/">-Abyss Eye</a></li>
+				<li><a href="/card/ninjaspinner/">-Ninja Spinner</a></li>
+				<li><a href="/card/nihilzero/">-Nihil Zero</a></li>
+				<li><a href="/card/megadreamex/">-Mega Dream ex</a></li>
+				<li><a href="/card/infernox/">-Inferno X</a></li>
+				<li><a href="/card/megabrave/">-Mega Brave</a></li>
+				<li><a href="/card/megasymphonia/">-Mega Symphonia</a></li>
+				<li><a href="/card/blackbolt-jp/">-Black Bolt</a></li>
+				<li><a href="/card/whiteflare-jp/">-White Flare</a></li>
+				<li><a href="/card/gloryofteamrocket/">-Glory of Team Rocket</a></li>
+				<li><a href="/card/hotairarena/">-Hot Air Arena</a></li>
+				<li><a href="/card/battlepartners/">-Battle Partners</a></li>
+				<li><a href="/card/terastalfestivalex/">-Terastal Festival ex</a></li>
+				<li><a href="/card/superelectricbreaker/">-Super Electric Breaker</a></li>
+				<li><a href="/card/paradisedragona/">-Paradise Dragona</a></li>
+				<li><a href="/card/stellarmiracle/">-Stellar Miracle</a></li>
+				<li><a href="/card/nightwanderer/">-Night Wanderer</a></li>
+				<li><a href="/card/maskofchange/">-Mask of Change</a></li>
+				<li><a href="/card/crimsonhaze/">-Crimson Haze</a></li>
+				<li><a href="/card/wildforce/">-Wild Force</a></li>
+				<li><a href="/card/cyberjudge/">-Cyber Judge</a></li>
+				<li><a href="/card/vstaruniverse/">-VSTAR Universe</a></li>
+				<li><a href="/card/vs">-Pokémon VS</a></li>
+				<li><a href="/card/jppromo.shtml"><b>Japanese Promos</b></a></li>
+				<li><a href="/card/svpromo">-SV Promos</a></li>
+				<li><a href="/card/spromo">-S Promos</a></li>
+				<li><a href="/card/smpromo">-SM Promos</a></li>
+
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+<script type="text/javascript">
+
+function loadMobileLbar(){
+	var tbar_lbar_open=document.getElementById('tbar_lbar_open'),
+		tbar_backdrop=document.getElementById('tbar_backdrop'),
+		lbar=document.getElementById('lbar'),
+		lbarLIs=document.querySelectorAll("#lbar_ul>li .navheader"),
+		lbarLIULs=document.querySelectorAll("#lbar_ul>li>ul");
+
+	/* lbar display/hide */
+	tbar_lbar_open.onclick=function() {
+		if (lbar.className.indexOf("show") > -1){//hide
+			lbar.className = lbar.className.replace("show","");
+			bodyRemoveClass("nav_modal");
+		} else{//show
+			lbar.classList.add("show");
+			bodyAddClass("nav_modal");
+		}
+
+		return false;
+	}
+
+
+	/* background clicked when bar shown */
+	tbar_backdrop.onclick=function() {// if the backdrop is clicked, hide menus
+		lbar.className = lbar.className.replace("show","");
+		rbar.className = rbar.className.replace("show","");
+		bodyRemoveClass("nav_modal");
+		return false;
+	}
+
+	/* handle expand/collapse sub-menus in lbar by attaching click events */
+	for(i=0; i<lbarLIs.length; i++){
+		lbarLIs[i].onclick=function(i) {
+			var elem=this.parentNode.getElementsByTagName("UL")[0];
+			var elemDisp=(elem.className.indexOf("show") === -1)
+
+			// hide all ul, then open one if clicked
+			for(i2=0; i2<lbarLIULs.length; i2++){
+				lbarLIULs[i2].className = lbarLIULs[i2].className.replace("show","");
+			}
+
+			if(elemDisp){
+				elem.classList.add("show");
+			}
+
+			return false;
+		}
+	}
+}
+function loadMobileRbar(){
+	var tbar_rbar_open=document.getElementById('tbar_rbar_open'),
+		rbar=document.getElementById('rbar');
+
+	/* rbar display/hide */
+	tbar_rbar_open.onclick=function() {
+		if (rbar.className.indexOf("show") > -1){//hide
+			rbar.className = rbar.className.replace("show","");
+			bodyRemoveClass("nav_modal");
+		} else{//show
+			rbar.classList.add("show");
+			bodyAddClass("nav_modal");
+		}
+
+		return false;
+	}
+}
+
+loadMobileLbar();
+
+/* attach listener to for rbar events AFTER page loads (because #rbar hasn't loaded at this point in page ) */
+if(window.addEventListener){
+	window.addEventListener('load', loadMobileRbar)
+} else{
+	window.attachEvent('onload', loadMobileRbar)
+}
+</script>
+
+
+
+<div id="content">
+		<div class="center" style="margin-top:16px;height:100px"><div id="nn_lb1"></div><div id="nn_mobile_lb1"></div></div>
+<main>
+
+
+<div align=center><table align=center width="98%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td align=center><FORM NAME="nav"><DIV>
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav.SelectURL.options[document.nav.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+ <option>AttackDex: A - G</option></option>
+<option value="/attackdex/absorb.shtml">Absorb </option>
+<option value="/attackdex/acid.shtml">Acid </option>
+<option value="/attackdex/acidarmor.shtml">Acid Armor </option>
+<option value="/attackdex/aerialace.shtml">Aerial Ace </option>
+<option value="/attackdex/aeroblast.shtml">Aeroblast </option>
+<option value="/attackdex/agility.shtml">Agility </option>
+<option value="/attackdex/aircutter.shtml">Air Cutter </option>
+<option value="/attackdex/amnesia.shtml">Amnesia </option>
+<option value="/attackdex/ancientpower.shtml">Ancientpower </option>
+<option value="/attackdex/armthrust.shtml">Arm Thrust </option>
+<option value="/attackdex/aromatherapy.shtml">Aromatherapy </option>
+<option value="/attackdex/assist.shtml">Assist </option>
+<option value="/attackdex/astonish.shtml">Astonish </option>
+<option value="/attackdex/attract.shtml">Attract </option>
+<option value="/attackdex/aurorabeam.shtml">Aurora Beam </option>
+<option value="/attackdex/barrage.shtml">Barrage </option>
+<option value="/attackdex/barrier.shtml">Barrier </option>
+<option value="/attackdex/batonpass.shtml">Baton Pass </option>
+<option value="/attackdex/beatup.shtml">Beat Up </option>
+<option value="/attackdex/bellydrum.shtml">Belly Drum </option>
+<option value="/attackdex/bide.shtml">Bide </option>
+<option value="/attackdex/bind.shtml">Bind </option>
+<option value="/attackdex/bite.shtml">Bite </option>
+<option value="/attackdex/blastburn.shtml">Blast Burn </option>
+<option value="/attackdex/blazekick.shtml">Blaze Kick </option>
+<option value="/attackdex/blizzard.shtml">Blizzard </option>
+<option value="/attackdex/block.shtml">Block </option>
+<option value="/attackdex/bodyslam.shtml">Body Slam </option>
+<option value="/attackdex/boneclub.shtml">Bone Club </option>
+<option value="/attackdex/bonerush.shtml">Bone Rush </option>
+<option value="/attackdex/bonemerang.shtml">Bonemerang </option>
+<option value="/attackdex/bounce.shtml">Bounce </option>
+<option value="/attackdex/brickbreak.shtml">Brick Break </option>
+<option value="/attackdex/bubble.shtml">Bubble </option>
+<option value="/attackdex/bubblebeam.shtml">Bubblebeam </option>
+<option value="/attackdex/bulkup.shtml">Bulk Up </option>
+<option value="/attackdex/bulletseed.shtml">Bullet Seed </option>
+<option value="/attackdex/calmmind.shtml">Calm Mind </option>
+<option value="/attackdex/camouflage.shtml">Camouflage </option>
+<option value="/attackdex/charge.shtml">Charge </option>
+<option value="/attackdex/charm.shtml">Charm </option>
+<option value="/attackdex/clamp.shtml">Clamp </option>
+<option value="/attackdex/cometpunch.shtml">Comet Punch </option>
+<option value="/attackdex/confuseray.shtml">Confuse Ray </option>
+<option value="/attackdex/confusion.shtml">Confusion </option>
+<option value="/attackdex/constrict.shtml">Constrict </option>
+<option value="/attackdex/conversion.shtml">Conversion </option>
+<option value="/attackdex/conversion2.shtml">Conversion 2 </option>
+<option value="/attackdex/cosmicpower.shtml">Cosmic Power </option>
+<option value="/attackdex/cottonspore.shtml">Cotton Spore </option>
+<option value="/attackdex/counter.shtml">Counter </option>
+<option value="/attackdex/covet.shtml">Covet </option>
+<option value="/attackdex/crabhammer.shtml">Crabhammer </option>
+<option value="/attackdex/crosschop.shtml">Cross Chop </option>
+<option value="/attackdex/crunch.shtml">Crunch </option>
+<option value="/attackdex/crushclaw.shtml">Crush Claw </option>
+<option value="/attackdex/curse.shtml">Curse </option>
+<option value="/attackdex/cut.shtml">Cut </option>
+<option value="/attackdex/defensecurl.shtml">Defense Curl </option>
+<option value="/attackdex/destinybond.shtml">Destiny Bond </option>
+<option value="/attackdex/detect.shtml">Detect </option>
+<option value="/attackdex/dig.shtml">Dig </option>
+<option value="/attackdex/disable.shtml">Disable </option>
+<option value="/attackdex/dive.shtml">Dive </option>
+<option value="/attackdex/dizzypunch.shtml">Dizzy Punch </option>
+<option value="/attackdex/doomdesire.shtml">Doom Desire </option>
+<option value="/attackdex/doublekick.shtml">Double Kick </option>
+<option value="/attackdex/doubleteam.shtml">Double Team </option>
+<option value="/attackdex/double-edge.shtml">Double-Edge </option>
+<option value="/attackdex/doubleslap.shtml">Doubleslap </option>
+<option value="/attackdex/dragonclaw.shtml">Dragon Claw </option>
+<option value="/attackdex/dragondance.shtml">Dragon Dance </option>
+<option value="/attackdex/dragonrage.shtml">Dragon Rage </option>
+<option value="/attackdex/dragonbreath.shtml">Dragonbreath </option>
+<option value="/attackdex/dreameater.shtml">Dream Eater </option>
+<option value="/attackdex/drillpeck.shtml">Drill Peck </option>
+<option value="/attackdex/dynamicpunch.shtml">Dynamicpunch </option>
+<option value="/attackdex/earthquake.shtml">Earthquake </option>
+<option value="/attackdex/eggbomb.shtml">Egg Bomb </option>
+<option value="/attackdex/ember.shtml">Ember </option>
+<option value="/attackdex/encore.shtml">Encore </option>
+<option value="/attackdex/endeavor.shtml">Endeavor </option>
+<option value="/attackdex/endure.shtml">Endure </option>
+<option value="/attackdex/eruption.shtml">Eruption </option>
+<option value="/attackdex/explosion.shtml">Explosion </option>
+<option value="/attackdex/extrasensory.shtml">Extrasensory </option>
+<option value="/attackdex/extremespeed.shtml">Extremespeed </option>
+<option value="/attackdex/facade.shtml">Facade </option>
+<option value="/attackdex/faintattack.shtml">Faint Attack </option>
+<option value="/attackdex/fakeout.shtml">Fake Out </option>
+<option value="/attackdex/faketears.shtml">Fake Tears </option>
+<option value="/attackdex/falseswipe.shtml">False Swipe </option>
+<option value="/attackdex/featherdance.shtml">Featherdance </option>
+<option value="/attackdex/fireblast.shtml">Fire Blast </option>
+<option value="/attackdex/firepunch.shtml">Fire Punch </option>
+<option value="/attackdex/firespin.shtml">Fire Spin </option>
+<option value="/attackdex/fissure.shtml">Fissure </option>
+<option value="/attackdex/flail.shtml">Flail </option>
+<option value="/attackdex/flamewheel.shtml">Flame Wheel </option>
+<option value="/attackdex/flamethrower.shtml">Flamethrower </option>
+<option value="/attackdex/flash.shtml">Flash </option>
+<option value="/attackdex/flatter.shtml">Flatter </option>
+<option value="/attackdex/fly.shtml">Fly </option>
+<option value="/attackdex/focusenergy.shtml">Focus Energy </option>
+<option value="/attackdex/focuspunch.shtml">Focus Punch </option>
+<option value="/attackdex/followme.shtml">Follow Me </option>
+<option value="/attackdex/foresight.shtml">Foresight </option>
+<option value="/attackdex/frenzyplant.shtml">Frenzy Plant </option>
+<option value="/attackdex/frustration.shtml">Frustration </option>
+<option value="/attackdex/furyattack.shtml">Fury Attack </option>
+<option value="/attackdex/furycutter.shtml">Fury Cutter </option>
+<option value="/attackdex/furyswipes.shtml">Fury Swipes </option>
+<option value="/attackdex/futuresight.shtml">Future Sight </option>
+<option value="/attackdex/gigadrain.shtml">Giga Drain </option>
+<option value="/attackdex/glare.shtml">Glare </option>
+<option value="/attackdex/grasswhistle.shtml">Grasswhistle </option>
+<option value="/attackdex/growl.shtml">Growl </option>
+<option value="/attackdex/growth.shtml">Growth </option>
+<option value="/attackdex/grudge.shtml">Grudge </option>
+<option value="/attackdex/guillotine.shtml">Guillotine </option>
+<option value="/attackdex/gust.shtml">Gust </option>
+</SELECT><DIV> </FORM></td>
+<td align=center>
+<FORM NAME="nav2"><DIV>
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav2.SelectURL.options[document.nav2.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+ <option>AttackDex: H - R</option></option>
+<option value="/attackdex/hail.shtml">Hail </option>
+<option value="/attackdex/harden.shtml">Harden </option>
+<option value="/attackdex/haze.shtml">Haze </option>
+<option value="/attackdex/headbutt.shtml">Headbutt </option>
+<option value="/attackdex/healbell.shtml">Heal Bell </option>
+<option value="/attackdex/heartswap.shtml">Heart Swap </option>
+<option value="/attackdex/heatwave.shtml">Heat Wave </option>
+<option value="/attackdex/helpinghand.shtml">Helping Hand </option>
+<option value="/attackdex/hijumpkick.shtml">Hi Jump Kick </option>
+<option value="/attackdex/hiddenpower.shtml">Hidden Power </option>
+<option value="/attackdex/hornattack.shtml">Horn Attack </option>
+<option value="/attackdex/horndrill.shtml">Horn Drill </option>
+<option value="/attackdex/howl.shtml">Howl </option>
+<option value="/attackdex/hydrocannon.shtml">Hydro Cannon </option>
+<option value="/attackdex/hydropump.shtml">Hydro Pump </option>
+<option value="/attackdex/hyperbeam.shtml">Hyper Beam </option>
+<option value="/attackdex/hyperfang.shtml">Hyper Fang </option>
+<option value="/attackdex/hypervoice.shtml">Hyper Voice </option>
+<option value="/attackdex/hypnosis.shtml">Hypnosis </option>
+<option value="/attackdex/iceball.shtml">Ice Ball </option>
+<option value="/attackdex/icebeam.shtml">Ice Beam </option>
+<option value="/attackdex/icepunch.shtml">Ice Punch </option>
+<option value="/attackdex/iciclespear.shtml">Icicle Spear </option>
+<option value="/attackdex/icywind.shtml">Icy Wind </option>
+<option value="/attackdex/imprison.shtml">Imprison </option>
+<option value="/attackdex/ingrain.shtml">Ingrain </option>
+<option value="/attackdex/irondefense.shtml">Iron Defense </option>
+<option value="/attackdex/irontail.shtml">Iron Tail </option>
+<option value="/attackdex/jumpkick.shtml">Jump Kick </option>
+<option value="/attackdex/karatechop.shtml">Karate Chop </option>
+<option value="/attackdex/kinesis.shtml">Kinesis </option>
+<option value="/attackdex/knockoff.shtml">Knock Off </option>
+<option value="/attackdex/leafblade.shtml">Leaf Blade </option>
+<option value="/attackdex/leechlife.shtml">Leech Life </option>
+<option value="/attackdex/leechseed.shtml">Leech Seed </option>
+<option value="/attackdex/leer.shtml">Leer </option>
+<option value="/attackdex/lick.shtml">Lick </option>
+<option value="/attackdex/lightscreen.shtml">Light Screen </option>
+<option value="/attackdex/lock-on.shtml">Lock-On </option>
+<option value="/attackdex/lovelykiss.shtml">Lovely Kiss </option>
+<option value="/attackdex/lowkick.shtml">Low Kick </option>
+<option value="/attackdex/lusterpurge.shtml">Luster Purge </option>
+<option value="/attackdex/machpunch.shtml">Mach Punch </option>
+<option value="/attackdex/magiccoat.shtml">Magic Coat </option>
+<option value="/attackdex/magicalleaf.shtml">Magical Leaf </option>
+<option value="/attackdex/magnitude.shtml">Magnitude </option>
+<option value="/attackdex/meanlook.shtml">Mean Look </option>
+<option value="/attackdex/meditate.shtml">Meditate </option>
+<option value="/attackdex/megadrain.shtml">Mega Drain </option>
+<option value="/attackdex/megakick.shtml">Mega Kick </option>
+<option value="/attackdex/megapunch.shtml">Mega Punch </option>
+<option value="/attackdex/megahorn.shtml">Megahorn </option>
+<option value="/attackdex/memento.shtml">Memento </option>
+<option value="/attackdex/metalclaw.shtml">Metal Claw </option>
+<option value="/attackdex/metalsound.shtml">Metal Sound </option>
+<option value="/attackdex/meteormash.shtml">Meteor Mash </option>
+<option value="/attackdex/meteoricswarm.shtml">Meteoric Swarm </option>
+<option value="/attackdex/metronome.shtml">Metronome </option>
+<option value="/attackdex/milkdrink.shtml">Milk Drink </option>
+<option value="/attackdex/mimic.shtml">Mimic </option>
+<option value="/attackdex/mindreader.shtml">Mind Reader </option>
+<option value="/attackdex/minimize.shtml">Minimize </option>
+<option value="/attackdex/mirrorcoat.shtml">Mirror Coat </option>
+<option value="/attackdex/mirrormove.shtml">Mirror Move </option>
+<option value="/attackdex/mist.shtml">Mist </option>
+<option value="/attackdex/mistball.shtml">Mist Ball </option>
+<option value="/attackdex/moonlight.shtml">Moonlight </option>
+<option value="/attackdex/morningsun.shtml">Morning Sun </option>
+<option value="/attackdex/mudshot.shtml">Mud Shot </option>
+<option value="/attackdex/mudsport.shtml">Mud Sport </option>
+<option value="/attackdex/muddywater.shtml">Muddy Water </option>
+<option value="/attackdex/mud-slap.shtml">Mud-Slap </option>
+<option value="/attackdex/naturepower.shtml">Nature Power </option>
+<option value="/attackdex/needlearm.shtml">Needle Arm </option>
+<option value="/attackdex/nightshade.shtml">Night Shade </option>
+<option value="/attackdex/nightmare.shtml">Nightmare </option>
+<option value="/attackdex/octazooka.shtml">Octazooka </option>
+<option value="/attackdex/odorsleuth.shtml">Odor Sleuth </option>
+<option value="/attackdex/outrage.shtml">Outrage </option>
+<option value="/attackdex/overheat.shtml">Overheat </option>
+<option value="/attackdex/painsplit.shtml">Pain Split </option>
+<option value="/attackdex/payday.shtml">Pay Day </option>
+<option value="/attackdex/peck.shtml">Peck </option>
+<option value="/attackdex/perishsong.shtml">Perish Song </option>
+<option value="/attackdex/petaldance.shtml">Petal Dance </option>
+<option value="/attackdex/pinmissile.shtml">Pin Missile </option>
+<option value="/attackdex/poisonfang.shtml">Poison Fang </option>
+<option value="/attackdex/poisongas.shtml">Poison Gas </option>
+<option value="/attackdex/poisonsting.shtml">Poison Sting </option>
+<option value="/attackdex/poisontail.shtml">Poison Tail </option>
+<option value="/attackdex/poisonpowder.shtml">Poisonpowder </option>
+<option value="/attackdex/pound.shtml">Pound </option>
+<option value="/attackdex/powdersnow.shtml">Powder Snow </option>
+<option value="/attackdex/present.shtml">Present </option>
+<option value="/attackdex/protect.shtml">Protect </option>
+<option value="/attackdex/psybeam.shtml">Psybeam </option>
+<option value="/attackdex/psychup.shtml">Psych Up </option>
+<option value="/attackdex/psychic.shtml">Psychic </option>
+<option value="/attackdex/psychoboost.shtml">Psycho Boost </option>
+<option value="/attackdex/psywave.shtml">Psywave </option>
+<option value="/attackdex/pursuit.shtml">Pursuit </option>
+<option value="/attackdex/quickattack.shtml">Quick Attack </option>
+<option value="/attackdex/rage.shtml">Rage </option>
+<option value="/attackdex/raindance.shtml">Rain Dance </option>
+<option value="/attackdex/rapidspin.shtml">Rapid Spin </option>
+<option value="/attackdex/razorleaf.shtml">Razor Leaf </option>
+<option value="/attackdex/razorwind.shtml">Razor Wind </option>
+<option value="/attackdex/recover.shtml">Recover </option>
+<option value="/attackdex/recycle.shtml">Recycle </option>
+<option value="/attackdex/reflect.shtml">Reflect </option>
+<option value="/attackdex/refresh.shtml">Refresh </option>
+<option value="/attackdex/rest.shtml">Rest </option>
+<option value="/attackdex/return.shtml">Return </option>
+<option value="/attackdex/revenge.shtml">Revenge </option>
+<option value="/attackdex/reversal.shtml">Reversal </option>
+<option value="/attackdex/roar.shtml">Roar </option>
+<option value="/attackdex/rockblast.shtml">Rock Blast </option>
+<option value="/attackdex/rockslide.shtml">Rock Slide </option>
+<option value="/attackdex/rocksmash.shtml">Rock Smash </option>
+<option value="/attackdex/rockthrow.shtml">Rock Throw </option>
+<option value="/attackdex/rocktomb.shtml">Rock Tomb </option>
+<option value="/attackdex/roleplay.shtml">Role Play </option>
+<option value="/attackdex/rollingkick.shtml">Rolling Kick </option>
+<option value="/attackdex/rollout.shtml">Rollout</option>
+</SELECT><DIV> </FORM></td>
+<td align=center> <FORM NAME="nav4"><DIV>
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav4.SelectURL.options[document.nav4.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+ <option>AttackDex: S - Z</option></option>
+<option value="/attackdex/sacredfire.shtml">Sacred Fire </option>
+<option value="/attackdex/safeguard.shtml">Safeguard </option>
+<option value="/attackdex/sandtomb.shtml">Sand Tomb </option>
+<option value="/attackdex/sand-attack.shtml">Sand-Attack </option>
+<option value="/attackdex/sandstorm.shtml">Sandstorm </option>
+<option value="/attackdex/scaryface.shtml">Scary Face </option>
+<option value="/attackdex/scratch.shtml">Scratch </option>
+<option value="/attackdex/screech.shtml">Screech </option>
+<option value="/attackdex/secretpower.shtml">Secret Power </option>
+<option value="/attackdex/seismictoss.shtml">Seismic Toss </option>
+<option value="/attackdex/selfdestruct.shtml">Selfdestruct </option>
+<option value="/attackdex/shadowball.shtml">Shadow Ball </option>
+<option value="/attackdex/shadowblast.shtml">Shadow Blast</option>
+<option value="/attackdex/shadowattack.shtml">Shadow Blitz
+<option value="/attackdex/shadowbolt.shtml">Shadow Bolt</option>
+<option value="/attackdex/shadowbreak.shtml">Shadow Break </option>
+<option value="/attackdex/shadowchill.shtml">Shadow Chill</option>
+<option value="/attackdex/shadowdown.shtml">Shadow Down</option>
+<option value="/attackdex/shadowend.shtml">Shadow End </option>
+<option value="/attackdex/shadowfire.shtml">Shadow Fire</option>
+<option value="/attackdex/shadowhalf.shtml">Shadow Half</option>
+<option value="/attackdex/shadowhold.shtml">Shadow Hold</option>
+<option value="/attackdex/shadowmist.shtml">Shadow Mist</option>
+<option value="/attackdex/shadowpanic.shtml">Shadow Panic</option>
+<option value="/attackdex/shadowpunch.shtml">Shadow Punch </option>
+<option value="/attackdex/shadowrave.shtml">Shadow Rave</option>
+<option value="/attackdex/shadowrush1.shtml">Shadow Rush (Col)</option>
+<option value="/attackdex/shadowrush2.shtml">Shadow Rush (XD)</option>
+<option value="/attackdex/shadowshed.shtml">Shadow Shed
+<option value="/attackdex/shadowsky.shtml">Shadow Sky</option>
+<option value="/attackdex/shadowstorm.shtml">Shadow Storm</option>
+<option value="/attackdex/shadowwave.shtml">Shadow Wave</option>
+<option value="/attackdex/sharpen.shtml">Sharpen </option>
+<option value="/attackdex/sheercold.shtml">Sheer Cold </option>
+<option value="/attackdex/shockwave.shtml">Shock Wave </option>
+<option value="/attackdex/signalbeam.shtml">Signal Beam </option>
+<option value="/attackdex/silverwind.shtml">Silver Wind </option>
+<option value="/attackdex/sing.shtml">Sing </option>
+<option value="/attackdex/sketch.shtml">Sketch </option>
+<option value="/attackdex/skillswap.shtml">Skill Swap </option>
+<option value="/attackdex/skullbash.shtml">Skull Bash </option>
+<option value="/attackdex/skyattack.shtml">Sky Attack </option>
+<option value="/attackdex/skyuppercut.shtml">Sky Uppercut </option>
+<option value="/attackdex/slackoff.shtml">Slack Off </option>
+<option value="/attackdex/slam.shtml">Slam </option>
+<option value="/attackdex/slash.shtml">Slash </option>
+<option value="/attackdex/sleeppowder.shtml">Sleep Powder </option>
+<option value="/attackdex/sleeptalk.shtml">Sleep Talk </option>
+<option value="/attackdex/sludge.shtml">Sludge </option>
+<option value="/attackdex/sludgebomb.shtml">Sludge Bomb </option>
+<option value="/attackdex/smellingsalt.shtml">Smellingsalt </option>
+<option value="/attackdex/smog.shtml">Smog </option>
+<option value="/attackdex/smokescreen.shtml">Smokescreen </option>
+<option value="/attackdex/snatch.shtml">Snatch </option>
+<option value="/attackdex/snore.shtml">Snore </option>
+<option value="/attackdex/softboiled.shtml">Softboiled </option>
+<option value="/attackdex/solarbeam.shtml">Solarbeam </option>
+<option value="/attackdex/sonicboom.shtml">Sonicboom </option>
+<option value="/attackdex/spark.shtml">Spark </option>
+<option value="/attackdex/spiderweb.shtml">Spider Web </option>
+<option value="/attackdex/spikecannon.shtml">Spike Cannon </option>
+<option value="/attackdex/spikes.shtml">Spikes </option>
+<option value="/attackdex/spitup.shtml">Spit Up </option>
+<option value="/attackdex/spite.shtml">Spite </option>
+<option value="/attackdex/splash.shtml">Splash </option>
+<option value="/attackdex/spore.shtml">Spore </option>
+<option value="/attackdex/steelwing.shtml">Steel Wing </option>
+<option value="/attackdex/stockpile.shtml">Stockpile </option>
+<option value="/attackdex/stomp.shtml">Stomp </option>
+<option value="/attackdex/strength.shtml">Strength </option>
+<option value="/attackdex/stringshot.shtml">String Shot </option>
+<option value="/attackdex/struggle.shtml">Struggle </option>
+<option value="/attackdex/stunspore.shtml">Stun Spore </option>
+<option value="/attackdex/submission.shtml">Submission </option>
+<option value="/attackdex/substitute.shtml">Substitute </option>
+<option value="/attackdex/sunnyday.shtml">Sunny Day </option>
+<option value="/attackdex/superfang.shtml">Super Fang </option>
+<option value="/attackdex/superpower.shtml">Superpower </option>
+<option value="/attackdex/supersonic.shtml">Supersonic </option>
+<option value="/attackdex/surf.shtml">Surf </option>
+<option value="/attackdex/swagger.shtml">Swagger </option>
+<option value="/attackdex/swallow.shtml">Swallow </option>
+<option value="/attackdex/sweetkiss.shtml">Sweet Kiss </option>
+<option value="/attackdex/sweetscent.shtml">Sweet Scent </option>
+<option value="/attackdex/swift.shtml">Swift </option>
+<option value="/attackdex/swordsdance.shtml">Swords Dance </option>
+<option value="/attackdex/synthesis.shtml">Synthesis </option>
+<option value="/attackdex/tackle.shtml">Tackle </option>
+<option value="/attackdex/tailglow.shtml">Tail Glow </option>
+<option value="/attackdex/tailwhip.shtml">Tail Whip </option>
+<option value="/attackdex/takedown.shtml">Take Down </option>
+<option value="/attackdex/taunt.shtml">Taunt </option>
+<option value="/attackdex/teeterdance.shtml">Teeter Dance </option>
+<option value="/attackdex/teleport.shtml">Teleport </option>
+<option value="/attackdex/thief.shtml">Thief </option>
+<option value="/attackdex/thrash.shtml">Thrash </option>
+<option value="/attackdex/thunder.shtml">Thunder </option>
+<option value="/attackdex/thunderwave.shtml">Thunder Wave </option>
+<option value="/attackdex/thunderbolt.shtml">Thunderbolt </option>
+<option value="/attackdex/thunderpunch.shtml">Thunderpunch </option>
+<option value="/attackdex/thundershock.shtml">Thundershock </option>
+<option value="/attackdex/tickle.shtml">Tickle </option>
+<option value="/attackdex/torment.shtml">Torment </option>
+<option value="/attackdex/toxic.shtml">Toxic </option>
+<option value="/attackdex/transform.shtml">Transform </option>
+<option value="/attackdex/triattack.shtml">Tri Attack </option>
+<option value="/attackdex/trick.shtml">Trick </option>
+<option value="/attackdex/triplekick.shtml">Triple Kick </option>
+<option value="/attackdex/twineedle.shtml">Twineedle </option>
+<option value="/attackdex/twister.shtml">Twister </option>
+<option value="/attackdex/uproar.shtml">Uproar </option>
+<option value="/attackdex/vicegrip.shtml">Vice Grip </option>
+<option value="/attackdex/vinewhip.shtml">Vine Whip </option>
+<option value="/attackdex/vitalthrow.shtml">Vital Throw </option>
+<option value="/attackdex/volttackle.shtml">Volt Tackle </option>
+<option value="/attackdex/watergun.shtml">Water Gun </option>
+<option value="/attackdex/waterpulse.shtml">Water Pulse </option>
+<option value="/attackdex/watersport.shtml">Water Sport </option>
+<option value="/attackdex/waterspout.shtml">Water Spout </option>
+<option value="/attackdex/waterfall.shtml">Waterfall </option>
+<option value="/attackdex/weatherball.shtml">Weather Ball </option>
+<option value="/attackdex/whirlpool.shtml">Whirlpool </option>
+<option value="/attackdex/whirlwind.shtml">Whirlwind </option>
+<option value="/attackdex/will-o-wisp.shtml">Will-O-Wisp </option>
+<option value="/attackdex/wingattack.shtml">Wing Attack </option>
+<option value="/attackdex/wish.shtml">Wish </option>
+<option value="/attackdex/withdraw.shtml">Withdraw </option>
+<option value="/attackdex/wrap.shtml">Wrap </option>
+<option value="/attackdex/yawn.shtml">Yawn </option>
+<option value="/attackdex/zapcannon.shtml">Zap Cannon</option>
+</SELECT><DIV> </FORM></td>
+
+</tr></table></div><p>
+
+
+<table  class="dextab" align="center">
+  <tr>
+    <td width="50%"><font size="4">
+	<b>Tackle</b></font></td>
+    <td class="footop"><font size="1"><a href="#details">Details</a>
+    <td class="footop"><a href="#level">Level Up</a></td>
+    <td class="footop"><a href="#tm">TM</a></td>    <td class="footop"><a href="#tutor">Move Tutor</a></font></td>
+    <td class="footop"><a href="#egg">Egg Move</a></font></td>
+  </tr>
+</table>
+<table class="dextab">
+      <tr >
+	<td width="20%" class="pkmn"><a href="/attackdex-sv/tackle.shtml">Gen IX Dex</td>
+	<td width="20%" class="pkmn"><a href="/attackdex-swsh/tackle.shtml">Gen VIII Dex</td>
+	<td width="20%" class="pkmn"><a href="/attackdex-sm/tackle.shtml">Gen VII Dex</td>
+	<td width="20%" class="pkmn"><a href="/attackdex-xy/tackle.shtml">Gen VI Dex</td>	<td width="20%" class="pkmn"><a href="/attackdex-bw/tackle.shtml">Gen V Dex</td></tr><tr>	<td width="20%" class="pkmn"><a href="/attackdex-dp/tackle.shtml">Gen IV Dex</td>	<td width="20%" class="curr"><a href="/attackdex/tackle.shtml">Gen III Dex</td>	<td width="20%" class="pkmn"><a href="/attackdex-gs/tackle.shtml">Gen II Dex</td>	<td width="20%" class="pkmn"><a href="/attackdex-rby/tackle.shtml">Gen I Dex</td>  </tr>
+<td class="pkmn" colspan="5"><a href="/attackdex-champions/tackle.shtml">Champions Dex</a></td></tr>
+</table><p>
+
+<a name="details"></a><div align="center"><table  class="dextab" align="center">
+	<tr><td class="fooevo" width="33%">Attack Name</b>	
+		</td><td class="fooevo" width="33%">Battle Type</b>	
+		</td><td class="fooevo" width="33%">Contest Type</b>	
+		</td>
+	</tr>
+	<tr><td align="center">
+		Tackle
+		</td><td align="center"><div align="center"><img src="/attackdex/type/normal.gif"></div>	
+		</td><td align="center"><div align=center><img src="/attackdex/type/tough.gif"></div>	
+		</td>
+	</tr>
+	<tr><td class="fooevo">Power Points</b>	
+		</td><td class="fooevo">Base Power</b>	
+		</td><td class="fooevo">Accuracy</b>	
+		</td>
+	</tr>
+	<tr><td class="cen">
+		35	
+		</td><td class="cen">
+		35	
+		</td><td class="cen">
+		95	
+		</td>
+	</tr>
+	<tr><td colspan="3" class="fooinfo"><b>Battle Effect:</b><br>
+		Charges the foe with a full- body tackle.	
+		</td>
+	</tr>
+	<tr><td colspan="2" class="fooinfo"><b>Secondary Effect:</b><br>
+		No effect.	
+		</td><td class="fooevo">Effect Rate:</b><br>
+		-- %	
+		</td>
+	</tr>
+	<tr><td class="fooevo">TM #</b>	
+		</td><td class="fooevo">Appeal Points</b>	
+		</td><td class="fooevo">Jam Points</b>	
+		</td>
+	</tr>
+	<tr><td class="cen">
+		None
+		</td><td class="cen"><img src="/pokemon_advance/contest/appeal.gif"><img src="/pokemon_advance/contest/appeal.gif"><img src="/pokemon_advance/contest/appeal.gif"><img src="/pokemon_advance/contest/appeal.gif">
+		</td><td class="cen">
+		</td>
+	</tr>
+	<tr><td colspan="3" class="fooinfo"><b>Contest Effect:</b><br>
+		A highly appealing move.
+		</td>
+	</tr>
+	<tr>
+		<td class="fooevo">BrightPowder</b>	
+		</td><td class="fooevo">King's Rock</b>	
+		</td><td class="fooevo">Physical Contact</b>	
+		</td>
+	</tr>
+	<tr><td class="cen">Yes
+		</td><td class="cen">Yes
+		</td><td class="cen">
+		Yes
+		</td>
+	</tr>
+	<tr><td class="fooevo">Battle Palace Style</b>	
+		</td><td class="fooevo">Battle Arena</b>	
+		</td><td class="fooevo">Pok&eacute;mon Hit in Battle</b>	
+		</td>
+	</tr>
+	<tr><td class="cen">Attack
+		</td><td class="cen">+1
+		</td><td class="cen">
+		Selected target
+		</td>
+	</tr>
+	<tr><td colspan="3" align="center"><b>Picture Example of Tackle</td>
+	</tr>
+	<tr><td colspan="3" align="center"><img src="tackle.png"></td>
+	</tr>
+</table><p><p>
+
+<a name="level"></a>Pok&eacute;mon That Learn Tackle By Level Up in Ruby/Sapphire/Emerald/Colosseum/XD:<p>
+
+<table  class="dextab" align="center">
+	<tr><td class="fooevo">No.	</td><td class="fooevo" width="32">Pic</b>	
+		</td><td class="fooevo">Name</b>	
+		</td><td class="fooevo">Type 1	</td><td class="fooevo">Type 2</b>	
+		</td>
+	</tr><tr ><td class="cen">#001</td><td class="cen"><a href="/pokedex-rs/001.shtml"><img src="/red_green/sprites/001.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/001.shtml">Bulbasaur</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#002</td><td class="cen"><a href="/pokedex-rs/002.shtml"><img src="/red_green/sprites/002.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/002.shtml">Ivysaur</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#003</td><td class="cen"><a href="/pokedex-rs/003.shtml"><img src="/red_green/sprites/003.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/003.shtml">Venusaur</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#007</td><td class="cen"><a href="/pokedex-rs/007.shtml"><img src="/red_green/sprites/007.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/007.shtml">Squirtle</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#008</td><td class="cen"><a href="/pokedex-rs/008.shtml"><img src="/red_green/sprites/008.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/008.shtml">Wartortle</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#009</td><td class="cen"><a href="/pokedex-rs/009.shtml"><img src="/red_green/sprites/009.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/009.shtml">Blastoise</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#010</td><td class="cen"><a href="/pokedex-rs/010.shtml"><img src="/red_green/sprites/010.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/010.shtml">Caterpie</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#016</td><td class="cen"><a href="/pokedex-rs/016.shtml"><img src="/red_green/sprites/016.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/016.shtml">Pidgey</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#017</td><td class="cen"><a href="/pokedex-rs/017.shtml"><img src="/red_green/sprites/017.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/017.shtml">Pidgeotto</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#018</td><td class="cen"><a href="/pokedex-rs/018.shtml"><img src="/red_green/sprites/018.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/018.shtml">Pidgeot</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#019</td><td class="cen"><a href="/pokedex-rs/019.shtml"><img src="/red_green/sprites/019.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/019.shtml">Rattata</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#020</td><td class="cen"><a href="/pokedex-rs/020.shtml"><img src="/red_green/sprites/020.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/020.shtml">Raticate</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#048</td><td class="cen"><a href="/pokedex-rs/048.shtml"><img src="/red_green/sprites/048.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/048.shtml">Venonat</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#049</td><td class="cen"><a href="/pokedex-rs/049.shtml"><img src="/red_green/sprites/049.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/049.shtml">Venomoth</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#074</td><td class="cen"><a href="/pokedex-rs/074.shtml"><img src="/red_green/sprites/074.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/074.shtml">Geodude</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#075</td><td class="cen"><a href="/pokedex-rs/075.shtml"><img src="/red_green/sprites/075.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/075.shtml">Graveler</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#076</td><td class="cen"><a href="/pokedex-rs/076.shtml"><img src="/red_green/sprites/076.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/076.shtml">Golem</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#077</td><td class="cen"><a href="/pokedex-rs/077.shtml"><img src="/red_green/sprites/077.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/077.shtml">Ponyta</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#078</td><td class="cen"><a href="/pokedex-rs/078.shtml"><img src="/red_green/sprites/078.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/078.shtml">Rapidash</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#079</td><td class="cen"><a href="/pokedex-rs/079.shtml"><img src="/red_green/sprites/079.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/079.shtml">Slowpoke</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#080</td><td class="cen"><a href="/pokedex-rs/080.shtml"><img src="/red_green/sprites/080.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/080.shtml">Slowbro</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#081</td><td class="cen"><a href="/pokedex-rs/081.shtml"><img src="/red_green/sprites/081.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/081.shtml">Magnemite</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td></tr> <tr ><td class="cen">#082</td><td class="cen"><a href="/pokedex-rs/082.shtml"><img src="/red_green/sprites/082.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/082.shtml">Magneton</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td></tr> <tr ><td class="cen">#090</td><td class="cen"><a href="/pokedex-rs/090.shtml"><img src="/red_green/sprites/090.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/090.shtml">Shellder</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#095</td><td class="cen"><a href="/pokedex-rs/095.shtml"><img src="/red_green/sprites/095.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/095.shtml">Onix</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#100</td><td class="cen"><a href="/pokedex-rs/100.shtml"><img src="/red_green/sprites/100.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/100.shtml">Voltorb</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#101</td><td class="cen"><a href="/pokedex-rs/101.shtml"><img src="/red_green/sprites/101.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/101.shtml">Electrode</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#109</td><td class="cen"><a href="/pokedex-rs/109.shtml"><img src="/red_green/sprites/109.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/109.shtml">Koffing</a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#110</td><td class="cen"><a href="/pokedex-rs/110.shtml"><img src="/red_green/sprites/110.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/110.shtml">Weezing</a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#120</td><td class="cen"><a href="/pokedex-rs/120.shtml"><img src="/red_green/sprites/120.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/120.shtml">Staryu</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#128</td><td class="cen"><a href="/pokedex-rs/128.shtml"><img src="/red_green/sprites/128.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/128.shtml">Tauros</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#129</td><td class="cen"><a href="/pokedex-rs/129.shtml"><img src="/red_green/sprites/129.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/129.shtml">Magikarp</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#133</td><td class="cen"><a href="/pokedex-rs/133.shtml"><img src="/red_green/sprites/133.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/133.shtml">Eevee</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#134</td><td class="cen"><a href="/pokedex-rs/134.shtml"><img src="/red_green/sprites/134.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/134.shtml">Vaporeon</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#135</td><td class="cen"><a href="/pokedex-rs/135.shtml"><img src="/red_green/sprites/135.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/135.shtml">Jolteon</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#136</td><td class="cen"><a href="/pokedex-rs/136.shtml"><img src="/red_green/sprites/136.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/136.shtml">Flareon</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#137</td><td class="cen"><a href="/pokedex-rs/137.shtml"><img src="/red_green/sprites/137.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/137.shtml">Porygon</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#143</td><td class="cen"><a href="/pokedex-rs/143.shtml"><img src="/red_green/sprites/143.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/143.shtml">Snorlax</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#152</td><td class="cen"><a href="/pokedex-rs/152.shtml"><img src="/red_green/sprites/152.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/152.shtml">Chikorita</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#153</td><td class="cen"><a href="/pokedex-rs/153.shtml"><img src="/red_green/sprites/153.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/153.shtml">Bayleef</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#154</td><td class="cen"><a href="/pokedex-rs/154.shtml"><img src="/red_green/sprites/154.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/154.shtml">Meganium</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#155</td><td class="cen"><a href="/pokedex-rs/155.shtml"><img src="/red_green/sprites/155.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/155.shtml">Cyndaquil</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#156</td><td class="cen"><a href="/pokedex-rs/156.shtml"><img src="/red_green/sprites/156.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/156.shtml">Quilava</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#157</td><td class="cen"><a href="/pokedex-rs/157.shtml"><img src="/red_green/sprites/157.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/157.shtml">Typhlosion</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#163</td><td class="cen"><a href="/pokedex-rs/163.shtml"><img src="/red_green/sprites/163.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/163.shtml">Hoothoot</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#164</td><td class="cen"><a href="/pokedex-rs/164.shtml"><img src="/red_green/sprites/164.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/164.shtml">Noctowl</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#165</td><td class="cen"><a href="/pokedex-rs/165.shtml"><img src="/red_green/sprites/165.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/165.shtml">Ledyba</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#166</td><td class="cen"><a href="/pokedex-rs/166.shtml"><img src="/red_green/sprites/166.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/166.shtml">Ledian</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#179</td><td class="cen"><a href="/pokedex-rs/179.shtml"><img src="/red_green/sprites/179.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/179.shtml">Mareep</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#180</td><td class="cen"><a href="/pokedex-rs/180.shtml"><img src="/red_green/sprites/180.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/180.shtml">Flaaffy</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#181</td><td class="cen"><a href="/pokedex-rs/181.shtml"><img src="/red_green/sprites/181.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/181.shtml">Ampharos</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#183</td><td class="cen"><a href="/pokedex-rs/183.shtml"><img src="/red_green/sprites/183.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/183.shtml">Marill</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#184</td><td class="cen"><a href="/pokedex-rs/184.shtml"><img src="/red_green/sprites/184.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/184.shtml">Azumarill</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#187</td><td class="cen"><a href="/pokedex-rs/187.shtml"><img src="/red_green/sprites/187.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/187.shtml">Hoppip</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#188</td><td class="cen"><a href="/pokedex-rs/188.shtml"><img src="/red_green/sprites/188.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/188.shtml">Skiploom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#188</td><td class="cen"><a href="/pokedex-rs/188.shtml"><img src="/red_green/sprites/188.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/188.shtml">Skiploom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#189</td><td class="cen"><a href="/pokedex-rs/189.shtml"><img src="/red_green/sprites/189.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/189.shtml">Jumpluff</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#189</td><td class="cen"><a href="/pokedex-rs/189.shtml"><img src="/red_green/sprites/189.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/189.shtml">Jumpluff</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#193</td><td class="cen"><a href="/pokedex-rs/193.shtml"><img src="/red_green/sprites/193.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/193.shtml">Yanma</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#196</td><td class="cen"><a href="/pokedex-rs/196.shtml"><img src="/red_green/sprites/196.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/196.shtml">Espeon</a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#197</td><td class="cen"><a href="/pokedex-rs/197.shtml"><img src="/red_green/sprites/197.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/197.shtml">Umbreon</a></td><td class="cen"><a href="/pokedex-rs/dark.shtml"><img src="/pokedex-rs/type/dark.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#199</td><td class="cen"><a href="/pokedex-rs/199.shtml"><img src="/red_green/sprites/199.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/199.shtml">Slowking</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#203</td><td class="cen"><a href="/pokedex-rs/203.shtml"><img src="/red_green/sprites/203.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/203.shtml">Girafarig</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#204</td><td class="cen"><a href="/pokedex-rs/204.shtml"><img src="/red_green/sprites/204.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/204.shtml">Pineco</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#205</td><td class="cen"><a href="/pokedex-rs/205.shtml"><img src="/red_green/sprites/205.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/205.shtml">Forretress</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td></tr> <tr ><td class="cen">#208</td><td class="cen"><a href="/pokedex-rs/208.shtml"><img src="/red_green/sprites/208.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/208.shtml">Steelix</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#209</td><td class="cen"><a href="/pokedex-rs/209.shtml"><img src="/red_green/sprites/209.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/209.shtml">Snubbull</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#210</td><td class="cen"><a href="/pokedex-rs/210.shtml"><img src="/red_green/sprites/210.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/210.shtml">Granbull</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#211</td><td class="cen"><a href="/pokedex-rs/211.shtml"><img src="/red_green/sprites/211.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/211.shtml">Qwilfish</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#214</td><td class="cen"><a href="/pokedex-rs/214.shtml"><img src="/red_green/sprites/214.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/214.shtml">Heracross</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td></tr> <tr ><td class="cen">#220</td><td class="cen"><a href="/pokedex-rs/220.shtml"><img src="/red_green/sprites/220.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/220.shtml">Swinub</a></td><td class="cen"><a href="/pokedex-rs/ice.shtml"><img src="/pokedex-rs/type/ice.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#222</td><td class="cen"><a href="/pokedex-rs/222.shtml"><img src="/red_green/sprites/222.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/222.shtml">Corsola</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#226</td><td class="cen"><a href="/pokedex-rs/226.shtml"><img src="/red_green/sprites/226.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/226.shtml">Mantine</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#231</td><td class="cen"><a href="/pokedex-rs/231.shtml"><img src="/red_green/sprites/231.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/231.shtml">Phanpy</a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#233</td><td class="cen"><a href="/pokedex-rs/233.shtml"><img src="/red_green/sprites/233.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/233.shtml">Porygon2</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#234</td><td class="cen"><a href="/pokedex-rs/234.shtml"><img src="/red_green/sprites/234.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/234.shtml">Stantler</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#236</td><td class="cen"><a href="/pokedex-rs/236.shtml"><img src="/red_green/sprites/236.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/236.shtml">Tyrogue</a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#241</td><td class="cen"><a href="/pokedex-rs/241.shtml"><img src="/red_green/sprites/241.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/241.shtml">Miltank</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#258</td><td class="cen"><a href="/pokedex-rs/258.shtml"><img src="/red_green/sprites/258.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/258.shtml">Mudkip</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#259</td><td class="cen"><a href="/pokedex-rs/259.shtml"><img src="/red_green/sprites/259.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/259.shtml">Marshtomp</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#260</td><td class="cen"><a href="/pokedex-rs/260.shtml"><img src="/red_green/sprites/260.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/260.shtml">Swampert</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#261</td><td class="cen"><a href="/pokedex-rs/261.shtml"><img src="/red_green/sprites/261.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/261.shtml">Poochyena</a></td><td class="cen"><a href="/pokedex-rs/dark.shtml"><img src="/pokedex-rs/type/dark.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#262</td><td class="cen"><a href="/pokedex-rs/262.shtml"><img src="/red_green/sprites/262.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/262.shtml">Mightyena</a></td><td class="cen"><a href="/pokedex-rs/dark.shtml"><img src="/pokedex-rs/type/dark.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#263</td><td class="cen"><a href="/pokedex-rs/263.shtml"><img src="/red_green/sprites/263.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/263.shtml">Zigzagoon</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#264</td><td class="cen"><a href="/pokedex-rs/264.shtml"><img src="/red_green/sprites/264.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/264.shtml">Linoone</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#265</td><td class="cen"><a href="/pokedex-rs/265.shtml"><img src="/red_green/sprites/265.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/265.shtml">Wurmple</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#285</td><td class="cen"><a href="/pokedex-rs/285.shtml"><img src="/red_green/sprites/285.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/285.shtml">Shroomish</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#286</td><td class="cen"><a href="/pokedex-rs/286.shtml"><img src="/red_green/sprites/286.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/286.shtml">Breloom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td></tr> <tr ><td class="cen">#286</td><td class="cen"><a href="/pokedex-rs/286.shtml"><img src="/red_green/sprites/286.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/286.shtml">Breloom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td></tr> <tr ><td class="cen">#296</td><td class="cen"><a href="/pokedex-rs/296.shtml"><img src="/red_green/sprites/296.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/296.shtml">Makuhita</a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#297</td><td class="cen"><a href="/pokedex-rs/297.shtml"><img src="/red_green/sprites/297.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/297.shtml">Hariyama</a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#299</td><td class="cen"><a href="/pokedex-rs/299.shtml"><img src="/red_green/sprites/299.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/299.shtml">Nosepass</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#300</td><td class="cen"><a href="/pokedex-rs/300.shtml"><img src="/red_green/sprites/300.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/300.shtml">Skitty</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#304</td><td class="cen"><a href="/pokedex-rs/304.shtml"><img src="/red_green/sprites/304.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/304.shtml">Aron</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#305</td><td class="cen"><a href="/pokedex-rs/305.shtml"><img src="/red_green/sprites/305.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/305.shtml">Lairon</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#306</td><td class="cen"><a href="/pokedex-rs/306.shtml"><img src="/red_green/sprites/306.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/306.shtml">Aggron</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#309</td><td class="cen"><a href="/pokedex-rs/309.shtml"><img src="/red_green/sprites/309.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/309.shtml">Electrike</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#310</td><td class="cen"><a href="/pokedex-rs/310.shtml"><img src="/red_green/sprites/310.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/310.shtml">Manectric</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#313</td><td class="cen"><a href="/pokedex-rs/313.shtml"><img src="/red_green/sprites/313.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/313.shtml">Volbeat</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#314</td><td class="cen"><a href="/pokedex-rs/314.shtml"><img src="/red_green/sprites/314.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/314.shtml">Illumise</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#322</td><td class="cen"><a href="/pokedex-rs/322.shtml"><img src="/red_green/sprites/322.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/322.shtml">Numel</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#323</td><td class="cen"><a href="/pokedex-rs/323.shtml"><img src="/red_green/sprites/323.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/323.shtml">Camerupt</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#327</td><td class="cen"><a href="/pokedex-rs/327.shtml"><img src="/red_green/sprites/327.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/327.shtml">Spinda</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#337</td><td class="cen"><a href="/pokedex-rs/337.shtml"><img src="/red_green/sprites/337.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/337.shtml">Lunatone</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#338</td><td class="cen"><a href="/pokedex-rs/338.shtml"><img src="/red_green/sprites/338.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/338.shtml">Solrock</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#349</td><td class="cen"><a href="/pokedex-rs/349.shtml"><img src="/red_green/sprites/349.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/349.shtml">Feebas</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#351</td><td class="cen"><a href="/pokedex-rs/351.shtml"><img src="/red_green/sprites/351.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/351.shtml">Castform</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#369</td><td class="cen"><a href="/pokedex-rs/369.shtml"><img src="/red_green/sprites/369.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/369.shtml">Relicanth</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#370</td><td class="cen"><a href="/pokedex-rs/370.shtml"><img src="/red_green/sprites/370.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/370.shtml">Luvdisc</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> 
+</table><p>
+<a name="level"></a>Pok&eacute;mon That Learn Tackle By Level Up in Fire Red/Leaf Green:<p>
+
+<table  class="dextab" align="center">
+	<tr><td class="fooevo">No.	</td><td class="fooevo" width="32">Pic</b>	
+		</td><td class="fooevo">Name</b>	
+		</td><td class="fooevo">Type 1	</td><td class="fooevo">Type 2</b>	
+		</td>
+	</tr><tr ><td class="cen">#001</td><td class="cen"><a href="/pokedex-rs/001.shtml"><img src="/red_green/sprites/001.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/001.shtml">Bulbasaur</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#002</td><td class="cen"><a href="/pokedex-rs/002.shtml"><img src="/red_green/sprites/002.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/002.shtml">Ivysaur</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#003</td><td class="cen"><a href="/pokedex-rs/003.shtml"><img src="/red_green/sprites/003.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/003.shtml">Venusaur</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#007</td><td class="cen"><a href="/pokedex-rs/007.shtml"><img src="/red_green/sprites/007.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/007.shtml">Squirtle</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#008</td><td class="cen"><a href="/pokedex-rs/008.shtml"><img src="/red_green/sprites/008.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/008.shtml">Wartortle</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#009</td><td class="cen"><a href="/pokedex-rs/009.shtml"><img src="/red_green/sprites/009.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/009.shtml">Blastoise</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#010</td><td class="cen"><a href="/pokedex-rs/010.shtml"><img src="/red_green/sprites/010.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/010.shtml">Caterpie</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#016</td><td class="cen"><a href="/pokedex-rs/016.shtml"><img src="/red_green/sprites/016.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/016.shtml">Pidgey</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#017</td><td class="cen"><a href="/pokedex-rs/017.shtml"><img src="/red_green/sprites/017.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/017.shtml">Pidgeotto</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#018</td><td class="cen"><a href="/pokedex-rs/018.shtml"><img src="/red_green/sprites/018.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/018.shtml">Pidgeot</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#019</td><td class="cen"><a href="/pokedex-rs/019.shtml"><img src="/red_green/sprites/019.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/019.shtml">Rattata</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#020</td><td class="cen"><a href="/pokedex-rs/020.shtml"><img src="/red_green/sprites/020.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/020.shtml">Raticate</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#048</td><td class="cen"><a href="/pokedex-rs/048.shtml"><img src="/red_green/sprites/048.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/048.shtml">Venonat</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#049</td><td class="cen"><a href="/pokedex-rs/049.shtml"><img src="/red_green/sprites/049.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/049.shtml">Venomoth</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#074</td><td class="cen"><a href="/pokedex-rs/074.shtml"><img src="/red_green/sprites/074.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/074.shtml">Geodude</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#075</td><td class="cen"><a href="/pokedex-rs/075.shtml"><img src="/red_green/sprites/075.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/075.shtml">Graveler</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#076</td><td class="cen"><a href="/pokedex-rs/076.shtml"><img src="/red_green/sprites/076.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/076.shtml">Golem</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#079</td><td class="cen"><a href="/pokedex-rs/079.shtml"><img src="/red_green/sprites/079.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/079.shtml">Slowpoke</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#080</td><td class="cen"><a href="/pokedex-rs/080.shtml"><img src="/red_green/sprites/080.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/080.shtml">Slowbro</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#081</td><td class="cen"><a href="/pokedex-rs/081.shtml"><img src="/red_green/sprites/081.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/081.shtml">Magnemite</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td></tr> <tr ><td class="cen">#082</td><td class="cen"><a href="/pokedex-rs/082.shtml"><img src="/red_green/sprites/082.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/082.shtml">Magneton</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td></tr> <tr ><td class="cen">#090</td><td class="cen"><a href="/pokedex-rs/090.shtml"><img src="/red_green/sprites/090.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/090.shtml">Shellder</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#095</td><td class="cen"><a href="/pokedex-rs/095.shtml"><img src="/red_green/sprites/095.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/095.shtml">Onix</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#100</td><td class="cen"><a href="/pokedex-rs/100.shtml"><img src="/red_green/sprites/100.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/100.shtml">Voltorb</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#101</td><td class="cen"><a href="/pokedex-rs/101.shtml"><img src="/red_green/sprites/101.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/101.shtml">Electrode</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#109</td><td class="cen"><a href="/pokedex-rs/109.shtml"><img src="/red_green/sprites/109.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/109.shtml">Koffing</a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#110</td><td class="cen"><a href="/pokedex-rs/110.shtml"><img src="/red_green/sprites/110.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/110.shtml">Weezing</a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#120</td><td class="cen"><a href="/pokedex-rs/120.shtml"><img src="/red_green/sprites/120.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/120.shtml">Staryu</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#128</td><td class="cen"><a href="/pokedex-rs/128.shtml"><img src="/red_green/sprites/128.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/128.shtml">Tauros</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#129</td><td class="cen"><a href="/pokedex-rs/129.shtml"><img src="/red_green/sprites/129.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/129.shtml">Magikarp</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#133</td><td class="cen"><a href="/pokedex-rs/133.shtml"><img src="/red_green/sprites/133.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/133.shtml">Eevee</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#134</td><td class="cen"><a href="/pokedex-rs/134.shtml"><img src="/red_green/sprites/134.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/134.shtml">Vaporeon</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#135</td><td class="cen"><a href="/pokedex-rs/135.shtml"><img src="/red_green/sprites/135.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/135.shtml">Jolteon</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#136</td><td class="cen"><a href="/pokedex-rs/136.shtml"><img src="/red_green/sprites/136.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/136.shtml">Flareon</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#137</td><td class="cen"><a href="/pokedex-rs/137.shtml"><img src="/red_green/sprites/137.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/137.shtml">Porygon</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#143</td><td class="cen"><a href="/pokedex-rs/143.shtml"><img src="/red_green/sprites/143.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/143.shtml">Snorlax</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#152</td><td class="cen"><a href="/pokedex-rs/152.shtml"><img src="/red_green/sprites/152.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/152.shtml">Chikorita</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#153</td><td class="cen"><a href="/pokedex-rs/153.shtml"><img src="/red_green/sprites/153.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/153.shtml">Bayleef</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#154</td><td class="cen"><a href="/pokedex-rs/154.shtml"><img src="/red_green/sprites/154.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/154.shtml">Meganium</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#155</td><td class="cen"><a href="/pokedex-rs/155.shtml"><img src="/red_green/sprites/155.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/155.shtml">Cyndaquil</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#156</td><td class="cen"><a href="/pokedex-rs/156.shtml"><img src="/red_green/sprites/156.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/156.shtml">Quilava</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#157</td><td class="cen"><a href="/pokedex-rs/157.shtml"><img src="/red_green/sprites/157.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/157.shtml">Typhlosion</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#163</td><td class="cen"><a href="/pokedex-rs/163.shtml"><img src="/red_green/sprites/163.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/163.shtml">Hoothoot</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#164</td><td class="cen"><a href="/pokedex-rs/164.shtml"><img src="/red_green/sprites/164.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/164.shtml">Noctowl</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#165</td><td class="cen"><a href="/pokedex-rs/165.shtml"><img src="/red_green/sprites/165.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/165.shtml">Ledyba</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#166</td><td class="cen"><a href="/pokedex-rs/166.shtml"><img src="/red_green/sprites/166.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/166.shtml">Ledian</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#179</td><td class="cen"><a href="/pokedex-rs/179.shtml"><img src="/red_green/sprites/179.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/179.shtml">Mareep</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#180</td><td class="cen"><a href="/pokedex-rs/180.shtml"><img src="/red_green/sprites/180.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/180.shtml">Flaaffy</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#181</td><td class="cen"><a href="/pokedex-rs/181.shtml"><img src="/red_green/sprites/181.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/181.shtml">Ampharos</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#183</td><td class="cen"><a href="/pokedex-rs/183.shtml"><img src="/red_green/sprites/183.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/183.shtml">Marill</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#184</td><td class="cen"><a href="/pokedex-rs/184.shtml"><img src="/red_green/sprites/184.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/184.shtml">Azumarill</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#187</td><td class="cen"><a href="/pokedex-rs/187.shtml"><img src="/red_green/sprites/187.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/187.shtml">Hoppip</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#188</td><td class="cen"><a href="/pokedex-rs/188.shtml"><img src="/red_green/sprites/188.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/188.shtml">Skiploom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#188</td><td class="cen"><a href="/pokedex-rs/188.shtml"><img src="/red_green/sprites/188.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/188.shtml">Skiploom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#189</td><td class="cen"><a href="/pokedex-rs/189.shtml"><img src="/red_green/sprites/189.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/189.shtml">Jumpluff</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#189</td><td class="cen"><a href="/pokedex-rs/189.shtml"><img src="/red_green/sprites/189.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/189.shtml">Jumpluff</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#193</td><td class="cen"><a href="/pokedex-rs/193.shtml"><img src="/red_green/sprites/193.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/193.shtml">Yanma</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#196</td><td class="cen"><a href="/pokedex-rs/196.shtml"><img src="/red_green/sprites/196.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/196.shtml">Espeon</a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#197</td><td class="cen"><a href="/pokedex-rs/197.shtml"><img src="/red_green/sprites/197.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/197.shtml">Umbreon</a></td><td class="cen"><a href="/pokedex-rs/dark.shtml"><img src="/pokedex-rs/type/dark.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#199</td><td class="cen"><a href="/pokedex-rs/199.shtml"><img src="/red_green/sprites/199.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/199.shtml">Slowking</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#203</td><td class="cen"><a href="/pokedex-rs/203.shtml"><img src="/red_green/sprites/203.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/203.shtml">Girafarig</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#204</td><td class="cen"><a href="/pokedex-rs/204.shtml"><img src="/red_green/sprites/204.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/204.shtml">Pineco</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#205</td><td class="cen"><a href="/pokedex-rs/205.shtml"><img src="/red_green/sprites/205.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/205.shtml">Forretress</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td></tr> <tr ><td class="cen">#208</td><td class="cen"><a href="/pokedex-rs/208.shtml"><img src="/red_green/sprites/208.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/208.shtml">Steelix</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#209</td><td class="cen"><a href="/pokedex-rs/209.shtml"><img src="/red_green/sprites/209.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/209.shtml">Snubbull</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#210</td><td class="cen"><a href="/pokedex-rs/210.shtml"><img src="/red_green/sprites/210.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/210.shtml">Granbull</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#211</td><td class="cen"><a href="/pokedex-rs/211.shtml"><img src="/red_green/sprites/211.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/211.shtml">Qwilfish</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/poison.shtml"><img src="/pokedex-rs/type/poison.gif" border=0></a></td></tr> <tr ><td class="cen">#214</td><td class="cen"><a href="/pokedex-rs/214.shtml"><img src="/red_green/sprites/214.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/214.shtml">Heracross</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td></tr> <tr ><td class="cen">#220</td><td class="cen"><a href="/pokedex-rs/220.shtml"><img src="/red_green/sprites/220.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/220.shtml">Swinub</a></td><td class="cen"><a href="/pokedex-rs/ice.shtml"><img src="/pokedex-rs/type/ice.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#222</td><td class="cen"><a href="/pokedex-rs/222.shtml"><img src="/red_green/sprites/222.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/222.shtml">Corsola</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#226</td><td class="cen"><a href="/pokedex-rs/226.shtml"><img src="/red_green/sprites/226.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/226.shtml">Mantine</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/flying.shtml"><img src="/pokedex-rs/type/flying.gif" border=0></a></td></tr> <tr ><td class="cen">#231</td><td class="cen"><a href="/pokedex-rs/231.shtml"><img src="/red_green/sprites/231.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/231.shtml">Phanpy</a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#233</td><td class="cen"><a href="/pokedex-rs/233.shtml"><img src="/red_green/sprites/233.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/233.shtml">Porygon2</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#234</td><td class="cen"><a href="/pokedex-rs/234.shtml"><img src="/red_green/sprites/234.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/234.shtml">Stantler</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#236</td><td class="cen"><a href="/pokedex-rs/236.shtml"><img src="/red_green/sprites/236.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/236.shtml">Tyrogue</a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#241</td><td class="cen"><a href="/pokedex-rs/241.shtml"><img src="/red_green/sprites/241.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/241.shtml">Miltank</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#258</td><td class="cen"><a href="/pokedex-rs/258.shtml"><img src="/red_green/sprites/258.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/258.shtml">Mudkip</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#259</td><td class="cen"><a href="/pokedex-rs/259.shtml"><img src="/red_green/sprites/259.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/259.shtml">Marshtomp</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#260</td><td class="cen"><a href="/pokedex-rs/260.shtml"><img src="/red_green/sprites/260.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/260.shtml">Swampert</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#261</td><td class="cen"><a href="/pokedex-rs/261.shtml"><img src="/red_green/sprites/261.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/261.shtml">Poochyena</a></td><td class="cen"><a href="/pokedex-rs/dark.shtml"><img src="/pokedex-rs/type/dark.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#262</td><td class="cen"><a href="/pokedex-rs/262.shtml"><img src="/red_green/sprites/262.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/262.shtml">Mightyena</a></td><td class="cen"><a href="/pokedex-rs/dark.shtml"><img src="/pokedex-rs/type/dark.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#263</td><td class="cen"><a href="/pokedex-rs/263.shtml"><img src="/red_green/sprites/263.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/263.shtml">Zigzagoon</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#264</td><td class="cen"><a href="/pokedex-rs/264.shtml"><img src="/red_green/sprites/264.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/264.shtml">Linoone</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#265</td><td class="cen"><a href="/pokedex-rs/265.shtml"><img src="/red_green/sprites/265.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/265.shtml">Wurmple</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#285</td><td class="cen"><a href="/pokedex-rs/285.shtml"><img src="/red_green/sprites/285.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/285.shtml">Shroomish</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#286</td><td class="cen"><a href="/pokedex-rs/286.shtml"><img src="/red_green/sprites/286.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/286.shtml">Breloom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td></tr> <tr ><td class="cen">#286</td><td class="cen"><a href="/pokedex-rs/286.shtml"><img src="/red_green/sprites/286.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/286.shtml">Breloom</a></td><td class="cen"><a href="/pokedex-rs/grass.shtml"><img src="/pokedex-rs/type/grass.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td></tr> <tr ><td class="cen">#296</td><td class="cen"><a href="/pokedex-rs/296.shtml"><img src="/red_green/sprites/296.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/296.shtml">Makuhita</a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#297</td><td class="cen"><a href="/pokedex-rs/297.shtml"><img src="/red_green/sprites/297.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/297.shtml">Hariyama</a></td><td class="cen"><a href="/pokedex-rs/fighting.shtml"><img src="/pokedex-rs/type/fighting.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#299</td><td class="cen"><a href="/pokedex-rs/299.shtml"><img src="/red_green/sprites/299.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/299.shtml">Nosepass</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#300</td><td class="cen"><a href="/pokedex-rs/300.shtml"><img src="/red_green/sprites/300.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/300.shtml">Skitty</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#304</td><td class="cen"><a href="/pokedex-rs/304.shtml"><img src="/red_green/sprites/304.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/304.shtml">Aron</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#305</td><td class="cen"><a href="/pokedex-rs/305.shtml"><img src="/red_green/sprites/305.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/305.shtml">Lairon</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#306</td><td class="cen"><a href="/pokedex-rs/306.shtml"><img src="/red_green/sprites/306.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/306.shtml">Aggron</a></td><td class="cen"><a href="/pokedex-rs/steel.shtml"><img src="/pokedex-rs/type/steel.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#309</td><td class="cen"><a href="/pokedex-rs/309.shtml"><img src="/red_green/sprites/309.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/309.shtml">Electrike</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#310</td><td class="cen"><a href="/pokedex-rs/310.shtml"><img src="/red_green/sprites/310.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/310.shtml">Manectric</a></td><td class="cen"><a href="/pokedex-rs/electric.shtml"><img src="/pokedex-rs/type/electric.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#313</td><td class="cen"><a href="/pokedex-rs/313.shtml"><img src="/red_green/sprites/313.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/313.shtml">Volbeat</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#314</td><td class="cen"><a href="/pokedex-rs/314.shtml"><img src="/red_green/sprites/314.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/314.shtml">Illumise</a></td><td class="cen"><a href="/pokedex-rs/bug.shtml"><img src="/pokedex-rs/type/bug.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#322</td><td class="cen"><a href="/pokedex-rs/322.shtml"><img src="/red_green/sprites/322.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/322.shtml">Numel</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#323</td><td class="cen"><a href="/pokedex-rs/323.shtml"><img src="/red_green/sprites/323.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/323.shtml">Camerupt</a></td><td class="cen"><a href="/pokedex-rs/fire.shtml"><img src="/pokedex-rs/type/fire.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/ground.shtml"><img src="/pokedex-rs/type/ground.gif" border=0></a></td></tr> <tr ><td class="cen">#327</td><td class="cen"><a href="/pokedex-rs/327.shtml"><img src="/red_green/sprites/327.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/327.shtml">Spinda</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#337</td><td class="cen"><a href="/pokedex-rs/337.shtml"><img src="/red_green/sprites/337.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/337.shtml">Lunatone</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#338</td><td class="cen"><a href="/pokedex-rs/338.shtml"><img src="/red_green/sprites/338.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/338.shtml">Solrock</a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/psychic.shtml"><img src="/pokedex-rs/type/psychic.gif" border=0></a></td></tr> <tr ><td class="cen">#349</td><td class="cen"><a href="/pokedex-rs/349.shtml"><img src="/red_green/sprites/349.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/349.shtml">Feebas</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#351</td><td class="cen"><a href="/pokedex-rs/351.shtml"><img src="/red_green/sprites/351.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/351.shtml">Castform</a></td><td class="cen"><a href="/pokedex-rs/normal.shtml"><img src="/pokedex-rs/type/normal.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> <tr ><td class="cen">#369</td><td class="cen"><a href="/pokedex-rs/369.shtml"><img src="/red_green/sprites/369.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/369.shtml">Relicanth</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/rock.shtml"><img src="/pokedex-rs/type/rock.gif" border=0></a></td></tr> <tr ><td class="cen">#370</td><td class="cen"><a href="/pokedex-rs/370.shtml"><img src="/red_green/sprites/370.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/370.shtml">Luvdisc</a></td><td class="cen"><a href="/pokedex-rs/water.shtml"><img src="/pokedex-rs/type/water.gif" border=0></a></td><td class="cen"><a href="/pokedex-rs/na.shtml"><img src="/pokedex-rs/type/na.gif" border=0></a></td></tr> </table><p>
+<a name="egg"></a>Pok&eacute;mon That Learn Tackle By Breeding:<p>
+
+<table  class="dextab" align="center">
+	<tr><td class="fooevo">No.	</td><td class="fooevo" width="32">Pic</b>	
+		</td><td class="fooevo">Name</b>	
+		</td><td class="fooevo">Type 1	</td><td class="fooevo">Type 2</b>	
+		</td>
+	</tr>
+</table><p>
+<a name="special"></a>Pok&eacute;mon That Learn Tackle By Purifying or A Special Way:<p>
+
+<table  class="dextab" align="center">
+	<tr><td class="fooevo">No.	</td><td class="fooevo" width="32">Pic</b>	
+		</td><td class="fooevo">Name</b>	
+		</td><td class="fooevo">Type 1	</td><td class="fooevo">Type 2</b>	
+		</td>
+	</tr>
+</table><p>
+
+</main></div><!-- END #content -->
+
+<aside id="rbar">
+	<a href="/potw-champions/" class="navheader">Pokémon of the Week</a>
+	<div align="center">
+		<a href="/potw-champions/115.shtml"><img src="/potw-champions/115.jpg" alt="Pokémon of the Week"  class="tbarpic"></a>
+	</div>
+	<div class="navheader">Next In Japan</div>
+	<div>
+		<div align="center"><img src="/anime/NextOn/1384.jpg"  class="tbarpic"></div>
+		Episode 148<br/>
+		<b>Koraidon & Miraidon! The Great Race in Paldea</b><br/>
+		<div align="center"><img src="/anime/NextOn/1384-i.jpg"  class="tbarpic"></div>
+			Airdate: 04/09/2026
+	</div>
+	<div class="navheader">Recently In USA</div>
+	<div>
+		<div align="center"><a href="/anime/epiguide/pokemon2023/123.shtml"><img src="/1359.jpg"  class="tbarpic"></div>
+		Episode 123<br/>
+		<b> Mochi Mayhem!</b><br />
+		<img src="/anime/synopsis.gif">Synopsis</a><br/>
+		<a href="/anime/pictures/pokemon2023/123.shtml"><img src="/anime/pictures.gif">Pictures</a><br/>
+	</div>
+	<div class="navheader">Next In USA</div>
+	<div>
+		<div align="center"><a href="/anime/epiguide/pokemon2023/124.shtml"><img src="/1360.jpg"  class="tbarpic"></div>
+		Episode 124<br/>
+		<b> Operation Infiltration!</b><br />
+		Airdate: 18/09/2026</a><br />
+		<a href="/anime/epiguide/pokemon2023/124.shtml"><img src="/anime/synopsis.gif">Synopsis</a><br/>
+		<a href="/anime/pictures/pokemon2023/124.shtml"><img src="/anime/pictures.gif">Pictures</a><br/>
+	</div>
+	<div class="navheader">Social Media</div>
+	<div class="center">
+		<a href="https://www.facebook.com/SerebiiNetPage" target="blank"><img src="/Toolbar/headers/Facebook.png" width="30" alt="Facebook"/></a>
+		<a href="https://www.twitter.com/SerebiiNet" target="blank"><img src="/Toolbar/headers/Twitter.png" width="30" alt="Twitter"/></a>
+		<a href="https://bsky.app/profile/serebii.bsky.social" target="blank" rel="me"><img src="/Toolbar/headers/bluesky.png" width="30" alt="BlueSky"/></a>
+		<a href="https://www.youtube.com/serebiispp" target="blank"><img src="/Toolbar/headers/youtube.png" width="30" alt="YouTube"/></a>
+		<a href="https://www.instagram.com/serebii" target="blank" rel="nofollow"><img src="/Toolbar/headers/instagram.png" width="30" alt="Instagram"/></a>
+		<a href="https://www.threads.net/@serebii" target="blank" rel="nofollow"><img src="/Toolbar/headers/threads.png" width="30" alt="Threads"/></a>
+	</div>
+	<div class="navheader">Support Us</div>
+	<div class="center">
+		<a href="https://www.patreon.com/serebiinet" target="blank" rel="nofollow"><img src="/Toolbar/headers/patreon.png" width="50" alt="Patreon"/></a>
+</div>
+	<div class="navheader">In Association With</div>
+	<div class="center">
+		<a href="http://www.pocketmonsters.net/" target="blank" rel="nofollow"><img src="/Toolbar/pm.png" alt="#PM"></a><br/>
+		<a href="http://www.legendarypokemon.net/" target="blank" rel="nofollow"><img src="/Toolbar/lpoke.png" alt="Legendary Pokémon"></a>
+	</div>
+</aside>
+</div><!-- END #wrapper -->
+<footer id="footer">
+	<div class="copyright">
+		<a href="#top" alt="Top of Page" title="Top of Page" class="totop"></a>
+
+		All Content is &copy; Copyright of Serebii.net 1999-2026. |
+		<a href="/privacy.shtml">Privacy Policy</a> |
+		<a class="nn-cmp-show" href="#">Manage Cookie Settings</a><br/>
+		Pokémon and All Respective Names are Trademark &amp; &copy; of Nintendo 1996-2026<br /><br />
+<a href="https://www.patreon.com/serebiinet" target="blank" rel="nofollow"></u>Support us on Patreon</u></a>
+	</div>
+
+	<div style="height:102px">
+		<div id="nn_lb2"></div><div id="nn_mobile_lb2"></div>
+<div id="celtra-reveal-wrapper" style="position:fixed; height: auto; width: 100%">
+<div id="nn_1by1"></div>
+</div>
+	</div>
+<script data-cfasync="false" async src="//cdn.intergient.com/1025662/76683/ramp.js"></script>
+</footer>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+{
+  "slug": "glare",
+  "name": "Glare",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 30,
+  "effect": "Intimidates and frightens the foe into paralysis.",
+  "secondaryEffect": "Induces paralysis",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/glare.shtml",
+    "scrapedAt": "2026-09-03T19:22:25.323Z"
+  }
+}

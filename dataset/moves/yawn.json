@@ -1,0 +1,17 @@
+{
+  "slug": "yawn",
+  "name": "Yawn",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Lulls the foe into yawning, then sleeping next turn.",
+  "secondaryEffect": "User and opponent sleep the next turn.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/yawn.shtml",
+    "scrapedAt": "2026-09-03T19:28:54.094Z"
+  }
+}

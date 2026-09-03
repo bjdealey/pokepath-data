@@ -1,0 +1,17 @@
+{
+  "slug": "painsplit",
+  "name": "Pain Split",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Adds the user and foe's HP, then shares them equally.",
+  "secondaryEffect": "User and opponent share HP.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/painsplit.shtml",
+    "scrapedAt": "2026-09-03T19:24:35.934Z"
+  }
+}

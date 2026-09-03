@@ -1,0 +1,17 @@
+{
+  "slug": "roar",
+  "name": "Roar",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Makes the foe flee to end the battle.",
+  "secondaryEffect": "Ends battle. Switches the opponent Pokémon in a trainer battle.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/roar.shtml",
+    "scrapedAt": "2026-09-03T19:25:28.546Z"
+  }
+}

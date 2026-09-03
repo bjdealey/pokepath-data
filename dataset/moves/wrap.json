@@ -1,0 +1,17 @@
+{
+  "slug": "wrap",
+  "name": "Wrap",
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "Wraps and squeezes the foe 2 to 5 times with vines, etc.",
+  "secondaryEffect": "Traps opponent.",
+  "effectRate": 100,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/wrap.shtml",
+    "scrapedAt": "2026-09-03T19:28:52.574Z"
+  }
+}

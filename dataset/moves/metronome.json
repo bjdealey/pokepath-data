@@ -1,0 +1,17 @@
+{
+  "slug": "metronome",
+  "name": "Metronome",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Waggles a finger to use any POKéMON move at random.",
+  "secondaryEffect": "Uses a random move.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/metronome.shtml",
+    "scrapedAt": "2026-09-03T19:24:01.396Z"
+  }
+}

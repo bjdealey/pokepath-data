@@ -1,0 +1,17 @@
+{
+  "slug": "shadowbolt",
+  "name": "Shadow Bolt",
+  "type": "shadow",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "A Powerful Attack that may Paralyze Opponent",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 30,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowbolt.shtml",
+    "scrapedAt": "2026-09-03T19:26:02.982Z"
+  }
+}

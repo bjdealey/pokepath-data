@@ -1,0 +1,16 @@
+{
+  "slug": "shadowrave",
+  "name": "Shadow Rave",
+  "type": "shadow",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Deals Damage to Both Opponents",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowrave.shtml",
+    "scrapedAt": "2026-09-03T19:26:19.909Z"
+  }
+}

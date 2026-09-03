@@ -1,0 +1,16 @@
+{
+  "slug": "watergun",
+  "name": "Water Gun",
+  "type": "water",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "Squirts water to attack the foe.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/watergun.shtml",
+    "scrapedAt": "2026-09-03T19:28:36.228Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "falseswipe",
+  "name": "False Swipe",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "An attack that leaves the foe with at least 1 HP.",
+  "secondaryEffect": "Leaves the foe with at least 1 HP.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/falseswipe.shtml",
+    "scrapedAt": "2026-09-03T19:21:50.814Z"
+  }
+}

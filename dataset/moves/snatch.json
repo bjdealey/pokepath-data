@@ -1,0 +1,17 @@
+{
+  "slug": "snatch",
+  "name": "Snatch",
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Steals the effects of the move the foe uses next.",
+  "secondaryEffect": "Steals the effects of opponent's next move.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/snatch.shtml",
+    "scrapedAt": "2026-09-03T19:27:01.583Z"
+  }
+}

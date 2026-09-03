@@ -1,0 +1,17 @@
+{
+  "slug": "outrage",
+  "name": "Outrage",
+  "type": "dragon",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A rampage of 2 to 3 turns that confuses the user.",
+  "secondaryEffect": "User uses the same attack for 2-3 turns then becomes confused.",
+  "effectRate": 100,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/outrage.shtml",
+    "scrapedAt": "2026-09-03T19:24:32.955Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "agility",
+  "name": "Agility",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Relaxes the body to sharply boost SPEED.",
+  "secondaryEffect": "Raises user's SPEED two stages.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/agility.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.927Z"
+  }
+}

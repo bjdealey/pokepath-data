@@ -1,0 +1,16 @@
+{
+  "slug": "eggbomb",
+  "name": "Egg Bomb",
+  "type": "normal",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 10,
+  "effect": "An egg is forcibly hurled at the foe.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/eggbomb.shtml",
+    "scrapedAt": "2026-09-03T19:21:31.283Z"
+  }
+}

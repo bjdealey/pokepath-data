@@ -1,0 +1,17 @@
+{
+  "slug": "petaldance",
+  "name": "Petal Dance",
+  "type": "grass",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "A rampage of 2 to 3 turns that confuses the user.",
+  "secondaryEffect": "User uses the same attack for 2-3 turns then becomes confused.",
+  "effectRate": 100,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/petaldance.shtml",
+    "scrapedAt": "2026-09-03T19:24:41.941Z"
+  }
+}

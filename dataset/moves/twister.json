@@ -1,0 +1,17 @@
+{
+  "slug": "twister",
+  "name": "Twister",
+  "type": "dragon",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Whips up a vicious twister to tear at the foe.",
+  "secondaryEffect": "May cause opponent to flinch. Damage is doubled if opponent is using FLY.",
+  "effectRate": 20,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/twister.shtml",
+    "scrapedAt": "2026-09-03T19:28:25.580Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "refresh",
+  "name": "Refresh",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Heals poisoning, paralysis, or a burn.",
+  "secondaryEffect": "Heals poisoning, paralysis, or a burn.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/refresh.shtml",
+    "scrapedAt": "2026-09-03T19:25:21.007Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "double-edge",
+  "name": "Double-edge",
+  "type": "normal",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A life-risking tackle that also hurts the user.",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/double-edge.shtml",
+    "scrapedAt": "2026-09-03T19:21:13.370Z"
+  }
+}

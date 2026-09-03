@@ -1,0 +1,17 @@
+{
+  "slug": "aromatherapy",
+  "name": "Aromatherapy",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "Heals all status problems with a soothing scent.",
+  "secondaryEffect": "Heals party's status problems.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/aromatherapy.shtml",
+    "scrapedAt": "2026-09-03T19:19:49.188Z"
+  }
+}

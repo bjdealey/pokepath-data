@@ -1,0 +1,17 @@
+{
+  "slug": "absorb",
+  "name": "Absorb",
+  "type": "grass",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "An attack that absorbs half the damage inflicted.",
+  "secondaryEffect": "User recovers half the damage inflicted.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/absorb.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.895Z"
+  }
+}

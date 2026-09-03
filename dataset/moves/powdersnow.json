@@ -1,0 +1,17 @@
+{
+  "slug": "powdersnow",
+  "name": "Powder Snow",
+  "type": "ice",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "Blasts the foe with a snowy gust. May cause freezing.",
+  "secondaryEffect": "May induce freeze.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/powdersnow.shtml",
+    "scrapedAt": "2026-09-03T19:24:54.020Z"
+  }
+}

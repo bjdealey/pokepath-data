@@ -1,0 +1,17 @@
+{
+  "slug": "bodyslam",
+  "name": "Body Slam",
+  "type": "normal",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A full-body slam that may cause paralysis.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bodyslam.shtml",
+    "scrapedAt": "2026-09-03T19:20:14.792Z"
+  }
+}

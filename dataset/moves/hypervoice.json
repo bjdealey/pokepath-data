@@ -1,0 +1,16 @@
+{
+  "slug": "hypervoice",
+  "name": "Hyper Voice",
+  "type": "normal",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A loud attack that uses sound waves to injure.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hypervoice.shtml",
+    "scrapedAt": "2026-09-03T19:23:01.370Z"
+  }
+}

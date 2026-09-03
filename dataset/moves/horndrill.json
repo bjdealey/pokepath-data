@@ -1,0 +1,17 @@
+{
+  "slug": "horndrill",
+  "name": "Horn Drill",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 30,
+  "pp": 5,
+  "effect": "A one-hit KO attack that uses a horn like a drill.",
+  "secondaryEffect": "May cause one-hit KO.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/horndrill.shtml",
+    "scrapedAt": "2026-09-03T19:22:52.363Z"
+  }
+}

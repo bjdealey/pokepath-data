@@ -1,0 +1,17 @@
+{
+  "slug": "grasswhistle",
+  "name": "Grasswhistle",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 15,
+  "effect": "Lulls the foe into sleep with a pleasant melody.",
+  "secondaryEffect": "Induces sleep.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/grasswhistle.shtml",
+    "scrapedAt": "2026-09-03T19:22:26.873Z"
+  }
+}

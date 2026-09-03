@@ -1,0 +1,17 @@
+{
+  "slug": "frenzyplant",
+  "name": "Frenzy Plant",
+  "type": "grass",
+  "category": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": "Powerful, but leaves the user immobile the next turn.",
+  "secondaryEffect": "User cannot attack on the next turn.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/frenzyplant.shtml",
+    "scrapedAt": "2026-09-03T19:22:14.851Z"
+  }
+}

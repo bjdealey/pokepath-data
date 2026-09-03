@@ -1,0 +1,17 @@
+{
+  "slug": "smog",
+  "name": "Smog",
+  "type": "poison",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 70,
+  "pp": 20,
+  "effect": "An exhaust-gas attack that may also poison.",
+  "secondaryEffect": "May induce poison.",
+  "effectRate": 40,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/smog.shtml",
+    "scrapedAt": "2026-09-03T19:26:58.508Z"
+  }
+}

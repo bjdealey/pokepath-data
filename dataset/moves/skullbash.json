@@ -1,0 +1,17 @@
+{
+  "slug": "skullbash",
+  "name": "Skull Bash",
+  "type": "normal",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Tucks in the head, then attacks on the next turn.",
+  "secondaryEffect": "Raises user's DEFENSE one stage and attacks next turn.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/skullbash.shtml",
+    "scrapedAt": "2026-09-03T19:26:42.029Z"
+  }
+}

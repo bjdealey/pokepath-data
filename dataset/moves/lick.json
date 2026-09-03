@@ -1,0 +1,17 @@
+{
+  "slug": "lick",
+  "name": "Lick",
+  "type": "ghost",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Licks with a long tongue to injure. May also paralyze.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/lick.shtml",
+    "scrapedAt": "2026-09-03T19:23:29.902Z"
+  }
+}

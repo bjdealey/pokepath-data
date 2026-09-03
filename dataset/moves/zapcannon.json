@@ -1,0 +1,17 @@
+{
+  "slug": "zapcannon",
+  "name": "Zap Cannon",
+  "type": "electric",
+  "category": "special",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "effect": "Powerful and sure to cause paralysis, but inaccurate.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 100,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/zapcannon.shtml",
+    "scrapedAt": "2026-09-03T19:28:55.627Z"
+  }
+}

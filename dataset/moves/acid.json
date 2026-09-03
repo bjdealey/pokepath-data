@@ -1,0 +1,17 @@
+{
+  "slug": "acid",
+  "name": "Acid",
+  "type": "poison",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Sprays a hide-melting acid. May lower DEFENSE.",
+  "secondaryEffect": "May lower opponent's DEFENSE one stage.",
+  "effectRate": 10,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/acid.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.900Z"
+  }
+}

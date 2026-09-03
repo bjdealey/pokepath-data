@@ -1,0 +1,17 @@
+{
+  "slug": "doublekick",
+  "name": "Double Kick",
+  "type": "fighting",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "A double-kicking attack that strikes the foe twice.",
+  "secondaryEffect": "Attacks twice in a row.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/doublekick.shtml",
+    "scrapedAt": "2026-09-03T19:21:14.804Z"
+  }
+}

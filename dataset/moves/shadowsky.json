@@ -1,0 +1,16 @@
+{
+  "slug": "shadowsky",
+  "name": "Shadow Sky",
+  "type": "shadow",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Creates Weather Effect that damages all Non-Shadow Pokémon each turn",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowsky.shtml",
+    "scrapedAt": "2026-09-03T19:26:25.517Z"
+  }
+}

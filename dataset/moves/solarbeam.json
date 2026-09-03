@@ -1,0 +1,17 @@
+{
+  "slug": "solarbeam",
+  "name": "Solarbeam",
+  "type": "grass",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Absorbs light in one turn, then attacks next turn.",
+  "secondaryEffect": "Wait for a turn and attacks the next.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/solarbeam.shtml",
+    "scrapedAt": "2026-09-03T19:27:06.058Z"
+  }
+}

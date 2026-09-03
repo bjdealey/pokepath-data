@@ -1,0 +1,17 @@
+{
+  "slug": "destinybond",
+  "name": "Destiny Bond",
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "If the user faints, the foe is also made to faint.",
+  "secondaryEffect": "If the user faints, the opponent will also faint.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/destinybond.shtml",
+    "scrapedAt": "2026-09-03T19:21:02.782Z"
+  }
+}

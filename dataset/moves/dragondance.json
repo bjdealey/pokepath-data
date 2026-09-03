@@ -1,0 +1,17 @@
+{
+  "slug": "dragondance",
+  "name": "Dragon Dance",
+  "type": "dragon",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "A mystical dance that ups ATTACK and SPEED.",
+  "secondaryEffect": "Raises user's ATTACK and SPEED one stage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dragondance.shtml",
+    "scrapedAt": "2026-09-03T19:21:22.290Z"
+  }
+}

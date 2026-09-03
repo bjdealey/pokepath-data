@@ -1,0 +1,17 @@
+{
+  "slug": "perishsong",
+  "name": "Perish Song",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "Any POKéMON hearing this song faints in 3 turns.",
+  "secondaryEffect": "All Pokémon on the field faint in 3 turns.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/perishsong.shtml",
+    "scrapedAt": "2026-09-03T19:24:40.454Z"
+  }
+}

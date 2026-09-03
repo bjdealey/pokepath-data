@@ -1,0 +1,17 @@
+{
+  "slug": "mindreader",
+  "name": "Mind Reader",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "Senses the foe's action to ensure the next move's hit.",
+  "secondaryEffect": "Ensures that user's next move will not fail.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mindreader.shtml",
+    "scrapedAt": "2026-09-03T19:24:05.949Z"
+  }
+}

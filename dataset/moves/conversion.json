@@ -1,0 +1,17 @@
+{
+  "slug": "conversion",
+  "name": "Conversion",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Changes the user's type into an own move's type.",
+  "secondaryEffect": "User changes type into an own move's type.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/conversion.shtml",
+    "scrapedAt": "2026-09-03T19:20:43.327Z"
+  }
+}

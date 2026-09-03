@@ -1,0 +1,17 @@
+{
+  "slug": "signalbeam",
+  "name": "Signal Beam",
+  "type": "bug",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A strange beam attack that may confuse the foe.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/signalbeam.shtml",
+    "scrapedAt": "2026-09-03T19:26:34.503Z"
+  }
+}

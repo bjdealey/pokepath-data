@@ -1,0 +1,17 @@
+{
+  "slug": "volttackle",
+  "name": "Volt Tackle",
+  "type": "electric",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A life-risking tackle that slightly hurts the user.",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/volttackle.shtml",
+    "scrapedAt": "2026-09-03T19:28:33.108Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "headbutt",
+  "name": "Headbutt",
+  "type": "normal",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A ramming attack that may cause flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/headbutt.shtml",
+    "scrapedAt": "2026-09-03T19:22:40.363Z"
+  }
+}

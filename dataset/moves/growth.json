@@ -1,0 +1,17 @@
+{
+  "slug": "growth",
+  "name": "Growth",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "Forces the body to grow and heightens SP. ATK.",
+  "secondaryEffect": "Raises user's SP. ATK one stage.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/growth.shtml",
+    "scrapedAt": "2026-09-03T19:22:29.826Z"
+  }
+}

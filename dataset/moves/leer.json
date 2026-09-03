@@ -1,0 +1,17 @@
+{
+  "slug": "leer",
+  "name": "Leer",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Frightens the foe with a leer to lower DEFENSE.",
+  "secondaryEffect": "Lowers opponent's DEFENSE one stage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/leer.shtml",
+    "scrapedAt": "2026-09-03T19:23:28.366Z"
+  }
+}

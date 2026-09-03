@@ -1,0 +1,17 @@
+{
+  "slug": "aircutter",
+  "name": "Air Cutter",
+  "type": "flying",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 25,
+  "effect": "Hacks with razorlike wind. High critical-hit ratio.",
+  "secondaryEffect": "Has high critical hit ratio.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/aircutter.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.933Z"
+  }
+}

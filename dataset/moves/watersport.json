@@ -1,0 +1,17 @@
+{
+  "slug": "watersport",
+  "name": "Water Sport",
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "The user becomes soaked to raise resistance to fire.",
+  "secondaryEffect": "Lowers the power of FIRE moves.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/watersport.shtml",
+    "scrapedAt": "2026-09-03T19:28:39.099Z"
+  }
+}

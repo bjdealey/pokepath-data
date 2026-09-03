@@ -1,0 +1,17 @@
+{
+  "slug": "payday",
+  "name": "Pay Day",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Throws coins at the foe. Money is recovered after.",
+  "secondaryEffect": "User gains coins after battle.",
+  "effectRate": 100,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/payday.shtml",
+    "scrapedAt": "2026-09-03T19:24:37.428Z"
+  }
+}

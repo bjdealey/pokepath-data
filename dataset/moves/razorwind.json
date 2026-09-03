@@ -1,0 +1,17 @@
+{
+  "slug": "razorwind",
+  "name": "Razor Wind",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A 2-turn move that strikes the foe on the 2nd turn.",
+  "secondaryEffect": "Has high critical hit ratio.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/razorwind.shtml",
+    "scrapedAt": "2026-09-03T19:25:14.931Z"
+  }
+}

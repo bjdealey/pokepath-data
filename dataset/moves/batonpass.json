@@ -1,0 +1,17 @@
+{
+  "slug": "batonpass",
+  "name": "Baton Pass",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "Switches out the user while keeping effects in play.",
+  "secondaryEffect": "Switches out the user but status changes remain.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/batonpass.shtml",
+    "scrapedAt": "2026-09-03T19:19:59.695Z"
+  }
+}

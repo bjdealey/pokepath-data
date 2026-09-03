@@ -1,0 +1,16 @@
+{
+  "slug": "pound",
+  "name": "Pound",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "Pounds the foe with forelegs or tail.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/pound.shtml",
+    "scrapedAt": "2026-09-03T19:24:52.445Z"
+  }
+}

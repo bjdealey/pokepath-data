@@ -1,0 +1,17 @@
+{
+  "slug": "psybeam",
+  "name": "Psybeam",
+  "type": "psychic",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Fires a peculiar ray that may confuse the foe.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/psybeam.shtml",
+    "scrapedAt": "2026-09-03T19:24:58.512Z"
+  }
+}

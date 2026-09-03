@@ -1,0 +1,17 @@
+{
+  "slug": "meteormash",
+  "name": "Meteor Mash",
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": "Fires a meteor-like punch. May raise ATTACK.",
+  "secondaryEffect": "May raise user's ATTACK one stage.",
+  "effectRate": 20,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/meteormash.shtml",
+    "scrapedAt": "2026-09-03T19:23:59.928Z"
+  }
+}

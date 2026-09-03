@@ -1,0 +1,17 @@
+{
+  "slug": "octazooka",
+  "name": "Octazooka",
+  "type": "water",
+  "category": "special",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": "Fires a lump of ink to damage and cut accuracy.",
+  "secondaryEffect": "May lower opponent's ACCURACY one stage.",
+  "effectRate": 50,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/octazooka.shtml",
+    "scrapedAt": "2026-09-03T19:24:29.879Z"
+  }
+}

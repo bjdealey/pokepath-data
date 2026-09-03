@@ -1,0 +1,17 @@
+{
+  "slug": "meditate",
+  "name": "Meditate",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "Meditates in a peaceful fashion to raise ATTACK.",
+  "secondaryEffect": "Raises user's ATTACK one stage.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/meditate.shtml",
+    "scrapedAt": "2026-09-03T19:23:46.395Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "thunder",
+  "name": "Thunder",
+  "type": "electric",
+  "category": "special",
+  "power": 120,
+  "accuracy": 70,
+  "pp": 10,
+  "effect": "A lightning attack that may cause paralysis.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 30,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/thunder.shtml",
+    "scrapedAt": "2026-09-03T19:28:06.111Z"
+  }
+}

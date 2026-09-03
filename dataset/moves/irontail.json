@@ -1,0 +1,17 @@
+{
+  "slug": "irontail",
+  "name": "Iron Tail",
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 15,
+  "effect": "Attacks with a rock-hard tail. May lower DEFENSE.",
+  "secondaryEffect": "May lower opponent's DEFENSE one stage.",
+  "effectRate": 30,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/irontail.shtml",
+    "scrapedAt": "2026-09-03T19:23:16.417Z"
+  }
+}

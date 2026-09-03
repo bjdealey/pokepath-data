@@ -1,0 +1,17 @@
+{
+  "slug": "sketch",
+  "name": "Sketch",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "effect": "Copies the foe's last move permanently.",
+  "secondaryEffect": "Copies the opponent's last move forever.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sketch.shtml",
+    "scrapedAt": "2026-09-03T19:26:39.031Z"
+  }
+}

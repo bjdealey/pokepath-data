@@ -1,0 +1,17 @@
+{
+  "slug": "barrier",
+  "name": "Barrier",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Creates a barrier that sharply raises DEFENSE.",
+  "secondaryEffect": "Raises user's DEFENSE two stages.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/barrier.shtml",
+    "scrapedAt": "2026-09-03T19:19:58.258Z"
+  }
+}

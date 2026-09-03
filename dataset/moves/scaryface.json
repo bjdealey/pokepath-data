@@ -1,0 +1,17 @@
+{
+  "slug": "scaryface",
+  "name": "Scary Face",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "Frightens with a scary face to sharply reduce SPEED.",
+  "secondaryEffect": "Lowers opponent's SPEED two stages.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/scaryface.shtml",
+    "scrapedAt": "2026-09-03T19:25:49.507Z"
+  }
+}

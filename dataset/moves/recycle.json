@@ -1,0 +1,17 @@
+{
+  "slug": "recycle",
+  "name": "Recycle",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Recycles a used item for one more use.",
+  "secondaryEffect": "Recycles an already used held item.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/recycle.shtml",
+    "scrapedAt": "2026-09-03T19:25:18.048Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "slam",
+  "name": "Slam",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 75,
+  "pp": 20,
+  "effect": "Slams the foe with a long tail, vine, etc.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/slam.shtml",
+    "scrapedAt": "2026-09-03T19:26:48.009Z"
+  }
+}

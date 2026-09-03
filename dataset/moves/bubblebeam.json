@@ -1,0 +1,17 @@
+{
+  "slug": "bubblebeam",
+  "name": "Bubblebeam",
+  "type": "water",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Forcefully sprays bubbles that may lower SPEED.",
+  "secondaryEffect": "May lower opponent's SPEED one stage.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bubblebeam.shtml",
+    "scrapedAt": "2026-09-03T19:20:25.212Z"
+  }
+}

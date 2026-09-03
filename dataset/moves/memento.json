@@ -1,0 +1,17 @@
+{
+  "slug": "memento",
+  "name": "Memento",
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "The user faints and lowers the foe's abilities.",
+  "secondaryEffect": "Lowers opponent's stats. User faints.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/memento.shtml",
+    "scrapedAt": "2026-09-03T19:23:53.913Z"
+  }
+}

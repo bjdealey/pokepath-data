@@ -1,0 +1,17 @@
+{
+  "slug": "sweetkiss",
+  "name": "Sweet Kiss",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 10,
+  "effect": "Demands a kiss with a cute look. May cause confusion.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sweetkiss.shtml",
+    "scrapedAt": "2026-09-03T19:27:45.100Z"
+  }
+}

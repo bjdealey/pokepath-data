@@ -1,0 +1,17 @@
+{
+  "slug": "confusion",
+  "name": "Confusion",
+  "type": "psychic",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "A psychic attack that may cause confusion.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": 10,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/confusion.shtml",
+    "scrapedAt": "2026-09-03T19:20:40.300Z"
+  }
+}

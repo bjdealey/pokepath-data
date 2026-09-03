@@ -1,0 +1,17 @@
+{
+  "slug": "sonicboom",
+  "name": "Sonicboom",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "Launches shock waves that always inflict 20 HP damage.",
+  "secondaryEffect": "Inflicts 20 HP damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sonicboom.shtml",
+    "scrapedAt": "2026-09-03T19:27:07.626Z"
+  }
+}

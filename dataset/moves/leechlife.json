@@ -1,0 +1,17 @@
+{
+  "slug": "leechlife",
+  "name": "Leech Life",
+  "type": "bug",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "An attack that steals half the damage inflicted.",
+  "secondaryEffect": "User recovers half the damage inflicted.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/leechlife.shtml",
+    "scrapedAt": "2026-09-03T19:23:25.402Z"
+  }
+}

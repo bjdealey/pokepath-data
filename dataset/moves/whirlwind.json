@@ -1,0 +1,17 @@
+{
+  "slug": "whirlwind",
+  "name": "Whirlwind",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Blows away the foe with wind and ends the battle.",
+  "secondaryEffect": "Ends battle. Switches the opponent Pokémon in a trainer battle.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/whirlwind.shtml",
+    "scrapedAt": "2026-09-03T19:28:45.142Z"
+  }
+}

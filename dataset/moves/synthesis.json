@@ -1,0 +1,17 @@
+{
+  "slug": "synthesis",
+  "name": "Synthesis",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "Restores HP. The amount varies with the weather.",
+  "secondaryEffect": "User restores HP.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/synthesis.shtml",
+    "scrapedAt": "2026-09-03T19:27:51.144Z"
+  }
+}

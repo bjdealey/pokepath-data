@@ -1,0 +1,17 @@
+{
+  "slug": "heatwave",
+  "name": "Heat Wave",
+  "type": "fire",
+  "category": "special",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "Exhales a hot breath on the foe. May inflict a burn.",
+  "secondaryEffect": "May induce burn.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/heatwave.shtml",
+    "scrapedAt": "2026-09-03T19:22:44.826Z"
+  }
+}

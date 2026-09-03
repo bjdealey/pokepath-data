@@ -1,0 +1,17 @@
+{
+  "slug": "firepunch",
+  "name": "Fire Punch",
+  "type": "fire",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A fiery punch that may burn the foe.",
+  "secondaryEffect": "May induce burn.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/firepunch.shtml",
+    "scrapedAt": "2026-09-03T19:21:55.373Z"
+  }
+}

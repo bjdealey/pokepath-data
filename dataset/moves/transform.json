@@ -1,0 +1,17 @@
+{
+  "slug": "transform",
+  "name": "Transform",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Alters the user's cells to become a copy of the foe.",
+  "secondaryEffect": "User transforms to the opponent.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/transform.shtml",
+    "scrapedAt": "2026-09-03T19:28:18.146Z"
+  }
+}

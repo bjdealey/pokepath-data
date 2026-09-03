@@ -1,0 +1,17 @@
+{
+  "slug": "lovelykiss",
+  "name": "Lovely Kiss",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 10,
+  "effect": "Demands a kiss with a scary face that induces sleep.",
+  "secondaryEffect": "Induces sleep.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/lovelykiss.shtml",
+    "scrapedAt": "2026-09-03T19:23:34.419Z"
+  }
+}

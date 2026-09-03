@@ -1,0 +1,17 @@
+{
+  "slug": "mirrormove",
+  "name": "Mirror Move",
+  "type": "flying",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Counters the foe's attack with the same move.",
+  "secondaryEffect": "User does the last move used by opponent.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mirrormove.shtml",
+    "scrapedAt": "2026-09-03T19:24:10.441Z"
+  }
+}

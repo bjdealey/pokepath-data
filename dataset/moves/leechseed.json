@@ -1,0 +1,17 @@
+{
+  "slug": "leechseed",
+  "name": "Leech Seed",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "Plants a seed on the foe to steal HP on every turn.",
+  "secondaryEffect": "User steals HP from the opponent every turn.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/leechseed.shtml",
+    "scrapedAt": "2026-09-03T19:23:26.918Z"
+  }
+}

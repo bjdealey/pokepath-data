@@ -1,0 +1,16 @@
+{
+  "slug": "dragonclaw",
+  "name": "Dragon Claw",
+  "type": "dragon",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Slashes the foe with sharp claws.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dragonclaw.shtml",
+    "scrapedAt": "2026-09-03T19:21:20.773Z"
+  }
+}

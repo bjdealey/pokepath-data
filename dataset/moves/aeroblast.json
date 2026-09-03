@@ -1,0 +1,17 @@
+{
+  "slug": "aeroblast",
+  "name": "Aeroblast",
+  "type": "flying",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "effect": "Launches a vacuumed blast. High critical-hit ratio.",
+  "secondaryEffect": "Has high critical hit ratio.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/aeroblast.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.918Z"
+  }
+}

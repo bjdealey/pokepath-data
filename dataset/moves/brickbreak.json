@@ -1,0 +1,17 @@
+{
+  "slug": "brickbreak",
+  "name": "Brick Break",
+  "type": "fighting",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Destroys barriers such as REFLECT and causes damage.",
+  "secondaryEffect": "Destroys protective barriers.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/brickbreak.shtml",
+    "scrapedAt": "2026-09-03T19:20:22.370Z"
+  }
+}

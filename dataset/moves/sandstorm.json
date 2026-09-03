@@ -1,0 +1,17 @@
+{
+  "slug": "sandstorm",
+  "name": "Sandstorm",
+  "type": "rock",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Causes a sandstorm that rages for several turns.",
+  "secondaryEffect": "Causes a Sandstorm for 5 turns.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sandstorm.shtml",
+    "scrapedAt": "2026-09-03T19:25:46.547Z"
+  }
+}

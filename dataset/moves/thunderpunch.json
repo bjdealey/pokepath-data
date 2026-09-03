@@ -1,0 +1,17 @@
+{
+  "slug": "thunderpunch",
+  "name": "Thunderpunch",
+  "type": "electric",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "An electrified punch that may paralyze the foe.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 10,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/thunderpunch.shtml",
+    "scrapedAt": "2026-09-03T19:28:09.078Z"
+  }
+}

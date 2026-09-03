@@ -1,0 +1,17 @@
+{
+  "slug": "foresight",
+  "name": "Foresight",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "Negates the foe's efforts to heighten evasiveness.",
+  "secondaryEffect": "Resets opponent's EVASIVENESS.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/foresight.shtml",
+    "scrapedAt": "2026-09-03T19:22:13.337Z"
+  }
+}

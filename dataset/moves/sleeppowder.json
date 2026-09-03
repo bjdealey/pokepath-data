@@ -1,0 +1,17 @@
+{
+  "slug": "sleeppowder",
+  "name": "Sleep Powder",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 15,
+  "effect": "Scatters a powder that may cause the foe to sleep.",
+  "secondaryEffect": "Induces sleep.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sleeppowder.shtml",
+    "scrapedAt": "2026-09-03T19:26:51.145Z"
+  }
+}

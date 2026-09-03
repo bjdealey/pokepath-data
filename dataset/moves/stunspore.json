@@ -1,0 +1,17 @@
+{
+  "slug": "stunspore",
+  "name": "Stun Spore",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 30,
+  "effect": "Scatters a powder that may paralyze the foe.",
+  "secondaryEffect": "Induces paralysis",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/stunspore.shtml",
+    "scrapedAt": "2026-09-03T19:27:30.044Z"
+  }
+}

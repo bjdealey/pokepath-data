@@ -1,0 +1,17 @@
+{
+  "slug": "supersonic",
+  "name": "Supersonic",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 20,
+  "effect": "Emits bizarre sound waves that may confuse the foe.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/supersonic.shtml",
+    "scrapedAt": "2026-09-03T19:27:39.089Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "shadowwave",
+  "name": "Shadow Wave",
+  "type": "shadow",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Deals Damage to Both Opponents",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowwave.shtml",
+    "scrapedAt": "2026-09-03T19:26:28.538Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "furycutter",
+  "name": "Fury Cutter",
+  "type": "bug",
+  "category": "physical",
+  "power": 10,
+  "accuracy": 95,
+  "pp": 20,
+  "effect": "An attack that intensifies on each successive hit.",
+  "secondaryEffect": "Move's power raises if it hits.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/furycutter.shtml",
+    "scrapedAt": "2026-09-03T19:22:19.401Z"
+  }
+}

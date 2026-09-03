@@ -1,0 +1,17 @@
+{
+  "slug": "hydrocannon",
+  "name": "Hydro Cannon",
+  "type": "water",
+  "category": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": "Powerful, but leaves the user immobile the next turn.",
+  "secondaryEffect": "User cannot attack on the next turn.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hydrocannon.shtml",
+    "scrapedAt": "2026-09-03T19:22:55.440Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "sand-attack",
+  "name": "Sand-attack",
+  "type": "ground",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Reduces the foe's accuracy by hurling sand in its face.",
+  "secondaryEffect": "Lowers opponent's ACCURACY one stage.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sand-attack.shtml",
+    "scrapedAt": "2026-09-03T19:25:45.069Z"
+  }
+}

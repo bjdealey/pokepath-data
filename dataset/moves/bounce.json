@@ -1,0 +1,17 @@
+{
+  "slug": "bounce",
+  "name": "Bounce",
+  "type": "flying",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 85,
+  "pp": 5,
+  "effect": "Bounces up, then down the next turn. May paralyze.",
+  "secondaryEffect": "The user is protected the first turn, attacks the second turn.",
+  "effectRate": 30,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bounce.shtml",
+    "scrapedAt": "2026-09-03T19:20:20.783Z"
+  }
+}

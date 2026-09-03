@@ -1,0 +1,17 @@
+{
+  "slug": "dynamicpunch",
+  "name": "Dynamicpunch",
+  "type": "fighting",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "effect": "Powerful and sure to cause confusion, but inaccurate.",
+  "secondaryEffect": "May induce CONFUSION.",
+  "effectRate": 100,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dynamicpunch.shtml",
+    "scrapedAt": "2026-09-03T19:21:28.312Z"
+  }
+}

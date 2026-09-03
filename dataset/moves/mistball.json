@@ -1,0 +1,17 @@
+{
+  "slug": "mistball",
+  "name": "Mist Ball",
+  "type": "psychic",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "Attacks with a flurry of down. May lower SP. ATK.",
+  "secondaryEffect": "May lower opponent's SP. ATK one stage.",
+  "effectRate": 50,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mistball.shtml",
+    "scrapedAt": "2026-09-03T19:24:13.397Z"
+  }
+}

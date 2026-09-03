@@ -1,0 +1,17 @@
+{
+  "slug": "moonlight",
+  "name": "Moonlight",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "Restores HP. The amount varies with the weather.",
+  "secondaryEffect": "User restores HP.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/moonlight.shtml",
+    "scrapedAt": "2026-09-03T19:24:14.933Z"
+  }
+}

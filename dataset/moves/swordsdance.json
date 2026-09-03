@@ -1,0 +1,17 @@
+{
+  "slug": "swordsdance",
+  "name": "Swords Dance",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "A fighting dance that sharply raises ATTACK.",
+  "secondaryEffect": "Raises user's ATTACK two stages.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/swordsdance.shtml",
+    "scrapedAt": "2026-09-03T19:27:49.575Z"
+  }
+}

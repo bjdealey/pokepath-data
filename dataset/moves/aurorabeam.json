@@ -1,0 +1,17 @@
+{
+  "slug": "aurorabeam",
+  "name": "Aurora Beam",
+  "type": "ice",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Fires a rainbow-colored beam that may lower ATTACK.",
+  "secondaryEffect": "May lower opponent's ATTACK one stage.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/aurorabeam.shtml",
+    "scrapedAt": "2026-09-03T19:19:55.197Z"
+  }
+}

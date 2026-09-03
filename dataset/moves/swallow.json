@@ -1,0 +1,17 @@
+{
+  "slug": "swallow",
+  "name": "Swallow",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Absorbs stockpiled power and restores HP.",
+  "secondaryEffect": "Absorbs power from STOCKPILE and recovers HP.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/swallow.shtml",
+    "scrapedAt": "2026-09-03T19:27:43.574Z"
+  }
+}

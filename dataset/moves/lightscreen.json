@@ -1,0 +1,17 @@
+{
+  "slug": "lightscreen",
+  "name": "Light Screen",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Creates a wall of light that lowers SP. ATK damage.",
+  "secondaryEffect": "Halves SP. ATK damage inflicted on user.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/lightscreen.shtml",
+    "scrapedAt": "2026-09-03T19:23:31.427Z"
+  }
+}

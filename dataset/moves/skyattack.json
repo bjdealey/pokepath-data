@@ -1,0 +1,17 @@
+{
+  "slug": "skyattack",
+  "name": "Sky Attack",
+  "type": "flying",
+  "category": "physical",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": "Searches out weak spots, then strikes the next turn.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 30,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/skyattack.shtml",
+    "scrapedAt": "2026-09-03T19:26:43.538Z"
+  }
+}

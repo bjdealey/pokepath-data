@@ -1,0 +1,17 @@
+{
+  "slug": "spite",
+  "name": "Spite",
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Spitefully cuts the PP of the foe's last move.",
+  "secondaryEffect": "Opponent's last move loses 2-5 HP.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spite.shtml",
+    "scrapedAt": "2026-09-03T19:27:15.025Z"
+  }
+}

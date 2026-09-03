@@ -1,0 +1,17 @@
+{
+  "slug": "overheat",
+  "name": "Overheat",
+  "type": "fire",
+  "category": "special",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": "Allows a full-power attack, but sharply lowers SP. ATK.",
+  "secondaryEffect": "Lowers user's SP. ATK two stages.",
+  "effectRate": 100,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/overheat.shtml",
+    "scrapedAt": "2026-09-03T19:24:34.538Z"
+  }
+}

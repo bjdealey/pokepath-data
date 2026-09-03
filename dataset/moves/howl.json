@@ -1,0 +1,17 @@
+{
+  "slug": "howl",
+  "name": "Howl",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "Howls to raise the spirit and boosts ATTACK.",
+  "secondaryEffect": "Raises user's ATTACK one stage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/howl.shtml",
+    "scrapedAt": "2026-09-03T19:22:53.898Z"
+  }
+}

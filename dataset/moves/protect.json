@@ -1,0 +1,17 @@
+{
+  "slug": "protect",
+  "name": "Protect",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Evades attack, but may fail if used in succession.",
+  "secondaryEffect": "Evades opponents next attack; the move's accuracy drops.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/protect.shtml",
+    "scrapedAt": "2026-09-03T19:24:57.098Z"
+  }
+}

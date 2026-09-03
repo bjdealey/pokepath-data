@@ -1,0 +1,17 @@
+{
+  "slug": "cottonspore",
+  "name": "Cotton Spore",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 40,
+  "effect": "Spores cling to the foe, sharply reducing SPEED.",
+  "secondaryEffect": "Lowers opponent's SPEED two stages.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/cottonspore.shtml",
+    "scrapedAt": "2026-09-03T19:20:47.779Z"
+  }
+}

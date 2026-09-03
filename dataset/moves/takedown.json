@@ -1,0 +1,17 @@
+{
+  "slug": "takedown",
+  "name": "Take Down",
+  "type": "normal",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "A reckless charge attack that also hurts the user.",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/takedown.shtml",
+    "scrapedAt": "2026-09-03T19:27:57.062Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "superfang",
+  "name": "Super Fang",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "Attacks with sharp fangs and cuts half the foe's HP.",
+  "secondaryEffect": "Cuts half opponent's HP.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/superfang.shtml",
+    "scrapedAt": "2026-09-03T19:27:36.081Z"
+  }
+}

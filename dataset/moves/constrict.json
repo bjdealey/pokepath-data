@@ -1,0 +1,17 @@
+{
+  "slug": "constrict",
+  "name": "Constrict",
+  "type": "normal",
+  "category": "physical",
+  "power": 10,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "Constricts to inflict pain. May lower SPEED.",
+  "secondaryEffect": "May lower opponent's SPEED one stage.",
+  "effectRate": 10,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/constrict.shtml",
+    "scrapedAt": "2026-09-03T19:20:41.786Z"
+  }
+}

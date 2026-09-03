@@ -1,0 +1,17 @@
+{
+  "slug": "rollout",
+  "name": "Rollout",
+  "type": "rock",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "An attack lasting 5 turns with rising intensity.",
+  "secondaryEffect": "Uses the same move for 5 turns; move's power raises if it hits.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rollout.shtml",
+    "scrapedAt": "2026-09-03T19:25:40.602Z"
+  }
+}

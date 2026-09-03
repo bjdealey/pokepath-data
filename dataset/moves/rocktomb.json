@@ -1,0 +1,17 @@
+{
+  "slug": "rocktomb",
+  "name": "Rock Tomb",
+  "type": "rock",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 80,
+  "pp": 10,
+  "effect": "Stops the foe from moving with rocks and cuts SPEED.",
+  "secondaryEffect": "May lower opponent's SPEED one stage.",
+  "effectRate": 100,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rocktomb.shtml",
+    "scrapedAt": "2026-09-03T19:25:35.981Z"
+  }
+}

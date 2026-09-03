@@ -1,0 +1,17 @@
+{
+  "slug": "pursuit",
+  "name": "Pursuit",
+  "type": "dark",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Inflicts bad damage if used on a foe switching out.",
+  "secondaryEffect": "Inflicts double damage if the opponent is switching out.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/pursuit.shtml",
+    "scrapedAt": "2026-09-03T19:25:06.017Z"
+  }
+}

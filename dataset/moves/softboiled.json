@@ -1,0 +1,17 @@
+{
+  "slug": "softboiled",
+  "name": "Softboiled",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Recovers up to half the user's maximum HP.",
+  "secondaryEffect": "User recovers half the maximum HP. Can also be used in the field.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/softboiled.shtml",
+    "scrapedAt": "2026-09-03T19:27:04.521Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "helpinghand",
+  "name": "Helping Hand",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Boosts the power of the recipient's moves.",
+  "secondaryEffect": "Boosts receiver's attacks. Best used in 2VS2 battles.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/helpinghand.shtml",
+    "scrapedAt": "2026-09-03T19:22:46.387Z"
+  }
+}

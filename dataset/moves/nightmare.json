@@ -1,0 +1,17 @@
+{
+  "slug": "nightmare",
+  "name": "Nightmare",
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Inflicts 1/4 damage on a sleeping foe every turn.",
+  "secondaryEffect": "Inflicts 1/4 damage on a sleeping foe every turn.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/nightmare.shtml",
+    "scrapedAt": "2026-09-03T19:24:26.927Z"
+  }
+}

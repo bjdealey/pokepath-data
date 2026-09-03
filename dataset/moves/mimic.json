@@ -1,0 +1,17 @@
+{
+  "slug": "mimic",
+  "name": "Mimic",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Copies a move used by the foe during one battle.",
+  "secondaryEffect": "Copies opponents last move.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mimic.shtml",
+    "scrapedAt": "2026-09-03T19:24:04.492Z"
+  }
+}

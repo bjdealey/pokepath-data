@@ -1,0 +1,17 @@
+{
+  "slug": "fakeout",
+  "name": "Fake Out",
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "A 1st-turn, 1st-strike move that causes flinching.",
+  "secondaryEffect": "Causes opponent to flinch. Attacks first.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/fakeout.shtml",
+    "scrapedAt": "2026-09-03T19:21:47.815Z"
+  }
+}

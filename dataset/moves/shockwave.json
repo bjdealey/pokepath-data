@@ -1,0 +1,17 @@
+{
+  "slug": "shockwave",
+  "name": "Shock Wave",
+  "type": "electric",
+  "category": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "A fast and unavoidable electric attack.",
+  "secondaryEffect": "Cannot miss.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shockwave.shtml",
+    "scrapedAt": "2026-09-03T19:26:33.052Z"
+  }
+}

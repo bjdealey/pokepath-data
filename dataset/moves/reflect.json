@@ -1,0 +1,17 @@
+{
+  "slug": "reflect",
+  "name": "Reflect",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Creates a wall of light that weakens physical attacks.",
+  "secondaryEffect": "Halves ATTACK damage inflicted on user.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/reflect.shtml",
+    "scrapedAt": "2026-09-03T19:25:19.449Z"
+  }
+}

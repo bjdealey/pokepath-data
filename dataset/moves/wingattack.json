@@ -1,0 +1,16 @@
+{
+  "slug": "wingattack",
+  "name": "Wing Attack",
+  "type": "flying",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "Strikes the foe with wings spread wide.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/wingattack.shtml",
+    "scrapedAt": "2026-09-03T19:28:48.134Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "faketears",
+  "name": "Fake Tears",
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Feigns crying to sharply lower the foe's SP. DEF.",
+  "secondaryEffect": "Lowers opponent's SP. DEF two stages.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/faketears.shtml",
+    "scrapedAt": "2026-09-03T19:21:49.385Z"
+  }
+}

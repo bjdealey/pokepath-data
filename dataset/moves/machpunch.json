@@ -1,0 +1,17 @@
+{
+  "slug": "machpunch",
+  "name": "Mach Punch",
+  "type": "fighting",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "A punch is thrown at wicked speed to strike first.",
+  "secondaryEffect": "Always strikes first.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/machpunch.shtml",
+    "scrapedAt": "2026-09-03T19:23:38.960Z"
+  }
+}

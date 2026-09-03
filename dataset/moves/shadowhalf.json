@@ -1,0 +1,16 @@
+{
+  "slug": "shadowhalf",
+  "name": "Shadow Half",
+  "type": "shadow",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "1st Turn: Splits All Pokémon's HP in half. 2nd Turn: Rest",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowhalf.shtml",
+    "scrapedAt": "2026-09-03T19:26:11.954Z"
+  }
+}

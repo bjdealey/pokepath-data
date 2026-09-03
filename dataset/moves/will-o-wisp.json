@@ -1,0 +1,17 @@
+{
+  "slug": "will-o-wisp",
+  "name": "Will-o-wisp",
+  "type": "fire",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 15,
+  "effect": "Inflicts a burn on the foe with intense fire.",
+  "secondaryEffect": "Induces burn.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/will-o-wisp.shtml",
+    "scrapedAt": "2026-09-03T19:28:46.620Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "stomp",
+  "name": "Stomp",
+  "type": "normal",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Stomps the enemy with a big foot. May cause flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/stomp.shtml",
+    "scrapedAt": "2026-09-03T19:27:24.074Z"
+  }
+}

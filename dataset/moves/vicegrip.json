@@ -1,0 +1,16 @@
+{
+  "slug": "vicegrip",
+  "name": "Vicegrip",
+  "type": "normal",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Grips the foe with large and powerful pincers.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/vicegrip.shtml",
+    "scrapedAt": "2026-09-03T19:28:28.640Z"
+  }
+}

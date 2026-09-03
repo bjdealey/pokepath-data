@@ -1,0 +1,17 @@
+{
+  "slug": "imprison",
+  "name": "Imprison",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Prevents foes from using moves known by the user.",
+  "secondaryEffect": "Opponent cannot use move that user knows.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/imprison.shtml",
+    "scrapedAt": "2026-09-03T19:23:11.852Z"
+  }
+}

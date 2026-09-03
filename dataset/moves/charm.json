@@ -1,0 +1,17 @@
+{
+  "slug": "charm",
+  "name": "Charm",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Charms the foe and sharply reduces its ATTACK.",
+  "secondaryEffect": "Lowers opponent's ATTACK two stages.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/charm.shtml",
+    "scrapedAt": "2026-09-03T19:20:34.278Z"
+  }
+}

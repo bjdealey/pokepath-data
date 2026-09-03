@@ -1,0 +1,17 @@
+{
+  "slug": "spore",
+  "name": "Spore",
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Scatters a cloud of spores that always induce sleep.",
+  "secondaryEffect": "Induces sleep.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spore.shtml",
+    "scrapedAt": "2026-09-03T19:27:19.526Z"
+  }
+}

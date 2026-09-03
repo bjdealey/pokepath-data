@@ -1,0 +1,17 @@
+{
+  "slug": "shadowrush1",
+  "name": "Shadow Rush",
+  "type": "shadow",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Gives user re-coil damage. Colosseum Only",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": null,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowrush1.shtml",
+    "scrapedAt": "2026-09-03T19:26:21.012Z"
+  }
+}

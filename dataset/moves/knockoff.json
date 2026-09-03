@@ -1,0 +1,17 @@
+{
+  "slug": "knockoff",
+  "name": "Knock Off",
+  "type": "dark",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Knocks down the foe's held item to prevent its use.",
+  "secondaryEffect": "Knocks down opponent's held item to prevent its use.",
+  "effectRate": 100,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/knockoff.shtml",
+    "scrapedAt": "2026-09-03T19:23:22.449Z"
+  }
+}

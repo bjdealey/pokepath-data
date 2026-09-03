@@ -1,0 +1,17 @@
+{
+  "slug": "ancientpower",
+  "name": "Ancientpower",
+  "type": "rock",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "An attack that may raise all stats.",
+  "secondaryEffect": "May raise all user's stats one stage.",
+  "effectRate": 10,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/ancientpower.shtml",
+    "scrapedAt": "2026-09-03T19:19:46.480Z"
+  }
+}

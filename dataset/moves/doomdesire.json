@@ -1,0 +1,17 @@
+{
+  "slug": "doomdesire",
+  "name": "Doom Desire",
+  "type": "steel",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 5,
+  "effect": "Summons strong sunlight to attack 2 turns later.",
+  "secondaryEffect": "Damage delays 2 turns.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/doomdesire.shtml",
+    "scrapedAt": "2026-09-03T19:21:11.785Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "milkdrink",
+  "name": "Milk Drink",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "Recovers up to half the user's maximum HP.",
+  "secondaryEffect": "User recovers half the maximum HP. Can also be used in the field.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/milkdrink.shtml",
+    "scrapedAt": "2026-09-03T19:24:02.902Z"
+  }
+}

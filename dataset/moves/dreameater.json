@@ -1,0 +1,17 @@
+{
+  "slug": "dreameater",
+  "name": "Dream Eater",
+  "type": "psychic",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Takes one half the damage inflicted on a sleeping foe.",
+  "secondaryEffect": "User recovers half the damage inflicted on a sleeping opponent.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dreameater.shtml",
+    "scrapedAt": "2026-09-03T19:21:25.315Z"
+  }
+}

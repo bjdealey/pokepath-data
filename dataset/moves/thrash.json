@@ -1,0 +1,17 @@
+{
+  "slug": "thrash",
+  "name": "Thrash",
+  "type": "normal",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "A rampage of 2 to 3 turns that confuses the user.",
+  "secondaryEffect": "User uses the same attack for 2-3 turns then becomes confused.",
+  "effectRate": 100,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/thrash.shtml",
+    "scrapedAt": "2026-09-03T19:28:04.588Z"
+  }
+}

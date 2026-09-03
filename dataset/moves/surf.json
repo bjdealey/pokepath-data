@@ -1,0 +1,16 @@
+{
+  "slug": "surf",
+  "name": "Surf",
+  "type": "water",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Creates a huge wave, then crashes it down on the foe.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/surf.shtml",
+    "scrapedAt": "2026-09-03T19:27:40.565Z"
+  }
+}

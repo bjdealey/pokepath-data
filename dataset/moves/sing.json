@@ -1,0 +1,17 @@
+{
+  "slug": "sing",
+  "name": "Sing",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 15,
+  "effect": "A soothing song lulls the foe into a deep slumber.",
+  "secondaryEffect": "Induces sleep.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sing.shtml",
+    "scrapedAt": "2026-09-03T19:26:37.511Z"
+  }
+}

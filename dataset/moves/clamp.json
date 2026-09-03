@@ -1,0 +1,17 @@
+{
+  "slug": "clamp",
+  "name": "Clamp",
+  "type": "water",
+  "category": "special",
+  "power": 35,
+  "accuracy": 75,
+  "pp": 10,
+  "effect": "Traps and squeezes the foe for 2 to 5 turns.",
+  "secondaryEffect": "Traps opponent.",
+  "effectRate": 100,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/clamp.shtml",
+    "scrapedAt": "2026-09-03T19:20:35.718Z"
+  }
+}

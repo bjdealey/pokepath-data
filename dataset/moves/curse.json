@@ -1,0 +1,17 @@
+{
+  "slug": "curse",
+  "name": "Curse",
+  "type": "curse",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "A move that functions differently for GHOSTS.",
+  "secondaryEffect": "Ghost type Pokémon: User loses half their maximum HP, and the opponent gets a Nightmare. Other Pokémon types: Raises user's ATTACK and DEFENSE one stage. Lowers user's SPEED one stage.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/curse.shtml",
+    "scrapedAt": "2026-09-03T19:20:58.286Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "rocksmash",
+  "name": "Rock Smash",
+  "type": "fighting",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A rock-crushing attack that may lower DEFENSE.",
+  "secondaryEffect": "May lower opponent's DEFENSE one stage.",
+  "effectRate": 50,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rocksmash.shtml",
+    "scrapedAt": "2026-09-03T19:25:33.014Z"
+  }
+}

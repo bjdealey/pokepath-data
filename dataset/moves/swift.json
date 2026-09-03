@@ -1,0 +1,17 @@
+{
+  "slug": "swift",
+  "name": "Swift",
+  "type": "normal",
+  "category": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Sprays star-shaped rays that never miss.",
+  "secondaryEffect": "Cannot miss.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/swift.shtml",
+    "scrapedAt": "2026-09-03T19:27:48.122Z"
+  }
+}

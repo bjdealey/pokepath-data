@@ -1,0 +1,17 @@
+{
+  "slug": "dragonrage",
+  "name": "Dragon Rage",
+  "type": "dragon",
+  "category": "special",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Launches shock waves that always inflict 40 HP damage.",
+  "secondaryEffect": "Inflicts 40 HP damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dragonrage.shtml",
+    "scrapedAt": "2026-09-03T19:21:23.790Z"
+  }
+}

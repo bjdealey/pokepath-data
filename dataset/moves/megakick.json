@@ -1,0 +1,16 @@
+{
+  "slug": "megakick",
+  "name": "Mega Kick",
+  "type": "normal",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 75,
+  "pp": 5,
+  "effect": "An extremely powerful kick with intense force.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/megakick.shtml",
+    "scrapedAt": "2026-09-03T19:23:50.911Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "futuresight",
+  "name": "Future Sight",
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": "Heightens inner power to strike 2 turns later.",
+  "secondaryEffect": "Damage delays 2 turns.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/futuresight.shtml",
+    "scrapedAt": "2026-09-03T19:22:22.420Z"
+  }
+}

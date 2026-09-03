@@ -1,0 +1,17 @@
+{
+  "slug": "pinmissile",
+  "name": "Pin Missile",
+  "type": "bug",
+  "category": "physical",
+  "power": 14,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "Sharp pins are fired to strike 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/pinmissile.shtml",
+    "scrapedAt": "2026-09-03T19:24:43.464Z"
+  }
+}

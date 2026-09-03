@@ -1,0 +1,16 @@
+{
+  "slug": "megapunch",
+  "name": "Mega Punch",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "A strong punch thrown with incredible power.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/megapunch.shtml",
+    "scrapedAt": "2026-09-03T19:23:52.387Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "weatherball",
+  "name": "Weather Ball",
+  "type": "normal",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "The move's type and power change with the weather.",
+  "secondaryEffect": "Depends on the weather.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/weatherball.shtml",
+    "scrapedAt": "2026-09-03T19:28:42.062Z"
+  }
+}

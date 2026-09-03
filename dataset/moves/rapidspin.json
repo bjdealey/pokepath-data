@@ -1,0 +1,17 @@
+{
+  "slug": "rapidspin",
+  "name": "Rapid Spin",
+  "type": "normal",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "Spins the body at high speed to strike the foe.",
+  "secondaryEffect": "User is becomes free from moves like Wrap, Bind and Leech Seed.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rapidspin.shtml",
+    "scrapedAt": "2026-09-03T19:25:11.984Z"
+  }
+}

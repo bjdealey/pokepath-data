@@ -1,0 +1,17 @@
+{
+  "slug": "magnitude",
+  "name": "Magnitude",
+  "type": "ground",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "A ground-shaking attack of random intensity.",
+  "secondaryEffect": "Move power is random: 10/30/50/70/90/110/150.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/magnitude.shtml",
+    "scrapedAt": "2026-09-03T19:23:43.445Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "peck",
+  "name": "Peck",
+  "type": "flying",
+  "category": "physical",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "Attacks the foe with a jabbing beak, etc.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/peck.shtml",
+    "scrapedAt": "2026-09-03T19:24:39.014Z"
+  }
+}

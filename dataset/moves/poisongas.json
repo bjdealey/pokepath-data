@@ -1,0 +1,17 @@
+{
+  "slug": "poisongas",
+  "name": "Poison Gas",
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 40,
+  "effect": "Envelops the foe in a toxic gas that may poison.",
+  "secondaryEffect": "Induces poison.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/poisongas.shtml",
+    "scrapedAt": "2026-09-03T19:24:46.442Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "shadowmist",
+  "name": "Shadow Mist",
+  "type": "shadow",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Lower's Opponent's Evasiveness",
+  "secondaryEffect": "Lowers opponent's EVASIVENESS one stage.",
+  "effectRate": 100,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowmist.shtml",
+    "scrapedAt": "2026-09-03T19:26:14.996Z"
+  }
+}

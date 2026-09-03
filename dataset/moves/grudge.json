@@ -1,0 +1,17 @@
+{
+  "slug": "grudge",
+  "name": "Grudge",
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "If the user faints, deletes the PP of the final move.",
+  "secondaryEffect": "If the user faints, deletes the PP of opponent's last move.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/grudge.shtml",
+    "scrapedAt": "2026-09-03T19:22:31.350Z"
+  }
+}

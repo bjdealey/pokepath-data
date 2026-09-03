@@ -1,0 +1,17 @@
+{
+  "slug": "growl",
+  "name": "Growl",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "Growls cutely to reduce the foe's ATTACK.",
+  "secondaryEffect": "Lowers opponent's ATTACK one stage.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/growl.shtml",
+    "scrapedAt": "2026-09-03T19:22:28.416Z"
+  }
+}

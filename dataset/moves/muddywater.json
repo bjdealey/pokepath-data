@@ -1,0 +1,17 @@
+{
+  "slug": "muddywater",
+  "name": "Muddy Water",
+  "type": "water",
+  "category": "special",
+  "power": 95,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": "Attacks with muddy water. May lower accuracy.",
+  "secondaryEffect": "May lower opponent's ACCURACY one stage.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/muddywater.shtml",
+    "scrapedAt": "2026-09-03T19:24:19.427Z"
+  }
+}

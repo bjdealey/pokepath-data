@@ -1,0 +1,17 @@
+{
+  "slug": "present",
+  "name": "Present",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": "A gift in the form of a bomb. May restore HP.",
+  "secondaryEffect": "May hit or heal the user or the opponent.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/present.shtml",
+    "scrapedAt": "2026-09-03T19:24:55.516Z"
+  }
+}

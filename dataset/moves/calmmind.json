@@ -1,0 +1,17 @@
+{
+  "slug": "calmmind",
+  "name": "Calm Mind",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Raises SP. ATK and SP. DEF by focusing the mind.",
+  "secondaryEffect": "Raises user's SP. ATK and SP. DEF one stage.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/calmmind.shtml",
+    "scrapedAt": "2026-09-03T19:20:29.740Z"
+  }
+}

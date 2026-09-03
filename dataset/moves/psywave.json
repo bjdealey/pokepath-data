@@ -1,0 +1,17 @@
+{
+  "slug": "psywave",
+  "name": "Psywave",
+  "type": "psychic",
+  "category": "special",
+  "power": 1,
+  "accuracy": 80,
+  "pp": 15,
+  "effect": "Attacks with a psychic wave of varying intensity.",
+  "secondaryEffect": "Inflicts damage equal to 0.5 to 1.5 x user's level.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/psywave.shtml",
+    "scrapedAt": "2026-09-03T19:25:04.456Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "doubleteam",
+  "name": "Double Team",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "effect": "Creates illusory copies to raise evasiveness.",
+  "secondaryEffect": "Raises user's EVASIVENESS one stage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/doubleteam.shtml",
+    "scrapedAt": "2026-09-03T19:21:17.946Z"
+  }
+}

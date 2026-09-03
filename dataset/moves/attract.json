@@ -1,0 +1,17 @@
+{
+  "slug": "attract",
+  "name": "Attract",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Makes the opposite gender less likely to attack.",
+  "secondaryEffect": "Induces ATTRACT.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/attract.shtml",
+    "scrapedAt": "2026-09-03T19:19:53.853Z"
+  }
+}

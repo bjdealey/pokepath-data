@@ -1,0 +1,17 @@
+{
+  "slug": "poisontail",
+  "name": "Poison Tail",
+  "type": "poison",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "Has a high critical-hit ratio. May also poison.",
+  "secondaryEffect": "Has high critical hit ratio. May induce poison.",
+  "effectRate": 10,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/poisontail.shtml",
+    "scrapedAt": "2026-09-03T19:24:50.973Z"
+  }
+}

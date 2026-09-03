@@ -1,0 +1,17 @@
+{
+  "slug": "extremespeed",
+  "name": "Extremespeed",
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "An extremely fast and powerful attack.",
+  "secondaryEffect": "Always strikes first.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/extremespeed.shtml",
+    "scrapedAt": "2026-09-03T19:21:43.346Z"
+  }
+}

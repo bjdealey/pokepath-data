@@ -1,0 +1,17 @@
+{
+  "slug": "focuspunch",
+  "name": "Focus Punch",
+  "type": "fighting",
+  "category": "physical",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "A powerful loyalty attack. The user flinches if hit.",
+  "secondaryEffect": "User flinches if hit before attacking.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/focuspunch.shtml",
+    "scrapedAt": "2026-09-03T19:22:10.360Z"
+  }
+}

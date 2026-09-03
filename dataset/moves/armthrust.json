@@ -1,0 +1,17 @@
+{
+  "slug": "armthrust",
+  "name": "Arm Thrust",
+  "type": "fighting",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Straight-arm punches that strike the foe 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/armthrust.shtml",
+    "scrapedAt": "2026-09-03T19:19:47.761Z"
+  }
+}

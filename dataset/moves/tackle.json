@@ -1,0 +1,16 @@
+{
+  "slug": "tackle",
+  "name": "Tackle",
+  "type": "normal",
+  "category": "physical",
+  "power": 35,
+  "accuracy": 95,
+  "pp": 35,
+  "effect": "Charges the foe with a full- body tackle.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/tackle.shtml",
+    "scrapedAt": "2026-09-03T19:27:52.607Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "revenge",
+  "name": "Revenge",
+  "type": "fighting",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "An attack that gains power if injured by the foe.",
+  "secondaryEffect": "Power doubles if hit before the attack.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/revenge.shtml",
+    "scrapedAt": "2026-09-03T19:25:25.465Z"
+  }
+}

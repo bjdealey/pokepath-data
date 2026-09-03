@@ -1,0 +1,17 @@
+{
+  "slug": "flatter",
+  "name": "Flatter",
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Confuses the foe, but raises its SP. ATK.",
+  "secondaryEffect": "Induces CONFUSE. Raises opponent's SP. ATK two stages.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/flatter.shtml",
+    "scrapedAt": "2026-09-03T19:22:05.911Z"
+  }
+}

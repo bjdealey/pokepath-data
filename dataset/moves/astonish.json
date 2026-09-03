@@ -1,0 +1,17 @@
+{
+  "slug": "astonish",
+  "name": "Astonish",
+  "type": "ghost",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "An attack that may shock the foe into flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 30,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/astonish.shtml",
+    "scrapedAt": "2026-09-03T19:19:52.220Z"
+  }
+}

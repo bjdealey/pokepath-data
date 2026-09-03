@@ -1,0 +1,17 @@
+{
+  "slug": "skillswap",
+  "name": "Skill Swap",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "The user swaps special abilities with the target.",
+  "secondaryEffect": "Use and target trade abilities.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/skillswap.shtml",
+    "scrapedAt": "2026-09-03T19:26:40.494Z"
+  }
+}

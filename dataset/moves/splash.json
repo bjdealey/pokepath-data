@@ -1,0 +1,16 @@
+{
+  "slug": "splash",
+  "name": "Splash",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "It's just a splash... Has no effect whatsoever.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/splash.shtml",
+    "scrapedAt": "2026-09-03T19:27:18.010Z"
+  }
+}

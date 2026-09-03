@@ -1,0 +1,17 @@
+{
+  "slug": "hijumpkick",
+  "name": "Hi Jump Kick",
+  "type": "fighting",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "A jumping knee kick. If it misses, the user is hurt.",
+  "secondaryEffect": "If attack misses, user takes 1/8 HP of damage.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hijumpkick.shtml",
+    "scrapedAt": "2026-09-03T19:22:49.412Z"
+  }
+}

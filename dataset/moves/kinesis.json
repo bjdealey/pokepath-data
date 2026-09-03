@@ -1,0 +1,17 @@
+{
+  "slug": "kinesis",
+  "name": "Kinesis",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 80,
+  "pp": 15,
+  "effect": "Distracts the foe. May lower accuracy.",
+  "secondaryEffect": "Lowers opponent's ACCURACY one stage.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/kinesis.shtml",
+    "scrapedAt": "2026-09-03T19:23:20.904Z"
+  }
+}

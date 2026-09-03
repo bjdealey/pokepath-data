@@ -1,0 +1,17 @@
+{
+  "slug": "spikecannon",
+  "name": "Spike Cannon",
+  "type": "normal",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Launches sharp spikes that strike 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spikecannon.shtml",
+    "scrapedAt": "2026-09-03T19:27:12.048Z"
+  }
+}

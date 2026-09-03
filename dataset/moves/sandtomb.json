@@ -1,0 +1,17 @@
+{
+  "slug": "sandtomb",
+  "name": "Sand Tomb",
+  "type": "ground",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 70,
+  "pp": 15,
+  "effect": "Traps and hurts the foe in quicksand for 2 to 5 turns.",
+  "secondaryEffect": "Traps opponent.",
+  "effectRate": 100,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sandtomb.shtml",
+    "scrapedAt": "2026-09-03T19:25:47.968Z"
+  }
+}

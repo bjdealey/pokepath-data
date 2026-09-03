@@ -1,0 +1,17 @@
+{
+  "slug": "rest",
+  "name": "Rest",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "effect": "The user sleeps for 2 turns, restoring HP and status.",
+  "secondaryEffect": "User restores health, then sleeps.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/rest.shtml",
+    "scrapedAt": "2026-09-03T19:25:22.517Z"
+  }
+}

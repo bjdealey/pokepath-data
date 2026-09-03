@@ -1,0 +1,17 @@
+{
+  "slug": "metalsound",
+  "name": "Metal Sound",
+  "type": "steel",
+  "category": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 40,
+  "effect": "Emits a horrible screech that sharply lowers SP. DEF.",
+  "secondaryEffect": "Lowers opponent's SP. DEF two stages.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/metalsound.shtml",
+    "scrapedAt": "2026-09-03T19:23:56.895Z"
+  }
+}

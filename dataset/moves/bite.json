@@ -1,0 +1,17 @@
+{
+  "slug": "bite",
+  "name": "Bite",
+  "type": "dark",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "Bites with vicious fangs. May cause flinching.",
+  "secondaryEffect": "May cause opponent to flinch.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bite.shtml",
+    "scrapedAt": "2026-09-03T19:20:07.239Z"
+  }
+}

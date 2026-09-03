@@ -1,0 +1,17 @@
+{
+  "slug": "facade",
+  "name": "Facade",
+  "type": "normal",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Boosts ATTACK when burned, paralyzed, or poisoned.",
+  "secondaryEffect": "ATTACK is doubled when burned, paralyzed, or poisoned.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/facade.shtml",
+    "scrapedAt": "2026-09-03T19:21:44.854Z"
+  }
+}

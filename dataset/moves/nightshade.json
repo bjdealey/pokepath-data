@@ -1,0 +1,17 @@
+{
+  "slug": "nightshade",
+  "name": "Night Shade",
+  "type": "ghost",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Inflicts damage identical to the user's level.",
+  "secondaryEffect": "Inflicts damage equal to the user's level.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/nightshade.shtml",
+    "scrapedAt": "2026-09-03T19:24:28.444Z"
+  }
+}

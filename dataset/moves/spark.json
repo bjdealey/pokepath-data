@@ -1,0 +1,17 @@
+{
+  "slug": "spark",
+  "name": "Spark",
+  "type": "electric",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "An electrified tackle that may paralyze the foe.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 30,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spark.shtml",
+    "scrapedAt": "2026-09-03T19:27:08.996Z"
+  }
+}

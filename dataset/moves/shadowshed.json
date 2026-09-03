@@ -1,0 +1,17 @@
+{
+  "slug": "shadowshed",
+  "name": "Shadow Shed",
+  "type": "shadow",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "Remove's Reflect, Light Screen & Safeguard from all Pokémon in battle",
+  "secondaryEffect": "Destroys protective barriers.",
+  "effectRate": 100,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowshed.shtml",
+    "scrapedAt": "2026-09-03T19:26:24.004Z"
+  }
+}

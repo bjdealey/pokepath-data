@@ -1,0 +1,17 @@
+{
+  "slug": "crosschop",
+  "name": "Cross Chop",
+  "type": "fighting",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 5,
+  "effect": "A double-chopping attack. High critical-hit ratio.",
+  "secondaryEffect": "Has high critical hit ratio.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/crosschop.shtml",
+    "scrapedAt": "2026-09-03T19:20:53.807Z"
+  }
+}

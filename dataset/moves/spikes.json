@@ -1,0 +1,17 @@
+{
+  "slug": "spikes",
+  "name": "Spikes",
+  "type": "ground",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Sets spikes that hurt a foe switching out.",
+  "secondaryEffect": "Sets spikes that hurt the opponent upon switching.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/spikes.shtml",
+    "scrapedAt": "2026-09-03T19:27:13.540Z"
+  }
+}

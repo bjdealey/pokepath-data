@@ -1,0 +1,17 @@
+{
+  "slug": "eruption",
+  "name": "Eruption",
+  "type": "fire",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "The higher the user's HP, the more damage caused.",
+  "secondaryEffect": "Inflicts more damage when the user's HP is high.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/eruption.shtml",
+    "scrapedAt": "2026-09-03T19:21:38.798Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "cut",
+  "name": "Cut",
+  "type": "normal",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 95,
+  "pp": 30,
+  "effect": "Cuts the foe with sharp scythes, claws, etc.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/cut.shtml",
+    "scrapedAt": "2026-09-03T19:20:59.854Z"
+  }
+}

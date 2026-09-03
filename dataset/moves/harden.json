@@ -1,0 +1,17 @@
+{
+  "slug": "harden",
+  "name": "Harden",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Stiffens the body's muscles to raise DEFENSE.",
+  "secondaryEffect": "Raises user's DEFENSE one stage.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/harden.shtml",
+    "scrapedAt": "2026-09-03T19:22:37.390Z"
+  }
+}

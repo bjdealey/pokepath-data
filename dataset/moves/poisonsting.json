@@ -1,0 +1,17 @@
+{
+  "slug": "poisonsting",
+  "name": "Poison Sting",
+  "type": "poison",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "A toxic attack with barbs, etc., that may poison.",
+  "secondaryEffect": "May induce poison.",
+  "effectRate": 30,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/poisonsting.shtml",
+    "scrapedAt": "2026-09-03T19:24:49.478Z"
+  }
+}

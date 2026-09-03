@@ -1,0 +1,17 @@
+{
+  "slug": "defensecurl",
+  "name": "Defense Curl",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "effect": "Curls up to conceal weak spots and raise DEFENSE.",
+  "secondaryEffect": "Raises user's DEFENSE one stage. Damage from ROLLOUT will be higher.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/defensecurl.shtml",
+    "scrapedAt": "2026-09-03T19:21:01.335Z"
+  }
+}

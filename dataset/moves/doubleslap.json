@@ -1,0 +1,17 @@
+{
+  "slug": "doubleslap",
+  "name": "Doubleslap",
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": "Repeatedly slaps the foe 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/doubleslap.shtml",
+    "scrapedAt": "2026-09-03T19:21:16.356Z"
+  }
+}

@@ -1,0 +1,2620 @@
+[
+  {
+    "slug": "absorb",
+    "name": "Absorb",
+    "type": "grass",
+    "category": "special",
+    "power": 20
+  },
+  {
+    "slug": "acid",
+    "name": "Acid",
+    "type": "poison",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "acidarmor",
+    "name": "Acid Armor",
+    "type": "poison",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "aerialace",
+    "name": "Aerial Ace",
+    "type": "flying",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "aeroblast",
+    "name": "Aeroblast",
+    "type": "flying",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "agility",
+    "name": "Agility",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "aircutter",
+    "name": "Air Cutter",
+    "type": "flying",
+    "category": "physical",
+    "power": 55
+  },
+  {
+    "slug": "amnesia",
+    "name": "Amnesia",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "ancientpower",
+    "name": "Ancientpower",
+    "type": "rock",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "armthrust",
+    "name": "Arm Thrust",
+    "type": "fighting",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "aromatherapy",
+    "name": "Aromatherapy",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "assist",
+    "name": "Assist",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "astonish",
+    "name": "Astonish",
+    "type": "ghost",
+    "category": "physical",
+    "power": 30
+  },
+  {
+    "slug": "attract",
+    "name": "Attract",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "aurorabeam",
+    "name": "Aurora Beam",
+    "type": "ice",
+    "category": "special",
+    "power": 65
+  },
+  {
+    "slug": "barrage",
+    "name": "Barrage",
+    "type": "normal",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "barrier",
+    "name": "Barrier",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "batonpass",
+    "name": "Baton Pass",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "beatup",
+    "name": "Beat Up",
+    "type": "dark",
+    "category": "special",
+    "power": 10
+  },
+  {
+    "slug": "bellydrum",
+    "name": "Belly Drum",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "bide",
+    "name": "Bide",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "bind",
+    "name": "Bind",
+    "type": "normal",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "bite",
+    "name": "Bite",
+    "type": "dark",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "blastburn",
+    "name": "Blast Burn",
+    "type": "fire",
+    "category": "special",
+    "power": 150
+  },
+  {
+    "slug": "blazekick",
+    "name": "Blaze Kick",
+    "type": "fire",
+    "category": "special",
+    "power": 85
+  },
+  {
+    "slug": "blizzard",
+    "name": "Blizzard",
+    "type": "ice",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "block",
+    "name": "Block",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "bodyslam",
+    "name": "Body Slam",
+    "type": "normal",
+    "category": "physical",
+    "power": 85
+  },
+  {
+    "slug": "boneclub",
+    "name": "Bone Club",
+    "type": "ground",
+    "category": "physical",
+    "power": 65
+  },
+  {
+    "slug": "bonerush",
+    "name": "Bone Rush",
+    "type": "ground",
+    "category": "physical",
+    "power": 25
+  },
+  {
+    "slug": "bonemerang",
+    "name": "Bonemerang",
+    "type": "ground",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "bounce",
+    "name": "Bounce",
+    "type": "flying",
+    "category": "physical",
+    "power": 85
+  },
+  {
+    "slug": "brickbreak",
+    "name": "Brick Break",
+    "type": "fighting",
+    "category": "physical",
+    "power": 75
+  },
+  {
+    "slug": "bubble",
+    "name": "Bubble",
+    "type": "water",
+    "category": "special",
+    "power": 20
+  },
+  {
+    "slug": "bubblebeam",
+    "name": "Bubblebeam",
+    "type": "water",
+    "category": "special",
+    "power": 65
+  },
+  {
+    "slug": "bulkup",
+    "name": "Bulk Up",
+    "type": "fighting",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "bulletseed",
+    "name": "Bullet Seed",
+    "type": "grass",
+    "category": "special",
+    "power": 10
+  },
+  {
+    "slug": "calmmind",
+    "name": "Calm Mind",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "camouflage",
+    "name": "Camouflage",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "charge",
+    "name": "Charge",
+    "type": "electric",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "charm",
+    "name": "Charm",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "clamp",
+    "name": "Clamp",
+    "type": "water",
+    "category": "special",
+    "power": 35
+  },
+  {
+    "slug": "cometpunch",
+    "name": "Comet Punch",
+    "type": "normal",
+    "category": "physical",
+    "power": 18
+  },
+  {
+    "slug": "confuseray",
+    "name": "Confuse Ray",
+    "type": "ghost",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "confusion",
+    "name": "Confusion",
+    "type": "psychic",
+    "category": "special",
+    "power": 50
+  },
+  {
+    "slug": "constrict",
+    "name": "Constrict",
+    "type": "normal",
+    "category": "physical",
+    "power": 10
+  },
+  {
+    "slug": "conversion",
+    "name": "Conversion",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "conversion2",
+    "name": "Conversion 2",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "cosmicpower",
+    "name": "Cosmic Power",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "cottonspore",
+    "name": "Cotton Spore",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "counter",
+    "name": "Counter",
+    "type": "fighting",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "covet",
+    "name": "Covet",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "crabhammer",
+    "name": "Crabhammer",
+    "type": "water",
+    "category": "special",
+    "power": 90
+  },
+  {
+    "slug": "crosschop",
+    "name": "Cross Chop",
+    "type": "fighting",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "crunch",
+    "name": "Crunch",
+    "type": "dark",
+    "category": "special",
+    "power": 80
+  },
+  {
+    "slug": "crushclaw",
+    "name": "Crush Claw",
+    "type": "normal",
+    "category": "physical",
+    "power": 75
+  },
+  {
+    "slug": "curse",
+    "name": "Curse",
+    "type": "curse",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "cut",
+    "name": "Cut",
+    "type": "normal",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "defensecurl",
+    "name": "Defense Curl",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "destinybond",
+    "name": "Destiny Bond",
+    "type": "ghost",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "detect",
+    "name": "Detect",
+    "type": "fighting",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "dig",
+    "name": "Dig",
+    "type": "ground",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "disable",
+    "name": "Disable",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "dive",
+    "name": "Dive",
+    "type": "water",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "dizzypunch",
+    "name": "Dizzy Punch",
+    "type": "normal",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "doomdesire",
+    "name": "Doom Desire",
+    "type": "steel",
+    "category": "physical",
+    "power": 120
+  },
+  {
+    "slug": "doublekick",
+    "name": "Double Kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 30
+  },
+  {
+    "slug": "doubleteam",
+    "name": "Double Team",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "double-edge",
+    "name": "Double-edge",
+    "type": "normal",
+    "category": "physical",
+    "power": 120
+  },
+  {
+    "slug": "doubleslap",
+    "name": "Doubleslap",
+    "type": "normal",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "dragonclaw",
+    "name": "Dragon Claw",
+    "type": "dragon",
+    "category": "special",
+    "power": 80
+  },
+  {
+    "slug": "dragondance",
+    "name": "Dragon Dance",
+    "type": "dragon",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "dragonrage",
+    "name": "Dragon Rage",
+    "type": "dragon",
+    "category": "special",
+    "power": 1
+  },
+  {
+    "slug": "dragonbreath",
+    "name": "Dragonbreath",
+    "type": "dragon",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "dreameater",
+    "name": "Dream Eater",
+    "type": "psychic",
+    "category": "special",
+    "power": 100
+  },
+  {
+    "slug": "drillpeck",
+    "name": "Drill Peck",
+    "type": "flying",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "dynamicpunch",
+    "name": "Dynamicpunch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "earthquake",
+    "name": "Earthquake",
+    "type": "ground",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "eggbomb",
+    "name": "Egg Bomb",
+    "type": "normal",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "ember",
+    "name": "Ember",
+    "type": "fire",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "encore",
+    "name": "Encore",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "endeavor",
+    "name": "Endeavor",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "endure",
+    "name": "Endure",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "eruption",
+    "name": "Eruption",
+    "type": "fire",
+    "category": "special",
+    "power": 150
+  },
+  {
+    "slug": "explosion",
+    "name": "Explosion",
+    "type": "normal",
+    "category": "physical",
+    "power": 250
+  },
+  {
+    "slug": "extrasensory",
+    "name": "Extrasensory",
+    "type": "psychic",
+    "category": "special",
+    "power": 80
+  },
+  {
+    "slug": "extremespeed",
+    "name": "Extremespeed",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "facade",
+    "name": "Facade",
+    "type": "normal",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "faintattack",
+    "name": "Faint Attack",
+    "type": "dark",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "fakeout",
+    "name": "Fake Out",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "faketears",
+    "name": "Fake Tears",
+    "type": "dark",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "falseswipe",
+    "name": "False Swipe",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "featherdance",
+    "name": "Featherdance",
+    "type": "flying",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "fireblast",
+    "name": "Fire Blast",
+    "type": "fire",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "firepunch",
+    "name": "Fire Punch",
+    "type": "fire",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "firespin",
+    "name": "Fire Spin",
+    "type": "fire",
+    "category": "special",
+    "power": 15
+  },
+  {
+    "slug": "fissure",
+    "name": "Fissure",
+    "type": "ground",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "flail",
+    "name": "Flail",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "flamewheel",
+    "name": "Flame Wheel",
+    "type": "fire",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "flamethrower",
+    "name": "Flamethrower",
+    "type": "fire",
+    "category": "special",
+    "power": 95
+  },
+  {
+    "slug": "flash",
+    "name": "Flash",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "flatter",
+    "name": "Flatter",
+    "type": "dark",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "fly",
+    "name": "Fly",
+    "type": "flying",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "focusenergy",
+    "name": "Focus Energy",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "focuspunch",
+    "name": "Focus Punch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 150
+  },
+  {
+    "slug": "followme",
+    "name": "Follow Me",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "foresight",
+    "name": "Foresight",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "frenzyplant",
+    "name": "Frenzy Plant",
+    "type": "grass",
+    "category": "special",
+    "power": 150
+  },
+  {
+    "slug": "frustration",
+    "name": "Frustration",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "furyattack",
+    "name": "Fury Attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "furycutter",
+    "name": "Fury Cutter",
+    "type": "bug",
+    "category": "physical",
+    "power": 10
+  },
+  {
+    "slug": "furyswipes",
+    "name": "Fury Swipes",
+    "type": "normal",
+    "category": "physical",
+    "power": 18
+  },
+  {
+    "slug": "futuresight",
+    "name": "Future Sight",
+    "type": "psychic",
+    "category": "special",
+    "power": 80
+  },
+  {
+    "slug": "gigadrain",
+    "name": "Giga Drain",
+    "type": "grass",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "glare",
+    "name": "Glare",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "grasswhistle",
+    "name": "Grasswhistle",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "growl",
+    "name": "Growl",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "growth",
+    "name": "Growth",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "grudge",
+    "name": "Grudge",
+    "type": "ghost",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "guillotine",
+    "name": "Guillotine",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "gust",
+    "name": "Gust",
+    "type": "flying",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "hail",
+    "name": "Hail",
+    "type": "ice",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "harden",
+    "name": "Harden",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "haze",
+    "name": "Haze",
+    "type": "ice",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "headbutt",
+    "name": "Headbutt",
+    "type": "normal",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "healbell",
+    "name": "Heal Bell",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "heartswap",
+    "name": "Heart Swap",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "heatwave",
+    "name": "Heat Wave",
+    "type": "fire",
+    "category": "special",
+    "power": 100
+  },
+  {
+    "slug": "helpinghand",
+    "name": "Helping Hand",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "hijumpkick",
+    "name": "Hi Jump Kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 85
+  },
+  {
+    "slug": "hiddenpower",
+    "name": "Hidden Power",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "hornattack",
+    "name": "Horn Attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 65
+  },
+  {
+    "slug": "horndrill",
+    "name": "Horn Drill",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "howl",
+    "name": "Howl",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "hydrocannon",
+    "name": "Hydro Cannon",
+    "type": "water",
+    "category": "special",
+    "power": 150
+  },
+  {
+    "slug": "hydropump",
+    "name": "Hydro Pump",
+    "type": "water",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "hyperbeam",
+    "name": "Hyper Beam",
+    "type": "normal",
+    "category": "physical",
+    "power": 150
+  },
+  {
+    "slug": "hyperfang",
+    "name": "Hyper Fang",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "hypervoice",
+    "name": "Hyper Voice",
+    "type": "normal",
+    "category": "physical",
+    "power": 90
+  },
+  {
+    "slug": "hypnosis",
+    "name": "Hypnosis",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "iceball",
+    "name": "Ice Ball",
+    "type": "ice",
+    "category": "special",
+    "power": 30
+  },
+  {
+    "slug": "icebeam",
+    "name": "Ice Beam",
+    "type": "ice",
+    "category": "special",
+    "power": 95
+  },
+  {
+    "slug": "icepunch",
+    "name": "Ice Punch",
+    "type": "ice",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "iciclespear",
+    "name": "Icicle Spear",
+    "type": "ice",
+    "category": "special",
+    "power": 10
+  },
+  {
+    "slug": "icywind",
+    "name": "Icy Wind",
+    "type": "ice",
+    "category": "special",
+    "power": 55
+  },
+  {
+    "slug": "imprison",
+    "name": "Imprison",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "ingrain",
+    "name": "Ingrain",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "irondefense",
+    "name": "Iron Defense",
+    "type": "steel",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "irontail",
+    "name": "Iron Tail",
+    "type": "steel",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "jumpkick",
+    "name": "Jump Kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "karatechop",
+    "name": "Karate Chop",
+    "type": "fighting",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "kinesis",
+    "name": "Kinesis",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "knockoff",
+    "name": "Knock Off",
+    "type": "dark",
+    "category": "special",
+    "power": 20
+  },
+  {
+    "slug": "leafblade",
+    "name": "Leaf Blade",
+    "type": "grass",
+    "category": "special",
+    "power": 70
+  },
+  {
+    "slug": "leechlife",
+    "name": "Leech Life",
+    "type": "bug",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "leechseed",
+    "name": "Leech Seed",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "leer",
+    "name": "Leer",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "lick",
+    "name": "Lick",
+    "type": "ghost",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "lightscreen",
+    "name": "Light Screen",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "lock-on",
+    "name": "Lock-on",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "lovelykiss",
+    "name": "Lovely Kiss",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "lowkick",
+    "name": "Low Kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "lusterpurge",
+    "name": "Luster Purge",
+    "type": "psychic",
+    "category": "special",
+    "power": 70
+  },
+  {
+    "slug": "machpunch",
+    "name": "Mach Punch",
+    "type": "fighting",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "magiccoat",
+    "name": "Magic Coat",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "magicalleaf",
+    "name": "Magical Leaf",
+    "type": "grass",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "magnitude",
+    "name": "Magnitude",
+    "type": "ground",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "meanlook",
+    "name": "Mean Look",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "meditate",
+    "name": "Meditate",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "megadrain",
+    "name": "Mega Drain",
+    "type": "grass",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "megakick",
+    "name": "Mega Kick",
+    "type": "normal",
+    "category": "physical",
+    "power": 120
+  },
+  {
+    "slug": "megapunch",
+    "name": "Mega Punch",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "megahorn",
+    "name": "Megahorn",
+    "type": "bug",
+    "category": "physical",
+    "power": 120
+  },
+  {
+    "slug": "memento",
+    "name": "Memento",
+    "type": "dark",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "metalclaw",
+    "name": "Metal Claw",
+    "type": "steel",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "metalsound",
+    "name": "Metal Sound",
+    "type": "steel",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "meteormash",
+    "name": "Meteor Mash",
+    "type": "steel",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "meteoricswarm",
+    "name": "Meteoric Swarm",
+    "type": "dragon",
+    "category": "special",
+    "power": 140
+  },
+  {
+    "slug": "metronome",
+    "name": "Metronome",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "milkdrink",
+    "name": "Milk Drink",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mimic",
+    "name": "Mimic",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mindreader",
+    "name": "Mind Reader",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "minimize",
+    "name": "Minimize",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mirrorcoat",
+    "name": "Mirror Coat",
+    "type": "psychic",
+    "category": "special",
+    "power": 1
+  },
+  {
+    "slug": "mirrormove",
+    "name": "Mirror Move",
+    "type": "flying",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mist",
+    "name": "Mist",
+    "type": "ice",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mistball",
+    "name": "Mist Ball",
+    "type": "psychic",
+    "category": "special",
+    "power": 70
+  },
+  {
+    "slug": "moonlight",
+    "name": "Moonlight",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "morningsun",
+    "name": "Morning Sun",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mudshot",
+    "name": "Mud Shot",
+    "type": "ground",
+    "category": "physical",
+    "power": 55
+  },
+  {
+    "slug": "mudsport",
+    "name": "Mud Sport",
+    "type": "ground",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "mud-slap",
+    "name": "Mud-slap",
+    "type": "ground",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "muddywater",
+    "name": "Muddy Water",
+    "type": "water",
+    "category": "special",
+    "power": 95
+  },
+  {
+    "slug": "naturepower",
+    "name": "Nature Power",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "needlearm",
+    "name": "Needle Arm",
+    "type": "grass",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "nightshade",
+    "name": "Night Shade",
+    "type": "ghost",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "nightmare",
+    "name": "Nightmare",
+    "type": "ghost",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "octazooka",
+    "name": "Octazooka",
+    "type": "water",
+    "category": "special",
+    "power": 65
+  },
+  {
+    "slug": "odorsleuth",
+    "name": "Odor Sleuth",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "outrage",
+    "name": "Outrage",
+    "type": "dragon",
+    "category": "special",
+    "power": 90
+  },
+  {
+    "slug": "overheat",
+    "name": "Overheat",
+    "type": "fire",
+    "category": "special",
+    "power": 140
+  },
+  {
+    "slug": "painsplit",
+    "name": "Pain Split",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "payday",
+    "name": "Pay Day",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "peck",
+    "name": "Peck",
+    "type": "flying",
+    "category": "physical",
+    "power": 35
+  },
+  {
+    "slug": "perishsong",
+    "name": "Perish Song",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "petaldance",
+    "name": "Petal Dance",
+    "type": "grass",
+    "category": "special",
+    "power": 70
+  },
+  {
+    "slug": "pinmissile",
+    "name": "Pin Missile",
+    "type": "bug",
+    "category": "physical",
+    "power": 14
+  },
+  {
+    "slug": "poisonfang",
+    "name": "Poison Fang",
+    "type": "poison",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "poisongas",
+    "name": "Poison Gas",
+    "type": "poison",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "poisonsting",
+    "name": "Poison Sting",
+    "type": "poison",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "poisontail",
+    "name": "Poison Tail",
+    "type": "poison",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "poisonpowder",
+    "name": "Poisonpowder",
+    "type": "poison",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "pound",
+    "name": "Pound",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "powdersnow",
+    "name": "Powder Snow",
+    "type": "ice",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "present",
+    "name": "Present",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "protect",
+    "name": "Protect",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "psybeam",
+    "name": "Psybeam",
+    "type": "psychic",
+    "category": "special",
+    "power": 65
+  },
+  {
+    "slug": "psychup",
+    "name": "Psych Up",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "psychic",
+    "name": "Psychic",
+    "type": "psychic",
+    "category": "special",
+    "power": 90
+  },
+  {
+    "slug": "psychoboost",
+    "name": "Psycho Boost",
+    "type": "psychic",
+    "category": "special",
+    "power": 140
+  },
+  {
+    "slug": "psywave",
+    "name": "Psywave",
+    "type": "psychic",
+    "category": "special",
+    "power": 1
+  },
+  {
+    "slug": "pursuit",
+    "name": "Pursuit",
+    "type": "dark",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "quickattack",
+    "name": "Quick Attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "rage",
+    "name": "Rage",
+    "type": "normal",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "raindance",
+    "name": "Rain Dance",
+    "type": "water",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "rapidspin",
+    "name": "Rapid Spin",
+    "type": "normal",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "razorleaf",
+    "name": "Razor Leaf",
+    "type": "grass",
+    "category": "special",
+    "power": 55
+  },
+  {
+    "slug": "razorwind",
+    "name": "Razor Wind",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "recover",
+    "name": "Recover",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "recycle",
+    "name": "Recycle",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "reflect",
+    "name": "Reflect",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "refresh",
+    "name": "Refresh",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "rest",
+    "name": "Rest",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "return",
+    "name": "Return",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "revenge",
+    "name": "Revenge",
+    "type": "fighting",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "reversal",
+    "name": "Reversal",
+    "type": "fighting",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "roar",
+    "name": "Roar",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "rockblast",
+    "name": "Rock Blast",
+    "type": "rock",
+    "category": "physical",
+    "power": 25
+  },
+  {
+    "slug": "rockslide",
+    "name": "Rock Slide",
+    "type": "rock",
+    "category": "physical",
+    "power": 75
+  },
+  {
+    "slug": "rocksmash",
+    "name": "Rock Smash",
+    "type": "fighting",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "rockthrow",
+    "name": "Rock Throw",
+    "type": "rock",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "rocktomb",
+    "name": "Rock Tomb",
+    "type": "rock",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "roleplay",
+    "name": "Role Play",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "rollingkick",
+    "name": "Rolling Kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "rollout",
+    "name": "Rollout",
+    "type": "rock",
+    "category": "physical",
+    "power": 30
+  },
+  {
+    "slug": "sacredfire",
+    "name": "Sacred Fire",
+    "type": "fire",
+    "category": "special",
+    "power": 100
+  },
+  {
+    "slug": "safeguard",
+    "name": "Safeguard",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sandtomb",
+    "name": "Sand Tomb",
+    "type": "ground",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "sand-attack",
+    "name": "Sand-attack",
+    "type": "ground",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sandstorm",
+    "name": "Sandstorm",
+    "type": "rock",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "scaryface",
+    "name": "Scary Face",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "scratch",
+    "name": "Scratch",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "screech",
+    "name": "Screech",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "secretpower",
+    "name": "Secret Power",
+    "type": "normal",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "seismictoss",
+    "name": "Seismic Toss",
+    "type": "fighting",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "selfdestruct",
+    "name": "Selfdestruct",
+    "type": "normal",
+    "category": "physical",
+    "power": 200
+  },
+  {
+    "slug": "shadowball",
+    "name": "Shadow Ball",
+    "type": "ghost",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "shadowblast",
+    "name": "Shadow Blast",
+    "type": "shadow",
+    "category": "special",
+    "power": 80
+  },
+  {
+    "slug": "shadowbolt",
+    "name": "Shadow Bolt",
+    "type": "shadow",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "shadowbreak",
+    "name": "Shadow Break",
+    "type": "shadow",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "shadowchill",
+    "name": "Shadow Chill",
+    "type": "shadow",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "shadowdown",
+    "name": "Shadow Down",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowend",
+    "name": "Shadow End",
+    "type": "shadow",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "shadowfire",
+    "name": "Shadow Fire",
+    "type": "shadow",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "shadowhalf",
+    "name": "Shadow Half",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowhold",
+    "name": "Shadow Hold",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowmist",
+    "name": "Shadow Mist",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowpanic",
+    "name": "Shadow Panic",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowpunch",
+    "name": "Shadow Punch",
+    "type": "ghost",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "shadowrave",
+    "name": "Shadow Rave",
+    "type": "shadow",
+    "category": "special",
+    "power": 70
+  },
+  {
+    "slug": "shadowrush1",
+    "name": "Shadow Rush",
+    "type": "shadow",
+    "category": "special",
+    "power": 90
+  },
+  {
+    "slug": "shadowrush2",
+    "name": "Shadow Rush",
+    "type": "shadow",
+    "category": "special",
+    "power": 55
+  },
+  {
+    "slug": "shadowshed",
+    "name": "Shadow Shed",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowsky",
+    "name": "Shadow Sky",
+    "type": "shadow",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "shadowstorm",
+    "name": "Shadow Storm",
+    "type": "shadow",
+    "category": "special",
+    "power": 95
+  },
+  {
+    "slug": "shadowwave",
+    "name": "Shadow Wave",
+    "type": "shadow",
+    "category": "special",
+    "power": 50
+  },
+  {
+    "slug": "sharpen",
+    "name": "Sharpen",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sheercold",
+    "name": "Sheer Cold",
+    "type": "ice",
+    "category": "special",
+    "power": 1
+  },
+  {
+    "slug": "shockwave",
+    "name": "Shock Wave",
+    "type": "electric",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "signalbeam",
+    "name": "Signal Beam",
+    "type": "bug",
+    "category": "physical",
+    "power": 75
+  },
+  {
+    "slug": "silverwind",
+    "name": "Silver Wind",
+    "type": "bug",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "sing",
+    "name": "Sing",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sketch",
+    "name": "Sketch",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "skillswap",
+    "name": "Skill Swap",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "skullbash",
+    "name": "Skull Bash",
+    "type": "normal",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "skyattack",
+    "name": "Sky Attack",
+    "type": "flying",
+    "category": "physical",
+    "power": 140
+  },
+  {
+    "slug": "skyuppercut",
+    "name": "Sky Uppercut",
+    "type": "fighting",
+    "category": "physical",
+    "power": 85
+  },
+  {
+    "slug": "slackoff",
+    "name": "Slack Off",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "slam",
+    "name": "Slam",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "slash",
+    "name": "Slash",
+    "type": "normal",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "sleeppowder",
+    "name": "Sleep Powder",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sleeptalk",
+    "name": "Sleep Talk",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sludge",
+    "name": "Sludge",
+    "type": "poison",
+    "category": "physical",
+    "power": 65
+  },
+  {
+    "slug": "sludgebomb",
+    "name": "Sludge Bomb",
+    "type": "poison",
+    "category": "physical",
+    "power": 90
+  },
+  {
+    "slug": "smellingsalt",
+    "name": "Smellingsalt",
+    "type": "normal",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "smog",
+    "name": "Smog",
+    "type": "poison",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "smokescreen",
+    "name": "Smokescreen",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "snatch",
+    "name": "Snatch",
+    "type": "dark",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "snore",
+    "name": "Snore",
+    "type": "normal",
+    "category": "physical",
+    "power": 40
+  },
+  {
+    "slug": "softboiled",
+    "name": "Softboiled",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "solarbeam",
+    "name": "Solarbeam",
+    "type": "grass",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "sonicboom",
+    "name": "Sonicboom",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "spark",
+    "name": "Spark",
+    "type": "electric",
+    "category": "special",
+    "power": 65
+  },
+  {
+    "slug": "spiderweb",
+    "name": "Spider Web",
+    "type": "bug",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "spikecannon",
+    "name": "Spike Cannon",
+    "type": "normal",
+    "category": "physical",
+    "power": 20
+  },
+  {
+    "slug": "spikes",
+    "name": "Spikes",
+    "type": "ground",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "spitup",
+    "name": "Spit Up",
+    "type": "normal",
+    "category": "physical",
+    "power": 100
+  },
+  {
+    "slug": "spite",
+    "name": "Spite",
+    "type": "ghost",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "splash",
+    "name": "Splash",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "spore",
+    "name": "Spore",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "steelwing",
+    "name": "Steel Wing",
+    "type": "steel",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "stockpile",
+    "name": "Stockpile",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "stomp",
+    "name": "Stomp",
+    "type": "normal",
+    "category": "physical",
+    "power": 65
+  },
+  {
+    "slug": "strength",
+    "name": "Strength",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "stringshot",
+    "name": "String Shot",
+    "type": "bug",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "struggle",
+    "name": "Struggle",
+    "type": "normal",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "stunspore",
+    "name": "Stun Spore",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "submission",
+    "name": "Submission",
+    "type": "fighting",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "substitute",
+    "name": "Substitute",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sunnyday",
+    "name": "Sunny Day",
+    "type": "fire",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "superfang",
+    "name": "Super Fang",
+    "type": "normal",
+    "category": "physical",
+    "power": 1
+  },
+  {
+    "slug": "superpower",
+    "name": "Superpower",
+    "type": "fighting",
+    "category": "physical",
+    "power": 120
+  },
+  {
+    "slug": "supersonic",
+    "name": "Supersonic",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "surf",
+    "name": "Surf",
+    "type": "water",
+    "category": "special",
+    "power": 95
+  },
+  {
+    "slug": "swagger",
+    "name": "Swagger",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "swallow",
+    "name": "Swallow",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sweetkiss",
+    "name": "Sweet Kiss",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "sweetscent",
+    "name": "Sweet Scent",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "swift",
+    "name": "Swift",
+    "type": "normal",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "swordsdance",
+    "name": "Swords Dance",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "synthesis",
+    "name": "Synthesis",
+    "type": "grass",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "tackle",
+    "name": "Tackle",
+    "type": "normal",
+    "category": "physical",
+    "power": 35
+  },
+  {
+    "slug": "tailglow",
+    "name": "Tail Glow",
+    "type": "bug",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "tailwhip",
+    "name": "Tail Whip",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "takedown",
+    "name": "Take Down",
+    "type": "normal",
+    "category": "physical",
+    "power": 90
+  },
+  {
+    "slug": "taunt",
+    "name": "Taunt",
+    "type": "dark",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "teeterdance",
+    "name": "Teeter Dance",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "teleport",
+    "name": "Teleport",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "thief",
+    "name": "Thief",
+    "type": "dark",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "thrash",
+    "name": "Thrash",
+    "type": "normal",
+    "category": "physical",
+    "power": 90
+  },
+  {
+    "slug": "thunder",
+    "name": "Thunder",
+    "type": "electric",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "thunderwave",
+    "name": "Thunder Wave",
+    "type": "electric",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "thunderbolt",
+    "name": "Thunderbolt",
+    "type": "electric",
+    "category": "special",
+    "power": 95
+  },
+  {
+    "slug": "thunderpunch",
+    "name": "Thunderpunch",
+    "type": "electric",
+    "category": "special",
+    "power": 75
+  },
+  {
+    "slug": "thundershock",
+    "name": "Thundershock",
+    "type": "electric",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "tickle",
+    "name": "Tickle",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "torment",
+    "name": "Torment",
+    "type": "dark",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "toxic",
+    "name": "Toxic",
+    "type": "poison",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "transform",
+    "name": "Transform",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "triattack",
+    "name": "Tri Attack",
+    "type": "normal",
+    "category": "physical",
+    "power": 80
+  },
+  {
+    "slug": "trick",
+    "name": "Trick",
+    "type": "psychic",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "triplekick",
+    "name": "Triple Kick",
+    "type": "fighting",
+    "category": "physical",
+    "power": 10
+  },
+  {
+    "slug": "twineedle",
+    "name": "Twineedle",
+    "type": "bug",
+    "category": "physical",
+    "power": 25
+  },
+  {
+    "slug": "twister",
+    "name": "Twister",
+    "type": "dragon",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "uproar",
+    "name": "Uproar",
+    "type": "normal",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "vicegrip",
+    "name": "Vicegrip",
+    "type": "normal",
+    "category": "physical",
+    "power": 55
+  },
+  {
+    "slug": "vinewhip",
+    "name": "Vine Whip",
+    "type": "grass",
+    "category": "special",
+    "power": 35
+  },
+  {
+    "slug": "vitalthrow",
+    "name": "Vital Throw",
+    "type": "fighting",
+    "category": "physical",
+    "power": 70
+  },
+  {
+    "slug": "volttackle",
+    "name": "Volt Tackle",
+    "type": "electric",
+    "category": "special",
+    "power": 120
+  },
+  {
+    "slug": "watergun",
+    "name": "Water Gun",
+    "type": "water",
+    "category": "special",
+    "power": 40
+  },
+  {
+    "slug": "waterpulse",
+    "name": "Water Pulse",
+    "type": "water",
+    "category": "special",
+    "power": 60
+  },
+  {
+    "slug": "watersport",
+    "name": "Water Sport",
+    "type": "water",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "waterspout",
+    "name": "Water Spout",
+    "type": "water",
+    "category": "special",
+    "power": 150
+  },
+  {
+    "slug": "waterfall",
+    "name": "Waterfall",
+    "type": "water",
+    "category": "special",
+    "power": 80
+  },
+  {
+    "slug": "weatherball",
+    "name": "Weather Ball",
+    "type": "normal",
+    "category": "physical",
+    "power": 50
+  },
+  {
+    "slug": "whirlpool",
+    "name": "Whirlpool",
+    "type": "water",
+    "category": "special",
+    "power": 15
+  },
+  {
+    "slug": "whirlwind",
+    "name": "Whirlwind",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "will-o-wisp",
+    "name": "Will-o-wisp",
+    "type": "fire",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "wingattack",
+    "name": "Wing Attack",
+    "type": "flying",
+    "category": "physical",
+    "power": 60
+  },
+  {
+    "slug": "wish",
+    "name": "Wish",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "withdraw",
+    "name": "Withdraw",
+    "type": "water",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "wrap",
+    "name": "Wrap",
+    "type": "normal",
+    "category": "physical",
+    "power": 15
+  },
+  {
+    "slug": "yawn",
+    "name": "Yawn",
+    "type": "normal",
+    "category": "status",
+    "power": null
+  },
+  {
+    "slug": "zapcannon",
+    "name": "Zap Cannon",
+    "type": "electric",
+    "category": "special",
+    "power": 100
+  }
+]

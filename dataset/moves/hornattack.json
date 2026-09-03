@@ -1,0 +1,16 @@
+{
+  "slug": "hornattack",
+  "name": "Horn Attack",
+  "type": "normal",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "Jabs the foe with sharp horns.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hornattack.shtml",
+    "scrapedAt": "2026-09-03T19:22:50.883Z"
+  }
+}

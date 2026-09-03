@@ -1,0 +1,17 @@
+{
+  "slug": "dig",
+  "name": "Dig",
+  "type": "ground",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Digs underground the first turn and strikes next turn.",
+  "secondaryEffect": "The user is protected the first turn, attacks the second turn.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dig.shtml",
+    "scrapedAt": "2026-09-03T19:21:05.900Z"
+  }
+}

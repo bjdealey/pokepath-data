@@ -1,0 +1,17 @@
+{
+  "slug": "reversal",
+  "name": "Reversal",
+  "type": "fighting",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Inflicts more damage when the user's HP is down.",
+  "secondaryEffect": "Inflicts more damage when the user's HP is down.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/reversal.shtml",
+    "scrapedAt": "2026-09-03T19:25:26.999Z"
+  }
+}

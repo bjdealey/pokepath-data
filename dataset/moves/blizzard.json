@@ -1,0 +1,17 @@
+{
+  "slug": "blizzard",
+  "name": "Blizzard",
+  "type": "ice",
+  "category": "special",
+  "power": 120,
+  "accuracy": 70,
+  "pp": 5,
+  "effect": "Hits the foe with an icy storm that may freeze it.",
+  "secondaryEffect": "May induce freeze.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/blizzard.shtml",
+    "scrapedAt": "2026-09-03T19:20:11.749Z"
+  }
+}

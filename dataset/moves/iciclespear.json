@@ -1,0 +1,17 @@
+{
+  "slug": "iciclespear",
+  "name": "Icicle Spear",
+  "type": "ice",
+  "category": "special",
+  "power": 10,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Attacks the foe by firing 2 to 5 icicles in a row.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/iciclespear.shtml",
+    "scrapedAt": "2026-09-03T19:23:08.864Z"
+  }
+}

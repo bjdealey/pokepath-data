@@ -1,0 +1,17 @@
+{
+  "slug": "dive",
+  "name": "Dive",
+  "type": "water",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Dives underwater the first turn and strikes next turn.",
+  "secondaryEffect": "The user is protected the first turn, attacks the second turn.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dive.shtml",
+    "scrapedAt": "2026-09-03T19:21:08.765Z"
+  }
+}

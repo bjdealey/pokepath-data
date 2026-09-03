@@ -1,0 +1,17 @@
+{
+  "slug": "roleplay",
+  "name": "Role Play",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Mimics the target and copies its special ability.",
+  "secondaryEffect": "Copies target's ability.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/roleplay.shtml",
+    "scrapedAt": "2026-09-03T19:25:37.450Z"
+  }
+}

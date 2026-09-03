@@ -1,0 +1,17 @@
+{
+  "slug": "featherdance",
+  "name": "Featherdance",
+  "type": "flying",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Envelops the foe with down to sharply reduce ATTACK.",
+  "secondaryEffect": "Lowers opponent's ATTACK two stages.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/featherdance.shtml",
+    "scrapedAt": "2026-09-03T19:21:52.318Z"
+  }
+}

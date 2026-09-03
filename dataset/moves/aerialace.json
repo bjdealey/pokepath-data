@@ -1,0 +1,17 @@
+{
+  "slug": "aerialace",
+  "name": "Aerial Ace",
+  "type": "flying",
+  "category": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "An extremely speedy and unavoidable attack.",
+  "secondaryEffect": "Cannot miss.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/aerialace.shtml",
+    "scrapedAt": "2026-09-03T19:19:45.911Z"
+  }
+}

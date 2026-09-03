@@ -1,0 +1,17 @@
+{
+  "slug": "shadowball",
+  "name": "Shadow Ball",
+  "type": "ghost",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Hurls a black blob that may lower the foe's SP. DEF.",
+  "secondaryEffect": "May lower opponent's SP. DEF one stage.",
+  "effectRate": 20,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowball.shtml",
+    "scrapedAt": "2026-09-03T19:26:00.027Z"
+  }
+}

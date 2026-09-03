@@ -1,0 +1,17 @@
+{
+  "slug": "mud-slap",
+  "name": "Mud-slap",
+  "type": "ground",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Hurls mud in the foe's face to reduce its accuracy.",
+  "secondaryEffect": "May lower opponent's ACCURACY one stage.",
+  "effectRate": 100,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/mud-slap.shtml",
+    "scrapedAt": "2026-09-03T19:24:17.982Z"
+  }
+}

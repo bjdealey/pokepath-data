@@ -1,0 +1,17 @@
+{
+  "slug": "taunt",
+  "name": "Taunt",
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Taunts the foe into only using attack moves.",
+  "secondaryEffect": "Opponent can only use attack moves.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/taunt.shtml",
+    "scrapedAt": "2026-09-03T19:27:58.570Z"
+  }
+}

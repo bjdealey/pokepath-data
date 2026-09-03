@@ -1,0 +1,17 @@
+{
+  "slug": "poisonfang",
+  "name": "Poison Fang",
+  "type": "poison",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "A sharp-fanged attack. May badly poison the foe.",
+  "secondaryEffect": "May induce severe poison.",
+  "effectRate": 30,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/poisonfang.shtml",
+    "scrapedAt": "2026-09-03T19:24:44.898Z"
+  }
+}

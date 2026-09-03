@@ -1,0 +1,17 @@
+{
+  "slug": "dragonbreath",
+  "name": "Dragonbreath",
+  "type": "dragon",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Strikes the foe with an incredible blast of breath.",
+  "secondaryEffect": "May induce paralysis.",
+  "effectRate": 30,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/dragonbreath.shtml",
+    "scrapedAt": "2026-09-03T19:21:19.286Z"
+  }
+}

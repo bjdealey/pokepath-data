@@ -1,0 +1,17 @@
+{
+  "slug": "safeguard",
+  "name": "Safeguard",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 25,
+  "effect": "A mystical force prevents all status problems.",
+  "secondaryEffect": "Prevents all status problems.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/safeguard.shtml",
+    "scrapedAt": "2026-09-03T19:25:43.512Z"
+  }
+}

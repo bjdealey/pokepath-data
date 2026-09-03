@@ -1,0 +1,17 @@
+{
+  "slug": "twineedle",
+  "name": "Twineedle",
+  "type": "bug",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Stingers on the forelegs jab the foe twice.",
+  "secondaryEffect": "Attacks twice. May induce poison.",
+  "effectRate": 20,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/twineedle.shtml",
+    "scrapedAt": "2026-09-03T19:28:24.085Z"
+  }
+}

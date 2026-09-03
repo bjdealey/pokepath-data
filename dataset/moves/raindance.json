@@ -1,0 +1,17 @@
+{
+  "slug": "raindance",
+  "name": "Rain Dance",
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "effect": "Boosts the power of WATER- type moves for 5 turns.",
+  "secondaryEffect": "Causes Rain for 5 rounds.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/raindance.shtml",
+    "scrapedAt": "2026-09-03T19:25:10.534Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "crabhammer",
+  "name": "Crabhammer",
+  "type": "water",
+  "category": "special",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": "Hammers with a pincer. Has a high critical-hit ratio.",
+  "secondaryEffect": "Has high critical hit ratio.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/crabhammer.shtml",
+    "scrapedAt": "2026-09-03T19:20:52.305Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "hypnosis",
+  "name": "Hypnosis",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 60,
+  "pp": 20,
+  "effect": "A hypnotizing move that may induce sleep.",
+  "secondaryEffect": "Induces sleep.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/hypnosis.shtml",
+    "scrapedAt": "2026-09-03T19:23:02.881Z"
+  }
+}

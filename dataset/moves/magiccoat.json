@@ -1,0 +1,17 @@
+{
+  "slug": "magiccoat",
+  "name": "Magic Coat",
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Reflects special effects back to the attacker.",
+  "secondaryEffect": "Any special move is reflected back to the attacker.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/magiccoat.shtml",
+    "scrapedAt": "2026-09-03T19:23:41.923Z"
+  }
+}

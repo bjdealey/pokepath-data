@@ -1,0 +1,17 @@
+{
+  "slug": "shadowend",
+  "name": "Shadow End",
+  "type": "shadow",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "A Powerful Attack that Gives Re-Coil",
+  "secondaryEffect": "User takes recoil damage.",
+  "effectRate": 100,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowend.shtml",
+    "scrapedAt": "2026-09-03T19:26:08.974Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "irondefense",
+  "name": "Iron Defense",
+  "type": "steel",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "effect": "Hardens the body's surface to sharply raise DEFENSE.",
+  "secondaryEffect": "Raises user's DEFENSE two stages.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/irondefense.shtml",
+    "scrapedAt": "2026-09-03T19:23:14.880Z"
+  }
+}

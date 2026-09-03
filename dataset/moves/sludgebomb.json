@@ -1,0 +1,17 @@
+{
+  "slug": "sludgebomb",
+  "name": "Sludge Bomb",
+  "type": "poison",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Sludge is hurled to inflict damage. May also poison.",
+  "secondaryEffect": "May induce poison.",
+  "effectRate": 30,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sludgebomb.shtml",
+    "scrapedAt": "2026-09-03T19:26:55.597Z"
+  }
+}

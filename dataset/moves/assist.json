@@ -1,0 +1,17 @@
+{
+  "slug": "assist",
+  "name": "Assist",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Attacks randomly with one of the partner's moves.",
+  "secondaryEffect": "Uses a random move from another Pokémon in the team.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/assist.shtml",
+    "scrapedAt": "2026-09-03T19:19:50.692Z"
+  }
+}

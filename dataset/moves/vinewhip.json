@@ -1,0 +1,16 @@
+{
+  "slug": "vinewhip",
+  "name": "Vine Whip",
+  "type": "grass",
+  "category": "special",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Strikes the foe with slender, whiplike vines.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/vinewhip.shtml",
+    "scrapedAt": "2026-09-03T19:28:30.097Z"
+  }
+}

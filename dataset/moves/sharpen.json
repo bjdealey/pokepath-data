@@ -1,0 +1,17 @@
+{
+  "slug": "sharpen",
+  "name": "Sharpen",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "effect": "Reduces the polygon count and raises ATTACK.",
+  "secondaryEffect": "Raises user's ATTACK one stage.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/sharpen.shtml",
+    "scrapedAt": "2026-09-03T19:26:30.006Z"
+  }
+}

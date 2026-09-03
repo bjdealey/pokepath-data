@@ -1,0 +1,17 @@
+{
+  "slug": "endeavor",
+  "name": "Endeavor",
+  "type": "normal",
+  "category": "physical",
+  "power": 1,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "Gains power if the user's HP is lower than the foe's HP.",
+  "secondaryEffect": "Power rises if user's HP are less than opponent's HP.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/endeavor.shtml",
+    "scrapedAt": "2026-09-03T19:21:35.786Z"
+  }
+}

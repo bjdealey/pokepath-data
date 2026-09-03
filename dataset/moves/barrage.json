@@ -1,0 +1,17 @@
+{
+  "slug": "barrage",
+  "name": "Barrage",
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "Hurls round objects at the foe 2 to 5 times.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/barrage.shtml",
+    "scrapedAt": "2026-09-03T19:19:56.698Z"
+  }
+}

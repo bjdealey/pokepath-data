@@ -1,0 +1,17 @@
+{
+  "slug": "bonemerang",
+  "name": "Bonemerang",
+  "type": "ground",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "Throws a bone boomerang that strikes twice.",
+  "secondaryEffect": "Attacks twice in a row.",
+  "effectRate": null,
+  "contestType": "tough",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/bonemerang.shtml",
+    "scrapedAt": "2026-09-03T19:20:17.738Z"
+  }
+}

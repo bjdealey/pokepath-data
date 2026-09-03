@@ -1,0 +1,17 @@
+{
+  "slug": "shadowfire",
+  "name": "Shadow Fire",
+  "type": "shadow",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "A Powerful Attack that may Burn Opponent",
+  "secondaryEffect": "May induce burn.",
+  "effectRate": 30,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowfire.shtml",
+    "scrapedAt": "2026-09-03T19:26:10.503Z"
+  }
+}

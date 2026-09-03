@@ -1,0 +1,17 @@
+{
+  "slug": "blazekick",
+  "name": "Blaze Kick",
+  "type": "fire",
+  "category": "special",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "A kick with a high critical- hit ratio. May cause a burn.",
+  "secondaryEffect": "Has high critical hit ratio. May induce burn.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/blazekick.shtml",
+    "scrapedAt": "2026-09-03T19:20:10.297Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "gust",
+  "name": "Gust",
+  "type": "flying",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "Strikes the foe with a gust of wind whipped up by wings.",
+  "secondaryEffect": "Hits even if opponent is using FLY.",
+  "effectRate": null,
+  "contestType": "smart",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/gust.shtml",
+    "scrapedAt": "2026-09-03T19:22:34.359Z"
+  }
+}

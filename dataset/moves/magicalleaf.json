@@ -1,0 +1,17 @@
+{
+  "slug": "magicalleaf",
+  "name": "Magical Leaf",
+  "type": "grass",
+  "category": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Attacks with a strange leaf that cannot be evaded.",
+  "secondaryEffect": "Cannot miss.",
+  "effectRate": null,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/magicalleaf.shtml",
+    "scrapedAt": "2026-09-03T19:23:40.418Z"
+  }
+}

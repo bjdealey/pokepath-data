@@ -1,0 +1,17 @@
+{
+  "slug": "minimize",
+  "name": "Minimize",
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "effect": "Minimizes the user's size to raise evasiveness.",
+  "secondaryEffect": "Raises user's EVASIVENESS one stage.",
+  "effectRate": null,
+  "contestType": "cute",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/minimize.shtml",
+    "scrapedAt": "2026-09-03T19:24:07.418Z"
+  }
+}

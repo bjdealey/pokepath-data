@@ -1,0 +1,17 @@
+{
+  "slug": "icepunch",
+  "name": "Ice Punch",
+  "type": "ice",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "An icy punch that may freeze the foe.",
+  "secondaryEffect": "May induce freeze.",
+  "effectRate": 10,
+  "contestType": "beauty",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/icepunch.shtml",
+    "scrapedAt": "2026-09-03T19:23:07.396Z"
+  }
+}

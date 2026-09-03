@@ -1,0 +1,17 @@
+{
+  "slug": "shadowhold",
+  "name": "Shadow Hold",
+  "type": "shadow",
+  "category": "status",
+  "power": null,
+  "accuracy": 80,
+  "pp": 0,
+  "effect": "Prevents Opponent from Switching out of Battle",
+  "secondaryEffect": "Prevents the opponent from escaping.",
+  "effectRate": 100,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowhold.shtml",
+    "scrapedAt": "2026-09-03T19:26:13.496Z"
+  }
+}

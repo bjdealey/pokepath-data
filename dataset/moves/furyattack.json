@@ -1,0 +1,17 @@
+{
+  "slug": "furyattack",
+  "name": "Fury Attack",
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "Jabs the foe 2 to 5 times with sharp horns, etc.",
+  "secondaryEffect": "Attacks 2-5 times in a row.",
+  "effectRate": null,
+  "contestType": "cool",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/furyattack.shtml",
+    "scrapedAt": "2026-09-03T19:22:17.834Z"
+  }
+}

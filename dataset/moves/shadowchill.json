@@ -1,0 +1,17 @@
+{
+  "slug": "shadowchill",
+  "name": "Shadow Chill",
+  "type": "shadow",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 0,
+  "effect": "A Powerful Attack that may Freeze Opponent",
+  "secondaryEffect": "May induce freeze.",
+  "effectRate": 30,
+  "contestType": "na",
+  "source": {
+    "url": "https://www.serebii.net/attackdex/shadowchill.shtml",
+    "scrapedAt": "2026-09-03T19:26:06.049Z"
+  }
+}
