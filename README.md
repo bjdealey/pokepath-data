@@ -22,6 +22,8 @@ node src/run.ts itemdex            # scrape item definitions (effect+price) for 
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 node src/run.ts connectivity       # crawl pokearth exits → Hoenn location graph
 node src/run.ts gifts              # starter trio + gift/egg/fossil Pokémon (pokearth gift tables)
+node src/run.ts legendaries        # derive catchable legendaries from Pokémon Emerald locations
+node src/run.ts trades             # scrape Emerald in-game trades (/emerald/trade.shtml)
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
 ```
@@ -131,8 +133,14 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   the **Wynaut egg**, **Beldum**, **Castform**, and the revived **fossils** (Lileep,
   Anorith). 11 entries with `{ pokemon, method, level, location }`. Wild-grass catches
   stay in `encounters`; this is the interaction/gift layer.
-- ⏳ Next: the remaining non-wild obtainables need other Serebii pages — event
-  legendaries (Kyogre/Groudon/Lati@s) and in-game trades — plus other generations.
+- ✅ `legendaries` — the **catchable legendaries/mythicals** (`games/emerald/
+  legendaries.json`, 13), *derived* (no network) from each Pokémon's pokedex-rs Emerald
+  location text: `static` (Regis, Kyogre @ Marine Cave, Groudon @ Terra Cave, Rayquaza),
+  `roaming` (Latias/Latios), `event` (Mew, Ho-Oh/Lugia @ Navel Rock, Deoxys, Jirachi).
+- ✅ `trades` — the **in-game trades** (`games/emerald/trades.json`, 3) from
+  `/emerald/trade.shtml`: give→receive species + held mail (Volbeat→Plusle, Bagon→Horsea,
+  Skitty→Meowth) — a way to get mons not otherwise in Hoenn (Horsea, Meowth).
+- ⏳ Next: other generations (new `dataset/gen4/…` subtree + gen-specific sources).
 
 ## Notes
 

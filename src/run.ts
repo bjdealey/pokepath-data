@@ -16,8 +16,10 @@ import { scrapeGifts } from "./scrape/gifts.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { deriveMachines } from "./derive/machines.ts";
 import { deriveTypechart } from "./derive/typechart.ts";
+import { deriveLegendaries } from "./derive/legendaries.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
+import { scrapeTrades } from "./scrape/trades.ts";
 import type { PokemonRecord } from "./types.ts";
 
 const rsUrl = (n: number) => `https://www.serebii.net/pokedex-rs/${String(n).padStart(3, "0")}.shtml`;
@@ -132,11 +134,21 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ parsing pokearth gift tables (starter + gifts) for Emerald…`);
   const r = await scrapeGifts(refresh);
   console.log(`✔ ${r.gifts} gift/starter Pokémon ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/gifts.json`);
+} else if (entity === "legendaries") {
+  console.log(`▶ deriving catchable legendaries from Pokémon Emerald locations…`);
+  const r = deriveLegendaries();
+  console.log(`✔ ${r.legendaries} legendaries ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/legendaries.json`);
+  if (r.missing.length) console.warn(`⚠ no Emerald location for: ${r.missing.join(", ")}`);
+} else if (entity === "trades") {
+  console.log(`▶ scraping Emerald in-game trades…`);
+  const r = await scrapeTrades(refresh);
+  console.log(`✔ ${r.trades} in-game trades → dataset/gen3/games/emerald/trades.json`);
+  if (r.unresolved.length) console.warn(`⚠ ${r.unresolved.length} unresolved dex numbers: ${r.unresolved.join(", ")}`);
 } else if (entity === "manifest") {
   console.log(`▶ scanning dataset/ generations → manifest.json…`);
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", "legendaries", "trades", or "manifest"`);
   process.exit(1);
 }

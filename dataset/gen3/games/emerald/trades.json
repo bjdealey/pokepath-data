@@ -1,0 +1,35 @@
+[
+  {
+    "give": {
+      "pokemon": "volbeat",
+      "natdex": 313
+    },
+    "receive": {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "heldItem": "Wood Mail"
+    }
+  },
+  {
+    "give": {
+      "pokemon": "bagon",
+      "natdex": 371
+    },
+    "receive": {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "heldItem": "Wave Mail"
+    }
+  },
+  {
+    "give": {
+      "pokemon": "skitty",
+      "natdex": 300
+    },
+    "receive": {
+      "pokemon": "meowth",
+      "natdex": 52,
+      "heldItem": "Retro Mail"
+    }
+  }
+]

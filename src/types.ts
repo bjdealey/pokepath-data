@@ -135,6 +135,22 @@ export interface Gift {
   locationName: string;
 }
 
+/** A static / roaming / event legendary, derived from a Pokémon's pokedex-rs
+ * Emerald location text (no network). `location` is Serebii's prose. */
+export interface Legendary {
+  pokemon: string; // slug
+  natdex: number;
+  method: "static" | "roaming" | "event";
+  location: string; // e.g. "Marine Cave", "Faraway Island", "Wild in Hoenn after…"
+}
+
+/** An in-game trade (you give one species, receive another — often holding mail),
+ * from /emerald/trade.shtml. A way to obtain mons not otherwise in Hoenn. */
+export interface InGameTrade {
+  give: { pokemon: string; natdex: number };
+  receive: { pokemon: string; natdex: number; heldItem: string | null };
+}
+
 /** A wild encounter from an Emerald pokearth encounter table (mon + rate + level). */
 export interface EmeraldEncounter {
   pokemon: string;

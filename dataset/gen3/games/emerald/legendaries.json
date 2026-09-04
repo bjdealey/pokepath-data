@@ -1,0 +1,80 @@
+[
+  {
+    "pokemon": "mew",
+    "natdex": 151,
+    "method": "event",
+    "location": "Faraway Island"
+  },
+  {
+    "pokemon": "lugia",
+    "natdex": 249,
+    "method": "event",
+    "location": "Navel Rock"
+  },
+  {
+    "pokemon": "ho-oh",
+    "natdex": 250,
+    "method": "event",
+    "location": "Navel Rock"
+  },
+  {
+    "pokemon": "regirock",
+    "natdex": 377,
+    "method": "static",
+    "location": "Desert Ruins"
+  },
+  {
+    "pokemon": "regice",
+    "natdex": 378,
+    "method": "static",
+    "location": "Island Cave (Route 105)"
+  },
+  {
+    "pokemon": "registeel",
+    "natdex": 379,
+    "method": "static",
+    "location": "Ancient Tomb (Route 120)"
+  },
+  {
+    "pokemon": "latias",
+    "natdex": 380,
+    "method": "roaming",
+    "location": "Wild in Hoenn after beating Elite Four (Pick Red) OR Southern Island"
+  },
+  {
+    "pokemon": "latios",
+    "natdex": 381,
+    "method": "roaming",
+    "location": "Wild in Hoenn after beating Elite Four (Pick Blue) OR Southern Island"
+  },
+  {
+    "pokemon": "kyogre",
+    "natdex": 382,
+    "method": "static",
+    "location": "Marine Cave"
+  },
+  {
+    "pokemon": "groudon",
+    "natdex": 383,
+    "method": "static",
+    "location": "Terra Cave"
+  },
+  {
+    "pokemon": "rayquaza",
+    "natdex": 384,
+    "method": "static",
+    "location": "Sky Pillar"
+  },
+  {
+    "pokemon": "jirachi",
+    "natdex": 385,
+    "method": "event",
+    "location": "Obtain from Special Event, Colosseum Bonus Disk or Pokémon Channel"
+  },
+  {
+    "pokemon": "deoxys",
+    "natdex": 386,
+    "method": "event",
+    "location": "Birth Island"
+  }
+]

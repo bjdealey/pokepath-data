@@ -31,6 +31,8 @@ const trainers: any[] = readJson("games/emerald/trainers.json");
 const story = readJson("games/emerald/story.json");
 const connections: Record<string, any> = readJson("games/emerald/connections.json");
 const gifts: any[] = readJson("games/emerald/gifts.json");
+const legendaries: any[] = readJson("games/emerald/legendaries.json");
+const trades: any[] = readJson("games/emerald/trades.json");
 
 // A move name resolves if it matches a record slug or a record's normalized name.
 const moveByNorm = new Set([...moves.values()].map((m) => norm(m.name)));
@@ -115,6 +117,27 @@ test("emerald gifts: the starter trio is present and every gift resolves", () =>
     const p = pokemon.get(g.pokemon);
     assert.ok(p, `gift '${g.pokemon}' (${g.location}) unknown`);
     if (g.natdex) assert.equal(p.natdex, g.natdex, `gift ${g.pokemon} natdex mismatch`);
+  }
+});
+
+test("emerald legendaries: resolve, valid method, key statics present", () => {
+  for (const l of legendaries) {
+    const p = pokemon.get(l.pokemon);
+    assert.ok(p, `legendary '${l.pokemon}' unknown`);
+    assert.equal(p.natdex, l.natdex, `legendary ${l.pokemon} natdex mismatch`);
+    assert.ok(["static", "roaming", "event"].includes(l.method), `legendary ${l.pokemon}: bad method '${l.method}'`);
+  }
+  const slugs = new Set(legendaries.map((l) => l.pokemon));
+  for (const must of ["kyogre", "groudon", "latias", "latios"]) assert.ok(slugs.has(must), `legendary '${must}' missing`);
+});
+
+test("emerald in-game trades: both sides resolve with matching natdex", () => {
+  for (const t of trades) {
+    for (const side of [t.give, t.receive]) {
+      const p = pokemon.get(side.pokemon);
+      assert.ok(p, `trade side '${side.pokemon}' unknown`);
+      assert.equal(p.natdex, side.natdex, `trade ${side.pokemon} natdex mismatch`);
+    }
   }
 });
 
