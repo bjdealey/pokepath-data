@@ -4,10 +4,9 @@
 // obtained in Emerald (gym badge from story milestones, on-ground finds from
 // the location items). Emits dataset/machines.json.
 import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import type { Machine, MoveRecord, PokemonRecord } from "../types.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 /** Normalize a machine code so TM06 (learnset), tm6, and tm06 (item slug) join. */
 export const codeKey = (code: string) => code.toUpperCase().replace(/^([TH]M)0*(\d+)$/i, "$1$2"); // TM06 / tm6 → TM6

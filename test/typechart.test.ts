@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 
-const chart = JSON.parse(readFileSync(fileURLToPath(new URL("../dataset/typechart.json", import.meta.url)), "utf8"));
+const chart = JSON.parse(readFileSync(fileURLToPath(new URL("../dataset/gen3/typechart.json", import.meta.url)), "utf8"));
 
 test("Gen-3 type matchups (incl. Steel resisting Ghost/Dark)", () => {
   assert.equal(chart.fire.grass, 2);

@@ -4,10 +4,9 @@
 // (Egg moves and move-tutor moves aren't in the learnsets yet, so they're not
 // reflected here.)
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import type { LearnedByEntry, MoveRecord, PokemonRecord } from "../types.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 
 /** Pure join: match learnset move names to move slugs, group learners per move. */

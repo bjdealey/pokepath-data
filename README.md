@@ -21,12 +21,29 @@ node src/run.ts items              # scrape Emerald location items (name + how o
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 node src/run.ts connectivity       # crawl pokearth exits → Hoenn location graph
-npm test                           # parser fixture tests
+node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
+npm test                           # parser fixtures + dataset-integrity checks
 ```
 
-Output → canonical `dataset/{pokemon,moves,items}/<slug>.json` (each with an
-`index.json`) + `dataset/{machines,typechart}.json`, plus game-scoped
-`dataset/games/<game>/{encounters,locations,items,trainers,story,connections}.json`.
+**The dataset is partitioned by generation.** Canonical entities (a Pokémon's
+learnset, a move's power/category, the type chart) genuinely differ per
+generation, so they live under `dataset/<gen>/`, with each game nested beneath
+its generation. Adding a generation later is a new subtree, not a schema change.
+This scraper targets Gen 3 (Serebii's `pokedex-rs` / `attackdex` / pokearth);
+the generation is set once in [`src/paths.ts`](src/paths.ts).
+
+```
+dataset/
+  manifest.json                                  # generations available + games + counts
+  gen3/
+    {pokemon,moves,items}/<slug>.json + index.json    # canonical, per-entity (static-servable)
+    {machines,typechart}.json                         # canonical, Gen-3
+    games/emerald/{encounters,locations,items,trainers,story,connections}.json
+```
+
+Per-entity canonical files mean the dataset can be served straight from a CDN
+(`gen3/pokemon/swampert.json`) with no server; the API is only needed for
+filtered queries.
 
 ## How it works
 

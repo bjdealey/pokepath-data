@@ -4,12 +4,11 @@
 // dataset/items/<slug>.json (distinct from the per-location games/*/items.json).
 import { mkdir, writeFile, readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import { fetchCached } from "../fetch.ts";
 import { parseItem } from "../parse/item.ts";
 import type { ItemRecord } from "../types.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const itemUrl = (slug: string) => `https://www.serebii.net/itemdex/${slug}.shtml`;
 
 // Serebii's ItemDex keys some items by a dotted slug (exp.share, guardspec.) or

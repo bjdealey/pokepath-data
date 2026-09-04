@@ -3,10 +3,9 @@
 // one pure representative per type. Flying has no pure Gen-3 rep, so derive it
 // from a Bug/Flying mon (Bug has no immunities to mask the division). No network.
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import type { PokemonRecord } from "../types.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const TYPES = [
   "normal", "fire", "water", "electric", "grass", "ice", "fighting", "poison", "ground",
   "flying", "psychic", "bug", "rock", "ghost", "dragon", "dark", "steel",

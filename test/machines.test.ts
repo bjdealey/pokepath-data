@@ -12,7 +12,7 @@ test("codeKey joins learnset codes and item slugs", () => {
 });
 
 test("machines.json is the canonical Gen-3 TM/HM table", () => {
-  const m = JSON.parse(readFileSync(fileURLToPath(new URL("../dataset/machines.json", import.meta.url)), "utf8"));
+  const m = JSON.parse(readFileSync(fileURLToPath(new URL("../dataset/gen3/machines.json", import.meta.url)), "utf8"));
   assert.equal(m.length, 58); // 50 TMs + 8 HMs
   const surf = m.find((x: { machine: string }) => x.machine === "HM03");
   assert.equal(surf.move, "Surf");

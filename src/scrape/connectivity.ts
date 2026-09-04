@@ -3,12 +3,11 @@
 // games). Seeds from the region index, then follows exits to reach every
 // connected location. Emits dataset/games/emerald/connections.json.
 import { mkdir, writeFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import * as cheerio from "cheerio";
 import { fetchCached } from "../fetch.ts";
 import { parseExits } from "../parse/connectivity.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const BASE = "https://www.serebii.net/pokearth/hoenn";
 const orasUrl = (slug: string) => `${BASE}/${slug}.shtml`;
 const MAX_PAGES = 140;

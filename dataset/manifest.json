@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-09-04T19:42:15.696Z",
+  "generations": [
+    {
+      "gen": 3,
+      "games": [
+        "emerald"
+      ],
+      "counts": {
+        "pokemon": 386,
+        "moves": 374,
+        "items": 164,
+        "machines": 58
+      }
+    }
+  ]
+}

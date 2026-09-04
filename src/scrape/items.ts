@@ -1,13 +1,12 @@
 // Emerald location items: crawl the Hoenn pokearth "3rd" pages and parse each
 // page's item tables into a per-location list (item + how it's obtained).
 import { mkdir, writeFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import { crawlHoenn3rd } from "./hoenn-crawl.ts";
 import { parseItems } from "../parse/pokearth-items.ts";
 import { locationName } from "../parse/pokearth-trainers.ts";
 import type { LocationItem } from "../types.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 
 interface LocationItems {
   slug: string;

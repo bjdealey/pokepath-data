@@ -4,7 +4,7 @@
 //   node src/run.ts pokemon 252,255,258     # explicit list
 //   node src/run.ts pokemon 1-151 --refresh # ignore cache
 import { mkdir, writeFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
+import { GEN, GEN_DIR as DATASET } from "./paths.ts";
 import { fetchCached } from "./fetch.ts";
 import { parsePokemon } from "./parse/pokemon.ts";
 import { scrapeEncounters } from "./scrape/encounters.ts";
@@ -15,10 +15,10 @@ import { scrapeItemdex } from "./scrape/itemdex.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { deriveMachines } from "./derive/machines.ts";
 import { deriveTypechart } from "./derive/typechart.ts";
+import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import type { PokemonRecord } from "./types.ts";
 
-const DATASET = fileURLToPath(new URL("../dataset/", import.meta.url));
 const rsUrl = (n: number) => `https://www.serebii.net/pokedex-rs/${String(n).padStart(3, "0")}.shtml`;
 const DEFAULT_SLICE = range(252, 265); // Treecko..Wurmple — the Emerald start
 
@@ -73,14 +73,8 @@ async function scrapePokemon(dexNums: number[], refresh: boolean) {
   }
   index.sort((a, b) => a.natdex - b.natdex);
   await writeFile(`${dir}index.json`, JSON.stringify(index, null, 2));
-  await mkdir(DATASET, { recursive: true });
-  await writeFile(`${DATASET}meta.json`, JSON.stringify({
-    generatedAt: new Date().toISOString(),
-    source: "serebii.net (pokedex-rs)",
-    counts: { pokemon: parsed.length },
-  }, null, 2));
 
-  console.log(`\n✔ wrote ${parsed.length} pokemon -> dataset/pokemon/`);
+  console.log(`\n✔ wrote ${parsed.length} pokemon -> dataset/${GEN}/pokemon/  (run \`manifest\` to refresh dataset/manifest.json)`);
 }
 
 const [entity, arg] = process.argv.slice(2).filter((a) => !a.startsWith("--"));
@@ -93,20 +87,20 @@ if (!entity || entity === "pokemon") {
 } else if (entity === "encounters") {
   console.log(`▶ crawling Hoenn pokearth pages for Emerald encounters (mon + rate + level)…`);
   const r = await scrapeEncounters(refresh);
-  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.encounters} encounters → dataset/games/emerald/`);
+  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.encounters} encounters → dataset/gen3/games/emerald/`);
 } else if (entity === "items") {
   console.log(`▶ crawling Hoenn pokearth pages for Emerald location items…`);
   const r = await scrapeItems(refresh);
-  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.items} items → dataset/games/emerald/`);
+  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.items} items → dataset/gen3/games/emerald/`);
 } else if (entity === "itemdex") {
   console.log(`▶ scraping ItemDex definitions (effect + price) for Emerald items…`);
   const r = await scrapeItemdex(refresh);
-  console.log(`✔ ${r.items} item definitions (of ${r.slugs}) → dataset/items/`);
+  console.log(`✔ ${r.items} item definitions (of ${r.slugs}) → dataset/gen3/items/`);
 } else if (entity === "moves") {
   const limit = arg && /^\d+$/.test(arg) ? Number(arg) : 0;
   console.log(`▶ scraping Gen-III moves${limit ? ` (first ${limit})` : ""}…`);
   const r = await scrapeMoves(refresh, limit);
-  console.log(`✔ ${r.moves} moves (of ${r.discovered} discovered) → dataset/moves/`);
+  console.log(`✔ ${r.moves} moves (of ${r.discovered} discovered) → dataset/gen3/moves/`);
 } else if (entity === "learnedby") {
   console.log(`▶ deriving move → Pokémon reverse index from learnsets…`);
   const r = deriveLearnedBy();
@@ -115,25 +109,29 @@ if (!entity || entity === "pokemon") {
 } else if (entity === "machines") {
   console.log(`▶ deriving the TM/HM → move table from learnsets…`);
   const r = deriveMachines();
-  console.log(`✔ ${r.machines} machines (${r.tms} TMs, ${r.hms} HMs) → dataset/machines.json`);
+  console.log(`✔ ${r.machines} machines (${r.tms} TMs, ${r.hms} HMs) → dataset/gen3/machines.json`);
   if (r.unresolved.length) console.warn(`⚠ ${r.unresolved.length} unresolved move slugs: ${r.unresolved.join(", ")}`);
 } else if (entity === "typechart") {
   console.log(`▶ deriving the Gen-3 type chart from Pokémon damage-taken…`);
   const r = deriveTypechart();
-  console.log(`✔ ${r.resolved}/${r.types} type columns → dataset/typechart.json`);
+  console.log(`✔ ${r.resolved}/${r.types} type columns → dataset/gen3/typechart.json`);
   if (r.missing.length) console.warn(`⚠ unresolved types: ${r.missing.join(", ")}`);
 } else if (entity === "connectivity") {
   console.log(`▶ crawling pokearth exits to build the Hoenn location graph…`);
   const r = await scrapeConnectivity(refresh);
-  console.log(`✔ ${r.locations} locations, ${r.edges} exit edges → dataset/games/emerald/connections.json`);
+  console.log(`✔ ${r.locations} locations, ${r.edges} exit edges → dataset/gen3/games/emerald/connections.json`);
   if (r.dangling.length) console.warn(`⚠ ${r.dangling.length} exits point to un-crawled locations: ${r.dangling.slice(0, 10).join(", ")}`);
 } else if (entity === "trainers") {
   console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
-  console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/games/emerald/`);
+  console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
   if (r.unresolvedMoves.length) console.warn(`⚠ ${r.unresolvedMoves.length} trainer move(s) don't match a move record: ${r.unresolvedMoves.join(", ")}`);
+} else if (entity === "manifest") {
+  console.log(`▶ scanning dataset/ generations → manifest.json…`);
+  const r = deriveManifest();
+  console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", or "trainers"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", "trainers", or "manifest"`);
   process.exit(1);
 }

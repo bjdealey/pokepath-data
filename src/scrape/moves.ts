@@ -2,13 +2,12 @@
 // page, emit dataset/moves/<slug>.json + index.json. Moves are canonical
 // (game-agnostic within Gen 3), so they live at the dataset root like pokemon.
 import { mkdir, writeFile } from "node:fs/promises";
-import { fileURLToPath } from "node:url";
+import { GEN_DIR as DATASET } from "../paths.ts";
 import * as cheerio from "cheerio";
 import { fetchCached } from "../fetch.ts";
 import { parseMove } from "../parse/move.ts";
 import type { MoveRecord } from "../types.ts";
 
-const DATASET = fileURLToPath(new URL("../../dataset/", import.meta.url));
 const INDEX = "https://www.serebii.net/attackdex/index.shtml";
 const moveUrl = (slug: string) => `https://www.serebii.net/attackdex/${slug}.shtml`;
 
