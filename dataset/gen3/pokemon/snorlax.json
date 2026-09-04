@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Immunity",
-      "description": "Immunity: Prevents Snorlax from being PoisonedThick Fat: Fire & Ice Type moves do 50% Damage on Snorlax"
+      "description": "Prevents Snorlax from being Poisoned"
     },
     {
       "name": "Thick Fat",
-      "description": "Immunity: Prevents Snorlax from being PoisonedThick Fat: Fire & Ice Type moves do 50% Damage on Snorlax"
+      "description": "Fire & Ice Type moves do 50% Damage on Snorlax"
     }
   ],
   "baseStats": {

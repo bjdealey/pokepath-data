@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Rattata can escape from Wild BattlesGuts: When Rattata is inflicted with a status condition, it's attack is raised by 50%"
+      "description": "Rattata can escape from Wild Battles"
     },
     {
       "name": "Guts",
-      "description": "Run Away: Rattata can escape from Wild BattlesGuts: When Rattata is inflicted with a status condition, it's attack is raised by 50%"
+      "description": "When Rattata is inflicted with a status condition, it's attack is raised by 50%"
     }
   ],
   "baseStats": {

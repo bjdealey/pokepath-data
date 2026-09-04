@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Thick Fat",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on GrumpigOwn Tempo: Prevents Grumpig from being Confused"
+      "description": "Fire & Ice Type moves do 50% Damage on Grumpig"
     },
     {
       "name": "Own Tempo",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on GrumpigOwn Tempo: Prevents Grumpig from being Confused"
+      "description": "Prevents Grumpig from being Confused"
     }
   ],
   "baseStats": {

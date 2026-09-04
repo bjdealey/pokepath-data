@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Intimidate",
-      "description": "Intimidate: Upon Snubbull's Entry in Battle, all opponent's Attack Stats are loweredRun Away: Snubbull can escape from Wild Battles"
+      "description": "Upon Snubbull's Entry in Battle, all opponent's Attack Stats are lowered"
     },
     {
       "name": "Run Away",
-      "description": "Intimidate: Upon Snubbull's Entry in Battle, all opponent's Attack Stats are loweredRun Away: Snubbull can escape from Wild Battles"
+      "description": "Snubbull can escape from Wild Battles"
     }
   ],
   "baseStats": {

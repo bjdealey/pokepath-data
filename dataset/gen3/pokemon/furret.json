@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Furret can escape from Wild BattlesKeen Eye: Furret's Accuracy cannot be Lowered by Opponent"
+      "description": "Furret can escape from Wild Battles"
     },
     {
       "name": "Keen Eye",
-      "description": "Run Away: Furret can escape from Wild BattlesKeen Eye: Furret's Accuracy cannot be Lowered by Opponent"
+      "description": "Furret's Accuracy cannot be Lowered by Opponent"
     }
   ],
   "baseStats": {

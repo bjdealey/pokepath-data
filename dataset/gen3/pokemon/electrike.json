@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Static",
-      "description": "Static: When a Pokémon makes contact with Electrike, it has a 30% chance of being ParalyzedLightning Rod: All Electric Attacks are drawn to Electrike"
+      "description": "When a Pokémon makes contact with Electrike, it has a 30% chance of being Paralyzed"
     },
     {
       "name": "Lightning Rod",
-      "description": "Static: When a Pokémon makes contact with Electrike, it has a 30% chance of being ParalyzedLightning Rod: All Electric Attacks are drawn to Electrike"
+      "description": "All Electric Attacks are drawn to Electrike"
     }
   ],
   "baseStats": {

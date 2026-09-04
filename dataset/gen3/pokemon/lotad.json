@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Swift Swim",
-      "description": "Swift Swim: When Rain Dance is in effect, Lotad's Speed is DoubledRain Dish: When Rain Dance is in effect, Lotad recovers 1/16th of it's max hit-points"
+      "description": "When Rain Dance is in effect, Lotad's Speed is Doubled"
     },
     {
       "name": "Rain Dish",
-      "description": "Swift Swim: When Rain Dance is in effect, Lotad's Speed is DoubledRain Dish: When Rain Dance is in effect, Lotad recovers 1/16th of it's max hit-points"
+      "description": "When Rain Dance is in effect, Lotad recovers 1/16th of it's max hit-points"
     }
   ],
   "baseStats": {

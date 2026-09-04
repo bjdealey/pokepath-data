@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Volt Absorb",
-      "description": "Volt Absorb: Chinchou is healed by up to 25% of Max HP when hit by Electric AttacksIlluminate: When Chinchou is in the first party slot, Wild Pokémon appearances are more frequent"
+      "description": "Chinchou is healed by up to 25% of Max HP when hit by Electric Attacks"
     },
     {
       "name": "Illuminate",
-      "description": "Volt Absorb: Chinchou is healed by up to 25% of Max HP when hit by Electric AttacksIlluminate: When Chinchou is in the first party slot, Wild Pokémon appearances are more frequent"
+      "description": "When Chinchou is in the first party slot, Wild Pokémon appearances are more frequent"
     }
   ],
   "baseStats": {

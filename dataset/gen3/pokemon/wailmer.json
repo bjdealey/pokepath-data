@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Water Veil",
-      "description": "Water Veil: Wailmer cannot be BurnedOblivious: Prevents Wailmer from being Infatuated"
+      "description": "Wailmer cannot be Burned"
     },
     {
       "name": "Oblivious",
-      "description": "Water Veil: Wailmer cannot be BurnedOblivious: Prevents Wailmer from being Infatuated"
+      "description": "Prevents Wailmer from being Infatuated"
     }
   ],
   "baseStats": {

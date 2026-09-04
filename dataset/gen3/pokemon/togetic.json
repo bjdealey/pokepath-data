@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Hustle",
-      "description": "Hustle: Togetic's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Serene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+      "description": "Togetic's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
     },
     {
       "name": "Serene Grace",
-      "description": "Hustle: Togetic's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Serene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+      "description": "If a move has an extra effect, the chances of it occuring is doubled"
     }
   ],
   "baseStats": {

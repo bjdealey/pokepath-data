@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Swift Swim",
-      "description": "Swift Swim: When Rain Dance is in effect, Goldeen's Speed is DoubledWater Veil: Goldeen cannot be Burned"
+      "description": "When Rain Dance is in effect, Goldeen's Speed is Doubled"
     },
     {
       "name": "Water Veil",
-      "description": "Swift Swim: When Rain Dance is in effect, Goldeen's Speed is DoubledWater Veil: Goldeen cannot be Burned"
+      "description": "Goldeen cannot be Burned"
     }
   ],
   "baseStats": {

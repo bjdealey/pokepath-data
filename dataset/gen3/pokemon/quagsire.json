@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Damp",
-      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Quagsire is healed by up to 25% of Max HP when hit by Water Attacks"
+      "description": "No Pokémon in battle can use Self Destruct or Explosion"
     },
     {
       "name": "Water Absorb",
-      "description": "Damp: No Pokémon in battle can use Self Destruct or ExplosionWater Absorb: Quagsire is healed by up to 25% of Max HP when hit by Water Attacks"
+      "description": "Quagsire is healed by up to 25% of Max HP when hit by Water Attacks"
     }
   ],
   "baseStats": {

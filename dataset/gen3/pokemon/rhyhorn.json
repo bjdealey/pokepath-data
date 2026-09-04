@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Rock Head",
-      "description": "Rock Head: Rhyhorn receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Rhyhorn"
+      "description": "Rhyhorn receives no Re-Coil Damage"
     },
     {
       "name": "Lightning Rod",
-      "description": "Rock Head: Rhyhorn receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Rhyhorn"
+      "description": "All Electric Attacks are drawn to Rhyhorn"
     }
   ],
   "baseStats": {

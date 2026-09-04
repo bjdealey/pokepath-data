@@ -27,12 +27,12 @@
   ],
   "abilities": [
     {
-      "name": "Chrlorophyll",
-      "description": "Chlorophyll: When Sunny Day is in effect, Shiftry's Speed is DoubledEarly Bird: If afflicted with Sleep, Shiftry wakes up in half the time of normal"
+      "name": "Chlorophyll",
+      "description": "When Sunny Day is in effect, Shiftry's Speed is Doubled"
     },
     {
       "name": "Early Bird",
-      "description": "Chlorophyll: When Sunny Day is in effect, Shiftry's Speed is DoubledEarly Bird: If afflicted with Sleep, Shiftry wakes up in half the time of normal"
+      "description": "If afflicted with Sleep, Shiftry wakes up in half the time of normal"
     }
   ],
   "baseStats": {

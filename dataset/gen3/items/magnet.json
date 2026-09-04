@@ -2,7 +2,7 @@
   "slug": "magnet",
   "name": "Magnet",
   "category": "Hold Item",
-  "effect": "When this item is held, any Electric-type move used by the holder has its power increased by 20%In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Electric-type moves is increased by 10%.",
+  "effect": "When this item is held, any Electric-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Electric-type moves is increased by 10%.",
   "price": 3000,
   "sellPrice": 1500,
   "source": {

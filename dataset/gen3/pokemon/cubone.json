@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Rock Head",
-      "description": "Rock Head: Cubone receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Cubone"
+      "description": "Cubone receives no Re-Coil Damage"
     },
     {
       "name": "Lightning Rod",
-      "description": "Rock Head: Cubone receives no Re-Coil DamageLightning Rod: All Electric Attacks are drawn to Cubone"
+      "description": "All Electric Attacks are drawn to Cubone"
     }
   ],
   "baseStats": {

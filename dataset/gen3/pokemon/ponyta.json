@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Ponyta can escape from Wild BattlesFlash Fire: Prevents Ponyta from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Ponyta can escape from Wild Battles"
     },
     {
       "name": "Flash Fire",
-      "description": "Run Away: Ponyta can escape from Wild BattlesFlash Fire: Prevents Ponyta from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Prevents Ponyta from being attacked by Fire type moves, and also boosts the Fire type moves."
     }
   ],
   "baseStats": {

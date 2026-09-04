@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Clear Body",
-      "description": "Clear Body: Opponent's Moves that Lower Stats will not work on TentacoolLiquid Ooze: If the Opponent absorbs HP from Tentacool, the Opponent Loses that amount of HP"
+      "description": "Opponent's Moves that Lower Stats will not work on Tentacool"
     },
     {
       "name": "Liquid Ooze",
-      "description": "Clear Body: Opponent's Moves that Lower Stats will not work on TentacoolLiquid Ooze: If the Opponent absorbs HP from Tentacool, the Opponent Loses that amount of HP"
+      "description": "If the Opponent absorbs HP from Tentacool, the Opponent Loses that amount of HP"
     }
   ],
   "baseStats": {

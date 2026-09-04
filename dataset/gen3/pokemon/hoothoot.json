@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Insomnia",
-      "description": "Insomnia: Prevents Hoothoot from being put to SleepKeen Eye: Hoothoot's Accuracy cannot be Lowered by Opponent"
+      "description": "Prevents Hoothoot from being put to Sleep"
     },
     {
       "name": "Keen Eye",
-      "description": "Insomnia: Prevents Hoothoot from being put to SleepKeen Eye: Hoothoot's Accuracy cannot be Lowered by Opponent"
+      "description": "Hoothoot's Accuracy cannot be Lowered by Opponent"
     }
   ],
   "baseStats": {

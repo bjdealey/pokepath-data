@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Magma Armor",
-      "description": "Magma Armor: Prevents Slugma from being FrozenFlame Body: When a Pokémon makes contact with Slugma, it has a 30% chance of being Burned"
+      "description": "Prevents Slugma from being Frozen"
     },
     {
       "name": "Flame Body",
-      "description": "Magma Armor: Prevents Slugma from being FrozenFlame Body: When a Pokémon makes contact with Slugma, it has a 30% chance of being Burned"
+      "description": "When a Pokémon makes contact with Slugma, it has a 30% chance of being Burned"
     }
   ],
   "baseStats": {

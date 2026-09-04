@@ -2,7 +2,7 @@
   "slug": "repeatball",
   "name": "Repeat Ball",
   "category": "Pokeball",
-  "effect": "The Repeat Ball is a PokéBall that works best on Pokémon of a species which you have already captured or obtained. If the Pokémon is already in your Pokédex, the Capture Rate is 3. If however, it is not in the Pokédex, it has a Capture Rate of 1As of Pokémon Sun & Moon, the Capture Rate has changed to *3.5CatchValue = ((( 3 * Max HP - 2 * HP ) * (Catch Rate * 3.5 ) / (3 * Max HP) ) * Status Modifier",
+  "effect": "The Repeat Ball is a PokéBall that works best on Pokémon of a species which you have already captured or obtained. If the Pokémon is already in your Pokédex, the Capture Rate is 3. If however, it is not in the Pokédex, it has a Capture Rate of 1 As of Pokémon Sun & Moon, the Capture Rate has changed to *3.5CatchValue = ((( 3 * Max HP - 2 * HP ) * (Catch Rate * 3.5 ) / (3 * Max HP) ) * Status Modifier",
   "price": 1000,
   "sellPrice": 500,
   "source": {

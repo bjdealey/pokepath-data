@@ -23,11 +23,11 @@
   "abilities": [
     {
       "name": "Illuminate",
-      "description": "Illuminate: When Staryu is in the first party slot, Wild Pokémon appearances are more frequentNatural Cure: Status Conditions are healed when withdrawn from Battle"
+      "description": "When Staryu is in the first party slot, Wild Pokémon appearances are more frequent"
     },
     {
       "name": "Natural Cure",
-      "description": "Illuminate: When Staryu is in the first party slot, Wild Pokémon appearances are more frequentNatural Cure: Status Conditions are healed when withdrawn from Battle"
+      "description": "Status Conditions are healed when withdrawn from Battle"
     }
   ],
   "baseStats": {

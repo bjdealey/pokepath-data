@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Sand Veil",
-      "description": "Sand Veil: Increases Evasion in SandstormArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+      "description": "Increases Evasion in Sandstorm"
     },
     {
       "name": "Arena Trap",
-      "description": "Sand Veil: Increases Evasion in SandstormArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+      "description": "The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
     }
   ],
   "baseStats": {

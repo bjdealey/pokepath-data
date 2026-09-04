@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Synchronize",
-      "description": "Synchronize: When Gardevoir is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionTrace: Copies Opponent's Ability when brought into Battle"
+      "description": "When Gardevoir is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
     },
     {
       "name": "Trace",
-      "description": "Synchronize: When Gardevoir is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionTrace: Copies Opponent's Ability when brought into Battle"
+      "description": "Copies Opponent's Ability when brought into Battle"
     }
   ],
   "baseStats": {

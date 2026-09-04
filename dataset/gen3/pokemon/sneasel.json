@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Inner Focus",
-      "description": "Inner Focus: Prevents FlinchingKeen Eye: Sneasel's Accuracy cannot be Lowered by Opponent"
+      "description": "Prevents Flinching"
     },
     {
       "name": "Keen Eye",
-      "description": "Inner Focus: Prevents FlinchingKeen Eye: Sneasel's Accuracy cannot be Lowered by Opponent"
+      "description": "Sneasel's Accuracy cannot be Lowered by Opponent"
     }
   ],
   "baseStats": {

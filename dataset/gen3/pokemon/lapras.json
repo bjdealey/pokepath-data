@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Water Absorb",
-      "description": "Water Absorb: Lapras is healed by up to 25% of Max HP when hit by Water Attacks.Shell Armor: The Opponent's Moves cannot Critically Hit"
+      "description": "Lapras is healed by up to 25% of Max HP when hit by Water Attacks."
     },
     {
       "name": "Shell Armor",
-      "description": "Water Absorb: Lapras is healed by up to 25% of Max HP when hit by Water Attacks.Shell Armor: The Opponent's Moves cannot Critically Hit"
+      "description": "The Opponent's Moves cannot Critically Hit"
     }
   ],
   "baseStats": {

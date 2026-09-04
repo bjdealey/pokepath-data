@@ -23,11 +23,11 @@
   "abilities": [
     {
       "name": "Soundproof",
-      "description": "Soundproof: Voltorb is unaffected by Sound movesStatic: When a Pokémon makes contact with Voltorb, it has a 30% chance of being Paralyzed"
+      "description": "Voltorb is unaffected by Sound moves"
     },
     {
       "name": "Static",
-      "description": "Soundproof: Voltorb is unaffected by Sound movesStatic: When a Pokémon makes contact with Voltorb, it has a 30% chance of being Paralyzed"
+      "description": "When a Pokémon makes contact with Voltorb, it has a 30% chance of being Paralyzed"
     }
   ],
   "baseStats": {

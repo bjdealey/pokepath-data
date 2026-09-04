@@ -69,6 +69,13 @@ test("content quality: eggGroups + level-up populated; no non-Gen-3 leak moves",
     // Effect prose must not swallow a nested data table (e.g. a fossil's revived-Pokémon rows).
     assert.ok(!/Trainer Memo|Met at Level|\bOT:/i.test(i.effect as string), `item ${i.slug}: effect contains data-table leakage`);
   }
+  // Two-ability mons must get their own description each; only a mon whose Serebii
+  // name data is itself wrong (azurill: "Guts") legitimately falls back to shared text.
+  const sharedDesc = [...pokemon.values()].filter((p) => {
+    const d = ((p.abilities as any[]) ?? []).map((a) => a.description).filter(Boolean);
+    return d.length > 1 && new Set(d).size < d.length;
+  });
+  assert.ok(sharedDesc.length <= 2, `${sharedDesc.length} multi-ability mons share one description (over-capture regression?): ${sharedDesc.map((p) => p.slug).join(", ")}`);
 });
 
 test("moves: learnedBy resolves with matching natdex; machine links valid", () => {

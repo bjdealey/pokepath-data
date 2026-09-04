@@ -2,7 +2,7 @@
   "slug": "blackbelt",
   "name": "Black Belt",
   "category": "Hold Item",
-  "effect": "When this item is held, any Fighting-type move used by the holder has its power increased by 20%In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Fighting-type moves is increased by 10%.",
+  "effect": "When this item is held, any Fighting-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Fighting-type moves is increased by 10%.",
   "price": 3000,
   "sellPrice": 1500,
   "source": {

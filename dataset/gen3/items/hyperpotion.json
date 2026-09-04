@@ -2,7 +2,7 @@
   "slug": "hyperpotion",
   "name": "Hyper Potion",
   "category": "Recovery",
-  "effect": "Heals a Pokémon by 200HPAs of Pokémon Sun & Moon, it heals a Pokémon by 120HP",
+  "effect": "Heals a Pokémon by 200HP As of Pokémon Sun & Moon, it heals a Pokémon by 120HP",
   "price": 1500,
   "sellPrice": 750,
   "source": {

@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Rock Head",
-      "description": "Rock Head: Aron Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+      "description": "Aron Receives no Re-Coil Damage"
     },
     {
       "name": "Sturdy",
-      "description": "Rock Head: Aron Receives no Re-Coil DamageSturdy: One-Hit KO Moves will not work"
+      "description": "One-Hit KO Moves will not work"
     }
   ],
   "baseStats": {

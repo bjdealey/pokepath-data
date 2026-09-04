@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Hyper Cutter",
-      "description": "Hyper Cutter: Kingler's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+      "description": "Kingler's Attack cannot be Lowered by Opponent"
     },
     {
       "name": "Shell Armor",
-      "description": "Hyper Cutter: Kingler's Attack cannot be Lowered by OpponentShell Armor: The Opponent's Moves cannot Critically Hit"
+      "description": "The Opponent's Moves cannot Critically Hit"
     }
   ],
   "baseStats": {

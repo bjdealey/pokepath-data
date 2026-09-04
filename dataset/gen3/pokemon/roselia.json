@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Natural Cure",
-      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattlePoison Point: When a Pokémon makes contact with Roselia, it has a 30% chance of being Poisoned"
+      "description": "Status Conditions are healed when withdrawn from Battle"
     },
     {
       "name": "Poison Point",
-      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattlePoison Point: When a Pokémon makes contact with Roselia, it has a 30% chance of being Poisoned"
+      "description": "When a Pokémon makes contact with Roselia, it has a 30% chance of being Poisoned"
     }
   ],
   "baseStats": {

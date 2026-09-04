@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Thick Fat",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on MarillHuge Power: Marill's Attack is Doubled"
+      "description": "Fire & Ice Type moves do 50% Damage on Marill"
     },
     {
       "name": "Huge Power",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on MarillHuge Power: Marill's Attack is Doubled"
+      "description": "Marill's Attack is Doubled"
     }
   ],
   "baseStats": {

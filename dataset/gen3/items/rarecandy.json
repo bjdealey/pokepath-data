@@ -2,7 +2,7 @@
   "slug": "rarecandy",
   "name": "Rare Candy",
   "category": "Vitamins",
-  "effect": "Raises a Pokémon's level by 1. Increases their Happiness.As of Pokémon Sword & Shield, it can now also be used on a Level 100 Pokémon to trigger an evolution if the evolution requires Level Up.",
+  "effect": "Raises a Pokémon's level by 1. Increases their Happiness. As of Pokémon Sword & Shield, it can now also be used on a Level 100 Pokémon to trigger an evolution if the evolution requires Level Up.",
   "price": 10000,
   "sellPrice": 5000,
   "source": {

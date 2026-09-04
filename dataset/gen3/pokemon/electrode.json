@@ -23,11 +23,11 @@
   "abilities": [
     {
       "name": "Soundproof",
-      "description": "Soundproof: Electrode is unaffected by Sound movesStatic: When a Pokémon makes contact with Electrode, it has a 30% chance of being Paralyzed"
+      "description": "Electrode is unaffected by Sound moves"
     },
     {
       "name": "Static",
-      "description": "Soundproof: Electrode is unaffected by Sound movesStatic: When a Pokémon makes contact with Electrode, it has a 30% chance of being Paralyzed"
+      "description": "When a Pokémon makes contact with Electrode, it has a 30% chance of being Paralyzed"
     }
   ],
   "baseStats": {

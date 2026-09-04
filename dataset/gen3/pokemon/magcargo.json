@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Magma Armor",
-      "description": "Magma Armor: Prevents Magcargo from being FrozenFlame Body: When a Pokémon makes contact with Magcargo, it has a 30% chance of being Burned"
+      "description": "Prevents Magcargo from being Frozen"
     },
     {
       "name": "Flame Body",
-      "description": "Magma Armor: Prevents Magcargo from being FrozenFlame Body: When a Pokémon makes contact with Magcargo, it has a 30% chance of being Burned"
+      "description": "When a Pokémon makes contact with Magcargo, it has a 30% chance of being Burned"
     }
   ],
   "baseStats": {

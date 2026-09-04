@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Aipom can escape from Wild BattlesPickUp: Has a 10% chance of finding and holding an item after battle"
+      "description": "Aipom can escape from Wild Battles"
     },
     {
       "name": "PickUp",
-      "description": "Run Away: Aipom can escape from Wild BattlesPickUp: Has a 10% chance of finding and holding an item after battle"
+      "description": "Has a 10% chance of finding and holding an item after battle"
     }
   ],
   "baseStats": {

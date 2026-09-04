@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Intimidate",
-      "description": "Intimidate: Upon Arcanine's Entry in Battle, all opponent's Attack Stats are loweredFlash Fire: Prevents Arcanine from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Upon Arcanine's Entry in Battle, all opponent's Attack Stats are lowered"
     },
     {
       "name": "Flash Fire",
-      "description": "Intimidate: Upon Arcanine's Entry in Battle, all opponent's Attack Stats are loweredFlash Fire: Prevents Arcanine from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Prevents Arcanine from being attacked by Fire type moves, and also boosts the Fire type moves."
     }
   ],
   "baseStats": {

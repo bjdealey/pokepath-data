@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Swarm",
-      "description": "Swarm: When Ledian's HP Gets Low, It's Bug type attack's power is multiplied by 1.5Early Bird: If afflicted with Sleep, Ledian wakes up in half the time of normal"
+      "description": "When Ledian's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
     },
     {
       "name": "Early Bird",
-      "description": "Swarm: When Ledian's HP Gets Low, It's Bug type attack's power is multiplied by 1.5Early Bird: If afflicted with Sleep, Ledian wakes up in half the time of normal"
+      "description": "If afflicted with Sleep, Ledian wakes up in half the time of normal"
     }
   ],
   "baseStats": {

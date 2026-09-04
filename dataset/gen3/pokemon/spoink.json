@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Thick Fat",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on SpoinkOwn Tempo: Prevents Spoink from being Confused"
+      "description": "Fire & Ice Type moves do 50% Damage on Spoink"
     },
     {
       "name": "Own Tempo",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on SpoinkOwn Tempo: Prevents Spoink from being Confused"
+      "description": "Prevents Spoink from being Confused"
     }
   ],
   "baseStats": {

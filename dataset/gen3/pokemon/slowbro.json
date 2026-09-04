@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Oblivious",
-      "description": "Oblivious: Prevents Slowbro from being InfatuatedOwn Tempo: Prevents Slowbro from being Confused"
+      "description": "Prevents Slowbro from being Infatuated"
     },
     {
       "name": "Own Tempo",
-      "description": "Oblivious: Prevents Slowbro from being InfatuatedOwn Tempo: Prevents Slowbro from being Confused"
+      "description": "Prevents Slowbro from being Confused"
     }
   ],
   "baseStats": {

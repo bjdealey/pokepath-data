@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Synchronize",
-      "description": "Synchronize: When Xatu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionEarly Bird: If afflicted with Sleep, Xatu wakes up in half the time of normal"
+      "description": "When Xatu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
     },
     {
       "name": "Early Bird",
-      "description": "Synchronize: When Xatu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same ConditionEarly Bird: If afflicted with Sleep, Xatu wakes up in half the time of normal"
+      "description": "If afflicted with Sleep, Xatu wakes up in half the time of normal"
     }
   ],
   "baseStats": {

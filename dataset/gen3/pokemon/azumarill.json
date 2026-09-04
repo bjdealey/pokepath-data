@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Thick Fat",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on AzumarillHuge Power: Azumarill's Attack is Doubled"
+      "description": "Fire & Ice Type moves do 50% Damage on Azumarill"
     },
     {
       "name": "Huge Power",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on AzumarillHuge Power: Azumarill's Attack is Doubled"
+      "description": "Azumarill's Attack is Doubled"
     }
   ],
   "baseStats": {

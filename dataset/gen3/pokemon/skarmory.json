@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Keen Eye",
-      "description": "Keen Eye: Skarmory's Accuracy cannot be Lowered by OpponentSturdy: One-Hit KO Moves will not work"
+      "description": "Skarmory's Accuracy cannot be Lowered by Opponent"
     },
     {
       "name": "Sturdy",
-      "description": "Keen Eye: Skarmory's Accuracy cannot be Lowered by OpponentSturdy: One-Hit KO Moves will not work"
+      "description": "One-Hit KO Moves will not work"
     }
   ],
   "baseStats": {

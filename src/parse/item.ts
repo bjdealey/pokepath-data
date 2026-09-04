@@ -7,6 +7,9 @@ const clean = (s: string) => s.replace(/\s+/g, " ").trim();
 
 export function parseItem(html: string, url: string): ItemRecord {
   const $ = cheerio.load(html);
+  $("br").replaceWith(" "); // Serebii separates sentences with <br>; keep them from gluing together
+
+
   const name = clean($("title").text()).replace(/^Serebii\.net ItemDex\s*-\s*/i, "");
 
   // Category: the "Item Type" column — items can have two types (e.g. a hold

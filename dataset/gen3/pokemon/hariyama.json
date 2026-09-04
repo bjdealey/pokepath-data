@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Thick Fat",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on Hariyama Guts: When Hariyama is inflicted with a status condition, it's attack is raised by 50%"
+      "description": "Fire & Ice Type moves do 50% Damage on Hariyama"
     },
     {
       "name": "Guts",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on Hariyama Guts: When Hariyama is inflicted with a status condition, it's attack is raised by 50%"
+      "description": "When Hariyama is inflicted with a status condition, it's attack is raised by 50%"
     }
   ],
   "baseStats": {

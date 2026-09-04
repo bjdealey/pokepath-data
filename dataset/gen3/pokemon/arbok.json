@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Shed Skin",
-      "description": "Shed Skin: Every Turn Arbok has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Arbok's Entry in Battle, all opponent's Attack Stats are lowered"
+      "description": "Every Turn Arbok has a 1 in 3 chance of healing from a Status Condition."
     },
     {
       "name": "Intimidate",
-      "description": "Shed Skin: Every Turn Arbok has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Arbok's Entry in Battle, all opponent's Attack Stats are lowered"
+      "description": "Upon Arbok's Entry in Battle, all opponent's Attack Stats are lowered"
     }
   ],
   "baseStats": {

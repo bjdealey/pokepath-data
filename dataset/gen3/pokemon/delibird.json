@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Hustle",
-      "description": "Hustle: Delibird's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Vital Spirit: Delibird Cannot be put to Sleep"
+      "description": "Delibird's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
     },
     {
       "name": "Vital Spirit",
-      "description": "Hustle: Delibird's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Vital Spirit: Delibird Cannot be put to Sleep"
+      "description": "Delibird Cannot be put to Sleep"
     }
   ],
   "baseStats": {

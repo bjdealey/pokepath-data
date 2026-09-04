@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Hustle",
-      "description": "Hustle: Corsola's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Natural Cure: Status Conditions are healed when withdrawn from Battle"
+      "description": "Corsola's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
     },
     {
       "name": "Natural Cure",
-      "description": "Hustle: Corsola's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%Natural Cure: Status Conditions are healed when withdrawn from Battle"
+      "description": "Status Conditions are healed when withdrawn from Battle"
     }
   ],
   "baseStats": {

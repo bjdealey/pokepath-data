@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Swift Swim",
-      "description": "Swift Swim: When Rain Dance is in effect, Mantine's Speed is DoubledWater Absorb: Mantine is healed by up to 25% of Max HP when hit by Water Attacks."
+      "description": "When Rain Dance is in effect, Mantine's Speed is Doubled"
     },
     {
       "name": "Water Absorb",
-      "description": "Swift Swim: When Rain Dance is in effect, Mantine's Speed is DoubledWater Absorb: Mantine is healed by up to 25% of Max HP when hit by Water Attacks."
+      "description": "Mantine is healed by up to 25% of Max HP when hit by Water Attacks."
     }
   ],
   "baseStats": {

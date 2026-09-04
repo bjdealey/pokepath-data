@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Early Bird",
-      "description": "Early Bird: If afflicted with Sleep, Houndoom wakes up in half the time of normalFlash Fire: Prevents Houndoom from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "If afflicted with Sleep, Houndoom wakes up in half the time of normal"
     },
     {
       "name": "Flash Fire",
-      "description": "Early Bird: If afflicted with Sleep, Houndoom wakes up in half the time of normalFlash Fire: Prevents Houndoom from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Prevents Houndoom from being attacked by Fire type moves, and also boosts the Fire type moves."
     }
   ],
   "baseStats": {

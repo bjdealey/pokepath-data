@@ -24,11 +24,11 @@
   "abilities": [
     {
       "name": "Magnet Pull",
-      "description": "Magnet Pull: Steel type Pokémon cannot escape from battleSturdy: One-Hit KO Moves will not work"
+      "description": "Steel type Pokémon cannot escape from battle"
     },
     {
       "name": "Sturdy",
-      "description": "Magnet Pull: Steel type Pokémon cannot escape from battleSturdy: One-Hit KO Moves will not work"
+      "description": "One-Hit KO Moves will not work"
     }
   ],
   "baseStats": {

@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Rapidash can escape from Wild BattlesFlash Fire: Prevents Rapidash from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Rapidash can escape from Wild Battles"
     },
     {
       "name": "Flash Fire",
-      "description": "Run Away: Rapidash can escape from Wild BattlesFlash Fire: Prevents Rapidash from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Prevents Rapidash from being attacked by Fire type moves, and also boosts the Fire type moves."
     }
   ],
   "baseStats": {

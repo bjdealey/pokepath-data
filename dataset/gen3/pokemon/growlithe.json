@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Intimidate",
-      "description": "Intimidate: Upon Growlithe's Entry in Battle, all opponent's Attack Stats are loweredFlash Fire: Prevents Growlithe from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Upon Growlithe's Entry in Battle, all opponent's Attack Stats are lowered"
     },
     {
       "name": "Flash Fire",
-      "description": "Intimidate: Upon Growlithe's Entry in Battle, all opponent's Attack Stats are loweredFlash Fire: Prevents Growlithe from being attacked by Fire type moves, and also boosts the Fire type moves."
+      "description": "Prevents Growlithe from being attacked by Fire type moves, and also boosts the Fire type moves."
     }
   ],
   "baseStats": {

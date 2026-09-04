@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Shed Skin",
-      "description": "Shed Skin: Every Turn Ekans has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Ekans' Entry in Battle, all opponent's Attacks are lowered"
+      "description": "Every Turn Ekans has a 1 in 3 chance of healing from a Status Condition."
     },
     {
       "name": "Intimidate",
-      "description": "Shed Skin: Every Turn Ekans has a 1 in 3 chance of healing from a Status Condition.Intimidate: Upon Ekans' Entry in Battle, all opponent's Attacks are lowered"
+      "description": "Upon Ekans' Entry in Battle, all opponent's Attacks are lowered"
     }
   ],
   "baseStats": {

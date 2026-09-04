@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Hyper Cutter",
-      "description": "Hyper Cutter: Trapinch's Attack cannot be Lowered by OpponentArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+      "description": "Trapinch's Attack cannot be Lowered by Opponent"
     },
     {
       "name": "Arena Trap",
-      "description": "Hyper Cutter: Trapinch's Attack cannot be Lowered by OpponentArena Trap: The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+      "description": "The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
     }
   ],
   "baseStats": {

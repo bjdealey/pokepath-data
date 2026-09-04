@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Oblivious",
-      "description": "Oblivious: Prevents Lickitung from being InfatuatedOwn Tempo: Prevents Lickitung from being Confused"
+      "description": "Prevents Lickitung from being Infatuated"
     },
     {
       "name": "Own Tempo",
-      "description": "Oblivious: Prevents Lickitung from being InfatuatedOwn Tempo: Prevents Lickitung from being Confused"
+      "description": "Prevents Lickitung from being Confused"
     }
   ],
   "baseStats": {

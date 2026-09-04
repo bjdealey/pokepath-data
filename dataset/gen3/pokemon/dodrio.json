@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Dodrio can escape from Wild BattlesEarly Bird: If afflicted with Sleep, Dodrio wakes up in half the time of normal"
+      "description": "Dodrio can escape from Wild Battles"
     },
     {
       "name": "Early Bird",
-      "description": "Run Away: Dodrio can escape from Wild BattlesEarly Bird: If afflicted with Sleep, Dodrio wakes up in half the time of normal"
+      "description": "If afflicted with Sleep, Dodrio wakes up in half the time of normal"
     }
   ],
   "baseStats": {

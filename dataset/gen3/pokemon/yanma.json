@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Speed Boost",
-      "description": "Speed Boost: Increases Yanma's Speed by One Level each turn Compoundeyes: Raises Yanma's Accuracy by 30%"
+      "description": "Increases Yanma's Speed by One Level each turn"
     },
     {
       "name": "Compoundeyes",
-      "description": "Speed Boost: Increases Yanma's Speed by One Level each turn Compoundeyes: Raises Yanma's Accuracy by 30%"
+      "description": "Raises Yanma's Accuracy by 30%"
     }
   ],
   "baseStats": {

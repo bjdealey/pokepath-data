@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Keen Eye",
-      "description": "Keen Eye: Farfetch'd's Accuracy cannot be Lowered by OpponentInner Focus: Prevents Flinching"
+      "description": "Farfetch'd's Accuracy cannot be Lowered by Opponent"
     },
     {
       "name": "Inner Focus",
-      "description": "Keen Eye: Farfetch'd's Accuracy cannot be Lowered by OpponentInner Focus: Prevents Flinching"
+      "description": "Prevents Flinching"
     }
   ],
   "baseStats": {

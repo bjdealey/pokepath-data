@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Stench",
-      "description": "Stench: When Muk is in the first slot of party, Wild Pokémon encounters decreaseSticky Hold: Muk's Item cannot be stolen"
+      "description": "When Muk is in the first slot of party, Wild Pokémon encounters decrease"
     },
     {
       "name": "Sticky Hold",
-      "description": "Stench: When Muk is in the first slot of party, Wild Pokémon encounters decreaseSticky Hold: Muk's Item cannot be stolen"
+      "description": "Muk's Item cannot be stolen"
     }
   ],
   "baseStats": {

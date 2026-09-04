@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Illuminate",
-      "description": "Illuminate: When Volbeat is in the first party slot, Wild Pokémon appearances are more frequentSwarm: When Volbeat's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+      "description": "When Volbeat is in the first party slot, Wild Pokémon appearances are more frequent"
     },
     {
       "name": "Swarm",
-      "description": "Illuminate: When Volbeat is in the first party slot, Wild Pokémon appearances are more frequentSwarm: When Volbeat's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+      "description": "When Volbeat's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
     }
   ],
   "baseStats": {

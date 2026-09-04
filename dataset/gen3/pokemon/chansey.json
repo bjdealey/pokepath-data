@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Natural Cure",
-      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattleSerene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+      "description": "Status Conditions are healed when withdrawn from Battle"
     },
     {
       "name": "Serene Grace",
-      "description": "Natural Cure: Status Conditions are healed when withdrawn from BattleSerene Grace: If a move has an extra effect, the chances of it occuring is doubled"
+      "description": "If a move has an extra effect, the chances of it occuring is doubled"
     }
   ],
   "baseStats": {

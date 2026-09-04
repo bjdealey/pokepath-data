@@ -139,6 +139,7 @@ export interface ParsedPokemon {
 
 export function parsePokemon(html: string, url: string): ParsedPokemon {
   const $ = cheerio.load(html);
+  $("br").replaceWith(" "); // Serebii separates sentences/abilities with <br>; keep text from gluing together
 
   // Index dextables by their section title (first cell of first row).
   const byTitle = new Map<string, Cheerio<Element>>();
@@ -237,11 +238,36 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
       if (c0 && ($(c0).attr("class") ?? "").startsWith("fooleft")) {
         const abilityName = cellText(c0).replace(/^Ability:\s*/i, "");
         // Two possible abilities share one cell ("Magnet Pull & Sturdy") and one
-        // description row. Split the names; the shared description is best-effort
-        // until abilities become their own entity (abilitydex).
-        const description = infoTrs[i + 1] ? cellText(cells(infoTrs[i + 1]!)[0]!) : undefined;
-        for (const a of abilityName.split(/\s*&\s*|\s+or\s+/)) {
-          if (a) abilities.push({ name: a.trim(), description });
+        // description row that lists BOTH as "Name: <desc>". Split the combined
+        // text by the ability-name prefixes so each ability gets only its own
+        // description (and drop the redundant "Name:" prefix).
+        // Two abilities share one description row that reads "Name1: <desc1>
+        // Name2: <desc2>". Give each ability only its own slice, keyed off the
+        // ability names (the reliable delimiter — capitalized words appear mid-
+        // description too). Only split when every name is actually present as a
+        // "Name:" prefix; otherwise (single ability, or a Serebii name typo that
+        // won't match) keep the shared text rather than mis-slicing.
+        const combined = infoTrs[i + 1] ? cellText(cells(infoTrs[i + 1]!)[0]!) : "";
+        const names = abilityName
+          .split(/\s*&\s*|\s+or\s+/)
+          .map((a) => a.trim())
+          .filter(Boolean)
+          .map((a) => (a === "Chrlorophyll" ? "Chlorophyll" : a)); // Serebii misspells Chlorophyll in the Nuzleaf line's name cell
+        const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        const prefix = (a: string) => new RegExp(esc(a) + "\\s*:", "i");
+        const splittable = names.length > 1 && names.every((a) => prefix(a).test(combined));
+        for (const a of names) {
+          let description: string | undefined = combined || undefined;
+          if (splittable) {
+            let rest = combined.slice(combined.search(prefix(a))).replace(new RegExp("^" + esc(a) + "\\s*:\\s*", "i"), "");
+            for (const other of names) {
+              if (other === a) continue;
+              const cut = rest.search(prefix(other));
+              if (cut >= 0) rest = rest.slice(0, cut);
+            }
+            description = clean(rest) || undefined;
+          }
+          abilities.push({ name: a, description });
         }
       }
     }

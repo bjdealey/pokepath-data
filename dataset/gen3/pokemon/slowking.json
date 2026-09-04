@@ -28,11 +28,11 @@
   "abilities": [
     {
       "name": "Oblivious",
-      "description": "Oblivious: Prevents Slowking from being InfatuatedOwn Tempo: Prevents Slowking from being Confused"
+      "description": "Prevents Slowking from being Infatuated"
     },
     {
       "name": "Own Tempo",
-      "description": "Oblivious: Prevents Slowking from being InfatuatedOwn Tempo: Prevents Slowking from being Confused"
+      "description": "Prevents Slowking from being Confused"
     }
   ],
   "baseStats": {

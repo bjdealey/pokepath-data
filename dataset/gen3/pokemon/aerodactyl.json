@@ -27,11 +27,11 @@
   "abilities": [
     {
       "name": "Rock Head",
-      "description": "Rock Head: Aerodactyl receives no Re-Coil DamagePressure: The Opponent's Moves against Aerodactyl use 2 PP instead of 1"
+      "description": "Aerodactyl receives no Re-Coil Damage"
     },
     {
       "name": "Pressure",
-      "description": "Rock Head: Aerodactyl receives no Re-Coil DamagePressure: The Opponent's Moves against Aerodactyl use 2 PP instead of 1"
+      "description": "The Opponent's Moves against Aerodactyl use 2 PP instead of 1"
     }
   ],
   "baseStats": {

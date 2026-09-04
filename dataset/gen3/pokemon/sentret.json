@@ -26,11 +26,11 @@
   "abilities": [
     {
       "name": "Run Away",
-      "description": "Run Away: Sentret can escape from Wild BattlesKeen Eye: Sentret's Accuracy cannot be Lowered by Opponent"
+      "description": "Sentret can escape from Wild Battles"
     },
     {
       "name": "Keen Eye",
-      "description": "Run Away: Sentret can escape from Wild BattlesKeen Eye: Sentret's Accuracy cannot be Lowered by Opponent"
+      "description": "Sentret's Accuracy cannot be Lowered by Opponent"
     }
   ],
   "baseStats": {
