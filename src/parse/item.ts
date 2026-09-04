@@ -5,6 +5,23 @@ import type { ItemRecord } from "../types.ts";
 
 const clean = (s: string) => s.replace(/\s+/g, " ").trim();
 
+// Serebii's "In-Depth Effect" is written for the current gen — it strings a
+// clause per generation ("In Ruby, Sapphire & Emerald, … In Diamond, Pearl &
+// Platinum, … As of Pokémon Sun & Moon, …"). For a Gen-3 dataset the later-gen
+// clauses are noise and sometimes wrong here (a Sun/Moon catch formula, a B2W2
+// nature-passing rule). Drop any clause that names ONLY a post-Gen-3 game; keep
+// the lead-in and every clause that's gen-agnostic or mentions a Gen-3 game.
+const GEN3 = /\b(Ruby|Sapphire|Emerald|FireRed|LeafGreen)\b/i;
+const LATER = /\b(Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|X & Y|Sun|Moon|Sword|Shield|Brilliant|Shining|Scarlet|Violet|Let's Go)\b/i;
+const CLAUSE = /(?=\b(?:In|As of|From)\s+(?:Pokémon\s+)?(?:Ruby|Sapphire|Emerald|Red|Blue|Yellow|Gold|Silver|Crystal|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Sun|Moon|Sword|Shield|Scarlet|Violet)\b)/gi;
+export function gen3Effect(effect: string): string {
+  const parts = effect.split(CLAUSE);
+  if (parts.length < 2) return effect; // no per-gen clause structure — leave as-is
+  const kept = parts.filter((p, i) => i === 0 || GEN3.test(p) || !LATER.test(p));
+  const out = clean(kept.join(" "));
+  return out || effect; // never blank it out
+}
+
 export function parseItem(html: string, url: string): ItemRecord {
   const $ = cheerio.load(html);
   $("br").replaceWith(" "); // Serebii separates sentences with <br>; keep them from gluing together
@@ -45,6 +62,8 @@ export function parseItem(html: string, url: string): ItemRecord {
       if (/Flavou?r Text/i.test(title) && !effect) effect = clean($(t).find("tr").eq(1).find("td.fooinfo").first().text());
     });
   }
+
+  effect = gen3Effect(effect);
 
   const body = clean($("body").text());
   const price = Number(body.match(/Purchase Price:\s*(\d+)/i)?.[1] ?? "") || null;

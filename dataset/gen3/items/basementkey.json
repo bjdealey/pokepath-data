@@ -2,12 +2,12 @@
   "slug": "basementkey",
   "name": "Basement Key",
   "category": "Key Item",
-  "effect": "This item has got several uses depending on the game it is used in. In Ruby, Sapphire & Emerald, this key is given by Wattson in order to access the underground area; \"New Mauville\" In Gold, Silver, Crystal, HeartGold & SoulSilver, it unlocks the door to give you access to the Goldenrod Underground.",
+  "effect": "This item has got several uses depending on the game it is used in. In Ruby, Sapphire & Emerald, this key is given by Wattson in order to access the underground area; \"New Mauville\"",
   "price": null,
   "sellPrice": null,
   "source": {
     "url": "https://www.serebii.net/itemdex/basementkey.shtml",
-    "scrapedAt": "2026-09-04T22:27:45.274Z"
+    "scrapedAt": "2026-09-04T23:23:34.060Z"
   },
   "foundAt": [
     {

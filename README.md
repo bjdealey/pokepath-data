@@ -99,8 +99,12 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   price) for the 164 items findable in Emerald **plus the wild-held-only items** (Light Ball,
   Metal Coat, …) that no location drops (181 total), from `/itemdex/<slug>.shtml`. Canonical at
   `dataset/items/<slug>.json`; slugs match the location items — `games/emerald/items.json`
-  says *where*, this says *what it does*. Price is Serebii's ItemDex value (not gen-scoped,
-  so latest where an item's price changed across gens). `itemlinks` then bakes two reverse-
+  says *where*, this says *what it does*. **The ItemDex is current-gen**, so `price` and
+  `category` are the latest value (an item Serebii now files as a `Key Item` may not have
+  been one in Gen 3). The **effect** is written per-generation ("In Ruby, Sapphire & Emerald,
+  … In Diamond, Pearl & Platinum, …") and is **trimmed to Gen 3** at parse time — clauses that
+  name only a post-Gen-3 game are dropped (removing later-gen bloat and Gen-3-wrong tails like
+  a Sun/Moon catch formula), keeping the lead-in and any Gen-3 or gen-agnostic text. `itemlinks` then bakes two reverse-
   indexes into each item (no network): **`heldBy`** — the wild Pokémon that carry it + drop
   rate (inverting each Pokémon's Emerald `wildItems`) — and **`foundAt`** — the locations it's
   found at + method (inverting the location items). 45 items are held by wild Pokémon.
@@ -154,8 +158,10 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   beats (key items with a findable location), and `legendary` beats (in-Hoenn legendaries,
   all flagged `optional`) — every beat ordered by `levelCap` and tied to a location slug
   (`storypath` derive, no network). All three are **heuristic** ordering (Serebii has no
-  walkthrough page), not canonical — a beat's level is a story-order proxy, so a late area's
-  legendary can read early (Sky Pillar's wild level under-reads Rayquaza's true timing).
+  walkthrough page), not canonical — a beat's level is a story-order proxy. Legendaries are the
+  exception to level-placement: a static legendary isn't a grass encounter, so its area's wild
+  level would misplace it — they're grouped as an **optional cluster after the champion** (their
+  areas are late/post-game and Serebii gives no static-encounter level to time them precisely).
   Route-gating (which HM a route needs) lives on the connections graph, not here.
 - ✅ `connectivity` — the **Hoenn map graph** (`games/emerald/connections.json`): each
   location → `{ name, exits: { direction → location }, fieldMoves }`, from the pokearth

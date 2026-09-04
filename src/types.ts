@@ -207,7 +207,7 @@ export interface StoryBeat {
   location: string; // slug ("" for E4/champion, which have no map location)
   levelCap: number; // ordering key: team level (battles) or the area's inferred level (progression beats)
   milestone?: string; // slug of the gym/E4/champion milestone (badge/TM/field-move live there)
-  name?: string; // label for villain/rival beats, or the display name of an hm/legendary/item beat
+  name?: string; // label for villain/rival beats, or the display name of a legendary/item beat (hm beats label with `move`)
   battles?: number; // villain/rival beats: how many battles happen at this location
   hm?: string; // "hm" beats: the machine code (e.g. "HM03")
   move?: string; // "hm" beats: the field move it teaches (e.g. "Surf")

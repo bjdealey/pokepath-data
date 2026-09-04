@@ -2,12 +2,12 @@
   "slug": "heartscale",
   "name": "Heart Scale",
   "category": "Miscellaneous",
-  "effect": "An item with a variety of uses In Ruby, Sapphire & Emerald, give to Move Relearner in Fallabor Town to learn a move in your Pokémon's level up list which it has since forgotten. In Diamond, Pearl & Platinum, give to Move Relearner in Pastoria City to learn a move in your Pokémon's level up list which it has since forgotten. In HeartGold & SoulSilver, give to Move Relearner in Blackthorn City to learn a move in your Pokémon's level up list which it has since forgotten. In Black & White, give to Move Relearner in Mistralton City to learn a move in your Pokémon's level up list which it has since forgotten.",
+  "effect": "An item with a variety of uses In Ruby, Sapphire & Emerald, give to Move Relearner in Fallabor Town to learn a move in your Pokémon's level up list which it has since forgotten.",
   "price": 100,
   "sellPrice": 50,
   "source": {
     "url": "https://www.serebii.net/itemdex/heartscale.shtml",
-    "scrapedAt": "2026-09-04T22:27:45.678Z"
+    "scrapedAt": "2026-09-04T23:23:34.766Z"
   },
   "heldBy": [
     {

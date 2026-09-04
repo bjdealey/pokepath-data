@@ -2,12 +2,12 @@
   "slug": "xspecial",
   "name": "X Sp. Atk",
   "category": "Battle Effect",
-  "effect": "In battle, it raises the Pokémon's Special Attack by 1 stage until the battle is over or the Pokémon is withdrawn. Increases Pokémon's Happiness. As of Pokémon Sun & Moon, it boosts by 2 stages As of Pokémon X & Y it was renamed to X Sp. Atk",
+  "effect": "In battle, it raises the Pokémon's Special Attack by 1 stage until the battle is over or the Pokémon is withdrawn. Increases Pokémon's Happiness.",
   "price": 1000,
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/xspecial.shtml",
-    "scrapedAt": "2026-09-04T22:27:46.988Z"
+    "scrapedAt": "2026-09-04T23:23:36.912Z"
   },
   "foundAt": [
     {

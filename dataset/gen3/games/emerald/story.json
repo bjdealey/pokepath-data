@@ -563,7 +563,6 @@
       "levelCap": 10,
       "hm": "HM05",
       "move": "Flash",
-      "name": "Flash",
       "method": "Gift (Hiker)"
     },
     {
@@ -581,7 +580,6 @@
       "levelCap": 13,
       "hm": "HM01",
       "move": "Cut",
-      "name": "Cut",
       "method": "Gift"
     },
     {
@@ -649,7 +647,6 @@
       "levelCap": 16,
       "hm": "HM04",
       "move": "Strength",
-      "name": "Strength",
       "method": "Gift"
     },
     {
@@ -668,7 +665,6 @@
       "levelCap": 17,
       "hm": "HM06",
       "move": "Rock Smash",
-      "name": "Rock Smash",
       "method": "Gift"
     },
     {
@@ -771,7 +767,6 @@
       "levelCap": 26,
       "hm": "HM03",
       "move": "Surf",
-      "name": "Surf",
       "method": "Gift from Wally's Family"
     },
     {
@@ -816,7 +811,6 @@
       "levelCap": 28,
       "hm": "HM02",
       "move": "Fly",
-      "name": "Fly",
       "method": "Gift from Rival"
     },
     {
@@ -880,7 +874,6 @@
       "levelCap": 35,
       "hm": "HM07",
       "move": "Waterfall",
-      "name": "Waterfall",
       "method": "Gift"
     },
     {
@@ -890,7 +883,6 @@
       "levelCap": 36,
       "hm": "HM08",
       "move": "Dive",
-      "name": "Dive",
       "method": "Gift from Steven"
     },
     {
@@ -904,16 +896,6 @@
     },
     {
       "order": 43,
-      "kind": "legendary",
-      "location": "skypillar",
-      "levelCap": 38,
-      "pokemon": "rayquaza",
-      "name": "Rayquaza",
-      "method": "static",
-      "optional": true
-    },
-    {
-      "order": 44,
       "kind": "villain",
       "location": "magmahideout",
       "levelCap": 39,
@@ -921,14 +903,14 @@
       "battles": 9
     },
     {
-      "order": 45,
+      "order": 44,
       "kind": "gym",
       "location": "mossdeepcity",
       "levelCap": 42,
       "milestone": "tate-and-liza"
     },
     {
-      "order": 46,
+      "order": 45,
       "kind": "villain",
       "location": "mossdeepcity",
       "levelCap": 44,
@@ -936,42 +918,42 @@
       "battles": 8
     },
     {
-      "order": 47,
+      "order": 46,
       "kind": "gym",
       "location": "sootopoliscity",
       "levelCap": 46,
       "milestone": "juan"
     },
     {
-      "order": 48,
+      "order": 47,
       "kind": "elite-four",
       "location": "",
       "levelCap": 49,
       "milestone": "sidney"
     },
     {
-      "order": 49,
+      "order": 48,
       "kind": "elite-four",
       "location": "",
       "levelCap": 51,
       "milestone": "phoebe"
     },
     {
-      "order": 50,
+      "order": 49,
       "kind": "elite-four",
       "location": "",
       "levelCap": 53,
       "milestone": "glacia"
     },
     {
-      "order": 51,
+      "order": 50,
       "kind": "elite-four",
       "location": "",
       "levelCap": 55,
       "milestone": "drake"
     },
     {
-      "order": 52,
+      "order": 51,
       "kind": "rival",
       "location": "victoryroad",
       "levelCap": 57,
@@ -979,14 +961,14 @@
       "battles": 5
     },
     {
-      "order": 53,
+      "order": 52,
       "kind": "champion",
       "location": "",
       "levelCap": 58,
       "milestone": "wallace"
     },
     {
-      "order": 54,
+      "order": 53,
       "kind": "legendary",
       "location": "desertruins",
       "levelCap": 59,
@@ -996,7 +978,7 @@
       "optional": true
     },
     {
-      "order": 55,
+      "order": 54,
       "kind": "legendary",
       "location": "islandcave",
       "levelCap": 59,
@@ -1006,7 +988,7 @@
       "optional": true
     },
     {
-      "order": 56,
+      "order": 55,
       "kind": "legendary",
       "location": "ancienttomb",
       "levelCap": 59,
@@ -1016,7 +998,7 @@
       "optional": true
     },
     {
-      "order": 57,
+      "order": 56,
       "kind": "legendary",
       "location": "",
       "levelCap": 59,
@@ -1026,7 +1008,7 @@
       "optional": true
     },
     {
-      "order": 58,
+      "order": 57,
       "kind": "legendary",
       "location": "",
       "levelCap": 59,
@@ -1036,7 +1018,7 @@
       "optional": true
     },
     {
-      "order": 59,
+      "order": 58,
       "kind": "legendary",
       "location": "marinecave",
       "levelCap": 59,
@@ -1046,12 +1028,22 @@
       "optional": true
     },
     {
-      "order": 60,
+      "order": 59,
       "kind": "legendary",
       "location": "terracave",
       "levelCap": 59,
       "pokemon": "groudon",
       "name": "Groudon",
+      "method": "static",
+      "optional": true
+    },
+    {
+      "order": 60,
+      "kind": "legendary",
+      "location": "skypillar",
+      "levelCap": 59,
+      "pokemon": "rayquaza",
+      "name": "Rayquaza",
       "method": "static",
       "optional": true
     }

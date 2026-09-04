@@ -2,12 +2,12 @@
   "slug": "everstone",
   "name": "Everstone",
   "category": "Hold Item",
-  "effect": "When this item is held by a Pokémon, it will be prevented from evolving by Level Up means. In Emerald, Diamond, Pearl, Platinum, HeartGold & SoulSilver, if a Female Pokémon or a Ditto holds this in the Breeding Centre and breeds, there is a 50% chance of the offspring retaining the holder's nature. From Black 2 & White 2 onwards, it is changed so that it will always pass down the nature to the offspring.",
+  "effect": "When this item is held by a Pokémon, it will be prevented from evolving by Level Up means. In Emerald, Diamond, Pearl, Platinum, HeartGold & SoulSilver, if a Female Pokémon or a Ditto holds this in the Breeding Centre and breeds, there is a 50% chance of the offspring retaining the holder's nature.",
   "price": 3000,
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/everstone.shtml",
-    "scrapedAt": "2026-09-04T22:27:50.339Z"
+    "scrapedAt": "2026-09-04T23:23:37.089Z"
   },
   "heldBy": [
     {

@@ -2,12 +2,12 @@
   "slug": "blueshard",
   "name": "Blue Shard",
   "category": "Miscellaneous",
-  "effect": "A broken piece of a bigger plate. In Ruby, Sapphire & Emerald, it can be exchanged in Route 124 for a Water Stone In Diamond, Pearl, & Platinum, 10 can be exchanged in Route 212 for TM18 - Rain Dance In Platinum, can be used in Route 212, Snowpoint City and Survival Area in conjunction with other shards to learn so new moves In HeartGold & SoulSilver, can be exchanged in Violet City & Fuchsia City for some Berries.",
+  "effect": "A broken piece of a bigger plate. In Ruby, Sapphire & Emerald, it can be exchanged in Route 124 for a Water Stone",
   "price": 200,
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/blueshard.shtml",
-    "scrapedAt": "2026-09-04T22:27:45.349Z"
+    "scrapedAt": "2026-09-04T23:23:34.177Z"
   },
   "heldBy": [
     {

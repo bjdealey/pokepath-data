@@ -39,24 +39,32 @@ export function deriveStoryPath() {
       noLevel.push(`${m.machine}@${at.location}`);
       continue;
     }
-    beats.push({ kind: "hm", location: at.location, levelCap: lv, hm: m.machine, move: m.move, name: m.move, method: at.method });
+    beats.push({ kind: "hm", location: at.location, levelCap: lv, hm: m.machine, move: m.move, method: at.method });
   }
 
   // --- Story legendaries: in-Hoenn static/roaming only (event-island ones like
-  //     Mew/Deoxys aren't on the path). All marked `optional` — they're catchable
-  //     extras, and Serebii gives no way to prove which are story-mandatory or to
-  //     time them precisely (a location's inferred level is its wild-encounter
-  //     level, which under-reads late areas like Sky Pillar). Placed by that level
-  //     where known, else after the spine.
+  //     Mew/Deoxys aren't on the path). Grouped as an optional cluster AFTER the
+  //     battle spine — NOT by their area's inferred level. That level is the
+  //     location's wild-grass encounter level, which is the wrong signal for a
+  //     static legendary (it isn't a grass encounter) and under-reads their late/
+  //     post-game areas (Sky Pillar, Marine/Terra Cave, the Regi chambers). Serebii
+  //     exposes no static-encounter level to time them precisely, so a post-champion
+  //     cluster (natdex order among themselves) is the honest placement — no beat
+  //     claims a false early slot.
+  //     `optional: true` is correct for EVERY one, not a limitation: these beats are
+  //     catches, and no legendary catch is mandatory in Emerald. Even Rayquaza — its
+  //     required story role is the Sky Pillar cutscene (it flies off to Sootopolis),
+  //     not catching it, which happens later and is optional. Splitting "story-
+  //     required" from "post-game" would need walkthrough curation Serebii lacks; the
+  //     one timing Serebii does give (Latias/Latios "after beating Elite Four") is
+  //     already carried by method:"roaming".
   const legendaries = JSON.parse(readFileSync(`${G}legendaries.json`, "utf8")) as Legendary[];
   for (const l of legendaries) {
     if (l.method === "event") continue;
-    const location = l.method === "roaming" ? "" : locSlug(l.location); // roamers have no fixed spot
-    const lv = location ? level.get(location) : undefined;
     beats.push({
       kind: "legendary",
-      location,
-      levelCap: lv ?? maxLvl + 1,
+      location: l.method === "roaming" ? "" : locSlug(l.location), // roamers have no fixed spot
+      levelCap: maxLvl + 1,
       pokemon: l.pokemon,
       name: pokeName.get(l.pokemon) ?? l.pokemon,
       method: l.method,
@@ -64,8 +72,12 @@ export function deriveStoryPath() {
     });
   }
 
-  // --- Key items with a known find location (story-gift key items — bikes, Devon
-  //     Goods — have no findable location, so they can't be placed).
+  // --- Key items, placed at their find location's inferred level. `category` is
+  //     current-gen (the ItemDex isn't gen-scoped), so this is a proxy: it can
+  //     tag a Gen-3 consumable (Escape Rope) as a Key Item — kept anyway, since
+  //     those are still real route pickups. A key item is skipped only when its
+  //     find location has no inferred level (Contest Pass at Verdanturf Town,
+  //     which has no trainers/encounters to level it), not for lack of a location.
   const idir = `${DATASET}items/`;
   for (const f of readdirSync(idir)) {
     if (!f.endsWith(".json") || f === "index.json") continue;

@@ -2,12 +2,12 @@
   "slug": "hyperpotion",
   "name": "Hyper Potion",
   "category": "Recovery",
-  "effect": "Heals a Pokémon by 200HP As of Pokémon Sun & Moon, it heals a Pokémon by 120HP",
+  "effect": "Heals a Pokémon by 200HP",
   "price": 1500,
   "sellPrice": 750,
   "source": {
     "url": "https://www.serebii.net/itemdex/hyperpotion.shtml",
-    "scrapedAt": "2026-09-04T22:27:45.764Z"
+    "scrapedAt": "2026-09-04T23:23:34.919Z"
   },
   "foundAt": [
     {
