@@ -12,7 +12,7 @@ import { fetchCached } from "../fetch.ts";
 import { crawlHoenn3rd } from "./hoenn-crawl.ts";
 import { parseTrainerRosters, parseGymProgression, parseEliteProgression, trainerSlug } from "../parse/trainers.ts";
 import { parseRouteTrainers } from "../parse/pokearth-trainers.ts";
-import type { StoryLocation, StoryMilestone, Trainer } from "../types.ts";
+import type { StoryBeat, StoryLocation, StoryMilestone, Trainer } from "../types.ts";
 
 const GYM_URL = "https://www.serebii.net/emerald/gym.shtml";
 const ELITE_URL = "https://www.serebii.net/emerald/elite.shtml";
@@ -129,11 +129,47 @@ export async function scrapeTrainers(refresh = false) {
     })
     .sort((a, b) => a.level - b.level || a.name.localeCompare(b.name));
 
+  // --- Critical-path spine: the gym/E4/champion milestones plus the mandatory
+  //     villain and rival confrontations, grouped by location and ordered by team
+  //     level (a story-order proxy — Serebii has no walkthrough page). Heuristic,
+  //     like `locations`; each beat carries a location slug so a consumer can pull
+  //     the trainers/encounters/items there. ---
+  const slugifyLoc = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "");
+  const rawBeats: Array<Omit<StoryBeat, "order">> = milestones.map((m) => ({
+    kind: m.kind,
+    name: m.name,
+    location: m.location ? slugifyLoc(m.location) : "",
+    locationName: m.location ?? "",
+    levelCap: m.levelCap,
+    badge: m.badge,
+    tmReward: m.tmReward,
+    fieldMove: m.fieldMove,
+  }));
+  for (const kind of ["villain", "rival"] as const) {
+    const byLoc = new Map<string, Trainer[]>();
+    for (const t of trainers) {
+      if (t.kind !== kind || !t.location) continue;
+      const g = byLoc.get(t.location) ?? [];
+      if (!byLoc.has(t.location)) byLoc.set(t.location, g);
+      g.push(t);
+    }
+    for (const [loc, group] of byLoc) {
+      const levelCap = Math.max(...group.flatMap((t) => t.team.map((p) => p.level)));
+      const labels = group.map((t) => t.label);
+      const team = labels.some((l) => /magma/i.test(l)) ? "Team Magma" : labels.some((l) => /aqua/i.test(l)) ? "Team Aqua" : "";
+      const name = kind === "villain" ? `${team || "Villains"} — ${group[0]!.locationName}` : `Rival — ${group[0]!.locationName}`;
+      rawBeats.push({ kind, name, location: loc, locationName: group[0]!.locationName, levelCap, battles: group.length });
+    }
+  }
+  const criticalPath: StoryBeat[] = rawBeats
+    .sort((a, b) => a.levelCap - b.levelCap)
+    .map((b, i) => ({ order: i + 1, ...b }));
+
   const dir = `${DATASET}games/emerald/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}trainers.json`, JSON.stringify(trainers, null, 2));
-  await writeFile(`${dir}story.json`, JSON.stringify({ milestones, locations }, null, 2));
+  await writeFile(`${dir}story.json`, JSON.stringify({ milestones, locations, criticalPath }, null, 2));
 
   const byKind = trainers.reduce<Record<string, number>>((m, t) => ((m[t.kind] = (m[t.kind] ?? 0) + 1), m), {});
-  return { pages: pages.length, trainers: trainers.length, byKind, milestones: milestones.length, locations: locations.length, unresolvedMoves: [...unresolvedMoves] };
+  return { pages: pages.length, trainers: trainers.length, byKind, milestones: milestones.length, locations: locations.length, criticalPath: criticalPath.length, unresolvedMoves: [...unresolvedMoves] };
 }

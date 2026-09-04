@@ -118,12 +118,15 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   re-list the gym leaders / E4 / champion as escalating rematch tiers — those are
   reclassified to their real `kind` and merged onto the gym-page identity (not left
   mis-tagged `trainer`).
-- ✅ `story` — `{ milestones, locations }`. **milestones** = the fixed 13-step gym →
-  Elite Four → Champion spine (order, city, badge, TM, field-move unlock from the gym
-  "Method" prose — Stone→Cut, Balance→Surf, …, level cap). **locations** = every
-  location placed in an *inferred* order by its median trainer level (or encounter
-  level), pegged to the gym level-cap `phase`. Heuristic, not canonical — Route 101
-  (L3) → … → Evergrande City (L52).
+- ✅ `story` — `{ milestones, locations, criticalPath }`. **milestones** = the fixed
+  13-step gym → Elite Four → Champion spine (order, city, badge, TM, field-move unlock
+  from the gym "Method" prose — Stone→Cut, Balance→Surf, …, level cap). **locations** =
+  every location placed in an *inferred* order by its median trainer level (or encounter
+  level), pegged to the gym level-cap `phase`. **criticalPath** = the 28-beat mandatory
+  spine — gyms + the Team Aqua/Magma confrontations + rival battles, grouped by location
+  and ordered by team level, each tied to a location slug (Route 103 rival → Petalburg
+  Woods → Roxanne(+Cut) → … → Magma Hideout → Seafloor → Juan → Elite Four → Champion).
+  All three are **heuristic** ordering (Serebii has no walkthrough page), not canonical.
 - ✅ `connectivity` — the **Hoenn map graph** (`games/emerald/connections.json`): each
   location → `{ name, exits: { direction → location } }`, from the pokearth pages' exit
   links (`North Exit: Oldale Town`). Taken from the ORAS pages (the 3rd-gen pages omit

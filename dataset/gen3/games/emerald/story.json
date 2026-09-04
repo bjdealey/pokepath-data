@@ -605,5 +605,269 @@
       "phase": 8,
       "via": "encounters"
     }
+  ],
+  "criticalPath": [
+    {
+      "order": 1,
+      "kind": "rival",
+      "name": "Rival — Route 103",
+      "location": "route103",
+      "locationName": "Route 103",
+      "levelCap": 5,
+      "battles": 6
+    },
+    {
+      "order": 2,
+      "kind": "villain",
+      "name": "Team Aqua — Petalburg Woods",
+      "location": "petalburgwoods",
+      "locationName": "Petalburg Woods",
+      "levelCap": 9,
+      "battles": 1
+    },
+    {
+      "order": 3,
+      "kind": "villain",
+      "name": "Team Aqua — Rusturf Tunnel",
+      "location": "rusturftunnel",
+      "locationName": "Rusturf Tunnel",
+      "levelCap": 11,
+      "battles": 1
+    },
+    {
+      "order": 4,
+      "kind": "gym",
+      "name": "Roxanne",
+      "location": "rustborocity",
+      "locationName": "Rustboro City",
+      "levelCap": 15,
+      "badge": "Stone Badge",
+      "tmReward": "TM39",
+      "fieldMove": "Cut"
+    },
+    {
+      "order": 5,
+      "kind": "villain",
+      "name": "Team Aqua — Slateport City",
+      "location": "slateportcity",
+      "locationName": "Slateport City",
+      "levelCap": 15,
+      "battles": 2
+    },
+    {
+      "order": 6,
+      "kind": "rival",
+      "name": "Rival — Rustboro City",
+      "location": "rustborocity",
+      "locationName": "Rustboro City",
+      "levelCap": 15,
+      "battles": 6
+    },
+    {
+      "order": 7,
+      "kind": "rival",
+      "name": "Rival — Mauville City",
+      "location": "mauvillecity",
+      "locationName": "Mauville City",
+      "levelCap": 16,
+      "battles": 1
+    },
+    {
+      "order": 8,
+      "kind": "gym",
+      "name": "Brawly",
+      "location": "dewfordtown",
+      "locationName": "Dewford Town",
+      "levelCap": 19,
+      "badge": "Knuckle Badge",
+      "tmReward": "TM08",
+      "fieldMove": "Flash"
+    },
+    {
+      "order": 9,
+      "kind": "rival",
+      "name": "Rival — Route 110",
+      "location": "route110",
+      "locationName": "Route 110",
+      "levelCap": 20,
+      "battles": 6
+    },
+    {
+      "order": 10,
+      "kind": "villain",
+      "name": "Team Magma — Jagged Pass",
+      "location": "jaggedpass",
+      "locationName": "Jagged Pass",
+      "levelCap": 22,
+      "battles": 1
+    },
+    {
+      "order": 11,
+      "kind": "gym",
+      "name": "Wattson",
+      "location": "mauvillecity",
+      "locationName": "Mauville City",
+      "levelCap": 24,
+      "badge": "Dynamo Badge",
+      "tmReward": "TM34",
+      "fieldMove": "Rock Smash"
+    },
+    {
+      "order": 12,
+      "kind": "villain",
+      "name": "Team Aqua — Route 119",
+      "location": "route119",
+      "locationName": "Route 119",
+      "levelCap": 28,
+      "battles": 5
+    },
+    {
+      "order": 13,
+      "kind": "gym",
+      "name": "Flannery",
+      "location": "lavaridgetown",
+      "locationName": "Lavaridge Town",
+      "levelCap": 29,
+      "badge": "Heat Badge",
+      "tmReward": "TM50",
+      "fieldMove": "Strength"
+    },
+    {
+      "order": 14,
+      "kind": "gym",
+      "name": "Norman",
+      "location": "petalburgcity",
+      "locationName": "Petalburg City",
+      "levelCap": 31,
+      "badge": "Balance Badge",
+      "tmReward": "TM42",
+      "fieldMove": "Surf"
+    },
+    {
+      "order": 15,
+      "kind": "rival",
+      "name": "Rival — Route 119",
+      "location": "route119",
+      "locationName": "Route 119",
+      "levelCap": 31,
+      "battles": 6
+    },
+    {
+      "order": 16,
+      "kind": "gym",
+      "name": "Winona",
+      "location": "fortreecity",
+      "locationName": "Fortree City",
+      "levelCap": 33,
+      "badge": "Feather Badge",
+      "tmReward": "TM40",
+      "fieldMove": "Fly"
+    },
+    {
+      "order": 17,
+      "kind": "villain",
+      "name": "Team Aqua — Aqua Hideout",
+      "location": "aquahideout",
+      "locationName": "Aqua Hideout",
+      "levelCap": 34,
+      "battles": 7
+    },
+    {
+      "order": 18,
+      "kind": "rival",
+      "name": "Rival — Lilycove City",
+      "location": "lilycovecity",
+      "locationName": "Lilycove City",
+      "levelCap": 34,
+      "battles": 6
+    },
+    {
+      "order": 19,
+      "kind": "villain",
+      "name": "Team Magma — Magma Hideout",
+      "location": "magmahideout",
+      "locationName": "Magma Hideout",
+      "levelCap": 39,
+      "battles": 9
+    },
+    {
+      "order": 20,
+      "kind": "gym",
+      "name": "Tate & Liza",
+      "location": "mossdeepcity",
+      "locationName": "Mossdeep City",
+      "levelCap": 42,
+      "badge": "Mind Badge",
+      "tmReward": "TM04",
+      "fieldMove": "Dive"
+    },
+    {
+      "order": 21,
+      "kind": "villain",
+      "name": "Team Magma — Mossdeep City",
+      "location": "mossdeepcity",
+      "locationName": "Mossdeep City",
+      "levelCap": 44,
+      "battles": 8
+    },
+    {
+      "order": 22,
+      "kind": "gym",
+      "name": "Juan",
+      "location": "sootopoliscity",
+      "locationName": "Sootopolis City",
+      "levelCap": 46,
+      "badge": "Rain Badge",
+      "tmReward": "TM03"
+    },
+    {
+      "order": 23,
+      "kind": "elite-four",
+      "name": "Sidney",
+      "location": "",
+      "locationName": "",
+      "levelCap": 49
+    },
+    {
+      "order": 24,
+      "kind": "elite-four",
+      "name": "Phoebe",
+      "location": "",
+      "locationName": "",
+      "levelCap": 51
+    },
+    {
+      "order": 25,
+      "kind": "elite-four",
+      "name": "Glacia",
+      "location": "",
+      "locationName": "",
+      "levelCap": 53
+    },
+    {
+      "order": 26,
+      "kind": "elite-four",
+      "name": "Drake",
+      "location": "",
+      "locationName": "",
+      "levelCap": 55
+    },
+    {
+      "order": 27,
+      "kind": "rival",
+      "name": "Rival — Victory Road",
+      "location": "victoryroad",
+      "locationName": "Victory Road",
+      "levelCap": 57,
+      "battles": 5
+    },
+    {
+      "order": 28,
+      "kind": "champion",
+      "name": "Wallace",
+      "location": "",
+      "locationName": "",
+      "levelCap": 58
+    }
   ]
 }

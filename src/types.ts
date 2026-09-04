@@ -185,9 +185,27 @@ export interface StoryLocation {
   via: "trainers" | "encounters";
 }
 
+/** One beat on the mandatory critical path — a gym/E4/champion milestone or a
+ * villain/rival confrontation — placed in order by team level (a story-order
+ * proxy; Serebii has no walkthrough). Ties to a location slug so a consumer can
+ * pull the trainers/encounters/items there. Heuristic ordering, not canonical. */
+export interface StoryBeat {
+  order: number;
+  kind: StoryMilestone["kind"] | "villain" | "rival";
+  name: string;
+  location: string; // slug ("" for E4/champion, which have no map location)
+  locationName: string;
+  levelCap: number;
+  badge?: string;
+  tmReward?: string;
+  fieldMove?: string;
+  battles?: number; // villain/rival beats: how many battles happen at this location
+}
+
 export interface Story {
   milestones: StoryMilestone[];
   locations: StoryLocation[];
+  criticalPath: StoryBeat[];
 }
 
 /** One evolution step, e.g. { from: "bulbasaur", to: "ivysaur", method: "Level 16" }. */

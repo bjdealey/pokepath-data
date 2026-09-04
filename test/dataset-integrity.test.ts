@@ -112,6 +112,17 @@ test("emerald trainers: unique slugs, team + movesets resolve, story spine groun
   for (const ms of story.milestones ?? []) assert.ok(slugs.has(ms.slug), `story milestone '${ms.name}' slug '${ms.slug}' matches no trainer`);
 });
 
+test("emerald critical path: ordered spine, beats tie to real locations", () => {
+  const cp: any[] = story.criticalPath ?? [];
+  assert.ok(cp.length >= 20, `critical path too short: ${cp.length}`);
+  cp.forEach((b, i) => assert.equal(b.order, i + 1, `critical-path order gap at index ${i}`));
+  const known = new Set<string>([...Object.keys(connections), ...Object.keys(enc), ...trainers.map((t) => t.location)]);
+  for (const b of cp) {
+    assert.ok(b.name && b.levelCap > 0, `beat ${b.order} missing name/levelCap`);
+    if (b.location) assert.ok(known.has(b.location), `beat ${b.order} location '${b.location}' resolves to no game location`);
+  }
+});
+
 test("emerald gifts: the starter trio is present and every gift resolves", () => {
   const starters = gifts.filter((g) => g.method === "starter").map((g) => g.pokemon).sort();
   assert.deepEqual(starters, ["mudkip", "torchic", "treecko"], "starter trio missing/incomplete");

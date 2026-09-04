@@ -128,7 +128,7 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
   const r = await scrapeTrainers(refresh);
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/`);
-  console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
+  console.log(`  story: ${r.milestones} milestones + ${r.locations} locations + ${r.criticalPath}-beat critical path (inferred order)`);
   if (r.unresolvedMoves.length) console.warn(`⚠ ${r.unresolvedMoves.length} trainer move(s) don't match a move record: ${r.unresolvedMoves.join(", ")}`);
 } else if (entity === "gifts") {
   console.log(`▶ parsing pokearth gift tables (starter + gifts) for Emerald…`);
