@@ -146,3 +146,16 @@ test("emerald connections: no dangling exits", () => {
   for (const [slug, node] of Object.entries(connections)) for (const [dir, target] of Object.entries(node.exits ?? {})) if (!connections[target as string]) dangling.push(`${slug}.${dir}→${target}`);
   assert.deepEqual(dangling, [], `dangling exits: ${dangling.join(", ")}`);
 });
+
+test("emerald connections: every location is reachable from Littleroot (start→finish routable)", () => {
+  const start = "littleroottown";
+  assert.ok(connections[start], "start node littleroottown missing");
+  const seen = new Set([start]);
+  const q = [start];
+  while (q.length) {
+    const n = q.shift()!;
+    for (const t of Object.values(connections[n]?.exits ?? {}) as string[]) if (!seen.has(t) && connections[t]) { seen.add(t); q.push(t); }
+  }
+  const unreachable = Object.keys(connections).filter((k) => !seen.has(k));
+  assert.deepEqual(unreachable, [], `unreachable from Littleroot: ${unreachable.join(", ")}`);
+});

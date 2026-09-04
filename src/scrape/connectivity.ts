@@ -26,6 +26,22 @@ interface Node {
   exits: Record<string, string>;
 }
 
+// Connections the ORAS "Exit" links don't encode: Dive (surface into Sootopolis
+// from underwater), the SS Tidal / Eon-ticket ferries, and a couple of cave
+// entrances Serebii lists on the cave's page but not on the route's. Directed;
+// `via` is the exit key (compass for walk edges, else the travel mode). Merged
+// onto the crawled graph so start→finish routing can reach every location.
+const SPECIAL_EDGES: Array<{ from: string; to: string; via: string }> = [
+  { from: "route126", to: "sootopoliscity", via: "dive" }, // Sootopolis is Dive-gated
+  { from: "lilycovecity", to: "battlefrontier", via: "boat" }, // SS Tidal (post-game)
+  { from: "slateportcity", to: "battlefrontier", via: "boat" },
+  { from: "battlefrontier", to: "lilycovecity", via: "boat" },
+  { from: "lilycovecity", to: "southernisland", via: "ferry" }, // Eon Ticket
+  { from: "southernisland", to: "lilycovecity", via: "ferry" },
+  { from: "route114", to: "meteorfalls", via: "south" }, // reverse of meteorfalls.north
+  { from: "route115", to: "meteorfalls", via: "north" }, // reverse of meteorfalls.south
+];
+
 export async function scrapeConnectivity(refresh = false) {
   const index = cheerio.load(await fetchCached(`${BASE}/`, { refresh }));
   const queue = seedSlugs(index);
@@ -45,6 +61,14 @@ export async function scrapeConnectivity(refresh = false) {
     const { name, exits } = parseExits(html);
     graph.set(slug, { name, exits });
     for (const target of Object.values(exits)) if (!seen.has(target)) queue.push(target);
+  }
+
+  // Merge the curated Dive/boat/cave edges onto the crawled graph.
+  for (const e of SPECIAL_EDGES) {
+    const node = graph.get(e.from);
+    if (!node) { console.warn(`⚠ special edge from unknown node '${e.from}'`); continue; }
+    if (!graph.has(e.to)) console.warn(`⚠ special edge to unknown node '${e.to}'`);
+    node.exits[e.via] = e.to;
   }
 
   const routeNum = (slug: string) => slug.match(/^route(\d+)$/)?.[1]?.padStart(4, "0");

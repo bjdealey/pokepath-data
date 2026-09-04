@@ -98,13 +98,15 @@
   "route114": {
     "name": "Route 114",
     "exits": {
-      "east": "fallarbortown"
+      "east": "fallarbortown",
+      "south": "meteorfalls"
     }
   },
   "route115": {
     "name": "Route 115",
     "exits": {
-      "south": "rustborocity"
+      "south": "rustborocity",
+      "north": "meteorfalls"
     }
   },
   "route116": {
@@ -184,7 +186,8 @@
     "exits": {
       "north": "route124",
       "south": "secretislet",
-      "east": "route127"
+      "east": "route127",
+      "dive": "sootopoliscity"
     }
   },
   "route127": {
@@ -249,7 +252,9 @@
   },
   "battlefrontier": {
     "name": "Battle Frontier",
-    "exits": {}
+    "exits": {
+      "boat": "lilycovecity"
+    }
   },
   "dewfordtown": {
     "name": "Dewford Town",
@@ -295,7 +300,9 @@
     "name": "Lilycove City",
     "exits": {
       "east": "route124",
-      "west": "route121"
+      "west": "route121",
+      "boat": "battlefrontier",
+      "ferry": "southernisland"
     }
   },
   "littleroottown": {
@@ -387,7 +394,8 @@
     "exits": {
       "north": "route110",
       "south": "route109",
-      "east": "route134"
+      "east": "route134",
+      "boat": "battlefrontier"
     }
   },
   "sootopoliscity": {
@@ -398,7 +406,9 @@
   },
   "southernisland": {
     "name": "Southern Island",
-    "exits": {}
+    "exits": {
+      "ferry": "lilycovecity"
+    }
   },
   "verdanturftown": {
     "name": "Verdanturf Town",

@@ -125,8 +125,12 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 - ✅ `connectivity` — the **Hoenn map graph** (`games/emerald/connections.json`): each
   location → `{ name, exits: { direction → location } }`, from the pokearth pages' exit
   links (`North Exit: Oldale Town`). Taken from the ORAS pages (the 3rd-gen pages omit
-  exits; Hoenn's topology is identical across games). A real adjacency graph for
-  pathfinding — complements the level-inferred story order.
+  exits; Hoenn's topology is identical across games). A curated overlay adds the
+  connections the ORAS exit links omit — **Dive** into Sootopolis, the **SS Tidal**
+  and **Eon-ticket ferries** (Battle Frontier, Southern Island), and a couple of cave
+  entrances — keyed by travel mode (`dive`/`boat`/`ferry`). Result: **58 locations,
+  127 edges, every location reachable from Littleroot** (start→finish routable) — a
+  real adjacency graph for pathfinding, complementing the level-inferred story order.
 - ✅ `gifts` — **Pokémon obtained outside wild grass** (`games/emerald/gifts.json`),
   from the pokearth "Gift - Emerald" tables: the **starter trio** (Treecko/Torchic/
   Mudkip, method `starter`), plus one-off gifts — the post-game Johto starter choice,
