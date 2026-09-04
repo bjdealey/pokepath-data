@@ -248,13 +248,19 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
         // "Name:" prefix; otherwise (single ability, or a Serebii name typo that
         // won't match) keep the shared text rather than mis-slicing.
         const combined = infoTrs[i + 1] ? cellText(cells(infoTrs[i + 1]!)[0]!) : "";
-        const names = abilityName
+        let names = abilityName
           .split(/\s*&\s*|\s+or\s+/)
           .map((a) => a.trim())
           .filter(Boolean)
           .map((a) => (a === "Chrlorophyll" ? "Chlorophyll" : a)); // Serebii misspells Chlorophyll in the Nuzleaf line's name cell
         const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
         const prefix = (a: string) => new RegExp(esc(a) + "\\s*:", "i");
+        // Drop a phantom ability whose name never appears in the description — a
+        // Serebii data error (e.g. azurill's stray "Guts") — as long as one remains.
+        if (names.length > 1) {
+          const present = names.filter((a) => prefix(a).test(combined));
+          if (present.length) names = present;
+        }
         const splittable = names.length > 1 && names.every((a) => prefix(a).test(combined));
         for (const a of names) {
           let description: string | undefined = combined || undefined;
