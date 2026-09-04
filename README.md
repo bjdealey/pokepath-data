@@ -25,6 +25,7 @@ node src/run.ts connectivity       # crawl pokearth exits → Hoenn location gra
 node src/run.ts gifts              # starter trio + gift/egg/fossil Pokémon (pokearth gift tables)
 node src/run.ts legendaries        # derive catchable legendaries from Pokémon Emerald locations
 node src/run.ts trades             # scrape Emerald in-game trades (/emerald/trade.shtml)
+node src/run.ts locations          # build the canonical location registry (slug → name) — run last
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
 ```
@@ -48,6 +49,14 @@ dataset/
 Per-entity canonical files mean the dataset can be served straight from a CDN
 (`gen3/pokemon/swampert.json`) with no server; the API is only needed for
 filtered queries.
+
+**Normalization.** Each fact lives in one place and is referenced elsewhere by
+`slug` (with a lightweight name/natdex kept alongside for convenience): ability
+effects in `abilities/`, move type/power/effect in `moves/` (machines cite only
+`moveSlug`), item definitions in `items/`, and **location display names in the
+`locations` registry** — trainers, gifts and story cite a location slug, not a
+repeated name. `story.criticalPath` gym beats reference a `milestone` rather than
+copying its badge/TM/field-move.
 
 ## How it works
 

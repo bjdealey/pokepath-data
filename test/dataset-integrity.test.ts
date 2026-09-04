@@ -144,10 +144,25 @@ test("emerald critical path: ordered spine, beats tie to real locations", () => 
   assert.ok(cp.length >= 20, `critical path too short: ${cp.length}`);
   cp.forEach((b, i) => assert.equal(b.order, i + 1, `critical-path order gap at index ${i}`));
   const known = new Set<string>([...Object.keys(connections), ...Object.keys(enc), ...trainers.map((t) => t.location)]);
+  const milestoneSlugs = new Set((story.milestones ?? []).map((m: any) => m.slug));
   for (const b of cp) {
-    assert.ok(b.name && b.levelCap > 0, `beat ${b.order} missing name/levelCap`);
+    // gym/E4/champion beats reference a milestone; villain/rival beats carry a name.
+    assert.ok((b.milestone || b.name) && b.levelCap > 0, `beat ${b.order} missing milestone/name/levelCap`);
+    if (b.milestone) assert.ok(milestoneSlugs.has(b.milestone), `beat ${b.order} milestone '${b.milestone}' matches no milestone`);
     if (b.location) assert.ok(known.has(b.location), `beat ${b.order} location '${b.location}' resolves to no game location`);
   }
+});
+
+test("locations registry: covers every location the game data references", () => {
+  const registry = new Set(((readJson("games/emerald/locations.json") as any[]) ?? []).map((l) => l.slug));
+  assert.ok(registry.size >= 60, `locations registry too small: ${registry.size}`);
+  const referenced = new Set<string>();
+  for (const t of trainers) if (t.location) referenced.add(t.location);
+  for (const g of gifts) if (g.location) referenced.add(g.location);
+  for (const l of (story.locations ?? []) as any[]) referenced.add(l.slug);
+  for (const b of (story.criticalPath ?? []) as any[]) if (b.location) referenced.add(b.location);
+  const missing = [...referenced].filter((s) => !registry.has(s));
+  assert.deepEqual(missing, [], `locations referenced but not in the registry: ${missing.join(", ")}`);
 });
 
 test("emerald gifts: the starter trio is present and every gift resolves", () => {

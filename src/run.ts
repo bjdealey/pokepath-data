@@ -18,6 +18,7 @@ import { deriveMachines } from "./derive/machines.ts";
 import { deriveTypechart } from "./derive/typechart.ts";
 import { deriveLegendaries } from "./derive/legendaries.ts";
 import { deriveAbilities } from "./derive/abilities.ts";
+import { deriveLocations } from "./derive/locations.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeTrades } from "./scrape/trades.ts";
@@ -149,11 +150,15 @@ if (!entity || entity === "pokemon") {
   const r = await scrapeTrades(refresh);
   console.log(`✔ ${r.trades} in-game trades → dataset/gen3/games/emerald/trades.json`);
   if (r.unresolved.length) console.warn(`⚠ ${r.unresolved.length} unresolved dex numbers: ${r.unresolved.join(", ")}`);
+} else if (entity === "locations") {
+  console.log(`▶ building the canonical location registry from the game data…`);
+  const r = deriveLocations();
+  console.log(`✔ ${r.locations} locations (${r.named} named by Serebii) → dataset/gen3/games/emerald/locations.json`);
 } else if (entity === "manifest") {
   console.log(`▶ scanning dataset/ generations → manifest.json…`);
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", "legendaries", "trades", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", "legendaries", "trades", "locations", or "manifest"`);
   process.exit(1);
 }

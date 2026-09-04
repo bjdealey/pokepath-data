@@ -48,10 +48,8 @@ export interface Machine {
   machine: string; // "TM06" / "HM01"
   kind: "TM" | "HM";
   number: number;
-  move: string;
+  move: string; // move name (a label); its type/category/effect live in moves/<moveSlug>.json
   moveSlug: string | null;
-  type: string | null;
-  category: string | null;
   emerald: { badge?: string; locations: Array<{ location: string; method: string }> };
 }
 
@@ -99,8 +97,7 @@ export interface Trainer {
   trainer: string; // shared identity slug across a trainer's battles (rematches/story tiers regroup on this)
   label: string; // "Roxanne" / "Youngster Timmy" / "Pokémon Trainer Brendan"
   kind: "gym-leader" | "elite-four" | "champion" | "rival" | "villain" | "trainer";
-  location: string; // slug
-  locationName: string;
+  location: string; // slug (display name is in the locations registry)
   order?: number; // gym/elite/champion sequence
   specialty?: string; // type
   badge?: string;
@@ -135,8 +132,14 @@ export interface Gift {
   natdex: number;
   method: "starter" | "gift"; // starter = the choosable trio; gift = a one-off handout/egg
   level: number | null;
-  location: string; // slug
-  locationName: string;
+  location: string; // slug (display name is in the locations registry)
+}
+
+/** The canonical location registry: slug → display name, for every location the
+ * game data references. Trainers/gifts/story cite a slug; the name lives here. */
+export interface LocationRecord {
+  slug: string;
+  name: string;
 }
 
 /** A static / roaming / event legendary, derived from a Pokémon's pokedex-rs
@@ -182,8 +185,7 @@ export interface StoryMilestone {
 /** A location placed in the progression by inferring its level from the trainers
  * (or wild encounters) found there. Heuristic ordering, not canonical. */
 export interface StoryLocation {
-  slug: string;
-  name: string;
+  slug: string; // display name is in the locations registry
   level: number; // median trainer level (or encounter level)
   phase: number; // number of gyms whose level cap this location's level exceeds
   via: "trainers" | "encounters";
@@ -196,13 +198,10 @@ export interface StoryLocation {
 export interface StoryBeat {
   order: number;
   kind: StoryMilestone["kind"] | "villain" | "rival";
-  name: string;
   location: string; // slug ("" for E4/champion, which have no map location)
-  locationName: string;
   levelCap: number;
-  badge?: string;
-  tmReward?: string;
-  fieldMove?: string;
+  milestone?: string; // slug of the gym/E4/champion milestone (badge/TM/field-move live there)
+  name?: string; // label for villain/rival beats (which have no milestone)
   battles?: number; // villain/rival beats: how many battles happen at this location
 }
 

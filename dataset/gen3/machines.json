@@ -5,8 +5,6 @@
     "number": 1,
     "move": "Cut",
     "moveSlug": "cut",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -22,8 +20,6 @@
     "number": 2,
     "move": "Fly",
     "moveSlug": "fly",
-    "type": "flying",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -39,8 +35,6 @@
     "number": 3,
     "move": "Surf",
     "moveSlug": "surf",
-    "type": "water",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -56,8 +50,6 @@
     "number": 4,
     "move": "Strength",
     "moveSlug": "strength",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -73,8 +65,6 @@
     "number": 5,
     "move": "Flash",
     "moveSlug": "flash",
-    "type": "normal",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -90,8 +80,6 @@
     "number": 6,
     "move": "Rock Smash",
     "moveSlug": "rocksmash",
-    "type": "fighting",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -107,8 +95,6 @@
     "number": 7,
     "move": "Waterfall",
     "moveSlug": "waterfall",
-    "type": "water",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -124,8 +110,6 @@
     "number": 8,
     "move": "Dive",
     "moveSlug": "dive",
-    "type": "water",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -141,8 +125,6 @@
     "number": 1,
     "move": "Focus Punch",
     "moveSlug": "focuspunch",
-    "type": "fighting",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -158,8 +140,6 @@
     "number": 2,
     "move": "Dragon Claw",
     "moveSlug": "dragonclaw",
-    "type": "dragon",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -170,8 +150,6 @@
     "number": 3,
     "move": "Water Pulse",
     "moveSlug": "waterpulse",
-    "type": "water",
-    "category": "special",
     "emerald": {
       "badge": "Rain Badge",
       "locations": [
@@ -188,8 +166,6 @@
     "number": 4,
     "move": "Calm Mind",
     "moveSlug": "calmmind",
-    "type": "psychic",
-    "category": "status",
     "emerald": {
       "badge": "Mind Badge",
       "locations": [
@@ -206,8 +182,6 @@
     "number": 5,
     "move": "Roar",
     "moveSlug": "roar",
-    "type": "normal",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -223,8 +197,6 @@
     "number": 6,
     "move": "Toxic",
     "moveSlug": "toxic",
-    "type": "poison",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -240,8 +212,6 @@
     "number": 7,
     "move": "Hail",
     "moveSlug": "hail",
-    "type": "ice",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -257,8 +227,6 @@
     "number": 8,
     "move": "Bulk Up",
     "moveSlug": "bulkup",
-    "type": "fighting",
-    "category": "status",
     "emerald": {
       "badge": "Knuckle Badge",
       "locations": [
@@ -275,8 +243,6 @@
     "number": 9,
     "move": "Bullet Seed",
     "moveSlug": "bulletseed",
-    "type": "grass",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -292,8 +258,6 @@
     "number": 10,
     "move": "Hidden Power",
     "moveSlug": "hiddenpower",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -309,8 +273,6 @@
     "number": 11,
     "move": "Sunny Day",
     "moveSlug": "sunnyday",
-    "type": "fire",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -326,8 +288,6 @@
     "number": 12,
     "move": "Taunt",
     "moveSlug": "taunt",
-    "type": "dark",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -343,8 +303,6 @@
     "number": 13,
     "move": "Ice Beam",
     "moveSlug": "icebeam",
-    "type": "ice",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -355,8 +313,6 @@
     "number": 14,
     "move": "Blizzard",
     "moveSlug": "blizzard",
-    "type": "ice",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -367,8 +323,6 @@
     "number": 15,
     "move": "Hyper Beam",
     "moveSlug": "hyperbeam",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": []
     }
@@ -379,8 +333,6 @@
     "number": 16,
     "move": "Light Screen",
     "moveSlug": "lightscreen",
-    "type": "psychic",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -391,8 +343,6 @@
     "number": 17,
     "move": "Protect",
     "moveSlug": "protect",
-    "type": "normal",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -403,8 +353,6 @@
     "number": 18,
     "move": "Rain Dance",
     "moveSlug": "raindance",
-    "type": "water",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -415,8 +363,6 @@
     "number": 19,
     "move": "Giga Drain",
     "moveSlug": "gigadrain",
-    "type": "grass",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -432,8 +378,6 @@
     "number": 20,
     "move": "Safeguard",
     "moveSlug": "safeguard",
-    "type": "normal",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -444,8 +388,6 @@
     "number": 21,
     "move": "Frustration",
     "moveSlug": "frustration",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -461,8 +403,6 @@
     "number": 22,
     "move": "Solarbeam",
     "moveSlug": "solarbeam",
-    "type": "grass",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -473,8 +413,6 @@
     "number": 23,
     "move": "Iron Tail",
     "moveSlug": "irontail",
-    "type": "steel",
-    "category": "physical",
     "emerald": {
       "locations": []
     }
@@ -485,8 +423,6 @@
     "number": 24,
     "move": "Thunderbolt",
     "moveSlug": "thunderbolt",
-    "type": "electric",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -502,8 +438,6 @@
     "number": 25,
     "move": "Thunder",
     "moveSlug": "thunder",
-    "type": "electric",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -514,8 +448,6 @@
     "number": 26,
     "move": "Earthquake",
     "moveSlug": "earthquake",
-    "type": "ground",
-    "category": "physical",
     "emerald": {
       "locations": []
     }
@@ -526,8 +458,6 @@
     "number": 27,
     "move": "Return",
     "moveSlug": "return",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -547,8 +477,6 @@
     "number": 28,
     "move": "Dig",
     "moveSlug": "dig",
-    "type": "ground",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -564,8 +492,6 @@
     "number": 29,
     "move": "Psychic",
     "moveSlug": "psychic",
-    "type": "psychic",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -581,8 +507,6 @@
     "number": 30,
     "move": "Shadow Ball",
     "moveSlug": "shadowball",
-    "type": "ghost",
-    "category": "physical",
     "emerald": {
       "locations": []
     }
@@ -593,8 +517,6 @@
     "number": 31,
     "move": "Brick Break",
     "moveSlug": "brickbreak",
-    "type": "fighting",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -610,8 +532,6 @@
     "number": 32,
     "move": "Double Team",
     "moveSlug": "doubleteam",
-    "type": "normal",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -631,8 +551,6 @@
     "number": 33,
     "move": "Reflect",
     "moveSlug": "reflect",
-    "type": "psychic",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -643,8 +561,6 @@
     "number": 34,
     "move": "Shock Wave",
     "moveSlug": "shockwave",
-    "type": "electric",
-    "category": "special",
     "emerald": {
       "badge": "Dynamo Badge",
       "locations": [
@@ -661,8 +577,6 @@
     "number": 35,
     "move": "Flamethrower",
     "moveSlug": "flamethrower",
-    "type": "fire",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -673,8 +587,6 @@
     "number": 36,
     "move": "Sludge Bomb",
     "moveSlug": "sludgebomb",
-    "type": "poison",
-    "category": "physical",
     "emerald": {
       "locations": []
     }
@@ -685,8 +597,6 @@
     "number": 37,
     "move": "Sandstorm",
     "moveSlug": "sandstorm",
-    "type": "rock",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -702,8 +612,6 @@
     "number": 38,
     "move": "Fire Blast",
     "moveSlug": "fireblast",
-    "type": "fire",
-    "category": "special",
     "emerald": {
       "locations": []
     }
@@ -714,8 +622,6 @@
     "number": 39,
     "move": "Rock Tomb",
     "moveSlug": "rocktomb",
-    "type": "rock",
-    "category": "physical",
     "emerald": {
       "badge": "Stone Badge",
       "locations": [
@@ -732,8 +638,6 @@
     "number": 40,
     "move": "Aerial Ace",
     "moveSlug": "aerialace",
-    "type": "flying",
-    "category": "physical",
     "emerald": {
       "badge": "Feather Badge",
       "locations": [
@@ -750,8 +654,6 @@
     "number": 41,
     "move": "Torment",
     "moveSlug": "torment",
-    "type": "dark",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -767,8 +669,6 @@
     "number": 42,
     "move": "Facade",
     "moveSlug": "facade",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "badge": "Balance Badge",
       "locations": [
@@ -785,8 +685,6 @@
     "number": 43,
     "move": "Secret Power",
     "moveSlug": "secretpower",
-    "type": "normal",
-    "category": "physical",
     "emerald": {
       "locations": [
         {
@@ -802,8 +700,6 @@
     "number": 44,
     "move": "Rest",
     "moveSlug": "rest",
-    "type": "psychic",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -814,8 +710,6 @@
     "number": 45,
     "move": "Attract",
     "moveSlug": "attract",
-    "type": "normal",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -826,8 +720,6 @@
     "number": 46,
     "move": "Thief",
     "moveSlug": "thief",
-    "type": "dark",
-    "category": "special",
     "emerald": {
       "locations": [
         {
@@ -843,8 +735,6 @@
     "number": 47,
     "move": "Steel Wing",
     "moveSlug": "steelwing",
-    "type": "steel",
-    "category": "physical",
     "emerald": {
       "locations": []
     }
@@ -855,8 +745,6 @@
     "number": 48,
     "move": "Skill Swap",
     "moveSlug": "skillswap",
-    "type": "psychic",
-    "category": "status",
     "emerald": {
       "locations": []
     }
@@ -867,8 +755,6 @@
     "number": 49,
     "move": "Snatch",
     "moveSlug": "snatch",
-    "type": "dark",
-    "category": "status",
     "emerald": {
       "locations": [
         {
@@ -884,8 +770,6 @@
     "number": 50,
     "move": "Overheat",
     "moveSlug": "overheat",
-    "type": "fire",
-    "category": "special",
     "emerald": {
       "badge": "Heat Badge",
       "locations": [

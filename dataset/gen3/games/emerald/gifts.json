@@ -4,87 +4,76 @@
     "natdex": 252,
     "method": "starter",
     "level": 5,
-    "location": "route101",
-    "locationName": "Route 101"
+    "location": "route101"
   },
   {
     "pokemon": "torchic",
     "natdex": 255,
     "method": "starter",
     "level": 5,
-    "location": "route101",
-    "locationName": "Route 101"
+    "location": "route101"
   },
   {
     "pokemon": "mudkip",
     "natdex": 258,
     "method": "starter",
     "level": 5,
-    "location": "route101",
-    "locationName": "Route 101"
+    "location": "route101"
   },
   {
     "pokemon": "wynaut",
     "natdex": 360,
     "method": "gift",
     "level": 5,
-    "location": "lavaridgetown",
-    "locationName": "Lavaridge Town"
+    "location": "lavaridgetown"
   },
   {
     "pokemon": "chikorita",
     "natdex": 152,
     "method": "gift",
     "level": 5,
-    "location": "littleroottown",
-    "locationName": "Littleroot Town"
+    "location": "littleroottown"
   },
   {
     "pokemon": "cyndaquil",
     "natdex": 155,
     "method": "gift",
     "level": 5,
-    "location": "littleroottown",
-    "locationName": "Littleroot Town"
+    "location": "littleroottown"
   },
   {
     "pokemon": "totodile",
     "natdex": 158,
     "method": "gift",
     "level": 5,
-    "location": "littleroottown",
-    "locationName": "Littleroot Town"
+    "location": "littleroottown"
   },
   {
     "pokemon": "beldum",
     "natdex": 374,
     "method": "gift",
     "level": 5,
-    "location": "mossdeepcity",
-    "locationName": "Mossdeep City"
+    "location": "mossdeepcity"
   },
   {
     "pokemon": "castform",
     "natdex": 351,
     "method": "gift",
     "level": 25,
-    "location": "route119",
-    "locationName": "Route 119"
+    "location": "route119"
   },
   {
     "pokemon": "lileep",
     "natdex": 345,
     "method": "gift",
     "level": 20,
-    "location": "rustborocity",
-    "locationName": "Rustboro City"
+    "location": "rustborocity"
   },
   {
     "pokemon": "anorith",
     "natdex": 347,
     "method": "gift",
     "level": 20,
-    "location": "rustborocity",
-    "locationName": "Rustboro City"
+    "location": "rustborocity"
   }
 ]

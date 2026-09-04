@@ -16,7 +16,7 @@ test("machines.json is the canonical Gen-3 TM/HM table", () => {
   assert.equal(m.length, 58); // 50 TMs + 8 HMs
   const surf = m.find((x: { machine: string }) => x.machine === "HM03");
   assert.equal(surf.move, "Surf");
-  assert.equal(surf.type, "water");
+  assert.equal(surf.moveSlug, "surf"); // type/category now come from moves/surf.json, not duplicated here
   const toxic = m.find((x: { machine: string }) => x.machine === "TM06");
   assert.equal(toxic.move, "Toxic");
 });

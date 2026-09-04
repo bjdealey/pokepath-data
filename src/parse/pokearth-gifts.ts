@@ -5,7 +5,6 @@
 // td.level cells as the wild-encounter tables. Not wild grass, so kept apart
 // from encounters.json.
 import * as cheerio from "cheerio";
-import { locationName } from "./pokearth-trainers.ts";
 import type { Gift } from "../types.ts";
 
 const clean = (s: string) => s.replace(/\s+/g, " ").trim();
@@ -34,7 +33,7 @@ export function parseGifts(html: string, location: string): Gift[] {
     const natdex = Number(src.match(/(\d+)\.png/i)?.[1] ?? 0);
     const level = levels[i] ? Number(clean($(levels[i]).text()).match(/\d+/)?.[0] ?? 0) || null : null;
     const slug = monSlug(name);
-    out.push({ pokemon: slug, natdex, method: STARTERS.has(slug) ? "starter" : "gift", level, location, locationName: locationName(location) });
+    out.push({ pokemon: slug, natdex, method: STARTERS.has(slug) ? "starter" : "gift", level, location });
   });
   return out;
 }

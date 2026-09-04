@@ -80,7 +80,7 @@ export function parseRouteTrainers(html: string, location: string): Trainer[] {
     const variant = rows.map((r) => clean($(r).text())).find((t) => /\bChosen\b/i.test(t))?.match(/(\w+)\s+Chosen/i)?.[0];
 
     const slug = trainerSlug(identity);
-    out.push({ slug, trainer: slug, label, kind, location, locationName: locationName(location), variant, team });
+    out.push({ slug, trainer: slug, label, kind, location, variant, team });
   });
 
   return out;

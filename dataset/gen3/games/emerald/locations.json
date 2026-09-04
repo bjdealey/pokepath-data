@@ -1,307 +1,314 @@
 [
   {
-    "slug": "route101",
-    "location": "Route 101",
-    "count": 3
-  },
-  {
-    "slug": "route102",
-    "location": "Route 102",
-    "count": 14
-  },
-  {
-    "slug": "route103",
-    "location": "Route 103",
-    "count": 13
-  },
-  {
-    "slug": "route104",
-    "location": "Route 104",
-    "count": 10
-  },
-  {
-    "slug": "route105",
-    "location": "Route 105",
-    "count": 10
-  },
-  {
-    "slug": "route106",
-    "location": "Route 106",
-    "count": 9
-  },
-  {
-    "slug": "route107",
-    "location": "Route 107",
-    "count": 9
-  },
-  {
-    "slug": "route108",
-    "location": "Route 108",
-    "count": 9
-  },
-  {
-    "slug": "route109",
-    "location": "Route 109",
-    "count": 9
-  },
-  {
-    "slug": "route110",
-    "location": "Route 110",
-    "count": 16
-  },
-  {
-    "slug": "route111",
-    "location": "Route 111",
-    "count": 14
-  },
-  {
-    "slug": "route112",
-    "location": "Route 112",
-    "count": 2
-  },
-  {
-    "slug": "route113",
-    "location": "Route 113",
-    "count": 3
-  },
-  {
-    "slug": "route114",
-    "location": "Route 114",
-    "count": 14
-  },
-  {
-    "slug": "route115",
-    "location": "Route 115",
-    "count": 14
-  },
-  {
-    "slug": "route116",
-    "location": "Route 116",
-    "count": 6
-  },
-  {
-    "slug": "route117",
-    "location": "Route 117",
-    "count": 14
-  },
-  {
-    "slug": "route118",
-    "location": "Route 118",
-    "count": 16
-  },
-  {
-    "slug": "route119",
-    "location": "Route 119",
-    "count": 15
-  },
-  {
-    "slug": "route120",
-    "location": "Route 120",
-    "count": 16
-  },
-  {
-    "slug": "route121",
-    "location": "Route 121",
-    "count": 16
-  },
-  {
-    "slug": "route122",
-    "location": "Route 122",
-    "count": 10
-  },
-  {
-    "slug": "route123",
-    "location": "Route 123",
-    "count": 16
-  },
-  {
-    "slug": "route124",
-    "location": "Route 124",
-    "count": 13
-  },
-  {
-    "slug": "route125",
-    "location": "Route 125",
-    "count": 10
-  },
-  {
-    "slug": "route126",
-    "location": "Route 126",
-    "count": 13
-  },
-  {
-    "slug": "route127",
-    "location": "Route 127",
-    "count": 13
-  },
-  {
-    "slug": "route128",
-    "location": "Route 128",
-    "count": 14
-  },
-  {
-    "slug": "route129",
-    "location": "Route 129",
-    "count": 11
-  },
-  {
-    "slug": "route130",
-    "location": "Route 130",
-    "count": 10
-  },
-  {
-    "slug": "route131",
-    "location": "Route 131",
-    "count": 10
-  },
-  {
-    "slug": "route132",
-    "location": "Route 132",
-    "count": 11
-  },
-  {
-    "slug": "route133",
-    "location": "Route 133",
-    "count": 11
-  },
-  {
-    "slug": "route134",
-    "location": "Route 134",
-    "count": 11
-  },
-  {
     "slug": "abandonedship",
-    "location": "Abandonedship",
-    "count": 8
+    "name": "Abandonedship"
   },
   {
     "slug": "alteringcave",
-    "location": "Altering Cave",
-    "count": 9
+    "name": "Altering Cave"
+  },
+  {
+    "slug": "aquahideout",
+    "name": "Aqua Hideout"
   },
   {
     "slug": "artisancave",
-    "location": "Artisan Cave",
-    "count": 1
+    "name": "Artisan Cave"
+  },
+  {
+    "slug": "battlefrontier",
+    "name": "Battle Frontier"
   },
   {
     "slug": "caveoforigin",
-    "location": "Caveoforigin",
-    "count": 3
+    "name": "Caveoforigin"
   },
   {
     "slug": "desertunderpass",
-    "location": "Desert Underpass",
-    "count": 3
+    "name": "Desert Underpass"
   },
   {
     "slug": "dewfordtown",
-    "location": "Dewford Town",
-    "count": 6
+    "name": "Dewford Town"
   },
   {
     "slug": "evergrandecity",
-    "location": "Evergrande City",
-    "count": 11
+    "name": "Ever Grande City"
+  },
+  {
+    "slug": "fallarbortown",
+    "name": "Fallarbor Town"
   },
   {
     "slug": "fierypath",
-    "location": "Fierypath",
-    "count": 6
+    "name": "Fierypath"
+  },
+  {
+    "slug": "fortreecity",
+    "name": "Fortree City"
   },
   {
     "slug": "granitecave",
-    "location": "Granite Cave",
-    "count": 8
+    "name": "Granite Cave"
   },
   {
     "slug": "jaggedpass",
-    "location": "Jagged Pass",
-    "count": 3
+    "name": "Jagged Pass"
+  },
+  {
+    "slug": "lavaridgetown",
+    "name": "Lavaridge Town"
   },
   {
     "slug": "lilycovecity",
-    "location": "Lilycove City",
-    "count": 10
+    "name": "Lilycove City"
+  },
+  {
+    "slug": "littleroottown",
+    "name": "Littleroot Town"
   },
   {
     "slug": "magmahideout",
-    "location": "Magma Hideout",
-    "count": 3
+    "name": "Magma Hideout"
+  },
+  {
+    "slug": "mauvillecity",
+    "name": "Mauville City"
   },
   {
     "slug": "meteorfalls",
-    "location": "Meteor Falls",
-    "count": 13
+    "name": "Meteor Falls"
   },
   {
     "slug": "mirageisland",
-    "location": "Mirage Island",
-    "count": 1
+    "name": "Mirage Island"
   },
   {
     "slug": "miragetower",
-    "location": "Mirage Tower",
-    "count": 2
+    "name": "Mirage Tower"
   },
   {
     "slug": "mossdeepcity",
-    "location": "Mossdeep City",
-    "count": 10
+    "name": "Mossdeep City"
+  },
+  {
+    "slug": "mt.chimney",
+    "name": "Mt. Chimney"
   },
   {
     "slug": "newmauville",
-    "location": "Newmauville",
-    "count": 4
+    "name": "Newmauville"
+  },
+  {
+    "slug": "oldaletown",
+    "name": "Oldale Town"
   },
   {
     "slug": "pacifidlogtown",
-    "location": "Pacifidlog Town",
-    "count": 10
+    "name": "Pacifidlog Town"
   },
   {
     "slug": "petalburgcity",
-    "location": "Petalburg City",
-    "count": 7
+    "name": "Petalburg City"
   },
   {
     "slug": "petalburgwoods",
-    "location": "Petalburg Woods",
-    "count": 7
+    "name": "Petalburg Woods"
+  },
+  {
+    "slug": "route101",
+    "name": "Route 101"
+  },
+  {
+    "slug": "route102",
+    "name": "Route 102"
+  },
+  {
+    "slug": "route103",
+    "name": "Route 103"
+  },
+  {
+    "slug": "route104",
+    "name": "Route 104"
+  },
+  {
+    "slug": "route105",
+    "name": "Route 105"
+  },
+  {
+    "slug": "route106",
+    "name": "Route 106"
+  },
+  {
+    "slug": "route107",
+    "name": "Route 107"
+  },
+  {
+    "slug": "route108",
+    "name": "Route 108"
+  },
+  {
+    "slug": "route109",
+    "name": "Route 109"
+  },
+  {
+    "slug": "route110",
+    "name": "Route 110"
+  },
+  {
+    "slug": "route111",
+    "name": "Route 111"
+  },
+  {
+    "slug": "route112",
+    "name": "Route 112"
+  },
+  {
+    "slug": "route113",
+    "name": "Route 113"
+  },
+  {
+    "slug": "route114",
+    "name": "Route 114"
+  },
+  {
+    "slug": "route115",
+    "name": "Route 115"
+  },
+  {
+    "slug": "route116",
+    "name": "Route 116"
+  },
+  {
+    "slug": "route117",
+    "name": "Route 117"
+  },
+  {
+    "slug": "route118",
+    "name": "Route 118"
+  },
+  {
+    "slug": "route119",
+    "name": "Route 119"
+  },
+  {
+    "slug": "route120",
+    "name": "Route 120"
+  },
+  {
+    "slug": "route121",
+    "name": "Route 121"
+  },
+  {
+    "slug": "route122",
+    "name": "Route 122"
+  },
+  {
+    "slug": "route123",
+    "name": "Route 123"
+  },
+  {
+    "slug": "route124",
+    "name": "Route 124"
+  },
+  {
+    "slug": "route125",
+    "name": "Route 125"
+  },
+  {
+    "slug": "route126",
+    "name": "Route 126"
+  },
+  {
+    "slug": "route127",
+    "name": "Route 127"
+  },
+  {
+    "slug": "route128",
+    "name": "Route 128"
+  },
+  {
+    "slug": "route129",
+    "name": "Route 129"
+  },
+  {
+    "slug": "route130",
+    "name": "Route 130"
+  },
+  {
+    "slug": "route131",
+    "name": "Route 131"
+  },
+  {
+    "slug": "route132",
+    "name": "Route 132"
+  },
+  {
+    "slug": "route133",
+    "name": "Route 133"
+  },
+  {
+    "slug": "route134",
+    "name": "Route 134"
+  },
+  {
+    "slug": "rustborocity",
+    "name": "Rustboro City"
   },
   {
     "slug": "rusturftunnel",
-    "location": "Rusturf Tunnel",
-    "count": 1
+    "name": "Rusturf Tunnel"
   },
   {
     "slug": "safarizone",
-    "location": "Safarizone",
-    "count": 42
+    "name": "Safarizone"
+  },
+  {
+    "slug": "scorchedslab",
+    "name": "Scorchedslab"
+  },
+  {
+    "slug": "seamauville",
+    "name": "Sea Mauville"
+  },
+  {
+    "slug": "secretislet",
+    "name": "Secret Islet"
+  },
+  {
+    "slug": "secretshore",
+    "name": "Secret Shore"
   },
   {
     "slug": "shoalcave",
-    "location": "Shoal Cave",
-    "count": 13
+    "name": "Shoal Cave"
   },
   {
     "slug": "skypillar",
-    "location": "Skypillar",
-    "count": 6
+    "name": "Skypillar"
   },
   {
     "slug": "slateportcity",
-    "location": "Slateport City",
-    "count": 9
+    "name": "Slateport City"
   },
   {
     "slug": "sootopoliscity",
-    "location": "Sootopolis City",
-    "count": 6
+    "name": "Sootopolis City"
+  },
+  {
+    "slug": "southernisland",
+    "name": "Southern Island"
+  },
+  {
+    "slug": "sstidal",
+    "name": "Sstidal"
+  },
+  {
+    "slug": "verdanturftown",
+    "name": "Verdanturf Town"
   },
   {
     "slug": "victoryroad",
-    "location": "Victory Road",
-    "count": 20
+    "name": "Victory Road"
   }
 ]

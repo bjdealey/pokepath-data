@@ -69,9 +69,7 @@ export function deriveMachines() {
       kind: machine.toUpperCase().startsWith("HM") ? "HM" : "TM",
       number: Number(machine.match(/\d+/)?.[0] ?? 0),
       move,
-      moveSlug: info?.slug ?? null,
-      type: info?.type ?? null,
-      category: info?.category ?? null,
+      moveSlug: info?.slug ?? null, // the move's type/category/effect live in moves/<moveSlug>.json
       emerald: { badge: badgeOf.get(key), locations },
     };
   });

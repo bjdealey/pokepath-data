@@ -42,10 +42,8 @@ export async function scrapeEncounters(refresh = false) {
   const dir = `${DATASET}games/emerald/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}encounters.json`, JSON.stringify(byslug, null, 2));
-  await writeFile(
-    `${dir}locations.json`,
-    JSON.stringify(locations.map((l) => ({ slug: l.slug, location: l.location, count: l.encounters.length })), null, 2),
-  );
+  // locations.json is the canonical location registry, built by `run.ts locations`
+  // (it unions every location the game data references, not just encounter spots).
 
   return {
     pages: pages.length,
