@@ -1,5 +1,23 @@
 {
   "slug": "compoundeyes",
   "name": "Compound Eyes",
-  "effect": "Raises the Pokémon’s Accuracy by 30%"
+  "effect": "Raises the Pokémon’s Accuracy by 30%",
+  "pokemon": [
+    {
+      "slug": "butterfree",
+      "natdex": 12
+    },
+    {
+      "slug": "venonat",
+      "natdex": 48
+    },
+    {
+      "slug": "yanma",
+      "natdex": 193
+    },
+    {
+      "slug": "nincada",
+      "natdex": 290
+    }
+  ]
 }

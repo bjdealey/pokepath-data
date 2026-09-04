@@ -1,5 +1,47 @@
 {
   "slug": "shellarmor",
   "name": "Shell Armor",
-  "effect": "The Opponent's Moves cannot Critically Hit"
+  "effect": "The Opponent's Moves cannot Critically Hit",
+  "pokemon": [
+    {
+      "slug": "shellder",
+      "natdex": 90
+    },
+    {
+      "slug": "cloyster",
+      "natdex": 91
+    },
+    {
+      "slug": "krabby",
+      "natdex": 98
+    },
+    {
+      "slug": "kingler",
+      "natdex": 99
+    },
+    {
+      "slug": "lapras",
+      "natdex": 131
+    },
+    {
+      "slug": "omanyte",
+      "natdex": 138
+    },
+    {
+      "slug": "omastar",
+      "natdex": 139
+    },
+    {
+      "slug": "corphish",
+      "natdex": 341
+    },
+    {
+      "slug": "crawdaunt",
+      "natdex": 342
+    },
+    {
+      "slug": "clamperl",
+      "natdex": 366
+    }
+  ]
 }

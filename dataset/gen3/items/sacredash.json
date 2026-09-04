@@ -1,0 +1,19 @@
+{
+  "slug": "sacredash",
+  "name": "Sacred Ash",
+  "category": "Recovery",
+  "effect": "Revives all fainted Pokémon to their maximum Hit Points",
+  "price": 200,
+  "sellPrice": 100,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/sacredash.shtml",
+    "scrapedAt": "2026-09-04T22:28:02.349Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "ho-oh",
+      "natdex": 250,
+      "rate": 100
+    }
+  ]
+}

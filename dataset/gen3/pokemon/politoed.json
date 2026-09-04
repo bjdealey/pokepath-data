@@ -27,6 +27,12 @@
     "Damp",
     "Water Absorb"
   ],
+  "wildItems": [
+    {
+      "item": "King's Rock",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 90,
     "attack": 75,

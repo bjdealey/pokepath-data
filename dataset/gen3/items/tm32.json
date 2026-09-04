@@ -7,6 +7,16 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm32.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.569Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.811Z"
+  },
+  "foundAt": [
+    {
+      "location": "route113",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "mauvillecity",
+      "method": "Gift"
+    }
+  ]
 }

@@ -27,6 +27,12 @@
   "abilities": [
     "Soundproof"
   ],
+  "wildItems": [
+    {
+      "item": "Chesto Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 84,
     "attack": 71,

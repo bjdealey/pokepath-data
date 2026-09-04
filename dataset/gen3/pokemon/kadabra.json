@@ -27,6 +27,12 @@
     "Synchronize",
     "Inner Focus"
   ],
+  "wildItems": [
+    {
+      "item": "TwistedSpoon",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 40,
     "attack": 35,

@@ -7,6 +7,29 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/silverpowder.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.241Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.397Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "beautifly",
+      "natdex": 267,
+      "rate": 5
+    },
+    {
+      "pokemon": "dustox",
+      "natdex": 269,
+      "rate": 5
+    },
+    {
+      "pokemon": "masquerain",
+      "natdex": 284,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route120",
+      "method": "Gift from Thief from Bug Maniac Brandon"
+    }
+  ]
 }

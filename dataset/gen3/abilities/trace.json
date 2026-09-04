@@ -1,5 +1,27 @@
 {
   "slug": "trace",
   "name": "Trace",
-  "effect": "Copies Opponent's Ability when brought into Battle"
+  "effect": "Copies Opponent's Ability when brought into Battle",
+  "pokemon": [
+    {
+      "slug": "porygon",
+      "natdex": 137
+    },
+    {
+      "slug": "porygon2",
+      "natdex": 233
+    },
+    {
+      "slug": "ralts",
+      "natdex": 280
+    },
+    {
+      "slug": "kirlia",
+      "natdex": 281
+    },
+    {
+      "slug": "gardevoir",
+      "natdex": 282
+    }
+  ]
 }

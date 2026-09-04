@@ -27,6 +27,7 @@
   "abilities": [
     "Sturdy"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 75,
     "attack": 90,

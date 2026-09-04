@@ -7,6 +7,12 @@
   "sellPrice": 1000,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm37.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.583Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.830Z"
+  },
+  "foundAt": [
+    {
+      "location": "route111",
+      "method": "Floor"
+    }
+  ]
 }

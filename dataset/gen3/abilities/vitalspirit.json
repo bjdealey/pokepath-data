@@ -1,5 +1,23 @@
 {
   "slug": "vitalspirit",
   "name": "Vital Spirit",
-  "effect": "The Pokémon Cannot be put to Sleep"
+  "effect": "The Pokémon Cannot be put to Sleep",
+  "pokemon": [
+    {
+      "slug": "mankey",
+      "natdex": 56
+    },
+    {
+      "slug": "primeape",
+      "natdex": 57
+    },
+    {
+      "slug": "delibird",
+      "natdex": 225
+    },
+    {
+      "slug": "vigoroth",
+      "natdex": 288
+    }
+  ]
 }

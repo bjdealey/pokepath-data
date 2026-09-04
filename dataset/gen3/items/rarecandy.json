@@ -7,6 +7,36 @@
   "sellPrice": 5000,
   "source": {
     "url": "https://www.serebii.net/itemdex/rarecandy.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.141Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.298Z"
+  },
+  "foundAt": [
+    {
+      "location": "route108",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route110",
+      "method": "Gift from Trick House 1"
+    },
+    {
+      "location": "route111",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route119",
+      "method": "Floor"
+    },
+    {
+      "location": "route120",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route123",
+      "method": "Floor"
+    },
+    {
+      "location": "route132",
+      "method": "Floor"
+    }
+  ]
 }

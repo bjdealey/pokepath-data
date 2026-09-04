@@ -28,6 +28,12 @@
     "Run Away",
     "Early Bird"
   ],
+  "wildItems": [
+    {
+      "item": "Sharp Beak",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 110,

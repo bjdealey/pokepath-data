@@ -7,6 +7,32 @@
   "sellPrice": 2000,
   "source": {
     "url": "https://www.serebii.net/itemdex/pearl.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.991Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.124Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "rate": 50
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "rate": 50
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route124",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route126",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route128",
+      "method": "Itemfinder"
+    }
+  ]
 }

@@ -1,5 +1,87 @@
 {
   "slug": "swiftswim",
   "name": "Swift Swim",
-  "effect": "When Rain Dance is in effect, the Pokémon’s Speed is Doubled"
+  "effect": "When Rain Dance is in effect, the Pokémon’s Speed is Doubled",
+  "pokemon": [
+    {
+      "slug": "horsea",
+      "natdex": 116
+    },
+    {
+      "slug": "goldeen",
+      "natdex": 118
+    },
+    {
+      "slug": "seaking",
+      "natdex": 119
+    },
+    {
+      "slug": "magikarp",
+      "natdex": 129
+    },
+    {
+      "slug": "omanyte",
+      "natdex": 138
+    },
+    {
+      "slug": "omastar",
+      "natdex": 139
+    },
+    {
+      "slug": "kabuto",
+      "natdex": 140
+    },
+    {
+      "slug": "kabutops",
+      "natdex": 141
+    },
+    {
+      "slug": "qwilfish",
+      "natdex": 211
+    },
+    {
+      "slug": "mantine",
+      "natdex": 226
+    },
+    {
+      "slug": "kingdra",
+      "natdex": 230
+    },
+    {
+      "slug": "lotad",
+      "natdex": 270
+    },
+    {
+      "slug": "lombre",
+      "natdex": 271
+    },
+    {
+      "slug": "ludicolo",
+      "natdex": 272
+    },
+    {
+      "slug": "surskit",
+      "natdex": 283
+    },
+    {
+      "slug": "feebas",
+      "natdex": 349
+    },
+    {
+      "slug": "huntail",
+      "natdex": 367
+    },
+    {
+      "slug": "gorebyss",
+      "natdex": 368
+    },
+    {
+      "slug": "relicanth",
+      "natdex": 369
+    },
+    {
+      "slug": "luvdisc",
+      "natdex": 370
+    }
+  ]
 }

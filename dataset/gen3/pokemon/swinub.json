@@ -27,6 +27,7 @@
   "abilities": [
     "Oblivious"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 50,
     "attack": 50,

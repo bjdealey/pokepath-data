@@ -1,5 +1,31 @@
 {
   "slug": "pickup",
   "name": "PickUp",
-  "effect": "Has a 10% chance of finding and holding an item after battle"
+  "effect": "Has a 10% chance of finding and holding an item after battle",
+  "pokemon": [
+    {
+      "slug": "meowth",
+      "natdex": 52
+    },
+    {
+      "slug": "aipom",
+      "natdex": 190
+    },
+    {
+      "slug": "teddiursa",
+      "natdex": 216
+    },
+    {
+      "slug": "phanpy",
+      "natdex": 231
+    },
+    {
+      "slug": "zigzagoon",
+      "natdex": 263
+    },
+    {
+      "slug": "linoone",
+      "natdex": 264
+    }
+  ]
 }

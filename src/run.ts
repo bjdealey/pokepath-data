@@ -14,6 +14,7 @@ import { scrapeMoves } from "./scrape/moves.ts";
 import { scrapeItemdex } from "./scrape/itemdex.ts";
 import { scrapeGifts } from "./scrape/gifts.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
+import { deriveItemLinks } from "./derive/itemlinks.ts";
 import { deriveMachines } from "./derive/machines.ts";
 import { deriveTypechart } from "./derive/typechart.ts";
 import { deriveLegendaries } from "./derive/legendaries.ts";
@@ -101,6 +102,11 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ scraping ItemDex definitions (effect + price) for Emerald items…`);
   const r = await scrapeItemdex(refresh);
   console.log(`✔ ${r.items} item definitions (of ${r.slugs}) → dataset/gen3/items/`);
+} else if (entity === "itemlinks") {
+  console.log(`▶ deriving item reverse-indexes (heldBy + foundAt)…`);
+  const r = deriveItemLinks();
+  console.log(`✔ ${r.withHeldBy} items held by wild Pokémon, ${r.withFoundAt} found at locations (of ${r.items}) → dataset/gen3/items/`);
+  if (r.unmatchedHeld.length) console.warn(`⚠ ${r.unmatchedHeld.length} held item name(s) with no ItemDex record: ${r.unmatchedHeld.join(", ")}`);
 } else if (entity === "moves") {
   const limit = arg && /^\d+$/.test(arg) ? Number(arg) : 0;
   console.log(`▶ scraping Gen-III moves${limit ? ` (first ${limit})` : ""}…`);
@@ -159,6 +165,6 @@ if (!entity || entity === "pokemon") {
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", "legendaries", "trades", "locations", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "locations", or "manifest"`);
   process.exit(1);
 }

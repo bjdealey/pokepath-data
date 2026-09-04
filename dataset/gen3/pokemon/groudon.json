@@ -23,6 +23,7 @@
   "abilities": [
     "Drought"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 100,
     "attack": 150,

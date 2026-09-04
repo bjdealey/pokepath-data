@@ -7,6 +7,16 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/firestone.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.481Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.554Z"
+  },
+  "foundAt": [
+    {
+      "location": "route124",
+      "method": "Gift from Trade for Red Shard"
+    },
+    {
+      "location": "fierypath",
+      "method": "Floor"
+    }
+  ]
 }

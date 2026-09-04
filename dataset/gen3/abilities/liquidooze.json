@@ -1,5 +1,23 @@
 {
   "slug": "liquidooze",
   "name": "Liquid Ooze",
-  "effect": "If the Opponent absorbs HP from the Pokémon, the Opponent Loses that amount of HP"
+  "effect": "If the Opponent absorbs HP from the Pokémon, the Opponent Loses that amount of HP",
+  "pokemon": [
+    {
+      "slug": "tentacool",
+      "natdex": 72
+    },
+    {
+      "slug": "tentacruel",
+      "natdex": 73
+    },
+    {
+      "slug": "gulpin",
+      "natdex": 316
+    },
+    {
+      "slug": "swalot",
+      "natdex": 317
+    }
+  ]
 }

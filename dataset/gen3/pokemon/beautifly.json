@@ -27,6 +27,12 @@
   "abilities": [
     "Swarm"
   ],
+  "wildItems": [
+    {
+      "item": "Silver Powder",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 70,

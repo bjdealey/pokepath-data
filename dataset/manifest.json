@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:48:45.512Z",
+  "generatedAt": "2026-09-04T22:30:57.121Z",
   "generations": [
     {
       "gen": 3,
@@ -9,7 +9,7 @@
       "counts": {
         "pokemon": 386,
         "moves": 373,
-        "items": 164,
+        "items": 181,
         "machines": 58
       }
     }

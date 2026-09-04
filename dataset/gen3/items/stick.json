@@ -1,0 +1,19 @@
+{
+  "slug": "stick",
+  "name": "Stick",
+  "category": "Hold Item",
+  "effect": "When this item is held by Farfetch'd, the holder's Critical Hit ratio is raised by 2 stages.",
+  "price": 200,
+  "sellPrice": 100,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/stick.shtml",
+    "scrapedAt": "2026-09-04T22:28:06.863Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "farfetchd",
+      "natdex": 83,
+      "rate": 5
+    }
+  ]
+}

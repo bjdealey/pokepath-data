@@ -1,5 +1,23 @@
 {
   "slug": "waterveil",
   "name": "Water Veil",
-  "effect": "The Pokémon cannot be Burned"
+  "effect": "The Pokémon cannot be Burned",
+  "pokemon": [
+    {
+      "slug": "goldeen",
+      "natdex": 118
+    },
+    {
+      "slug": "seaking",
+      "natdex": 119
+    },
+    {
+      "slug": "wailmer",
+      "natdex": 320
+    },
+    {
+      "slug": "wailord",
+      "natdex": 321
+    }
+  ]
 }

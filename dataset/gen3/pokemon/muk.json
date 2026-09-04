@@ -27,6 +27,12 @@
     "Stench",
     "Sticky Hold"
   ],
+  "wildItems": [
+    {
+      "item": "Nugget",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 105,
     "attack": 105,

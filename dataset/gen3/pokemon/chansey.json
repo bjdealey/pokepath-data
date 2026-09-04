@@ -27,6 +27,12 @@
     "Natural Cure",
     "Serene Grace"
   ],
+  "wildItems": [
+    {
+      "item": "Lucky Egg",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 250,
     "attack": 5,

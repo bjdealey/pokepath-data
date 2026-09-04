@@ -7,6 +7,12 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm31.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.561Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.801Z"
+  },
+  "foundAt": [
+    {
+      "location": "sootopoliscity",
+      "method": "Gift"
+    }
+  ]
 }

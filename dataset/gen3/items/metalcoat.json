@@ -1,0 +1,44 @@
+{
+  "slug": "metalcoat",
+  "name": "Metal Coat",
+  "category": "Hold Item / Evolutionary",
+  "effect": "When this item is held, any Steel-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Steel-type moves is increased by 10%. This item, when held by a Pokémon and the Pokémon is traded evolves the following Pokémon",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/metalcoat.shtml",
+    "scrapedAt": "2026-09-04T22:27:54.846Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "rate": 5
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "rate": 5
+    },
+    {
+      "pokemon": "steelix",
+      "natdex": 208,
+      "rate": 5
+    },
+    {
+      "pokemon": "beldum",
+      "natdex": 374,
+      "rate": 5
+    },
+    {
+      "pokemon": "metang",
+      "natdex": 375,
+      "rate": 5
+    },
+    {
+      "pokemon": "metagross",
+      "natdex": 376,
+      "rate": 5
+    }
+  ]
+}

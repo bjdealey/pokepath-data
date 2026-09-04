@@ -7,6 +7,52 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/pokeball.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.029Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.165Z"
+  },
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Floor"
+    },
+    {
+      "location": "route104",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route106",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route110",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route123",
+      "method": "Floor"
+    },
+    {
+      "location": "route126",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "lilycovecity",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "petalburgwoods",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "petalburgwoods",
+      "method": "Floor"
+    },
+    {
+      "location": "rusturftunnel",
+      "method": "Floor"
+    },
+    {
+      "location": "victoryroad",
+      "method": "Itemfinder"
+    }
+  ]
 }

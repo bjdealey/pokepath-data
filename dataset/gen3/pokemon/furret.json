@@ -27,6 +27,16 @@
     "Run Away",
     "Keen Eye"
   ],
+  "wildItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 50
+    },
+    {
+      "item": "Sitrus Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 85,
     "attack": 76,

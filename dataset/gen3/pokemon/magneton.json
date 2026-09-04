@@ -25,6 +25,12 @@
     "Magnet Pull",
     "Sturdy"
   ],
+  "wildItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 50,
     "attack": 60,

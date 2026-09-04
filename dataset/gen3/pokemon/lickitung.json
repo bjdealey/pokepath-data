@@ -27,6 +27,7 @@
     "Oblivious",
     "Own Tempo"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 90,
     "attack": 55,

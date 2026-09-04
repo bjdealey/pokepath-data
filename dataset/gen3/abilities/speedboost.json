@@ -1,5 +1,15 @@
 {
   "slug": "speedboost",
   "name": "Speed Boost",
-  "effect": "Increases the Pokémon’s Speed by One Level each turn"
+  "effect": "Increases the Pokémon’s Speed by One Level each turn",
+  "pokemon": [
+    {
+      "slug": "yanma",
+      "natdex": 193
+    },
+    {
+      "slug": "ninjask",
+      "natdex": 291
+    }
+  ]
 }

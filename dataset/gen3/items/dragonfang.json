@@ -7,6 +7,16 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/dragonfang.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.433Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.500Z"
+  },
+  "foundAt": [
+    {
+      "location": "meteorfalls",
+      "method": "Gift from Thief from Dragon Tamer Nicolas"
+    },
+    {
+      "location": "meteorfalls",
+      "method": "Floor"
+    }
+  ]
 }

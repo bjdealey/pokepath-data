@@ -27,6 +27,7 @@
     "Serene Grace",
     "Run Away"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 100,
     "attack": 70,

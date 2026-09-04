@@ -28,6 +28,7 @@
     "Magma Armor",
     "Flame Body"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 50,
     "attack": 50,

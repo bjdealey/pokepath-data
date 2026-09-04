@@ -1,5 +1,39 @@
 {
   "slug": "clearbody",
   "name": "Clear Body",
-  "effect": "Opponent's Moves that Lower Stats will not work on the Pokémon"
+  "effect": "Opponent's Moves that Lower Stats will not work on the Pokémon",
+  "pokemon": [
+    {
+      "slug": "tentacool",
+      "natdex": 72
+    },
+    {
+      "slug": "tentacruel",
+      "natdex": 73
+    },
+    {
+      "slug": "beldum",
+      "natdex": 374
+    },
+    {
+      "slug": "metang",
+      "natdex": 375
+    },
+    {
+      "slug": "metagross",
+      "natdex": 376
+    },
+    {
+      "slug": "regirock",
+      "natdex": 377
+    },
+    {
+      "slug": "regice",
+      "natdex": 378
+    },
+    {
+      "slug": "registeel",
+      "natdex": 379
+    }
+  ]
 }

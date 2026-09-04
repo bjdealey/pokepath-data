@@ -26,6 +26,7 @@
   "abilities": [
     "Swift Swim"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 55,
     "attack": 104,

@@ -7,6 +7,12 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/blackbelt.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.275Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.327Z"
+  },
+  "foundAt": [
+    {
+      "location": "route115",
+      "method": "Gift from Thief from Blackbelt Nob"
+    }
+  ]
 }

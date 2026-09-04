@@ -27,6 +27,12 @@
   "abilities": [
     "Oblivious"
   ],
+  "wildItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 60,

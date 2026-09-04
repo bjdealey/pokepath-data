@@ -7,6 +7,42 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/chestoberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.351Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.413Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "rate": 5
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "rate": 5
+    },
+    {
+      "pokemon": "exploud",
+      "natdex": 295,
+      "rate": 5
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Gift"
+    },
+    {
+      "location": "route116",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route121",
+      "method": "Berry Tree"
+    }
+  ]
 }

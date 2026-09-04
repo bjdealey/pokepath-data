@@ -28,6 +28,12 @@
   "abilities": [
     "Inner Focus"
   ],
+  "wildItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 91,
     "attack": 134,

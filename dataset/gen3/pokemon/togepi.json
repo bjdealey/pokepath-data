@@ -27,6 +27,7 @@
     "Hustle",
     "Serene Grace"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 35,
     "attack": 20,

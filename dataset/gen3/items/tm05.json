@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm05.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.449Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.660Z"
+  },
+  "foundAt": [
+    {
+      "location": "route114",
+      "method": "Gift"
+    }
+  ]
 }

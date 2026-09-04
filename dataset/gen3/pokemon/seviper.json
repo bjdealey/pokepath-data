@@ -27,6 +27,7 @@
   "abilities": [
     "Shed Skin"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 73,
     "attack": 100,

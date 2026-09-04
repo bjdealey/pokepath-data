@@ -7,6 +7,56 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/leppaberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.742Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.854Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "rate": 50
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "rate": 50
+    },
+    {
+      "pokemon": "mr-mime",
+      "natdex": 122,
+      "rate": 5
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "rate": 50
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "rate": 5
+    },
+    {
+      "pokemon": "delcatty",
+      "natdex": 301,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route103",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route104",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route119",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Berry Tree"
+    }
+  ]
 }

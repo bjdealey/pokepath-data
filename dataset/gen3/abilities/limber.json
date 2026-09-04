@@ -1,5 +1,19 @@
 {
   "slug": "limber",
   "name": "Limber",
-  "effect": "The Pokémon cannot be Paralyzed"
+  "effect": "The Pokémon cannot be Paralyzed",
+  "pokemon": [
+    {
+      "slug": "persian",
+      "natdex": 53
+    },
+    {
+      "slug": "hitmonlee",
+      "natdex": 106
+    },
+    {
+      "slug": "ditto",
+      "natdex": 132
+    }
+  ]
 }

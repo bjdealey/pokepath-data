@@ -27,6 +27,7 @@
   "abilities": [
     "Blaze"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 120,

@@ -26,6 +26,12 @@
   "abilities": [
     "Insomnia"
   ],
+  "wildItems": [
+    {
+      "item": "Spell Tag",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 44,
     "attack": 75,

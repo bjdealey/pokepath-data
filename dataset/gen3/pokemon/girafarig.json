@@ -28,6 +28,12 @@
     "Inner Focus",
     "Early Bird"
   ],
+  "wildItems": [
+    {
+      "item": "Persim Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 80,

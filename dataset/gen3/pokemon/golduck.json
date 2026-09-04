@@ -28,6 +28,7 @@
     "Damp",
     "Cloud Nine"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 82,

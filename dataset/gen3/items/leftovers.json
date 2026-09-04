@@ -7,6 +7,23 @@
   "sellPrice": 10000,
   "source": {
     "url": "https://www.serebii.net/itemdex/leftovers.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.731Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.842Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "snorlax",
+      "natdex": 143,
+      "rate": 100
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "sstidal",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "sstidal",
+      "method": "Floor"
+    }
+  ]
 }

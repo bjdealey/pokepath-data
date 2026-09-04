@@ -1,5 +1,43 @@
 {
   "slug": "overgrow",
   "name": "Overgrow",
-  "effect": "When the Pokémon’s HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
+  "effect": "When the Pokémon’s HP Gets Low, It's Grass type attack's power is multiplied by 1.5",
+  "pokemon": [
+    {
+      "slug": "bulbasaur",
+      "natdex": 1
+    },
+    {
+      "slug": "ivysaur",
+      "natdex": 2
+    },
+    {
+      "slug": "venusaur",
+      "natdex": 3
+    },
+    {
+      "slug": "chikorita",
+      "natdex": 152
+    },
+    {
+      "slug": "bayleef",
+      "natdex": 153
+    },
+    {
+      "slug": "meganium",
+      "natdex": 154
+    },
+    {
+      "slug": "treecko",
+      "natdex": 252
+    },
+    {
+      "slug": "grovyle",
+      "natdex": 253
+    },
+    {
+      "slug": "sceptile",
+      "natdex": 254
+    }
+  ]
 }

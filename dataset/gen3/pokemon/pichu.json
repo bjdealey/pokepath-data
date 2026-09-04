@@ -26,6 +26,12 @@
   "abilities": [
     "Static"
   ],
+  "wildItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 20,
     "attack": 40,

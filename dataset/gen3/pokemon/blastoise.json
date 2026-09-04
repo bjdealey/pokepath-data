@@ -27,6 +27,7 @@
   "abilities": [
     "Torrent"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 79,
     "attack": 83,

@@ -26,6 +26,7 @@
   "abilities": [
     "PickUp"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 45,

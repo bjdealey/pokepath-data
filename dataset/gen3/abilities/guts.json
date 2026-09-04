@@ -1,5 +1,59 @@
 {
   "slug": "guts",
   "name": "Guts",
-  "effect": "When the Pokémon is inflicted with a status condition, it's attack is raised by 50%"
+  "effect": "When the Pokémon is inflicted with a status condition, it's attack is raised by 50%",
+  "pokemon": [
+    {
+      "slug": "rattata",
+      "natdex": 19
+    },
+    {
+      "slug": "raticate",
+      "natdex": 20
+    },
+    {
+      "slug": "machop",
+      "natdex": 66
+    },
+    {
+      "slug": "machoke",
+      "natdex": 67
+    },
+    {
+      "slug": "machamp",
+      "natdex": 68
+    },
+    {
+      "slug": "heracross",
+      "natdex": 214
+    },
+    {
+      "slug": "ursaring",
+      "natdex": 217
+    },
+    {
+      "slug": "tyrogue",
+      "natdex": 236
+    },
+    {
+      "slug": "larvitar",
+      "natdex": 246
+    },
+    {
+      "slug": "taillow",
+      "natdex": 276
+    },
+    {
+      "slug": "swellow",
+      "natdex": 277
+    },
+    {
+      "slug": "makuhita",
+      "natdex": 296
+    },
+    {
+      "slug": "hariyama",
+      "natdex": 297
+    }
+  ]
 }

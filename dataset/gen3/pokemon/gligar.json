@@ -28,6 +28,7 @@
     "Sand Veil",
     "Hyper Cutter"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 75,

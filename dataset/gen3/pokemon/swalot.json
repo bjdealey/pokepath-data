@@ -27,6 +27,12 @@
     "Liquid Ooze",
     "Sticky Hold"
   ],
+  "wildItems": [
+    {
+      "item": "Big Pearl",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 100,
     "attack": 73,

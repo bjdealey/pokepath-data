@@ -28,6 +28,7 @@
   "abilities": [
     "Natural Cure"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 75,
     "attack": 70,

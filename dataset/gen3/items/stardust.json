@@ -7,6 +7,32 @@
   "sellPrice": 3000,
   "source": {
     "url": "https://www.serebii.net/itemdex/stardust.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.323Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.496Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "rate": 50
+    },
+    {
+      "pokemon": "starmie",
+      "natdex": 121,
+      "rate": 50
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route106",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route111",
+      "method": "Floor"
+    },
+    {
+      "location": "route126",
+      "method": "Itemfinder"
+    }
+  ]
 }

@@ -1,5 +1,19 @@
 {
   "slug": "magmaarmor",
   "name": "Magma Armor",
-  "effect": "Prevents the Pokémon from being Frozen"
+  "effect": "Prevents the Pokémon from being Frozen",
+  "pokemon": [
+    {
+      "slug": "slugma",
+      "natdex": 218
+    },
+    {
+      "slug": "magcargo",
+      "natdex": 219
+    },
+    {
+      "slug": "camerupt",
+      "natdex": 323
+    }
+  ]
 }

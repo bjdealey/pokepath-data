@@ -27,6 +27,7 @@
   "abilities": [
     "Sandstream"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 100,
     "attack": 134,

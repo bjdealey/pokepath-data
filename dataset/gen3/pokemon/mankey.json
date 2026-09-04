@@ -26,6 +26,7 @@
   "abilities": [
     "Vital Spirit"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 80,

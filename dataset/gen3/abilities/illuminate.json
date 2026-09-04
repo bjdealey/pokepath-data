@@ -1,5 +1,27 @@
 {
   "slug": "illuminate",
   "name": "Illuminate",
-  "effect": "When the Pokémon is in the first party slot, Wild Pokémon appearances are more frequent"
+  "effect": "When the Pokémon is in the first party slot, Wild Pokémon appearances are more frequent",
+  "pokemon": [
+    {
+      "slug": "staryu",
+      "natdex": 120
+    },
+    {
+      "slug": "starmie",
+      "natdex": 121
+    },
+    {
+      "slug": "chinchou",
+      "natdex": 170
+    },
+    {
+      "slug": "lanturn",
+      "natdex": 171
+    },
+    {
+      "slug": "volbeat",
+      "natdex": 313
+    }
+  ]
 }

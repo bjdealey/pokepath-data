@@ -23,6 +23,7 @@
   "abilities": [
     "Trace"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 85,
     "attack": 80,

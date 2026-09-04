@@ -7,6 +7,29 @@
   "sellPrice": 4000,
   "source": {
     "url": "https://www.serebii.net/itemdex/quickclaw.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.123Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.277Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "rate": 5
+    },
+    {
+      "pokemon": "sandslash",
+      "natdex": 28,
+      "rate": 5
+    },
+    {
+      "pokemon": "sneasel",
+      "natdex": 215,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "rustborocity",
+      "method": "Gift"
+    }
+  ]
 }

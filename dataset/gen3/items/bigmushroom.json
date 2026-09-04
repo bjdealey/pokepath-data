@@ -1,0 +1,24 @@
+{
+  "slug": "bigmushroom",
+  "name": "Big Mushroom",
+  "category": "Miscellaneous",
+  "effect": "An item you can sell for 2500 In FireRed/LeafGreen, you could exchange one to learn a move in your Pokémon's level up list which it has since forgotten at the Move Relearner in Two Island",
+  "price": 10000,
+  "sellPrice": 5000,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/bigmushroom.shtml",
+    "scrapedAt": "2026-09-04T22:27:47.707Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "paras",
+      "natdex": 46,
+      "rate": 5
+    },
+    {
+      "pokemon": "parasect",
+      "natdex": 47,
+      "rate": 5
+    }
+  ]
+}

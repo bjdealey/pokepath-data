@@ -26,6 +26,7 @@
   "abilities": [
     "Hyper Cutter"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 125,

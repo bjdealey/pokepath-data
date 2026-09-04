@@ -422,6 +422,26 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
   }
   const evoEdges = parseEvolutions($, evo);
 
+  // --- Wild held item (RSE/Emerald group) -----------------------------------
+  // The "Wild Hold Item" cell lists "<game group> Item - Rate%" runs, the group
+  // a <b> label ("RSE", "FRLG", "RSE & FRLG"). Keep only Emerald-applicable
+  // groups (RSE ⊇ Emerald); FRLG-only holds don't happen in Emerald.
+  const wildItems: PokemonRecord["wildItems"] = [];
+  const whiRows = rowsOf(section("Wild Hold Item"));
+  if (whiRows[1]) {
+    const dataCell = cells(whiRows[1])[0];
+    const txt = dataCell ? cellText(dataCell) : "";
+    const GAME = /\b((?:RSE|FRLG|Ruby|Sapphire|Emerald|FireRed|LeafGreen)(?:\s*&\s*(?:RSE|FRLG|Ruby|Sapphire|Emerald|FireRed|LeafGreen))*)\b/g;
+    const parts = txt.split(GAME); // [pre, label, seg, label, seg, …]
+    for (let k = 1; k < parts.length; k += 2) {
+      if (!/\b(?:RSE|Emerald)\b/i.test(parts[k]!)) continue; // FRLG-only → not held in Emerald
+      for (const m of (parts[k + 1] ?? "").matchAll(/([A-Za-z][A-Za-z'.\- ]*?)\s*-\s*(\d+)%/g)) {
+        const item = clean(m[1]!);
+        if (!wildItems.some((w) => w.item === item)) wildItems.push({ item, rate: Number(m[2]) });
+      }
+    }
+  }
+
   const record: PokemonRecord = {
     slug: slugify(name),
     natdex,
@@ -436,6 +456,7 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     baseEggSteps,
     eggGroups,
     abilities,
+    wildItems,
     baseStats,
     evolutionChain: [], // resolved from evoDex in run.ts
     evolutions: [], // resolved from evoEdges in run.ts

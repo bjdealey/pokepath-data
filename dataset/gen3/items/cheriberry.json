@@ -7,6 +7,16 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/cheriberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.339Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.399Z"
+  },
+  "foundAt": [
+    {
+      "location": "route103",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route104",
+      "method": "Berry Tree"
+    }
+  ]
 }

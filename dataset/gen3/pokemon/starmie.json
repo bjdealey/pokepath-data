@@ -25,6 +25,16 @@
     "Illuminate",
     "Natural Cure"
   ],
+  "wildItems": [
+    {
+      "item": "Stardust",
+      "rate": 50
+    },
+    {
+      "item": "Star Piece",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 75,

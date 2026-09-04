@@ -7,6 +7,32 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/persimberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.012Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.146Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "rate": 5
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route114",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route121",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Gift from Berry Master"
+    }
+  ]
 }

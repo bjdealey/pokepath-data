@@ -28,6 +28,7 @@
     "Insomnia",
     "Keen Eye"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 100,
     "attack": 50,

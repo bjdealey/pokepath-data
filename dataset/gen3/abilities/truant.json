@@ -1,5 +1,15 @@
 {
   "slug": "truant",
   "name": "Truant",
-  "effect": "The Pokémon can only attack once every two turns"
+  "effect": "The Pokémon can only attack once every two turns",
+  "pokemon": [
+    {
+      "slug": "slakoth",
+      "natdex": 287
+    },
+    {
+      "slug": "slaking",
+      "natdex": 289
+    }
+  ]
 }

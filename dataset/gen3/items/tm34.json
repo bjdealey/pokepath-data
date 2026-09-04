@@ -7,6 +7,12 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm34.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.576Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.819Z"
+  },
+  "foundAt": [
+    {
+      "location": "mauvillecity",
+      "method": "Gift from Wattson"
+    }
+  ]
 }

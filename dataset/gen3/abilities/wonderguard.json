@@ -1,5 +1,11 @@
 {
   "slug": "wonderguard",
   "name": "Wonder Guard",
-  "effect": "The Pokémon is only damaged by Super Effective Attacks"
+  "effect": "The Pokémon is only damaged by Super Effective Attacks",
+  "pokemon": [
+    {
+      "slug": "shedinja",
+      "natdex": 292
+    }
+  ]
 }

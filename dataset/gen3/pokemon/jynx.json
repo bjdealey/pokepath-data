@@ -27,6 +27,12 @@
   "abilities": [
     "Oblivious"
   ],
+  "wildItems": [
+    {
+      "item": "Aspear Berry",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 65,
     "attack": 50,

@@ -7,6 +7,49 @@
   "sellPrice": 5000,
   "source": {
     "url": "https://www.serebii.net/itemdex/king-s-rock.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.713Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.822Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "poliwhirl",
+      "natdex": 61,
+      "rate": 5
+    },
+    {
+      "pokemon": "poliwrath",
+      "natdex": 62,
+      "rate": 5
+    },
+    {
+      "pokemon": "slowpoke",
+      "natdex": 79,
+      "rate": 5
+    },
+    {
+      "pokemon": "slowbro",
+      "natdex": 80,
+      "rate": 5
+    },
+    {
+      "pokemon": "politoed",
+      "natdex": 186,
+      "rate": 5
+    },
+    {
+      "pokemon": "slowking",
+      "natdex": 199,
+      "rate": 5
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "mossdeepcity",
+      "method": "Gift"
+    }
+  ]
 }

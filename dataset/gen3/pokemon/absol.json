@@ -26,6 +26,7 @@
   "abilities": [
     "Pressure"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 130,

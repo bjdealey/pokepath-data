@@ -1,5 +1,39 @@
 {
   "slug": "owntempo",
   "name": "Own Tempo",
-  "effect": "Prevents the Pokémon from being Confused"
+  "effect": "Prevents the Pokémon from being Confused",
+  "pokemon": [
+    {
+      "slug": "slowpoke",
+      "natdex": 79
+    },
+    {
+      "slug": "slowbro",
+      "natdex": 80
+    },
+    {
+      "slug": "lickitung",
+      "natdex": 108
+    },
+    {
+      "slug": "slowking",
+      "natdex": 199
+    },
+    {
+      "slug": "smeargle",
+      "natdex": 235
+    },
+    {
+      "slug": "spoink",
+      "natdex": 325
+    },
+    {
+      "slug": "grumpig",
+      "natdex": 326
+    },
+    {
+      "slug": "spinda",
+      "natdex": 327
+    }
+  ]
 }

@@ -27,6 +27,7 @@
   "abilities": [
     "Inner Focus"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 85,
     "attack": 90,

@@ -7,6 +7,12 @@
   "sellPrice": 10,
   "source": {
     "url": "https://www.serebii.net/itemdex/shoalshell.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.224Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.378Z"
+  },
+  "foundAt": [
+    {
+      "location": "shoalcave",
+      "method": "Floor"
+    }
+  ]
 }

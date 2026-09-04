@@ -24,6 +24,12 @@
   "abilities": [
     "Levitate"
   ],
+  "wildItems": [
+    {
+      "item": "Sun Stone",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 95,

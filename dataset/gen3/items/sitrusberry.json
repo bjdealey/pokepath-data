@@ -7,6 +7,36 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/sitrusberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.262Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.423Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "rate": 5
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route118",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route119",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Gift from Berry Master"
+    }
+  ]
 }

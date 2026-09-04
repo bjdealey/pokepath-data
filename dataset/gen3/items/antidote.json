@@ -7,6 +7,12 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/antidote.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.205Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.249Z"
+  },
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Itemfinder"
+    }
+  ]
 }

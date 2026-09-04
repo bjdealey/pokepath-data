@@ -26,6 +26,12 @@
   "abilities": [
     "Flash Fire"
   ],
+  "wildItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 73,
     "attack": 76,

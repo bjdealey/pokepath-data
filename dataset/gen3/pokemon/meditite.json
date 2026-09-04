@@ -27,6 +27,7 @@
   "abilities": [
     "Pure Power"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 30,
     "attack": 40,

@@ -26,6 +26,7 @@
   "abilities": [
     "Chlorophyll"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 75,
     "attack": 80,

@@ -27,6 +27,7 @@
   "abilities": [
     "Hustle"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 35,
     "attack": 65,

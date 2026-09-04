@@ -26,6 +26,7 @@
   "abilities": [
     "Truant"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 60,
     "attack": 60,

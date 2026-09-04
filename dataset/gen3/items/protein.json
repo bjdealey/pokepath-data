@@ -7,6 +7,24 @@
   "sellPrice": 5000,
   "source": {
     "url": "https://www.serebii.net/itemdex/protein.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.097Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.245Z"
+  },
+  "foundAt": [
+    {
+      "location": "route106",
+      "method": "Floor"
+    },
+    {
+      "location": "route111",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route114",
+      "method": "Floor"
+    },
+    {
+      "location": "route128",
+      "method": "Itemfinder"
+    }
+  ]
 }

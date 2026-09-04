@@ -27,6 +27,12 @@
     "Hyper Cutter",
     "Arena Trap"
   ],
+  "wildItems": [
+    {
+      "item": "Soft Sand",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 45,
     "attack": 100,

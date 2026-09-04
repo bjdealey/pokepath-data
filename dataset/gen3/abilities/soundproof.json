@@ -1,5 +1,31 @@
 {
   "slug": "soundproof",
   "name": "Soundproof",
-  "effect": "The Pokémon is unaffected by Sound moves"
+  "effect": "The Pokémon is unaffected by Sound moves",
+  "pokemon": [
+    {
+      "slug": "voltorb",
+      "natdex": 100
+    },
+    {
+      "slug": "electrode",
+      "natdex": 101
+    },
+    {
+      "slug": "mr-mime",
+      "natdex": 122
+    },
+    {
+      "slug": "whismur",
+      "natdex": 293
+    },
+    {
+      "slug": "loudred",
+      "natdex": 294
+    },
+    {
+      "slug": "exploud",
+      "natdex": 295
+    }
+  ]
 }

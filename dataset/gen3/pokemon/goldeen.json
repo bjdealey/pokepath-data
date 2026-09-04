@@ -27,6 +27,7 @@
     "Swift Swim",
     "Water Veil"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 45,
     "attack": 67,

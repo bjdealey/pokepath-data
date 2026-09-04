@@ -26,6 +26,7 @@
   "abilities": [
     "Cute Charm"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 115,
     "attack": 45,

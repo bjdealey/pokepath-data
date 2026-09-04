@@ -27,6 +27,7 @@
     "Thick Fat",
     "Guts"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 72,
     "attack": 60,

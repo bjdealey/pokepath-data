@@ -1,5 +1,55 @@
 {
   "slug": "static",
   "name": "Static",
-  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Paralyzed"
+  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Paralyzed",
+  "pokemon": [
+    {
+      "slug": "pikachu",
+      "natdex": 25
+    },
+    {
+      "slug": "raichu",
+      "natdex": 26
+    },
+    {
+      "slug": "voltorb",
+      "natdex": 100
+    },
+    {
+      "slug": "electrode",
+      "natdex": 101
+    },
+    {
+      "slug": "electabuzz",
+      "natdex": 125
+    },
+    {
+      "slug": "pichu",
+      "natdex": 172
+    },
+    {
+      "slug": "mareep",
+      "natdex": 179
+    },
+    {
+      "slug": "flaaffy",
+      "natdex": 180
+    },
+    {
+      "slug": "ampharos",
+      "natdex": 181
+    },
+    {
+      "slug": "elekid",
+      "natdex": 239
+    },
+    {
+      "slug": "electrike",
+      "natdex": 309
+    },
+    {
+      "slug": "manectric",
+      "natdex": 310
+    }
+  ]
 }

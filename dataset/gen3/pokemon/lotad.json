@@ -29,6 +29,7 @@
     "Swift Swim",
     "Rain Dish"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 30,

@@ -27,6 +27,12 @@
     "Thick Fat",
     "Guts"
   ],
+  "wildItems": [
+    {
+      "item": "King's Rock",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 144,
     "attack": 120,

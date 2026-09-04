@@ -26,6 +26,7 @@
   "abilities": [
     "Own Tempo"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 55,
     "attack": 20,

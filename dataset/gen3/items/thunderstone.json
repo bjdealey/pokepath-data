@@ -7,6 +7,16 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/thunderstone.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.394Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.567Z"
+  },
+  "foundAt": [
+    {
+      "location": "route124",
+      "method": "Gift from Trade for Yellow Shard"
+    },
+    {
+      "location": "newmauville",
+      "method": "Floor"
+    }
+  ]
 }

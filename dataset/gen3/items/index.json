@@ -30,6 +30,12 @@
     "price": 20
   },
   {
+    "slug": "bigmushroom",
+    "name": "Big Mushroom",
+    "category": "Miscellaneous",
+    "price": 10000
+  },
+  {
     "slug": "bigpearl",
     "name": "Big Pearl",
     "category": "Miscellaneous",
@@ -150,6 +156,12 @@
     "price": 3000
   },
   {
+    "slug": "dragonscale",
+    "name": "Dragon Scale",
+    "category": "Evolutionary",
+    "price": 2100
+  },
+  {
     "slug": "durinberry",
     "name": "Durin Berry",
     "category": "Berry",
@@ -172,6 +184,12 @@
     "name": "Ether",
     "category": "Recovery",
     "price": 1200
+  },
+  {
+    "slug": "everstone",
+    "name": "Everstone",
+    "category": "Hold Item",
+    "price": 3000
   },
   {
     "slug": "exp-share",
@@ -360,6 +378,18 @@
     "price": 80
   },
   {
+    "slug": "lightball",
+    "name": "Light Ball",
+    "category": "Hold Item",
+    "price": 1000
+  },
+  {
+    "slug": "luckyegg",
+    "name": "Lucky Egg",
+    "category": "Hold Item",
+    "price": 10000
+  },
+  {
     "slug": "lumberry",
     "name": "Lum Berry",
     "category": "Berry",
@@ -420,15 +450,39 @@
     "price": 10000
   },
   {
+    "slug": "metalcoat",
+    "name": "Metal Coat",
+    "category": "Hold Item / Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "metalpowder",
+    "name": "Metal Powder",
+    "category": "Hold Item",
+    "price": 10
+  },
+  {
     "slug": "miracleseed",
     "name": "Miracle Seed",
     "category": "Hold Item",
     "price": 3000
   },
   {
+    "slug": "moomoomilk",
+    "name": "Moomoo Milk",
+    "category": "Recovery",
+    "price": 600
+  },
+  {
     "slug": "moonstone",
     "name": "Moon Stone",
     "category": "Evolutionary",
+    "price": 3000
+  },
+  {
+    "slug": "mysticwater",
+    "name": "Mystic Water",
+    "category": "Hold Item",
     "price": 3000
   },
   {
@@ -514,6 +568,12 @@
     "name": "Pinap Berry",
     "category": "Berry",
     "price": 20
+  },
+  {
+    "slug": "poisonbarb",
+    "name": "Poison Barb",
+    "category": "Hold Item",
+    "price": 3000
   },
   {
     "slug": "pokeball",
@@ -630,6 +690,18 @@
     "price": 1000
   },
   {
+    "slug": "sacredash",
+    "name": "Sacred Ash",
+    "category": "Recovery",
+    "price": 200
+  },
+  {
+    "slug": "sharpbeak",
+    "name": "Sharp Beak",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
     "slug": "shoalsalt",
     "name": "Shoal Salt",
     "category": "Miscellaneous",
@@ -684,6 +756,12 @@
     "price": 5000
   },
   {
+    "slug": "spelltag",
+    "name": "Spell Tag",
+    "category": "Hold Item",
+    "price": 3000
+  },
+  {
     "slug": "spelonberry",
     "name": "Spelon Berry",
     "category": "Berry",
@@ -700,6 +778,18 @@
     "name": "Stardust",
     "category": "Miscellaneous",
     "price": 6000
+  },
+  {
+    "slug": "stick",
+    "name": "Stick",
+    "category": "Hold Item",
+    "price": 200
+  },
+  {
+    "slug": "sunstone",
+    "name": "Sun Stone",
+    "category": "Evolutionary",
+    "price": 3000
   },
   {
     "slug": "superpotion",
@@ -724,6 +814,12 @@
     "name": "Tamato Berry",
     "category": "Berry",
     "price": 80
+  },
+  {
+    "slug": "thickclub",
+    "name": "Thick Club",
+    "category": "Hold Item",
+    "price": 500
   },
   {
     "slug": "thunderstone",
@@ -916,6 +1012,12 @@
     "name": "TM50",
     "category": "TM",
     "price": 5500
+  },
+  {
+    "slug": "twistedspoon",
+    "name": "TwistedSpoon",
+    "category": "Hold Item",
+    "price": 3000
   },
   {
     "slug": "ultraball",

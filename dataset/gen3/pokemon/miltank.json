@@ -26,6 +26,12 @@
   "abilities": [
     "Thick Fat"
   ],
+  "wildItems": [
+    {
+      "item": "MooMoo Milk",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 95,
     "attack": 80,

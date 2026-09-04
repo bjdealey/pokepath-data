@@ -28,6 +28,7 @@
     "Early Bird",
     "Flash Fire"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 75,
     "attack": 90,

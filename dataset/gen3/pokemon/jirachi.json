@@ -24,6 +24,12 @@
   "abilities": [
     "Serene Grace"
   ],
+  "wildItems": [
+    {
+      "item": "Star Piece",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 100,
     "attack": 100,

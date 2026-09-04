@@ -24,6 +24,12 @@
   "abilities": [
     "Natural Cure"
   ],
+  "wildItems": [
+    {
+      "item": "Lum Berry",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 100,
     "attack": 100,

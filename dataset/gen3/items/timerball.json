@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/timerball.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.401Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.576Z"
+  },
+  "foundAt": [
+    {
+      "location": "route110",
+      "method": "Gift from Trick House 2"
+    }
+  ]
 }

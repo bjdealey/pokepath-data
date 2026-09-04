@@ -7,6 +7,24 @@
   "sellPrice": 5000,
   "source": {
     "url": "https://www.serebii.net/itemdex/carbos.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.319Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.377Z"
+  },
+  "foundAt": [
+    {
+      "location": "route114",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route121",
+      "method": "Floor"
+    },
+    {
+      "location": "route124",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route127",
+      "method": "Floor"
+    }
+  ]
 }

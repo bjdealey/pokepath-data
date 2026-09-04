@@ -26,6 +26,7 @@
   "abilities": [
     "Guts"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 90,
     "attack": 130,

@@ -27,6 +27,7 @@
     "Run Away",
     "Guts"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 30,
     "attack": 56,

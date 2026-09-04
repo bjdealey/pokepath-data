@@ -1,5 +1,11 @@
 {
   "slug": "colorchange",
   "name": "Color Change",
-  "effect": "The Pokémon’s type becomes the type of an attack that damages it"
+  "effect": "The Pokémon’s type becomes the type of an attack that damages it",
+  "pokemon": [
+    {
+      "slug": "kecleon",
+      "natdex": 352
+    }
+  ]
 }

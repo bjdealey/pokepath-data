@@ -1,5 +1,11 @@
 {
   "slug": "whitesmoke",
   "name": "White Smoke",
-  "effect": "The Pokémon’s Stats cannot be lowered by opponent"
+  "effect": "The Pokémon’s Stats cannot be lowered by opponent",
+  "pokemon": [
+    {
+      "slug": "torkoal",
+      "natdex": 324
+    }
+  ]
 }

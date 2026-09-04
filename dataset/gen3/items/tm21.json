@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm21.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.518Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.750Z"
+  },
+  "foundAt": [
+    {
+      "location": "pacifidlogtown",
+      "method": "Gift"
+    }
+  ]
 }

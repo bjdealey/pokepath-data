@@ -29,6 +29,7 @@
     "Water Absorb",
     "Shell Armor"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 130,
     "attack": 85,

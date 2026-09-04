@@ -26,6 +26,7 @@
   "abilities": [
     "Shadow Tag"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 190,
     "attack": 33,

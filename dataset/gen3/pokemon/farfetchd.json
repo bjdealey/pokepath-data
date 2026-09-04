@@ -29,6 +29,12 @@
     "Keen Eye",
     "Inner Focus"
   ],
+  "wildItems": [
+    {
+      "item": "Stick",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 52,
     "attack": 65,

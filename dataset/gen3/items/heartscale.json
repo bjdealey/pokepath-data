@@ -7,6 +7,59 @@
   "sellPrice": 50,
   "source": {
     "url": "https://www.serebii.net/itemdex/heartscale.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.585Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.678Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "rate": 50
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route105",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route106",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route109",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route115",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route118",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route124",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route126",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route127",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route128",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "lilycovecity",
+      "method": "Itemfinder"
+    }
+  ]
 }

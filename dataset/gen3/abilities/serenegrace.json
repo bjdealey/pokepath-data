@@ -1,5 +1,31 @@
 {
   "slug": "serenegrace",
   "name": "Serene Grace",
-  "effect": "If a move has an extra effect, the chances of it occuring is doubled"
+  "effect": "If a move has an extra effect, the chances of it occuring is doubled",
+  "pokemon": [
+    {
+      "slug": "chansey",
+      "natdex": 113
+    },
+    {
+      "slug": "togepi",
+      "natdex": 175
+    },
+    {
+      "slug": "togetic",
+      "natdex": 176
+    },
+    {
+      "slug": "dunsparce",
+      "natdex": 206
+    },
+    {
+      "slug": "blissey",
+      "natdex": 242
+    },
+    {
+      "slug": "jirachi",
+      "natdex": 385
+    }
+  ]
 }

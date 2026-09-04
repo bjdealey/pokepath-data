@@ -1,5 +1,15 @@
 {
   "slug": "hugepower",
   "name": "Huge Power",
-  "effect": "The Pokémon’s Attack is Doubled"
+  "effect": "The Pokémon’s Attack is Doubled",
+  "pokemon": [
+    {
+      "slug": "marill",
+      "natdex": 183
+    },
+    {
+      "slug": "azumarill",
+      "natdex": 184
+    }
+  ]
 }

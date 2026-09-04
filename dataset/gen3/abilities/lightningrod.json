@@ -1,5 +1,31 @@
 {
   "slug": "lightningrod",
   "name": "Lightning Rod",
-  "effect": "All Electric Attacks are drawn to the Pokémon"
+  "effect": "All Electric Attacks are drawn to the Pokémon",
+  "pokemon": [
+    {
+      "slug": "cubone",
+      "natdex": 104
+    },
+    {
+      "slug": "marowak",
+      "natdex": 105
+    },
+    {
+      "slug": "rhyhorn",
+      "natdex": 111
+    },
+    {
+      "slug": "rhydon",
+      "natdex": 112
+    },
+    {
+      "slug": "electrike",
+      "natdex": 309
+    },
+    {
+      "slug": "manectric",
+      "natdex": 310
+    }
+  ]
 }

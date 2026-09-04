@@ -27,6 +27,12 @@
   "abilities": [
     "Inner Focus"
   ],
+  "wildItems": [
+    {
+      "item": "NeverMeltIce",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 80,
     "attack": 80,

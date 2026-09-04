@@ -1,0 +1,29 @@
+{
+  "slug": "poisonbarb",
+  "name": "Poison Barb",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Poison-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Poison-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/poisonbarb.shtml",
+    "scrapedAt": "2026-09-04T22:28:00.870Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "rate": 5
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "rate": 5
+    },
+    {
+      "pokemon": "cacturne",
+      "natdex": 332,
+      "rate": 5
+    }
+  ]
+}

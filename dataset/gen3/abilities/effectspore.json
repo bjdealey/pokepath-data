@@ -1,5 +1,23 @@
 {
   "slug": "effectspore",
   "name": "Effect Spore",
-  "effect": "When a Pokémon makes contact with the Pokémon it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
+  "effect": "When a Pokémon makes contact with the Pokémon it has a 10% chance of being Paralyzed, Poisoned or Put Asleep",
+  "pokemon": [
+    {
+      "slug": "paras",
+      "natdex": 46
+    },
+    {
+      "slug": "parasect",
+      "natdex": 47
+    },
+    {
+      "slug": "shroomish",
+      "natdex": 285
+    },
+    {
+      "slug": "breloom",
+      "natdex": 286
+    }
+  ]
 }

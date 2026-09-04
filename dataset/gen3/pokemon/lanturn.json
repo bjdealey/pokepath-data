@@ -28,6 +28,12 @@
     "Volt Absorb",
     "Illuminate"
   ],
+  "wildItems": [
+    {
+      "item": "Yellow Shard",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 125,
     "attack": 58,

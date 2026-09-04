@@ -29,6 +29,7 @@
     "Hustle",
     "Vital Spirit"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 45,
     "attack": 55,

@@ -28,6 +28,12 @@
   "abilities": [
     "Swift Swim"
   ],
+  "wildItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 75,
     "attack": 95,

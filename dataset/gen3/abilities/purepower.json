@@ -1,5 +1,15 @@
 {
   "slug": "purepower",
   "name": "Pure Power",
-  "effect": "The Pokémon’s Attack is Doubled"
+  "effect": "The Pokémon’s Attack is Doubled",
+  "pokemon": [
+    {
+      "slug": "meditite",
+      "natdex": 307
+    },
+    {
+      "slug": "medicham",
+      "natdex": 308
+    }
+  ]
 }

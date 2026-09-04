@@ -28,6 +28,7 @@ export function deriveAbilities() {
   const files = readdirSync(pdir).filter((x) => x.endsWith(".json") && x !== "index.json");
   // slug → tallies of name spellings + genericized effects
   const tally = new Map<string, { names: Map<string, number>; effects: Map<string, number> }>();
+  const holders = new Map<string, Array<{ slug: string; natdex: number }>>(); // ability slug → Pokémon
   const parsedNames = new Map<string, string[]>(); // pokemon file → ability names (raw), for the rename pass
   for (const f of files) {
     const rec = JSON.parse(readFileSync(pdir + f, "utf8")) as PokemonRecord;
@@ -43,6 +44,9 @@ export function deriveAbilities() {
       const t = tally.get(slug) ?? { names: new Map(), effects: new Map() };
       tally.set(slug, t);
       t.names.set(name, (t.names.get(name) ?? 0) + 1);
+      const list = holders.get(slug) ?? [];
+      if (!holders.has(slug)) holders.set(slug, list);
+      list.push({ slug: rec.slug, natdex: rec.natdex });
       const raw = parsed.abilityDesc[name];
       if (raw) {
         const g = genericize(parsed.record.name, raw);
@@ -56,7 +60,8 @@ export function deriveAbilities() {
     const name = mode(t.names);
     canonName.set(slug, name);
     const e = mode(t.effects);
-    return { slug, name, effect: e ? e[0]!.toUpperCase() + e.slice(1) : "" };
+    const pokemon = (holders.get(slug) ?? []).sort((a, b) => a.natdex - b.natdex);
+    return { slug, name, effect: e ? e[0]!.toUpperCase() + e.slice(1) : "", pokemon };
   });
   records.sort((a, b) => a.name.localeCompare(b.name));
 

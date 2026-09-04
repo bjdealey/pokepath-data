@@ -1,5 +1,51 @@
 {
   "slug": "synchronize",
   "name": "Synchronize",
-  "effect": "When the Pokémon is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
+  "effect": "When the Pokémon is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition",
+  "pokemon": [
+    {
+      "slug": "abra",
+      "natdex": 63
+    },
+    {
+      "slug": "kadabra",
+      "natdex": 64
+    },
+    {
+      "slug": "alakazam",
+      "natdex": 65
+    },
+    {
+      "slug": "mew",
+      "natdex": 151
+    },
+    {
+      "slug": "natu",
+      "natdex": 177
+    },
+    {
+      "slug": "xatu",
+      "natdex": 178
+    },
+    {
+      "slug": "espeon",
+      "natdex": 196
+    },
+    {
+      "slug": "umbreon",
+      "natdex": 197
+    },
+    {
+      "slug": "ralts",
+      "natdex": 280
+    },
+    {
+      "slug": "kirlia",
+      "natdex": 281
+    },
+    {
+      "slug": "gardevoir",
+      "natdex": 282
+    }
+  ]
 }

@@ -26,6 +26,12 @@
   "abilities": [
     "Swift Swim"
   ],
+  "wildItems": [
+    {
+      "item": "Heart Scale",
+      "rate": 50
+    }
+  ],
   "baseStats": {
     "hp": 43,
     "attack": 30,

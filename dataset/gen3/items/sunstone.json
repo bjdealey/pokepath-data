@@ -1,0 +1,19 @@
+{
+  "slug": "sunstone",
+  "name": "Sun Stone",
+  "category": "Evolutionary",
+  "effect": "A stone that evolves the following Pokémon",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/sunstone.shtml",
+    "scrapedAt": "2026-09-04T22:28:08.382Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "rate": 5
+    }
+  ]
+}

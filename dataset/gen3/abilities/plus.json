@@ -1,5 +1,11 @@
 {
   "slug": "plus",
   "name": "Plus",
-  "effect": "When battling with Minus, the Pokémon’s Special Attack is multiplied by 1.5"
+  "effect": "When battling with Minus, the Pokémon’s Special Attack is multiplied by 1.5",
+  "pokemon": [
+    {
+      "slug": "plusle",
+      "natdex": 311
+    }
+  ]
 }

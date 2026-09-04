@@ -27,6 +27,7 @@
     "Synchronize",
     "Trace"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 38,
     "attack": 35,

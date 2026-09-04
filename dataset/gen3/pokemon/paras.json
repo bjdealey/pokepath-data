@@ -28,6 +28,16 @@
   "abilities": [
     "Effect Spore"
   ],
+  "wildItems": [
+    {
+      "item": "TinyMushroom",
+      "rate": 50
+    },
+    {
+      "item": "Big Mushroom",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 35,
     "attack": 70,

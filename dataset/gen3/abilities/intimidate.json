@@ -1,5 +1,63 @@
 {
   "slug": "intimidate",
   "name": "Intimidate",
-  "effect": "Upon the Pokémon’s Entry in Battle, all opponent's Attack Stats are lowered"
+  "effect": "Upon the Pokémon’s Entry in Battle, all opponent's Attack Stats are lowered",
+  "pokemon": [
+    {
+      "slug": "ekans",
+      "natdex": 23
+    },
+    {
+      "slug": "arbok",
+      "natdex": 24
+    },
+    {
+      "slug": "growlithe",
+      "natdex": 58
+    },
+    {
+      "slug": "arcanine",
+      "natdex": 59
+    },
+    {
+      "slug": "tauros",
+      "natdex": 128
+    },
+    {
+      "slug": "gyarados",
+      "natdex": 130
+    },
+    {
+      "slug": "snubbull",
+      "natdex": 209
+    },
+    {
+      "slug": "granbull",
+      "natdex": 210
+    },
+    {
+      "slug": "stantler",
+      "natdex": 234
+    },
+    {
+      "slug": "hitmontop",
+      "natdex": 237
+    },
+    {
+      "slug": "mightyena",
+      "natdex": 262
+    },
+    {
+      "slug": "masquerain",
+      "natdex": 284
+    },
+    {
+      "slug": "mawile",
+      "natdex": 303
+    },
+    {
+      "slug": "salamence",
+      "natdex": 373
+    }
+  ]
 }

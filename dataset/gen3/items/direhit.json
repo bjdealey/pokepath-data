@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/direhit.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.422Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.492Z"
+  },
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Floor"
+    }
+  ]
 }

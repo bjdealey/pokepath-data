@@ -1,5 +1,19 @@
 {
   "slug": "suctioncups",
   "name": "Suction Cups",
-  "effect": "The Pokémon cannot be forced out of battle by Opponent"
+  "effect": "The Pokémon cannot be forced out of battle by Opponent",
+  "pokemon": [
+    {
+      "slug": "octillery",
+      "natdex": 224
+    },
+    {
+      "slug": "lileep",
+      "natdex": 345
+    },
+    {
+      "slug": "cradily",
+      "natdex": 346
+    }
+  ]
 }

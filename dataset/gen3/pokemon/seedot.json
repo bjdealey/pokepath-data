@@ -28,6 +28,7 @@
     "Chlorophyll",
     "Early Bird"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 40,

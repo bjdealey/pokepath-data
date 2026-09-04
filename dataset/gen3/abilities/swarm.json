@@ -1,5 +1,47 @@
 {
   "slug": "swarm",
   "name": "Swarm",
-  "effect": "When the Pokémon’s HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
+  "effect": "When the Pokémon’s HP Gets Low, It's Bug type attack's power is multiplied by 1.5",
+  "pokemon": [
+    {
+      "slug": "beedrill",
+      "natdex": 15
+    },
+    {
+      "slug": "scyther",
+      "natdex": 123
+    },
+    {
+      "slug": "ledyba",
+      "natdex": 165
+    },
+    {
+      "slug": "ledian",
+      "natdex": 166
+    },
+    {
+      "slug": "spinarak",
+      "natdex": 167
+    },
+    {
+      "slug": "ariados",
+      "natdex": 168
+    },
+    {
+      "slug": "scizor",
+      "natdex": 212
+    },
+    {
+      "slug": "heracross",
+      "natdex": 214
+    },
+    {
+      "slug": "beautifly",
+      "natdex": 267
+    },
+    {
+      "slug": "volbeat",
+      "natdex": 313
+    }
+  ]
 }

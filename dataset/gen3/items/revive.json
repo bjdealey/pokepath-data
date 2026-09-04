@@ -7,6 +7,32 @@
   "sellPrice": 1000,
   "source": {
     "url": "https://www.serebii.net/itemdex/revive.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.195Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.355Z"
+  },
+  "foundAt": [
+    {
+      "location": "route110",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route114",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route117",
+      "method": "Floor"
+    },
+    {
+      "location": "route120",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route120",
+      "method": "Floor"
+    },
+    {
+      "location": "route123",
+      "method": "Itemfinder"
+    }
+  ]
 }

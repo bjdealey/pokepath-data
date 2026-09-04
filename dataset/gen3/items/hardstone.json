@@ -7,6 +7,29 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/hardstone.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.570Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.661Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "rate": 5
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "rate": 5
+    },
+    {
+      "pokemon": "aggron",
+      "natdex": 306,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route110",
+      "method": "Gift from Trick House 3"
+    }
+  ]
 }

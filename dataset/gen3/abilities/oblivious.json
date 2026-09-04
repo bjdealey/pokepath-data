@@ -1,5 +1,63 @@
 {
   "slug": "oblivious",
   "name": "Oblivious",
-  "effect": "Prevents the Pokémon from being Infatuated"
+  "effect": "Prevents the Pokémon from being Infatuated",
+  "pokemon": [
+    {
+      "slug": "slowpoke",
+      "natdex": 79
+    },
+    {
+      "slug": "slowbro",
+      "natdex": 80
+    },
+    {
+      "slug": "lickitung",
+      "natdex": 108
+    },
+    {
+      "slug": "jynx",
+      "natdex": 124
+    },
+    {
+      "slug": "slowking",
+      "natdex": 199
+    },
+    {
+      "slug": "swinub",
+      "natdex": 220
+    },
+    {
+      "slug": "piloswine",
+      "natdex": 221
+    },
+    {
+      "slug": "smoochum",
+      "natdex": 238
+    },
+    {
+      "slug": "illumise",
+      "natdex": 314
+    },
+    {
+      "slug": "wailmer",
+      "natdex": 320
+    },
+    {
+      "slug": "wailord",
+      "natdex": 321
+    },
+    {
+      "slug": "numel",
+      "natdex": 322
+    },
+    {
+      "slug": "barboach",
+      "natdex": 339
+    },
+    {
+      "slug": "whiscash",
+      "natdex": 340
+    }
+  ]
 }

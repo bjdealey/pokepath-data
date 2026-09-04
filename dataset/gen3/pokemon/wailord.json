@@ -28,6 +28,7 @@
     "Water Veil",
     "Oblivious"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 170,
     "attack": 90,

@@ -28,6 +28,12 @@
     "Rock Head",
     "Sturdy"
   ],
+  "wildItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 75,
     "attack": 85,

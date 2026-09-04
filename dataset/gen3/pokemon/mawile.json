@@ -28,6 +28,7 @@
     "Hyper Cutter",
     "Intimidate"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 50,
     "attack": 85,

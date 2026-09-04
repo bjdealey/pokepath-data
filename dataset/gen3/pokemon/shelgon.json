@@ -26,6 +26,12 @@
   "abilities": [
     "Rock Head"
   ],
+  "wildItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 65,
     "attack": 95,

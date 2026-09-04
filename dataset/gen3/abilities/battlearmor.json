@@ -1,5 +1,23 @@
 {
   "slug": "battlearmor",
   "name": "Battle Armor",
-  "effect": "The Opponent's Moves cannot Critically Hit"
+  "effect": "The Opponent's Moves cannot Critically Hit",
+  "pokemon": [
+    {
+      "slug": "kabuto",
+      "natdex": 140
+    },
+    {
+      "slug": "kabutops",
+      "natdex": 141
+    },
+    {
+      "slug": "anorith",
+      "natdex": 347
+    },
+    {
+      "slug": "armaldo",
+      "natdex": 348
+    }
+  ]
 }

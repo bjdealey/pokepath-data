@@ -26,6 +26,7 @@
   "abilities": [
     "Early Bird"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 105,
     "attack": 95,

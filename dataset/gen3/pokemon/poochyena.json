@@ -26,6 +26,12 @@
   "abilities": [
     "Run Away"
   ],
+  "wildItems": [
+    {
+      "item": "Pecha Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 35,
     "attack": 55,

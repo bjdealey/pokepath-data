@@ -1,5 +1,55 @@
 {
   "slug": "innerfocus",
   "name": "Inner Focus",
-  "effect": "Prevents Flinching"
+  "effect": "Prevents Flinching",
+  "pokemon": [
+    {
+      "slug": "zubat",
+      "natdex": 41
+    },
+    {
+      "slug": "golbat",
+      "natdex": 42
+    },
+    {
+      "slug": "abra",
+      "natdex": 63
+    },
+    {
+      "slug": "kadabra",
+      "natdex": 64
+    },
+    {
+      "slug": "alakazam",
+      "natdex": 65
+    },
+    {
+      "slug": "farfetchd",
+      "natdex": 83
+    },
+    {
+      "slug": "dragonite",
+      "natdex": 149
+    },
+    {
+      "slug": "crobat",
+      "natdex": 169
+    },
+    {
+      "slug": "girafarig",
+      "natdex": 203
+    },
+    {
+      "slug": "sneasel",
+      "natdex": 215
+    },
+    {
+      "slug": "snorunt",
+      "natdex": 361
+    },
+    {
+      "slug": "glalie",
+      "natdex": 362
+    }
+  ]
 }

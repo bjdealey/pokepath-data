@@ -13,6 +13,7 @@ export interface AbilityRecord {
   slug: string;
   name: string;
   effect: string; // generic effect ("the Pokémon …"), the most common wording across its Pokémon
+  pokemon: Array<{ slug: string; natdex: number }>; // Pokémon that can have this ability (like a move's learnedBy)
 }
 
 export interface BaseStats {
@@ -122,6 +123,8 @@ export interface ItemRecord {
   effect: string; // "In-Depth Effect"
   price: number | null; // purchase price (Serebii ItemDex; not gen-scoped — latest where prices vary)
   sellPrice: number | null;
+  heldBy?: Array<{ pokemon: string; natdex: number; rate: number }>; // derived: wild Pokémon that hold this item
+  foundAt?: Array<{ location: string; method: string }>; // derived: Emerald locations where it's found
   source: { url: string; scrapedAt: string };
 }
 
@@ -232,6 +235,7 @@ export interface PokemonRecord {
   baseEggSteps?: number;
   eggGroups: string[];
   abilities: string[]; // ability names; definitions live in the canonical abilities collection
+  wildItems: Array<{ item: string; rate: number }>; // items held when caught wild (RSE/Emerald group); feeds items.heldBy
   baseStats: BaseStats;
   evolutionChain: string[]; // slugs of the whole family, in order
   evolutions: EvolutionEdge[]; // how each member evolves (with method)

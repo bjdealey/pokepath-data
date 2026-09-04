@@ -1,5 +1,47 @@
 {
   "slug": "shedskin",
   "name": "Shed Skin",
-  "effect": "Every Turn the Pokémon has a 1 in 3 chance of healing from a Status Condition."
+  "effect": "Every Turn the Pokémon has a 1 in 3 chance of healing from a Status Condition.",
+  "pokemon": [
+    {
+      "slug": "metapod",
+      "natdex": 11
+    },
+    {
+      "slug": "kakuna",
+      "natdex": 14
+    },
+    {
+      "slug": "ekans",
+      "natdex": 23
+    },
+    {
+      "slug": "arbok",
+      "natdex": 24
+    },
+    {
+      "slug": "dratini",
+      "natdex": 147
+    },
+    {
+      "slug": "dragonair",
+      "natdex": 148
+    },
+    {
+      "slug": "pupitar",
+      "natdex": 247
+    },
+    {
+      "slug": "silcoon",
+      "natdex": 266
+    },
+    {
+      "slug": "cascoon",
+      "natdex": 268
+    },
+    {
+      "slug": "seviper",
+      "natdex": 336
+    }
+  ]
 }

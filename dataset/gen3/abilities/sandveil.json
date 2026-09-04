@@ -1,5 +1,35 @@
 {
   "slug": "sandveil",
   "name": "Sand Veil",
-  "effect": "Increases Evasion in Sandstorm"
+  "effect": "Increases Evasion in Sandstorm",
+  "pokemon": [
+    {
+      "slug": "sandshrew",
+      "natdex": 27
+    },
+    {
+      "slug": "sandslash",
+      "natdex": 28
+    },
+    {
+      "slug": "diglett",
+      "natdex": 50
+    },
+    {
+      "slug": "dugtrio",
+      "natdex": 51
+    },
+    {
+      "slug": "gligar",
+      "natdex": 207
+    },
+    {
+      "slug": "cacnea",
+      "natdex": 331
+    },
+    {
+      "slug": "cacturne",
+      "natdex": 332
+    }
+  ]
 }

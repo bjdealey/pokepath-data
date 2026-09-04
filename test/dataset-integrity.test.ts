@@ -82,6 +82,19 @@ test("abilities: collection populated; every pokemon ability resolves to it", ()
   }
 });
 
+test("abilities: pokemon reverse-index resolves and round-trips", () => {
+  for (const a of abilities.values()) {
+    assert.ok(Array.isArray(a.pokemon) && a.pokemon.length, `ability ${a.slug}: empty pokemon reverse-index`);
+    for (const ref of a.pokemon) {
+      const p = pokemon.get(ref.slug);
+      assert.ok(p, `ability ${a.slug}: pokemon '${ref.slug}' unknown`);
+      assert.equal(p.natdex, ref.natdex, `ability ${a.slug}: ${ref.slug} natdex mismatch`);
+      // Round-trip: the Pokémon must actually list an ability that keys to this slug.
+      assert.ok((p.abilities as string[]).some((n) => abilitySlug(n) === a.slug), `ability ${a.slug}: ${ref.slug} doesn't list it`);
+    }
+  }
+});
+
 test("moves: learnedBy resolves with matching natdex; machine links valid", () => {
   for (const m of moves.values()) {
     for (const lb of m.learnedBy ?? []) {
@@ -124,6 +137,28 @@ test("emerald location items: every slug has an ItemDex definition", () => {
   const missing: string[] = [];
   for (const [loc, v] of Object.entries(gameItems)) for (const it of v.items ?? []) if (!items.has(it.slug)) missing.push(`${loc}:${it.slug}`);
   assert.deepEqual(missing, [], `location items with no itemdex def: ${missing.join(", ")}`);
+});
+
+test("items: wildItems + heldBy/foundAt reverse-indexes resolve and round-trip", () => {
+  const itemByNorm = new Map([...items.values()].map((i) => [norm(i.name), i.slug]));
+  // Forward: every wild held item name a Pokémon carries has an ItemDex record.
+  for (const p of pokemon.values()) {
+    assert.ok(Array.isArray(p.wildItems), `${p.slug}: missing wildItems`);
+    for (const w of p.wildItems as any[]) assert.ok(itemByNorm.has(norm(w.item)), `${p.slug}: wild item '${w.item}' has no ItemDex record`);
+  }
+  for (const it of items.values()) {
+    for (const h of it.heldBy ?? []) {
+      const p = pokemon.get(h.pokemon);
+      assert.ok(p, `item ${it.slug}: heldBy '${h.pokemon}' unknown`);
+      assert.equal(p.natdex, h.natdex, `item ${it.slug}: ${h.pokemon} natdex mismatch`);
+      // Round-trip: the Pokémon's wildItems must name an item that keys to this slug.
+      assert.ok((p.wildItems as any[]).some((w) => itemByNorm.get(norm(w.item)) === it.slug), `item ${it.slug}: ${h.pokemon} doesn't hold it`);
+    }
+    for (const fa of it.foundAt ?? []) {
+      assert.ok(gameItems[fa.location], `item ${it.slug}: foundAt '${fa.location}' is not a game location`);
+      assert.ok((gameItems[fa.location].items ?? []).some((li: any) => li.slug === it.slug), `item ${it.slug}: not actually at ${fa.location}`);
+    }
+  }
 });
 
 test("emerald trainers: unique slugs, team + movesets resolve, story spine grounded", () => {

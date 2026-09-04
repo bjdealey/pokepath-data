@@ -28,6 +28,7 @@
   "abilities": [
     "Intimidate"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 95,
     "attack": 125,

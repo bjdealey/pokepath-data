@@ -27,6 +27,12 @@
   "abilities": [
     "Shield Dust"
   ],
+  "wildItems": [
+    {
+      "item": "Silver Powder",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 50,

@@ -7,6 +7,20 @@
   "sellPrice": 5000,
   "source": {
     "url": "https://www.serebii.net/itemdex/zinc.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.739Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:47.017Z"
+  },
+  "foundAt": [
+    {
+      "location": "route119",
+      "method": "Floor"
+    },
+    {
+      "location": "route120",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route127",
+      "method": "Floor"
+    }
+  ]
 }

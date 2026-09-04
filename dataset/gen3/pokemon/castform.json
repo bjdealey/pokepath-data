@@ -27,6 +27,12 @@
   "abilities": [
     "Forecast"
   ],
+  "wildItems": [
+    {
+      "item": "Mystic Water",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 70,

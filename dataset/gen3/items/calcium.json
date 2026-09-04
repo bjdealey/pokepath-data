@@ -7,6 +7,20 @@
   "sellPrice": 5000,
   "source": {
     "url": "https://www.serebii.net/itemdex/calcium.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.312Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.366Z"
+  },
+  "foundAt": [
+    {
+      "location": "route119",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route123",
+      "method": "Floor"
+    },
+    {
+      "location": "route124",
+      "method": "Itemfinder"
+    }
+  ]
 }

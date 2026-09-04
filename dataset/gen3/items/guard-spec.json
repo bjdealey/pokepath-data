@@ -7,6 +7,12 @@
   "sellPrice": 750,
   "source": {
     "url": "https://www.serebii.net/itemdex/guard-spec.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.558Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.650Z"
+  },
+  "foundAt": [
+    {
+      "location": "route103",
+      "method": "Floor"
+    }
+  ]
 }

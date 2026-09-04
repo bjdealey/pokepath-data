@@ -28,6 +28,12 @@
     "Rock Head",
     "Sturdy"
   ],
+  "wildItems": [
+    {
+      "item": "Hard Stone",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 90,

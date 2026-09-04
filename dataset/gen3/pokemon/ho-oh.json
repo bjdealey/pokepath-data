@@ -24,6 +24,12 @@
   "abilities": [
     "Pressure"
   ],
+  "wildItems": [
+    {
+      "item": "Sacred Ash",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 106,
     "attack": 130,

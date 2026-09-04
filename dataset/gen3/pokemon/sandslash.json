@@ -26,6 +26,12 @@
   "abilities": [
     "Sand Veil"
   ],
+  "wildItems": [
+    {
+      "item": "Quick Claw",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 75,
     "attack": 100,

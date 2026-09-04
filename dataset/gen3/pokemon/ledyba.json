@@ -28,6 +28,7 @@
     "Swarm",
     "Early Bird"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 20,

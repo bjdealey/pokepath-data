@@ -26,6 +26,12 @@
   "abilities": [
     "PickUp"
   ],
+  "wildItems": [
+    {
+      "item": "Oran Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 38,
     "attack": 30,

@@ -7,6 +7,36 @@
   "sellPrice": 300,
   "source": {
     "url": "https://www.serebii.net/itemdex/greatball.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.533Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.602Z"
+  },
+  "foundAt": [
+    {
+      "location": "route109",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route110",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route115",
+      "method": "Floor"
+    },
+    {
+      "location": "route117",
+      "method": "Floor"
+    },
+    {
+      "location": "jaggedpass",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "petalburgwoods",
+      "method": "Gift from Man"
+    },
+    {
+      "location": "rustborocity",
+      "method": "Gift"
+    }
+  ]
 }

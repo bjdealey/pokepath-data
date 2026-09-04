@@ -27,6 +27,7 @@
   "abilities": [
     "Marvel Scale"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 95,
     "attack": 60,

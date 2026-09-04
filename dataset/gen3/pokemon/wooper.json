@@ -29,6 +29,7 @@
     "Damp",
     "Water Absorb"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 55,
     "attack": 45,

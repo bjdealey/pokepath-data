@@ -28,6 +28,7 @@
     "Rock Head",
     "Sturdy"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 35,
     "attack": 45,

@@ -7,6 +7,12 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/exp-share.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.471Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.546Z"
+  },
+  "foundAt": [
+    {
+      "location": "rustborocity",
+      "method": "Gift"
+    }
+  ]
 }

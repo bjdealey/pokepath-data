@@ -7,6 +7,20 @@
   "sellPrice": 350,
   "source": {
     "url": "https://www.serebii.net/itemdex/superpotion.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.351Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.528Z"
+  },
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route115",
+      "method": "Floor"
+    },
+    {
+      "location": "route116",
+      "method": "Itemfinder"
+    }
+  ]
 }

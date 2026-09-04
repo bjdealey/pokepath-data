@@ -28,6 +28,7 @@
   "abilities": [
     "Thick Fat"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 40,

@@ -1,5 +1,39 @@
 {
   "slug": "hypercutter",
   "name": "Hyper Cutter",
-  "effect": "The Pokémon’s Attack cannot be Lowered by Opponent"
+  "effect": "The Pokémon’s Attack cannot be Lowered by Opponent",
+  "pokemon": [
+    {
+      "slug": "krabby",
+      "natdex": 98
+    },
+    {
+      "slug": "kingler",
+      "natdex": 99
+    },
+    {
+      "slug": "pinsir",
+      "natdex": 127
+    },
+    {
+      "slug": "gligar",
+      "natdex": 207
+    },
+    {
+      "slug": "mawile",
+      "natdex": 303
+    },
+    {
+      "slug": "trapinch",
+      "natdex": 328
+    },
+    {
+      "slug": "corphish",
+      "natdex": 341
+    },
+    {
+      "slug": "crawdaunt",
+      "natdex": 342
+    }
+  ]
 }

@@ -27,6 +27,7 @@
   "abilities": [
     "Speed Boost"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 61,
     "attack": 90,

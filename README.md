@@ -19,7 +19,8 @@ node src/run.ts typechart          # derive the Gen-3 type chart from Pokémon d
 node src/run.ts abilities          # derive the canonical Gen-3 abilities collection (after pokemon)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
-node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
+node src/run.ts itemdex            # scrape item definitions (effect+price) for those items + wild-held items (after `items`)
+node src/run.ts itemlinks          # bake heldBy (wild holders) + foundAt (locations) into items (after pokemon+items+itemdex)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 node src/run.ts connectivity       # crawl pokearth exits → Hoenn location graph
 node src/run.ts gifts              # starter trio + gift/egg/fossil Pokémon (pokearth gift tables)
@@ -94,10 +95,14 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   Curse's Serebii type is mapped to Gen-3 **`???`** (typeless), and the 18 Colosseum/XD
   **Shadow** moves are tagged **`gameExclusive`** (filter with `/moves?core=true`).
 - ✅ `itemdex` — item **definitions** (name, category, **In-Depth Effect**, purchase/sell
-  price) for the 164 items findable in Emerald, from `/itemdex/<slug>.shtml`. Canonical at
+  price) for the 164 items findable in Emerald **plus the wild-held-only items** (Light Ball,
+  Metal Coat, …) that no location drops (181 total), from `/itemdex/<slug>.shtml`. Canonical at
   `dataset/items/<slug>.json`; slugs match the location items — `games/emerald/items.json`
   says *where*, this says *what it does*. Price is Serebii's ItemDex value (not gen-scoped,
-  so latest where an item's price changed across gens).
+  so latest where an item's price changed across gens). `itemlinks` then bakes two reverse-
+  indexes into each item (no network): **`heldBy`** — the wild Pokémon that carry it + drop
+  rate (inverting each Pokémon's Emerald `wildItems`) — and **`foundAt`** — the locations it's
+  found at + method (inverting the location items). 45 items are held by wild Pokémon.
 - ✅ `machines` — the canonical Gen-3 **TM/HM → move table** (`dataset/machines.json`,
   58 = 50 TMs + 8 HMs), derived by inverting the machine learnsets (no network). Each
   carries the move + type/category and its Emerald source (gym-badge reward or on-ground
@@ -114,6 +119,8 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   **Game-specific**: Serebii's live AbilityDex is current-gen (its Sturdy is the Gen-5 effect),
   so this is built from the Gen-3 pokedex pages instead — Sturdy here is the Gen-3 "OHKO moves
   fail". Pokémon reference abilities by name; the effect lives here once, not duplicated per mon.
+  Each ability also carries **`pokemon`** — the reverse-index of which Pokémon can have it (like
+  a move's `learnedBy`), derived in the same pass.
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

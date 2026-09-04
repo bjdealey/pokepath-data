@@ -28,6 +28,7 @@
     "Shed Skin",
     "Intimidate"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 35,
     "attack": 60,

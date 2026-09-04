@@ -1,5 +1,43 @@
 {
   "slug": "torrent",
   "name": "Torrent",
-  "effect": "When the Pokémon’s HP Gets Low, It's Water type attack's power is multiplied by 1.5"
+  "effect": "When the Pokémon’s HP Gets Low, It's Water type attack's power is multiplied by 1.5",
+  "pokemon": [
+    {
+      "slug": "squirtle",
+      "natdex": 7
+    },
+    {
+      "slug": "wartortle",
+      "natdex": 8
+    },
+    {
+      "slug": "blastoise",
+      "natdex": 9
+    },
+    {
+      "slug": "totodile",
+      "natdex": 158
+    },
+    {
+      "slug": "croconaw",
+      "natdex": 159
+    },
+    {
+      "slug": "feraligatr",
+      "natdex": 160
+    },
+    {
+      "slug": "mudkip",
+      "natdex": 258
+    },
+    {
+      "slug": "marshtomp",
+      "natdex": 259
+    },
+    {
+      "slug": "swampert",
+      "natdex": 260
+    }
+  ]
 }

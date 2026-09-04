@@ -7,6 +7,36 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/pechaberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.003Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.135Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "rate": 5
+    },
+    {
+      "pokemon": "mightyena",
+      "natdex": 262,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route102",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route112",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route120",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Berry Tree"
+    }
+  ]
 }

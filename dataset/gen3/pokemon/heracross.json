@@ -28,6 +28,7 @@
     "Swarm",
     "Guts"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 125,

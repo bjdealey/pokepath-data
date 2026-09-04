@@ -27,6 +27,12 @@
   "abilities": [
     "Shed Skin"
   ],
+  "wildItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 61,
     "attack": 84,

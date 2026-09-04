@@ -7,6 +7,12 @@
   "sellPrice": null,
   "source": {
     "url": "https://www.serebii.net/itemdex/escaperope.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.456Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.529Z"
+  },
+  "foundAt": [
+    {
+      "location": "newmauville",
+      "method": "Floor"
+    }
+  ]
 }

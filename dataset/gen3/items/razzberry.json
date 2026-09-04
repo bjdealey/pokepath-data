@@ -7,6 +7,20 @@
   "sellPrice": 10,
   "source": {
     "url": "https://www.serebii.net/itemdex/razzberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.160Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.318Z"
+  },
+  "foundAt": [
+    {
+      "location": "route111",
+      "method": "Gift"
+    },
+    {
+      "location": "route114",
+      "method": "Gift from Daily Berry"
+    },
+    {
+      "location": "route120",
+      "method": "Berry Tree"
+    }
+  ]
 }

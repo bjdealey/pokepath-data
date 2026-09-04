@@ -27,6 +27,7 @@
     "Sand Veil",
     "Arena Trap"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 35,
     "attack": 80,

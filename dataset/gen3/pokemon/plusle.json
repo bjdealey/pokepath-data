@@ -26,6 +26,7 @@
   "abilities": [
     "Plus"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 60,
     "attack": 50,

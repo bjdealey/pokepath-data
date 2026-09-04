@@ -1,5 +1,19 @@
 {
   "slug": "magnetpull",
   "name": "Magnet Pull",
-  "effect": "Steel type Pokémon cannot escape from battle"
+  "effect": "Steel type Pokémon cannot escape from battle",
+  "pokemon": [
+    {
+      "slug": "magnemite",
+      "natdex": 81
+    },
+    {
+      "slug": "magneton",
+      "natdex": 82
+    },
+    {
+      "slug": "nosepass",
+      "natdex": 299
+    }
+  ]
 }

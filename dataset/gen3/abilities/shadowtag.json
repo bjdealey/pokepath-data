@@ -1,5 +1,15 @@
 {
   "slug": "shadowtag",
   "name": "Shadow Tag",
-  "effect": "The Opponent cannot Run or Switch"
+  "effect": "The Opponent cannot Run or Switch",
+  "pokemon": [
+    {
+      "slug": "wobbuffet",
+      "natdex": 202
+    },
+    {
+      "slug": "wynaut",
+      "natdex": 360
+    }
+  ]
 }

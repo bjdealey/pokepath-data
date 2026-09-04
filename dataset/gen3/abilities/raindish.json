@@ -1,5 +1,19 @@
 {
   "slug": "raindish",
   "name": "Rain Dish",
-  "effect": "When Rain Dance is in effect, the Pokémon recovers 1/16th of it's max hit-points"
+  "effect": "When Rain Dance is in effect, the Pokémon recovers 1/16th of it's max hit-points",
+  "pokemon": [
+    {
+      "slug": "lotad",
+      "natdex": 270
+    },
+    {
+      "slug": "lombre",
+      "natdex": 271
+    },
+    {
+      "slug": "ludicolo",
+      "natdex": 272
+    }
+  ]
 }

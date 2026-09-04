@@ -29,6 +29,7 @@
     "Hyper Cutter",
     "Shell Armor"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 63,
     "attack": 120,

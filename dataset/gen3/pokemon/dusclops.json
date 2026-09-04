@@ -26,6 +26,12 @@
   "abilities": [
     "Pressure"
   ],
+  "wildItems": [
+    {
+      "item": "Spell Tag",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 40,
     "attack": 70,

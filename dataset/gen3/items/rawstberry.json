@@ -7,6 +7,62 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/rawstberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.153Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.310Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "vulpix",
+      "natdex": 37,
+      "rate": 100
+    },
+    {
+      "pokemon": "ninetales",
+      "natdex": 38,
+      "rate": 100
+    },
+    {
+      "pokemon": "growlithe",
+      "natdex": 58,
+      "rate": 100
+    },
+    {
+      "pokemon": "arcanine",
+      "natdex": 59,
+      "rate": 100
+    },
+    {
+      "pokemon": "magmar",
+      "natdex": 126,
+      "rate": 100
+    },
+    {
+      "pokemon": "magby",
+      "natdex": 240,
+      "rate": 100
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "rate": 100
+    },
+    {
+      "pokemon": "camerupt",
+      "natdex": 323,
+      "rate": 100
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route112",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route121",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Berry Tree"
+    }
+  ]
 }

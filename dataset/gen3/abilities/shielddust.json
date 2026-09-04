@@ -1,5 +1,27 @@
 {
   "slug": "shielddust",
   "name": "Shield Dust",
-  "effect": "Prevents the Pokémon from being hit by additional effects of moves."
+  "effect": "Prevents the Pokémon from being hit by additional effects of moves.",
+  "pokemon": [
+    {
+      "slug": "caterpie",
+      "natdex": 10
+    },
+    {
+      "slug": "weedle",
+      "natdex": 13
+    },
+    {
+      "slug": "venomoth",
+      "natdex": 49
+    },
+    {
+      "slug": "wurmple",
+      "natdex": 265
+    },
+    {
+      "slug": "dustox",
+      "natdex": 269
+    }
+  ]
 }

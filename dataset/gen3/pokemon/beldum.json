@@ -24,6 +24,12 @@
   "abilities": [
     "Clear Body"
   ],
+  "wildItems": [
+    {
+      "item": "Metal Coat",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 40,
     "attack": 55,

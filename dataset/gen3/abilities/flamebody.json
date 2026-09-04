@@ -1,5 +1,23 @@
 {
   "slug": "flamebody",
   "name": "Flame Body",
-  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Burned"
+  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Burned",
+  "pokemon": [
+    {
+      "slug": "magmar",
+      "natdex": 126
+    },
+    {
+      "slug": "slugma",
+      "natdex": 218
+    },
+    {
+      "slug": "magcargo",
+      "natdex": 219
+    },
+    {
+      "slug": "magby",
+      "natdex": 240
+    }
+  ]
 }

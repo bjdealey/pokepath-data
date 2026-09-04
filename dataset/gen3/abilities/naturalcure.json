@@ -1,5 +1,43 @@
 {
   "slug": "naturalcure",
   "name": "Natural Cure",
-  "effect": "Status Conditions are healed when withdrawn from Battle"
+  "effect": "Status Conditions are healed when withdrawn from Battle",
+  "pokemon": [
+    {
+      "slug": "chansey",
+      "natdex": 113
+    },
+    {
+      "slug": "staryu",
+      "natdex": 120
+    },
+    {
+      "slug": "starmie",
+      "natdex": 121
+    },
+    {
+      "slug": "corsola",
+      "natdex": 222
+    },
+    {
+      "slug": "blissey",
+      "natdex": 242
+    },
+    {
+      "slug": "celebi",
+      "natdex": 251
+    },
+    {
+      "slug": "roselia",
+      "natdex": 315
+    },
+    {
+      "slug": "swablu",
+      "natdex": 333
+    },
+    {
+      "slug": "altaria",
+      "natdex": 334
+    }
+  ]
 }

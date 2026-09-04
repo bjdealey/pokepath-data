@@ -7,6 +7,12 @@
   "sellPrice": 10000,
   "source": {
     "url": "https://www.serebii.net/itemdex/whiteherb.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.695Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.969Z"
+  },
+  "foundAt": [
+    {
+      "location": "route104",
+      "method": "Gift from Woman"
+    }
+  ]
 }

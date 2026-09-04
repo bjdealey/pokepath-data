@@ -29,6 +29,12 @@
     "Natural Cure",
     "Poison Point"
   ],
+  "wildItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 50,
     "attack": 60,

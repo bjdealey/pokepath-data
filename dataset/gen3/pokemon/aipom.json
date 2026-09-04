@@ -27,6 +27,7 @@
     "Run Away",
     "PickUp"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 55,
     "attack": 70,

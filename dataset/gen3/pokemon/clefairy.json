@@ -26,6 +26,16 @@
   "abilities": [
     "Cute Charm"
   ],
+  "wildItems": [
+    {
+      "item": "Leppa Berry",
+      "rate": 50
+    },
+    {
+      "item": "Moon Stone",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 45,

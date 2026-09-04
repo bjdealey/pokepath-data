@@ -1,5 +1,15 @@
 {
   "slug": "cloudnine",
   "name": "Cloud Nine",
-  "effect": "No Weather Effects can work in battle"
+  "effect": "No Weather Effects can work in battle",
+  "pokemon": [
+    {
+      "slug": "psyduck",
+      "natdex": 54
+    },
+    {
+      "slug": "golduck",
+      "natdex": 55
+    }
+  ]
 }

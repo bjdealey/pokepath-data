@@ -23,6 +23,12 @@
   "abilities": [
     "Limber"
   ],
+  "wildItems": [
+    {
+      "item": "Metal Powder",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 48,
     "attack": 48,

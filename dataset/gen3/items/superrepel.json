@@ -7,6 +7,16 @@
   "sellPrice": 250,
   "source": {
     "url": "https://www.serebii.net/itemdex/superrepel.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.359Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.537Z"
+  },
+  "foundAt": [
+    {
+      "location": "route119",
+      "method": "Floor"
+    },
+    {
+      "location": "route123",
+      "method": "Itemfinder"
+    }
+  ]
 }

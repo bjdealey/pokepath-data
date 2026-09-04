@@ -7,6 +7,28 @@
   "sellPrice": 750,
   "source": {
     "url": "https://www.serebii.net/itemdex/hyperpotion.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.661Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.764Z"
+  },
+  "foundAt": [
+    {
+      "location": "route118",
+      "method": "Floor"
+    },
+    {
+      "location": "route119",
+      "method": "Floor"
+    },
+    {
+      "location": "route120",
+      "method": "Floor"
+    },
+    {
+      "location": "route123",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "shoalcave",
+      "method": "Floor"
+    }
+  ]
 }

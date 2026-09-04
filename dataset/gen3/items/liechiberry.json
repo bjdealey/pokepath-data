@@ -7,6 +7,12 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/liechiberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.750Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.865Z"
+  },
+  "foundAt": [
+    {
+      "location": "mirageisland",
+      "method": "Berry Tree"
+    }
+  ]
 }

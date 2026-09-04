@@ -7,6 +7,12 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/deepseatooth.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.401Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.465Z"
+  },
+  "foundAt": [
+    {
+      "location": "slateportcity",
+      "method": "Gift from Capt Stern"
+    }
+  ]
 }

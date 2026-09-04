@@ -7,6 +7,62 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/oranberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.950Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.087Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "rate": 50
+    },
+    {
+      "pokemon": "raichu",
+      "natdex": 26,
+      "rate": 5
+    },
+    {
+      "pokemon": "sentret",
+      "natdex": 161,
+      "rate": 5
+    },
+    {
+      "pokemon": "furret",
+      "natdex": 162,
+      "rate": 50
+    },
+    {
+      "pokemon": "pichu",
+      "natdex": 172,
+      "rate": 5
+    },
+    {
+      "pokemon": "shuckle",
+      "natdex": 213,
+      "rate": 100
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "rate": 5
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "rate": 50
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route102",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route104",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route111",
+      "method": "Berry Tree"
+    }
+  ]
 }

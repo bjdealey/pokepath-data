@@ -27,6 +27,12 @@
   "abilities": [
     "Intimidate"
   ],
+  "wildItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 95,
     "attack": 135,

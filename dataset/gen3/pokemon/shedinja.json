@@ -24,6 +24,7 @@
   "abilities": [
     "Wonder Guard"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 1,
     "attack": 90,

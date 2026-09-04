@@ -7,6 +7,36 @@
   "sellPrice": 200,
   "source": {
     "url": "https://www.serebii.net/itemdex/fullheal.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.490Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.565Z"
+  },
+  "foundAt": [
+    {
+      "location": "route110",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route119",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route120",
+      "method": "Floor"
+    },
+    {
+      "location": "route121",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "jaggedpass",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "newmauville",
+      "method": "Floor"
+    },
+    {
+      "location": "victoryroad",
+      "method": "Floor"
+    }
+  ]
 }

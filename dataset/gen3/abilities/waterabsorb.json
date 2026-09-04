@@ -1,5 +1,43 @@
 {
   "slug": "waterabsorb",
   "name": "Water Absorb",
-  "effect": "The Pokémon is healed by up to 25% of Max HP when hit by Water Attacks."
+  "effect": "The Pokémon is healed by up to 25% of Max HP when hit by Water Attacks.",
+  "pokemon": [
+    {
+      "slug": "poliwag",
+      "natdex": 60
+    },
+    {
+      "slug": "poliwhirl",
+      "natdex": 61
+    },
+    {
+      "slug": "poliwrath",
+      "natdex": 62
+    },
+    {
+      "slug": "lapras",
+      "natdex": 131
+    },
+    {
+      "slug": "vaporeon",
+      "natdex": 134
+    },
+    {
+      "slug": "politoed",
+      "natdex": 186
+    },
+    {
+      "slug": "wooper",
+      "natdex": 194
+    },
+    {
+      "slug": "quagsire",
+      "natdex": 195
+    },
+    {
+      "slug": "mantine",
+      "natdex": 226
+    }
+  ]
 }

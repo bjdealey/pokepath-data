@@ -1,5 +1,43 @@
 {
   "slug": "poisonpoint",
   "name": "Poison Point",
-  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Poisoned"
+  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Poisoned",
+  "pokemon": [
+    {
+      "slug": "nidoran-f",
+      "natdex": 29
+    },
+    {
+      "slug": "nidorina",
+      "natdex": 30
+    },
+    {
+      "slug": "nidoqueen",
+      "natdex": 31
+    },
+    {
+      "slug": "nidoran-m",
+      "natdex": 32
+    },
+    {
+      "slug": "nidorino",
+      "natdex": 33
+    },
+    {
+      "slug": "nidoking",
+      "natdex": 34
+    },
+    {
+      "slug": "seadra",
+      "natdex": 117
+    },
+    {
+      "slug": "qwilfish",
+      "natdex": 211
+    },
+    {
+      "slug": "roselia",
+      "natdex": 315
+    }
+  ]
 }

@@ -23,6 +23,7 @@
   "abilities": [
     "Clear Body"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 100,

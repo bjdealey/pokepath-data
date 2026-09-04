@@ -27,6 +27,7 @@
   "abilities": [
     "Rough Skin"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 45,
     "attack": 90,

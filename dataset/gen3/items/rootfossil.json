@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/rootfossil.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.204Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.362Z"
+  },
+  "foundAt": [
+    {
+      "location": "route111",
+      "method": "Floor"
+    }
+  ]
 }

@@ -7,6 +7,32 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/potion.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.063Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.199Z"
+  },
+  "foundAt": [
+    {
+      "location": "route102",
+      "method": "Floor"
+    },
+    {
+      "location": "route104",
+      "method": "Floor"
+    },
+    {
+      "location": "route104",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route116",
+      "method": "Floor"
+    },
+    {
+      "location": "oldaletown",
+      "method": "Gift"
+    },
+    {
+      "location": "petalburgwoods",
+      "method": "Itemfinder"
+    }
+  ]
 }

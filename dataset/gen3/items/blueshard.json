@@ -7,6 +7,19 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/blueshard.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.294Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.349Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route126",
+      "method": "Itemfinder"
+    }
+  ]
 }

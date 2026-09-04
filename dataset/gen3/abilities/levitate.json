@@ -1,5 +1,75 @@
 {
   "slug": "levitate",
   "name": "Levitate",
-  "effect": "Ground Type attacks won't work on the Pokémon"
+  "effect": "Ground Type attacks won't work on the Pokémon",
+  "pokemon": [
+    {
+      "slug": "gastly",
+      "natdex": 92
+    },
+    {
+      "slug": "haunter",
+      "natdex": 93
+    },
+    {
+      "slug": "gengar",
+      "natdex": 94
+    },
+    {
+      "slug": "koffing",
+      "natdex": 109
+    },
+    {
+      "slug": "weezing",
+      "natdex": 110
+    },
+    {
+      "slug": "misdreavus",
+      "natdex": 200
+    },
+    {
+      "slug": "unown",
+      "natdex": 201
+    },
+    {
+      "slug": "vibrava",
+      "natdex": 329
+    },
+    {
+      "slug": "flygon",
+      "natdex": 330
+    },
+    {
+      "slug": "lunatone",
+      "natdex": 337
+    },
+    {
+      "slug": "solrock",
+      "natdex": 338
+    },
+    {
+      "slug": "baltoy",
+      "natdex": 343
+    },
+    {
+      "slug": "claydol",
+      "natdex": 344
+    },
+    {
+      "slug": "duskull",
+      "natdex": 355
+    },
+    {
+      "slug": "chimecho",
+      "natdex": 358
+    },
+    {
+      "slug": "latias",
+      "natdex": 380
+    },
+    {
+      "slug": "latios",
+      "natdex": 381
+    }
+  ]
 }

@@ -7,6 +7,12 @@
   "sellPrice": null,
   "source": {
     "url": "https://www.serebii.net/itemdex/hm04.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.617Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.712Z"
+  },
+  "foundAt": [
+    {
+      "location": "rusturftunnel",
+      "method": "Gift"
+    }
+  ]
 }

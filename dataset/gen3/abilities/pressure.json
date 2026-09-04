@@ -1,5 +1,59 @@
 {
   "slug": "pressure",
   "name": "Pressure",
-  "effect": "The Opponent's Moves against the Pokémon use 2 PP instead of 1"
+  "effect": "The Opponent's Moves against the Pokémon use 2 PP instead of 1",
+  "pokemon": [
+    {
+      "slug": "aerodactyl",
+      "natdex": 142
+    },
+    {
+      "slug": "articuno",
+      "natdex": 144
+    },
+    {
+      "slug": "zapdos",
+      "natdex": 145
+    },
+    {
+      "slug": "moltres",
+      "natdex": 146
+    },
+    {
+      "slug": "mewtwo",
+      "natdex": 150
+    },
+    {
+      "slug": "raikou",
+      "natdex": 243
+    },
+    {
+      "slug": "entei",
+      "natdex": 244
+    },
+    {
+      "slug": "suicune",
+      "natdex": 245
+    },
+    {
+      "slug": "lugia",
+      "natdex": 249
+    },
+    {
+      "slug": "ho-oh",
+      "natdex": 250
+    },
+    {
+      "slug": "dusclops",
+      "natdex": 356
+    },
+    {
+      "slug": "absol",
+      "natdex": 359
+    },
+    {
+      "slug": "deoxys",
+      "natdex": 386
+    }
+  ]
 }

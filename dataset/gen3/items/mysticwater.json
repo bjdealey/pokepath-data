@@ -1,0 +1,19 @@
+{
+  "slug": "mysticwater",
+  "name": "Mystic Water",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Water-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Water-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/mysticwater.shtml",
+    "scrapedAt": "2026-09-04T22:27:59.366Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "castform",
+      "natdex": 351,
+      "rate": 100
+    }
+  ]
+}

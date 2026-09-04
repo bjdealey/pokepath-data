@@ -27,6 +27,12 @@
   "abilities": [
     "Magma Armor"
   ],
+  "wildItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 100,

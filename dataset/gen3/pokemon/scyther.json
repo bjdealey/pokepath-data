@@ -27,6 +27,7 @@
   "abilities": [
     "Swarm"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 110,

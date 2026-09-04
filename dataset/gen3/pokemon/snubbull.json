@@ -28,6 +28,7 @@
     "Intimidate",
     "Run Away"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 60,
     "attack": 80,

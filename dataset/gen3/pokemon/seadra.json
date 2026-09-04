@@ -27,6 +27,12 @@
   "abilities": [
     "Poison Point"
   ],
+  "wildItems": [
+    {
+      "item": "Dragon Scale",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 55,
     "attack": 65,

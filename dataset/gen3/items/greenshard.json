@@ -7,6 +7,19 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/greenshard.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.539Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.609Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route124",
+      "method": "Itemfinder"
+    }
+  ]
 }

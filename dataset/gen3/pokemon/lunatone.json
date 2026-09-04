@@ -24,6 +24,12 @@
   "abilities": [
     "Levitate"
   ],
+  "wildItems": [
+    {
+      "item": "Moon Stone",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 55,

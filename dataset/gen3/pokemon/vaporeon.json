@@ -26,6 +26,7 @@
   "abilities": [
     "Water Absorb"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 130,
     "attack": 65,

@@ -24,6 +24,7 @@
   "abilities": [
     "Levitate"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 40,

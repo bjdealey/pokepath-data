@@ -27,6 +27,7 @@
   "abilities": [
     "Keen Eye"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 83,
     "attack": 80,

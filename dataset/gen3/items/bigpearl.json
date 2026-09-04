@@ -7,6 +7,46 @@
   "sellPrice": 8000,
   "source": {
     "url": "https://www.serebii.net/itemdex/bigpearl.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.264Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.314Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "shellder",
+      "natdex": 90,
+      "rate": 5
+    },
+    {
+      "pokemon": "cloyster",
+      "natdex": 91,
+      "rate": 5
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "rate": 5
+    },
+    {
+      "pokemon": "swalot",
+      "natdex": 317,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route105",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route124",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route126",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "route133",
+      "method": "Floor"
+    }
+  ]
 }

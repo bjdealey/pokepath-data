@@ -1,5 +1,27 @@
 {
   "slug": "hustle",
   "name": "Hustle",
-  "effect": "The Pokémon’s Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
+  "effect": "The Pokémon’s Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%",
+  "pokemon": [
+    {
+      "slug": "togepi",
+      "natdex": 175
+    },
+    {
+      "slug": "togetic",
+      "natdex": 176
+    },
+    {
+      "slug": "corsola",
+      "natdex": 222
+    },
+    {
+      "slug": "remoraid",
+      "natdex": 223
+    },
+    {
+      "slug": "delibird",
+      "natdex": 225
+    }
+  ]
 }

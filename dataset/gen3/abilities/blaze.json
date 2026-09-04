@@ -1,5 +1,43 @@
 {
   "slug": "blaze",
   "name": "Blaze",
-  "effect": "When the Pokémon’s HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
+  "effect": "When the Pokémon’s HP Gets Low, It's Fire type attack's power is multiplied by 1.5",
+  "pokemon": [
+    {
+      "slug": "charmander",
+      "natdex": 4
+    },
+    {
+      "slug": "charmeleon",
+      "natdex": 5
+    },
+    {
+      "slug": "charizard",
+      "natdex": 6
+    },
+    {
+      "slug": "cyndaquil",
+      "natdex": 155
+    },
+    {
+      "slug": "quilava",
+      "natdex": 156
+    },
+    {
+      "slug": "typhlosion",
+      "natdex": 157
+    },
+    {
+      "slug": "torchic",
+      "natdex": 255
+    },
+    {
+      "slug": "combusken",
+      "natdex": 256
+    },
+    {
+      "slug": "blaziken",
+      "natdex": 257
+    }
+  ]
 }

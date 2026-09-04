@@ -1,0 +1,24 @@
+{
+  "slug": "thickclub",
+  "name": "Thick Club",
+  "category": "Hold Item",
+  "effect": "When this item is held by a Cubone or a Marowak, the holder's Attack stat is doubled.",
+  "price": 500,
+  "sellPrice": 250,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/thickclub.shtml",
+    "scrapedAt": "2026-09-04T22:28:09.942Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "cubone",
+      "natdex": 104,
+      "rate": 5
+    },
+    {
+      "pokemon": "marowak",
+      "natdex": 105,
+      "rate": 5
+    }
+  ]
+}

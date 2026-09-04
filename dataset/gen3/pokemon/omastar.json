@@ -29,6 +29,7 @@
     "Swift Swim",
     "Shell Armor"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 60,

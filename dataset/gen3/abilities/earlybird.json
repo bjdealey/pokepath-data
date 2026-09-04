@@ -1,5 +1,59 @@
 {
   "slug": "earlybird",
   "name": "Early Bird",
-  "effect": "If afflicted with Sleep, the Pokémon wakes up in half the time of normal"
+  "effect": "If afflicted with Sleep, the Pokémon wakes up in half the time of normal",
+  "pokemon": [
+    {
+      "slug": "doduo",
+      "natdex": 84
+    },
+    {
+      "slug": "dodrio",
+      "natdex": 85
+    },
+    {
+      "slug": "kangaskhan",
+      "natdex": 115
+    },
+    {
+      "slug": "ledyba",
+      "natdex": 165
+    },
+    {
+      "slug": "ledian",
+      "natdex": 166
+    },
+    {
+      "slug": "natu",
+      "natdex": 177
+    },
+    {
+      "slug": "xatu",
+      "natdex": 178
+    },
+    {
+      "slug": "girafarig",
+      "natdex": 203
+    },
+    {
+      "slug": "houndour",
+      "natdex": 228
+    },
+    {
+      "slug": "houndoom",
+      "natdex": 229
+    },
+    {
+      "slug": "seedot",
+      "natdex": 273
+    },
+    {
+      "slug": "nuzleaf",
+      "natdex": 274
+    },
+    {
+      "slug": "shiftry",
+      "natdex": 275
+    }
+  ]
 }

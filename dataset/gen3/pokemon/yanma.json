@@ -28,6 +28,7 @@
     "Speed Boost",
     "Compound Eyes"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 65,

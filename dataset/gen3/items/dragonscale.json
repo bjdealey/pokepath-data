@@ -1,0 +1,59 @@
+{
+  "slug": "dragonscale",
+  "name": "Dragon Scale",
+  "category": "Evolutionary",
+  "effect": "In Gold, Silver & Crystal, this hold item boosts Dragon-type moves by 10%. This item, when attached to a Pokémon and traded, evolves the following Pokémon",
+  "price": 2100,
+  "sellPrice": 1050,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/dragonscale.shtml",
+    "scrapedAt": "2026-09-04T22:27:48.846Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "rate": 5
+    },
+    {
+      "pokemon": "seadra",
+      "natdex": 117,
+      "rate": 5
+    },
+    {
+      "pokemon": "dratini",
+      "natdex": 147,
+      "rate": 5
+    },
+    {
+      "pokemon": "dragonair",
+      "natdex": 148,
+      "rate": 5
+    },
+    {
+      "pokemon": "dragonite",
+      "natdex": 149,
+      "rate": 5
+    },
+    {
+      "pokemon": "kingdra",
+      "natdex": 230,
+      "rate": 5
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "rate": 5
+    },
+    {
+      "pokemon": "shelgon",
+      "natdex": 372,
+      "rate": 5
+    },
+    {
+      "pokemon": "salamence",
+      "natdex": 373,
+      "rate": 5
+    }
+  ]
+}

@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/repeatball.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.176Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.334Z"
+  },
+  "foundAt": [
+    {
+      "location": "route116",
+      "method": "Gift from Devon Employee"
+    }
+  ]
 }

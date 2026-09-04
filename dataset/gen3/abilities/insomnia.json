@@ -1,5 +1,43 @@
 {
   "slug": "insomnia",
   "name": "Insomnia",
-  "effect": "Prevents the Pokémon from being put to Sleep"
+  "effect": "Prevents the Pokémon from being put to Sleep",
+  "pokemon": [
+    {
+      "slug": "drowzee",
+      "natdex": 96
+    },
+    {
+      "slug": "hypno",
+      "natdex": 97
+    },
+    {
+      "slug": "hoothoot",
+      "natdex": 163
+    },
+    {
+      "slug": "noctowl",
+      "natdex": 164
+    },
+    {
+      "slug": "spinarak",
+      "natdex": 167
+    },
+    {
+      "slug": "ariados",
+      "natdex": 168
+    },
+    {
+      "slug": "murkrow",
+      "natdex": 198
+    },
+    {
+      "slug": "shuppet",
+      "natdex": 353
+    },
+    {
+      "slug": "banette",
+      "natdex": 354
+    }
+  ]
 }

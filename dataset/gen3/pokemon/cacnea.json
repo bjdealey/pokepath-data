@@ -27,6 +27,12 @@
   "abilities": [
     "Sand Veil"
   ],
+  "wildItems": [
+    {
+      "item": "Poison Barb",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 50,
     "attack": 85,

@@ -1,5 +1,11 @@
 {
   "slug": "airlock",
   "name": "Air Lock",
-  "effect": "As long as the Pokémon is in battle. No Weather effects will occur"
+  "effect": "As long as the Pokémon is in battle. No Weather effects will occur",
+  "pokemon": [
+    {
+      "slug": "rayquaza",
+      "natdex": 384
+    }
+  ]
 }

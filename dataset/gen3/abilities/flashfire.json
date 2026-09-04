@@ -1,5 +1,43 @@
 {
   "slug": "flashfire",
   "name": "Flash Fire",
-  "effect": "Prevents the Pokémon from being attacked by Fire type moves, and also boosts the Fire type moves."
+  "effect": "Prevents the Pokémon from being attacked by Fire type moves, and also boosts the Fire type moves.",
+  "pokemon": [
+    {
+      "slug": "vulpix",
+      "natdex": 37
+    },
+    {
+      "slug": "ninetales",
+      "natdex": 38
+    },
+    {
+      "slug": "growlithe",
+      "natdex": 58
+    },
+    {
+      "slug": "arcanine",
+      "natdex": 59
+    },
+    {
+      "slug": "ponyta",
+      "natdex": 77
+    },
+    {
+      "slug": "rapidash",
+      "natdex": 78
+    },
+    {
+      "slug": "flareon",
+      "natdex": 136
+    },
+    {
+      "slug": "houndour",
+      "natdex": 228
+    },
+    {
+      "slug": "houndoom",
+      "natdex": 229
+    }
+  ]
 }

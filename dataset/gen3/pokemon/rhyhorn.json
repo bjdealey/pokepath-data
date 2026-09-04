@@ -29,6 +29,7 @@
     "Rock Head",
     "Lightning Rod"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 85,

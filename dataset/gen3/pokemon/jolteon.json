@@ -26,6 +26,7 @@
   "abilities": [
     "Volt Absorb"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 65,

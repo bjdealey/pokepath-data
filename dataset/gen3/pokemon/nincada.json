@@ -27,6 +27,7 @@
   "abilities": [
     "Compound Eyes"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 31,
     "attack": 45,

@@ -28,6 +28,12 @@
   "abilities": [
     "Intimidate"
   ],
+  "wildItems": [
+    {
+      "item": "Silver Powder",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 70,
     "attack": 60,

@@ -27,6 +27,7 @@
     "Static",
     "Lightning Rod"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 75,

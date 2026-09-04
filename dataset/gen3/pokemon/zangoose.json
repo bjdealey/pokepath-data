@@ -26,6 +26,7 @@
   "abilities": [
     "Immunity"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 73,
     "attack": 115,

@@ -27,6 +27,7 @@
     "Run Away",
     "Flash Fire"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 100,

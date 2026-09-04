@@ -28,6 +28,7 @@
     "Keen Eye",
     "Sturdy"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 80,

@@ -27,6 +27,7 @@
   "abilities": [
     "Shield Dust"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 35,

@@ -29,6 +29,12 @@
     "Oblivious",
     "Own Tempo"
   ],
+  "wildItems": [
+    {
+      "item": "King's Rock",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 95,
     "attack": 75,

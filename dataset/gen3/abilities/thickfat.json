@@ -1,5 +1,63 @@
 {
   "slug": "thickfat",
   "name": "Thick Fat",
-  "effect": "Fire & Ice Type moves do 50% Damage on the Pokémon"
+  "effect": "Fire & Ice Type moves do 50% Damage on the Pokémon",
+  "pokemon": [
+    {
+      "slug": "seel",
+      "natdex": 86
+    },
+    {
+      "slug": "dewgong",
+      "natdex": 87
+    },
+    {
+      "slug": "snorlax",
+      "natdex": 143
+    },
+    {
+      "slug": "marill",
+      "natdex": 183
+    },
+    {
+      "slug": "azumarill",
+      "natdex": 184
+    },
+    {
+      "slug": "miltank",
+      "natdex": 241
+    },
+    {
+      "slug": "makuhita",
+      "natdex": 296
+    },
+    {
+      "slug": "hariyama",
+      "natdex": 297
+    },
+    {
+      "slug": "azurill",
+      "natdex": 298
+    },
+    {
+      "slug": "spoink",
+      "natdex": 325
+    },
+    {
+      "slug": "grumpig",
+      "natdex": 326
+    },
+    {
+      "slug": "spheal",
+      "natdex": 363
+    },
+    {
+      "slug": "sealeo",
+      "natdex": 364
+    },
+    {
+      "slug": "walrein",
+      "natdex": 365
+    }
+  ]
 }

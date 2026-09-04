@@ -7,6 +7,28 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/aspearberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.222Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.264Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "jynx",
+      "natdex": 124,
+      "rate": 100
+    },
+    {
+      "pokemon": "smoochum",
+      "natdex": 238,
+      "rate": 100
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route120",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route121",
+      "method": "Berry Tree"
+    }
+  ]
 }

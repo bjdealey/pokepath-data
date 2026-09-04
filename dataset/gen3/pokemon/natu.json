@@ -28,6 +28,7 @@
     "Synchronize",
     "Early Bird"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 50,

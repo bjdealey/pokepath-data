@@ -7,6 +7,34 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/moonstone.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.867Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.992Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "clefairy",
+      "natdex": 35,
+      "rate": 5
+    },
+    {
+      "pokemon": "clefable",
+      "natdex": 36,
+      "rate": 5
+    },
+    {
+      "pokemon": "cleffa",
+      "natdex": 173,
+      "rate": 5
+    },
+    {
+      "pokemon": "lunatone",
+      "natdex": 337,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "meteorfalls",
+      "method": "Floor"
+    }
+  ]
 }

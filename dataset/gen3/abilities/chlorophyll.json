@@ -1,5 +1,83 @@
 {
   "slug": "chlorophyll",
   "name": "Chlorophyll",
-  "effect": "When Sunny Day is in effect, the Pokémon’s Speed is Doubled"
+  "effect": "When Sunny Day is in effect, the Pokémon’s Speed is Doubled",
+  "pokemon": [
+    {
+      "slug": "oddish",
+      "natdex": 43
+    },
+    {
+      "slug": "gloom",
+      "natdex": 44
+    },
+    {
+      "slug": "vileplume",
+      "natdex": 45
+    },
+    {
+      "slug": "bellsprout",
+      "natdex": 69
+    },
+    {
+      "slug": "weepinbell",
+      "natdex": 70
+    },
+    {
+      "slug": "victreebel",
+      "natdex": 71
+    },
+    {
+      "slug": "exeggcute",
+      "natdex": 102
+    },
+    {
+      "slug": "exeggutor",
+      "natdex": 103
+    },
+    {
+      "slug": "tangela",
+      "natdex": 114
+    },
+    {
+      "slug": "bellossom",
+      "natdex": 182
+    },
+    {
+      "slug": "hoppip",
+      "natdex": 187
+    },
+    {
+      "slug": "skiploom",
+      "natdex": 188
+    },
+    {
+      "slug": "jumpluff",
+      "natdex": 189
+    },
+    {
+      "slug": "sunkern",
+      "natdex": 191
+    },
+    {
+      "slug": "sunflora",
+      "natdex": 192
+    },
+    {
+      "slug": "seedot",
+      "natdex": 273
+    },
+    {
+      "slug": "nuzleaf",
+      "natdex": 274
+    },
+    {
+      "slug": "shiftry",
+      "natdex": 275
+    },
+    {
+      "slug": "tropius",
+      "natdex": 357
+    }
+  ]
 }

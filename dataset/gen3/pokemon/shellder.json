@@ -26,6 +26,16 @@
   "abilities": [
     "Shell Armor"
   ],
+  "wildItems": [
+    {
+      "item": "Pearl",
+      "rate": 50
+    },
+    {
+      "item": "Big Pearl",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 30,
     "attack": 65,

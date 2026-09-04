@@ -1,0 +1,29 @@
+{
+  "slug": "sharpbeak",
+  "name": "Sharp Beak",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Flying-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Flying-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/sharpbeak.shtml",
+    "scrapedAt": "2026-09-04T22:28:03.911Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "fearow",
+      "natdex": 22,
+      "rate": 5
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "rate": 5
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "rate": 5
+    }
+  ]
+}

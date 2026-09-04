@@ -27,6 +27,12 @@
   "abilities": [
     "Keen Eye"
   ],
+  "wildItems": [
+    {
+      "item": "Sharp Beak",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 65,
     "attack": 90,

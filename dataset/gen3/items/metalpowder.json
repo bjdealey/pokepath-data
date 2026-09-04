@@ -1,0 +1,19 @@
+{
+  "slug": "metalpowder",
+  "name": "Metal Powder",
+  "category": "Hold Item",
+  "effect": "When this item is held by a Ditto, the holder's initial Defence & Special Defence stats are increased by 50%",
+  "price": 10,
+  "sellPrice": 5,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/metalpowder.shtml",
+    "scrapedAt": "2026-09-04T22:27:56.342Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "ditto",
+      "natdex": 132,
+      "rate": 5
+    }
+  ]
+}

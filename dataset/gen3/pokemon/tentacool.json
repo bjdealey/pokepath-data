@@ -28,6 +28,7 @@
     "Clear Body",
     "Liquid Ooze"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 40,
     "attack": 40,

@@ -26,6 +26,12 @@
   "abilities": [
     "Shell Armor"
   ],
+  "wildItems": [
+    {
+      "item": "Blue Shard",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 35,
     "attack": 64,

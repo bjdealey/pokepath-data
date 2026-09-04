@@ -24,6 +24,7 @@
   "abilities": [
     "Air Lock"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 105,
     "attack": 150,

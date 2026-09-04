@@ -27,6 +27,12 @@
     "Immunity",
     "Thick Fat"
   ],
+  "wildItems": [
+    {
+      "item": "Leftovers",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 160,
     "attack": 110,

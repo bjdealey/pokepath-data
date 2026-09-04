@@ -7,6 +7,16 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/leafstone.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.723Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.833Z"
+  },
+  "foundAt": [
+    {
+      "location": "route119",
+      "method": "Floor"
+    },
+    {
+      "location": "route124",
+      "method": "Gift from Trade for Green Shard"
+    }
+  ]
 }

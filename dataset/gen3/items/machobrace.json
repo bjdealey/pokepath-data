@@ -7,6 +7,12 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/machobrace.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.787Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.896Z"
+  },
+  "foundAt": [
+    {
+      "location": "route111",
+      "method": "Floor"
+    }
+  ]
 }

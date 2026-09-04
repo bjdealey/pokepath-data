@@ -26,6 +26,7 @@
   "abilities": [
     "White Smoke"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 85,

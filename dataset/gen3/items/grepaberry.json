@@ -7,6 +7,12 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/grepaberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.551Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.635Z"
+  },
+  "foundAt": [
+    {
+      "location": "route123",
+      "method": "Berry Tree"
+    }
+  ]
 }

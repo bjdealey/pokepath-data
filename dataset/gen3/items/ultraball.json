@@ -7,6 +7,16 @@
   "sellPrice": 400,
   "source": {
     "url": "https://www.serebii.net/itemdex/ultraball.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.654Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.911Z"
+  },
+  "foundAt": [
+    {
+      "location": "route119",
+      "method": "Itemfinder"
+    },
+    {
+      "location": "newmauville",
+      "method": "Floor"
+    }
+  ]
 }

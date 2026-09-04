@@ -27,6 +27,7 @@
   "abilities": [
     "Suction Cups"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 75,
     "attack": 105,

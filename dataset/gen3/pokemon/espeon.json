@@ -26,6 +26,7 @@
   "abilities": [
     "Synchronize"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 65,

@@ -7,6 +7,12 @@
   "sellPrice": 2750,
   "source": {
     "url": "https://www.serebii.net/itemdex/tm50.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.645Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.901Z"
+  },
+  "foundAt": [
+    {
+      "location": "lavaridgetown",
+      "method": "Gift from Flannery"
+    }
+  ]
 }

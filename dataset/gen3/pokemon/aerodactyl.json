@@ -28,6 +28,7 @@
     "Rock Head",
     "Pressure"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 105,

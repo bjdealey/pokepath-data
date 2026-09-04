@@ -1,5 +1,75 @@
 {
   "slug": "rockhead",
   "name": "Rock Head",
-  "effect": "The Pokémon receives no Re-Coil Damage"
+  "effect": "The Pokémon receives no Re-Coil Damage",
+  "pokemon": [
+    {
+      "slug": "geodude",
+      "natdex": 74
+    },
+    {
+      "slug": "graveler",
+      "natdex": 75
+    },
+    {
+      "slug": "golem",
+      "natdex": 76
+    },
+    {
+      "slug": "onix",
+      "natdex": 95
+    },
+    {
+      "slug": "cubone",
+      "natdex": 104
+    },
+    {
+      "slug": "marowak",
+      "natdex": 105
+    },
+    {
+      "slug": "rhyhorn",
+      "natdex": 111
+    },
+    {
+      "slug": "rhydon",
+      "natdex": 112
+    },
+    {
+      "slug": "aerodactyl",
+      "natdex": 142
+    },
+    {
+      "slug": "sudowoodo",
+      "natdex": 185
+    },
+    {
+      "slug": "steelix",
+      "natdex": 208
+    },
+    {
+      "slug": "aron",
+      "natdex": 304
+    },
+    {
+      "slug": "lairon",
+      "natdex": 305
+    },
+    {
+      "slug": "aggron",
+      "natdex": 306
+    },
+    {
+      "slug": "relicanth",
+      "natdex": 369
+    },
+    {
+      "slug": "bagon",
+      "natdex": 371
+    },
+    {
+      "slug": "shelgon",
+      "natdex": 372
+    }
+  ]
 }

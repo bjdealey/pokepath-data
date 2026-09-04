@@ -1,5 +1,39 @@
 {
   "slug": "cutecharm",
   "name": "Cute Charm",
-  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Infatuated (if of opposite gender)"
+  "effect": "When a Pokémon makes contact with the Pokémon, it has a 30% chance of being Infatuated (if of opposite gender)",
+  "pokemon": [
+    {
+      "slug": "clefairy",
+      "natdex": 35
+    },
+    {
+      "slug": "clefable",
+      "natdex": 36
+    },
+    {
+      "slug": "jigglypuff",
+      "natdex": 39
+    },
+    {
+      "slug": "wigglytuff",
+      "natdex": 40
+    },
+    {
+      "slug": "cleffa",
+      "natdex": 173
+    },
+    {
+      "slug": "igglybuff",
+      "natdex": 174
+    },
+    {
+      "slug": "skitty",
+      "natdex": 300
+    },
+    {
+      "slug": "delcatty",
+      "natdex": 301
+    }
+  ]
 }

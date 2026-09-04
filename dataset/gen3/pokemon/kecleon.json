@@ -26,6 +26,12 @@
   "abilities": [
     "Color Change"
   ],
+  "wildItems": [
+    {
+      "item": "Persim Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 90,

@@ -1,0 +1,29 @@
+{
+  "slug": "twistedspoon",
+  "name": "TwistedSpoon",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Psychic-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Psychic-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/twistedspoon.shtml",
+    "scrapedAt": "2026-09-04T22:28:11.365Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "rate": 5
+    },
+    {
+      "pokemon": "kadabra",
+      "natdex": 64,
+      "rate": 5
+    },
+    {
+      "pokemon": "alakazam",
+      "natdex": 65,
+      "rate": 5
+    }
+  ]
+}

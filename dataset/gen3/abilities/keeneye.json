@@ -1,5 +1,71 @@
 {
   "slug": "keeneye",
   "name": "Keen Eye",
-  "effect": "The Pokémon’s Accuracy cannot be Lowered by Opponent"
+  "effect": "The Pokémon’s Accuracy cannot be Lowered by Opponent",
+  "pokemon": [
+    {
+      "slug": "pidgey",
+      "natdex": 16
+    },
+    {
+      "slug": "pidgeotto",
+      "natdex": 17
+    },
+    {
+      "slug": "pidgeot",
+      "natdex": 18
+    },
+    {
+      "slug": "spearow",
+      "natdex": 21
+    },
+    {
+      "slug": "fearow",
+      "natdex": 22
+    },
+    {
+      "slug": "farfetchd",
+      "natdex": 83
+    },
+    {
+      "slug": "hitmonchan",
+      "natdex": 107
+    },
+    {
+      "slug": "sentret",
+      "natdex": 161
+    },
+    {
+      "slug": "furret",
+      "natdex": 162
+    },
+    {
+      "slug": "hoothoot",
+      "natdex": 163
+    },
+    {
+      "slug": "noctowl",
+      "natdex": 164
+    },
+    {
+      "slug": "sneasel",
+      "natdex": 215
+    },
+    {
+      "slug": "skarmory",
+      "natdex": 227
+    },
+    {
+      "slug": "wingull",
+      "natdex": 278
+    },
+    {
+      "slug": "pelipper",
+      "natdex": 279
+    },
+    {
+      "slug": "sableye",
+      "natdex": 302
+    }
+  ]
 }

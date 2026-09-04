@@ -1,0 +1,19 @@
+{
+  "slug": "moomoomilk",
+  "name": "Moomoo Milk",
+  "category": "Recovery",
+  "effect": "Heals a Pokémon by 100HP",
+  "price": 600,
+  "sellPrice": 300,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/moomoomilk.shtml",
+    "scrapedAt": "2026-09-04T22:27:57.880Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "miltank",
+      "natdex": 241,
+      "rate": 100
+    }
+  ]
+}

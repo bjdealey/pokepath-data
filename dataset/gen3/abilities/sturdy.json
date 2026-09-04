@@ -1,5 +1,75 @@
 {
   "slug": "sturdy",
   "name": "Sturdy",
-  "effect": "One-Hit KO Moves will not work"
+  "effect": "One-Hit KO Moves will not work",
+  "pokemon": [
+    {
+      "slug": "geodude",
+      "natdex": 74
+    },
+    {
+      "slug": "graveler",
+      "natdex": 75
+    },
+    {
+      "slug": "golem",
+      "natdex": 76
+    },
+    {
+      "slug": "magnemite",
+      "natdex": 81
+    },
+    {
+      "slug": "magneton",
+      "natdex": 82
+    },
+    {
+      "slug": "onix",
+      "natdex": 95
+    },
+    {
+      "slug": "sudowoodo",
+      "natdex": 185
+    },
+    {
+      "slug": "pineco",
+      "natdex": 204
+    },
+    {
+      "slug": "forretress",
+      "natdex": 205
+    },
+    {
+      "slug": "steelix",
+      "natdex": 208
+    },
+    {
+      "slug": "shuckle",
+      "natdex": 213
+    },
+    {
+      "slug": "skarmory",
+      "natdex": 227
+    },
+    {
+      "slug": "donphan",
+      "natdex": 232
+    },
+    {
+      "slug": "nosepass",
+      "natdex": 299
+    },
+    {
+      "slug": "aron",
+      "natdex": 304
+    },
+    {
+      "slug": "lairon",
+      "natdex": 305
+    },
+    {
+      "slug": "aggron",
+      "natdex": 306
+    }
+  ]
 }

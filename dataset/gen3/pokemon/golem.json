@@ -28,6 +28,12 @@
     "Rock Head",
     "Sturdy"
   ],
+  "wildItems": [
+    {
+      "item": "EverStone",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 80,
     "attack": 110,

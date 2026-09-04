@@ -27,6 +27,7 @@
     "Sturdy",
     "Magnet Pull"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 30,
     "attack": 45,

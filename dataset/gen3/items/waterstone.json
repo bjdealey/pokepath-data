@@ -7,6 +7,12 @@
   "sellPrice": 1500,
   "source": {
     "url": "https://www.serebii.net/itemdex/waterstone.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.669Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.934Z"
+  },
+  "foundAt": [
+    {
+      "location": "route124",
+      "method": "Gift from Trade for Blue Shard"
+    }
+  ]
 }

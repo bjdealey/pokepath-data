@@ -7,6 +7,12 @@
   "sellPrice": 10,
   "source": {
     "url": "https://www.serebii.net/itemdex/spelonberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.305Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.473Z"
+  },
+  "foundAt": [
+    {
+      "location": "route123",
+      "method": "Gift from Berry Master's Wife"
+    }
+  ]
 }

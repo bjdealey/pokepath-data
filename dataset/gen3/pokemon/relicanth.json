@@ -29,6 +29,12 @@
     "Swift Swim",
     "Rock Head"
   ],
+  "wildItems": [
+    {
+      "item": "Green Shard",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 100,
     "attack": 90,

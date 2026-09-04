@@ -7,6 +7,12 @@
   "sellPrice": null,
   "source": {
     "url": "https://www.serebii.net/itemdex/go-goggles.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.506Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.584Z"
+  },
+  "foundAt": [
+    {
+      "location": "lavaridgetown",
+      "method": "Gift from Rival"
+    }
+  ]
 }

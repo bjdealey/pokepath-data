@@ -27,6 +27,12 @@
     "Intimidate",
     "Flash Fire"
   ],
+  "wildItems": [
+    {
+      "item": "Rawst Berry",
+      "rate": 100
+    }
+  ],
   "baseStats": {
     "hp": 90,
     "attack": 110,

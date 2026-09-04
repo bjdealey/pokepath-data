@@ -27,6 +27,12 @@
   "abilities": [
     "Own Tempo"
   ],
+  "wildItems": [
+    {
+      "item": "Chesto Berry",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 60,
     "attack": 60,

@@ -7,6 +7,12 @@
   "sellPrice": 10,
   "source": {
     "url": "https://www.serebii.net/itemdex/magostberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.803Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.913Z"
+  },
+  "foundAt": [
+    {
+      "location": "route123",
+      "method": "Gift from Berry Master"
+    }
+  ]
 }

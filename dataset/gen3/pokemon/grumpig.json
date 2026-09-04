@@ -27,6 +27,7 @@
     "Thick Fat",
     "Own Tempo"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 45,

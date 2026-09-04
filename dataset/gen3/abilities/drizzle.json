@@ -1,5 +1,11 @@
 {
   "slug": "drizzle",
   "name": "Drizzle",
-  "effect": "As the Pokémon is brought into battle, Rain begins to fall"
+  "effect": "As the Pokémon is brought into battle, Rain begins to fall",
+  "pokemon": [
+    {
+      "slug": "kyogre",
+      "natdex": 382
+    }
+  ]
 }

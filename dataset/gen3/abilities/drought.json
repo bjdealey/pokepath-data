@@ -1,5 +1,11 @@
 {
   "slug": "drought",
   "name": "Drought",
-  "effect": "As the Pokémon is brought into battle, it becomes Sunny"
+  "effect": "As the Pokémon is brought into battle, it becomes Sunny",
+  "pokemon": [
+    {
+      "slug": "groudon",
+      "natdex": 383
+    }
+  ]
 }

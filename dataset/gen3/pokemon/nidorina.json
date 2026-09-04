@@ -26,6 +26,7 @@
   "abilities": [
     "Poison Point"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 62,

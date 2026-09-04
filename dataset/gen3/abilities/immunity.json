@@ -1,5 +1,15 @@
 {
   "slug": "immunity",
   "name": "Immunity",
-  "effect": "Prevents the Pokémon from being Poisoned"
+  "effect": "Prevents the Pokémon from being Poisoned",
+  "pokemon": [
+    {
+      "slug": "snorlax",
+      "natdex": 143
+    },
+    {
+      "slug": "zangoose",
+      "natdex": 335
+    }
+  ]
 }

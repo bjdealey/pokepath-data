@@ -28,6 +28,7 @@
     "Insomnia",
     "Swarm"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 70,
     "attack": 90,

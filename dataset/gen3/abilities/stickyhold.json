@@ -1,5 +1,23 @@
 {
   "slug": "stickyhold",
   "name": "Sticky Hold",
-  "effect": "The Pokémon’s Item cannot be stolen"
+  "effect": "The Pokémon’s Item cannot be stolen",
+  "pokemon": [
+    {
+      "slug": "grimer",
+      "natdex": 88
+    },
+    {
+      "slug": "muk",
+      "natdex": 89
+    },
+    {
+      "slug": "gulpin",
+      "natdex": 316
+    },
+    {
+      "slug": "swalot",
+      "natdex": 317
+    }
+  ]
 }

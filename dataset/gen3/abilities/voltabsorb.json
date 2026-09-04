@@ -1,5 +1,19 @@
 {
   "slug": "voltabsorb",
   "name": "Volt Absorb",
-  "effect": "The Pokémon is healed by up to 25% of Max HP when hit by Electric Attacks"
+  "effect": "The Pokémon is healed by up to 25% of Max HP when hit by Electric Attacks",
+  "pokemon": [
+    {
+      "slug": "jolteon",
+      "natdex": 135
+    },
+    {
+      "slug": "chinchou",
+      "natdex": 170
+    },
+    {
+      "slug": "lanturn",
+      "natdex": 171
+    }
+  ]
 }

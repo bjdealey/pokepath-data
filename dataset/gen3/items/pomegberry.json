@@ -7,6 +7,16 @@
   "sellPrice": 40,
   "source": {
     "url": "https://www.serebii.net/itemdex/pomegberry.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.054Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.188Z"
+  },
+  "foundAt": [
+    {
+      "location": "route119",
+      "method": "Berry Tree"
+    },
+    {
+      "location": "route123",
+      "method": "Berry Tree"
+    }
+  ]
 }

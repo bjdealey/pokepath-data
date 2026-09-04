@@ -7,6 +7,19 @@
   "sellPrice": 100,
   "source": {
     "url": "https://www.serebii.net/itemdex/redshard.shtml",
-    "scrapedAt": "2026-09-03T21:27:43.169Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:46.327Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "rate": 5
+    }
+  ],
+  "foundAt": [
+    {
+      "location": "route127",
+      "method": "Itemfinder"
+    }
+  ]
 }

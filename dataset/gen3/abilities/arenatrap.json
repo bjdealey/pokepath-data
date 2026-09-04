@@ -1,5 +1,19 @@
 {
   "slug": "arenatrap",
   "name": "Arena Trap",
-  "effect": "The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
+  "effect": "The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability",
+  "pokemon": [
+    {
+      "slug": "diglett",
+      "natdex": 50
+    },
+    {
+      "slug": "dugtrio",
+      "natdex": 51
+    },
+    {
+      "slug": "trapinch",
+      "natdex": 328
+    }
+  ]
 }

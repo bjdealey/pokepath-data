@@ -7,6 +7,12 @@
   "sellPrice": 500,
   "source": {
     "url": "https://www.serebii.net/itemdex/clawfossil.shtml",
-    "scrapedAt": "2026-09-03T21:27:42.358Z"
-  }
+    "scrapedAt": "2026-09-04T22:27:45.421Z"
+  },
+  "foundAt": [
+    {
+      "location": "route111",
+      "method": "Floor"
+    }
+  ]
 }

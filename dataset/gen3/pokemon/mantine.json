@@ -28,6 +28,7 @@
     "Swift Swim",
     "Water Absorb"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 65,
     "attack": 40,

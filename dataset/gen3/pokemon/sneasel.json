@@ -28,6 +28,12 @@
     "Inner Focus",
     "Keen Eye"
   ],
+  "wildItems": [
+    {
+      "item": "Quick Claw",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 55,
     "attack": 95,

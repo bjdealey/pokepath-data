@@ -1,0 +1,39 @@
+{
+  "slug": "spelltag",
+  "name": "Spell Tag",
+  "category": "Hold Item",
+  "effect": "When this item is held, any Ghost-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Ghost-type moves is increased by 10%.",
+  "price": 3000,
+  "sellPrice": 1500,
+  "source": {
+    "url": "https://www.serebii.net/itemdex/spelltag.shtml",
+    "scrapedAt": "2026-09-04T22:28:05.370Z"
+  },
+  "heldBy": [
+    {
+      "pokemon": "misdreavus",
+      "natdex": 200,
+      "rate": 5
+    },
+    {
+      "pokemon": "shuppet",
+      "natdex": 353,
+      "rate": 5
+    },
+    {
+      "pokemon": "banette",
+      "natdex": 354,
+      "rate": 5
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "rate": 5
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "rate": 5
+    }
+  ]
+}

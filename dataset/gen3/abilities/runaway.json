@@ -1,5 +1,59 @@
 {
   "slug": "runaway",
   "name": "Run Away",
-  "effect": "The Pokémon can escape from Wild Battles"
+  "effect": "The Pokémon can escape from Wild Battles",
+  "pokemon": [
+    {
+      "slug": "rattata",
+      "natdex": 19
+    },
+    {
+      "slug": "raticate",
+      "natdex": 20
+    },
+    {
+      "slug": "ponyta",
+      "natdex": 77
+    },
+    {
+      "slug": "rapidash",
+      "natdex": 78
+    },
+    {
+      "slug": "doduo",
+      "natdex": 84
+    },
+    {
+      "slug": "dodrio",
+      "natdex": 85
+    },
+    {
+      "slug": "eevee",
+      "natdex": 133
+    },
+    {
+      "slug": "sentret",
+      "natdex": 161
+    },
+    {
+      "slug": "furret",
+      "natdex": 162
+    },
+    {
+      "slug": "aipom",
+      "natdex": 190
+    },
+    {
+      "slug": "dunsparce",
+      "natdex": 206
+    },
+    {
+      "slug": "snubbull",
+      "natdex": 209
+    },
+    {
+      "slug": "poochyena",
+      "natdex": 261
+    }
+  ]
 }

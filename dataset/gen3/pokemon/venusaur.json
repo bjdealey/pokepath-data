@@ -28,6 +28,7 @@
   "abilities": [
     "Overgrow"
   ],
+  "wildItems": [],
   "baseStats": {
     "hp": 80,
     "attack": 82,

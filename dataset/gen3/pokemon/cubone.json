@@ -27,6 +27,12 @@
     "Rock Head",
     "Lightning Rod"
   ],
+  "wildItems": [
+    {
+      "item": "Thick Club",
+      "rate": 5
+    }
+  ],
   "baseStats": {
     "hp": 50,
     "attack": 50,
