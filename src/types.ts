@@ -124,6 +124,17 @@ export interface ItemRecord {
   source: { url: string; scrapedAt: string };
 }
 
+/** A Pokémon obtained outside wild grass — the starter (Prof Birch's choice of
+ * three) or a one-off gift/egg — from a pokearth page's "Gift - Emerald" table. */
+export interface Gift {
+  pokemon: string; // slug
+  natdex: number;
+  method: "starter" | "gift"; // starter = the choosable trio; gift = a one-off handout/egg
+  level: number | null;
+  location: string; // slug
+  locationName: string;
+}
+
 /** A wild encounter from an Emerald pokearth encounter table (mon + rate + level). */
 export interface EmeraldEncounter {
   pokemon: string;

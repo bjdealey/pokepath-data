@@ -21,6 +21,7 @@ node src/run.ts items              # scrape Emerald location items (name + how o
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
 node src/run.ts trainers           # all trainers (gym/elite + route) + inferred story
 node src/run.ts connectivity       # crawl pokearth exits → Hoenn location graph
+node src/run.ts gifts              # starter trio + gift/egg/fossil Pokémon (pokearth gift tables)
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
 ```
@@ -124,8 +125,14 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   links (`North Exit: Oldale Town`). Taken from the ORAS pages (the 3rd-gen pages omit
   exits; Hoenn's topology is identical across games). A real adjacency graph for
   pathfinding — complements the level-inferred story order.
-- ⏳ Next: other generations; optional Ruby/Sapphire level enrichment for encounters
-  from `/pokearth/hoenn/3rd/`.
+- ✅ `gifts` — **Pokémon obtained outside wild grass** (`games/emerald/gifts.json`),
+  from the pokearth "Gift - Emerald" tables: the **starter trio** (Treecko/Torchic/
+  Mudkip, method `starter`), plus one-off gifts — the post-game Johto starter choice,
+  the **Wynaut egg**, **Beldum**, **Castform**, and the revived **fossils** (Lileep,
+  Anorith). 11 entries with `{ pokemon, method, level, location }`. Wild-grass catches
+  stay in `encounters`; this is the interaction/gift layer.
+- ⏳ Next: the remaining non-wild obtainables need other Serebii pages — event
+  legendaries (Kyogre/Groudon/Lati@s) and in-game trades — plus other generations.
 
 ## Notes
 

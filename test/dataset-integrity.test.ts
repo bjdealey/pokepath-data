@@ -30,6 +30,7 @@ const gameItems: Record<string, any> = readJson("games/emerald/items.json");
 const trainers: any[] = readJson("games/emerald/trainers.json");
 const story = readJson("games/emerald/story.json");
 const connections: Record<string, any> = readJson("games/emerald/connections.json");
+const gifts: any[] = readJson("games/emerald/gifts.json");
 
 // A move name resolves if it matches a record slug or a record's normalized name.
 const moveByNorm = new Set([...moves.values()].map((m) => norm(m.name)));
@@ -105,6 +106,16 @@ test("emerald trainers: unique slugs, team + movesets resolve, story spine groun
     }
   }
   for (const ms of story.milestones ?? []) assert.ok(slugs.has(ms.slug), `story milestone '${ms.name}' slug '${ms.slug}' matches no trainer`);
+});
+
+test("emerald gifts: the starter trio is present and every gift resolves", () => {
+  const starters = gifts.filter((g) => g.method === "starter").map((g) => g.pokemon).sort();
+  assert.deepEqual(starters, ["mudkip", "torchic", "treecko"], "starter trio missing/incomplete");
+  for (const g of gifts) {
+    const p = pokemon.get(g.pokemon);
+    assert.ok(p, `gift '${g.pokemon}' (${g.location}) unknown`);
+    if (g.natdex) assert.equal(p.natdex, g.natdex, `gift ${g.pokemon} natdex mismatch`);
+  }
 });
 
 test("emerald connections: no dangling exits", () => {

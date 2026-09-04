@@ -12,6 +12,7 @@ import { scrapeItems } from "./scrape/items.ts";
 import { scrapeConnectivity } from "./scrape/connectivity.ts";
 import { scrapeMoves } from "./scrape/moves.ts";
 import { scrapeItemdex } from "./scrape/itemdex.ts";
+import { scrapeGifts } from "./scrape/gifts.ts";
 import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { deriveMachines } from "./derive/machines.ts";
 import { deriveTypechart } from "./derive/typechart.ts";
@@ -127,11 +128,15 @@ if (!entity || entity === "pokemon") {
   console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/`);
   console.log(`  story: ${r.milestones} milestones + ${r.locations} locations (inferred order)`);
   if (r.unresolvedMoves.length) console.warn(`⚠ ${r.unresolvedMoves.length} trainer move(s) don't match a move record: ${r.unresolvedMoves.join(", ")}`);
+} else if (entity === "gifts") {
+  console.log(`▶ parsing pokearth gift tables (starter + gifts) for Emerald…`);
+  const r = await scrapeGifts(refresh);
+  console.log(`✔ ${r.gifts} gift/starter Pokémon ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/gifts.json`);
 } else if (entity === "manifest") {
   console.log(`▶ scanning dataset/ generations → manifest.json…`);
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", "trainers", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", or "manifest"`);
   process.exit(1);
 }
