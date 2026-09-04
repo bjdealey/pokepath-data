@@ -25,14 +25,8 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Keen Eye",
-      "description": "Skarmory's Accuracy cannot be Lowered by Opponent"
-    },
-    {
-      "name": "Sturdy",
-      "description": "One-Hit KO Moves will not work"
-    }
+    "Keen Eye",
+    "Sturdy"
   ],
   "baseStats": {
     "hp": 65,

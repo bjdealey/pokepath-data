@@ -25,14 +25,8 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Qwilfish's Speed is Doubled"
-    },
-    {
-      "name": "Poison Point",
-      "description": "When a Pokémon makes contact with Qwilfish, it has a 30% chance of being Poisoned"
-    }
+    "Swift Swim",
+    "Poison Point"
   ],
   "baseStats": {
     "hp": 65,

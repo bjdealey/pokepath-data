@@ -24,10 +24,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Drowzee from being put to Sleep"
-    }
+    "Insomnia"
   ],
   "baseStats": {
     "hp": 60,

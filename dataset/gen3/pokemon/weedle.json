@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Shield Dust",
-      "description": "Prevents Weedle from being hit by additional effects of moves."
-    }
+    "Shield Dust"
   ],
   "baseStats": {
     "hp": 40,

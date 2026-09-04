@@ -25,14 +25,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Damp",
-      "description": "No Pokémon in battle can use Self Destruct or Explosion"
-    },
-    {
-      "name": "Cloud Nine",
-      "description": "No Weather Effects can work in battle"
-    }
+    "Damp",
+    "Cloud Nine"
   ],
   "baseStats": {
     "hp": 50,

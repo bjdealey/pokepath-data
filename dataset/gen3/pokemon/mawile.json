@@ -25,14 +25,8 @@
     "Fairy"
   ],
   "abilities": [
-    {
-      "name": "Hyper Cutter",
-      "description": "Mawile's Attack cannot be Lowered by Opponent"
-    },
-    {
-      "name": "Intimidate",
-      "description": "Upon Mawile's Entry in Battle, all opponent's Attack Stats are lowered"
-    }
+    "Hyper Cutter",
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 50,

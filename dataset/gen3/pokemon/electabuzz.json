@@ -24,10 +24,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Static",
-      "description": "When a Pokémon makes contact with Electabuzz, it has a 30% chance of being Paralyzed"
-    }
+    "Static"
   ],
   "baseStats": {
     "hp": 65,

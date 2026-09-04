@@ -21,10 +21,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Synchronize",
-      "description": "When Mew is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
-    }
+    "Synchronize"
   ],
   "baseStats": {
     "hp": 100,

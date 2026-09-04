@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Speed Boost",
-      "description": "Increases Ninjask's Speed by One Level each turn"
-    }
+    "Speed Boost"
   ],
   "baseStats": {
     "hp": 61,

@@ -25,10 +25,7 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Suction Cups",
-      "description": "Cradily cannot be forced out of battle by Opponent"
-    }
+    "Suction Cups"
   ],
   "baseStats": {
     "hp": 86,

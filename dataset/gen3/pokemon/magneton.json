@@ -22,14 +22,8 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Magnet Pull",
-      "description": "Steel type Pokémon cannot escape from battle"
-    },
-    {
-      "name": "Sturdy",
-      "description": "One-Hit KO Moves will not work"
-    }
+    "Magnet Pull",
+    "Sturdy"
   ],
   "baseStats": {
     "hp": 50,

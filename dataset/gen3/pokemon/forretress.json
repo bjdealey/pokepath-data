@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Sturdy",
-      "description": "One-Hit KO Moves will not work"
-    }
+    "Sturdy"
   ],
   "baseStats": {
     "hp": 75,

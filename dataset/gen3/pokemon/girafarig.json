@@ -25,14 +25,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Inner Focus",
-      "description": "Prevents Flinching"
-    },
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Girafarig wakes up in half the time of normal"
-    }
+    "Inner Focus",
+    "Early Bird"
   ],
   "baseStats": {
     "hp": 70,

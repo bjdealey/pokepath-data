@@ -25,14 +25,8 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Clear Body",
-      "description": "Opponent's Moves that Lower Stats will not work on Tentacruel"
-    },
-    {
-      "name": "Liquid Ooze",
-      "description": "If the Opponent absorbs HP from Tentacruel, the Opponent Loses that amount of HP"
-    }
+    "Clear Body",
+    "Liquid Ooze"
   ],
   "baseStats": {
     "hp": 80,

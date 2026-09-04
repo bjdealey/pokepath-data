@@ -24,10 +24,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Thick Fat",
-      "description": "Thick Fat: Fire & Ice Type moves do 50% Damage on Azurill Huge Power: Azurill's Attack is Doubled"
-    }
+    "Thick Fat"
   ],
   "baseStats": {
     "hp": 50,

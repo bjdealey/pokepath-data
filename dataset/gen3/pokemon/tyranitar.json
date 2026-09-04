@@ -25,10 +25,7 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Sandstream",
-      "description": "As Tyranitar is brought into battle, a Sandstorm blasts."
-    }
+    "Sandstream"
   ],
   "baseStats": {
     "hp": 100,

@@ -24,10 +24,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Rock Head",
-      "description": "Shelgon receives no Re-Coil Damage"
-    }
+    "Rock Head"
   ],
   "baseStats": {
     "hp": 65,

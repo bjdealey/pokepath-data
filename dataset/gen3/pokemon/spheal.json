@@ -26,10 +26,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Thick Fat",
-      "description": "Fire & Ice Type moves do 50% Damage on Spheal"
-    }
+    "Thick Fat"
   ],
   "baseStats": {
     "hp": 70,

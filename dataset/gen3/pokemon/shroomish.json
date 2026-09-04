@@ -25,10 +25,7 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Effect Spore",
-      "description": "When a Pokémon makes contact with Shroomish it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
-    }
+    "Effect Spore"
   ],
   "baseStats": {
     "hp": 60,

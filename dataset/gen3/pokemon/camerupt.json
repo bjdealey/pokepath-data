@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Magma Armor",
-      "description": "Prevents Cameurpt rom being Frozen"
-    }
+    "Magma Armor"
   ],
   "baseStats": {
     "hp": 70,

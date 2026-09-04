@@ -26,10 +26,7 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Overgrow",
-      "description": "When Venusaur's HP Gets Low, It's Grass type attack's power is multiplied by 1.5"
-    }
+    "Overgrow"
   ],
   "baseStats": {
     "hp": 80,

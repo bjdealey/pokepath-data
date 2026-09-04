@@ -6,9 +6,13 @@ export type GameSlug =
   | "ruby" | "sapphire" | "emerald" | "firered" | "leafgreen"
   | "colosseum" | "xd";
 
-export interface Ability {
+/** A canonical Gen-3 ability definition (derived by aggregating the per-Pokémon
+ * ability text from the pokedex-rs pages — game-specific, unlike the current-gen
+ * AbilityDex). Pokémon reference these by name in `PokemonRecord.abilities`. */
+export interface AbilityRecord {
+  slug: string;
   name: string;
-  description?: string;
+  effect: string; // generic effect ("the Pokémon …"), the most common wording across its Pokémon
 }
 
 export interface BaseStats {
@@ -228,7 +232,7 @@ export interface PokemonRecord {
   captureRate?: number;
   baseEggSteps?: number;
   eggGroups: string[];
-  abilities: Ability[];
+  abilities: string[]; // ability names; definitions live in the canonical abilities collection
   baseStats: BaseStats;
   evolutionChain: string[]; // slugs of the whole family, in order
   evolutions: EvolutionEdge[]; // how each member evolves (with method)

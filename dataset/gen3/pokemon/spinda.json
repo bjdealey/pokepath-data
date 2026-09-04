@@ -25,10 +25,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Own Tempo",
-      "description": "Prevents Spinda from being Confused"
-    }
+    "Own Tempo"
   ],
   "baseStats": {
     "hp": 60,

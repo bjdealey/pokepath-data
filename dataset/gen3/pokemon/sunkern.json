@@ -24,10 +24,7 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Chlorophyll",
-      "description": "When Sunny Day is in effect, Sunkern's Speed is Doubled."
-    }
+    "Chlorophyll"
   ],
   "baseStats": {
     "hp": 30,

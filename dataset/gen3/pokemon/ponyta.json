@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Ponyta can escape from Wild Battles"
-    },
-    {
-      "name": "Flash Fire",
-      "description": "Prevents Ponyta from being attacked by Fire type moves, and also boosts the Fire type moves."
-    }
+    "Run Away",
+    "Flash Fire"
   ],
   "baseStats": {
     "hp": 50,

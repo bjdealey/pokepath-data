@@ -26,10 +26,7 @@
     "Water 1"
   ],
   "abilities": [
-    {
-      "name": "Torrent",
-      "description": "When Marshtomp's HP Gets Low, It's Water type attack's power is multiplied by 1.5"
-    }
+    "Torrent"
   ],
   "baseStats": {
     "hp": 70,

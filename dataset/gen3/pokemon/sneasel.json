@@ -25,14 +25,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Inner Focus",
-      "description": "Prevents Flinching"
-    },
-    {
-      "name": "Keen Eye",
-      "description": "Sneasel's Accuracy cannot be Lowered by Opponent"
-    }
+    "Inner Focus",
+    "Keen Eye"
   ],
   "baseStats": {
     "hp": 55,

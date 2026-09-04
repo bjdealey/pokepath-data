@@ -26,10 +26,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Natural Cure",
-      "description": "Status Conditions are healed when withdrawn from Battle"
-    }
+    "Natural Cure"
   ],
   "baseStats": {
     "hp": 45,

@@ -22,10 +22,7 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Wonder Guard",
-      "description": "Shedinja is only damaged by Super Effective Attacks"
-    }
+    "Wonder Guard"
   ],
   "baseStats": {
     "hp": 1,

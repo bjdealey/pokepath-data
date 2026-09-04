@@ -25,14 +25,8 @@
     "Fairy"
   ],
   "abilities": [
-    {
-      "name": "Intimidate",
-      "description": "Upon Snubbull's Entry in Battle, all opponent's Attack Stats are lowered"
-    },
-    {
-      "name": "Run Away",
-      "description": "Snubbull can escape from Wild Battles"
-    }
+    "Intimidate",
+    "Run Away"
   ],
   "baseStats": {
     "hp": 60,

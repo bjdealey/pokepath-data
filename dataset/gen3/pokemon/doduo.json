@@ -25,14 +25,8 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Doduo can escape from Wild Battles"
-    },
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Doduo wakes up in half the time of normal"
-    }
+    "Run Away",
+    "Early Bird"
   ],
   "baseStats": {
     "hp": 35,

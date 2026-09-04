@@ -1,0 +1,5 @@
+{
+  "slug": "synchronize",
+  "name": "Synchronize",
+  "effect": "When the Pokémon is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
+}

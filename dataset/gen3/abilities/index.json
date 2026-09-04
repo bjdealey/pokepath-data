@@ -1,0 +1,306 @@
+[
+  {
+    "slug": "airlock",
+    "name": "Air Lock"
+  },
+  {
+    "slug": "arenatrap",
+    "name": "Arena Trap"
+  },
+  {
+    "slug": "battlearmor",
+    "name": "Battle Armor"
+  },
+  {
+    "slug": "blaze",
+    "name": "Blaze"
+  },
+  {
+    "slug": "chlorophyll",
+    "name": "Chlorophyll"
+  },
+  {
+    "slug": "clearbody",
+    "name": "Clear Body"
+  },
+  {
+    "slug": "cloudnine",
+    "name": "Cloud Nine"
+  },
+  {
+    "slug": "colorchange",
+    "name": "Color Change"
+  },
+  {
+    "slug": "compoundeyes",
+    "name": "Compound Eyes"
+  },
+  {
+    "slug": "cutecharm",
+    "name": "Cute Charm"
+  },
+  {
+    "slug": "damp",
+    "name": "Damp"
+  },
+  {
+    "slug": "drizzle",
+    "name": "Drizzle"
+  },
+  {
+    "slug": "drought",
+    "name": "Drought"
+  },
+  {
+    "slug": "earlybird",
+    "name": "Early Bird"
+  },
+  {
+    "slug": "effectspore",
+    "name": "Effect Spore"
+  },
+  {
+    "slug": "flamebody",
+    "name": "Flame Body"
+  },
+  {
+    "slug": "flashfire",
+    "name": "Flash Fire"
+  },
+  {
+    "slug": "forecast",
+    "name": "Forecast"
+  },
+  {
+    "slug": "guts",
+    "name": "Guts"
+  },
+  {
+    "slug": "hugepower",
+    "name": "Huge Power"
+  },
+  {
+    "slug": "hustle",
+    "name": "Hustle"
+  },
+  {
+    "slug": "hypercutter",
+    "name": "Hyper Cutter"
+  },
+  {
+    "slug": "illuminate",
+    "name": "Illuminate"
+  },
+  {
+    "slug": "immunity",
+    "name": "Immunity"
+  },
+  {
+    "slug": "innerfocus",
+    "name": "Inner Focus"
+  },
+  {
+    "slug": "insomnia",
+    "name": "Insomnia"
+  },
+  {
+    "slug": "intimidate",
+    "name": "Intimidate"
+  },
+  {
+    "slug": "keeneye",
+    "name": "Keen Eye"
+  },
+  {
+    "slug": "levitate",
+    "name": "Levitate"
+  },
+  {
+    "slug": "lightningrod",
+    "name": "Lightning Rod"
+  },
+  {
+    "slug": "limber",
+    "name": "Limber"
+  },
+  {
+    "slug": "liquidooze",
+    "name": "Liquid Ooze"
+  },
+  {
+    "slug": "magmaarmor",
+    "name": "Magma Armor"
+  },
+  {
+    "slug": "magnetpull",
+    "name": "Magnet Pull"
+  },
+  {
+    "slug": "marvelscale",
+    "name": "Marvel Scale"
+  },
+  {
+    "slug": "minus",
+    "name": "Minus"
+  },
+  {
+    "slug": "naturalcure",
+    "name": "Natural Cure"
+  },
+  {
+    "slug": "oblivious",
+    "name": "Oblivious"
+  },
+  {
+    "slug": "overgrow",
+    "name": "Overgrow"
+  },
+  {
+    "slug": "owntempo",
+    "name": "Own Tempo"
+  },
+  {
+    "slug": "pickup",
+    "name": "PickUp"
+  },
+  {
+    "slug": "plus",
+    "name": "Plus"
+  },
+  {
+    "slug": "poisonpoint",
+    "name": "Poison Point"
+  },
+  {
+    "slug": "pressure",
+    "name": "Pressure"
+  },
+  {
+    "slug": "purepower",
+    "name": "Pure Power"
+  },
+  {
+    "slug": "raindish",
+    "name": "Rain Dish"
+  },
+  {
+    "slug": "rockhead",
+    "name": "Rock Head"
+  },
+  {
+    "slug": "roughskin",
+    "name": "Rough Skin"
+  },
+  {
+    "slug": "runaway",
+    "name": "Run Away"
+  },
+  {
+    "slug": "sandveil",
+    "name": "Sand Veil"
+  },
+  {
+    "slug": "sandstream",
+    "name": "Sandstream"
+  },
+  {
+    "slug": "serenegrace",
+    "name": "Serene Grace"
+  },
+  {
+    "slug": "shadowtag",
+    "name": "Shadow Tag"
+  },
+  {
+    "slug": "shedskin",
+    "name": "Shed Skin"
+  },
+  {
+    "slug": "shellarmor",
+    "name": "Shell Armor"
+  },
+  {
+    "slug": "shielddust",
+    "name": "Shield Dust"
+  },
+  {
+    "slug": "soundproof",
+    "name": "Soundproof"
+  },
+  {
+    "slug": "speedboost",
+    "name": "Speed Boost"
+  },
+  {
+    "slug": "static",
+    "name": "Static"
+  },
+  {
+    "slug": "stench",
+    "name": "Stench"
+  },
+  {
+    "slug": "stickyhold",
+    "name": "Sticky Hold"
+  },
+  {
+    "slug": "sturdy",
+    "name": "Sturdy"
+  },
+  {
+    "slug": "suctioncups",
+    "name": "Suction Cups"
+  },
+  {
+    "slug": "swarm",
+    "name": "Swarm"
+  },
+  {
+    "slug": "swiftswim",
+    "name": "Swift Swim"
+  },
+  {
+    "slug": "synchronize",
+    "name": "Synchronize"
+  },
+  {
+    "slug": "thickfat",
+    "name": "Thick Fat"
+  },
+  {
+    "slug": "torrent",
+    "name": "Torrent"
+  },
+  {
+    "slug": "trace",
+    "name": "Trace"
+  },
+  {
+    "slug": "truant",
+    "name": "Truant"
+  },
+  {
+    "slug": "vitalspirit",
+    "name": "Vital Spirit"
+  },
+  {
+    "slug": "voltabsorb",
+    "name": "Volt Absorb"
+  },
+  {
+    "slug": "waterabsorb",
+    "name": "Water Absorb"
+  },
+  {
+    "slug": "waterveil",
+    "name": "Water Veil"
+  },
+  {
+    "slug": "whitesmoke",
+    "name": "White Smoke"
+  },
+  {
+    "slug": "wonderguard",
+    "name": "Wonder Guard"
+  }
+]

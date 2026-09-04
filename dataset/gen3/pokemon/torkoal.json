@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "White Smoke",
-      "description": "Torkoal's Stats cannot be lowered by opponent"
-    }
+    "White Smoke"
   ],
   "baseStats": {
     "hp": 70,

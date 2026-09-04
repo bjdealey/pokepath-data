@@ -25,10 +25,7 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Rough Skin",
-      "description": "The Opponent is hurt with 1/16th of the attack's damage when it makes contact with Sharpedo"
-    }
+    "Rough Skin"
   ],
   "baseStats": {
     "hp": 70,

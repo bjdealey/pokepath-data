@@ -24,10 +24,7 @@
     "Fairy"
   ],
   "abilities": [
-    {
-      "name": "Plus",
-      "description": "When battling with Minus, Plusle's Special Attack is multiplied by 1.5"
-    }
+    "Plus"
   ],
   "baseStats": {
     "hp": 60,

@@ -25,10 +25,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Marvel Scale",
-      "description": "When Milotic is inflicted with a status condition, it's defense is raised by 50%"
-    }
+    "Marvel Scale"
   ],
   "baseStats": {
     "hp": 95,

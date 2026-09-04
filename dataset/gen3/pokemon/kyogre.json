@@ -21,10 +21,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Drizzle",
-      "description": "As Kyogre is brought into battle, Rain begins to fall"
-    }
+    "Drizzle"
   ],
   "baseStats": {
     "hp": 100,

@@ -24,14 +24,8 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Lickitung from being Infatuated"
-    },
-    {
-      "name": "Own Tempo",
-      "description": "Prevents Lickitung from being Confused"
-    }
+    "Oblivious",
+    "Own Tempo"
   ],
   "baseStats": {
     "hp": 90,

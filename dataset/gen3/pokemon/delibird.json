@@ -26,14 +26,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Hustle",
-      "description": "Delibird's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
-    },
-    {
-      "name": "Vital Spirit",
-      "description": "Delibird Cannot be put to Sleep"
-    }
+    "Hustle",
+    "Vital Spirit"
   ],
   "baseStats": {
     "hp": 45,

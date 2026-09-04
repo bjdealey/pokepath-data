@@ -24,14 +24,8 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Seaking's Speed is Doubled"
-    },
-    {
-      "name": "Water Veil",
-      "description": "Seaking cannot be Burned"
-    }
+    "Swift Swim",
+    "Water Veil"
   ],
   "baseStats": {
     "hp": 80,

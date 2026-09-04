@@ -24,14 +24,8 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Rock Head",
-      "description": "Marowak receives no Re-Coil Damage"
-    },
-    {
-      "name": "Lightning Rod",
-      "description": "All Electric Attacks are drawn to Marowak"
-    }
+    "Rock Head",
+    "Lightning Rod"
   ],
   "baseStats": {
     "hp": 60,

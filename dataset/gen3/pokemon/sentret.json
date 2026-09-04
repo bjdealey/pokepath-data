@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Sentret can escape from Wild Battles"
-    },
-    {
-      "name": "Keen Eye",
-      "description": "Sentret's Accuracy cannot be Lowered by Opponent"
-    }
+    "Run Away",
+    "Keen Eye"
   ],
   "baseStats": {
     "hp": 35,

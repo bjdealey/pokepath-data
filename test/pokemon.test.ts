@@ -8,7 +8,7 @@ import { fileURLToPath } from "node:url";
 import { parsePokemon, decodeEvoMethod } from "../src/parse/pokemon.ts";
 
 const html = readFileSync(fileURLToPath(new URL("./fixtures/pokedex-rs-001.html", import.meta.url)), "utf8");
-const { record, evoDex, evoEdges } = parsePokemon(html, "test://pokedex-rs/001");
+const { record, evoDex, evoEdges, abilityDesc } = parsePokemon(html, "test://pokedex-rs/001");
 
 test("identity + types", () => {
   assert.equal(record.name, "Bulbasaur");
@@ -31,8 +31,8 @@ test("gender ratio + physicals", () => {
 });
 
 test("abilities + egg groups", () => {
-  assert.equal(record.abilities[0]?.name, "Overgrow");
-  assert.ok(record.abilities[0]?.description);
+  assert.equal(record.abilities[0], "Overgrow"); // abilities are now names; definitions live in the collection
+  assert.ok(abilityDesc.Overgrow, "raw effect text should be surfaced for the abilities derive");
   assert.ok(record.eggGroups.includes("Monster"));
 });
 
@@ -94,5 +94,5 @@ test("genderless is normalized", () => {
 });
 
 test("two abilities split into an array", () => {
-  assert.deepEqual(magnemite.abilities.map((a) => a.name), ["Magnet Pull", "Sturdy"]);
+  assert.deepEqual(magnemite.abilities, ["Magnet Pull", "Sturdy"]);
 });

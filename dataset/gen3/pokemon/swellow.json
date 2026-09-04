@@ -25,10 +25,7 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Guts",
-      "description": "When Swellow is inflicted with a status condition, it's attack is raised by 50%"
-    }
+    "Guts"
   ],
   "baseStats": {
     "hp": 60,

@@ -26,14 +26,8 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Lombre's Speed is Doubled"
-    },
-    {
-      "name": "Rain Dish",
-      "description": "When Rain Dance is in effect, Lombre recovers 1/16th of it's max hit-points"
-    }
+    "Swift Swim",
+    "Rain Dish"
   ],
   "baseStats": {
     "hp": 60,

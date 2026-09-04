@@ -25,10 +25,7 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Whiscash from being Infatuated"
-    }
+    "Oblivious"
   ],
   "baseStats": {
     "hp": 110,

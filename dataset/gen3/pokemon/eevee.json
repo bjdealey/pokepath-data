@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Eevee can escape from Wild Battles"
-    }
+    "Run Away"
   ],
   "baseStats": {
     "hp": 55,

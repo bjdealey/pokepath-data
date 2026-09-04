@@ -24,10 +24,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Cute Charm",
-      "description": "When a Pokémon makes contact with Cleffa, it has a 30% chance of being Infatuated (if of opposite gender)"
-    }
+    "Cute Charm"
   ],
   "baseStats": {
     "hp": 50,

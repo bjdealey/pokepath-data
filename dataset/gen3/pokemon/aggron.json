@@ -25,14 +25,8 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Rock Head",
-      "description": "Aggron Receives no Re-Coil Damage"
-    },
-    {
-      "name": "Sturdy",
-      "description": "One-Hit KO Moves will not work"
-    }
+    "Rock Head",
+    "Sturdy"
   ],
   "baseStats": {
     "hp": 70,

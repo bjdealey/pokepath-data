@@ -25,14 +25,8 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Speed Boost",
-      "description": "Increases Yanma's Speed by One Level each turn"
-    },
-    {
-      "name": "Compoundeyes",
-      "description": "Raises Yanma's Accuracy by 30%"
-    }
+    "Speed Boost",
+    "Compound Eyes"
   ],
   "baseStats": {
     "hp": 65,

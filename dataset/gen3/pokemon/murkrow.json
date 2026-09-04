@@ -25,10 +25,7 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Murkrow from being put to Sleep"
-    }
+    "Insomnia"
   ],
   "baseStats": {
     "hp": 60,

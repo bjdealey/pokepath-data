@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "PickUp",
-      "description": "Has a 10% chance of finding and holding an item after battle"
-    }
+    "PickUp"
   ],
   "baseStats": {
     "hp": 40,

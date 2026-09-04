@@ -24,14 +24,8 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Immunity",
-      "description": "Prevents Snorlax from being Poisoned"
-    },
-    {
-      "name": "Thick Fat",
-      "description": "Fire & Ice Type moves do 50% Damage on Snorlax"
-    }
+    "Immunity",
+    "Thick Fat"
   ],
   "baseStats": {
     "hp": 160,

@@ -135,6 +135,7 @@ export interface ParsedPokemon {
   record: PokemonRecord;
   evoDex: number[]; // national numbers in the evolution chain; resolved to slugs later
   evoEdges: EvoEdge[]; // evolution steps (dex numbers); resolved to slugs later
+  abilityDesc: Record<string, string>; // ability name → raw effect text (for the abilities derive)
 }
 
 export function parsePokemon(html: string, url: string): ParsedPokemon {
@@ -169,7 +170,8 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
   let weightKg: number | undefined;
   let captureRate: number | undefined;
   let baseEggSteps: number | undefined;
-  const abilities: PokemonRecord["abilities"] = [];
+  const abilities: string[] = []; // ability names, in order
+  const abilityDesc: Record<string, string> = {}; // name → raw (Pokémon-specific) effect text, for the derive
 
   if (info) {
     // Name = first data cell under the "Name" header.
@@ -273,7 +275,8 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
             }
             description = clean(rest) || undefined;
           }
-          abilities.push({ name: a, description });
+          abilities.push(a);
+          if (description) abilityDesc[a] = description;
         }
       }
     }
@@ -442,5 +445,5 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     learnset: { levelUp, machine, egg, tutor },
     source: { url, scrapedAt: new Date().toISOString() },
   };
-  return { record, evoDex, evoEdges };
+  return { record, evoDex, evoEdges, abilityDesc };
 }

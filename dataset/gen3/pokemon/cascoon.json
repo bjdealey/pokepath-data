@@ -24,10 +24,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Shed Skin",
-      "description": "Every Turn Cascoon has a 1 in 3 chance of healing from a Status Condition."
-    }
+    "Shed Skin"
   ],
   "baseStats": {
     "hp": 50,

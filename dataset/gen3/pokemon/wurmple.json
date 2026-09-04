@@ -24,10 +24,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Shield Dust",
-      "description": "Prevents Wurmple from being hit by additional effects of moves."
-    }
+    "Shield Dust"
   ],
   "baseStats": {
     "hp": 45,

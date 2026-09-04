@@ -25,14 +25,8 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Hoothoot from being put to Sleep"
-    },
-    {
-      "name": "Keen Eye",
-      "description": "Hoothoot's Accuracy cannot be Lowered by Opponent"
-    }
+    "Insomnia",
+    "Keen Eye"
   ],
   "baseStats": {
     "hp": 60,

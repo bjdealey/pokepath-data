@@ -25,10 +25,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Forecast",
-      "description": "Castform's Type & Form changes depending on the weather"
-    }
+    "Forecast"
   ],
   "baseStats": {
     "hp": 70,

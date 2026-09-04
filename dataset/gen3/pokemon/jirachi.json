@@ -22,10 +22,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Serene Grace",
-      "description": "If a move has an extra effect, the chances of it occuring is doubled"
-    }
+    "Serene Grace"
   ],
   "baseStats": {
     "hp": 100,

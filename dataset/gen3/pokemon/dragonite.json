@@ -26,10 +26,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Inner Focus",
-      "description": "Prevents Flinching"
-    }
+    "Inner Focus"
   ],
   "baseStats": {
     "hp": 91,

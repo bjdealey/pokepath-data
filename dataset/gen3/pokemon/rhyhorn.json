@@ -26,14 +26,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Rock Head",
-      "description": "Rhyhorn receives no Re-Coil Damage"
-    },
-    {
-      "name": "Lightning Rod",
-      "description": "All Electric Attacks are drawn to Rhyhorn"
-    }
+    "Rock Head",
+    "Lightning Rod"
   ],
   "baseStats": {
     "hp": 80,

@@ -25,10 +25,7 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Chlorophyll",
-      "description": "When Sunny Day is in effect, Vileplume's Speed is Doubled"
-    }
+    "Chlorophyll"
   ],
   "baseStats": {
     "hp": 75,

@@ -21,10 +21,7 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Trace",
-      "description": "Copies Opponent's Ability when brought into Battle"
-    }
+    "Trace"
   ],
   "baseStats": {
     "hp": 85,

@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Rapidash can escape from Wild Battles"
-    },
-    {
-      "name": "Flash Fire",
-      "description": "Prevents Rapidash from being attacked by Fire type moves, and also boosts the Fire type moves."
-    }
+    "Run Away",
+    "Flash Fire"
   ],
   "baseStats": {
     "hp": 65,

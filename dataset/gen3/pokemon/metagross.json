@@ -22,10 +22,7 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Clear Body",
-      "description": "Opponent's Moves that Lower Stats will not work on Metagross"
-    }
+    "Clear Body"
   ],
   "baseStats": {
     "hp": 80,

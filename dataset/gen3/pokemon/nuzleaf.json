@@ -26,14 +26,8 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Chlorophyll",
-      "description": "When Sunny Day is in effect, Nuzleaf's Speed is Doubled"
-    },
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Nuzleaf wakes up in half the time of normal"
-    }
+    "Chlorophyll",
+    "Early Bird"
   ],
   "baseStats": {
     "hp": 70,

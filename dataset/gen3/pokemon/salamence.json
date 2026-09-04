@@ -25,10 +25,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Intimidate",
-      "description": "Upon Salamence's Entry in Battle, all opponent's Attacks are lowered"
-    }
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 95,

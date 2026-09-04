@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Static",
-      "description": "When a Pokémon makes contact with Manectric, it has a 30% chance of being Paralyzed"
-    },
-    {
-      "name": "Lightning Rod",
-      "description": "All Electric Attacks are drawn to Manectric"
-    }
+    "Static",
+    "Lightning Rod"
   ],
   "baseStats": {
     "hp": 70,

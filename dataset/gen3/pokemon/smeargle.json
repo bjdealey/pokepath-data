@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Own Tempo",
-      "description": "Prevents Smeargle from being Confused"
-    }
+    "Own Tempo"
   ],
   "baseStats": {
     "hp": 55,

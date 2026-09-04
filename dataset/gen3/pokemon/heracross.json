@@ -25,14 +25,8 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Swarm",
-      "description": "When Heracross' HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
-    },
-    {
-      "name": "Guts",
-      "description": "When Heracross is inflicted with a status condition, it's attack is raised by 50%"
-    }
+    "Swarm",
+    "Guts"
   ],
   "baseStats": {
     "hp": 80,

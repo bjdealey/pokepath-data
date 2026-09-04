@@ -24,14 +24,8 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Liquid Ooze",
-      "description": "If the Opponent absorbs HP from Gulpin, the Opponent Loses that amount of HP"
-    },
-    {
-      "name": "Sticky Hold",
-      "description": "Gulpin's Item cannot be stolen"
-    }
+    "Liquid Ooze",
+    "Sticky Hold"
   ],
   "baseStats": {
     "hp": 70,

@@ -26,10 +26,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Poison Point",
-      "description": "When a Pokémon makes contact with Nidoking, it has a 30% chance of being Poisoned"
-    }
+    "Poison Point"
   ],
   "baseStats": {
     "hp": 81,

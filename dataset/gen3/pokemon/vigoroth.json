@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Vital Spirit",
-      "description": "Vigoroth Cannot be put to Sleep"
-    }
+    "Vital Spirit"
   ],
   "baseStats": {
     "hp": 80,

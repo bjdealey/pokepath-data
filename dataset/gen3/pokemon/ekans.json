@@ -25,14 +25,8 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Shed Skin",
-      "description": "Every Turn Ekans has a 1 in 3 chance of healing from a Status Condition."
-    },
-    {
-      "name": "Intimidate",
-      "description": "Upon Ekans' Entry in Battle, all opponent's Attacks are lowered"
-    }
+    "Shed Skin",
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 35,

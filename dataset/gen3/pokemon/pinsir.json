@@ -24,10 +24,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Hyper Cutter",
-      "description": "Pinsir's Attack cannot be Lowered by Opponent"
-    }
+    "Hyper Cutter"
   ],
   "baseStats": {
     "hp": 65,

@@ -25,14 +25,8 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Shed Skin",
-      "description": "Every Turn Arbok has a 1 in 3 chance of healing from a Status Condition."
-    },
-    {
-      "name": "Intimidate",
-      "description": "Upon Arbok's Entry in Battle, all opponent's Attack Stats are lowered"
-    }
+    "Shed Skin",
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 60,

@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Raticate can escape from Wild Battles"
-    },
-    {
-      "name": "Guts",
-      "description": "When Raticate is inflicted with a status condition, it's attack is raised by 50%"
-    }
+    "Run Away",
+    "Guts"
   ],
   "baseStats": {
     "hp": 55,

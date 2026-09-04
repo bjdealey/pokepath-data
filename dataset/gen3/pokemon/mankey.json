@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Vital Spirit",
-      "description": "Mankey Cannot be put to Sleep"
-    }
+    "Vital Spirit"
   ],
   "baseStats": {
     "hp": 40,

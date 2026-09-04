@@ -26,14 +26,8 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Kabuto's Speed is Doubled"
-    },
-    {
-      "name": "Battle Armor",
-      "description": "The Opponent's Moves cannot Critically Hit"
-    }
+    "Swift Swim",
+    "Battle Armor"
   ],
   "baseStats": {
     "hp": 30,

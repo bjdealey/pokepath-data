@@ -25,10 +25,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Levitate",
-      "description": "Ground Type attacks won't work on Gastly"
-    }
+    "Levitate"
   ],
   "baseStats": {
     "hp": 30,

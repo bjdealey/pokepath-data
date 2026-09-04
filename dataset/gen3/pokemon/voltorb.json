@@ -21,14 +21,8 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Soundproof",
-      "description": "Voltorb is unaffected by Sound moves"
-    },
-    {
-      "name": "Static",
-      "description": "When a Pokémon makes contact with Voltorb, it has a 30% chance of being Paralyzed"
-    }
+    "Soundproof",
+    "Static"
   ],
   "baseStats": {
     "hp": 40,

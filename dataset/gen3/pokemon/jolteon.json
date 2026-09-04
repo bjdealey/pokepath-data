@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Volt Absorb",
-      "description": "Jolteon is healed by up to 25% of Max HP when hit by Electric Attacks."
-    }
+    "Volt Absorb"
   ],
   "baseStats": {
     "hp": 65,

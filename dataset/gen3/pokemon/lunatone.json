@@ -22,10 +22,7 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Levitate",
-      "description": "Ground Type attacks won't work on Lunatone"
-    }
+    "Levitate"
   ],
   "baseStats": {
     "hp": 70,

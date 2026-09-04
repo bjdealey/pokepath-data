@@ -26,10 +26,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Intimidate",
-      "description": "Upon Masquerain's Entry in Battle, all opponent's Attack Stats are lowered"
-    }
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 70,

@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Run Away",
-      "description": "Rattata can escape from Wild Battles"
-    },
-    {
-      "name": "Guts",
-      "description": "When Rattata is inflicted with a status condition, it's attack is raised by 50%"
-    }
+    "Run Away",
+    "Guts"
   ],
   "baseStats": {
     "hp": 30,

@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Soundproof",
-      "description": "Exploud is unaffected by Sound moves"
-    }
+    "Soundproof"
   ],
   "baseStats": {
     "hp": 104,

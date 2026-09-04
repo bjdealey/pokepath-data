@@ -25,14 +25,8 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Chlorophyll",
-      "description": "When Sunny Day is in effect, Seedot's Speed is Doubled"
-    },
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Seedot wakes up in half the time of normal"
-    }
+    "Chlorophyll",
+    "Early Bird"
   ],
   "baseStats": {
     "hp": 40,

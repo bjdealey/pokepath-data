@@ -24,10 +24,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Limber",
-      "description": "Hitmonlee cannot be Paralyzed"
-    }
+    "Limber"
   ],
   "baseStats": {
     "hp": 50,

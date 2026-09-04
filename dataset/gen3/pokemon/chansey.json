@@ -24,14 +24,8 @@
     "Fairy"
   ],
   "abilities": [
-    {
-      "name": "Natural Cure",
-      "description": "Status Conditions are healed when withdrawn from Battle"
-    },
-    {
-      "name": "Serene Grace",
-      "description": "If a move has an extra effect, the chances of it occuring is doubled"
-    }
+    "Natural Cure",
+    "Serene Grace"
   ],
   "baseStats": {
     "hp": 250,

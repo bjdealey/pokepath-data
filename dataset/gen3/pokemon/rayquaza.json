@@ -22,10 +22,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Air Lock",
-      "description": "As long as Rayquaza is in battle. No Weather effects will occur"
-    }
+    "Air Lock"
   ],
   "baseStats": {
     "hp": 105,

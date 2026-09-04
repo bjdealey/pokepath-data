@@ -24,10 +24,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Levitate",
-      "description": "Ground Type attacks won't work on Weezing"
-    }
+    "Levitate"
   ],
   "baseStats": {
     "hp": 65,

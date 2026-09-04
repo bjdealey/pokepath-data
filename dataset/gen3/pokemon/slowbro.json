@@ -26,14 +26,8 @@
     "Water 1"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Slowbro from being Infatuated"
-    },
-    {
-      "name": "Own Tempo",
-      "description": "Prevents Slowbro from being Confused"
-    }
+    "Oblivious",
+    "Own Tempo"
   ],
   "baseStats": {
     "hp": 95,

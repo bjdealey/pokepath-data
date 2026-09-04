@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Soundproof",
-      "description": "Whismur is unaffected by Sound moves"
-    }
+    "Soundproof"
   ],
   "baseStats": {
     "hp": 64,

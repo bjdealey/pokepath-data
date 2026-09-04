@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Intimidate",
-      "description": "Upon Growlithe's Entry in Battle, all opponent's Attack Stats are lowered"
-    },
-    {
-      "name": "Flash Fire",
-      "description": "Prevents Growlithe from being attacked by Fire type moves, and also boosts the Fire type moves."
-    }
+    "Intimidate",
+    "Flash Fire"
   ],
   "baseStats": {
     "hp": 55,

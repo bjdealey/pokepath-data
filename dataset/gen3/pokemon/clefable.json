@@ -24,10 +24,7 @@
     "Fairy"
   ],
   "abilities": [
-    {
-      "name": "Cute Charm",
-      "description": "When a Pokémon makes contact with Clefable, it has a 30% chance of being Infatuated (if of opposite gender)"
-    }
+    "Cute Charm"
   ],
   "baseStats": {
     "hp": 95,

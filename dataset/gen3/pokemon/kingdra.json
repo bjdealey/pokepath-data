@@ -26,10 +26,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Kingdra's Speed is Doubled"
-    }
+    "Swift Swim"
   ],
   "baseStats": {
     "hp": 75,

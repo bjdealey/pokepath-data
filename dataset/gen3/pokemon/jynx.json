@@ -25,10 +25,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Jynx from being Infatuated"
-    }
+    "Oblivious"
   ],
   "baseStats": {
     "hp": 65,

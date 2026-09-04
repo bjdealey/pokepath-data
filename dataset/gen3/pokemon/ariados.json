@@ -25,14 +25,8 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Ariados from being put to Sleep"
-    },
-    {
-      "name": "Swarm",
-      "description": "When Ariados's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
-    }
+    "Insomnia",
+    "Swarm"
   ],
   "baseStats": {
     "hp": 70,

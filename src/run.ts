@@ -17,6 +17,7 @@ import { deriveLearnedBy } from "./derive/learnedby.ts";
 import { deriveMachines } from "./derive/machines.ts";
 import { deriveTypechart } from "./derive/typechart.ts";
 import { deriveLegendaries } from "./derive/legendaries.ts";
+import { deriveAbilities } from "./derive/abilities.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeTrades } from "./scrape/trades.ts";
@@ -134,6 +135,10 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ parsing pokearth gift tables (starter + gifts) for Emerald…`);
   const r = await scrapeGifts(refresh);
   console.log(`✔ ${r.gifts} gift/starter Pokémon ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/gifts.json`);
+} else if (entity === "abilities") {
+  console.log(`▶ deriving the Gen-3 abilities collection from Pokémon ability text…`);
+  const r = deriveAbilities();
+  console.log(`✔ ${r.abilities} abilities (${r.withEffect} with effect) → dataset/gen3/abilities/  (normalized ${r.renamed} pokemon ability names)`);
 } else if (entity === "legendaries") {
   console.log(`▶ deriving catchable legendaries from Pokémon Emerald locations…`);
   const r = deriveLegendaries();
@@ -149,6 +154,6 @@ if (!entity || entity === "pokemon") {
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", "legendaries", "trades", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "encounters", "items", "itemdex", "connectivity", "trainers", "gifts", "legendaries", "trades", or "manifest"`);
   process.exit(1);
 }

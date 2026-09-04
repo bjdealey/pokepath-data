@@ -25,14 +25,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Houndour wakes up in half the time of normal"
-    },
-    {
-      "name": "Flash Fire",
-      "description": "Prevents Houndour from being attacked by Fire type moves, and also boosts the Fire type moves."
-    }
+    "Early Bird",
+    "Flash Fire"
   ],
   "baseStats": {
     "hp": 45,

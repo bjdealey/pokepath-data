@@ -24,14 +24,8 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Thick Fat",
-      "description": "Fire & Ice Type moves do 50% Damage on Makuhita"
-    },
-    {
-      "name": "Guts",
-      "description": "When Makuhita is inflicted with a status condition, it's attack is raised by 50%"
-    }
+    "Thick Fat",
+    "Guts"
   ],
   "baseStats": {
     "hp": 72,

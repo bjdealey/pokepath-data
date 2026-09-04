@@ -24,10 +24,7 @@
     "Fairy"
   ],
   "abilities": [
-    {
-      "name": "Minus",
-      "description": "When battling with Plus, Minun's Special Attack is multiplied by 1.5"
-    }
+    "Minus"
   ],
   "baseStats": {
     "hp": 60,

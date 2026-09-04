@@ -25,10 +25,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Smoochum from being Infatuated"
-    }
+    "Oblivious"
   ],
   "baseStats": {
     "hp": 45,

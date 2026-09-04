@@ -26,10 +26,7 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Chlorophyll",
-      "description": "When Sunny Day is in effect, Skiploom's Speed is Doubled."
-    }
+    "Chlorophyll"
   ],
   "baseStats": {
     "hp": 55,

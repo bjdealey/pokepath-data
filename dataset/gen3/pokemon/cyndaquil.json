@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Blaze",
-      "description": "When Cyndaquil's HP Gets Low, It's Fire type attack's power is multiplied by 1.5"
-    }
+    "Blaze"
   ],
   "baseStats": {
     "hp": 39,

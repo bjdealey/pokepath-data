@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Serene Grace",
-      "description": "If a move has an extra effect, the chances of it occuring is doubled"
-    },
-    {
-      "name": "Run Away",
-      "description": "Dunsparce can escape from Wild Battles"
-    }
+    "Serene Grace",
+    "Run Away"
   ],
   "baseStats": {
     "hp": 100,

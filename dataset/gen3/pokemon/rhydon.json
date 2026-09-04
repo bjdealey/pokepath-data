@@ -26,14 +26,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Rock Head",
-      "description": "Rhydon receives no Re-Coil Damage"
-    },
-    {
-      "name": "Lightning Rod",
-      "description": "All Electric Attacks are drawn to Rhydon"
-    }
+    "Rock Head",
+    "Lightning Rod"
   ],
   "baseStats": {
     "hp": 105,

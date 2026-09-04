@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Thick Fat",
-      "description": "Fire & Ice Type moves do 50% Damage on Miltank"
-    }
+    "Thick Fat"
   ],
   "baseStats": {
     "hp": 95,

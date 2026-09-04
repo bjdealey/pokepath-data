@@ -26,14 +26,8 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Natural Cure",
-      "description": "Status Conditions are healed when withdrawn from Battle"
-    },
-    {
-      "name": "Poison Point",
-      "description": "When a Pokémon makes contact with Roselia, it has a 30% chance of being Poisoned"
-    }
+    "Natural Cure",
+    "Poison Point"
   ],
   "baseStats": {
     "hp": 50,

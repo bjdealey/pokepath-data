@@ -25,10 +25,7 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Hustle",
-      "description": "Remoraid's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
-    }
+    "Hustle"
   ],
   "baseStats": {
     "hp": 35,

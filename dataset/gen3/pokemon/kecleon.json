@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Color Change",
-      "description": "Kecleon's type becomes the type of an attack that damages it"
-    }
+    "Color Change"
   ],
   "baseStats": {
     "hp": 60,

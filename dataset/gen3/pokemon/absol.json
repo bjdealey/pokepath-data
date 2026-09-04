@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Pressure",
-      "description": "The Opponent's Moves against Absol use 2 PP instead of 1"
-    }
+    "Pressure"
   ],
   "baseStats": {
     "hp": 65,

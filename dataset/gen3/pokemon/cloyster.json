@@ -25,10 +25,7 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Shell Armor",
-      "description": "The Opponent's Moves cannot Critically Hit"
-    }
+    "Shell Armor"
   ],
   "baseStats": {
     "hp": 50,

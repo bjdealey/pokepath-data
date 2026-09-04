@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Water Absorb",
-      "description": "Vaporeon is healed by up to 25% of Max HP when hit by Water Attacks."
-    }
+    "Water Absorb"
   ],
   "baseStats": {
     "hp": 130,

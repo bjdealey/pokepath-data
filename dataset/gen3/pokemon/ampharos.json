@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Static",
-      "description": "When a Pokémon makes contact with Ampharos, it has a 30% chance of being Paralyzed"
-    }
+    "Static"
   ],
   "baseStats": {
     "hp": 90,

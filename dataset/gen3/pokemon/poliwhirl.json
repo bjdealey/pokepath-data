@@ -24,14 +24,8 @@
     "Water 1"
   ],
   "abilities": [
-    {
-      "name": "Damp",
-      "description": "No Pokémon in battle can use Self Destruct or Explosion"
-    },
-    {
-      "name": "Water Absorb",
-      "description": "Poliwhirl is healed by up to 25% of Max HP when hit by Water Attacks."
-    }
+    "Damp",
+    "Water Absorb"
   ],
   "baseStats": {
     "hp": 65,

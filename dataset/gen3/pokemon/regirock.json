@@ -21,10 +21,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Clear Body",
-      "description": "Opponent's Moves that Lower Stats will not work on Regirock"
-    }
+    "Clear Body"
   ],
   "baseStats": {
     "hp": 80,

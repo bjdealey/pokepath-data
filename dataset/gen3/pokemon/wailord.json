@@ -25,14 +25,8 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Water Veil",
-      "description": "Wailord cannot be Burned"
-    },
-    {
-      "name": "Oblivious",
-      "description": "Prevents Wailord from being Infatuated"
-    }
+    "Water Veil",
+    "Oblivious"
   ],
   "baseStats": {
     "hp": 170,

@@ -26,14 +26,8 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Hustle",
-      "description": "Corsola's Attack Damage is Multiplied by 1.5 but average Accuracy is only 80%"
-    },
-    {
-      "name": "Natural Cure",
-      "description": "Status Conditions are healed when withdrawn from Battle"
-    }
+    "Hustle",
+    "Natural Cure"
   ],
   "baseStats": {
     "hp": 55,

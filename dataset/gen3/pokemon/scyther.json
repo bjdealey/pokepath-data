@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Swarm",
-      "description": "When Scyther's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
-    }
+    "Swarm"
   ],
   "baseStats": {
     "hp": 70,

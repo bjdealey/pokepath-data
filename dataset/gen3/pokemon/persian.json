@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Limber",
-      "description": "Persian cannot be Paralyzed"
-    }
+    "Limber"
   ],
   "baseStats": {
     "hp": 65,

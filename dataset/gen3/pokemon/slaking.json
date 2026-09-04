@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Truant",
-      "description": "Slaking can only attack once every two turns"
-    }
+    "Truant"
   ],
   "baseStats": {
     "hp": 150,

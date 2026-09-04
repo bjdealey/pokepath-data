@@ -24,10 +24,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Shuppet from being put to Sleep"
-    }
+    "Insomnia"
   ],
   "baseStats": {
     "hp": 44,

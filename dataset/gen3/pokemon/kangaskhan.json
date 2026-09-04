@@ -24,10 +24,7 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Kangaskhan wakes up in half the time of normal"
-    }
+    "Early Bird"
   ],
   "baseStats": {
     "hp": 105,

@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Intimidate",
-      "description": "Upon Stantler's Entry in Battle, all opponent's Attack Stats are lowered"
-    }
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 73,

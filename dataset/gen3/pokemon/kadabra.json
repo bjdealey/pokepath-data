@@ -24,14 +24,8 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Synchronize",
-      "description": "When Kadabra is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
-    },
-    {
-      "name": "Inner Focus",
-      "description": "Prevents Flinching"
-    }
+    "Synchronize",
+    "Inner Focus"
   ],
   "baseStats": {
     "hp": 40,

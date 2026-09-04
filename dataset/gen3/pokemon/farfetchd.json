@@ -26,14 +26,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Keen Eye",
-      "description": "Farfetch'd's Accuracy cannot be Lowered by Opponent"
-    },
-    {
-      "name": "Inner Focus",
-      "description": "Prevents Flinching"
-    }
+    "Keen Eye",
+    "Inner Focus"
   ],
   "baseStats": {
     "hp": 52,

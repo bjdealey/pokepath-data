@@ -25,10 +25,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Overgrow",
-      "description": "When Grovyle's HP Gets Low, It's Grass type attack's power is multiplied by 1.5."
-    }
+    "Overgrow"
   ],
   "baseStats": {
     "hp": 50,

@@ -26,14 +26,8 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Omastar's Speed is Doubled"
-    },
-    {
-      "name": "Shell Armor",
-      "description": "The Opponent's Moves cannot Critically Hit"
-    }
+    "Swift Swim",
+    "Shell Armor"
   ],
   "baseStats": {
     "hp": 70,

@@ -25,10 +25,7 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Keen Eye",
-      "description": "Pidgeotto's Accuracy cannot be Lowered by Opponent"
-    }
+    "Keen Eye"
   ],
   "baseStats": {
     "hp": 63,

@@ -24,14 +24,8 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Thick Fat",
-      "description": "Fire & Ice Type moves do 50% Damage on Spoink"
-    },
-    {
-      "name": "Own Tempo",
-      "description": "Prevents Spoink from being Confused"
-    }
+    "Thick Fat",
+    "Own Tempo"
   ],
   "baseStats": {
     "hp": 60,

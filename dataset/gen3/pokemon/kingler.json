@@ -24,14 +24,8 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Hyper Cutter",
-      "description": "Kingler's Attack cannot be Lowered by Opponent"
-    },
-    {
-      "name": "Shell Armor",
-      "description": "The Opponent's Moves cannot Critically Hit"
-    }
+    "Hyper Cutter",
+    "Shell Armor"
   ],
   "baseStats": {
     "hp": 55,

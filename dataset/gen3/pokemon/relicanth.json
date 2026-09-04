@@ -26,14 +26,8 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Relicanth's Speed is Doubled"
-    },
-    {
-      "name": "Rock Head",
-      "description": "Relicanth receives no Re-Coil Damage"
-    }
+    "Swift Swim",
+    "Rock Head"
   ],
   "baseStats": {
     "hp": 100,

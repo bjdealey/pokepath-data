@@ -24,10 +24,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Flame Body",
-      "description": "When a Pokémon makes contact with Magby, it has a 30% chance of being Burned"
-    }
+    "Flame Body"
   ],
   "baseStats": {
     "hp": 45,

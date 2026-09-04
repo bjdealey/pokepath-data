@@ -24,10 +24,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Banette from being put to Sleep"
-    }
+    "Insomnia"
   ],
   "baseStats": {
     "hp": 64,

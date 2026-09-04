@@ -25,14 +25,8 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Rock Head",
-      "description": "Aerodactyl receives no Re-Coil Damage"
-    },
-    {
-      "name": "Pressure",
-      "description": "The Opponent's Moves against Aerodactyl use 2 PP instead of 1"
-    }
+    "Rock Head",
+    "Pressure"
   ],
   "baseStats": {
     "hp": 80,

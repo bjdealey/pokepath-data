@@ -25,10 +25,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Pure Power",
-      "description": "Meditite's Attack is Doubled"
-    }
+    "Pure Power"
   ],
   "baseStats": {
     "hp": 30,

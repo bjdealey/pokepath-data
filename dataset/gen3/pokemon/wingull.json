@@ -26,10 +26,7 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Keen Eye",
-      "description": "Wingull's Accuracy cannot be Lowered by Opponent"
-    }
+    "Keen Eye"
   ],
   "baseStats": {
     "hp": 40,

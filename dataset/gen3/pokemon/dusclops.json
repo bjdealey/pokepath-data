@@ -24,10 +24,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Pressure",
-      "description": "The Opponent's Moves against Dusclops use 2 PP instead of 1"
-    }
+    "Pressure"
   ],
   "baseStats": {
     "hp": 40,

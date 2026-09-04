@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Shield Dust",
-      "description": "Prevents Venomoth from being hit by additional effects of moves."
-    }
+    "Shield Dust"
   ],
   "baseStats": {
     "hp": 70,

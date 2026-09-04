@@ -26,10 +26,7 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Keen Eye",
-      "description": "Pelipper's Accuracy cannot be Lowered by Opponent"
-    }
+    "Keen Eye"
   ],
   "baseStats": {
     "hp": 60,

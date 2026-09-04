@@ -24,10 +24,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Poison Point",
-      "description": "When a Pokémon makes contact with Nidorina, it has a 30% chance of being Poisoned"
-    }
+    "Poison Point"
   ],
   "baseStats": {
     "hp": 70,

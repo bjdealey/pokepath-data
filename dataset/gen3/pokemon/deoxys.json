@@ -21,10 +21,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Pressure",
-      "description": "The opponent uses 2 PP when it uses an attack against Deoxys."
-    }
+    "Pressure"
   ],
   "baseStats": {
     "hp": 50,

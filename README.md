@@ -16,6 +16,7 @@ node src/run.ts moves              # scrape all Gen-III moves (attackdex); `move
 node src/run.ts learnedby          # bake move→Pokémon reverse index into moves (after pokemon+moves)
 node src/run.ts machines           # derive TM/HM → move table (after pokemon; +moves/story/items enrich)
 node src/run.ts typechart          # derive the Gen-3 type chart from Pokémon damage-taken (after pokemon)
+node src/run.ts abilities          # derive the canonical Gen-3 abilities collection (after pokemon)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items (after `items`)
@@ -39,7 +40,7 @@ the generation is set once in [`src/paths.ts`](src/paths.ts).
 dataset/
   manifest.json                                  # generations available + games + counts
   gen3/
-    {pokemon,moves,items}/<slug>.json + index.json    # canonical, per-entity (static-servable)
+    {pokemon,moves,items,abilities}/<slug>.json + index.json    # canonical, per-entity (static-servable)
     {machines,typechart}.json                         # canonical, Gen-3
     games/emerald/{encounters,locations,items,trainers,story,connections}.json
 ```
@@ -65,7 +66,8 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 ## Status
 
 - ✅ `pokemon` — **full national dex, #001–386 (386 species)**. Canonical +
-  RSE-scoped facts (identity, i18n names, types, stats, abilities, egg groups,
+  RSE-scoped facts (identity, i18n names, types, stats, ability **names** (→ the
+  `abilities` collection, no longer duplicated inline), egg groups,
   evolution chain **+ methods** (`evolutions` edges: Level 16 / Fire Stone / Trade /
   Trade holding King's Rock / High Beauty / …, decoded from the chain's method icons —
   handles branches like Eevee, Wurmple, Slowpoke, Nincada→Shedinja), per-game
@@ -97,6 +99,12 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   `chart[attacking][defending]`), derived from the pure-type Pokémon's `damageTaken` (no
   network). Gen-3-accurate: Steel resists Ghost/Dark. Flying (no pure Gen-3 rep) is
   derived from a Bug/Flying mon. Verified against known matchups.
+- ✅ `abilities` — the canonical **Gen-3 abilities** collection (`dataset/abilities/<slug>.json`,
+  76), *derived* (no network) by aggregating each Pokémon's ability text and keeping the most
+  common wording with the Pokémon name genericized ("The Pokémon receives no Re-Coil Damage").
+  **Game-specific**: Serebii's live AbilityDex is current-gen (its Sturdy is the Gen-5 effect),
+  so this is built from the Gen-3 pokedex pages instead — Sturdy here is the Gen-3 "OHKO moves
+  fail". Pokémon reference abilities by name; the effect lives here once, not duplicated per mon.
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level

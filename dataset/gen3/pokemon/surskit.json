@@ -26,10 +26,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Surskit's Speed is Doubled"
-    }
+    "Swift Swim"
   ],
   "baseStats": {
     "hp": 40,

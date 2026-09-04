@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Piloswine from being Infatuated"
-    }
+    "Oblivious"
   ],
   "baseStats": {
     "hp": 100,

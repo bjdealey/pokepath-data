@@ -25,10 +25,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Swift Swim",
-      "description": "When Rain Dance is in effect, Feebas' Speed is Doubled"
-    }
+    "Swift Swim"
   ],
   "baseStats": {
     "hp": 20,

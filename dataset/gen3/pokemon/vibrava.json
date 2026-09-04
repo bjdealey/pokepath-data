@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Levitate",
-      "description": "Ground Type attacks won't work on Vibrava"
-    }
+    "Levitate"
   ],
   "baseStats": {
     "hp": 50,

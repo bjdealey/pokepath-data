@@ -25,10 +25,7 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Compound Eyes",
-      "description": "Raises Butterfree's Accuracy by 30%"
-    }
+    "Compound Eyes"
   ],
   "baseStats": {
     "hp": 60,

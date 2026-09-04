@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Oblivious",
-      "description": "Prevents Numel from being Infatuated"
-    }
+    "Oblivious"
   ],
   "baseStats": {
     "hp": 60,

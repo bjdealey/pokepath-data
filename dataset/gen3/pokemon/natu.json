@@ -25,14 +25,8 @@
     "Flying"
   ],
   "abilities": [
-    {
-      "name": "Synchronize",
-      "description": "When Natu is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
-    },
-    {
-      "name": "Early Bird",
-      "description": "If afflicted with Sleep, Natu wakes up in half the time of normal"
-    }
+    "Synchronize",
+    "Early Bird"
   ],
   "baseStats": {
     "hp": 40,

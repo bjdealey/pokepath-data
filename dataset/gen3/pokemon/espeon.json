@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Synchronize",
-      "description": "When Espeon is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
-    }
+    "Synchronize"
   ],
   "baseStats": {
     "hp": 65,

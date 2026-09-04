@@ -25,10 +25,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Pure Power",
-      "description": "Medicham's Attack is Doubled"
-    }
+    "Pure Power"
   ],
   "baseStats": {
     "hp": 60,

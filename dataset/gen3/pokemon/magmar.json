@@ -24,10 +24,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Flame Body",
-      "description": "When a Pokémon makes contact with Magmar, it has a 30% chance of being Burned"
-    }
+    "Flame Body"
   ],
   "baseStats": {
     "hp": 65,

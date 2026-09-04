@@ -21,10 +21,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Drought",
-      "description": "As Groudon is brought into battle, it becomes Sunny"
-    }
+    "Drought"
   ],
   "baseStats": {
     "hp": 100,

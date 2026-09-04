@@ -21,14 +21,8 @@
     "Mineral"
   ],
   "abilities": [
-    {
-      "name": "Soundproof",
-      "description": "Electrode is unaffected by Sound moves"
-    },
-    {
-      "name": "Static",
-      "description": "When a Pokémon makes contact with Electrode, it has a 30% chance of being Paralyzed"
-    }
+    "Soundproof",
+    "Static"
   ],
   "baseStats": {
     "hp": 60,

@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Flash Fire",
-      "description": "Prevents Flareon from being attacked by Fire type moves, and also boosts the Fire type moves."
-    }
+    "Flash Fire"
   ],
   "baseStats": {
     "hp": 65,

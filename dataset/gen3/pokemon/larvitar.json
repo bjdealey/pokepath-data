@@ -25,10 +25,7 @@
     "Monster"
   ],
   "abilities": [
-    {
-      "name": "Guts",
-      "description": "When Larvitar is inflicted with a status condition, it's attack is raised by 50%"
-    }
+    "Guts"
   ],
   "baseStats": {
     "hp": 50,

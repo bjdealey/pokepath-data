@@ -24,10 +24,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Immunity",
-      "description": "Prevents Zangoose from being Poisoned"
-    }
+    "Immunity"
   ],
   "baseStats": {
     "hp": 73,

@@ -26,10 +26,7 @@
     "Plant"
   ],
   "abilities": [
-    {
-      "name": "Effect Spore",
-      "description": "When a Pokémon makes contact with Paras it has a 10% chance of being Paralyzed, Poisoned or Put Asleep"
-    }
+    "Effect Spore"
   ],
   "baseStats": {
     "hp": 35,

@@ -25,14 +25,8 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Sand Veil",
-      "description": "Increases Evasion in Sandstorm"
-    },
-    {
-      "name": "Hyper Cutter",
-      "description": "Gligar's Attack cannot be Lowered"
-    }
+    "Sand Veil",
+    "Hyper Cutter"
   ],
   "baseStats": {
     "hp": 65,

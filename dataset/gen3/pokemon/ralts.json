@@ -24,14 +24,8 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Synchronize",
-      "description": "When Ralts is inflicted with Poison, Paralysis or Burn, the Opponent is inflicted with the same Condition"
-    },
-    {
-      "name": "Trace",
-      "description": "Copies Opponent's Ability when brought into Battle"
-    }
+    "Synchronize",
+    "Trace"
   ],
   "baseStats": {
     "hp": 28,

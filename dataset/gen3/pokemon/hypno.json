@@ -24,10 +24,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Hypno from being put to Sleep"
-    }
+    "Insomnia"
   ],
   "baseStats": {
     "hp": 85,

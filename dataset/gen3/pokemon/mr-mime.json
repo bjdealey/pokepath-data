@@ -24,10 +24,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Soundproof",
-      "description": "Mr. Mime is unaffected by Sound moves"
-    }
+    "Soundproof"
   ],
   "baseStats": {
     "hp": 40,

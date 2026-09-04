@@ -21,14 +21,8 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Illuminate",
-      "description": "When Staryu is in the first party slot, Wild Pokémon appearances are more frequent"
-    },
-    {
-      "name": "Natural Cure",
-      "description": "Status Conditions are healed when withdrawn from Battle"
-    }
+    "Illuminate",
+    "Natural Cure"
   ],
   "baseStats": {
     "hp": 30,

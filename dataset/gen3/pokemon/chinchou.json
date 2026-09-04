@@ -25,14 +25,8 @@
     "Water 2"
   ],
   "abilities": [
-    {
-      "name": "Volt Absorb",
-      "description": "Chinchou is healed by up to 25% of Max HP when hit by Electric Attacks"
-    },
-    {
-      "name": "Illuminate",
-      "description": "When Chinchou is in the first party slot, Wild Pokémon appearances are more frequent"
-    }
+    "Volt Absorb",
+    "Illuminate"
   ],
   "baseStats": {
     "hp": 75,

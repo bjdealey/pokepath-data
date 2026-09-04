@@ -25,10 +25,7 @@
     "Water 3"
   ],
   "abilities": [
-    {
-      "name": "Battle Armor",
-      "description": "The Opponent's Moves cannot Critically Hit"
-    }
+    "Battle Armor"
   ],
   "baseStats": {
     "hp": 45,

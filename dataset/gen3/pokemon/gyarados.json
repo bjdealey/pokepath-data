@@ -26,10 +26,7 @@
     "Dragon"
   ],
   "abilities": [
-    {
-      "name": "Intimidate",
-      "description": "Upon Gyarados' Entry in Battle, all opponent's Attacks are lowered"
-    }
+    "Intimidate"
   ],
   "baseStats": {
     "hp": 95,

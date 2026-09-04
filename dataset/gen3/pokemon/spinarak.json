@@ -25,14 +25,8 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Insomnia",
-      "description": "Prevents Spinarak from being put to Sleep"
-    },
-    {
-      "name": "Swarm",
-      "description": "When Spinarak's HP Gets Low, It's Bug type attack's power is multiplied by 1.5"
-    }
+    "Insomnia",
+    "Swarm"
   ],
   "baseStats": {
     "hp": 40,

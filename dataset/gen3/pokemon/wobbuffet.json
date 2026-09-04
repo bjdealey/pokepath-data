@@ -24,10 +24,7 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Shadow Tag",
-      "description": "The Opponent cannot Run or Switch"
-    }
+    "Shadow Tag"
   ],
   "baseStats": {
     "hp": 190,

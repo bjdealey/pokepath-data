@@ -24,14 +24,8 @@
     "Bug"
   ],
   "abilities": [
-    {
-      "name": "Hyper Cutter",
-      "description": "Trapinch's Attack cannot be Lowered by Opponent"
-    },
-    {
-      "name": "Arena Trap",
-      "description": "The Opponent cannot run or switch unless it's a Flying Type or has Levitate Ability"
-    }
+    "Hyper Cutter",
+    "Arena Trap"
   ],
   "baseStats": {
     "hp": 45,

@@ -25,10 +25,7 @@
     "Ground"
   ],
   "abilities": [
-    {
-      "name": "Soundproof",
-      "description": "Loudred is unaffected by Sound moves"
-    }
+    "Soundproof"
   ],
   "baseStats": {
     "hp": 84,

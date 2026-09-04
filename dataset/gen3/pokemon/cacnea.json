@@ -25,10 +25,7 @@
     "HumanShape"
   ],
   "abilities": [
-    {
-      "name": "Sand Veil",
-      "description": "Increases Evasion in Sandstorm"
-    }
+    "Sand Veil"
   ],
   "baseStats": {
     "hp": 50,

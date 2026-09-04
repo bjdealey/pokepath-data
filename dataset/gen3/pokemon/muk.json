@@ -24,14 +24,8 @@
     "Indeterminate"
   ],
   "abilities": [
-    {
-      "name": "Stench",
-      "description": "When Muk is in the first slot of party, Wild Pokémon encounters decrease"
-    },
-    {
-      "name": "Sticky Hold",
-      "description": "Muk's Item cannot be stolen"
-    }
+    "Stench",
+    "Sticky Hold"
   ],
   "baseStats": {
     "hp": 105,

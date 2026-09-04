@@ -22,10 +22,7 @@
     "Cannot Breed"
   ],
   "abilities": [
-    {
-      "name": "Pressure",
-      "description": "The Opponent's Moves against Articuno use 2 PP instead of 1"
-    }
+    "Pressure"
   ],
   "baseStats": {
     "hp": 90,
