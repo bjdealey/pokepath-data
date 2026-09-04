@@ -64,6 +64,11 @@ test("content quality: eggGroups + level-up populated; no non-Gen-3 leak moves",
     // Real Gen-3 moves have PP; only Shadow (side-game, tagged) legitimately have none.
     assert.ok((m.pp as number) > 0 || m.gameExclusive, `move ${m.slug}: 0 PP but not gameExclusive — non-Gen-3 leak?`);
   }
+  for (const i of items.values()) {
+    assert.ok(i.effect, `item ${i.slug}: empty effect`);
+    // Effect prose must not swallow a nested data table (e.g. a fossil's revived-Pokémon rows).
+    assert.ok(!/Trainer Memo|Met at Level|\bOT:/i.test(i.effect as string), `item ${i.slug}: effect contains data-table leakage`);
+  }
 });
 
 test("moves: learnedBy resolves with matching natdex; machine links valid", () => {

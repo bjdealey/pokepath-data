@@ -27,7 +27,14 @@ export function parseItem(html: string, url: string): ItemRecord {
   let effect = "";
   $("table.dextable").each((_i, t) => {
     const title = clean($(t).find("tr").first().children().first().text());
-    if (/In-?Depth Effect/i.test(title)) effect = clean($(t).text()).replace(/^In-?Depth Effect\s*/i, "");
+    // The effect prose lives in the section's first `td.fooinfo` cell. That cell
+    // can embed nested data tables (e.g. a fossil's revived-Pokémon level/OT/
+    // attacks), so strip those before reading its text.
+    if (/In-?Depth Effect/i.test(title)) {
+      const cell = $(t).find("td.fooinfo").first().clone();
+      cell.find("table").remove();
+      effect = clean(cell.text());
+    }
   });
   if (!effect) {
     $("table.dextable").each((_i, t) => {
