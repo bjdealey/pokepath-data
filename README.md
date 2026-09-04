@@ -89,7 +89,9 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
 - ✅ `machines` — the canonical Gen-3 **TM/HM → move table** (`dataset/machines.json`,
   58 = 50 TMs + 8 HMs), derived by inverting the machine learnsets (no network). Each
   carries the move + type/category and its Emerald source (gym-badge reward or on-ground
-  find) — e.g. TM39 Rock Tomb (Stone Badge), HM03 Surf (Petalburg City).
+  find) — e.g. TM39 Rock Tomb (Stone Badge), HM03 Surf (Petalburg City). **All 8 HMs have
+  an obtain location** — the two NPC gifts the pokearth tables omit (HM05 Flash → Granite
+  Cave, HM07 Waterfall → Cave of Origin) come from Serebii's ItemDex Locations table.
 - ✅ `typechart` — the **Gen-3 17×17 type effectiveness chart** (`dataset/typechart.json`,
   `chart[attacking][defending]`), derived from the pure-type Pokémon's `damageTaken` (no
   network). Gen-3-accurate: Steel resists Ghost/Dark. Flying (no pure Gen-3 rep) is

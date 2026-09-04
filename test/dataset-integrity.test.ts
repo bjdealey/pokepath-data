@@ -66,12 +66,14 @@ test("moves: learnedBy resolves with matching natdex; machine links valid", () =
   }
 });
 
-test("machines: unique codes, moveSlug resolves", () => {
+test("machines: unique codes, moveSlug resolves, every HM has an obtain location", () => {
   const seen = new Set<string>();
   for (const mc of machines) {
     assert.ok(!seen.has(mc.machine), `duplicate machine ${mc.machine}`);
     seen.add(mc.machine);
     if (mc.moveSlug) assert.ok(moves.has(mc.moveSlug), `${mc.machine}: moveSlug '${mc.moveSlug}' not a move`);
+    // HMs gate progression — each must have a known Emerald obtain location.
+    if (mc.kind === "HM") assert.ok(mc.emerald?.locations?.length > 0, `${mc.machine} (${mc.move}) has no obtain location`);
   }
 });
 

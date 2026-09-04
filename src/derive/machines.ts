@@ -11,6 +11,14 @@ const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 /** Normalize a machine code so TM06 (learnset), tm6, and tm06 (item slug) join. */
 export const codeKey = (code: string) => code.toUpperCase().replace(/^([TH]M)0*(\d+)$/i, "$1$2"); // TM06 / tm6 → TM6
 
+// HMs handed over by an NPC that the pokearth item tables don't list as finds.
+// Emerald obtain location per Serebii's ItemDex "Locations" table; slugs match
+// the encounters/location files. (The other 6 HMs come from the item finds.)
+const HM_LOCATION: Record<string, Array<{ location: string; method: string }>> = {
+  HM5: [{ location: "granitecave", method: "Gift (Hiker)" }], // Flash
+  HM7: [{ location: "caveoforigin", method: "Gift" }], // Waterfall
+};
+
 export function deriveMachines() {
   // machine code → move name, from the Pokémon learnsets.
   const machineMove = new Map<string, string>();
@@ -55,6 +63,7 @@ export function deriveMachines() {
   const machines: Machine[] = [...machineMove.entries()].map(([machine, move]) => {
     const info = moveInfo.get(norm(move));
     const key = codeKey(machine);
+    const locations = findsOf.get(key) ?? HM_LOCATION[key] ?? [];
     return {
       machine,
       kind: machine.toUpperCase().startsWith("HM") ? "HM" : "TM",
@@ -63,7 +72,7 @@ export function deriveMachines() {
       moveSlug: info?.slug ?? null,
       type: info?.type ?? null,
       category: info?.category ?? null,
-      emerald: { badge: badgeOf.get(key), locations: findsOf.get(key) ?? [] },
+      emerald: { badge: badgeOf.get(key), locations },
     };
   });
   machines.sort((a, b) => a.kind.localeCompare(b.kind) || a.number - b.number);

@@ -76,7 +76,12 @@
     "type": "normal",
     "category": "status",
     "emerald": {
-      "locations": []
+      "locations": [
+        {
+          "location": "granitecave",
+          "method": "Gift (Hiker)"
+        }
+      ]
     }
   },
   {
@@ -105,7 +110,12 @@
     "type": "water",
     "category": "special",
     "emerald": {
-      "locations": []
+      "locations": [
+        {
+          "location": "caveoforigin",
+          "method": "Gift"
+        }
+      ]
     }
   },
   {
