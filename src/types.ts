@@ -194,18 +194,27 @@ export interface StoryLocation {
   via: "trainers" | "encounters";
 }
 
-/** One beat on the mandatory critical path — a gym/E4/champion milestone or a
- * villain/rival confrontation — placed in order by team level (a story-order
- * proxy; Serebii has no walkthrough). Ties to a location slug so a consumer can
- * pull the trainers/encounters/items there. Heuristic ordering, not canonical. */
+/** One beat on the critical path. Battle beats — a gym/E4/champion milestone or a
+ * villain/rival confrontation — plus the non-battle progression beats that fill in
+ * the rest of a playthrough: obtaining an HM, catching a story legendary, picking
+ * up a key item. Placed in order by `levelCap` (team level for battles, the area's
+ * inferred level for progression beats — a story-order proxy; Serebii has no
+ * walkthrough). Ties to a location slug so a consumer can pull the trainers/
+ * encounters/items there. Heuristic ordering, not canonical. */
 export interface StoryBeat {
   order: number;
-  kind: StoryMilestone["kind"] | "villain" | "rival";
+  kind: StoryMilestone["kind"] | "villain" | "rival" | "hm" | "legendary" | "item";
   location: string; // slug ("" for E4/champion, which have no map location)
-  levelCap: number;
+  levelCap: number; // ordering key: team level (battles) or the area's inferred level (progression beats)
   milestone?: string; // slug of the gym/E4/champion milestone (badge/TM/field-move live there)
-  name?: string; // label for villain/rival beats (which have no milestone)
+  name?: string; // label for villain/rival beats, or the display name of an hm/legendary/item beat
   battles?: number; // villain/rival beats: how many battles happen at this location
+  hm?: string; // "hm" beats: the machine code (e.g. "HM03")
+  move?: string; // "hm" beats: the field move it teaches (e.g. "Surf")
+  pokemon?: string; // "legendary" beats: the Pokémon slug
+  item?: string; // "item" beats: the item slug
+  method?: string; // "legendary"/"item" beats: how it's obtained (static/event, or the item's find method)
+  optional?: boolean; // progression beat that's side content, not on the mandatory spine
 }
 
 export interface Story {

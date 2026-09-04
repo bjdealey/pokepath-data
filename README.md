@@ -26,6 +26,7 @@ node src/run.ts connectivity       # crawl pokearth exits → Hoenn location gra
 node src/run.ts gifts              # starter trio + gift/egg/fossil Pokémon (pokearth gift tables)
 node src/run.ts legendaries        # derive catchable legendaries from Pokémon Emerald locations
 node src/run.ts trades             # scrape Emerald in-game trades (/emerald/trade.shtml)
+node src/run.ts storypath          # enrich criticalPath with HM/legendary/key-item beats (after trainers+machines+legendaries+itemlinks)
 node src/run.ts locations          # build the canonical location registry (slug → name) — run last
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
@@ -147,15 +148,22 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   13-step gym → Elite Four → Champion spine (order, city, badge, TM, field-move unlock
   from the gym "Method" prose — Stone→Cut, Balance→Surf, …, level cap). **locations** =
   every location placed in an *inferred* order by its median trainer level (or encounter
-  level), pegged to the gym level-cap `phase`. **criticalPath** = the 28-beat mandatory
-  spine — gyms + the Team Aqua/Magma confrontations + rival battles, grouped by location
-  and ordered by team level, each tied to a location slug (Route 103 rival → Petalburg
-  Woods → Roxanne(+Cut) → … → Magma Hideout → Seafloor → Juan → Elite Four → Champion).
-  All three are **heuristic** ordering (Serebii has no walkthrough page), not canonical.
+  level), pegged to the gym level-cap `phase`. **criticalPath** = the 60-beat playthrough:
+  the battle spine (gyms + Team Aqua/Magma confrontations + rival battles) **interleaved
+  with the non-battle progression** — `hm` beats (where you obtain each field move), `item`
+  beats (key items with a findable location), and `legendary` beats (in-Hoenn legendaries,
+  all flagged `optional`) — every beat ordered by `levelCap` and tied to a location slug
+  (`storypath` derive, no network). All three are **heuristic** ordering (Serebii has no
+  walkthrough page), not canonical — a beat's level is a story-order proxy, so a late area's
+  legendary can read early (Sky Pillar's wild level under-reads Rayquaza's true timing).
+  Route-gating (which HM a route needs) lives on the connections graph, not here.
 - ✅ `connectivity` — the **Hoenn map graph** (`games/emerald/connections.json`): each
-  location → `{ name, exits: { direction → location } }`, from the pokearth pages' exit
-  links (`North Exit: Oldale Town`). Taken from the ORAS pages (the 3rd-gen pages omit
-  exits; Hoenn's topology is identical across games). A curated overlay adds the
+  location → `{ name, exits: { direction → location }, fieldMoves }`, from the pokearth
+  pages' exit links (`North Exit: Oldale Town`). Taken from the ORAS pages (the 3rd-gen
+  pages omit exits; Hoenn's topology is identical across games). **`fieldMoves`** = the
+  HMs Serebii lists as *used* at that location (from the Emerald `/3rd/` page's "Special
+  Moves used in …" — 40/58 locations) — the route-gating layer for "clear this route with
+  Surf/Cut/…"; note it includes optional-access uses, not only mandatory passage. A curated overlay adds the
   connections the ORAS exit links omit — **Dive** into Sootopolis, the **SS Tidal**
   and **Eon-ticket ferries** (Battle Frontier, Southern Island), and a couple of cave
   entrances — keyed by travel mode (`dive`/`boat`/`ferry`). Result: **58 locations,

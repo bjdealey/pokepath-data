@@ -558,6 +558,16 @@
     },
     {
       "order": 3,
+      "kind": "hm",
+      "location": "granitecave",
+      "levelCap": 10,
+      "hm": "HM05",
+      "move": "Flash",
+      "name": "Flash",
+      "method": "Gift (Hiker)"
+    },
+    {
+      "order": 4,
       "kind": "villain",
       "location": "rusturftunnel",
       "levelCap": 11,
@@ -565,14 +575,51 @@
       "battles": 1
     },
     {
-      "order": 4,
+      "order": 5,
+      "kind": "hm",
+      "location": "rustborocity",
+      "levelCap": 13,
+      "hm": "HM01",
+      "move": "Cut",
+      "name": "Cut",
+      "method": "Gift"
+    },
+    {
+      "order": 6,
+      "kind": "item",
+      "location": "rustborocity",
+      "levelCap": 13,
+      "item": "exp-share",
+      "name": "Exp. Share",
+      "method": "Gift"
+    },
+    {
+      "order": 7,
+      "kind": "item",
+      "location": "dewfordtown",
+      "levelCap": 13,
+      "item": "oldrod",
+      "name": "Old Rod",
+      "method": "Gift from Fisherman"
+    },
+    {
+      "order": 8,
+      "kind": "item",
+      "location": "slateportcity",
+      "levelCap": 14,
+      "item": "pokeblockcase",
+      "name": "PokéBlock Case",
+      "method": "Gift from Contest House Girl"
+    },
+    {
+      "order": 9,
       "kind": "gym",
       "location": "rustborocity",
       "levelCap": 15,
       "milestone": "roxanne"
     },
     {
-      "order": 5,
+      "order": 10,
       "kind": "villain",
       "location": "slateportcity",
       "levelCap": 15,
@@ -580,7 +627,7 @@
       "battles": 2
     },
     {
-      "order": 6,
+      "order": 11,
       "kind": "rival",
       "location": "rustborocity",
       "levelCap": 15,
@@ -588,7 +635,7 @@
       "battles": 6
     },
     {
-      "order": 7,
+      "order": 12,
       "kind": "rival",
       "location": "mauvillecity",
       "levelCap": 16,
@@ -596,14 +643,79 @@
       "battles": 1
     },
     {
-      "order": 8,
+      "order": 13,
+      "kind": "hm",
+      "location": "rusturftunnel",
+      "levelCap": 16,
+      "hm": "HM04",
+      "move": "Strength",
+      "name": "Strength",
+      "method": "Gift"
+    },
+    {
+      "order": 14,
+      "kind": "item",
+      "location": "rusturftunnel",
+      "levelCap": 16,
+      "item": "devongoods",
+      "name": "Devon Goods",
+      "method": "Gift"
+    },
+    {
+      "order": 15,
+      "kind": "hm",
+      "location": "mauvillecity",
+      "levelCap": 17,
+      "hm": "HM06",
+      "move": "Rock Smash",
+      "name": "Rock Smash",
+      "method": "Gift"
+    },
+    {
+      "order": 16,
+      "kind": "item",
+      "location": "mauvillecity",
+      "levelCap": 17,
+      "item": "acrobike",
+      "name": "Acro Bike",
+      "method": "Gift"
+    },
+    {
+      "order": 17,
+      "kind": "item",
+      "location": "mauvillecity",
+      "levelCap": 17,
+      "item": "basementkey",
+      "name": "Basement Key",
+      "method": "Gift"
+    },
+    {
+      "order": 18,
+      "kind": "item",
+      "location": "mauvillecity",
+      "levelCap": 17,
+      "item": "coincase",
+      "name": "Coin Case",
+      "method": "Gift"
+    },
+    {
+      "order": 19,
+      "kind": "item",
+      "location": "mauvillecity",
+      "levelCap": 17,
+      "item": "machbike",
+      "name": "Mach Bike",
+      "method": "Gift"
+    },
+    {
+      "order": 20,
       "kind": "gym",
       "location": "dewfordtown",
       "levelCap": 19,
       "milestone": "brawly"
     },
     {
-      "order": 9,
+      "order": 21,
       "kind": "rival",
       "location": "route110",
       "levelCap": 20,
@@ -611,7 +723,7 @@
       "battles": 6
     },
     {
-      "order": 10,
+      "order": 22,
       "kind": "villain",
       "location": "jaggedpass",
       "levelCap": 22,
@@ -619,14 +731,78 @@
       "battles": 1
     },
     {
-      "order": 11,
+      "order": 23,
+      "kind": "item",
+      "location": "route110",
+      "levelCap": 22,
+      "item": "itemfinder",
+      "name": "Itemfinder",
+      "method": "Gift"
+    },
+    {
+      "order": 24,
+      "kind": "item",
+      "location": "lavaridgetown",
+      "levelCap": 23,
+      "item": "go-goggles",
+      "name": "Go-Goggles",
+      "method": "Gift from Rival"
+    },
+    {
+      "order": 25,
       "kind": "gym",
       "location": "mauvillecity",
       "levelCap": 24,
       "milestone": "wattson"
     },
     {
-      "order": 12,
+      "order": 26,
+      "kind": "item",
+      "location": "route113",
+      "levelCap": 24,
+      "item": "sootsack",
+      "name": "Soot Sack",
+      "method": "Gift"
+    },
+    {
+      "order": 27,
+      "kind": "hm",
+      "location": "petalburgcity",
+      "levelCap": 26,
+      "hm": "HM03",
+      "move": "Surf",
+      "name": "Surf",
+      "method": "Gift from Wally's Family"
+    },
+    {
+      "order": 28,
+      "kind": "item",
+      "location": "newmauville",
+      "levelCap": 26,
+      "item": "escaperope",
+      "name": "Escape Rope",
+      "method": "Floor"
+    },
+    {
+      "order": 29,
+      "kind": "item",
+      "location": "route118",
+      "levelCap": 27,
+      "item": "goodrod",
+      "name": "Good Rod",
+      "method": "Gift from Fisherman"
+    },
+    {
+      "order": 30,
+      "kind": "item",
+      "location": "route104",
+      "levelCap": 27,
+      "item": "wailmerpail",
+      "name": "Wailmer Pail",
+      "method": "Gift from Flower Shop"
+    },
+    {
+      "order": 31,
       "kind": "villain",
       "location": "route119",
       "levelCap": 28,
@@ -634,21 +810,40 @@
       "battles": 5
     },
     {
-      "order": 13,
+      "order": 32,
+      "kind": "hm",
+      "location": "route119",
+      "levelCap": 28,
+      "hm": "HM02",
+      "move": "Fly",
+      "name": "Fly",
+      "method": "Gift from Rival"
+    },
+    {
+      "order": 33,
       "kind": "gym",
       "location": "lavaridgetown",
       "levelCap": 29,
       "milestone": "flannery"
     },
     {
-      "order": 14,
+      "order": 34,
+      "kind": "item",
+      "location": "route120",
+      "levelCap": 30,
+      "item": "devonscope",
+      "name": "Devon Scope",
+      "method": "Gift from Steven"
+    },
+    {
+      "order": 35,
       "kind": "gym",
       "location": "petalburgcity",
       "levelCap": 31,
       "milestone": "norman"
     },
     {
-      "order": 15,
+      "order": 36,
       "kind": "rival",
       "location": "route119",
       "levelCap": 31,
@@ -656,14 +851,14 @@
       "battles": 6
     },
     {
-      "order": 16,
+      "order": 37,
       "kind": "gym",
       "location": "fortreecity",
       "levelCap": 33,
       "milestone": "winona"
     },
     {
-      "order": 17,
+      "order": 38,
       "kind": "villain",
       "location": "aquahideout",
       "levelCap": 34,
@@ -671,7 +866,7 @@
       "battles": 7
     },
     {
-      "order": 18,
+      "order": 39,
       "kind": "rival",
       "location": "lilycovecity",
       "levelCap": 34,
@@ -679,7 +874,46 @@
       "battles": 6
     },
     {
-      "order": 19,
+      "order": 40,
+      "kind": "hm",
+      "location": "caveoforigin",
+      "levelCap": 35,
+      "hm": "HM07",
+      "move": "Waterfall",
+      "name": "Waterfall",
+      "method": "Gift"
+    },
+    {
+      "order": 41,
+      "kind": "hm",
+      "location": "mossdeepcity",
+      "levelCap": 36,
+      "hm": "HM08",
+      "move": "Dive",
+      "name": "Dive",
+      "method": "Gift from Steven"
+    },
+    {
+      "order": 42,
+      "kind": "item",
+      "location": "mossdeepcity",
+      "levelCap": 36,
+      "item": "superrod",
+      "name": "Super Rod",
+      "method": "Gift from Fisherman"
+    },
+    {
+      "order": 43,
+      "kind": "legendary",
+      "location": "skypillar",
+      "levelCap": 38,
+      "pokemon": "rayquaza",
+      "name": "Rayquaza",
+      "method": "static",
+      "optional": true
+    },
+    {
+      "order": 44,
       "kind": "villain",
       "location": "magmahideout",
       "levelCap": 39,
@@ -687,14 +921,14 @@
       "battles": 9
     },
     {
-      "order": 20,
+      "order": 45,
       "kind": "gym",
       "location": "mossdeepcity",
       "levelCap": 42,
       "milestone": "tate-and-liza"
     },
     {
-      "order": 21,
+      "order": 46,
       "kind": "villain",
       "location": "mossdeepcity",
       "levelCap": 44,
@@ -702,42 +936,42 @@
       "battles": 8
     },
     {
-      "order": 22,
+      "order": 47,
       "kind": "gym",
       "location": "sootopoliscity",
       "levelCap": 46,
       "milestone": "juan"
     },
     {
-      "order": 23,
+      "order": 48,
       "kind": "elite-four",
       "location": "",
       "levelCap": 49,
       "milestone": "sidney"
     },
     {
-      "order": 24,
+      "order": 49,
       "kind": "elite-four",
       "location": "",
       "levelCap": 51,
       "milestone": "phoebe"
     },
     {
-      "order": 25,
+      "order": 50,
       "kind": "elite-four",
       "location": "",
       "levelCap": 53,
       "milestone": "glacia"
     },
     {
-      "order": 26,
+      "order": 51,
       "kind": "elite-four",
       "location": "",
       "levelCap": 55,
       "milestone": "drake"
     },
     {
-      "order": 27,
+      "order": 52,
       "kind": "rival",
       "location": "victoryroad",
       "levelCap": 57,
@@ -745,11 +979,81 @@
       "battles": 5
     },
     {
-      "order": 28,
+      "order": 53,
       "kind": "champion",
       "location": "",
       "levelCap": 58,
       "milestone": "wallace"
+    },
+    {
+      "order": 54,
+      "kind": "legendary",
+      "location": "desertruins",
+      "levelCap": 59,
+      "pokemon": "regirock",
+      "name": "Regirock",
+      "method": "static",
+      "optional": true
+    },
+    {
+      "order": 55,
+      "kind": "legendary",
+      "location": "islandcave",
+      "levelCap": 59,
+      "pokemon": "regice",
+      "name": "Regice",
+      "method": "static",
+      "optional": true
+    },
+    {
+      "order": 56,
+      "kind": "legendary",
+      "location": "ancienttomb",
+      "levelCap": 59,
+      "pokemon": "registeel",
+      "name": "Registeel",
+      "method": "static",
+      "optional": true
+    },
+    {
+      "order": 57,
+      "kind": "legendary",
+      "location": "",
+      "levelCap": 59,
+      "pokemon": "latias",
+      "name": "Latias",
+      "method": "roaming",
+      "optional": true
+    },
+    {
+      "order": 58,
+      "kind": "legendary",
+      "location": "",
+      "levelCap": 59,
+      "pokemon": "latios",
+      "name": "Latios",
+      "method": "roaming",
+      "optional": true
+    },
+    {
+      "order": 59,
+      "kind": "legendary",
+      "location": "marinecave",
+      "levelCap": 59,
+      "pokemon": "kyogre",
+      "name": "Kyogre",
+      "method": "static",
+      "optional": true
+    },
+    {
+      "order": 60,
+      "kind": "legendary",
+      "location": "terracave",
+      "levelCap": 59,
+      "pokemon": "groudon",
+      "name": "Groudon",
+      "method": "static",
+      "optional": true
     }
   ]
 }

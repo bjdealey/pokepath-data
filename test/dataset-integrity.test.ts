@@ -174,17 +174,41 @@ test("emerald trainers: unique slugs, team + movesets resolve, story spine groun
   for (const ms of story.milestones ?? []) assert.ok(slugs.has(ms.slug), `story milestone '${ms.name}' slug '${ms.slug}' matches no trainer`);
 });
 
-test("emerald critical path: ordered spine, beats tie to real locations", () => {
+test("emerald critical path: ordered, every beat carries its kind's payload", () => {
   const cp: any[] = story.criticalPath ?? [];
-  assert.ok(cp.length >= 20, `critical path too short: ${cp.length}`);
+  assert.ok(cp.length >= 40, `critical path too short: ${cp.length}`);
   cp.forEach((b, i) => assert.equal(b.order, i + 1, `critical-path order gap at index ${i}`));
-  const known = new Set<string>([...Object.keys(connections), ...Object.keys(enc), ...trainers.map((t) => t.location)]);
+  // Ordered by levelCap (the placement level for both battle and progression beats).
+  for (let i = 1; i < cp.length; i++) assert.ok(cp[i].levelCap >= cp[i - 1].levelCap, `critical-path level regression at beat ${cp[i].order}`);
+  const registry = new Set(((readJson("games/emerald/locations.json") as any[]) ?? []).map((l) => l.slug));
   const milestoneSlugs = new Set((story.milestones ?? []).map((m: any) => m.slug));
+  const seenKinds = new Set<string>();
   for (const b of cp) {
-    // gym/E4/champion beats reference a milestone; villain/rival beats carry a name.
-    assert.ok((b.milestone || b.name) && b.levelCap > 0, `beat ${b.order} missing milestone/name/levelCap`);
-    if (b.milestone) assert.ok(milestoneSlugs.has(b.milestone), `beat ${b.order} milestone '${b.milestone}' matches no milestone`);
-    if (b.location) assert.ok(known.has(b.location), `beat ${b.order} location '${b.location}' resolves to no game location`);
+    seenKinds.add(b.kind);
+    assert.ok(b.levelCap > 0, `beat ${b.order} has no levelCap`);
+    if (b.location) assert.ok(registry.has(b.location), `beat ${b.order} location '${b.location}' not in the registry`);
+    switch (b.kind) {
+      case "gym": case "elite-four": case "champion":
+        assert.ok(milestoneSlugs.has(b.milestone), `beat ${b.order} milestone '${b.milestone}' matches no milestone`); break;
+      case "villain": case "rival":
+        assert.ok(b.name, `beat ${b.order} (${b.kind}) has no name`); break;
+      case "hm":
+        assert.ok(machineCode(b.hm) && b.move, `beat ${b.order} hm '${b.hm}' unresolved`); break;
+      case "legendary":
+        assert.ok(pokemon.has(b.pokemon), `beat ${b.order} legendary '${b.pokemon}' unknown`); break;
+      case "item":
+        assert.ok(items.has(b.item), `beat ${b.order} item '${b.item}' unknown`); break;
+      default:
+        assert.fail(`beat ${b.order} unknown kind '${b.kind}'`);
+    }
+  }
+  // The path is genuinely enriched beyond battles.
+  for (const k of ["hm", "legendary", "item"]) assert.ok(seenKinds.has(k), `critical path has no ${k} beats`);
+});
+
+test("emerald connections: field-move requirements resolve to moves", () => {
+  for (const [slug, node] of Object.entries<any>(connections)) {
+    for (const fm of node.fieldMoves ?? []) assert.ok(moveByNorm.has(norm(fm)), `${slug}: field move '${fm}' has no move record`);
   }
 });
 

@@ -6,10 +6,11 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { GEN_DIR as DATASET } from "../paths.ts";
 import * as cheerio from "cheerio";
 import { fetchCached } from "../fetch.ts";
-import { parseExits } from "../parse/connectivity.ts";
+import { parseExits, parseFieldMoves } from "../parse/connectivity.ts";
 
 const BASE = "https://www.serebii.net/pokearth/hoenn";
 const orasUrl = (slug: string) => `${BASE}/${slug}.shtml`;
+const thirdUrl = (slug: string) => `${BASE}/3rd/${slug}.shtml`; // Emerald page — carries "Special Moves used"
 const MAX_PAGES = 140;
 
 function seedSlugs($: cheerio.CheerioAPI): string[] {
@@ -24,6 +25,7 @@ function seedSlugs($: cheerio.CheerioAPI): string[] {
 interface Node {
   name: string;
   exits: Record<string, string>;
+  fieldMoves: string[]; // field moves (HMs) Serebii lists as used here — traversal + item access, from the Emerald page
 }
 
 // Connections the ORAS "Exit" links don't encode: Dive (surface into Sootopolis
@@ -59,7 +61,15 @@ export async function scrapeConnectivity(refresh = false) {
       continue;
     }
     const { name, exits } = parseExits(html);
-    graph.set(slug, { name, exits });
+    // Field-move requirements come from the Emerald /3rd/ page (game-accurate);
+    // not every crawled location has one — those keep an empty list.
+    let fieldMoves: string[] = [];
+    try {
+      fieldMoves = parseFieldMoves(await fetchCached(thirdUrl(slug), { refresh }));
+    } catch {
+      /* no Emerald page for this location */
+    }
+    graph.set(slug, { name, exits, fieldMoves });
     for (const target of Object.values(exits)) if (!seen.has(target)) queue.push(target);
   }
 

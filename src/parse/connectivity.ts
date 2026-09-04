@@ -22,3 +22,22 @@ export function parseExits(html: string): { name: string; exits: Record<string, 
   const name = clean($("title").text()).replace(/^.*-\s*/, "");
   return { name, exits };
 }
+
+/** Parse the "Special Moves used in <location>:" list — the field moves (HMs) a
+ * location's traversal needs — from an Emerald /3rd/ pokearth page. Serebii lists
+ * them as attackdex links in one paragraph after that bold header. Returns the
+ * move names (e.g. ["Cut","Surf"]); empty when the page has no such section. */
+export function parseFieldMoves(html: string): string[] {
+  const $ = cheerio.load(html);
+  const header = $("b").filter((_i, c) => /Special Moves used in/i.test($(c).text())).first();
+  if (!header.length) return [];
+  const moves: string[] = [];
+  header
+    .closest("p")
+    .find('a[href*="attackdex"]')
+    .each((_i, a) => {
+      const name = clean($(a).text());
+      if (name && !moves.includes(name)) moves.push(name);
+    });
+  return moves;
+}

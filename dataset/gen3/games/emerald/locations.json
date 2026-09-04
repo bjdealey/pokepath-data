@@ -8,6 +8,10 @@
     "name": "Altering Cave"
   },
   {
+    "slug": "ancienttomb",
+    "name": "Ancienttomb"
+  },
+  {
     "slug": "aquahideout",
     "name": "Aqua Hideout"
   },
@@ -22,6 +26,10 @@
   {
     "slug": "caveoforigin",
     "name": "Caveoforigin"
+  },
+  {
+    "slug": "desertruins",
+    "name": "Desertruins"
   },
   {
     "slug": "desertunderpass",
@@ -52,6 +60,10 @@
     "name": "Granite Cave"
   },
   {
+    "slug": "islandcave",
+    "name": "Island Cave"
+  },
+  {
     "slug": "jaggedpass",
     "name": "Jagged Pass"
   },
@@ -70,6 +82,10 @@
   {
     "slug": "magmahideout",
     "name": "Magma Hideout"
+  },
+  {
+    "slug": "marinecave",
+    "name": "Marine Cave"
   },
   {
     "slug": "mauvillecity",
@@ -302,6 +318,10 @@
   {
     "slug": "sstidal",
     "name": "Sstidal"
+  },
+  {
+    "slug": "terracave",
+    "name": "Terra Cave"
   },
   {
     "slug": "verdanturftown",
