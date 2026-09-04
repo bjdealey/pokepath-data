@@ -17,7 +17,9 @@
   "weightKg": 205,
   "captureRate": 3,
   "baseEggSteps": 20480,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Clear Body",

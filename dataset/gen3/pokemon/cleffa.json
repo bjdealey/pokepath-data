@@ -20,7 +20,9 @@
   "weightKg": 3,
   "captureRate": 150,
   "baseEggSteps": 2560,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Cute Charm",

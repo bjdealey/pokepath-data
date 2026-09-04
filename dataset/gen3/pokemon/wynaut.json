@@ -20,7 +20,9 @@
   "weightKg": 14,
   "captureRate": 125,
   "baseEggSteps": 5120,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Shadow Tag",

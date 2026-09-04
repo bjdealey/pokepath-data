@@ -72,13 +72,14 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   flavor/location, full **learnset** — level-up, TM/HM, egg, and Emerald tutor moves),
   and **type effectiveness** (`damageTaken` — non-neutral weak/resist/immune multipliers),
   parsed from `/pokedex-rs/NNN.shtml`.
-- ✅ `moves` — all **Gen-III moves** (~355) from the `/attackdex/` AttackDex (its
+- ✅ `moves` — all **Gen-III moves** (373) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
   effect + rate, contest type. **Category is derived from type** (Gen 3 predates the
   physical/special split). Canonical — lives at `dataset/moves/<slug>.json`. Each move
   also carries **`learnedBy`** — which Pokémon learn it and how (level-up / TM-HM / egg /
   tutor), derived by inverting the Pokémon learnsets (`run.ts learnedby`, no network).
-  348/374 moves have learners, ~20.2k links. Non-standard types are handled, not dropped:
+  349/373 moves have learners, ~20.2k links. Later-gen moves whose Gen-3 page is empty
+  (0 PP, e.g. Heart Swap) are dropped. Non-standard types are handled, not dropped:
   Curse's Serebii type is mapped to Gen-3 **`???`** (typeless), and the 18 Colosseum/XD
   **Shadow** moves are tagged **`gameExclusive`** (filter with `/moves?core=true`).
 - ✅ `itemdex` — item **definitions** (name, category, **In-Depth Effect**, purchase/sell

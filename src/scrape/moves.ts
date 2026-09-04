@@ -31,6 +31,10 @@ export async function scrapeMoves(refresh = false, limit = 0) {
     try {
       const move = parseMove(await fetchCached(moveUrl(slug), { refresh }), moveUrl(slug));
       if (!move.name) continue;
+      // The Gen-III AttackDex index lists a few later-gen moves whose Gen-3 page
+      // is empty (0 PP, no data) — e.g. Heart Swap. Real Gen-3 moves always have
+      // PP; Shadow moves (Colosseum/XD) legitimately have none, so keep those.
+      if (!move.pp && move.type !== "shadow") continue;
       moves.push(move);
     } catch (err) {
       console.warn(`  ${slug}: ${(err as Error).message}`);

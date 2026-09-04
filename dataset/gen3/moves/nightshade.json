@@ -98,6 +98,12 @@
       "natdex": 356,
       "method": "level-up",
       "level": null
+    },
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "level-up",
+      "level": 5
     }
   ]
 }

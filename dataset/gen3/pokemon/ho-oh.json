@@ -18,7 +18,9 @@
   "weightKg": 199,
   "captureRate": 3,
   "baseEggSteps": 30720,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Pressure",

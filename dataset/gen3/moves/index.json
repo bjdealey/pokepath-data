@@ -882,13 +882,6 @@
     "power": null
   },
   {
-    "slug": "heartswap",
-    "name": "Heart Swap",
-    "type": "normal",
-    "category": "status",
-    "power": null
-  },
-  {
     "slug": "heatwave",
     "name": "Heat Wave",
     "type": "fire",

@@ -20,7 +20,9 @@
   "weightKg": 1.5,
   "captureRate": 190,
   "baseEggSteps": 2560,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Hustle",

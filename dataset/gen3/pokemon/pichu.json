@@ -20,7 +20,9 @@
   "weightKg": 2,
   "captureRate": 190,
   "baseEggSteps": 2560,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Static",

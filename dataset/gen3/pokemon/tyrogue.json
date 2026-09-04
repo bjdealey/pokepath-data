@@ -20,7 +20,9 @@
   "weightKg": 21,
   "captureRate": 75,
   "baseEggSteps": 6400,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Guts",

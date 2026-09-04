@@ -750,6 +750,12 @@
       "natdex": 386,
       "method": "machine",
       "machine": "TM29"
+    },
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "level-up",
+      "level": 25
     }
   ]
 }

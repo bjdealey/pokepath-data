@@ -274,6 +274,9 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
       const g = c[1] ? cellText(c[1]) : "";
       if (g && !eggGroups.includes(g)) eggGroups.push(g);
     }
+    // Legendaries/babies/etc. have no breeding group — Serebii shows "Cannot
+    // Breed" instead of a group name. Capture that rather than leaving it blank.
+    if (!eggGroups.length && /Cannot Breed/i.test(eg.text())) eggGroups.push("Cannot Breed");
   }
 
   // --- Per-game location & flavor text --------------------------------------
@@ -300,10 +303,12 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
 
   // --- Learnset: RSE level-up + TM/HM ---------------------------------------
   const levelUp: PokemonRecord["learnset"]["levelUp"] = [];
-  const lvlTable = tables.find((t) => {
-    const title = clean(t.find("tr").first().children().first().text());
-    return /Level Up/i.test(title) && /Emerald/i.test(title);
-  });
+  const lvlTitle = (t: Cheerio<Element>) => clean(t.find("tr").first().children().first().text());
+  // Prefer the Emerald-scoped level-up table; fall back to the first "Level Up"
+  // table for mons whose tables are titled per-forme, not per-game (e.g. Deoxys).
+  const lvlTable =
+    tables.find((t) => /Level Up/i.test(lvlTitle(t)) && /Emerald/i.test(lvlTitle(t))) ??
+    tables.find((t) => /Level Up/i.test(lvlTitle(t)));
   if (lvlTable) {
     for (const tr of rowsOf(lvlTable)) {
       const c = cells(tr);

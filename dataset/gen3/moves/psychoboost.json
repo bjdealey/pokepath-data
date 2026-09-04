@@ -14,5 +14,12 @@
     "url": "https://www.serebii.net/attackdex/psychoboost.shtml",
     "scrapedAt": "2026-09-03T19:25:01.469Z"
   },
-  "learnedBy": []
+  "learnedBy": [
+    {
+      "pokemon": "deoxys",
+      "natdex": 386,
+      "method": "level-up",
+      "level": 45
+    }
+  ]
 }

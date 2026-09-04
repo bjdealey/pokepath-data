@@ -55,6 +55,17 @@ test("pokemon: full dex 1–386, index matches, no unresolved evolution refs", (
   }
 });
 
+test("content quality: eggGroups + level-up populated; no non-Gen-3 leak moves", () => {
+  for (const p of pokemon.values()) {
+    assert.ok(p.eggGroups?.length, `${p.slug}: empty eggGroups (should be a group or "Cannot Breed")`);
+    assert.ok(p.learnset?.levelUp?.length, `${p.slug}: no level-up moves`);
+  }
+  for (const m of moves.values()) {
+    // Real Gen-3 moves have PP; only Shadow (side-game, tagged) legitimately have none.
+    assert.ok((m.pp as number) > 0 || m.gameExclusive, `move ${m.slug}: 0 PP but not gameExclusive — non-Gen-3 leak?`);
+  }
+});
+
 test("moves: learnedBy resolves with matching natdex; machine links valid", () => {
   for (const m of moves.values()) {
     for (const lb of m.learnedBy ?? []) {

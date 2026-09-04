@@ -17,7 +17,9 @@
   "weightKg": 5,
   "captureRate": 225,
   "baseEggSteps": 10240,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Levitate",

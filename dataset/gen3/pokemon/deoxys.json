@@ -17,7 +17,9 @@
   "weightKg": 60.8,
   "captureRate": 3,
   "baseEggSteps": 30720,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Pressure",
@@ -61,7 +63,56 @@
     "xd": "Trade from Emerald/FireRed/LeafGreen"
   },
   "learnset": {
-    "levelUp": [],
+    "levelUp": [
+      {
+        "level": null,
+        "move": "Leer"
+      },
+      {
+        "level": null,
+        "move": "Wrap"
+      },
+      {
+        "level": 5,
+        "move": "Night Shade"
+      },
+      {
+        "level": 10,
+        "move": "Teleport"
+      },
+      {
+        "level": 15,
+        "move": "Knock Off"
+      },
+      {
+        "level": 20,
+        "move": "Pursuit"
+      },
+      {
+        "level": 25,
+        "move": "Psychic"
+      },
+      {
+        "level": 30,
+        "move": "Snatch"
+      },
+      {
+        "level": 35,
+        "move": "Cosmic Power"
+      },
+      {
+        "level": 40,
+        "move": "Recover"
+      },
+      {
+        "level": 45,
+        "move": "Psycho Boost"
+      },
+      {
+        "level": 50,
+        "move": "Hyper Beam"
+      }
+    ],
     "machine": [
       {
         "machine": "TM01",

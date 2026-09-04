@@ -21,7 +21,9 @@
   "weightKg": 60,
   "captureRate": 45,
   "baseEggSteps": 5120,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Poison Point",

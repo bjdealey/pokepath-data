@@ -18,7 +18,9 @@
   "weightKg": 5,
   "captureRate": 45,
   "baseEggSteps": 30720,
-  "eggGroups": [],
+  "eggGroups": [
+    "Cannot Breed"
+  ],
   "abilities": [
     {
       "name": "Natural Cure",
