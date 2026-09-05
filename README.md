@@ -175,11 +175,13 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   level), pegged to the gym level-cap `phase`. **criticalPath** = the 60-beat playthrough:
   the battle spine (gyms + Team Aqua/Magma confrontations + rival battles) **interleaved
   with the non-battle progression** — `hm` beats (where you obtain each field move), `item`
-  beats (key items with a findable location), and `legendary` beats (in-Hoenn legendaries,
-  all flagged `optional`) — every beat ordered by `levelCap` and tied to a location slug
-  (`storypath` derive, no network). The 13 gym/E4/champion beats carry **`required: true`** — the
-  definitional mandatory spine (badges + League) for speedrun / minimum-route planning; finer
-  forced-battle data isn't in Serebii, so villain/rival beats are left unflagged. All three are **heuristic** ordering (Serebii has no
+  beats (key items with a findable location), and `legendary` beats (in-Hoenn legendaries) —
+  every beat ordered by `levelCap` and tied to a location slug (`storypath` derive, no network).
+  Every beat carries a **`necessity`**: **`required`** = the definitional mandatory spine (the 13
+  gym/E4/champion beats — badges + League, for speedrun / minimum-route planning), **`optional`** =
+  skippable side content (legendaries), **`supporting`** = on the path but not derivably classified
+  either way (villain/rival battles, HM pickups, key items — finer forced-battle data isn't in
+  Serebii). All three are **heuristic** ordering (Serebii has no
   walkthrough page), not canonical — a beat's level is a story-order proxy. Legendaries are the
   exception to level-placement: a static legendary isn't a grass encounter, so its area's wild
   level would misplace it — they're grouped as an **optional cluster after the champion** (their

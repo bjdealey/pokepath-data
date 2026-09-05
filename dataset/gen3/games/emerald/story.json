@@ -546,7 +546,8 @@
       "location": "route103",
       "levelCap": 5,
       "name": "Rival",
-      "battles": 6
+      "battles": 6,
+      "necessity": "supporting"
     },
     {
       "order": 2,
@@ -554,7 +555,8 @@
       "location": "petalburgwoods",
       "levelCap": 9,
       "name": "Team Aqua",
-      "battles": 1
+      "battles": 1,
+      "necessity": "supporting"
     },
     {
       "order": 3,
@@ -563,7 +565,8 @@
       "levelCap": 10,
       "hm": "HM05",
       "move": "Flash",
-      "method": "Gift (Hiker)"
+      "method": "Gift (Hiker)",
+      "necessity": "supporting"
     },
     {
       "order": 4,
@@ -571,7 +574,8 @@
       "location": "rusturftunnel",
       "levelCap": 11,
       "name": "Team Aqua",
-      "battles": 1
+      "battles": 1,
+      "necessity": "supporting"
     },
     {
       "order": 5,
@@ -580,7 +584,8 @@
       "levelCap": 13,
       "hm": "HM01",
       "move": "Cut",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 6,
@@ -589,7 +594,8 @@
       "levelCap": 13,
       "item": "exp-share",
       "name": "Exp. Share",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 7,
@@ -598,7 +604,8 @@
       "levelCap": 13,
       "item": "oldrod",
       "name": "Old Rod",
-      "method": "Gift from Fisherman"
+      "method": "Gift from Fisherman",
+      "necessity": "supporting"
     },
     {
       "order": 8,
@@ -607,7 +614,8 @@
       "levelCap": 14,
       "item": "pokeblockcase",
       "name": "PokéBlock Case",
-      "method": "Gift from Contest House Girl"
+      "method": "Gift from Contest House Girl",
+      "necessity": "supporting"
     },
     {
       "order": 9,
@@ -615,7 +623,7 @@
       "location": "rustborocity",
       "levelCap": 15,
       "milestone": "roxanne",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 10,
@@ -623,7 +631,8 @@
       "location": "slateportcity",
       "levelCap": 15,
       "name": "Team Aqua",
-      "battles": 2
+      "battles": 2,
+      "necessity": "supporting"
     },
     {
       "order": 11,
@@ -631,7 +640,8 @@
       "location": "rustborocity",
       "levelCap": 15,
       "name": "Rival",
-      "battles": 6
+      "battles": 6,
+      "necessity": "supporting"
     },
     {
       "order": 12,
@@ -639,7 +649,8 @@
       "location": "mauvillecity",
       "levelCap": 16,
       "name": "Rival",
-      "battles": 1
+      "battles": 1,
+      "necessity": "supporting"
     },
     {
       "order": 13,
@@ -648,7 +659,8 @@
       "levelCap": 16,
       "hm": "HM04",
       "move": "Strength",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 14,
@@ -657,7 +669,8 @@
       "levelCap": 16,
       "item": "devongoods",
       "name": "Devon Goods",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 15,
@@ -666,7 +679,8 @@
       "levelCap": 17,
       "hm": "HM06",
       "move": "Rock Smash",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 16,
@@ -675,7 +689,8 @@
       "levelCap": 17,
       "item": "acrobike",
       "name": "Acro Bike",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 17,
@@ -684,7 +699,8 @@
       "levelCap": 17,
       "item": "basementkey",
       "name": "Basement Key",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 18,
@@ -693,7 +709,8 @@
       "levelCap": 17,
       "item": "coincase",
       "name": "Coin Case",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 19,
@@ -702,7 +719,8 @@
       "levelCap": 17,
       "item": "machbike",
       "name": "Mach Bike",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 20,
@@ -710,7 +728,7 @@
       "location": "dewfordtown",
       "levelCap": 19,
       "milestone": "brawly",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 21,
@@ -718,7 +736,8 @@
       "location": "route110",
       "levelCap": 20,
       "name": "Rival",
-      "battles": 6
+      "battles": 6,
+      "necessity": "supporting"
     },
     {
       "order": 22,
@@ -726,7 +745,8 @@
       "location": "jaggedpass",
       "levelCap": 22,
       "name": "Team Magma",
-      "battles": 1
+      "battles": 1,
+      "necessity": "supporting"
     },
     {
       "order": 23,
@@ -735,7 +755,8 @@
       "levelCap": 22,
       "item": "itemfinder",
       "name": "Itemfinder",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 24,
@@ -744,7 +765,8 @@
       "levelCap": 23,
       "item": "go-goggles",
       "name": "Go-Goggles",
-      "method": "Gift from Rival"
+      "method": "Gift from Rival",
+      "necessity": "supporting"
     },
     {
       "order": 25,
@@ -752,7 +774,7 @@
       "location": "mauvillecity",
       "levelCap": 24,
       "milestone": "wattson",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 26,
@@ -761,7 +783,8 @@
       "levelCap": 24,
       "item": "sootsack",
       "name": "Soot Sack",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 27,
@@ -770,7 +793,8 @@
       "levelCap": 26,
       "hm": "HM03",
       "move": "Surf",
-      "method": "Gift from Wally's Family"
+      "method": "Gift from Wally's Family",
+      "necessity": "supporting"
     },
     {
       "order": 28,
@@ -779,7 +803,8 @@
       "levelCap": 26,
       "item": "escaperope",
       "name": "Escape Rope",
-      "method": "Floor"
+      "method": "Floor",
+      "necessity": "supporting"
     },
     {
       "order": 29,
@@ -788,7 +813,8 @@
       "levelCap": 27,
       "item": "goodrod",
       "name": "Good Rod",
-      "method": "Gift from Fisherman"
+      "method": "Gift from Fisherman",
+      "necessity": "supporting"
     },
     {
       "order": 30,
@@ -797,7 +823,8 @@
       "levelCap": 27,
       "item": "wailmerpail",
       "name": "Wailmer Pail",
-      "method": "Gift from Flower Shop"
+      "method": "Gift from Flower Shop",
+      "necessity": "supporting"
     },
     {
       "order": 31,
@@ -805,7 +832,8 @@
       "location": "route119",
       "levelCap": 28,
       "name": "Team Aqua",
-      "battles": 5
+      "battles": 5,
+      "necessity": "supporting"
     },
     {
       "order": 32,
@@ -814,7 +842,8 @@
       "levelCap": 28,
       "hm": "HM02",
       "move": "Fly",
-      "method": "Gift from Rival"
+      "method": "Gift from Rival",
+      "necessity": "supporting"
     },
     {
       "order": 33,
@@ -822,7 +851,7 @@
       "location": "lavaridgetown",
       "levelCap": 29,
       "milestone": "flannery",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 34,
@@ -831,7 +860,8 @@
       "levelCap": 30,
       "item": "devonscope",
       "name": "Devon Scope",
-      "method": "Gift from Steven"
+      "method": "Gift from Steven",
+      "necessity": "supporting"
     },
     {
       "order": 35,
@@ -839,7 +869,7 @@
       "location": "petalburgcity",
       "levelCap": 31,
       "milestone": "norman",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 36,
@@ -847,7 +877,8 @@
       "location": "route119",
       "levelCap": 31,
       "name": "Rival",
-      "battles": 6
+      "battles": 6,
+      "necessity": "supporting"
     },
     {
       "order": 37,
@@ -855,7 +886,7 @@
       "location": "fortreecity",
       "levelCap": 33,
       "milestone": "winona",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 38,
@@ -863,7 +894,8 @@
       "location": "aquahideout",
       "levelCap": 34,
       "name": "Team Aqua",
-      "battles": 7
+      "battles": 7,
+      "necessity": "supporting"
     },
     {
       "order": 39,
@@ -871,7 +903,8 @@
       "location": "lilycovecity",
       "levelCap": 34,
       "name": "Rival",
-      "battles": 6
+      "battles": 6,
+      "necessity": "supporting"
     },
     {
       "order": 40,
@@ -880,7 +913,8 @@
       "levelCap": 35,
       "hm": "HM07",
       "move": "Waterfall",
-      "method": "Gift"
+      "method": "Gift",
+      "necessity": "supporting"
     },
     {
       "order": 41,
@@ -889,7 +923,8 @@
       "levelCap": 36,
       "hm": "HM08",
       "move": "Dive",
-      "method": "Gift from Steven"
+      "method": "Gift from Steven",
+      "necessity": "supporting"
     },
     {
       "order": 42,
@@ -898,7 +933,8 @@
       "levelCap": 36,
       "item": "superrod",
       "name": "Super Rod",
-      "method": "Gift from Fisherman"
+      "method": "Gift from Fisherman",
+      "necessity": "supporting"
     },
     {
       "order": 43,
@@ -906,7 +942,8 @@
       "location": "magmahideout",
       "levelCap": 39,
       "name": "Team Magma",
-      "battles": 9
+      "battles": 9,
+      "necessity": "supporting"
     },
     {
       "order": 44,
@@ -914,7 +951,7 @@
       "location": "mossdeepcity",
       "levelCap": 42,
       "milestone": "tate-and-liza",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 45,
@@ -922,7 +959,8 @@
       "location": "mossdeepcity",
       "levelCap": 44,
       "name": "Team Magma",
-      "battles": 8
+      "battles": 8,
+      "necessity": "supporting"
     },
     {
       "order": 46,
@@ -930,7 +968,7 @@
       "location": "sootopoliscity",
       "levelCap": 46,
       "milestone": "juan",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 47,
@@ -938,7 +976,7 @@
       "location": "",
       "levelCap": 49,
       "milestone": "sidney",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 48,
@@ -946,7 +984,7 @@
       "location": "",
       "levelCap": 51,
       "milestone": "phoebe",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 49,
@@ -954,7 +992,7 @@
       "location": "",
       "levelCap": 53,
       "milestone": "glacia",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 50,
@@ -962,7 +1000,7 @@
       "location": "",
       "levelCap": 55,
       "milestone": "drake",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 51,
@@ -970,7 +1008,8 @@
       "location": "victoryroad",
       "levelCap": 57,
       "name": "Rival",
-      "battles": 5
+      "battles": 5,
+      "necessity": "supporting"
     },
     {
       "order": 52,
@@ -978,7 +1017,7 @@
       "location": "",
       "levelCap": 58,
       "milestone": "wallace",
-      "required": true
+      "necessity": "required"
     },
     {
       "order": 53,
@@ -988,7 +1027,7 @@
       "pokemon": "regirock",
       "name": "Regirock",
       "method": "static",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 54,
@@ -998,7 +1037,7 @@
       "pokemon": "regice",
       "name": "Regice",
       "method": "static",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 55,
@@ -1008,7 +1047,7 @@
       "pokemon": "registeel",
       "name": "Registeel",
       "method": "static",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 56,
@@ -1018,7 +1057,7 @@
       "pokemon": "latias",
       "name": "Latias",
       "method": "roaming",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 57,
@@ -1028,7 +1067,7 @@
       "pokemon": "latios",
       "name": "Latios",
       "method": "roaming",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 58,
@@ -1038,7 +1077,7 @@
       "pokemon": "kyogre",
       "name": "Kyogre",
       "method": "static",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 59,
@@ -1048,7 +1087,7 @@
       "pokemon": "groudon",
       "name": "Groudon",
       "method": "static",
-      "optional": true
+      "necessity": "optional"
     },
     {
       "order": 60,
@@ -1058,7 +1097,7 @@
       "pokemon": "rayquaza",
       "name": "Rayquaza",
       "method": "static",
-      "optional": true
+      "necessity": "optional"
     }
   ]
 }

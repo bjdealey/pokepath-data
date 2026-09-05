@@ -261,13 +261,17 @@ test("emerald critical path: ordered, every beat carries its kind's payload", ()
   for (const k of ["hm", "legendary", "item"]) assert.ok(seenKinds.has(k), `critical path has no ${k} beats`);
 });
 
-test("critical path: `required` marks exactly the gym/E4/champion spine", () => {
+test("critical path: `necessity` is exhaustive; required == the gym/E4/champion spine", () => {
   const cp: any[] = story.criticalPath ?? [];
   const isMilestone = (b: any) => ["gym", "elite-four", "champion"].includes(b.kind);
-  const req = cp.filter((b) => b.required);
+  for (const b of cp) {
+    assert.ok(["required", "optional", "supporting"].includes(b.necessity), `beat ${b.order}: bad necessity '${b.necessity}'`);
+    assert.ok(!("required" in b) && !("optional" in b), `beat ${b.order}: stale required/optional flag (use necessity)`);
+  }
+  const req = cp.filter((b) => b.necessity === "required");
   assert.equal(req.length, cp.filter(isMilestone).length, "required count != milestone count");
   for (const b of req) assert.ok(isMilestone(b), `beat ${b.order} required but kind '${b.kind}' is not a milestone`);
-  assert.ok(req.length >= 10, `too few required beats: ${req.length}`);
+  for (const b of cp.filter((b) => b.necessity === "optional")) assert.equal(b.kind, "legendary", `beat ${b.order} optional but kind '${b.kind}'`);
 });
 
 test("ev-training: entries resolve, points match evYield, spots in registry", () => {

@@ -22,14 +22,19 @@ export function deriveStoryPath() {
     (JSON.parse(readFileSync(`${DATASET}pokemon/index.json`, "utf8")) as Array<{ slug: string; name: string }>).map((p) => [p.slug, p.name]),
   );
 
-  // Keep the battle spine; regenerate every non-battle beat (idempotent). Flag
-  // the definitional mandatory spine (badges + League) `required` for speedrun /
-  // minimum-route planning — finer forced-battle data isn't in Serebii, so
-  // villain/rival beats are left unflagged rather than guessed.
+  // Keep the battle spine; regenerate every non-battle beat (idempotent). Every
+  // beat carries a `necessity`: the definitional mandatory spine (badges + League)
+  // is `required` (for speedrun / minimum-route planning); everything else on the
+  // path is `supporting` — finer forced-battle data isn't in Serebii, so villain/
+  // rival battles aren't promoted to `required`. Legendaries are `optional`.
   const MILESTONE = new Set(["gym", "elite-four", "champion"]);
   const battle = (story.criticalPath as StoryBeat[]).filter((b) => BATTLE.has(b.kind));
   const maxLvl = Math.max(...battle.map((b) => b.levelCap), 0);
-  const beats: Array<Omit<StoryBeat, "order">> = battle.map(({ order, ...b }) => (MILESTONE.has(b.kind) ? { ...b, required: true } : b));
+  const beats: Array<Omit<StoryBeat, "order">> = battle.map((raw) => {
+    // Strip order + any prior necessity/flags (storypath reads its own output).
+    const { order, required, optional, necessity, ...b } = raw as Record<string, unknown>;
+    return { ...(b as Omit<StoryBeat, "order" | "necessity">), necessity: MILESTONE.has(b.kind as string) ? "required" : "supporting" };
+  });
 
   // --- HM pickups: where you obtain each field move, placed at that area's level.
   const machines = JSON.parse(readFileSync(`${DATASET}machines.json`, "utf8")) as Machine[];
@@ -43,7 +48,7 @@ export function deriveStoryPath() {
       noLevel.push(`${m.machine}@${at.location}`);
       continue;
     }
-    beats.push({ kind: "hm", location: at.location, levelCap: lv, hm: m.machine, move: m.move, method: at.method });
+    beats.push({ kind: "hm", location: at.location, levelCap: lv, hm: m.machine, move: m.move, method: at.method, necessity: "supporting" });
   }
 
   // --- Story legendaries: in-Hoenn static/roaming only (event-island ones like
@@ -55,8 +60,8 @@ export function deriveStoryPath() {
   //     exposes no static-encounter level to time them precisely, so a post-champion
   //     cluster (natdex order among themselves) is the honest placement — no beat
   //     claims a false early slot.
-  //     `optional: true` is correct for EVERY one, not a limitation: these beats are
-  //     catches, and no legendary catch is mandatory in Emerald. Even Rayquaza — its
+  //     `necessity: "optional"` is correct for EVERY one, not a limitation: these beats
+  //     are catches, and no legendary catch is mandatory in Emerald. Even Rayquaza — its
   //     required story role is the Sky Pillar cutscene (it flies off to Sootopolis),
   //     not catching it, which happens later and is optional. Splitting "story-
   //     required" from "post-game" would need walkthrough curation Serebii lacks; the
@@ -72,7 +77,7 @@ export function deriveStoryPath() {
       pokemon: l.pokemon,
       name: pokeName.get(l.pokemon) ?? l.pokemon,
       method: l.method,
-      optional: true,
+      necessity: "optional",
     });
   }
 
@@ -90,7 +95,7 @@ export function deriveStoryPath() {
     const at = it.foundAt?.[0];
     const lv = at ? level.get(at.location) : undefined;
     if (!at || lv === undefined) continue;
-    beats.push({ kind: "item", location: at.location, levelCap: lv, item: it.slug, name: it.name, method: at.method });
+    beats.push({ kind: "item", location: at.location, levelCap: lv, item: it.slug, name: it.name, method: at.method, necessity: "supporting" });
   }
 
   // Order by level; stable tiebreak keeps battles before the pickups at a shared

@@ -240,8 +240,10 @@ export interface StoryBeat {
   pokemon?: string; // "legendary" beats: the Pokémon slug
   item?: string; // "item" beats: the item slug
   method?: string; // "legendary"/"item" beats: how it's obtained (static/event, or the item's find method)
-  optional?: boolean; // progression beat that's side content, not on the mandatory spine
-  required?: boolean; // the definitional mandatory spine — the 8 gym badges + Elite Four + Champion (for speedrun/minimum-route planning)
+  // required = the definitional mandatory spine (8 badges + Elite Four + Champion, for speedrun/
+  // minimum-route planning); optional = skippable side content (legendaries); supporting = on the
+  // path but not derivably classified either way (villain/rival battles, HM pickups, key items).
+  necessity: "required" | "optional" | "supporting";
 }
 
 /** An EV-training entry: a wild species that awards effort points in a stat,
