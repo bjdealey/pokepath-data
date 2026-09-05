@@ -33,6 +33,10 @@
     "speed": 85,
     "total": 580
   },
+  "evYield": {
+    "spDefense": 2,
+    "defense": 1
+  },
   "evolutionChain": [
     "suicune"
   ],

@@ -36,6 +36,9 @@
     "speed": 90,
     "total": 458
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "zangoose"
   ],

@@ -43,6 +43,9 @@
     "speed": 80,
     "total": 600
   },
+  "evYield": {
+    "attack": 3
+  },
   "evolutionChain": [
     "dratini",
     "dragonair",

@@ -37,6 +37,9 @@
     "speed": 95,
     "total": 265
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "diglett",
     "dugtrio"

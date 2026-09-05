@@ -37,6 +37,9 @@
     "speed": 81,
     "total": 540
   },
+  "evYield": {
+    "spDefense": 2
+  },
   "evolutionChain": [
     "feebas",
     "milotic"

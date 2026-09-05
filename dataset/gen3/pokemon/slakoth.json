@@ -36,6 +36,9 @@
     "speed": 30,
     "total": 280
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "slakoth",
     "vigoroth",

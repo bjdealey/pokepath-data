@@ -36,6 +36,9 @@
     "speed": 20,
     "total": 470
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "torkoal"
   ],

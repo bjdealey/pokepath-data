@@ -36,6 +36,10 @@
     "speed": 110,
     "total": 490
   },
+  "evYield": {
+    "attack": 1,
+    "speed": 1
+  },
   "evolutionChain": [
     "tauros"
   ],

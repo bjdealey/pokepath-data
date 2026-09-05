@@ -37,6 +37,9 @@
     "speed": 65,
     "total": 295
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "electrike",
     "manectric"

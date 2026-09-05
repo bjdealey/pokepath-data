@@ -43,6 +43,9 @@
     "speed": 75,
     "total": 310
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "doduo",
     "dodrio"

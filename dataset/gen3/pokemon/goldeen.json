@@ -37,6 +37,9 @@
     "speed": 63,
     "total": 320
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "goldeen",
     "seaking"

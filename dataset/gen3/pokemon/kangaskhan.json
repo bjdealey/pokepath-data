@@ -36,6 +36,9 @@
     "speed": 90,
     "total": 490
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "kangaskhan"
   ],

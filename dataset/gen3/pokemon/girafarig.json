@@ -43,6 +43,9 @@
     "speed": 85,
     "total": 455
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "girafarig"
   ],

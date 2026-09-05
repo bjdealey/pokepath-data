@@ -38,6 +38,9 @@
     "speed": 35,
     "total": 308
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "corphish",
     "crawdaunt"

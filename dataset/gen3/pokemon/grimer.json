@@ -42,6 +42,9 @@
     "speed": 25,
     "total": 325
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "grimer",
     "muk"

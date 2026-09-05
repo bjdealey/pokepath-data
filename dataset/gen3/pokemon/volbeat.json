@@ -38,6 +38,9 @@
     "speed": 85,
     "total": 400
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "volbeat",
     "illumise"

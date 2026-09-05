@@ -37,6 +37,9 @@
     "speed": 160,
     "total": 456
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "nincada",
     "ninjask",

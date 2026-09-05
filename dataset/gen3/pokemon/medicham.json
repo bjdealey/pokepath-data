@@ -37,6 +37,9 @@
     "speed": 80,
     "total": 410
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "meditite",
     "medicham"

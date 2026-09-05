@@ -38,6 +38,9 @@
     "speed": 85,
     "total": 430
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "qwilfish"
   ],

@@ -37,6 +37,9 @@
     "speed": 50,
     "total": 250
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "swinub",
     "piloswine"

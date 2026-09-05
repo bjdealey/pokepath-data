@@ -35,6 +35,9 @@ const connections: Record<string, any> = readJson("games/emerald/connections.jso
 const gifts: any[] = readJson("games/emerald/gifts.json");
 const legendaries: any[] = readJson("games/emerald/legendaries.json");
 const trades: any[] = readJson("games/emerald/trades.json");
+const natures: any[] = readJson("natures.json");
+const obtainability: any[] = readJson("games/emerald/obtainability.json");
+const STAT_KEYS = new Set(["hp", "attack", "defense", "spAttack", "spDefense", "speed"]);
 
 // A move name resolves if it matches a record slug or a record's normalized name.
 const moveByNorm = new Set([...moves.values()].map((m) => norm(m.name)));
@@ -79,6 +82,56 @@ test("abilities: collection populated; every pokemon ability resolves to it", ()
   for (const p of pokemon.values()) {
     assert.ok(Array.isArray(p.abilities) && p.abilities.length, `${p.slug}: no abilities`);
     for (const name of p.abilities as string[]) assert.ok(abilities.has(abilitySlug(name)), `${p.slug}: ability '${name}' not in the abilities collection`);
+  }
+});
+
+test("pokemon: evYield present with valid stats (Gen-3 total 1-3)", () => {
+  for (const p of pokemon.values()) {
+    const ev = Object.entries(p.evYield ?? {});
+    assert.ok(ev.length > 0, `${p.slug}: empty evYield`);
+    let sum = 0;
+    for (const [k, v] of ev) {
+      assert.ok(STAT_KEYS.has(k), `${p.slug}: evYield bad stat '${k}'`);
+      assert.ok((v as number) >= 1 && (v as number) <= 3, `${p.slug}: evYield ${k}=${v} out of range`);
+      sum += v as number;
+    }
+    assert.ok(sum >= 1 && sum <= 3, `${p.slug}: evYield total ${sum} — Gen-3 must be 1-3`);
+  }
+});
+
+test("natures: 25 valid, 5 neutral, stat keys resolve (never HP)", () => {
+  assert.equal(natures.length, 25);
+  const slugs = new Set<string>();
+  let neutral = 0;
+  for (const n of natures) {
+    assert.ok(!slugs.has(n.slug), `duplicate nature '${n.slug}'`);
+    slugs.add(n.slug);
+    if (!n.increased && !n.decreased) {
+      neutral++;
+      continue;
+    }
+    assert.ok(STAT_KEYS.has(n.increased) && STAT_KEYS.has(n.decreased), `${n.slug}: bad stat keys`);
+    assert.notEqual(n.increased, n.decreased, `${n.slug}: increased == decreased (should be neutral)`);
+    assert.notEqual(n.increased, "hp", `${n.slug}: HP is never nature-affected`);
+    assert.notEqual(n.decreased, "hp", `${n.slug}: HP is never nature-affected`);
+  }
+  assert.equal(neutral, 5, "exactly 5 neutral natures");
+});
+
+test("obtainability: covers dex, refs resolve, transitive `obtainable` is consistent", () => {
+  assert.equal(obtainability.length, pokemon.size);
+  const registry = new Set(((readJson("games/emerald/locations.json") as any[]) ?? []).map((l) => l.slug));
+  const bySlug = new Map(obtainability.map((o) => [o.pokemon, o]));
+  for (const o of obtainability) {
+    const p = pokemon.get(o.pokemon);
+    assert.ok(p, `obtainability '${o.pokemon}' unknown`);
+    assert.equal(p.natdex, o.natdex, `${o.pokemon}: natdex mismatch`);
+    if (o.evolvesFrom) assert.ok(pokemon.has(o.evolvesFrom.from), `${o.pokemon}: evolvesFrom '${o.evolvesFrom.from}' unknown`);
+    for (const w of o.wild) assert.ok(registry.has(w.location), `${o.pokemon}: wild location '${w.location}' not in registry`);
+    const preEvoObtainable = !!(o.evolvesFrom && bySlug.get(o.evolvesFrom.from)?.obtainable);
+    const directSrc = o.wild.length > 0 || o.gift || o.trade || o.event;
+    // obtainable ⟺ a direct source OR an obtainable pre-evolution.
+    assert.equal(o.obtainable, directSrc || preEvoObtainable, `${o.pokemon}: obtainable=${o.obtainable} inconsistent with sources`);
   }
 });
 

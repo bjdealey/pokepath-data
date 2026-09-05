@@ -37,6 +37,9 @@
     "speed": 110,
     "total": 600
   },
+  "evYield": {
+    "spDefense": 3
+  },
   "evolutionChain": [
     "latias"
   ],

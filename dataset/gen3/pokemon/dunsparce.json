@@ -37,6 +37,9 @@
     "speed": 45,
     "total": 415
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "dunsparce"
   ],

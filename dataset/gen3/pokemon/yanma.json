@@ -38,6 +38,9 @@
     "speed": 95,
     "total": 390
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "yanma"
   ],

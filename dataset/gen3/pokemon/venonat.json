@@ -37,6 +37,9 @@
     "speed": 45,
     "total": 305
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "venonat",
     "venomoth"

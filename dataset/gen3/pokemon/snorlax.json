@@ -42,6 +42,9 @@
     "speed": 30,
     "total": 540
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "snorlax"
   ],

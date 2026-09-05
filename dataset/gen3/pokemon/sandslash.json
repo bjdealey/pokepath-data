@@ -41,6 +41,9 @@
     "speed": 65,
     "total": 450
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "sandshrew",
     "sandslash"

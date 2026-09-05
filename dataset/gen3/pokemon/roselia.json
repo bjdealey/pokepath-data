@@ -44,6 +44,9 @@
     "speed": 65,
     "total": 400
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "roselia"
   ],

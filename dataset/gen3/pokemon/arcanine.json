@@ -42,6 +42,9 @@
     "speed": 95,
     "total": 555
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "growlithe",
     "arcanine"

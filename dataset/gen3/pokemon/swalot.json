@@ -42,6 +42,9 @@
     "speed": 55,
     "total": 467
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "gulpin",
     "swalot"

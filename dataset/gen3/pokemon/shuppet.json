@@ -41,6 +41,9 @@
     "speed": 45,
     "total": 295
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "shuppet",
     "banette"

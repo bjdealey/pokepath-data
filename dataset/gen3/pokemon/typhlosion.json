@@ -36,6 +36,9 @@
     "speed": 100,
     "total": 534
   },
+  "evYield": {
+    "spAttack": 3
+  },
   "evolutionChain": [
     "cyndaquil",
     "quilava",

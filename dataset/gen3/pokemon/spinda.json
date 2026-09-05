@@ -42,6 +42,9 @@
     "speed": 60,
     "total": 360
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "spinda"
   ],

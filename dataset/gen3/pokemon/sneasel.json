@@ -43,6 +43,9 @@
     "speed": 115,
     "total": 430
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "sneasel"
   ],

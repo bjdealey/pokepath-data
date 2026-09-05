@@ -37,6 +37,9 @@
     "speed": 65,
     "total": 365
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "nidoran-f",
     "nidorina",

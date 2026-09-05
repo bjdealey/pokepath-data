@@ -39,6 +39,9 @@
     "speed": 70,
     "total": 480
   },
+  "evYield": {
+    "spDefense": 3
+  },
   "evolutionChain": [
     "lotad",
     "lombre",

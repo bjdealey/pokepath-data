@@ -37,6 +37,10 @@
     "speed": 65,
     "total": 458
   },
+  "evYield": {
+    "spAttack": 1,
+    "attack": 1
+  },
   "evolutionChain": [
     "seviper"
   ],

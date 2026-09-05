@@ -33,6 +33,9 @@
     "speed": 60,
     "total": 515
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "porygon",
     "porygon2"

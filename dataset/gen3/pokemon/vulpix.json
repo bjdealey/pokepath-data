@@ -41,6 +41,9 @@
     "speed": 65,
     "total": 299
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "vulpix",
     "ninetales"

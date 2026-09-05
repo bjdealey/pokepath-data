@@ -37,6 +37,9 @@
     "speed": 45,
     "total": 450
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "snubbull",
     "granbull"

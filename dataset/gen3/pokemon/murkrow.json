@@ -37,6 +37,9 @@
     "speed": 91,
     "total": 405
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "murkrow"
   ],

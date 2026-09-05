@@ -37,6 +37,10 @@
     "speed": 75,
     "total": 385
   },
+  "evYield": {
+    "attack": 2,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "weedle",
     "kakuna",

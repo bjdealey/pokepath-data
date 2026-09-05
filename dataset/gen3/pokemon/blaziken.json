@@ -37,6 +37,9 @@
     "speed": 80,
     "total": 530
   },
+  "evYield": {
+    "attack": 3
+  },
   "evolutionChain": [
     "torchic",
     "combusken",

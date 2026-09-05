@@ -37,6 +37,9 @@
     "speed": 95,
     "total": 405
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "gastly",
     "haunter",

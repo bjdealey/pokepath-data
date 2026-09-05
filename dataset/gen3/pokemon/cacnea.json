@@ -42,6 +42,9 @@
     "speed": 35,
     "total": 335
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "cacnea",
     "cacturne"

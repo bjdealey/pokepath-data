@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 465
   },
+  "evYield": {
+    "spDefense": 2
+  },
   "evolutionChain": [
     "mantine"
   ],

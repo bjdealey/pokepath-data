@@ -42,6 +42,9 @@
     "speed": 120,
     "total": 490
   },
+  "evYield": {
+    "spAttack": 3
+  },
   "evolutionChain": [
     "abra",
     "kadabra",

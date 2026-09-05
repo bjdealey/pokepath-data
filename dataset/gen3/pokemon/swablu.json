@@ -38,6 +38,9 @@
     "speed": 50,
     "total": 310
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "swablu",
     "altaria"

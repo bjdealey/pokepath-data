@@ -38,6 +38,9 @@
     "speed": 50,
     "total": 250
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "hoppip",
     "skiploom",

@@ -45,6 +45,9 @@
     "speed": 100,
     "total": 420
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "zigzagoon",
     "linoone"

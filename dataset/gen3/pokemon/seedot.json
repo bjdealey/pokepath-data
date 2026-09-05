@@ -38,6 +38,9 @@
     "speed": 30,
     "total": 220
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "seedot",
     "nuzleaf",

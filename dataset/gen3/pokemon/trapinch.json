@@ -42,6 +42,9 @@
     "speed": 10,
     "total": 290
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "trapinch",
     "vibrava",

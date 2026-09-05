@@ -41,6 +41,9 @@
     "speed": 83,
     "total": 365
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "magby",
     "magmar"

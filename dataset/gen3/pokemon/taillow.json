@@ -37,6 +37,9 @@
     "speed": 85,
     "total": 270
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "taillow",
     "swellow"

@@ -33,6 +33,9 @@
     "speed": 130,
     "total": 680
   },
+  "evYield": {
+    "spAttack": 3
+  },
   "evolutionChain": [
     "mewtwo"
   ],

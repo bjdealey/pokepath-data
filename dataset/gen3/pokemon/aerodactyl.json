@@ -38,6 +38,9 @@
     "speed": 130,
     "total": 515
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "aerodactyl"
   ],

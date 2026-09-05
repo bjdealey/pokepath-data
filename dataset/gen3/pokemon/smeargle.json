@@ -36,6 +36,9 @@
     "speed": 75,
     "total": 250
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "smeargle"
   ],

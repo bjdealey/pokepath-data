@@ -41,6 +41,9 @@
     "speed": 93,
     "total": 495
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "magby",
     "magmar"

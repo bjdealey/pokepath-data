@@ -36,6 +36,9 @@
     "speed": 60,
     "total": 490
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "koffing",
     "weezing"

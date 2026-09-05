@@ -41,6 +41,9 @@
     "speed": 100,
     "total": 490
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "miltank"
   ],

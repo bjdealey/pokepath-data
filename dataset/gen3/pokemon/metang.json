@@ -39,6 +39,9 @@
     "speed": 50,
     "total": 420
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "beldum",
     "metang",

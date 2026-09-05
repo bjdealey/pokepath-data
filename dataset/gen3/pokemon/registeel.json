@@ -33,6 +33,10 @@
     "speed": 50,
     "total": 580
   },
+  "evYield": {
+    "defense": 2,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "registeel"
   ],

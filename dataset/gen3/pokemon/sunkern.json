@@ -36,6 +36,9 @@
     "speed": 30,
     "total": 180
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "sunkern",
     "sunflora"

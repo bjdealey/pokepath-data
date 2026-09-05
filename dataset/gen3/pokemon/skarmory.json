@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 465
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "skarmory"
   ],

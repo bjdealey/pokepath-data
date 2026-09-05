@@ -36,6 +36,9 @@
     "speed": 95,
     "total": 455
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "mankey",
     "primeape"

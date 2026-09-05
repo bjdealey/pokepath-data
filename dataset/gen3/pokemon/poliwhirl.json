@@ -42,6 +42,9 @@
     "speed": 90,
     "total": 385
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "poliwag",
     "poliwhirl",

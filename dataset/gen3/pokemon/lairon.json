@@ -43,6 +43,9 @@
     "speed": 40,
     "total": 430
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "aron",
     "lairon",

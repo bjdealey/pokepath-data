@@ -42,6 +42,10 @@
     "speed": 5,
     "total": 505
   },
+  "evYield": {
+    "defense": 1,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "shuckle"
   ],

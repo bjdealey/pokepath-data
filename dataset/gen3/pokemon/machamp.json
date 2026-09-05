@@ -36,6 +36,9 @@
     "speed": 55,
     "total": 505
   },
+  "evYield": {
+    "attack": 3
+  },
   "evolutionChain": [
     "machop",
     "machoke",

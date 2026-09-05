@@ -33,6 +33,9 @@
     "speed": 50,
     "total": 580
   },
+  "evYield": {
+    "defense": 3
+  },
   "evolutionChain": [
     "regirock"
   ],

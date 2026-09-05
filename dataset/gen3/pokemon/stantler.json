@@ -36,6 +36,9 @@
     "speed": 85,
     "total": 465
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "stantler"
   ],

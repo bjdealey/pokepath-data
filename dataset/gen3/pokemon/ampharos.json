@@ -37,6 +37,9 @@
     "speed": 55,
     "total": 500
   },
+  "evYield": {
+    "spAttack": 3
+  },
   "evolutionChain": [
     "mareep",
     "flaaffy",

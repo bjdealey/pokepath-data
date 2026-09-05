@@ -44,6 +44,9 @@
     "speed": 60,
     "total": 352
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "farfetchd"
   ],

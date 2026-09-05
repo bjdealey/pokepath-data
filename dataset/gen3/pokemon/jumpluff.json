@@ -38,6 +38,9 @@
     "speed": 110,
     "total": 450
   },
+  "evYield": {
+    "speed": 3
+  },
   "evolutionChain": [
     "hoppip",
     "skiploom",

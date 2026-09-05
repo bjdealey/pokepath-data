@@ -33,6 +33,10 @@
     "speed": 100,
     "total": 580
   },
+  "evYield": {
+    "attack": 2,
+    "hp": 1
+  },
   "evolutionChain": [
     "entei"
   ],

@@ -37,6 +37,9 @@
     "speed": 40,
     "total": 198
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "ralts",
     "kirlia",

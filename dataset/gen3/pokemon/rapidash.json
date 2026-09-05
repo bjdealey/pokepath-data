@@ -37,6 +37,9 @@
     "speed": 105,
     "total": 500
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "ponyta",
     "rapidash"

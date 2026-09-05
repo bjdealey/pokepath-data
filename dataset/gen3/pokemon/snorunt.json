@@ -37,6 +37,9 @@
     "speed": 50,
     "total": 300
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "snorunt",
     "glalie"

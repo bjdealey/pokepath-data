@@ -39,6 +39,9 @@
     "speed": 35,
     "total": 430
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "wooper",
     "quagsire"

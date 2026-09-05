@@ -37,6 +37,9 @@
     "speed": 70,
     "total": 310
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "treecko",
     "grovyle",

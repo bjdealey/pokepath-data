@@ -42,6 +42,9 @@
     "speed": 70,
     "total": 420
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "castform"
   ],

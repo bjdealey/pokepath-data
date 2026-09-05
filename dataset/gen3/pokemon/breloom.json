@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 460
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "shroomish",
     "breloom"

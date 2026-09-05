@@ -38,6 +38,9 @@
     "speed": 48,
     "total": 288
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "ditto"
   ],

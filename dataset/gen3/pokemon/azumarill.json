@@ -38,6 +38,9 @@
     "speed": 50,
     "total": 410
   },
+  "evYield": {
+    "hp": 3
+  },
   "evolutionChain": [
     "azurill",
     "marill",

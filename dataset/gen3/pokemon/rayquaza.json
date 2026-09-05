@@ -34,6 +34,10 @@
     "speed": 95,
     "total": 680
   },
+  "evYield": {
+    "attack": 2,
+    "spAttack": 1
+  },
   "evolutionChain": [
     "rayquaza"
   ],

@@ -38,6 +38,9 @@
     "speed": 60,
     "total": 500
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "wailmer",
     "wailord"

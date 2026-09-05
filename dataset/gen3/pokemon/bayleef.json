@@ -37,6 +37,10 @@
     "speed": 60,
     "total": 405
   },
+  "evYield": {
+    "spDefense": 1,
+    "defense": 1
+  },
   "evolutionChain": [
     "chikorita",
     "bayleef",

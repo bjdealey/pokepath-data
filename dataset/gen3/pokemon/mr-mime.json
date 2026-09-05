@@ -41,6 +41,9 @@
     "speed": 90,
     "total": 460
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "mr-mime"
   ],

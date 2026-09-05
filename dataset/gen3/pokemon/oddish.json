@@ -37,6 +37,9 @@
     "speed": 30,
     "total": 320
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "oddish",
     "gloom",

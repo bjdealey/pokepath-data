@@ -33,6 +33,10 @@
     "speed": 115,
     "total": 580
   },
+  "evYield": {
+    "speed": 2,
+    "spAttack": 1
+  },
   "evolutionChain": [
     "raikou"
   ],

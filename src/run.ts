@@ -21,6 +21,8 @@ import { deriveLegendaries } from "./derive/legendaries.ts";
 import { deriveAbilities } from "./derive/abilities.ts";
 import { deriveLocations } from "./derive/locations.ts";
 import { deriveStoryPath } from "./derive/storypath.ts";
+import { deriveNatures } from "./derive/natures.ts";
+import { deriveObtainability } from "./derive/obtainability.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeTrades } from "./scrape/trades.ts";
@@ -162,6 +164,14 @@ if (!entity || entity === "pokemon") {
   const r = deriveStoryPath();
   console.log(`✔ ${r.beats}-beat critical path ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/story.json`);
   if (r.noLevel.length) console.warn(`⚠ ${r.noLevel.length} HM(s) at a location with no inferred level: ${r.noLevel.join(", ")}`);
+} else if (entity === "natures") {
+  console.log(`▶ writing the 25 Gen-3 natures reference…`);
+  const r = deriveNatures();
+  console.log(`✔ ${r.natures} natures (${r.neutral} neutral) → dataset/gen3/natures.json`);
+} else if (entity === "obtainability") {
+  console.log(`▶ deriving how each species is obtained in Emerald…`);
+  const r = deriveObtainability();
+  console.log(`✔ ${r.obtainable}/${r.species} obtainable in-game (${r.wildSourced} wild-sourced) → dataset/gen3/games/emerald/obtainability.json`);
 } else if (entity === "locations") {
   console.log(`▶ building the canonical location registry from the game data…`);
   const r = deriveLocations();
@@ -171,6 +181,6 @@ if (!entity || entity === "pokemon") {
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "storypath", "locations", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "natures", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "storypath", "obtainability", "locations", or "manifest"`);
   process.exit(1);
 }

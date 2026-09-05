@@ -38,6 +38,9 @@
     "speed": 51,
     "total": 460
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "tropius"
   ],

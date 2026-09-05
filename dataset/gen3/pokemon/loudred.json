@@ -42,6 +42,9 @@
     "speed": 48,
     "total": 360
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "whismur",
     "loudred",

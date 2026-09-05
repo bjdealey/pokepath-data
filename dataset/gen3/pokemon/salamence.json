@@ -42,6 +42,9 @@
     "speed": 100,
     "total": 600
   },
+  "evYield": {
+    "attack": 3
+  },
   "evolutionChain": [
     "bagon",
     "shelgon",

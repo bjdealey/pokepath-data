@@ -37,6 +37,9 @@
     "speed": 55,
     "total": 520
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "exeggcute",
     "exeggutor"

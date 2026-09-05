@@ -39,6 +39,9 @@
     "speed": 25,
     "total": 345
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "rhyhorn",
     "rhydon"

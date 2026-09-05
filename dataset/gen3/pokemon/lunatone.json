@@ -39,6 +39,9 @@
     "speed": 70,
     "total": 440
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "lunatone"
   ],

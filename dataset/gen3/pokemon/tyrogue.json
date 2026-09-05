@@ -36,6 +36,9 @@
     "speed": 35,
     "total": 210
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "tyrogue",
     "hitmonchan",

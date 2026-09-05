@@ -36,6 +36,9 @@
     "speed": 55,
     "total": 325
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "eevee",
     "jolteon",

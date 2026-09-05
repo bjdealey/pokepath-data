@@ -37,6 +37,9 @@
     "speed": 40,
     "total": 325
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "exeggcute",
     "exeggutor"

@@ -442,6 +442,24 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     }
   }
 
+  // --- EV yield ("Effort Points from Battling it": "<Stat>: N Point(s)", comma-
+  //     separated for multi-stat) → stat key → points -------------------------
+  const evYield: Record<string, number> = {};
+  const EV_STAT: Record<string, string> = {
+    hp: "hp", attack: "attack", defense: "defense",
+    "special attack": "spAttack", "special defense": "spDefense", speed: "speed",
+  };
+  const evHeader = $("td").filter((_i, c) => /^Effort Points from Battling it$/i.test(cellText(c))).first();
+  if (evHeader.length) {
+    const idx = evHeader.parent().children().index(evHeader);
+    const valCell = evHeader.closest("tr").next("tr").children().get(idx);
+    const txt = valCell ? cellText(valCell) : "";
+    for (const m of txt.matchAll(/([A-Za-z][A-Za-z. ]*?)\s*:?\s*(\d+)\s*Points?/g)) {
+      const stat = EV_STAT[clean(m[1]!).toLowerCase()];
+      if (stat) evYield[stat] = Number(m[2]);
+    }
+  }
+
   const record: PokemonRecord = {
     slug: slugify(name),
     natdex,
@@ -458,6 +476,7 @@ export function parsePokemon(html: string, url: string): ParsedPokemon {
     abilities,
     wildItems,
     baseStats,
+    evYield,
     evolutionChain: [], // resolved from evoDex in run.ts
     evolutions: [], // resolved from evoEdges in run.ts
     damageTaken,

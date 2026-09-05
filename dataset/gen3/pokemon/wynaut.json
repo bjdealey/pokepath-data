@@ -36,6 +36,9 @@
     "speed": 23,
     "total": 260
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "wynaut",
     "wobbuffet"

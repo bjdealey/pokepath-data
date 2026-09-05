@@ -38,6 +38,9 @@
     "speed": 65,
     "total": 269
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "surskit",
     "masquerain"

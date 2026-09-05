@@ -37,6 +37,9 @@
     "speed": 80,
     "total": 470
   },
+  "evYield": {
+    "spDefense": 2
+  },
   "evolutionChain": [
     "spoink",
     "grumpig"

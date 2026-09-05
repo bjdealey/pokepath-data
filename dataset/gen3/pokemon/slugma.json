@@ -37,6 +37,9 @@
     "speed": 20,
     "total": 250
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "slugma",
     "magcargo"

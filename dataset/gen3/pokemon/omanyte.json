@@ -39,6 +39,9 @@
     "speed": 35,
     "total": 355
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "omanyte",
     "omastar"

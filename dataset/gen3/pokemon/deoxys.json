@@ -33,6 +33,11 @@
     "speed": 150,
     "total": 600
   },
+  "evYield": {
+    "attack": 1,
+    "speed": 1,
+    "spAttack": 1
+  },
   "evolutionChain": [
     "deoxys"
   ],

@@ -37,6 +37,9 @@
     "speed": 105,
     "total": 500
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "scyther",
     "scizor"

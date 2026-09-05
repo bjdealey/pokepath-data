@@ -36,6 +36,9 @@
     "speed": 67,
     "total": 483
   },
+  "evYield": {
+    "spDefense": 2
+  },
   "evolutionChain": [
     "drowzee",
     "hypno"

@@ -37,6 +37,9 @@
     "speed": 72,
     "total": 253
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "rattata",
     "raticate"

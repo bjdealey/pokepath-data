@@ -34,6 +34,9 @@
     "speed": 140,
     "total": 480
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "voltorb",
     "electrode"

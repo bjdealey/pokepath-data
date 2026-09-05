@@ -42,6 +42,9 @@
     "speed": 20,
     "total": 215
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "sentret",
     "furret"

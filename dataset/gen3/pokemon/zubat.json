@@ -37,6 +37,9 @@
     "speed": 55,
     "total": 245
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "zubat",
     "golbat",

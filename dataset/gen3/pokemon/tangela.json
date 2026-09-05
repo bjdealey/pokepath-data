@@ -36,6 +36,9 @@
     "speed": 60,
     "total": 435
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "tangela"
   ],

@@ -37,6 +37,9 @@
     "speed": 95,
     "total": 460
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "carvanha",
     "sharpedo"

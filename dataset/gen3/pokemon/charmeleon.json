@@ -37,6 +37,10 @@
     "speed": 80,
     "total": 405
   },
+  "evYield": {
+    "spAttack": 1,
+    "speed": 1
+  },
   "evolutionChain": [
     "charmander",
     "charmeleon",

@@ -37,6 +37,9 @@
     "speed": 65,
     "total": 309
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "charmander",
     "charmeleon",

@@ -37,6 +37,9 @@
     "speed": 25,
     "total": 237
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "makuhita",
     "hariyama"

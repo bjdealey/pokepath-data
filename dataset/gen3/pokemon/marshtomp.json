@@ -38,6 +38,9 @@
     "speed": 50,
     "total": 405
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "mudkip",
     "marshtomp",

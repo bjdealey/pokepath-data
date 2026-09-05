@@ -43,6 +43,10 @@
     "speed": 60,
     "total": 414
   },
+  "evYield": {
+    "spAttack": 1,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "surskit",
     "masquerain"

@@ -44,6 +44,10 @@
     "speed": 55,
     "total": 485
   },
+  "evYield": {
+    "hp": 1,
+    "defense": 1
+  },
   "evolutionChain": [
     "relicanth"
   ],

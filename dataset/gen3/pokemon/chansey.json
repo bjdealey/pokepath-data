@@ -42,6 +42,9 @@
     "speed": 50,
     "total": 450
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "chansey",
     "blissey"

@@ -42,6 +42,9 @@
     "speed": 35,
     "total": 320
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "cubone",
     "marowak"

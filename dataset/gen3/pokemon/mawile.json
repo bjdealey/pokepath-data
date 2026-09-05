@@ -38,6 +38,10 @@
     "speed": 50,
     "total": 380
   },
+  "evYield": {
+    "attack": 1,
+    "defense": 1
+  },
   "evolutionChain": [
     "mawile"
   ],

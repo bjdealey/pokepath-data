@@ -1,0 +1,7374 @@
+[
+  {
+    "pokemon": "bulbasaur",
+    "natdex": 1,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "ivysaur",
+    "natdex": 2,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "bulbasaur",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "venusaur",
+    "natdex": 3,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "ivysaur",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "charmander",
+    "natdex": 4,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "charmeleon",
+    "natdex": 5,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "charmander",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "charizard",
+    "natdex": 6,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "charmeleon",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "squirtle",
+    "natdex": 7,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "wartortle",
+    "natdex": 8,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "squirtle",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "blastoise",
+    "natdex": 9,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "wartortle",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "caterpie",
+    "natdex": 10,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "metapod",
+    "natdex": 11,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "caterpie",
+      "method": "Level 7"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "butterfree",
+    "natdex": 12,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "metapod",
+      "method": "Level 10"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "weedle",
+    "natdex": 13,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "kakuna",
+    "natdex": 14,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "weedle",
+      "method": "Level 7"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "beedrill",
+    "natdex": 15,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "kakuna",
+      "method": "Level 10"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "pidgey",
+    "natdex": 16,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "pidgeotto",
+    "natdex": 17,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "pidgey",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "pidgeot",
+    "natdex": 18,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "pidgeotto",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "rattata",
+    "natdex": 19,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "raticate",
+    "natdex": 20,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "rattata",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "spearow",
+    "natdex": 21,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "fearow",
+    "natdex": 22,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "spearow",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "ekans",
+    "natdex": 23,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "arbok",
+    "natdex": 24,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "ekans",
+      "method": "Level 22"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "pikachu",
+    "natdex": 25,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "pichu",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "raichu",
+    "natdex": 26,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "pikachu",
+      "method": "Thunder Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sandshrew",
+    "natdex": 27,
+    "wild": [
+      {
+        "location": "miragetower",
+        "method": "grass"
+      },
+      {
+        "location": "route111",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sandslash",
+    "natdex": 28,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "sandshrew",
+      "method": "Level 22"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "nidoran-f",
+    "natdex": 29,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nidoran-f",
+      "method": "Female"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "nidorina",
+    "natdex": 30,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nidoran-f",
+      "method": "Level 16"
+    },
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "nidoqueen",
+    "natdex": 31,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nidorina",
+      "method": "Moon Stone"
+    },
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "nidoran-m",
+    "natdex": 32,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nidoran-f",
+      "method": "Male"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "nidorino",
+    "natdex": 33,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nidoran-m",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "nidoking",
+    "natdex": 34,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nidorino",
+      "method": "Moon Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "clefairy",
+    "natdex": 35,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "cleffa",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "clefable",
+    "natdex": 36,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "clefairy",
+      "method": "Moon Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "vulpix",
+    "natdex": 37,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "ninetales",
+    "natdex": 38,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "vulpix",
+      "method": "Fire Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "jigglypuff",
+    "natdex": 39,
+    "wild": [
+      {
+        "location": "route115",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "igglybuff",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "wigglytuff",
+    "natdex": 40,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "jigglypuff",
+      "method": "Moon Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "zubat",
+    "natdex": 41,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "caveoforigin",
+        "method": "grass"
+      },
+      {
+        "location": "granitecave",
+        "method": "grass"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "grass"
+      },
+      {
+        "location": "shoalcave",
+        "method": "grass"
+      },
+      {
+        "location": "shoalcave",
+        "method": "surf"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "golbat",
+    "natdex": 42,
+    "wild": [
+      {
+        "location": "caveoforigin",
+        "method": "grass"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "grass"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "surf"
+      },
+      {
+        "location": "shoalcave",
+        "method": "grass"
+      },
+      {
+        "location": "skypillar",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "zubat",
+      "method": "Level 22"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "oddish",
+    "natdex": 43,
+    "wild": [
+      {
+        "location": "route110",
+        "method": "grass"
+      },
+      {
+        "location": "route117",
+        "method": "grass"
+      },
+      {
+        "location": "route119",
+        "method": "grass"
+      },
+      {
+        "location": "route120",
+        "method": "grass"
+      },
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "gloom",
+    "natdex": 44,
+    "wild": [
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "oddish",
+      "method": "Level 21"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "vileplume",
+    "natdex": 45,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "gloom",
+      "method": "Leaf Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "paras",
+    "natdex": 46,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "parasect",
+    "natdex": 47,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "paras",
+      "method": "Level 24"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "venonat",
+    "natdex": 48,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "venomoth",
+    "natdex": 49,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "venonat",
+      "method": "Level 31"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "diglett",
+    "natdex": 50,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "dugtrio",
+    "natdex": 51,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "diglett",
+      "method": "Level 26"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "meowth",
+    "natdex": 52,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": true,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "persian",
+    "natdex": 53,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "meowth",
+      "method": "Level 28"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "psyduck",
+    "natdex": 54,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "golduck",
+    "natdex": 55,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "psyduck",
+      "method": "Level 33"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "mankey",
+    "natdex": 56,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "primeape",
+    "natdex": 57,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "mankey",
+      "method": "Level 28"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "growlithe",
+    "natdex": 58,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "arcanine",
+    "natdex": 59,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "growlithe",
+      "method": "Fire Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "poliwag",
+    "natdex": 60,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "poliwhirl",
+    "natdex": 61,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "poliwag",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "poliwrath",
+    "natdex": 62,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "poliwhirl",
+      "method": "Water Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "abra",
+    "natdex": 63,
+    "wild": [
+      {
+        "location": "granitecave",
+        "method": "grass"
+      },
+      {
+        "location": "route116",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "kadabra",
+    "natdex": 64,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "abra",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "alakazam",
+    "natdex": 65,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "kadabra",
+      "method": "Trade"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "machop",
+    "natdex": 66,
+    "wild": [
+      {
+        "location": "fierypath",
+        "method": "grass"
+      },
+      {
+        "location": "jaggedpass",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "machoke",
+    "natdex": 67,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "machop",
+      "method": "Level 28"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "machamp",
+    "natdex": 68,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "machoke",
+      "method": "Trade"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "bellsprout",
+    "natdex": 69,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "weepinbell",
+    "natdex": 70,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "bellsprout",
+      "method": "Level 21"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "victreebel",
+    "natdex": 71,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "weepinbell",
+      "method": "Leaf Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "tentacool",
+    "natdex": 72,
+    "wild": [
+      {
+        "location": "abandonedship",
+        "method": "surf"
+      },
+      {
+        "location": "abandonedship",
+        "method": "old-rod"
+      },
+      {
+        "location": "abandonedship",
+        "method": "good-rod"
+      },
+      {
+        "location": "abandonedship",
+        "method": "super-rod"
+      },
+      {
+        "location": "dewfordtown",
+        "method": "old-rod"
+      },
+      {
+        "location": "dewfordtown",
+        "method": "good-rod"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "surf"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "old-rod"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "surf"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "old-rod"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "good-rod"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "surf"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "old-rod"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "surf"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "old-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "good-rod"
+      },
+      {
+        "location": "route103",
+        "method": "surf"
+      },
+      {
+        "location": "route103",
+        "method": "old-rod"
+      },
+      {
+        "location": "route103",
+        "method": "good-rod"
+      },
+      {
+        "location": "route105",
+        "method": "surf"
+      },
+      {
+        "location": "route105",
+        "method": "old-rod"
+      },
+      {
+        "location": "route105",
+        "method": "good-rod"
+      },
+      {
+        "location": "route106",
+        "method": "surf"
+      },
+      {
+        "location": "route106",
+        "method": "old-rod"
+      },
+      {
+        "location": "route106",
+        "method": "good-rod"
+      },
+      {
+        "location": "route107",
+        "method": "surf"
+      },
+      {
+        "location": "route107",
+        "method": "old-rod"
+      },
+      {
+        "location": "route107",
+        "method": "good-rod"
+      },
+      {
+        "location": "route108",
+        "method": "surf"
+      },
+      {
+        "location": "route108",
+        "method": "old-rod"
+      },
+      {
+        "location": "route108",
+        "method": "good-rod"
+      },
+      {
+        "location": "route109",
+        "method": "surf"
+      },
+      {
+        "location": "route109",
+        "method": "old-rod"
+      },
+      {
+        "location": "route109",
+        "method": "good-rod"
+      },
+      {
+        "location": "route110",
+        "method": "surf"
+      },
+      {
+        "location": "route110",
+        "method": "old-rod"
+      },
+      {
+        "location": "route110",
+        "method": "good-rod"
+      },
+      {
+        "location": "route115",
+        "method": "surf"
+      },
+      {
+        "location": "route115",
+        "method": "old-rod"
+      },
+      {
+        "location": "route115",
+        "method": "good-rod"
+      },
+      {
+        "location": "route118",
+        "method": "surf"
+      },
+      {
+        "location": "route118",
+        "method": "good-rod"
+      },
+      {
+        "location": "route119",
+        "method": "surf"
+      },
+      {
+        "location": "route119",
+        "method": "good-rod"
+      },
+      {
+        "location": "route121",
+        "method": "surf"
+      },
+      {
+        "location": "route121",
+        "method": "old-rod"
+      },
+      {
+        "location": "route121",
+        "method": "good-rod"
+      },
+      {
+        "location": "route122",
+        "method": "surf"
+      },
+      {
+        "location": "route122",
+        "method": "old-rod"
+      },
+      {
+        "location": "route122",
+        "method": "good-rod"
+      },
+      {
+        "location": "route123",
+        "method": "surf"
+      },
+      {
+        "location": "route123",
+        "method": "old-rod"
+      },
+      {
+        "location": "route123",
+        "method": "good-rod"
+      },
+      {
+        "location": "route124",
+        "method": "surf"
+      },
+      {
+        "location": "route124",
+        "method": "old-rod"
+      },
+      {
+        "location": "route124",
+        "method": "good-rod"
+      },
+      {
+        "location": "route125",
+        "method": "surf"
+      },
+      {
+        "location": "route125",
+        "method": "old-rod"
+      },
+      {
+        "location": "route125",
+        "method": "good-rod"
+      },
+      {
+        "location": "route126",
+        "method": "surf"
+      },
+      {
+        "location": "route126",
+        "method": "old-rod"
+      },
+      {
+        "location": "route126",
+        "method": "good-rod"
+      },
+      {
+        "location": "route127",
+        "method": "surf"
+      },
+      {
+        "location": "route127",
+        "method": "old-rod"
+      },
+      {
+        "location": "route127",
+        "method": "good-rod"
+      },
+      {
+        "location": "route128",
+        "method": "surf"
+      },
+      {
+        "location": "route128",
+        "method": "old-rod"
+      },
+      {
+        "location": "route129",
+        "method": "surf"
+      },
+      {
+        "location": "route129",
+        "method": "old-rod"
+      },
+      {
+        "location": "route129",
+        "method": "good-rod"
+      },
+      {
+        "location": "route130",
+        "method": "surf"
+      },
+      {
+        "location": "route130",
+        "method": "old-rod"
+      },
+      {
+        "location": "route130",
+        "method": "good-rod"
+      },
+      {
+        "location": "route131",
+        "method": "surf"
+      },
+      {
+        "location": "route131",
+        "method": "old-rod"
+      },
+      {
+        "location": "route131",
+        "method": "good-rod"
+      },
+      {
+        "location": "route132",
+        "method": "surf"
+      },
+      {
+        "location": "route132",
+        "method": "old-rod"
+      },
+      {
+        "location": "route132",
+        "method": "good-rod"
+      },
+      {
+        "location": "route133",
+        "method": "surf"
+      },
+      {
+        "location": "route133",
+        "method": "old-rod"
+      },
+      {
+        "location": "route133",
+        "method": "good-rod"
+      },
+      {
+        "location": "route134",
+        "method": "surf"
+      },
+      {
+        "location": "route134",
+        "method": "old-rod"
+      },
+      {
+        "location": "route134",
+        "method": "good-rod"
+      },
+      {
+        "location": "shoalcave",
+        "method": "surf"
+      },
+      {
+        "location": "shoalcave",
+        "method": "old-rod"
+      },
+      {
+        "location": "shoalcave",
+        "method": "good-rod"
+      },
+      {
+        "location": "slateportcity",
+        "method": "surf"
+      },
+      {
+        "location": "slateportcity",
+        "method": "old-rod"
+      },
+      {
+        "location": "slateportcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "sootopoliscity",
+        "method": "old-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "tentacruel",
+    "natdex": 73,
+    "wild": [
+      {
+        "location": "abandonedship",
+        "method": "surf"
+      },
+      {
+        "location": "abandonedship",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "tentacool",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "geodude",
+    "natdex": 74,
+    "wild": [
+      {
+        "location": "granitecave",
+        "method": "grass"
+      },
+      {
+        "location": "granitecave",
+        "method": "rock-smash"
+      },
+      {
+        "location": "magmahideout",
+        "method": "grass"
+      },
+      {
+        "location": "route111",
+        "method": "rock-smash"
+      },
+      {
+        "location": "route114",
+        "method": "rock-smash"
+      },
+      {
+        "location": "safarizone",
+        "method": "rock-smash"
+      },
+      {
+        "location": "victoryroad",
+        "method": "rock-smash"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "graveler",
+    "natdex": 75,
+    "wild": [
+      {
+        "location": "magmahideout",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "rock-smash"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "geodude",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "golem",
+    "natdex": 76,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "graveler",
+      "method": "Trade"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ponyta",
+    "natdex": 77,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "rapidash",
+    "natdex": 78,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "ponyta",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "slowpoke",
+    "natdex": 79,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "slowbro",
+    "natdex": 80,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "slowpoke",
+      "method": "Level 37"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "magnemite",
+    "natdex": 81,
+    "wild": [
+      {
+        "location": "newmauville",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "magneton",
+    "natdex": 82,
+    "wild": [
+      {
+        "location": "newmauville",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "magnemite",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "farfetchd",
+    "natdex": 83,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "doduo",
+    "natdex": 84,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "dodrio",
+    "natdex": 85,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "doduo",
+      "method": "Level 31"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "seel",
+    "natdex": 86,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "dewgong",
+    "natdex": 87,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "seel",
+      "method": "Level 34"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "grimer",
+    "natdex": 88,
+    "wild": [
+      {
+        "location": "fierypath",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "muk",
+    "natdex": 89,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "grimer",
+      "method": "Level 38"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "shellder",
+    "natdex": 90,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "cloyster",
+    "natdex": 91,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "shellder",
+      "method": "Water Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "gastly",
+    "natdex": 92,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "haunter",
+    "natdex": 93,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "gastly",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "gengar",
+    "natdex": 94,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "haunter",
+      "method": "Trade"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "onix",
+    "natdex": 95,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "drowzee",
+    "natdex": 96,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "hypno",
+    "natdex": 97,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "drowzee",
+      "method": "Level 26"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "krabby",
+    "natdex": 98,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "kingler",
+    "natdex": 99,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "krabby",
+      "method": "Level 28"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "voltorb",
+    "natdex": 100,
+    "wild": [
+      {
+        "location": "newmauville",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "electrode",
+    "natdex": 101,
+    "wild": [
+      {
+        "location": "newmauville",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "voltorb",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "exeggcute",
+    "natdex": 102,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "exeggutor",
+    "natdex": 103,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "exeggcute",
+      "method": "Leaf Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "cubone",
+    "natdex": 104,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "marowak",
+    "natdex": 105,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "cubone",
+      "method": "Level 28"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "hitmonlee",
+    "natdex": 106,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "tyrogue",
+      "method": "Tyrogue20agd"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "hitmonchan",
+    "natdex": 107,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "tyrogue",
+      "method": "Tyrogue20ald"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "lickitung",
+    "natdex": 108,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "koffing",
+    "natdex": 109,
+    "wild": [
+      {
+        "location": "fierypath",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "weezing",
+    "natdex": 110,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "koffing",
+      "method": "Level 35"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "rhyhorn",
+    "natdex": 111,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "rhydon",
+    "natdex": 112,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "rhyhorn",
+      "method": "Level 42"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "chansey",
+    "natdex": 113,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "tangela",
+    "natdex": 114,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "kangaskhan",
+    "natdex": 115,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "horsea",
+    "natdex": 116,
+    "wild": [
+      {
+        "location": "route132",
+        "method": "super-rod"
+      },
+      {
+        "location": "route133",
+        "method": "super-rod"
+      },
+      {
+        "location": "route134",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": true,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "seadra",
+    "natdex": 117,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "horsea",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "goldeen",
+    "natdex": 118,
+    "wild": [
+      {
+        "location": "meteorfalls",
+        "method": "old-rod"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "good-rod"
+      },
+      {
+        "location": "petalburgcity",
+        "method": "old-rod"
+      },
+      {
+        "location": "petalburgcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "route102",
+        "method": "surf"
+      },
+      {
+        "location": "route102",
+        "method": "old-rod"
+      },
+      {
+        "location": "route102",
+        "method": "good-rod"
+      },
+      {
+        "location": "route111",
+        "method": "surf"
+      },
+      {
+        "location": "route111",
+        "method": "old-rod"
+      },
+      {
+        "location": "route111",
+        "method": "good-rod"
+      },
+      {
+        "location": "route114",
+        "method": "surf"
+      },
+      {
+        "location": "route114",
+        "method": "old-rod"
+      },
+      {
+        "location": "route114",
+        "method": "good-rod"
+      },
+      {
+        "location": "route117",
+        "method": "surf"
+      },
+      {
+        "location": "route117",
+        "method": "old-rod"
+      },
+      {
+        "location": "route117",
+        "method": "good-rod"
+      },
+      {
+        "location": "route118",
+        "method": "old-rod"
+      },
+      {
+        "location": "route119",
+        "method": "old-rod"
+      },
+      {
+        "location": "route120",
+        "method": "surf"
+      },
+      {
+        "location": "route120",
+        "method": "old-rod"
+      },
+      {
+        "location": "route120",
+        "method": "good-rod"
+      },
+      {
+        "location": "safarizone",
+        "method": "old-rod"
+      },
+      {
+        "location": "safarizone",
+        "method": "good-rod"
+      },
+      {
+        "location": "safarizone",
+        "method": "super-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "old-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "good-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "seaking",
+    "natdex": 119,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "goldeen",
+      "method": "Level 33"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "staryu",
+    "natdex": 120,
+    "wild": [
+      {
+        "location": "lilycovecity",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "starmie",
+    "natdex": 121,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "staryu",
+      "method": "Water Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "mr-mime",
+    "natdex": 122,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "scyther",
+    "natdex": 123,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "jynx",
+    "natdex": 124,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "smoochum",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "electabuzz",
+    "natdex": 125,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "elekid",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "magmar",
+    "natdex": 126,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "magby",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "pinsir",
+    "natdex": 127,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "tauros",
+    "natdex": 128,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "magikarp",
+    "natdex": 129,
+    "wild": [
+      {
+        "location": "abandonedship",
+        "method": "old-rod"
+      },
+      {
+        "location": "abandonedship",
+        "method": "good-rod"
+      },
+      {
+        "location": "dewfordtown",
+        "method": "old-rod"
+      },
+      {
+        "location": "dewfordtown",
+        "method": "good-rod"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "old-rod"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "good-rod"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "old-rod"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "good-rod"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "old-rod"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "good-rod"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "old-rod"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "old-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "good-rod"
+      },
+      {
+        "location": "petalburgcity",
+        "method": "old-rod"
+      },
+      {
+        "location": "petalburgcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "route102",
+        "method": "old-rod"
+      },
+      {
+        "location": "route102",
+        "method": "good-rod"
+      },
+      {
+        "location": "route103",
+        "method": "old-rod"
+      },
+      {
+        "location": "route103",
+        "method": "good-rod"
+      },
+      {
+        "location": "route104",
+        "method": "old-rod"
+      },
+      {
+        "location": "route104",
+        "method": "good-rod"
+      },
+      {
+        "location": "route104",
+        "method": "super-rod"
+      },
+      {
+        "location": "route105",
+        "method": "old-rod"
+      },
+      {
+        "location": "route105",
+        "method": "good-rod"
+      },
+      {
+        "location": "route106",
+        "method": "old-rod"
+      },
+      {
+        "location": "route106",
+        "method": "good-rod"
+      },
+      {
+        "location": "route107",
+        "method": "old-rod"
+      },
+      {
+        "location": "route107",
+        "method": "good-rod"
+      },
+      {
+        "location": "route108",
+        "method": "old-rod"
+      },
+      {
+        "location": "route108",
+        "method": "good-rod"
+      },
+      {
+        "location": "route109",
+        "method": "old-rod"
+      },
+      {
+        "location": "route109",
+        "method": "good-rod"
+      },
+      {
+        "location": "route110",
+        "method": "old-rod"
+      },
+      {
+        "location": "route110",
+        "method": "good-rod"
+      },
+      {
+        "location": "route111",
+        "method": "old-rod"
+      },
+      {
+        "location": "route111",
+        "method": "good-rod"
+      },
+      {
+        "location": "route114",
+        "method": "old-rod"
+      },
+      {
+        "location": "route114",
+        "method": "good-rod"
+      },
+      {
+        "location": "route115",
+        "method": "old-rod"
+      },
+      {
+        "location": "route115",
+        "method": "good-rod"
+      },
+      {
+        "location": "route117",
+        "method": "old-rod"
+      },
+      {
+        "location": "route117",
+        "method": "good-rod"
+      },
+      {
+        "location": "route118",
+        "method": "old-rod"
+      },
+      {
+        "location": "route118",
+        "method": "good-rod"
+      },
+      {
+        "location": "route119",
+        "method": "old-rod"
+      },
+      {
+        "location": "route119",
+        "method": "good-rod"
+      },
+      {
+        "location": "route120",
+        "method": "old-rod"
+      },
+      {
+        "location": "route120",
+        "method": "good-rod"
+      },
+      {
+        "location": "route121",
+        "method": "old-rod"
+      },
+      {
+        "location": "route121",
+        "method": "good-rod"
+      },
+      {
+        "location": "route122",
+        "method": "old-rod"
+      },
+      {
+        "location": "route122",
+        "method": "good-rod"
+      },
+      {
+        "location": "route123",
+        "method": "old-rod"
+      },
+      {
+        "location": "route123",
+        "method": "good-rod"
+      },
+      {
+        "location": "route124",
+        "method": "old-rod"
+      },
+      {
+        "location": "route124",
+        "method": "good-rod"
+      },
+      {
+        "location": "route125",
+        "method": "old-rod"
+      },
+      {
+        "location": "route125",
+        "method": "good-rod"
+      },
+      {
+        "location": "route126",
+        "method": "old-rod"
+      },
+      {
+        "location": "route126",
+        "method": "good-rod"
+      },
+      {
+        "location": "route127",
+        "method": "old-rod"
+      },
+      {
+        "location": "route127",
+        "method": "good-rod"
+      },
+      {
+        "location": "route128",
+        "method": "old-rod"
+      },
+      {
+        "location": "route128",
+        "method": "good-rod"
+      },
+      {
+        "location": "route129",
+        "method": "old-rod"
+      },
+      {
+        "location": "route129",
+        "method": "good-rod"
+      },
+      {
+        "location": "route130",
+        "method": "old-rod"
+      },
+      {
+        "location": "route130",
+        "method": "good-rod"
+      },
+      {
+        "location": "route131",
+        "method": "old-rod"
+      },
+      {
+        "location": "route131",
+        "method": "good-rod"
+      },
+      {
+        "location": "route132",
+        "method": "old-rod"
+      },
+      {
+        "location": "route132",
+        "method": "good-rod"
+      },
+      {
+        "location": "route133",
+        "method": "old-rod"
+      },
+      {
+        "location": "route133",
+        "method": "good-rod"
+      },
+      {
+        "location": "route134",
+        "method": "old-rod"
+      },
+      {
+        "location": "route134",
+        "method": "good-rod"
+      },
+      {
+        "location": "safarizone",
+        "method": "old-rod"
+      },
+      {
+        "location": "safarizone",
+        "method": "good-rod"
+      },
+      {
+        "location": "shoalcave",
+        "method": "old-rod"
+      },
+      {
+        "location": "shoalcave",
+        "method": "good-rod"
+      },
+      {
+        "location": "slateportcity",
+        "method": "old-rod"
+      },
+      {
+        "location": "slateportcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "sootopoliscity",
+        "method": "surf"
+      },
+      {
+        "location": "sootopoliscity",
+        "method": "old-rod"
+      },
+      {
+        "location": "sootopoliscity",
+        "method": "good-rod"
+      },
+      {
+        "location": "sootopoliscity",
+        "method": "super-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "old-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "good-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "gyarados",
+    "natdex": 130,
+    "wild": [
+      {
+        "location": "sootopoliscity",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "magikarp",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lapras",
+    "natdex": 131,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "ditto",
+    "natdex": 132,
+    "wild": [
+      {
+        "location": "desertunderpass",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "eevee",
+    "natdex": 133,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "vaporeon",
+    "natdex": 134,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "eevee",
+      "method": "Water Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "jolteon",
+    "natdex": 135,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "eevee",
+      "method": "Thunder Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "flareon",
+    "natdex": 136,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "eevee",
+      "method": "Fire Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "porygon",
+    "natdex": 137,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "omanyte",
+    "natdex": 138,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "omastar",
+    "natdex": 139,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "omanyte",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "kabuto",
+    "natdex": 140,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "kabutops",
+    "natdex": 141,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "kabuto",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "aerodactyl",
+    "natdex": 142,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "snorlax",
+    "natdex": 143,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "articuno",
+    "natdex": 144,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "zapdos",
+    "natdex": 145,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "moltres",
+    "natdex": 146,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "dratini",
+    "natdex": 147,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "dragonair",
+    "natdex": 148,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "dratini",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "dragonite",
+    "natdex": 149,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "dragonair",
+      "method": "Level 55"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "mewtwo",
+    "natdex": 150,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "mew",
+    "natdex": 151,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "chikorita",
+    "natdex": 152,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "bayleef",
+    "natdex": 153,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "chikorita",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "meganium",
+    "natdex": 154,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "bayleef",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "cyndaquil",
+    "natdex": 155,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "quilava",
+    "natdex": 156,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "cyndaquil",
+      "method": "Level 14"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "typhlosion",
+    "natdex": 157,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "quilava",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "totodile",
+    "natdex": 158,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "croconaw",
+    "natdex": 159,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "totodile",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "feraligatr",
+    "natdex": 160,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "croconaw",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sentret",
+    "natdex": 161,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "furret",
+    "natdex": 162,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "sentret",
+      "method": "Level 15"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "hoothoot",
+    "natdex": 163,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "noctowl",
+    "natdex": 164,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "hoothoot",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ledyba",
+    "natdex": 165,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ledian",
+    "natdex": 166,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "ledyba",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "spinarak",
+    "natdex": 167,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ariados",
+    "natdex": 168,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "spinarak",
+      "method": "Level 22"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "crobat",
+    "natdex": 169,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "golbat",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "chinchou",
+    "natdex": 170,
+    "wild": [
+      {
+        "location": "route124",
+        "method": "super-rod"
+      },
+      {
+        "location": "route126",
+        "method": "super-rod"
+      },
+      {
+        "location": "route127",
+        "method": "super-rod"
+      },
+      {
+        "location": "route128",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lanturn",
+    "natdex": 171,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "chinchou",
+      "method": "Level 27"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "pichu",
+    "natdex": 172,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "cleffa",
+    "natdex": 173,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "igglybuff",
+    "natdex": 174,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "togepi",
+    "natdex": 175,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "togetic",
+    "natdex": 176,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "togepi",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "natu",
+    "natdex": 177,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "xatu",
+    "natdex": 178,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "natu",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "mareep",
+    "natdex": 179,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "flaaffy",
+    "natdex": 180,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "mareep",
+      "method": "Level 15"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ampharos",
+    "natdex": 181,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "flaaffy",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "bellossom",
+    "natdex": 182,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "oddish",
+      "method": "Sun Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "marill",
+    "natdex": 183,
+    "wild": [
+      {
+        "location": "petalburgcity",
+        "method": "surf"
+      },
+      {
+        "location": "route102",
+        "method": "surf"
+      },
+      {
+        "location": "route104",
+        "method": "grass"
+      },
+      {
+        "location": "route111",
+        "method": "surf"
+      },
+      {
+        "location": "route112",
+        "method": "grass"
+      },
+      {
+        "location": "route114",
+        "method": "surf"
+      },
+      {
+        "location": "route117",
+        "method": "grass"
+      },
+      {
+        "location": "route117",
+        "method": "surf"
+      },
+      {
+        "location": "route120",
+        "method": "grass"
+      },
+      {
+        "location": "route120",
+        "method": "surf"
+      },
+      {
+        "location": "safarizone",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "azurill",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "azumarill",
+    "natdex": 184,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "marill",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sudowoodo",
+    "natdex": 185,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "politoed",
+    "natdex": 186,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "poliwag",
+      "method": "Trade holding King's Rock"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "hoppip",
+    "natdex": 187,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "skiploom",
+    "natdex": 188,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "hoppip",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "jumpluff",
+    "natdex": 189,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "skiploom",
+      "method": "Level 27"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "aipom",
+    "natdex": 190,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sunkern",
+    "natdex": 191,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sunflora",
+    "natdex": 192,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "sunkern",
+      "method": "Sun Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "yanma",
+    "natdex": 193,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "wooper",
+    "natdex": 194,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "quagsire",
+    "natdex": 195,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "wooper",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "espeon",
+    "natdex": 196,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "eevee",
+      "method": "High Friendship (Daytime)"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "umbreon",
+    "natdex": 197,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "eevee",
+      "method": "High Friendship (Nighttime)"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "murkrow",
+    "natdex": 198,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "slowking",
+    "natdex": 199,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "slowpoke",
+      "method": "Trade holding King's Rock"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "misdreavus",
+    "natdex": 200,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "unown",
+    "natdex": 201,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "wobbuffet",
+    "natdex": 202,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "wynaut",
+      "method": "Level 15"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "girafarig",
+    "natdex": 203,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "pineco",
+    "natdex": 204,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "forretress",
+    "natdex": 205,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "pineco",
+      "method": "Level 31"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "dunsparce",
+    "natdex": 206,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "gligar",
+    "natdex": 207,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "steelix",
+    "natdex": 208,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "onix",
+      "method": "Trade holding Metal Coat"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "snubbull",
+    "natdex": 209,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "granbull",
+    "natdex": 210,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "snubbull",
+      "method": "Level 23"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "qwilfish",
+    "natdex": 211,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "scizor",
+    "natdex": 212,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "scyther",
+      "method": "Trade holding Metal Coat"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "shuckle",
+    "natdex": 213,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "rock-smash"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "heracross",
+    "natdex": 214,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sneasel",
+    "natdex": 215,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "teddiursa",
+    "natdex": 216,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ursaring",
+    "natdex": 217,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "teddiursa",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "slugma",
+    "natdex": 218,
+    "wild": [
+      {
+        "location": "fierypath",
+        "method": "grass"
+      },
+      {
+        "location": "route113",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "magcargo",
+    "natdex": 219,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "slugma",
+      "method": "Level 38"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "swinub",
+    "natdex": 220,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "piloswine",
+    "natdex": 221,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "swinub",
+      "method": "Level 33"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "corsola",
+    "natdex": 222,
+    "wild": [
+      {
+        "location": "evergrandecity",
+        "method": "super-rod"
+      },
+      {
+        "location": "route128",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "remoraid",
+    "natdex": 223,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "good-rod"
+      },
+      {
+        "location": "safarizone",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "octillery",
+    "natdex": 224,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "remoraid",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "delibird",
+    "natdex": 225,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "mantine",
+    "natdex": 226,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "skarmory",
+    "natdex": 227,
+    "wild": [
+      {
+        "location": "route113",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "houndour",
+    "natdex": 228,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "houndoom",
+    "natdex": 229,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "houndour",
+      "method": "Level 24"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "kingdra",
+    "natdex": 230,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "seadra",
+      "method": "Trade holding Dragon Scale"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "phanpy",
+    "natdex": 231,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "donphan",
+    "natdex": 232,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "phanpy",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "porygon2",
+    "natdex": 233,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "porygon",
+      "method": "Trade holding Up-Grade"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "stantler",
+    "natdex": 234,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "smeargle",
+    "natdex": 235,
+    "wild": [
+      {
+        "location": "alteringcave",
+        "method": "grass"
+      },
+      {
+        "location": "artisancave",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "tyrogue",
+    "natdex": 236,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "hitmontop",
+    "natdex": 237,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "tyrogue",
+      "method": "Tyrogue20aed"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "smoochum",
+    "natdex": 238,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "elekid",
+    "natdex": 239,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "magby",
+    "natdex": 240,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "miltank",
+    "natdex": 241,
+    "wild": [
+      {
+        "location": "safarizone",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "blissey",
+    "natdex": 242,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "chansey",
+      "method": "High Friendship"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "raikou",
+    "natdex": 243,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "entei",
+    "natdex": 244,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "suicune",
+    "natdex": 245,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "larvitar",
+    "natdex": 246,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "pupitar",
+    "natdex": 247,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "larvitar",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "tyranitar",
+    "natdex": 248,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "pupitar",
+      "method": "Level 55"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "lugia",
+    "natdex": 249,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ho-oh",
+    "natdex": 250,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "celebi",
+    "natdex": 251,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "treecko",
+    "natdex": 252,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "grovyle",
+    "natdex": 253,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "treecko",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sceptile",
+    "natdex": 254,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "grovyle",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "torchic",
+    "natdex": 255,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "combusken",
+    "natdex": 256,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "torchic",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "blaziken",
+    "natdex": 257,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "combusken",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "mudkip",
+    "natdex": 258,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "marshtomp",
+    "natdex": 259,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "mudkip",
+      "method": "Level 16"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "swampert",
+    "natdex": 260,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "marshtomp",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "poochyena",
+    "natdex": 261,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      },
+      {
+        "location": "route101",
+        "method": "grass"
+      },
+      {
+        "location": "route102",
+        "method": "grass"
+      },
+      {
+        "location": "route103",
+        "method": "grass"
+      },
+      {
+        "location": "route104",
+        "method": "grass"
+      },
+      {
+        "location": "route110",
+        "method": "grass"
+      },
+      {
+        "location": "route116",
+        "method": "grass"
+      },
+      {
+        "location": "route117",
+        "method": "grass"
+      },
+      {
+        "location": "route120",
+        "method": "grass"
+      },
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "mightyena",
+    "natdex": 262,
+    "wild": [
+      {
+        "location": "route120",
+        "method": "grass"
+      },
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "poochyena",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "zigzagoon",
+    "natdex": 263,
+    "wild": [
+      {
+        "location": "route101",
+        "method": "grass"
+      },
+      {
+        "location": "route102",
+        "method": "grass"
+      },
+      {
+        "location": "route103",
+        "method": "grass"
+      },
+      {
+        "location": "route118",
+        "method": "grass"
+      },
+      {
+        "location": "route119",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "linoone",
+    "natdex": 264,
+    "wild": [
+      {
+        "location": "route118",
+        "method": "grass"
+      },
+      {
+        "location": "route119",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "zigzagoon",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "wurmple",
+    "natdex": 265,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      },
+      {
+        "location": "route101",
+        "method": "grass"
+      },
+      {
+        "location": "route102",
+        "method": "grass"
+      },
+      {
+        "location": "route104",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "silcoon",
+    "natdex": 266,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "wurmple",
+      "method": "Level 7 (by personality value)"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "beautifly",
+    "natdex": 267,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "silcoon",
+      "method": "Level 10"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "cascoon",
+    "natdex": 268,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "wurmple",
+      "method": "Level 7 (by personality value)"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "dustox",
+    "natdex": 269,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "cascoon",
+      "method": "Level 10"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lotad",
+    "natdex": 270,
+    "wild": [
+      {
+        "location": "route102",
+        "method": "grass"
+      },
+      {
+        "location": "route114",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lombre",
+    "natdex": 271,
+    "wild": [
+      {
+        "location": "route114",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "lotad",
+      "method": "Level 14"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ludicolo",
+    "natdex": 272,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "lombre",
+      "method": "Water Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "seedot",
+    "natdex": 273,
+    "wild": [
+      {
+        "location": "route102",
+        "method": "grass"
+      },
+      {
+        "location": "route117",
+        "method": "grass"
+      },
+      {
+        "location": "route120",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "nuzleaf",
+    "natdex": 274,
+    "wild": [
+      {
+        "location": "route114",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "seedot",
+      "method": "Level 14"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "shiftry",
+    "natdex": 275,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nuzleaf",
+      "method": "Leaf Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "taillow",
+    "natdex": 276,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      },
+      {
+        "location": "route104",
+        "method": "grass"
+      },
+      {
+        "location": "route115",
+        "method": "grass"
+      },
+      {
+        "location": "route116",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "swellow",
+    "natdex": 277,
+    "wild": [
+      {
+        "location": "route115",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "taillow",
+      "method": "Level 22"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "wingull",
+    "natdex": 278,
+    "wild": [
+      {
+        "location": "evergrandecity",
+        "method": "surf"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "surf"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "surf"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "surf"
+      },
+      {
+        "location": "route103",
+        "method": "grass"
+      },
+      {
+        "location": "route103",
+        "method": "surf"
+      },
+      {
+        "location": "route104",
+        "method": "grass"
+      },
+      {
+        "location": "route104",
+        "method": "surf"
+      },
+      {
+        "location": "route105",
+        "method": "surf"
+      },
+      {
+        "location": "route106",
+        "method": "surf"
+      },
+      {
+        "location": "route107",
+        "method": "surf"
+      },
+      {
+        "location": "route108",
+        "method": "surf"
+      },
+      {
+        "location": "route109",
+        "method": "surf"
+      },
+      {
+        "location": "route110",
+        "method": "grass"
+      },
+      {
+        "location": "route110",
+        "method": "surf"
+      },
+      {
+        "location": "route115",
+        "method": "grass"
+      },
+      {
+        "location": "route115",
+        "method": "surf"
+      },
+      {
+        "location": "route118",
+        "method": "grass"
+      },
+      {
+        "location": "route118",
+        "method": "surf"
+      },
+      {
+        "location": "route119",
+        "method": "surf"
+      },
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route121",
+        "method": "surf"
+      },
+      {
+        "location": "route122",
+        "method": "surf"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "surf"
+      },
+      {
+        "location": "route124",
+        "method": "surf"
+      },
+      {
+        "location": "route125",
+        "method": "surf"
+      },
+      {
+        "location": "route126",
+        "method": "surf"
+      },
+      {
+        "location": "route127",
+        "method": "surf"
+      },
+      {
+        "location": "route128",
+        "method": "surf"
+      },
+      {
+        "location": "route129",
+        "method": "surf"
+      },
+      {
+        "location": "route130",
+        "method": "surf"
+      },
+      {
+        "location": "route131",
+        "method": "surf"
+      },
+      {
+        "location": "route132",
+        "method": "surf"
+      },
+      {
+        "location": "route133",
+        "method": "surf"
+      },
+      {
+        "location": "route134",
+        "method": "surf"
+      },
+      {
+        "location": "slateportcity",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "pelipper",
+    "natdex": 279,
+    "wild": [
+      {
+        "location": "evergrandecity",
+        "method": "surf"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "surf"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "surf"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "surf"
+      },
+      {
+        "location": "route103",
+        "method": "surf"
+      },
+      {
+        "location": "route104",
+        "method": "surf"
+      },
+      {
+        "location": "route105",
+        "method": "surf"
+      },
+      {
+        "location": "route106",
+        "method": "surf"
+      },
+      {
+        "location": "route107",
+        "method": "surf"
+      },
+      {
+        "location": "route108",
+        "method": "surf"
+      },
+      {
+        "location": "route109",
+        "method": "surf"
+      },
+      {
+        "location": "route110",
+        "method": "surf"
+      },
+      {
+        "location": "route115",
+        "method": "surf"
+      },
+      {
+        "location": "route118",
+        "method": "surf"
+      },
+      {
+        "location": "route119",
+        "method": "surf"
+      },
+      {
+        "location": "route121",
+        "method": "surf"
+      },
+      {
+        "location": "route122",
+        "method": "surf"
+      },
+      {
+        "location": "route123",
+        "method": "surf"
+      },
+      {
+        "location": "route124",
+        "method": "surf"
+      },
+      {
+        "location": "route125",
+        "method": "surf"
+      },
+      {
+        "location": "route126",
+        "method": "surf"
+      },
+      {
+        "location": "route127",
+        "method": "surf"
+      },
+      {
+        "location": "route128",
+        "method": "surf"
+      },
+      {
+        "location": "route129",
+        "method": "surf"
+      },
+      {
+        "location": "route130",
+        "method": "surf"
+      },
+      {
+        "location": "route131",
+        "method": "surf"
+      },
+      {
+        "location": "route132",
+        "method": "surf"
+      },
+      {
+        "location": "route133",
+        "method": "surf"
+      },
+      {
+        "location": "route134",
+        "method": "surf"
+      },
+      {
+        "location": "slateportcity",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "wingull",
+      "method": "Level 25"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ralts",
+    "natdex": 280,
+    "wild": [
+      {
+        "location": "route102",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "kirlia",
+    "natdex": 281,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "ralts",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "gardevoir",
+    "natdex": 282,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "kirlia",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "surskit",
+    "natdex": 283,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "masquerain",
+    "natdex": 284,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "surskit",
+      "method": "Level 22"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "shroomish",
+    "natdex": 285,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "breloom",
+    "natdex": 286,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "shroomish",
+      "method": "Level 23"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "slakoth",
+    "natdex": 287,
+    "wild": [
+      {
+        "location": "petalburgwoods",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "vigoroth",
+    "natdex": 288,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "slakoth",
+      "method": "Level 18"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "slaking",
+    "natdex": 289,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "vigoroth",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "nincada",
+    "natdex": 290,
+    "wild": [
+      {
+        "location": "route116",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "ninjask",
+    "natdex": 291,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nincada",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "shedinja",
+    "natdex": 292,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "nincada",
+      "method": "Level 20 (empty party slot + spare Poké Ball → Shedinja)"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "whismur",
+    "natdex": 293,
+    "wild": [
+      {
+        "location": "desertunderpass",
+        "method": "grass"
+      },
+      {
+        "location": "route116",
+        "method": "grass"
+      },
+      {
+        "location": "rusturftunnel",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "loudred",
+    "natdex": 294,
+    "wild": [
+      {
+        "location": "desertunderpass",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "whismur",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "exploud",
+    "natdex": 295,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "loudred",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "makuhita",
+    "natdex": 296,
+    "wild": [
+      {
+        "location": "granitecave",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "hariyama",
+    "natdex": 297,
+    "wild": [
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "makuhita",
+      "method": "Level 24"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "azurill",
+    "natdex": 298,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "nosepass",
+    "natdex": 299,
+    "wild": [
+      {
+        "location": "granitecave",
+        "method": "rock-smash"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "skitty",
+    "natdex": 300,
+    "wild": [
+      {
+        "location": "route116",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "delcatty",
+    "natdex": 301,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "skitty",
+      "method": "Moon Stone"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sableye",
+    "natdex": 302,
+    "wild": [
+      {
+        "location": "caveoforigin",
+        "method": "grass"
+      },
+      {
+        "location": "granitecave",
+        "method": "grass"
+      },
+      {
+        "location": "skypillar",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "mawile",
+    "natdex": 303,
+    "wild": [
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "aron",
+    "natdex": 304,
+    "wild": [
+      {
+        "location": "granitecave",
+        "method": "grass"
+      },
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lairon",
+    "natdex": 305,
+    "wild": [
+      {
+        "location": "victoryroad",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "aron",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "aggron",
+    "natdex": 306,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "lairon",
+      "method": "Level 42"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "meditite",
+    "natdex": 307,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "medicham",
+    "natdex": 308,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "meditite",
+      "method": "Level 37"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "electrike",
+    "natdex": 309,
+    "wild": [
+      {
+        "location": "route110",
+        "method": "grass"
+      },
+      {
+        "location": "route118",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "manectric",
+    "natdex": 310,
+    "wild": [
+      {
+        "location": "route118",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "electrike",
+      "method": "Level 26"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "plusle",
+    "natdex": 311,
+    "wild": [
+      {
+        "location": "route110",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": true,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "minun",
+    "natdex": 312,
+    "wild": [
+      {
+        "location": "route110",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "volbeat",
+    "natdex": 313,
+    "wild": [
+      {
+        "location": "route117",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "volbeat",
+      "method": "Male"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "illumise",
+    "natdex": 314,
+    "wild": [
+      {
+        "location": "route117",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "volbeat",
+      "method": "Female"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "roselia",
+    "natdex": 315,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "gulpin",
+    "natdex": 316,
+    "wild": [
+      {
+        "location": "route110",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "swalot",
+    "natdex": 317,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "gulpin",
+      "method": "Level 26"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "carvanha",
+    "natdex": 318,
+    "wild": [
+      {
+        "location": "route118",
+        "method": "good-rod"
+      },
+      {
+        "location": "route118",
+        "method": "super-rod"
+      },
+      {
+        "location": "route119",
+        "method": "good-rod"
+      },
+      {
+        "location": "route119",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sharpedo",
+    "natdex": 319,
+    "wild": [
+      {
+        "location": "mossdeepcity",
+        "method": "super-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "super-rod"
+      },
+      {
+        "location": "route103",
+        "method": "super-rod"
+      },
+      {
+        "location": "route118",
+        "method": "super-rod"
+      },
+      {
+        "location": "route122",
+        "method": "super-rod"
+      },
+      {
+        "location": "route124",
+        "method": "super-rod"
+      },
+      {
+        "location": "route125",
+        "method": "super-rod"
+      },
+      {
+        "location": "route126",
+        "method": "super-rod"
+      },
+      {
+        "location": "route127",
+        "method": "super-rod"
+      },
+      {
+        "location": "route129",
+        "method": "super-rod"
+      },
+      {
+        "location": "route130",
+        "method": "super-rod"
+      },
+      {
+        "location": "route131",
+        "method": "super-rod"
+      },
+      {
+        "location": "route132",
+        "method": "super-rod"
+      },
+      {
+        "location": "route133",
+        "method": "super-rod"
+      },
+      {
+        "location": "route134",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "carvanha",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "wailmer",
+    "natdex": 320,
+    "wild": [
+      {
+        "location": "dewfordtown",
+        "method": "good-rod"
+      },
+      {
+        "location": "dewfordtown",
+        "method": "super-rod"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "good-rod"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "super-rod"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "good-rod"
+      },
+      {
+        "location": "lilycovecity",
+        "method": "super-rod"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "mossdeepcity",
+        "method": "super-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "good-rod"
+      },
+      {
+        "location": "pacifidlogtown",
+        "method": "super-rod"
+      },
+      {
+        "location": "route103",
+        "method": "good-rod"
+      },
+      {
+        "location": "route103",
+        "method": "super-rod"
+      },
+      {
+        "location": "route105",
+        "method": "good-rod"
+      },
+      {
+        "location": "route105",
+        "method": "super-rod"
+      },
+      {
+        "location": "route106",
+        "method": "good-rod"
+      },
+      {
+        "location": "route106",
+        "method": "super-rod"
+      },
+      {
+        "location": "route107",
+        "method": "good-rod"
+      },
+      {
+        "location": "route107",
+        "method": "super-rod"
+      },
+      {
+        "location": "route108",
+        "method": "good-rod"
+      },
+      {
+        "location": "route108",
+        "method": "super-rod"
+      },
+      {
+        "location": "route109",
+        "method": "good-rod"
+      },
+      {
+        "location": "route109",
+        "method": "super-rod"
+      },
+      {
+        "location": "route110",
+        "method": "good-rod"
+      },
+      {
+        "location": "route110",
+        "method": "super-rod"
+      },
+      {
+        "location": "route115",
+        "method": "good-rod"
+      },
+      {
+        "location": "route115",
+        "method": "super-rod"
+      },
+      {
+        "location": "route121",
+        "method": "good-rod"
+      },
+      {
+        "location": "route121",
+        "method": "super-rod"
+      },
+      {
+        "location": "route122",
+        "method": "good-rod"
+      },
+      {
+        "location": "route122",
+        "method": "super-rod"
+      },
+      {
+        "location": "route123",
+        "method": "good-rod"
+      },
+      {
+        "location": "route123",
+        "method": "super-rod"
+      },
+      {
+        "location": "route124",
+        "method": "good-rod"
+      },
+      {
+        "location": "route124",
+        "method": "super-rod"
+      },
+      {
+        "location": "route125",
+        "method": "good-rod"
+      },
+      {
+        "location": "route125",
+        "method": "super-rod"
+      },
+      {
+        "location": "route126",
+        "method": "good-rod"
+      },
+      {
+        "location": "route126",
+        "method": "super-rod"
+      },
+      {
+        "location": "route127",
+        "method": "good-rod"
+      },
+      {
+        "location": "route127",
+        "method": "super-rod"
+      },
+      {
+        "location": "route128",
+        "method": "good-rod"
+      },
+      {
+        "location": "route128",
+        "method": "super-rod"
+      },
+      {
+        "location": "route129",
+        "method": "good-rod"
+      },
+      {
+        "location": "route129",
+        "method": "super-rod"
+      },
+      {
+        "location": "route130",
+        "method": "good-rod"
+      },
+      {
+        "location": "route130",
+        "method": "super-rod"
+      },
+      {
+        "location": "route131",
+        "method": "good-rod"
+      },
+      {
+        "location": "route131",
+        "method": "super-rod"
+      },
+      {
+        "location": "route132",
+        "method": "good-rod"
+      },
+      {
+        "location": "route132",
+        "method": "super-rod"
+      },
+      {
+        "location": "route133",
+        "method": "good-rod"
+      },
+      {
+        "location": "route133",
+        "method": "super-rod"
+      },
+      {
+        "location": "route134",
+        "method": "good-rod"
+      },
+      {
+        "location": "route134",
+        "method": "super-rod"
+      },
+      {
+        "location": "shoalcave",
+        "method": "good-rod"
+      },
+      {
+        "location": "shoalcave",
+        "method": "super-rod"
+      },
+      {
+        "location": "slateportcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "slateportcity",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "wailord",
+    "natdex": 321,
+    "wild": [
+      {
+        "location": "route129",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "wailmer",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "numel",
+    "natdex": 322,
+    "wild": [
+      {
+        "location": "fierypath",
+        "method": "grass"
+      },
+      {
+        "location": "jaggedpass",
+        "method": "grass"
+      },
+      {
+        "location": "route112",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "camerupt",
+    "natdex": 323,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "numel",
+      "method": "Level 33"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "torkoal",
+    "natdex": 324,
+    "wild": [
+      {
+        "location": "fierypath",
+        "method": "grass"
+      },
+      {
+        "location": "magmahideout",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "spoink",
+    "natdex": 325,
+    "wild": [
+      {
+        "location": "jaggedpass",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "grumpig",
+    "natdex": 326,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "spoink",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "spinda",
+    "natdex": 327,
+    "wild": [
+      {
+        "location": "route113",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "trapinch",
+    "natdex": 328,
+    "wild": [
+      {
+        "location": "miragetower",
+        "method": "grass"
+      },
+      {
+        "location": "route111",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "vibrava",
+    "natdex": 329,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "trapinch",
+      "method": "Level 35"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "flygon",
+    "natdex": 330,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "vibrava",
+      "method": "Level 45"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "cacnea",
+    "natdex": 331,
+    "wild": [
+      {
+        "location": "route111",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "cacturne",
+    "natdex": 332,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "cacnea",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "swablu",
+    "natdex": 333,
+    "wild": [
+      {
+        "location": "route114",
+        "method": "grass"
+      },
+      {
+        "location": "route115",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "altaria",
+    "natdex": 334,
+    "wild": [
+      {
+        "location": "skypillar",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "swablu",
+      "method": "Level 35"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "zangoose",
+    "natdex": 335,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "seviper",
+    "natdex": 336,
+    "wild": [
+      {
+        "location": "route114",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lunatone",
+    "natdex": 337,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "solrock",
+    "natdex": 338,
+    "wild": [
+      {
+        "location": "meteorfalls",
+        "method": "grass"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "barboach",
+    "natdex": 339,
+    "wild": [
+      {
+        "location": "meteorfalls",
+        "method": "good-rod"
+      },
+      {
+        "location": "meteorfalls",
+        "method": "super-rod"
+      },
+      {
+        "location": "route111",
+        "method": "good-rod"
+      },
+      {
+        "location": "route111",
+        "method": "super-rod"
+      },
+      {
+        "location": "route114",
+        "method": "good-rod"
+      },
+      {
+        "location": "route114",
+        "method": "super-rod"
+      },
+      {
+        "location": "route120",
+        "method": "good-rod"
+      },
+      {
+        "location": "route120",
+        "method": "super-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "good-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "whiscash",
+    "natdex": 340,
+    "wild": [
+      {
+        "location": "meteorfalls",
+        "method": "super-rod"
+      },
+      {
+        "location": "victoryroad",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "barboach",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "corphish",
+    "natdex": 341,
+    "wild": [
+      {
+        "location": "petalburgcity",
+        "method": "good-rod"
+      },
+      {
+        "location": "petalburgcity",
+        "method": "super-rod"
+      },
+      {
+        "location": "route102",
+        "method": "good-rod"
+      },
+      {
+        "location": "route102",
+        "method": "super-rod"
+      },
+      {
+        "location": "route117",
+        "method": "good-rod"
+      },
+      {
+        "location": "route117",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "crawdaunt",
+    "natdex": 342,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "corphish",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "baltoy",
+    "natdex": 343,
+    "wild": [
+      {
+        "location": "route111",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "claydol",
+    "natdex": 344,
+    "wild": [
+      {
+        "location": "skypillar",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "baltoy",
+      "method": "Level 36"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "lileep",
+    "natdex": 345,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "cradily",
+    "natdex": 346,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "lileep",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "anorith",
+    "natdex": 347,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "armaldo",
+    "natdex": 348,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "anorith",
+      "method": "Level 40"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "feebas",
+    "natdex": 349,
+    "wild": [
+      {
+        "location": "route119",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "milotic",
+    "natdex": 350,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "feebas",
+      "method": "Level up with high Beauty"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "castform",
+    "natdex": 351,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "kecleon",
+    "natdex": 352,
+    "wild": [
+      {
+        "location": "route118",
+        "method": "grass"
+      },
+      {
+        "location": "route119",
+        "method": "grass"
+      },
+      {
+        "location": "route120",
+        "method": "grass"
+      },
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "shuppet",
+    "natdex": 353,
+    "wild": [
+      {
+        "location": "route121",
+        "method": "grass"
+      },
+      {
+        "location": "route123",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "banette",
+    "natdex": 354,
+    "wild": [
+      {
+        "location": "skypillar",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": {
+      "from": "shuppet",
+      "method": "Level 37"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "duskull",
+    "natdex": 355,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "dusclops",
+    "natdex": 356,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "duskull",
+      "method": "Level 37"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "tropius",
+    "natdex": 357,
+    "wild": [
+      {
+        "location": "route119",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "chimecho",
+    "natdex": 358,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": false
+  },
+  {
+    "pokemon": "absol",
+    "natdex": 359,
+    "wild": [
+      {
+        "location": "route120",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "wynaut",
+    "natdex": 360,
+    "wild": [
+      {
+        "location": "mirageisland",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "snorunt",
+    "natdex": 361,
+    "wild": [
+      {
+        "location": "shoalcave",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "glalie",
+    "natdex": 362,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "snorunt",
+      "method": "Level 42"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "spheal",
+    "natdex": 363,
+    "wild": [
+      {
+        "location": "shoalcave",
+        "method": "grass"
+      },
+      {
+        "location": "shoalcave",
+        "method": "surf"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "sealeo",
+    "natdex": 364,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "spheal",
+      "method": "Level 32"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "walrein",
+    "natdex": 365,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "sealeo",
+      "method": "Level 44"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "clamperl",
+    "natdex": 366,
+    "wild": [
+      {
+        "location": "route124",
+        "method": "super-rod"
+      },
+      {
+        "location": "route126",
+        "method": "super-rod"
+      },
+      {
+        "location": "route127",
+        "method": "super-rod"
+      },
+      {
+        "location": "route128",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "huntail",
+    "natdex": 367,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "clamperl",
+      "method": "Trade holding Deep Sea Tooth"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "gorebyss",
+    "natdex": 368,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "clamperl",
+      "method": "Trade holding Deep Sea Scale"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "relicanth",
+    "natdex": 369,
+    "wild": [
+      {
+        "location": "route124",
+        "method": "super-rod"
+      },
+      {
+        "location": "route126",
+        "method": "super-rod"
+      },
+      {
+        "location": "route127",
+        "method": "super-rod"
+      },
+      {
+        "location": "route128",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "luvdisc",
+    "natdex": 370,
+    "wild": [
+      {
+        "location": "evergrandecity",
+        "method": "good-rod"
+      },
+      {
+        "location": "evergrandecity",
+        "method": "super-rod"
+      },
+      {
+        "location": "route128",
+        "method": "good-rod"
+      },
+      {
+        "location": "route128",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "bagon",
+    "natdex": 371,
+    "wild": [
+      {
+        "location": "meteorfalls",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "shelgon",
+    "natdex": 372,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "bagon",
+      "method": "Level 30"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "salamence",
+    "natdex": 373,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "shelgon",
+      "method": "Level 50"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "beldum",
+    "natdex": 374,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": true,
+    "gift": true,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "metang",
+    "natdex": 375,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "beldum",
+      "method": "Level 20"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "metagross",
+    "natdex": 376,
+    "wild": [],
+    "evolvesFrom": {
+      "from": "metang",
+      "method": "Level 45"
+    },
+    "breedable": true,
+    "gift": false,
+    "trade": false,
+    "event": false,
+    "obtainable": true
+  },
+  {
+    "pokemon": "regirock",
+    "natdex": 377,
+    "wild": [
+      {
+        "location": "route111",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "regice",
+    "natdex": 378,
+    "wild": [
+      {
+        "location": "route105",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "registeel",
+    "natdex": 379,
+    "wild": [
+      {
+        "location": "route120",
+        "method": "super-rod"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "latias",
+    "natdex": 380,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "latios",
+    "natdex": 381,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "kyogre",
+    "natdex": 382,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "groudon",
+    "natdex": 383,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "rayquaza",
+    "natdex": 384,
+    "wild": [
+      {
+        "location": "skypillar",
+        "method": "grass"
+      }
+    ],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "jirachi",
+    "natdex": 385,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  },
+  {
+    "pokemon": "deoxys",
+    "natdex": 386,
+    "wild": [],
+    "evolvesFrom": null,
+    "breedable": false,
+    "gift": false,
+    "trade": false,
+    "event": true,
+    "obtainable": true
+  }
+]

@@ -37,6 +37,9 @@
     "speed": 51,
     "total": 410
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "larvitar",
     "pupitar",

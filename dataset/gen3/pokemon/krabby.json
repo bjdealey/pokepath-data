@@ -37,6 +37,9 @@
     "speed": 50,
     "total": 325
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "krabby",
     "kingler"

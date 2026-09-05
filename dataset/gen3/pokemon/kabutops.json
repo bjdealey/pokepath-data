@@ -39,6 +39,9 @@
     "speed": 80,
     "total": 495
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "kabuto",
     "kabutops"

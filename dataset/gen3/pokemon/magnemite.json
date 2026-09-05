@@ -40,6 +40,9 @@
     "speed": 45,
     "total": 325
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "magnemite",
     "magneton"

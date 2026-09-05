@@ -37,6 +37,10 @@
     "speed": 70,
     "total": 385
   },
+  "evYield": {
+    "spAttack": 2,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "caterpie",
     "metapod",

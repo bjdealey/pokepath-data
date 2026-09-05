@@ -33,6 +33,9 @@
     "speed": 90,
     "total": 670
   },
+  "evYield": {
+    "spAttack": 3
+  },
   "evolutionChain": [
     "kyogre"
   ],

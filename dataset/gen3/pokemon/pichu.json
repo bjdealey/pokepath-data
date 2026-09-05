@@ -41,6 +41,9 @@
     "speed": 60,
     "total": 205
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "pichu",
     "pikachu",

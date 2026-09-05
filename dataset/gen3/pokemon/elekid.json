@@ -36,6 +36,9 @@
     "speed": 95,
     "total": 360
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "elekid",
     "electabuzz"

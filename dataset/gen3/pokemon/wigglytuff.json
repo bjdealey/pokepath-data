@@ -36,6 +36,9 @@
     "speed": 45,
     "total": 425
   },
+  "evYield": {
+    "hp": 3
+  },
   "evolutionChain": [
     "igglybuff",
     "jigglypuff",

@@ -36,6 +36,9 @@
     "speed": 75,
     "total": 465
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "absol"
   ],

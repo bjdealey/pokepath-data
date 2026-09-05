@@ -44,6 +44,9 @@
     "speed": 15,
     "total": 315
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "slowpoke",
     "slowbro",

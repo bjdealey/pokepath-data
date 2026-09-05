@@ -37,6 +37,9 @@
     "speed": 85,
     "total": 360
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "aipom"
   ],

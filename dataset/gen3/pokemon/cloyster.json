@@ -46,6 +46,9 @@
     "speed": 70,
     "total": 525
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "shellder",
     "cloyster"

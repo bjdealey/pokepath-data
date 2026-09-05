@@ -43,6 +43,9 @@
     "speed": 67,
     "total": 330
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "chinchou",
     "lanturn"

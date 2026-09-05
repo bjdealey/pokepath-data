@@ -36,6 +36,9 @@
     "speed": 40,
     "total": 330
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "teddiursa",
     "ursaring"

@@ -36,6 +36,9 @@
     "speed": 15,
     "total": 290
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "pineco",
     "forretress"

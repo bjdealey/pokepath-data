@@ -47,6 +47,9 @@
     "speed": 25,
     "total": 285
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "paras",
     "parasect"

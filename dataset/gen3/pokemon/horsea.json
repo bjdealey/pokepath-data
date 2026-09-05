@@ -42,6 +42,9 @@
     "speed": 60,
     "total": 295
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "horsea",
     "seadra",

@@ -16,6 +16,32 @@ export interface AbilityRecord {
   pokemon: Array<{ slug: string; natdex: number }>; // Pokémon that can have this ability (like a move's learnedBy)
 }
 
+/** A Gen-3 nature: the 25 fixed personalities, each raising one stat 10% and
+ * lowering another (five are neutral). Reference data (game-constant), for the
+ * competitive/training stat calculators. */
+export interface NatureRecord {
+  slug: string;
+  name: string;
+  increased: string | null; // stat key raised 10% (null = neutral nature)
+  decreased: string | null; // stat key lowered 10%
+}
+
+/** How a species can be obtained in a given game — derived by aggregating the
+ * game's encounters, the Pokémon's evolution edge, breeding, gifts, trades, and
+ * events. `obtainable` is transitive: reachable via a direct source, or evolves
+ * from a species that is. Powers living-dex / completionist planning. */
+export interface Obtainability {
+  pokemon: string; // slug
+  natdex: number;
+  wild: Array<{ location: string; method: string }>;
+  evolvesFrom: { from: string; method: string } | null;
+  breedable: boolean; // has a real egg group (can be bred to re-obtain)
+  gift: boolean;
+  trade: boolean;
+  event: boolean; // static/roaming/event legendary or event mon
+  obtainable: boolean; // reachable in this game without transferring from another
+}
+
 export interface BaseStats {
   hp: number;
   attack: number;
@@ -246,6 +272,7 @@ export interface PokemonRecord {
   abilities: string[]; // ability names; definitions live in the canonical abilities collection
   wildItems: Array<{ item: string; rate: number }>; // items held when caught wild (RSE/Emerald group); feeds items.heldBy
   baseStats: BaseStats;
+  evYield: Record<string, number>; // effort points (EVs) awarded when defeated; stat key → points (non-zero only)
   evolutionChain: string[]; // slugs of the whole family, in order
   evolutions: EvolutionEdge[]; // how each member evolves (with method)
   damageTaken: Record<string, number>; // attacking type → multiplier, non-neutral only (weak/resist/immune)

@@ -36,6 +36,9 @@
     "speed": 130,
     "total": 525
   },
+  "evYield": {
+    "speed": 2
+  },
   "evolutionChain": [
     "eevee",
     "jolteon",

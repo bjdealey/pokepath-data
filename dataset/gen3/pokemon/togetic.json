@@ -39,6 +39,9 @@
     "speed": 40,
     "total": 405
   },
+  "evYield": {
+    "spDefense": 2
+  },
   "evolutionChain": [
     "togepi",
     "togetic"

@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 320
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "natu",
     "xatu"

@@ -37,6 +37,9 @@
     "speed": 65,
     "total": 300
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "remoraid",
     "octillery"

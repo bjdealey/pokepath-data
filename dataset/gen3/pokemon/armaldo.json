@@ -37,6 +37,9 @@
     "speed": 45,
     "total": 495
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "anorith",
     "armaldo"

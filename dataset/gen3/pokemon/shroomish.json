@@ -37,6 +37,9 @@
     "speed": 35,
     "total": 295
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "shroomish",
     "breloom"

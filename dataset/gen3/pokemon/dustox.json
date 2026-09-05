@@ -42,6 +42,9 @@
     "speed": 65,
     "total": 385
   },
+  "evYield": {
+    "spDefense": 3
+  },
   "evolutionChain": [
     "wurmple",
     "silcoon",

@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 442
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "hoothoot",
     "noctowl"

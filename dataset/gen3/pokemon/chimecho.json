@@ -36,6 +36,10 @@
     "speed": 65,
     "total": 425
   },
+  "evYield": {
+    "spAttack": 1,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "chimecho"
   ],

@@ -37,6 +37,9 @@
     "speed": 70,
     "total": 262
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "spearow",
     "fearow"

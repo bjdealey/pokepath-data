@@ -41,6 +41,9 @@
     "speed": 97,
     "total": 330
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "luvdisc"
   ],

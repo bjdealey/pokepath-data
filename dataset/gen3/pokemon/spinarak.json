@@ -38,6 +38,9 @@
     "speed": 30,
     "total": 250
   },
+  "evYield": {
+    "attack": 1
+  },
   "evolutionChain": [
     "spinarak",
     "ariados"

@@ -38,6 +38,9 @@
     "speed": 65,
     "total": 530
   },
+  "evYield": {
+    "hp": 3
+  },
   "evolutionChain": [
     "spheal",
     "sealeo",

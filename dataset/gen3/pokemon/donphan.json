@@ -36,6 +36,10 @@
     "speed": 50,
     "total": 500
   },
+  "evYield": {
+    "attack": 1,
+    "defense": 1
+  },
   "evolutionChain": [
     "phanpy",
     "donphan"

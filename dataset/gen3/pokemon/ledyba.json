@@ -38,6 +38,9 @@
     "speed": 55,
     "total": 265
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "ledyba",
     "ledian"

@@ -41,6 +41,9 @@
     "speed": 70,
     "total": 420
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "poochyena",
     "mightyena"

@@ -38,6 +38,9 @@
     "speed": 80,
     "total": 438
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "ekans",
     "arbok"

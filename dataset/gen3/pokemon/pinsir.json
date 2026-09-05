@@ -36,6 +36,9 @@
     "speed": 85,
     "total": 500
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "pinsir"
   ],

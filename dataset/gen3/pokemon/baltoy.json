@@ -34,6 +34,9 @@
     "speed": 55,
     "total": 300
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "baltoy",
     "claydol"

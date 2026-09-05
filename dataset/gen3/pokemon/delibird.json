@@ -39,6 +39,9 @@
     "speed": 75,
     "total": 330
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "delibird"
   ],

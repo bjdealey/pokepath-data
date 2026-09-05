@@ -37,6 +37,10 @@
     "speed": 78,
     "total": 530
   },
+  "evYield": {
+    "attack": 2,
+    "defense": 1
+  },
   "evolutionChain": [
     "totodile",
     "croconaw",

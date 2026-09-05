@@ -45,6 +45,9 @@
     "speed": 15,
     "total": 218
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "cleffa",
     "clefairy",

@@ -33,6 +33,10 @@
     "speed": 48,
     "total": 336
   },
+  "evYield": {
+    "spAttack": 1,
+    "attack": 1
+  },
   "evolutionChain": [
     "unown"
   ],

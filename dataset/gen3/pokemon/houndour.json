@@ -38,6 +38,9 @@
     "speed": 65,
     "total": 330
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "houndour",
     "houndoom"

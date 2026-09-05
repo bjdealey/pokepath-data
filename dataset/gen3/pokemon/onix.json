@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 385
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "onix",
     "steelix"

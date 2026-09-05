@@ -41,6 +41,9 @@
     "speed": 40,
     "total": 440
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "kecleon"
   ],

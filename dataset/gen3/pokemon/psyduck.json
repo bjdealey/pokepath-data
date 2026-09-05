@@ -38,6 +38,9 @@
     "speed": 55,
     "total": 320
   },
+  "evYield": {
+    "spAttack": 1
+  },
   "evolutionChain": [
     "psyduck",
     "golduck"

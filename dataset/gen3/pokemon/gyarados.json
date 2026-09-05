@@ -38,6 +38,9 @@
     "speed": 81,
     "total": 540
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "magikarp",
     "gyarados"

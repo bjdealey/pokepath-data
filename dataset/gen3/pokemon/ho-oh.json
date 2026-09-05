@@ -39,6 +39,9 @@
     "speed": 90,
     "total": 680
   },
+  "evYield": {
+    "spDefense": 3
+  },
   "evolutionChain": [
     "ho-oh"
   ],

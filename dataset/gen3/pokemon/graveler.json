@@ -43,6 +43,9 @@
     "speed": 35,
     "total": 390
   },
+  "evYield": {
+    "defense": 2
+  },
   "evolutionChain": [
     "geodude",
     "graveler",

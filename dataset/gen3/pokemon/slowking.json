@@ -44,6 +44,9 @@
     "speed": 30,
     "total": 490
   },
+  "evYield": {
+    "spDefense": 3
+  },
   "evolutionChain": [
     "slowpoke",
     "slowbro",

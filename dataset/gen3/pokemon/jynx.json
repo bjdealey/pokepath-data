@@ -42,6 +42,9 @@
     "speed": 95,
     "total": 455
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "smoochum",
     "jynx"

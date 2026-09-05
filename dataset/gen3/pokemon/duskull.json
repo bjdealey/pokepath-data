@@ -41,6 +41,10 @@
     "speed": 25,
     "total": 295
   },
+  "evYield": {
+    "defense": 1,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "duskull",
     "dusclops"

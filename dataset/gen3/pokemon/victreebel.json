@@ -37,6 +37,9 @@
     "speed": 70,
     "total": 480
   },
+  "evYield": {
+    "attack": 3
+  },
   "evolutionChain": [
     "bellsprout",
     "weepinbell",

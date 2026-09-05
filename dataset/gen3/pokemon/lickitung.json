@@ -37,6 +37,9 @@
     "speed": 30,
     "total": 385
   },
+  "evYield": {
+    "hp": 2
+  },
   "evolutionChain": [
     "lickitung"
   ],

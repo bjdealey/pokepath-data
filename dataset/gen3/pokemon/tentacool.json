@@ -38,6 +38,9 @@
     "speed": 70,
     "total": 335
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "tentacool",
     "tentacruel"

@@ -36,6 +36,9 @@
     "speed": 52,
     "total": 485
   },
+  "evYield": {
+    "spAttack": 2
+  },
   "evolutionChain": [
     "clamperl",
     "huntail",

@@ -42,6 +42,10 @@
     "speed": 40,
     "total": 460
   },
+  "evYield": {
+    "spAttack": 1,
+    "attack": 1
+  },
   "evolutionChain": [
     "numel",
     "camerupt"

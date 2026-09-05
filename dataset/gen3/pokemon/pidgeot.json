@@ -37,6 +37,9 @@
     "speed": 91,
     "total": 469
   },
+  "evYield": {
+    "speed": 3
+  },
   "evolutionChain": [
     "pidgey",
     "pidgeotto",

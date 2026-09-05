@@ -36,6 +36,9 @@
     "speed": 90,
     "total": 290
   },
+  "evYield": {
+    "speed": 1
+  },
   "evolutionChain": [
     "meowth",
     "persian"

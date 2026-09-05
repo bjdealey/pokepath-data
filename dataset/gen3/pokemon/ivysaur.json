@@ -38,6 +38,10 @@
     "speed": 60,
     "total": 405
   },
+  "evYield": {
+    "spAttack": 1,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "bulbasaur",
     "ivysaur",

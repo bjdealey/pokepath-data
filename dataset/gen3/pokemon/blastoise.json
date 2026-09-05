@@ -37,6 +37,9 @@
     "speed": 78,
     "total": 530
   },
+  "evYield": {
+    "spDefense": 3
+  },
   "evolutionChain": [
     "squirtle",
     "wartortle",

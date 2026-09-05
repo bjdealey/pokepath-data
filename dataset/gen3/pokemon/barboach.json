@@ -37,6 +37,9 @@
     "speed": 60,
     "total": 288
   },
+  "evYield": {
+    "hp": 1
+  },
   "evolutionChain": [
     "barboach",
     "whiscash"

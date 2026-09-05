@@ -37,6 +37,10 @@
     "speed": 90,
     "total": 450
   },
+  "evYield": {
+    "speed": 1,
+    "spAttack": 1
+  },
   "evolutionChain": [
     "venonat",
     "venomoth"

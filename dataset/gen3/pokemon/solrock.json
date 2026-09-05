@@ -39,6 +39,9 @@
     "speed": 70,
     "total": 440
   },
+  "evYield": {
+    "attack": 2
+  },
   "evolutionChain": [
     "solrock"
   ],

@@ -38,6 +38,9 @@
     "speed": 85,
     "total": 430
   },
+  "evYield": {
+    "defense": 1
+  },
   "evolutionChain": [
     "gligar"
   ],

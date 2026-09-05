@@ -37,6 +37,9 @@
     "speed": 23,
     "total": 355
   },
+  "evYield": {
+    "spDefense": 1
+  },
   "evolutionChain": [
     "lileep",
     "cradily"

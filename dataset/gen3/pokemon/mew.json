@@ -38,6 +38,9 @@
     "speed": 100,
     "total": 600
   },
+  "evYield": {
+    "hp": 3
+  },
   "evolutionChain": [
     "mew"
   ],

@@ -41,6 +41,10 @@
     "speed": 85,
     "total": 435
   },
+  "evYield": {
+    "spAttack": 1,
+    "spDefense": 1
+  },
   "evolutionChain": [
     "misdreavus"
   ],

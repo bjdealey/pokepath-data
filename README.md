@@ -17,6 +17,7 @@ node src/run.ts learnedby          # bake move→Pokémon reverse index into mov
 node src/run.ts machines           # derive TM/HM → move table (after pokemon; +moves/story/items enrich)
 node src/run.ts typechart          # derive the Gen-3 type chart from Pokémon damage-taken (after pokemon)
 node src/run.ts abilities          # derive the canonical Gen-3 abilities collection (after pokemon)
+node src/run.ts natures            # write the 25 Gen-3 natures reference (constant)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items + wild-held items (after `items`)
@@ -27,6 +28,7 @@ node src/run.ts gifts              # starter trio + gift/egg/fossil Pokémon (po
 node src/run.ts legendaries        # derive catchable legendaries from Pokémon Emerald locations
 node src/run.ts trades             # scrape Emerald in-game trades (/emerald/trade.shtml)
 node src/run.ts storypath          # enrich criticalPath with HM/legendary/key-item beats (after trainers+machines+legendaries+itemlinks)
+node src/run.ts obtainability      # derive how each species is obtained in Emerald (after pokemon + game data)
 node src/run.ts locations          # build the canonical location registry (slug → name) — run last
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
@@ -84,7 +86,8 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   handles branches like Eevee, Wurmple, Slowpoke, Nincada→Shedinja), per-game
   flavor/location, full **learnset** — level-up, TM/HM, egg, and Emerald tutor moves),
   and **type effectiveness** (`damageTaken` — non-neutral weak/resist/immune multipliers),
-  parsed from `/pokedex-rs/NNN.shtml`.
+  plus **`wildItems`** (held-when-wild) and **`evYield`** (effort points awarded when defeated —
+  "Effort Points from Battling it", e.g. Swampert `{attack:3}`), parsed from `/pokedex-rs/NNN.shtml`.
 - ✅ `moves` — all **Gen-III moves** (373) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
   effect + rate, contest type. **Category is derived from type** (Gen 3 predates the
@@ -126,6 +129,14 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   fail". Pokémon reference abilities by name; the effect lives here once, not duplicated per mon.
   Each ability also carries **`pokemon`** — the reverse-index of which Pokémon can have it (like
   a move's `learnedBy`), derived in the same pass.
+- ✅ `natures` — the **25 Gen-3 natures** (`dataset/natures.json`): each raises one stat 10% and
+  lowers another (five are neutral). A fixed game-constant (like the type list), not scraped —
+  reference data for competitive/training stat calculators. HP is never nature-affected.
+- ✅ `obtainability` — **how each species is obtained in Emerald** (`games/emerald/obtainability.json`,
+  *derived*, no network): per species — wild spots, the evolution edge into it, breeding eligibility,
+  gift/trade/event flags, and a **transitive `obtainable`** (reachable via a direct source, or evolves
+  from an obtainable species — e.g. Charizard is `false`, since the Charmander line needs a trade in
+  Emerald). 231/386 obtainable in-game. Powers living-dex / completionist planning.
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level
