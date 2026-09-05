@@ -33,7 +33,7 @@ export function deriveStoryPath(game: Game = "emerald") {
   const maxLvl = Math.max(...battle.map((b) => b.levelCap), 0);
   const beats: Array<Omit<StoryBeat, "order">> = battle.map((raw) => {
     // Strip order + any prior necessity/flags (storypath reads its own output).
-    const { order, required, optional, necessity, ...b } = raw as Record<string, unknown>;
+    const { order, required, optional, necessity, ...b } = raw as unknown as Record<string, unknown>;
     return { ...(b as Omit<StoryBeat, "order" | "necessity">), necessity: MILESTONE.has(b.kind as string) ? "required" : "supporting" };
   });
 

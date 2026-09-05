@@ -94,7 +94,7 @@ export function parseRsEncounters(html: string, version: "ruby" | "sapphire"): E
     if (ver !== version || !method) return;
 
     const rowWith = (sel: string) => rows.find((r) => $(r).children(sel).length) ?? rows.find((r) => $(r).find(sel).length);
-    const sprites = $(rows.find((r) => $(r).find("img.pkmn").length) ?? []).find("img.pkmn").toArray();
+    const sprites = $(rows.find((r) => $(r).find("img.pkmn").length)).find("img.pkmn").toArray();
     const names = $(rowWith("td.name")).children("td.name").toArray();
     const rates = $(rowWith("td.rate")).children("td.rate").toArray();
     const levels = $(rowWith("td.level")).children("td.level").toArray();
