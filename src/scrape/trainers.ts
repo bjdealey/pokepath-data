@@ -138,7 +138,7 @@ export async function scrapeTrainers(game: Game = "emerald", refresh = false) {
   //     level (a story-order proxy — Serebii has no walkthrough page). Heuristic,
   //     like `locations`; each beat carries a location slug so a consumer can pull
   //     the trainers/encounters/items there. ---
-  const rawBeats: Array<Omit<StoryBeat, "order">> = milestones.map((m) => ({
+  const rawBeats: Array<Omit<StoryBeat, "order" | "necessity">> = milestones.map((m) => ({
     kind: m.kind,
     location: m.location ?? "", // already a slug (E4/champion have none)
     levelCap: m.levelCap,
@@ -162,7 +162,7 @@ export async function scrapeTrainers(game: Game = "emerald", refresh = false) {
       rawBeats.push({ kind, location: loc, levelCap: cap, name, battles: group.length });
     }
   }
-  const criticalPath: StoryBeat[] = rawBeats
+  const criticalPath: Array<Omit<StoryBeat, "necessity">> = rawBeats
     .sort((a, b) => a.levelCap - b.levelCap)
     .map((b, i) => ({ order: i + 1, ...b }));
 
