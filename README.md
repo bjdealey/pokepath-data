@@ -51,10 +51,11 @@ encounters split correctly (Ruby→Zangoose, Sapphire→Seviper), the box legend
 is version-exclusive (**Ruby→Groudon, Sapphire→Kyogre**), and gym/E4 teams come
 from the `/rubysapphire/` pages (Ruby's Roxanne has 2 Pokémon, Emerald's 3).
 In-game **trades** are parsed per game (R/S use a different page layout than
-Emerald — Slakoth↔Makuhita, Pikachu↔Skitty, Bellossom↔Corsola). One documented
-approximation remains: route/villain/rival trainers come from the shared pokearth
-crawl (so R/S carry Emerald's route trainers + villain structure — the
-gym/E4/champion spine is version-accurate).
+Emerald — Slakoth↔Makuhita, Pikachu↔Skitty, Bellossom↔Corsola). Route/villain/
+rival trainers are version-accurate too, pulled from the pokearth crawl's
+per-version sections (`trainers-em` for Emerald, `trainers-rs` for R/S): R/S
+carry 504 route trainers vs Emerald's 652, and a leaner story spine (Emerald has
+both Team Magma and Team Aqua confrontations; R/S has one antagonist team).
 
 ```
 dataset/
@@ -173,7 +174,8 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   **with movesets + held items** and badge/field-move metadata — every moveset move
   name resolves to a move record, with post-Gen-3 gym-page names aliased back, e.g.
   Feint→Faint Attack) and `rival` / `villain`
-  / `trainer` (all 650+ route trainers from the pokearth `trainers-em` sections, team +
+  / `trainer` (all route trainers from the pokearth per-version sections —
+  `trainers-em` for Emerald (652), `trainers-rs` for R/S (504) — team +
   level). Rival keeps its **starter-choice variants**; exact-duplicate tables de-duped.
   Each row is a distinct battle with a **unique `slug`**; a trainer's rematch tiers /
   story battles share a `trainer` identity (the canonical gym battle is `roxanne`,

@@ -1,8 +1,9 @@
-// Extract Emerald rival / villain battles from a Serebii pokearth "3rd"
-// location page. Trainers are grouped by document-order anchors; the
-// `trainers-em` sections hold the Emerald-specific rosters. Pokearth trainer
-// tables carry team + level (and a "<Starter> Chosen" variant label for the
-// rival) but no movesets/items — those live only on the gym/elite pages.
+// Extract route / rival / villain battles from a Serebii pokearth "3rd"
+// location page, for the requested game. Trainers are grouped by document-order
+// anchors; `trainers-em` holds the Emerald rosters and `trainers-rs` the Ruby &
+// Sapphire rosters (which share one section). Pokearth trainer tables carry team
+// + level (and a "<Starter> Chosen" variant label for the rival) but no
+// movesets/items — those live only on the gym/elite pages.
 import * as cheerio from "cheerio";
 import type { Element } from "domhandler";
 import { trainerSlug } from "./trainers.ts";
@@ -34,17 +35,19 @@ export function locationName(slug: string): string {
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-export function parseRouteTrainers(html: string, location: string): Trainer[] {
+export function parseRouteTrainers(html: string, location: string, game = "emerald"): Trainer[] {
   const $ = cheerio.load(html);
   const out: Trainer[] = [];
   let section = "";
+  // Emerald route trainers are in `trainers-em`; Ruby & Sapphire share `trainers-rs`.
+  const want = game === "emerald" ? "trainers-em" : "trainers-rs";
 
   $("a[name], table.trainer").each((_i, el) => {
     if (el.tagName === "a") {
       section = $(el).attr("name") || section;
       return;
     }
-    if (section !== "trainers-em") return;
+    if (section !== want) return;
     if ($(el).parents("table.trainer").length) return; // top-level tables only
 
     const rows = $(el).find("tr").toArray();

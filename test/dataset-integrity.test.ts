@@ -395,3 +395,14 @@ test("multi-game: version exclusives split (Ruby=Groudon/Zangoose, Sapphire=Kyog
   assert.ok(legs("ruby").has("groudon") && !legs("ruby").has("kyogre"), "Ruby: Groudon not Kyogre");
   assert.ok(legs("sapphire").has("kyogre") && !legs("sapphire").has("groudon"), "Sapphire: Kyogre not Groudon");
 });
+
+test("multi-game: route trainers are per-version (trainers-em vs trainers-rs)", () => {
+  const routes = (game: string) => (readJson(`games/${game}/trainers.json`) as any[]).filter((t) => t.kind === "trainer").length;
+  const em = routes("emerald");
+  const ru = routes("ruby");
+  const sa = routes("sapphire");
+  // R/S share the trainers-rs section → identical counts, fewer than Emerald's
+  // trainers-em. If the game switch regressed, R/S would inherit Emerald's count.
+  assert.equal(ru, sa, "Ruby and Sapphire share trainers-rs → equal route counts");
+  assert.ok(em > ru, `Emerald (${em}) should have more route trainers than R/S (${ru})`);
+});

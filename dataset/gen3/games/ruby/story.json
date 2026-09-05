@@ -143,6 +143,12 @@
       "via": "encounters"
     },
     {
+      "slug": "rustborocity",
+      "level": 9,
+      "phase": 0,
+      "via": "trainers"
+    },
+    {
       "slug": "granitecave",
       "level": 10,
       "phase": 0,
@@ -150,13 +156,7 @@
     },
     {
       "slug": "dewfordtown",
-      "level": 13,
-      "phase": 0,
-      "via": "trainers"
-    },
-    {
-      "slug": "rustborocity",
-      "level": 13,
+      "level": 12,
       "phase": 0,
       "via": "trainers"
     },
@@ -167,16 +167,22 @@
       "via": "trainers"
     },
     {
-      "slug": "route103",
-      "level": 15,
-      "phase": 0,
-      "via": "trainers"
-    },
-    {
       "slug": "fierypath",
       "level": 16,
       "phase": 1,
       "via": "encounters"
+    },
+    {
+      "slug": "route102",
+      "level": 16,
+      "phase": 1,
+      "via": "trainers"
+    },
+    {
+      "slug": "route103",
+      "level": 16,
+      "phase": 1,
+      "via": "trainers"
     },
     {
       "slug": "rusturftunnel",
@@ -186,19 +192,19 @@
     },
     {
       "slug": "mauvillecity",
-      "level": 17,
+      "level": 18,
       "phase": 1,
       "via": "trainers"
     },
     {
       "slug": "route114",
-      "level": 19,
+      "level": 20,
       "phase": 2,
       "via": "trainers"
     },
     {
       "slug": "route110",
-      "level": 22,
+      "level": 21,
       "phase": 2,
       "via": "trainers"
     },
@@ -209,19 +215,7 @@
       "via": "trainers"
     },
     {
-      "slug": "route111",
-      "level": 23,
-      "phase": 2,
-      "via": "trainers"
-    },
-    {
       "slug": "route112",
-      "level": 24,
-      "phase": 3,
-      "via": "trainers"
-    },
-    {
-      "slug": "route113",
       "level": 24,
       "phase": 3,
       "via": "trainers"
@@ -245,13 +239,19 @@
       "via": "encounters"
     },
     {
-      "slug": "petalburgcity",
+      "slug": "route105",
       "level": 26,
       "phase": 3,
       "via": "trainers"
     },
     {
-      "slug": "route107",
+      "slug": "route108",
+      "level": 26,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "route111",
       "level": 26,
       "phase": 3,
       "via": "trainers"
@@ -259,6 +259,18 @@
     {
       "slug": "route116",
       "level": 26,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "petalburgcity",
+      "level": 27,
+      "phase": 3,
+      "via": "trainers"
+    },
+    {
+      "slug": "petalburgwoods",
+      "level": 27,
       "phase": 3,
       "via": "trainers"
     },
@@ -275,14 +287,14 @@
       "via": "trainers"
     },
     {
-      "slug": "route118",
+      "slug": "route113",
       "level": 27,
       "phase": 3,
       "via": "trainers"
     },
     {
-      "slug": "fortreecity",
-      "level": 28,
+      "slug": "route119",
+      "level": 27,
       "phase": 3,
       "via": "trainers"
     },
@@ -293,37 +305,19 @@
       "via": "trainers"
     },
     {
-      "slug": "route102",
+      "slug": "route107",
       "level": 28,
       "phase": 3,
       "via": "trainers"
     },
     {
-      "slug": "route115",
+      "slug": "route118",
       "level": 28,
       "phase": 3,
       "via": "trainers"
     },
     {
-      "slug": "route119",
-      "level": 28,
-      "phase": 3,
-      "via": "trainers"
-    },
-    {
-      "slug": "magmahideout",
-      "level": 29,
-      "phase": 4,
-      "via": "trainers"
-    },
-    {
-      "slug": "petalburgwoods",
-      "level": 29,
-      "phase": 4,
-      "via": "trainers"
-    },
-    {
-      "slug": "route105",
+      "slug": "fortreecity",
       "level": 29,
       "phase": 4,
       "via": "trainers"
@@ -347,7 +341,7 @@
       "via": "encounters"
     },
     {
-      "slug": "route108",
+      "slug": "route115",
       "level": 30,
       "phase": 4,
       "via": "trainers"
@@ -365,6 +359,12 @@
       "via": "encounters"
     },
     {
+      "slug": "route123",
+      "level": 31,
+      "phase": 4,
+      "via": "trainers"
+    },
+    {
       "slug": "aquahideout",
       "level": 32,
       "phase": 5,
@@ -377,7 +377,7 @@
       "via": "trainers"
     },
     {
-      "slug": "route123",
+      "slug": "route129",
       "level": 32,
       "phase": 5,
       "via": "trainers"
@@ -395,7 +395,13 @@
       "via": "encounters"
     },
     {
-      "slug": "route129",
+      "slug": "route126",
+      "level": 33,
+      "phase": 5,
+      "via": "trainers"
+    },
+    {
+      "slug": "route127",
       "level": 33,
       "phase": 5,
       "via": "trainers"
@@ -413,27 +419,9 @@
       "via": "trainers"
     },
     {
-      "slug": "route133",
-      "level": 33,
-      "phase": 5,
-      "via": "trainers"
-    },
-    {
       "slug": "route134",
       "level": 33,
       "phase": 5,
-      "via": "trainers"
-    },
-    {
-      "slug": "route121",
-      "level": 34,
-      "phase": 6,
-      "via": "trainers"
-    },
-    {
-      "slug": "route127",
-      "level": 34,
-      "phase": 6,
       "via": "trainers"
     },
     {
@@ -443,8 +431,8 @@
       "via": "trainers"
     },
     {
-      "slug": "route128",
-      "level": 35,
+      "slug": "route133",
+      "level": 34,
       "phase": 6,
       "via": "trainers"
     },
@@ -461,20 +449,26 @@
       "via": "trainers"
     },
     {
+      "slug": "route121",
+      "level": 36,
+      "phase": 6,
+      "via": "trainers"
+    },
+    {
       "slug": "route125",
       "level": 36,
       "phase": 6,
       "via": "trainers"
     },
     {
-      "slug": "route126",
-      "level": 37,
+      "slug": "route128",
+      "level": 36,
       "phase": 6,
       "via": "trainers"
     },
     {
       "slug": "sootopoliscity",
-      "level": 39,
+      "level": 40,
       "phase": 6,
       "via": "trainers"
     },
@@ -485,13 +479,13 @@
       "via": "trainers"
     },
     {
-      "slug": "victoryroad",
-      "level": 43,
-      "phase": 7,
+      "slug": "sstidal",
+      "level": 44,
+      "phase": 8,
       "via": "trainers"
     },
     {
-      "slug": "sstidal",
+      "slug": "victoryroad",
       "level": 44,
       "phase": 8,
       "via": "trainers"
@@ -530,12 +524,32 @@
       "kind": "villain",
       "location": "petalburgwoods",
       "levelCap": 9,
-      "name": "Team Aqua",
-      "battles": 1,
+      "name": "Team Magma",
+      "battles": 2,
       "necessity": "supporting"
     },
     {
       "order": 3,
+      "kind": "hm",
+      "location": "rustborocity",
+      "levelCap": 9,
+      "hm": "HM01",
+      "move": "Cut",
+      "method": "Gift",
+      "necessity": "supporting"
+    },
+    {
+      "order": 4,
+      "kind": "item",
+      "location": "rustborocity",
+      "levelCap": 9,
+      "item": "exp-share",
+      "name": "Exp. Share",
+      "method": "Gift",
+      "necessity": "supporting"
+    },
+    {
+      "order": 5,
       "kind": "hm",
       "location": "granitecave",
       "levelCap": 10,
@@ -545,39 +559,19 @@
       "necessity": "supporting"
     },
     {
-      "order": 4,
+      "order": 6,
       "kind": "villain",
       "location": "rusturftunnel",
       "levelCap": 11,
-      "name": "Team Aqua",
-      "battles": 1,
-      "necessity": "supporting"
-    },
-    {
-      "order": 5,
-      "kind": "hm",
-      "location": "rustborocity",
-      "levelCap": 13,
-      "hm": "HM01",
-      "move": "Cut",
-      "method": "Gift",
-      "necessity": "supporting"
-    },
-    {
-      "order": 6,
-      "kind": "item",
-      "location": "rustborocity",
-      "levelCap": 13,
-      "item": "exp-share",
-      "name": "Exp. Share",
-      "method": "Gift",
+      "name": "Team Magma",
+      "battles": 2,
       "necessity": "supporting"
     },
     {
       "order": 7,
       "kind": "item",
       "location": "dewfordtown",
-      "levelCap": 13,
+      "levelCap": 12,
       "item": "oldrod",
       "name": "Old Rod",
       "method": "Gift from Fisherman",
@@ -606,21 +600,12 @@
       "kind": "villain",
       "location": "slateportcity",
       "levelCap": 15,
-      "name": "Team Aqua",
-      "battles": 2,
+      "name": "Team Magma",
+      "battles": 4,
       "necessity": "supporting"
     },
     {
       "order": 11,
-      "kind": "rival",
-      "location": "rustborocity",
-      "levelCap": 15,
-      "name": "Rival",
-      "battles": 6,
-      "necessity": "supporting"
-    },
-    {
-      "order": 12,
       "kind": "rival",
       "location": "mauvillecity",
       "levelCap": 16,
@@ -629,7 +614,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 13,
+      "order": 12,
       "kind": "hm",
       "location": "rusturftunnel",
       "levelCap": 16,
@@ -639,7 +624,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 14,
+      "order": 13,
       "kind": "item",
       "location": "rusturftunnel",
       "levelCap": 16,
@@ -649,10 +634,18 @@
       "necessity": "supporting"
     },
     {
+      "order": 14,
+      "kind": "gym",
+      "location": "dewfordtown",
+      "levelCap": 18,
+      "milestone": "leader-brawly",
+      "necessity": "required"
+    },
+    {
       "order": 15,
       "kind": "hm",
       "location": "mauvillecity",
-      "levelCap": 17,
+      "levelCap": 18,
       "hm": "HM06",
       "move": "Rock Smash",
       "method": "Gift",
@@ -662,7 +655,7 @@
       "order": 16,
       "kind": "item",
       "location": "mauvillecity",
-      "levelCap": 17,
+      "levelCap": 18,
       "item": "acrobike",
       "name": "Acro Bike",
       "method": "Gift",
@@ -672,7 +665,7 @@
       "order": 17,
       "kind": "item",
       "location": "mauvillecity",
-      "levelCap": 17,
+      "levelCap": 18,
       "item": "basementkey",
       "name": "Basement Key",
       "method": "Gift",
@@ -682,7 +675,7 @@
       "order": 18,
       "kind": "item",
       "location": "mauvillecity",
-      "levelCap": 17,
+      "levelCap": 18,
       "item": "coincase",
       "name": "Coin Case",
       "method": "Gift",
@@ -692,7 +685,7 @@
       "order": 19,
       "kind": "item",
       "location": "mauvillecity",
-      "levelCap": 17,
+      "levelCap": 18,
       "item": "machbike",
       "name": "Mach Bike",
       "method": "Gift",
@@ -700,14 +693,6 @@
     },
     {
       "order": 20,
-      "kind": "gym",
-      "location": "dewfordtown",
-      "levelCap": 18,
-      "milestone": "leader-brawly",
-      "necessity": "required"
-    },
-    {
-      "order": 21,
       "kind": "rival",
       "location": "route110",
       "levelCap": 20,
@@ -716,26 +701,17 @@
       "necessity": "supporting"
     },
     {
-      "order": 22,
-      "kind": "villain",
-      "location": "jaggedpass",
-      "levelCap": 22,
-      "name": "Team Magma",
-      "battles": 1,
-      "necessity": "supporting"
-    },
-    {
-      "order": 23,
+      "order": 21,
       "kind": "item",
       "location": "route110",
-      "levelCap": 22,
+      "levelCap": 21,
       "item": "itemfinder",
       "name": "Itemfinder",
       "method": "Gift",
       "necessity": "supporting"
     },
     {
-      "order": 24,
+      "order": 22,
       "kind": "gym",
       "location": "mauvillecity",
       "levelCap": 23,
@@ -743,7 +719,7 @@
       "necessity": "required"
     },
     {
-      "order": 25,
+      "order": 23,
       "kind": "item",
       "location": "lavaridgetown",
       "levelCap": 23,
@@ -753,27 +729,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 26,
-      "kind": "item",
-      "location": "route113",
-      "levelCap": 24,
-      "item": "sootsack",
-      "name": "Soot Sack",
-      "method": "Gift",
-      "necessity": "supporting"
-    },
-    {
-      "order": 27,
-      "kind": "hm",
-      "location": "petalburgcity",
-      "levelCap": 26,
-      "hm": "HM03",
-      "move": "Surf",
-      "method": "Gift from Wally's Family",
-      "necessity": "supporting"
-    },
-    {
-      "order": 28,
+      "order": 24,
       "kind": "item",
       "location": "newmauville",
       "levelCap": 26,
@@ -783,17 +739,37 @@
       "necessity": "supporting"
     },
     {
-      "order": 29,
-      "kind": "item",
-      "location": "route118",
+      "order": 25,
+      "kind": "hm",
+      "location": "route119",
       "levelCap": 27,
-      "item": "goodrod",
-      "name": "Good Rod",
-      "method": "Gift from Fisherman",
+      "hm": "HM02",
+      "move": "Fly",
+      "method": "Gift from Rival",
       "necessity": "supporting"
     },
     {
-      "order": 30,
+      "order": 26,
+      "kind": "hm",
+      "location": "petalburgcity",
+      "levelCap": 27,
+      "hm": "HM03",
+      "move": "Surf",
+      "method": "Gift from Wally's Family",
+      "necessity": "supporting"
+    },
+    {
+      "order": 27,
+      "kind": "item",
+      "location": "route113",
+      "levelCap": 27,
+      "item": "sootsack",
+      "name": "Soot Sack",
+      "method": "Gift",
+      "necessity": "supporting"
+    },
+    {
+      "order": 28,
       "kind": "item",
       "location": "route104",
       "levelCap": 27,
@@ -803,7 +779,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 31,
+      "order": 29,
       "kind": "gym",
       "location": "lavaridgetown",
       "levelCap": 28,
@@ -811,26 +787,26 @@
       "necessity": "required"
     },
     {
-      "order": 32,
+      "order": 30,
       "kind": "villain",
       "location": "route119",
       "levelCap": 28,
-      "name": "Team Aqua",
-      "battles": 5,
+      "name": "Team Magma",
+      "battles": 10,
       "necessity": "supporting"
     },
     {
-      "order": 33,
-      "kind": "hm",
-      "location": "route119",
+      "order": 31,
+      "kind": "item",
+      "location": "route118",
       "levelCap": 28,
-      "hm": "HM02",
-      "move": "Fly",
-      "method": "Gift from Rival",
+      "item": "goodrod",
+      "name": "Good Rod",
+      "method": "Gift from Fisherman",
       "necessity": "supporting"
     },
     {
-      "order": 34,
+      "order": 32,
       "kind": "item",
       "location": "route120",
       "levelCap": 30,
@@ -840,7 +816,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 35,
+      "order": 33,
       "kind": "gym",
       "location": "petalburgcity",
       "levelCap": 31,
@@ -848,7 +824,7 @@
       "necessity": "required"
     },
     {
-      "order": 36,
+      "order": 34,
       "kind": "rival",
       "location": "route119",
       "levelCap": 31,
@@ -857,7 +833,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 37,
+      "order": 35,
       "kind": "gym",
       "location": "fortreecity",
       "levelCap": 33,
@@ -865,16 +841,16 @@
       "necessity": "required"
     },
     {
-      "order": 38,
+      "order": 36,
       "kind": "villain",
       "location": "aquahideout",
-      "levelCap": 34,
-      "name": "Team Aqua",
-      "battles": 7,
+      "levelCap": 33,
+      "name": "Team Magma",
+      "battles": 14,
       "necessity": "supporting"
     },
     {
-      "order": 39,
+      "order": 37,
       "kind": "rival",
       "location": "lilycovecity",
       "levelCap": 34,
@@ -883,7 +859,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 40,
+      "order": 38,
       "kind": "hm",
       "location": "caveoforigin",
       "levelCap": 36,
@@ -893,7 +869,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 41,
+      "order": 39,
       "kind": "hm",
       "location": "mossdeepcity",
       "levelCap": 36,
@@ -903,7 +879,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 42,
+      "order": 40,
       "kind": "item",
       "location": "mossdeepcity",
       "levelCap": 36,
@@ -913,16 +889,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 43,
-      "kind": "villain",
-      "location": "magmahideout",
-      "levelCap": 39,
-      "name": "Team Magma",
-      "battles": 9,
-      "necessity": "supporting"
-    },
-    {
-      "order": 44,
+      "order": 41,
       "kind": "gym",
       "location": "mossdeepcity",
       "levelCap": 42,
@@ -930,7 +897,7 @@
       "necessity": "required"
     },
     {
-      "order": 45,
+      "order": 42,
       "kind": "gym",
       "location": "sootopoliscity",
       "levelCap": 43,
@@ -938,16 +905,7 @@
       "necessity": "required"
     },
     {
-      "order": 46,
-      "kind": "villain",
-      "location": "mossdeepcity",
-      "levelCap": 44,
-      "name": "Team Magma",
-      "battles": 8,
-      "necessity": "supporting"
-    },
-    {
-      "order": 47,
+      "order": 43,
       "kind": "elite-four",
       "location": "",
       "levelCap": 49,
@@ -955,7 +913,7 @@
       "necessity": "required"
     },
     {
-      "order": 48,
+      "order": 44,
       "kind": "elite-four",
       "location": "",
       "levelCap": 51,
@@ -963,7 +921,7 @@
       "necessity": "required"
     },
     {
-      "order": 49,
+      "order": 45,
       "kind": "elite-four",
       "location": "",
       "levelCap": 53,
@@ -971,7 +929,7 @@
       "necessity": "required"
     },
     {
-      "order": 50,
+      "order": 46,
       "kind": "elite-four",
       "location": "",
       "levelCap": 55,
@@ -979,7 +937,7 @@
       "necessity": "required"
     },
     {
-      "order": 51,
+      "order": 47,
       "kind": "rival",
       "location": "victoryroad",
       "levelCap": 57,
@@ -988,7 +946,7 @@
       "necessity": "supporting"
     },
     {
-      "order": 52,
+      "order": 48,
       "kind": "champion",
       "location": "",
       "levelCap": 58,
@@ -996,7 +954,7 @@
       "necessity": "required"
     },
     {
-      "order": 53,
+      "order": 49,
       "kind": "legendary",
       "location": "desertruins",
       "levelCap": 59,
@@ -1006,7 +964,7 @@
       "necessity": "optional"
     },
     {
-      "order": 54,
+      "order": 50,
       "kind": "legendary",
       "location": "islandcave",
       "levelCap": 59,
@@ -1016,7 +974,7 @@
       "necessity": "optional"
     },
     {
-      "order": 55,
+      "order": 51,
       "kind": "legendary",
       "location": "ancienttomb",
       "levelCap": 59,
@@ -1026,7 +984,7 @@
       "necessity": "optional"
     },
     {
-      "order": 56,
+      "order": 52,
       "kind": "legendary",
       "location": "southernisland",
       "levelCap": 59,
@@ -1036,7 +994,7 @@
       "necessity": "optional"
     },
     {
-      "order": 57,
+      "order": 53,
       "kind": "legendary",
       "location": "",
       "levelCap": 59,
@@ -1046,7 +1004,7 @@
       "necessity": "optional"
     },
     {
-      "order": 58,
+      "order": 54,
       "kind": "legendary",
       "location": "caveoforigin",
       "levelCap": 59,
@@ -1056,7 +1014,7 @@
       "necessity": "optional"
     },
     {
-      "order": 59,
+      "order": 55,
       "kind": "legendary",
       "location": "skypillar",
       "levelCap": 59,

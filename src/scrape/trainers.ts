@@ -1,7 +1,8 @@
-// All Emerald trainers in one dataset + the story/progression spine.
-//   - Gym leaders / Elite Four / Champion from /emerald/gym.shtml + elite.shtml
+// All trainers for one game in one dataset + the story/progression spine.
+//   - Gym leaders / Elite Four / Champion from GAMES[game].gymUrl + eliteUrl
 //     (marquee battles WITH movesets + badge/field-move progression metadata).
-//   - Every route trainer from the pokearth `trainers-em` sections (team + level).
+//   - Every route trainer from the pokearth per-version sections (team + level):
+//     `trainers-em` for Emerald, `trainers-rs` for Ruby & Sapphire.
 // story.json = the fixed gym→E4→Champion milestones PLUS an inferred location
 // order: each location's median trainer level (or encounter level) sorted and
 // pegged to the gym level-cap bands. Heuristic order, not canonical.
@@ -29,8 +30,9 @@ export async function scrapeTrainers(game: Game = "emerald", refresh = false) {
   const milestones: StoryMilestone[] = [];
 
   // --- Gym leaders + Elite Four + Champion (with movesets) ---
-  // Gym/E4 teams are game-specific (R/S share /rubysapphire/ pages); route
-  // trainers below come from the shared pokearth crawl.
+  // All per game: gym/E4 teams from GAMES[game] pages (R/S share /rubysapphire/);
+  // route/villain/rival trainers from the pokearth crawl's per-version sections
+  // (trainers-em for Emerald, trainers-rs for R/S).
   const gymHtml = await fetchCached(GAMES[game].gymUrl, { refresh });
   const eliteHtml = await fetchCached(GAMES[game].eliteUrl, { refresh });
   const gymRosters = parseTrainerRosters(gymHtml);
@@ -74,7 +76,7 @@ export async function scrapeTrainers(game: Game = "emerald", refresh = false) {
   const pages = await crawlHoenn3rd(refresh);
   const seen = new Set<string>();
   for (const { slug, html } of pages) {
-    for (const t of parseRouteTrainers(html, slug)) {
+    for (const t of parseRouteTrainers(html, slug, game)) {
       const sig = `${t.location}|${t.label}|${t.variant ?? ""}|${t.team.map((p) => `${p.pokemon}:${p.level}`).join(",")}`;
       if (seen.has(sig)) continue;
       seen.add(sig);
