@@ -1,152 +1,252 @@
 [
   {
-    "slug": "hardy",
-    "name": "Hardy",
-    "increased": null,
-    "decreased": null
-  },
-  {
-    "slug": "lonely",
-    "name": "Lonely",
-    "increased": "attack",
-    "decreased": "defense"
-  },
-  {
-    "slug": "brave",
-    "name": "Brave",
-    "increased": "attack",
-    "decreased": "speed"
-  },
-  {
     "slug": "adamant",
     "name": "Adamant",
     "increased": "attack",
-    "decreased": "spAttack"
-  },
-  {
-    "slug": "naughty",
-    "name": "Naughty",
-    "increased": "attack",
-    "decreased": "spDefense"
-  },
-  {
-    "slug": "bold",
-    "name": "Bold",
-    "increased": "defense",
-    "decreased": "attack"
-  },
-  {
-    "slug": "docile",
-    "name": "Docile",
-    "increased": null,
-    "decreased": null
-  },
-  {
-    "slug": "relaxed",
-    "name": "Relaxed",
-    "increased": "defense",
-    "decreased": "speed"
-  },
-  {
-    "slug": "impish",
-    "name": "Impish",
-    "increased": "defense",
-    "decreased": "spAttack"
-  },
-  {
-    "slug": "lax",
-    "name": "Lax",
-    "increased": "defense",
-    "decreased": "spDefense"
-  },
-  {
-    "slug": "timid",
-    "name": "Timid",
-    "increased": "speed",
-    "decreased": "attack"
-  },
-  {
-    "slug": "hasty",
-    "name": "Hasty",
-    "increased": "speed",
-    "decreased": "defense"
-  },
-  {
-    "slug": "serious",
-    "name": "Serious",
-    "increased": null,
-    "decreased": null
-  },
-  {
-    "slug": "jolly",
-    "name": "Jolly",
-    "increased": "speed",
-    "decreased": "spAttack"
-  },
-  {
-    "slug": "naive",
-    "name": "Naive",
-    "increased": "speed",
-    "decreased": "spDefense"
-  },
-  {
-    "slug": "modest",
-    "name": "Modest",
-    "increased": "spAttack",
-    "decreased": "attack"
-  },
-  {
-    "slug": "mild",
-    "name": "Mild",
-    "increased": "spAttack",
-    "decreased": "defense"
-  },
-  {
-    "slug": "quiet",
-    "name": "Quiet",
-    "increased": "spAttack",
-    "decreased": "speed"
+    "decreased": "spAttack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
   },
   {
     "slug": "bashful",
     "name": "Bashful",
     "increased": null,
-    "decreased": null
+    "decreased": null,
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
   },
   {
-    "slug": "rash",
-    "name": "Rash",
-    "increased": "spAttack",
-    "decreased": "spDefense"
+    "slug": "bold",
+    "name": "Bold",
+    "increased": "defense",
+    "decreased": "attack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "brave",
+    "name": "Brave",
+    "increased": "attack",
+    "decreased": "speed",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
   },
   {
     "slug": "calm",
     "name": "Calm",
     "increased": "spDefense",
-    "decreased": "attack"
-  },
-  {
-    "slug": "gentle",
-    "name": "Gentle",
-    "increased": "spDefense",
-    "decreased": "defense"
-  },
-  {
-    "slug": "sassy",
-    "name": "Sassy",
-    "increased": "spDefense",
-    "decreased": "speed"
+    "decreased": "attack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
   },
   {
     "slug": "careful",
     "name": "Careful",
     "increased": "spDefense",
-    "decreased": "spAttack"
+    "decreased": "spAttack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "docile",
+    "name": "Docile",
+    "increased": null,
+    "decreased": null,
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "gentle",
+    "name": "Gentle",
+    "increased": "spDefense",
+    "decreased": "defense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "hardy",
+    "name": "Hardy",
+    "increased": null,
+    "decreased": null,
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "hasty",
+    "name": "Hasty",
+    "increased": "speed",
+    "decreased": "defense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "impish",
+    "name": "Impish",
+    "increased": "defense",
+    "decreased": "spAttack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "jolly",
+    "name": "Jolly",
+    "increased": "speed",
+    "decreased": "spAttack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "lax",
+    "name": "Lax",
+    "increased": "defense",
+    "decreased": "spDefense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "lonely",
+    "name": "Lonely",
+    "increased": "attack",
+    "decreased": "defense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "mild",
+    "name": "Mild",
+    "increased": "spAttack",
+    "decreased": "defense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "modest",
+    "name": "Modest",
+    "increased": "spAttack",
+    "decreased": "attack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "naive",
+    "name": "Naive",
+    "increased": "speed",
+    "decreased": "spDefense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "naughty",
+    "name": "Naughty",
+    "increased": "attack",
+    "decreased": "spDefense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "quiet",
+    "name": "Quiet",
+    "increased": "spAttack",
+    "decreased": "speed",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
   },
   {
     "slug": "quirky",
     "name": "Quirky",
     "increased": null,
-    "decreased": null
+    "decreased": null,
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "rash",
+    "name": "Rash",
+    "increased": "spAttack",
+    "decreased": "spDefense",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "relaxed",
+    "name": "Relaxed",
+    "increased": "defense",
+    "decreased": "speed",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "sassy",
+    "name": "Sassy",
+    "increased": "spDefense",
+    "decreased": "speed",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "serious",
+    "name": "Serious",
+    "increased": null,
+    "decreased": null,
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
+  },
+  {
+    "slug": "timid",
+    "name": "Timid",
+    "increased": "speed",
+    "decreased": "attack",
+    "source": {
+      "url": "https://www.serebii.net/games/natures.shtml",
+      "scrapedAt": "2026-09-05T21:10:23.671Z"
+    }
   }
 ]

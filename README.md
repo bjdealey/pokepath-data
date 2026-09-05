@@ -17,7 +17,7 @@ node src/run.ts learnedby          # bake move→Pokémon reverse index into mov
 node src/run.ts machines           # derive TM/HM → move table (after pokemon; +moves/story/items enrich)
 node src/run.ts typechart          # derive the Gen-3 type chart from Pokémon damage-taken (after pokemon)
 node src/run.ts abilities          # derive the canonical Gen-3 abilities collection (after pokemon)
-node src/run.ts natures            # write the 25 Gen-3 natures reference (constant)
+node src/run.ts natures            # scrape the 25 Gen-3 natures from Serebii (/games/natures.shtml)
 node src/run.ts encounters         # scrape Emerald encounters (mon+rate+level) from pokearth
 node src/run.ts items              # scrape Emerald location items (name + how obtained)
 node src/run.ts itemdex            # scrape item definitions (effect+price) for those items + wild-held items (after `items`)
@@ -132,8 +132,8 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   Each ability also carries **`pokemon`** — the reverse-index of which Pokémon can have it (like
   a move's `learnedBy`), derived in the same pass.
 - ✅ `natures` — the **25 Gen-3 natures** (`dataset/natures.json`): each raises one stat 10% and
-  lowers another (five are neutral). A fixed game-constant (like the type list), not scraped —
-  reference data for competitive/training stat calculators. HP is never nature-affected.
+  lowers another (five are neutral, HP never affected). Scraped from Serebii's `/games/natures.shtml`
+  (so every record carries a Serebii `source`) — reference data for competitive/training calculators.
 - ✅ `obtainability` — **how each species is obtained in Emerald** (`games/emerald/obtainability.json`,
   *derived*, no network): per species — wild spots, the evolution edge into it, breeding eligibility,
   gift/trade/event flags, and a **transitive `obtainable`** (reachable via a direct source, or evolves

@@ -24,6 +24,7 @@ export interface NatureRecord {
   name: string;
   increased: string | null; // stat key raised 10% (null = neutral nature)
   decreased: string | null; // stat key lowered 10%
+  source: { url: string; scrapedAt: string };
 }
 
 /** How a species can be obtained in a given game — derived by aggregating the

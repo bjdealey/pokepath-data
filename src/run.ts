@@ -21,7 +21,7 @@ import { deriveLegendaries } from "./derive/legendaries.ts";
 import { deriveAbilities } from "./derive/abilities.ts";
 import { deriveLocations } from "./derive/locations.ts";
 import { deriveStoryPath } from "./derive/storypath.ts";
-import { deriveNatures } from "./derive/natures.ts";
+import { scrapeNatures } from "./scrape/natures.ts";
 import { deriveObtainability } from "./derive/obtainability.ts";
 import { deriveEvTraining } from "./derive/evtraining.ts";
 import { deriveShiny } from "./derive/shiny.ts";
@@ -167,9 +167,10 @@ if (!entity || entity === "pokemon") {
   console.log(`✔ ${r.beats}-beat critical path ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/story.json`);
   if (r.noLevel.length) console.warn(`⚠ ${r.noLevel.length} HM(s) at a location with no inferred level: ${r.noLevel.join(", ")}`);
 } else if (entity === "natures") {
-  console.log(`▶ writing the 25 Gen-3 natures reference…`);
-  const r = deriveNatures();
+  console.log(`▶ scraping the 25 natures from Serebii…`);
+  const r = await scrapeNatures(refresh);
   console.log(`✔ ${r.natures} natures (${r.neutral} neutral) → dataset/gen3/natures.json`);
+  if (r.missing.length) console.warn(`⚠ missing natures: ${r.missing.join(", ")}`);
 } else if (entity === "obtainability") {
   console.log(`▶ deriving how each species is obtained in Emerald…`);
   const r = deriveObtainability();

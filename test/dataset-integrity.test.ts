@@ -116,8 +116,14 @@ test("natures: 25 valid, 5 neutral, stat keys resolve (never HP)", () => {
     assert.notEqual(n.increased, n.decreased, `${n.slug}: increased == decreased (should be neutral)`);
     assert.notEqual(n.increased, "hp", `${n.slug}: HP is never nature-affected`);
     assert.notEqual(n.decreased, "hp", `${n.slug}: HP is never nature-affected`);
+    assert.ok(/serebii/.test(n.source?.url ?? ""), `${n.slug}: missing Serebii source`);
   }
   assert.equal(neutral, 5, "exactly 5 neutral natures");
+  // Spot-check known values (guards the scrape's cell-offset parse).
+  const by = Object.fromEntries(natures.map((n) => [n.slug, n]));
+  assert.deepEqual([by.adamant.increased, by.adamant.decreased], ["attack", "spAttack"]);
+  assert.deepEqual([by.modest.increased, by.modest.decreased], ["spAttack", "attack"]);
+  assert.deepEqual([by.naive.increased, by.naive.decreased], ["speed", "spDefense"]);
 });
 
 test("obtainability: covers dex, refs resolve, transitive `obtainable` is consistent", () => {
