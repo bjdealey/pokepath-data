@@ -6,11 +6,11 @@
 // `pokemon` and the game data (encounters, gifts, trades, legendaries).
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
+import type { Game } from "../games.ts";
 import type { EvolutionEdge, Obtainability, PokemonRecord } from "../types.ts";
 
-const G = `${DATASET}games/emerald/`;
-
-export function deriveObtainability() {
+export function deriveObtainability(game: Game = "emerald") {
+  const G = `${DATASET}games/${game}/`;
   const pdir = `${DATASET}pokemon/`;
   const pokemon = readdirSync(pdir)
     .filter((f) => f.endsWith(".json") && f !== "index.json")

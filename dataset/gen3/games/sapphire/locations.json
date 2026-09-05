@@ -1,0 +1,310 @@
+[
+  {
+    "slug": "abandonedship",
+    "name": "Abandonedship"
+  },
+  {
+    "slug": "ancienttomb",
+    "name": "Ancienttomb"
+  },
+  {
+    "slug": "aquahideout",
+    "name": "Aqua Hideout"
+  },
+  {
+    "slug": "battlefrontier",
+    "name": "Battle Frontier"
+  },
+  {
+    "slug": "caveoforigin",
+    "name": "Caveoforigin"
+  },
+  {
+    "slug": "desertruins",
+    "name": "Desertruins"
+  },
+  {
+    "slug": "dewfordtown",
+    "name": "Dewford Town"
+  },
+  {
+    "slug": "evergrandecity",
+    "name": "Ever Grande City"
+  },
+  {
+    "slug": "fallarbortown",
+    "name": "Fallarbor Town"
+  },
+  {
+    "slug": "fierypath",
+    "name": "Fierypath"
+  },
+  {
+    "slug": "fortreecity",
+    "name": "Fortree City"
+  },
+  {
+    "slug": "granitecave",
+    "name": "Granite Cave"
+  },
+  {
+    "slug": "islandcave",
+    "name": "Island Cave"
+  },
+  {
+    "slug": "jaggedpass",
+    "name": "Jagged Pass"
+  },
+  {
+    "slug": "lavaridgetown",
+    "name": "Lavaridge Town"
+  },
+  {
+    "slug": "lilycovecity",
+    "name": "Lilycove City"
+  },
+  {
+    "slug": "littleroottown",
+    "name": "Littleroot Town"
+  },
+  {
+    "slug": "magmahideout",
+    "name": "Magma Hideout"
+  },
+  {
+    "slug": "mauvillecity",
+    "name": "Mauville City"
+  },
+  {
+    "slug": "meteorfalls",
+    "name": "Meteor Falls"
+  },
+  {
+    "slug": "mirageisland",
+    "name": "Mirage Island"
+  },
+  {
+    "slug": "mossdeepcity",
+    "name": "Mossdeep City"
+  },
+  {
+    "slug": "mt.chimney",
+    "name": "Mt. Chimney"
+  },
+  {
+    "slug": "newmauville",
+    "name": "Newmauville"
+  },
+  {
+    "slug": "oldaletown",
+    "name": "Oldale Town"
+  },
+  {
+    "slug": "pacifidlogtown",
+    "name": "Pacifidlog Town"
+  },
+  {
+    "slug": "petalburgcity",
+    "name": "Petalburg City"
+  },
+  {
+    "slug": "petalburgwoods",
+    "name": "Petalburg Woods"
+  },
+  {
+    "slug": "route101",
+    "name": "Route 101"
+  },
+  {
+    "slug": "route102",
+    "name": "Route 102"
+  },
+  {
+    "slug": "route103",
+    "name": "Route 103"
+  },
+  {
+    "slug": "route104",
+    "name": "Route 104"
+  },
+  {
+    "slug": "route105",
+    "name": "Route 105"
+  },
+  {
+    "slug": "route106",
+    "name": "Route 106"
+  },
+  {
+    "slug": "route107",
+    "name": "Route 107"
+  },
+  {
+    "slug": "route108",
+    "name": "Route 108"
+  },
+  {
+    "slug": "route109",
+    "name": "Route 109"
+  },
+  {
+    "slug": "route110",
+    "name": "Route 110"
+  },
+  {
+    "slug": "route111",
+    "name": "Route 111"
+  },
+  {
+    "slug": "route112",
+    "name": "Route 112"
+  },
+  {
+    "slug": "route113",
+    "name": "Route 113"
+  },
+  {
+    "slug": "route114",
+    "name": "Route 114"
+  },
+  {
+    "slug": "route115",
+    "name": "Route 115"
+  },
+  {
+    "slug": "route116",
+    "name": "Route 116"
+  },
+  {
+    "slug": "route117",
+    "name": "Route 117"
+  },
+  {
+    "slug": "route118",
+    "name": "Route 118"
+  },
+  {
+    "slug": "route119",
+    "name": "Route 119"
+  },
+  {
+    "slug": "route120",
+    "name": "Route 120"
+  },
+  {
+    "slug": "route121",
+    "name": "Route 121"
+  },
+  {
+    "slug": "route122",
+    "name": "Route 122"
+  },
+  {
+    "slug": "route123",
+    "name": "Route 123"
+  },
+  {
+    "slug": "route124",
+    "name": "Route 124"
+  },
+  {
+    "slug": "route125",
+    "name": "Route 125"
+  },
+  {
+    "slug": "route126",
+    "name": "Route 126"
+  },
+  {
+    "slug": "route127",
+    "name": "Route 127"
+  },
+  {
+    "slug": "route128",
+    "name": "Route 128"
+  },
+  {
+    "slug": "route129",
+    "name": "Route 129"
+  },
+  {
+    "slug": "route130",
+    "name": "Route 130"
+  },
+  {
+    "slug": "route131",
+    "name": "Route 131"
+  },
+  {
+    "slug": "route132",
+    "name": "Route 132"
+  },
+  {
+    "slug": "route133",
+    "name": "Route 133"
+  },
+  {
+    "slug": "route134",
+    "name": "Route 134"
+  },
+  {
+    "slug": "rustborocity",
+    "name": "Rustboro City"
+  },
+  {
+    "slug": "rusturftunnel",
+    "name": "Rusturf Tunnel"
+  },
+  {
+    "slug": "safarizone",
+    "name": "Safarizone"
+  },
+  {
+    "slug": "scorchedslab",
+    "name": "Scorchedslab"
+  },
+  {
+    "slug": "seamauville",
+    "name": "Sea Mauville"
+  },
+  {
+    "slug": "secretislet",
+    "name": "Secret Islet"
+  },
+  {
+    "slug": "secretshore",
+    "name": "Secret Shore"
+  },
+  {
+    "slug": "shoalcave",
+    "name": "Shoal Cave"
+  },
+  {
+    "slug": "skypillar",
+    "name": "Skypillar"
+  },
+  {
+    "slug": "slateportcity",
+    "name": "Slateport City"
+  },
+  {
+    "slug": "sootopoliscity",
+    "name": "Sootopolis City"
+  },
+  {
+    "slug": "southernisland",
+    "name": "Southern Island"
+  },
+  {
+    "slug": "sstidal",
+    "name": "Sstidal"
+  },
+  {
+    "slug": "verdanturftown",
+    "name": "Verdanturf Town"
+  },
+  {
+    "slug": "victoryroad",
+    "name": "Victory Road"
+  }
+]

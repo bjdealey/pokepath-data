@@ -28,6 +28,7 @@ import { deriveShiny } from "./derive/shiny.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeTrades } from "./scrape/trades.ts";
+import { ALL_GAMES } from "./games.ts";
 import type { PokemonRecord } from "./types.ts";
 
 const rsUrl = (n: number) => `https://www.serebii.net/pokedex-rs/${String(n).padStart(3, "0")}.shtml`;
@@ -96,13 +97,15 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ scraping ${dex.length} pokemon (Gen-3 pages)…`);
   await scrapePokemon(dex, refresh);
 } else if (entity === "encounters") {
-  console.log(`▶ crawling Hoenn pokearth pages for Emerald encounters (mon + rate + level)…`);
-  const r = await scrapeEncounters(refresh);
-  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.encounters} encounters → dataset/gen3/games/emerald/`);
+  for (const game of ALL_GAMES) {
+    const r = await scrapeEncounters(game, refresh);
+    console.log(`✔ ${game}: ${r.locations} locations, ${r.encounters} encounters → games/${game}/`);
+  }
 } else if (entity === "items") {
-  console.log(`▶ crawling Hoenn pokearth pages for Emerald location items…`);
-  const r = await scrapeItems(refresh);
-  console.log(`✔ ${r.pages} pages → ${r.locations} locations, ${r.items} items → dataset/gen3/games/emerald/`);
+  for (const game of ALL_GAMES) {
+    const r = await scrapeItems(game, refresh);
+    console.log(`✔ ${game}: ${r.locations} locations, ${r.items} items → games/${game}/`);
+  }
 } else if (entity === "itemdex") {
   console.log(`▶ scraping ItemDex definitions (effect + price) for Emerald items…`);
   const r = await scrapeItemdex(refresh);
@@ -133,60 +136,67 @@ if (!entity || entity === "pokemon") {
   console.log(`✔ ${r.resolved}/${r.types} type columns → dataset/gen3/typechart.json`);
   if (r.missing.length) console.warn(`⚠ unresolved types: ${r.missing.join(", ")}`);
 } else if (entity === "connectivity") {
-  console.log(`▶ crawling pokearth exits to build the Hoenn location graph…`);
-  const r = await scrapeConnectivity(refresh);
-  console.log(`✔ ${r.locations} locations, ${r.edges} exit edges → dataset/gen3/games/emerald/connections.json`);
-  if (r.dangling.length) console.warn(`⚠ ${r.dangling.length} exits point to un-crawled locations: ${r.dangling.slice(0, 10).join(", ")}`);
+  for (const game of ALL_GAMES) {
+    const r = await scrapeConnectivity(game, refresh);
+    console.log(`✔ ${game}: ${r.locations} locations, ${r.edges} exit edges → games/${game}/connections.json`);
+    if (r.dangling.length) console.warn(`  ⚠ ${r.dangling.length} exits to un-crawled locations`);
+  }
 } else if (entity === "trainers") {
-  console.log(`▶ scraping all Emerald trainers (gym/elite + route) + story…`);
-  const r = await scrapeTrainers(refresh);
-  console.log(`✔ ${r.trainers} trainers ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/`);
-  console.log(`  story: ${r.milestones} milestones + ${r.locations} locations + ${r.criticalPath}-beat critical path (inferred order)`);
-  if (r.unresolvedMoves.length) console.warn(`⚠ ${r.unresolvedMoves.length} trainer move(s) don't match a move record: ${r.unresolvedMoves.join(", ")}`);
+  for (const game of ALL_GAMES) {
+    const r = await scrapeTrainers(game, refresh);
+    console.log(`✔ ${game}: ${r.trainers} trainers ${JSON.stringify(r.byKind)}, ${r.criticalPath}-beat path → games/${game}/`);
+    if (r.unresolvedMoves.length) console.warn(`  ⚠ ${r.unresolvedMoves.length} trainer move(s) unmatched: ${r.unresolvedMoves.slice(0, 8).join(", ")}`);
+  }
 } else if (entity === "gifts") {
-  console.log(`▶ parsing pokearth gift tables (starter + gifts) for Emerald…`);
-  const r = await scrapeGifts(refresh);
-  console.log(`✔ ${r.gifts} gift/starter Pokémon ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/gifts.json`);
+  for (const game of ALL_GAMES) {
+    const r = await scrapeGifts(game, refresh);
+    console.log(`✔ ${game}: ${r.gifts} gift/starter ${JSON.stringify(r.byMethod)} → games/${game}/gifts.json`);
+  }
 } else if (entity === "abilities") {
   console.log(`▶ deriving the Gen-3 abilities collection from Pokémon ability text…`);
   const r = deriveAbilities();
   console.log(`✔ ${r.abilities} abilities (${r.withEffect} with effect) → dataset/gen3/abilities/  (normalized ${r.renamed} pokemon ability names)`);
 } else if (entity === "legendaries") {
-  console.log(`▶ deriving catchable legendaries from Pokémon Emerald locations…`);
-  const r = deriveLegendaries();
-  console.log(`✔ ${r.legendaries} legendaries ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/legendaries.json`);
-  if (r.missing.length) console.warn(`⚠ no Emerald location for: ${r.missing.join(", ")}`);
+  for (const game of ALL_GAMES) {
+    const r = deriveLegendaries(game);
+    console.log(`✔ ${game}: ${r.legendaries} legendaries ${JSON.stringify(r.byMethod)} → games/${game}/legendaries.json`);
+  }
 } else if (entity === "trades") {
-  console.log(`▶ scraping Emerald in-game trades…`);
-  const r = await scrapeTrades(refresh);
-  console.log(`✔ ${r.trades} in-game trades → dataset/gen3/games/emerald/trades.json`);
-  if (r.unresolved.length) console.warn(`⚠ ${r.unresolved.length} unresolved dex numbers: ${r.unresolved.join(", ")}`);
+  for (const game of ALL_GAMES) {
+    const r = await scrapeTrades(game, refresh);
+    console.log(`✔ ${game}: ${r.trades} in-game trades → games/${game}/trades.json`);
+    if (r.unresolved.length) console.warn(`  ⚠ ${r.unresolved.length} unresolved dex numbers`);
+  }
 } else if (entity === "storypath") {
-  console.log(`▶ enriching the critical path with HM/legendary/key-item beats…`);
-  const r = deriveStoryPath();
-  console.log(`✔ ${r.beats}-beat critical path ${JSON.stringify(r.byKind)} → dataset/gen3/games/emerald/story.json`);
-  if (r.noLevel.length) console.warn(`⚠ ${r.noLevel.length} HM(s) at a location with no inferred level: ${r.noLevel.join(", ")}`);
+  for (const game of ALL_GAMES) {
+    const r = deriveStoryPath(game);
+    console.log(`✔ ${game}: ${r.beats}-beat critical path ${JSON.stringify(r.byKind)} → games/${game}/story.json`);
+  }
 } else if (entity === "natures") {
   console.log(`▶ scraping the 25 natures from Serebii…`);
   const r = await scrapeNatures(refresh);
   console.log(`✔ ${r.natures} natures (${r.neutral} neutral) → dataset/gen3/natures.json`);
   if (r.missing.length) console.warn(`⚠ missing natures: ${r.missing.join(", ")}`);
 } else if (entity === "obtainability") {
-  console.log(`▶ deriving how each species is obtained in Emerald…`);
-  const r = deriveObtainability();
-  console.log(`✔ ${r.obtainable}/${r.species} obtainable in-game (${r.wildSourced} wild-sourced) → dataset/gen3/games/emerald/obtainability.json`);
+  for (const game of ALL_GAMES) {
+    const r = deriveObtainability(game);
+    console.log(`✔ ${game}: ${r.obtainable}/${r.species} obtainable (${r.wildSourced} wild-sourced) → games/${game}/obtainability.json`);
+  }
 } else if (entity === "evtraining") {
-  console.log(`▶ deriving EV-training spots (evYield × encounters)…`);
-  const r = deriveEvTraining();
-  console.log(`✔ ${r.totalEntries} entries across ${r.stats} stats → dataset/gen3/games/emerald/ev-training.json`);
+  for (const game of ALL_GAMES) {
+    const r = deriveEvTraining(game);
+    console.log(`✔ ${game}: ${r.totalEntries} EV-training entries → games/${game}/ev-training.json`);
+  }
 } else if (entity === "shiny") {
-  console.log(`▶ deriving reset-able shiny targets (gifts + static legendaries)…`);
-  const r = deriveShiny();
-  console.log(`✔ ${r.targets} shiny targets ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/shiny-targets.json`);
+  for (const game of ALL_GAMES) {
+    const r = deriveShiny(game);
+    console.log(`✔ ${game}: ${r.targets} shiny targets ${JSON.stringify(r.byMethod)} → games/${game}/shiny-targets.json`);
+  }
 } else if (entity === "locations") {
-  console.log(`▶ building the canonical location registry from the game data…`);
-  const r = deriveLocations();
-  console.log(`✔ ${r.locations} locations (${r.named} named by Serebii) → dataset/gen3/games/emerald/locations.json`);
+  for (const game of ALL_GAMES) {
+    const r = deriveLocations(game);
+    console.log(`✔ ${game}: ${r.locations} locations (${r.named} named) → games/${game}/locations.json`);
+  }
 } else if (entity === "manifest") {
   console.log(`▶ scanning dataset/ generations → manifest.json…`);
   const r = deriveManifest();

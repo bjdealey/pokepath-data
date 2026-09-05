@@ -1,0 +1,50 @@
+[
+  {
+    "pokemon": "regirock",
+    "natdex": 377,
+    "method": "static",
+    "location": "Desert Ruins"
+  },
+  {
+    "pokemon": "regice",
+    "natdex": 378,
+    "method": "static",
+    "location": "Island Cave (Route 105)"
+  },
+  {
+    "pokemon": "registeel",
+    "natdex": 379,
+    "method": "static",
+    "location": "Ancient Tomb (Route 120)"
+  },
+  {
+    "pokemon": "latias",
+    "natdex": 380,
+    "method": "roaming",
+    "location": "Wild in Hoenn after beating Elite Four"
+  },
+  {
+    "pokemon": "latios",
+    "natdex": 381,
+    "method": "static",
+    "location": "Southern Island"
+  },
+  {
+    "pokemon": "kyogre",
+    "natdex": 382,
+    "method": "static",
+    "location": "Cave of Origin"
+  },
+  {
+    "pokemon": "rayquaza",
+    "natdex": 384,
+    "method": "static",
+    "location": "Sky Pillar"
+  },
+  {
+    "pokemon": "jirachi",
+    "natdex": 385,
+    "method": "event",
+    "location": "Obtain from Special Event, Colosseum Bonus Disk or Pokémon Channel"
+  }
+]

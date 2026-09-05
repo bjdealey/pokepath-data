@@ -1,0 +1,86 @@
+[
+  {
+    "pokemon": "treecko",
+    "natdex": 252,
+    "method": "starter",
+    "location": "route101"
+  },
+  {
+    "pokemon": "torchic",
+    "natdex": 255,
+    "method": "starter",
+    "location": "route101"
+  },
+  {
+    "pokemon": "mudkip",
+    "natdex": 258,
+    "method": "starter",
+    "location": "route101"
+  },
+  {
+    "pokemon": "lileep",
+    "natdex": 345,
+    "method": "gift",
+    "location": "rustborocity"
+  },
+  {
+    "pokemon": "anorith",
+    "natdex": 347,
+    "method": "gift",
+    "location": "rustborocity"
+  },
+  {
+    "pokemon": "castform",
+    "natdex": 351,
+    "method": "gift",
+    "location": "route119"
+  },
+  {
+    "pokemon": "wynaut",
+    "natdex": 360,
+    "method": "gift",
+    "location": "lavaridgetown"
+  },
+  {
+    "pokemon": "beldum",
+    "natdex": 374,
+    "method": "gift",
+    "location": "mossdeepcity"
+  },
+  {
+    "pokemon": "regirock",
+    "natdex": 377,
+    "method": "static-legendary",
+    "location": "Desert Ruins"
+  },
+  {
+    "pokemon": "regice",
+    "natdex": 378,
+    "method": "static-legendary",
+    "location": "Island Cave (Route 105)"
+  },
+  {
+    "pokemon": "registeel",
+    "natdex": 379,
+    "method": "static-legendary",
+    "location": "Ancient Tomb (Route 120)"
+  },
+  {
+    "pokemon": "latias",
+    "natdex": 380,
+    "method": "static-legendary",
+    "location": "Southern Island"
+  },
+  {
+    "pokemon": "groudon",
+    "natdex": 383,
+    "method": "static-legendary",
+    "location": "Cave of Origin"
+  },
+  {
+    "pokemon": "rayquaza",
+    "natdex": 384,
+    "method": "static-legendary",
+    "location": "Sky Pillar"
+  }
+]

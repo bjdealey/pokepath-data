@@ -372,3 +372,26 @@ test("emerald connections: every location is reachable from Littleroot (start→
   const unreachable = Object.keys(connections).filter((k) => !seen.has(k));
   assert.deepEqual(unreachable, [], `unreachable from Littleroot: ${unreachable.join(", ")}`);
 });
+
+test("multi-game: ruby/sapphire/emerald game data resolves", () => {
+  for (const game of ["emerald", "ruby", "sapphire"]) {
+    const g = (f: string) => readJson(`games/${game}/${f}`);
+    for (const [loc, v] of Object.entries<any>(g("encounters.json"))) {
+      for (const e of v.encounters ?? []) assert.ok(pokemon.has(e.pokemon), `${game}/${loc}: encounter '${e.pokemon}' unknown`);
+    }
+    assert.equal(g("obtainability.json").length, pokemon.size, `${game}: obtainability count != dex`);
+    for (const l of g("legendaries.json")) assert.ok(pokemon.has(l.pokemon), `${game}: legendary '${l.pokemon}' unknown`);
+    for (const b of g("story.json").criticalPath ?? []) assert.ok(["required", "optional", "supporting"].includes(b.necessity), `${game} beat ${b.order}: bad necessity`);
+  }
+});
+
+test("multi-game: version exclusives split (Ruby=Groudon/Zangoose, Sapphire=Kyogre/Seviper)", () => {
+  const mons = (game: string) => new Set(Object.values<any>(readJson(`games/${game}/encounters.json`)).flatMap((l) => l.encounters.map((e: any) => e.pokemon)));
+  const ruby = mons("ruby");
+  const sapp = mons("sapphire");
+  assert.ok(ruby.has("zangoose") && !ruby.has("seviper"), "Ruby: Zangoose not Seviper");
+  assert.ok(sapp.has("seviper") && !sapp.has("zangoose"), "Sapphire: Seviper not Zangoose");
+  const legs = (game: string) => new Set(readJson(`games/${game}/legendaries.json`).map((l: any) => l.pokemon));
+  assert.ok(legs("ruby").has("groudon") && !legs("ruby").has("kyogre"), "Ruby: Groudon not Kyogre");
+  assert.ok(legs("sapphire").has("kyogre") && !legs("sapphire").has("groudon"), "Sapphire: Kyogre not Groudon");
+});

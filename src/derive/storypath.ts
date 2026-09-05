@@ -8,14 +8,15 @@
 // join the registry there).
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
+import type { Game } from "../games.ts";
 import type { ItemRecord, Legendary, Machine, StoryBeat } from "../types.ts";
 
-const G = `${DATASET}games/emerald/`;
 // Legendary location prose → slug: drop a trailing "(Route 105)" qualifier first.
 const locSlug = (s: string) => s.replace(/\(.*$/, "").trim().toLowerCase().replace(/[^a-z0-9]/g, "");
 const BATTLE = new Set(["gym", "elite-four", "champion", "villain", "rival"]);
 
-export function deriveStoryPath() {
+export function deriveStoryPath(game: Game = "emerald") {
+  const G = `${DATASET}games/${game}/`;
   const story = JSON.parse(readFileSync(`${G}story.json`, "utf8"));
   const level = new Map<string, number>((story.locations as Array<{ slug: string; level: number }>).map((l) => [l.slug, l.level]));
   const pokeName = new Map<string, string>(

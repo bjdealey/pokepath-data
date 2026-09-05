@@ -6,14 +6,15 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { GEN_DIR as DATASET } from "../paths.ts";
 import { crawlHoenn3rd } from "./hoenn-crawl.ts";
 import { parseGifts } from "../parse/pokearth-gifts.ts";
+import type { Game } from "../games.ts";
 import type { Gift } from "../types.ts";
 
-export async function scrapeGifts(refresh = false) {
+export async function scrapeGifts(game: Game = "emerald", refresh = false) {
   const pages = await crawlHoenn3rd(refresh);
   const gifts: Gift[] = [];
   const seen = new Set<string>();
   for (const { slug, html } of pages) {
-    for (const g of parseGifts(html, slug)) {
+    for (const g of parseGifts(html, slug, game)) {
       const key = `${g.location}|${g.pokemon}|${g.method}`;
       if (seen.has(key)) continue;
       seen.add(key);
@@ -23,7 +24,7 @@ export async function scrapeGifts(refresh = false) {
   // starters first, then by location.
   gifts.sort((a, b) => (a.method === b.method ? a.location.localeCompare(b.location) : a.method === "starter" ? -1 : 1));
 
-  const dir = `${DATASET}games/emerald/`;
+  const dir = `${DATASET}games/${game}/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}gifts.json`, JSON.stringify(gifts, null, 2));
 

@@ -12,10 +12,8 @@ import { fetchCached } from "../fetch.ts";
 import { crawlHoenn3rd } from "./hoenn-crawl.ts";
 import { parseTrainerRosters, parseGymProgression, parseEliteProgression, trainerSlug } from "../parse/trainers.ts";
 import { parseRouteTrainers } from "../parse/pokearth-trainers.ts";
+import { GAMES, type Game } from "../games.ts";
 import type { StoryBeat, StoryLocation, StoryMilestone, Trainer } from "../types.ts";
-
-const GYM_URL = "https://www.serebii.net/emerald/gym.shtml";
-const ELITE_URL = "https://www.serebii.net/emerald/elite.shtml";
 
 const slugifyLoc = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "");
 const levelCap = (team: { level: number }[]) => team.reduce((mx, p) => Math.max(mx, p.level), 0);
@@ -26,13 +24,15 @@ const median = (xs: number[]) => {
   return s.length % 2 ? s[m]! : Math.round((s[m - 1]! + s[m]!) / 2);
 };
 
-export async function scrapeTrainers(refresh = false) {
+export async function scrapeTrainers(game: Game = "emerald", refresh = false) {
   const trainers: Trainer[] = [];
   const milestones: StoryMilestone[] = [];
 
   // --- Gym leaders + Elite Four + Champion (with movesets) ---
-  const gymHtml = await fetchCached(GYM_URL, { refresh });
-  const eliteHtml = await fetchCached(ELITE_URL, { refresh });
+  // Gym/E4 teams are game-specific (R/S share /rubysapphire/ pages); route
+  // trainers below come from the shared pokearth crawl.
+  const gymHtml = await fetchCached(GAMES[game].gymUrl, { refresh });
+  const eliteHtml = await fetchCached(GAMES[game].eliteUrl, { refresh });
   const gymRosters = parseTrainerRosters(gymHtml);
   const eliteRosters = parseTrainerRosters(eliteHtml);
   const gymMeta = parseGymProgression(gymHtml);
@@ -115,7 +115,7 @@ export async function scrapeTrainers(refresh = false) {
     locLevels.set(t.location, e);
   }
   // Fallback: wild-encounter levels for locations with no trainers (caves, etc.).
-  const encPath = `${DATASET}games/emerald/encounters.json`;
+  const encPath = `${DATASET}games/${game}/encounters.json`;
   if (existsSync(encPath)) {
     const enc = JSON.parse(readFileSync(encPath, "utf8")) as Record<string, { encounters: Array<{ levelMax: number | null }> }>;
     for (const [slug, loc] of Object.entries(enc)) {
@@ -164,7 +164,7 @@ export async function scrapeTrainers(refresh = false) {
     .sort((a, b) => a.levelCap - b.levelCap)
     .map((b, i) => ({ order: i + 1, ...b }));
 
-  const dir = `${DATASET}games/emerald/`;
+  const dir = `${DATASET}games/${game}/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}trainers.json`, JSON.stringify(trainers, null, 2));
   await writeFile(`${dir}story.json`, JSON.stringify({ milestones, locations, criticalPath }, null, 2));

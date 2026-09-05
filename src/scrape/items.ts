@@ -5,6 +5,7 @@ import { GEN_DIR as DATASET } from "../paths.ts";
 import { crawlHoenn3rd } from "./hoenn-crawl.ts";
 import { parseItems } from "../parse/pokearth-items.ts";
 import { locationName } from "../parse/pokearth-trainers.ts";
+import type { Game } from "../games.ts";
 import type { LocationItem } from "../types.ts";
 
 
@@ -14,7 +15,11 @@ interface LocationItems {
   items: LocationItem[];
 }
 
-export async function scrapeItems(refresh = false) {
+// Location items on the pokearth /3rd/ pages are a single shared "Item | Method"
+// table (not split by version), so R/S/E get the same set — the same parse,
+// written per game. Minor version-specific item differences aren't distinguished
+// by Serebii here.
+export async function scrapeItems(game: Game = "emerald", refresh = false) {
   const pages = await crawlHoenn3rd(refresh);
   const locations: LocationItems[] = [];
 
@@ -32,7 +37,7 @@ export async function scrapeItems(refresh = false) {
   const byslug: Record<string, LocationItems> = {};
   for (const l of locations) byslug[l.slug] = l;
 
-  const dir = `${DATASET}games/emerald/`;
+  const dir = `${DATASET}games/${game}/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}items.json`, JSON.stringify(byslug, null, 2));
 

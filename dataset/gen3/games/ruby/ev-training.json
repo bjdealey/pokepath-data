@@ -1,0 +1,3805 @@
+{
+  "hp": [
+    {
+      "pokemon": "marill",
+      "natdex": 183,
+      "points": 2,
+      "spots": [
+        {
+          "location": "petalburgcity",
+          "method": "surf",
+          "rate": 100
+        },
+        {
+          "location": "route102",
+          "method": "surf",
+          "rate": 99
+        },
+        {
+          "location": "route111",
+          "method": "surf",
+          "rate": 99
+        },
+        {
+          "location": "route114",
+          "method": "surf",
+          "rate": 99
+        },
+        {
+          "location": "route117",
+          "method": "surf",
+          "rate": 99
+        },
+        {
+          "location": "route120",
+          "method": "surf",
+          "rate": 99
+        },
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 15
+        },
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "hariyama",
+      "natdex": 297,
+      "points": 2,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 25
+        }
+      ]
+    },
+    {
+      "pokemon": "whiscash",
+      "natdex": 340,
+      "points": 2,
+      "spots": [
+        {
+          "location": "meteorfalls",
+          "method": "super-rod",
+          "rate": 20
+        },
+        {
+          "location": "victoryroad",
+          "method": "super-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "jigglypuff",
+      "natdex": 39,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route115",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "wobbuffet",
+      "natdex": 202,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "loudred",
+      "natdex": 294,
+      "points": 2,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "tropius",
+      "natdex": 357,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route119",
+          "method": "grass",
+          "rate": 9
+        }
+      ]
+    },
+    {
+      "pokemon": "wailord",
+      "natdex": 321,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route129",
+          "method": "surf",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "whismur",
+      "natdex": 293,
+      "points": 1,
+      "spots": [
+        {
+          "location": "rusturftunnel",
+          "method": "grass",
+          "rate": 100
+        },
+        {
+          "location": "route116",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "wailmer",
+      "natdex": 320,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route105",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route106",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route107",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route108",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route109",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route110",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route115",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route121",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route123",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "dewfordtown",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "shoalcave",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "slateportcity",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "lilycovecity",
+          "method": "super-rod",
+          "rate": 85
+        },
+        {
+          "location": "route103",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route122",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route124",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route125",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route126",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route127",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route129",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route130",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route131",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 45
+        },
+        {
+          "location": "route132",
+          "method": "super-rod",
+          "rate": 45
+        },
+        {
+          "location": "route133",
+          "method": "super-rod",
+          "rate": 45
+        },
+        {
+          "location": "route134",
+          "method": "super-rod",
+          "rate": 45
+        },
+        {
+          "location": "evergrandecity",
+          "method": "super-rod",
+          "rate": 45
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "super-rod",
+          "rate": 45
+        },
+        {
+          "location": "route103",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route105",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route106",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route107",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route108",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route109",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route110",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route115",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route121",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route122",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route123",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route124",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route125",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route126",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route127",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route128",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route129",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route130",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route131",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route132",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route133",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route134",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "dewfordtown",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "evergrandecity",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "lilycovecity",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "shoalcave",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "slateportcity",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "barboach",
+      "natdex": 339,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route114",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route120",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "meteorfalls",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "victoryroad",
+          "method": "super-rod",
+          "rate": 80
+        },
+        {
+          "location": "route111",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route114",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route120",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "meteorfalls",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "victoryroad",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "wynaut",
+      "natdex": 360,
+      "points": 1,
+      "spots": [
+        {
+          "location": "mirageisland",
+          "method": "grass",
+          "rate": 100
+        }
+      ]
+    },
+    {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "points": 1,
+      "spots": [
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 50
+        },
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "spheal",
+      "natdex": 363,
+      "points": 1,
+      "spots": [
+        {
+          "location": "shoalcave",
+          "method": "grass",
+          "rate": 50
+        },
+        {
+          "location": "shoalcave",
+          "method": "surf",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "wurmple",
+      "natdex": 265,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route101",
+          "method": "grass",
+          "rate": 45
+        },
+        {
+          "location": "route102",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route104",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 25
+        }
+      ]
+    },
+    {
+      "pokemon": "chinchou",
+      "natdex": 170,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route124",
+          "method": "super-rod",
+          "rate": 30
+        },
+        {
+          "location": "route126",
+          "method": "super-rod",
+          "rate": 30
+        },
+        {
+          "location": "route127",
+          "method": "super-rod",
+          "rate": 30
+        },
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "phanpy",
+      "natdex": 231,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "shroomish",
+      "natdex": 285,
+      "points": 1,
+      "spots": [
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "gulpin",
+      "natdex": 316,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "snorunt",
+      "natdex": 361,
+      "points": 1,
+      "spots": [
+        {
+          "location": "shoalcave",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "slakoth",
+      "natdex": 287,
+      "points": 1,
+      "spots": [
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route124",
+          "method": "super-rod",
+          "rate": 5
+        },
+        {
+          "location": "route126",
+          "method": "super-rod",
+          "rate": 5
+        },
+        {
+          "location": "route127",
+          "method": "super-rod",
+          "rate": 5
+        },
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "grimer",
+      "natdex": 88,
+      "points": 1,
+      "spots": [
+        {
+          "location": "fierypath",
+          "method": "grass",
+          "rate": 2
+        }
+      ]
+    }
+  ],
+  "attack": [
+    {
+      "pokemon": "groudon",
+      "natdex": 383,
+      "points": 3,
+      "spots": [
+        {
+          "location": "caveoforigin",
+          "method": "grass",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "pokemon": "sharpedo",
+      "natdex": 319,
+      "points": 2,
+      "spots": [
+        {
+          "location": "pacifidlogtown",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route103",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route118",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route122",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route124",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route125",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route126",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route127",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route129",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route130",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route131",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route132",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route133",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route134",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "super-rod",
+          "rate": 40
+        }
+      ]
+    },
+    {
+      "pokemon": "seaking",
+      "natdex": 119,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "super-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "gyarados",
+      "natdex": 130,
+      "points": 2,
+      "spots": [
+        {
+          "location": "sootopoliscity",
+          "method": "super-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "solrock",
+      "natdex": 338,
+      "points": 2,
+      "spots": [
+        {
+          "location": "meteorfalls",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "meteorfalls",
+          "method": "surf",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "zangoose",
+      "natdex": 335,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route114",
+          "method": "grass",
+          "rate": 19
+        }
+      ]
+    },
+    {
+      "pokemon": "nuzleaf",
+      "natdex": 274,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route114",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "absol",
+      "natdex": 359,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 8
+        }
+      ]
+    },
+    {
+      "pokemon": "dodrio",
+      "natdex": 85,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "pinsir",
+      "natdex": 127,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "heracross",
+      "natdex": 214,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "points": 2,
+      "spots": [
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "pokemon": "carvanha",
+      "natdex": 318,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route119",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route118",
+          "method": "super-rod",
+          "rate": 60
+        },
+        {
+          "location": "route118",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route119",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "corphish",
+      "natdex": 341,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route102",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route117",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "petalburgcity",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "route102",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route117",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "petalburgcity",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "goldeen",
+      "natdex": 118,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "super-rod",
+          "rate": 80
+        },
+        {
+          "location": "safarizone",
+          "method": "good-rod",
+          "rate": 40
+        },
+        {
+          "location": "route102",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route111",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route114",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route117",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route118",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route119",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route120",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "meteorfalls",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "petalburgcity",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "safarizone",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "victoryroad",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route102",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route111",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route114",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route117",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route120",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "meteorfalls",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "petalburgcity",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "victoryroad",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "points": 1,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 35
+        },
+        {
+          "location": "caveoforigin",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "trapinch",
+      "natdex": 328,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "grass",
+          "rate": 35
+        }
+      ]
+    },
+    {
+      "pokemon": "poochyena",
+      "natdex": 261,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route103",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route102",
+          "method": "grass",
+          "rate": 15
+        },
+        {
+          "location": "route101",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "machop",
+      "natdex": 66,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route112",
+          "method": "grass",
+          "rate": 25
+        },
+        {
+          "location": "jaggedpass",
+          "method": "grass",
+          "rate": 25
+        },
+        {
+          "location": "fierypath",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "bagon",
+      "natdex": 371,
+      "points": 1,
+      "spots": [
+        {
+          "location": "meteorfalls",
+          "method": "grass",
+          "rate": 25
+        }
+      ]
+    },
+    {
+      "pokemon": "doduo",
+      "natdex": 84,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    }
+  ],
+  "defense": [
+    {
+      "pokemon": "regirock",
+      "natdex": 377,
+      "points": 3,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "super-rod",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "pokemon": "graveler",
+      "natdex": 75,
+      "points": 2,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "rock-smash",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "torkoal",
+      "natdex": 324,
+      "points": 2,
+      "spots": [
+        {
+          "location": "fierypath",
+          "method": "grass",
+          "rate": 18
+        }
+      ]
+    },
+    {
+      "pokemon": "silcoon",
+      "natdex": 266,
+      "points": 2,
+      "spots": [
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "cascoon",
+      "natdex": 268,
+      "points": 2,
+      "spots": [
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "lairon",
+      "natdex": 305,
+      "points": 2,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "skarmory",
+      "natdex": 227,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route113",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "pelipper",
+      "natdex": 279,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route103",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route104",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route105",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route106",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route107",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route108",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route109",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route110",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route115",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route118",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route119",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route121",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route122",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route123",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route124",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route125",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route126",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route127",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route128",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route130",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route131",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route132",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route133",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route134",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "evergrandecity",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "lilycovecity",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "slateportcity",
+          "method": "surf",
+          "rate": 5
+        },
+        {
+          "location": "route129",
+          "method": "surf",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route120",
+          "method": "super-rod",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "pokemon": "geodude",
+      "natdex": 74,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "rock-smash",
+          "rate": 100
+        },
+        {
+          "location": "route114",
+          "method": "rock-smash",
+          "rate": 100
+        },
+        {
+          "location": "safarizone",
+          "method": "rock-smash",
+          "rate": 100
+        },
+        {
+          "location": "granitecave",
+          "method": "rock-smash",
+          "rate": 70
+        },
+        {
+          "location": "victoryroad",
+          "method": "rock-smash",
+          "rate": 70
+        },
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "clamperl",
+      "natdex": 366,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route124",
+          "method": "super-rod",
+          "rate": 65
+        },
+        {
+          "location": "route126",
+          "method": "super-rod",
+          "rate": 65
+        },
+        {
+          "location": "route127",
+          "method": "super-rod",
+          "rate": 65
+        },
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 65
+        }
+      ]
+    },
+    {
+      "pokemon": "sandshrew",
+      "natdex": 27,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "grass",
+          "rate": 35
+        },
+        {
+          "location": "route113",
+          "method": "grass",
+          "rate": 25
+        }
+      ]
+    },
+    {
+      "pokemon": "mawile",
+      "natdex": 303,
+      "points": 1,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 35
+        },
+        {
+          "location": "caveoforigin",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "rhyhorn",
+      "natdex": 111,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "seedot",
+      "natdex": 273,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route114",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route102",
+          "method": "grass",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "nosepass",
+      "natdex": 299,
+      "points": 1,
+      "spots": [
+        {
+          "location": "granitecave",
+          "method": "rock-smash",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "koffing",
+      "natdex": 109,
+      "points": 1,
+      "spots": [
+        {
+          "location": "fierypath",
+          "method": "grass",
+          "rate": 25
+        }
+      ]
+    },
+    {
+      "pokemon": "nincada",
+      "natdex": 290,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route116",
+          "method": "grass",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 15
+        },
+        {
+          "location": "evergrandecity",
+          "method": "super-rod",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "points": 1,
+      "spots": [
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "aron",
+      "natdex": 304,
+      "points": 1,
+      "spots": [
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "relicanth",
+      "natdex": 369,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route124",
+          "method": "super-rod",
+          "rate": 5
+        },
+        {
+          "location": "route126",
+          "method": "super-rod",
+          "rate": 5
+        },
+        {
+          "location": "route127",
+          "method": "super-rod",
+          "rate": 5
+        },
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 5
+        }
+      ]
+    }
+  ],
+  "spAttack": [
+    {
+      "pokemon": "girafarig",
+      "natdex": 203,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "golduck",
+      "natdex": 55,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "surf",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "magneton",
+      "natdex": 82,
+      "points": 2,
+      "spots": [
+        {
+          "location": "newmauville",
+          "method": "grass",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "psyduck",
+      "natdex": 54,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "surf",
+          "rate": 95
+        }
+      ]
+    },
+    {
+      "pokemon": "numel",
+      "natdex": 322,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route112",
+          "method": "grass",
+          "rate": 75
+        },
+        {
+          "location": "jaggedpass",
+          "method": "grass",
+          "rate": 55
+        },
+        {
+          "location": "fierypath",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "spinda",
+      "natdex": 327,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route113",
+          "method": "grass",
+          "rate": 70
+        }
+      ]
+    },
+    {
+      "pokemon": "magnemite",
+      "natdex": 81,
+      "points": 1,
+      "spots": [
+        {
+          "location": "newmauville",
+          "method": "grass",
+          "rate": 50
+        }
+      ]
+    },
+    {
+      "pokemon": "oddish",
+      "natdex": 43,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route119",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 25
+        },
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 15
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 15
+        },
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "roselia",
+      "natdex": 315,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "cacnea",
+      "natdex": 331,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "grass",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "gloom",
+      "natdex": 44,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 15
+        },
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 5
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "horsea",
+      "natdex": 116,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route132",
+          "method": "super-rod",
+          "rate": 15
+        },
+        {
+          "location": "route133",
+          "method": "super-rod",
+          "rate": 15
+        },
+        {
+          "location": "route134",
+          "method": "super-rod",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "natu",
+      "natdex": 177,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "abra",
+      "natdex": 63,
+      "points": 1,
+      "spots": [
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "slugma",
+      "natdex": 218,
+      "points": 1,
+      "spots": [
+        {
+          "location": "fierypath",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "ralts",
+      "natdex": 280,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route102",
+          "method": "grass",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "pokemon": "rayquaza",
+      "natdex": 384,
+      "points": 1,
+      "spots": [
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": null
+        }
+      ]
+    }
+  ],
+  "spDefense": [
+    {
+      "pokemon": "regice",
+      "natdex": 378,
+      "points": 3,
+      "spots": [
+        {
+          "location": "route105",
+          "method": "super-rod",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "pokemon": "claydol",
+      "natdex": 344,
+      "points": 2,
+      "spots": [
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 25
+        }
+      ]
+    },
+    {
+      "pokemon": "tentacruel",
+      "natdex": 73,
+      "points": 2,
+      "spots": [
+        {
+          "location": "abandonedship",
+          "method": "super-rod",
+          "rate": 20
+        },
+        {
+          "location": "abandonedship",
+          "method": "surf",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "dusclops",
+      "natdex": 356,
+      "points": 2,
+      "spots": [
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "altaria",
+      "natdex": 334,
+      "points": 2,
+      "spots": [
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 6
+        }
+      ]
+    },
+    {
+      "pokemon": "tentacool",
+      "natdex": 72,
+      "points": 1,
+      "spots": [
+        {
+          "location": "abandonedship",
+          "method": "surf",
+          "rate": 99
+        },
+        {
+          "location": "abandonedship",
+          "method": "super-rod",
+          "rate": 80
+        },
+        {
+          "location": "route103",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route105",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route106",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route107",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route108",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route109",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route110",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route115",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route118",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route119",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route121",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route122",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route123",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route124",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route125",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route126",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route127",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route128",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route129",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route130",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route131",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route132",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route133",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "route134",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "evergrandecity",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "lilycovecity",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "shoalcave",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "slateportcity",
+          "method": "surf",
+          "rate": 60
+        },
+        {
+          "location": "abandonedship",
+          "method": "good-rod",
+          "rate": 40
+        },
+        {
+          "location": "route103",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route105",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route106",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route107",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route108",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route109",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route110",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route115",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route121",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route122",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route123",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route124",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route125",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route126",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route127",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route128",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route129",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route130",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route131",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route132",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route133",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route134",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "abandonedship",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "dewfordtown",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "evergrandecity",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "lilycovecity",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "shoalcave",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "slateportcity",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "sootopoliscity",
+          "method": "old-rod",
+          "rate": 30
+        },
+        {
+          "location": "route103",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route105",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route106",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route107",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route108",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route109",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route110",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route115",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route118",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route119",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route121",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route122",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route123",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route124",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route125",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route126",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route127",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route129",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route130",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route131",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route132",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route133",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "route134",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "dewfordtown",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "lilycovecity",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "shoalcave",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "slateportcity",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "swablu",
+      "natdex": 333,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route114",
+          "method": "grass",
+          "rate": 40
+        },
+        {
+          "location": "route115",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "duskull",
+      "natdex": 355,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "spoink",
+      "natdex": 325,
+      "points": 1,
+      "spots": [
+        {
+          "location": "jaggedpass",
+          "method": "grass",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 15
+        },
+        {
+          "location": "evergrandecity",
+          "method": "super-rod",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "baltoy",
+      "natdex": 343,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route111",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "kecleon",
+      "natdex": 352,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route118",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route119",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "registeel",
+      "natdex": 379,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route120",
+          "method": "super-rod",
+          "rate": null
+        }
+      ]
+    }
+  ],
+  "speed": [
+    {
+      "pokemon": "golbat",
+      "natdex": 42,
+      "points": 2,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "surf",
+          "rate": 100
+        },
+        {
+          "location": "meteorfalls",
+          "method": "surf",
+          "rate": 90
+        },
+        {
+          "location": "meteorfalls",
+          "method": "grass",
+          "rate": 65
+        },
+        {
+          "location": "skypillar",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 25
+        },
+        {
+          "location": "caveoforigin",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "shoalcave",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "linoone",
+      "natdex": 264,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route119",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "route118",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "swellow",
+      "natdex": 277,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route115",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "medicham",
+      "natdex": 308,
+      "points": 2,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "manectric",
+      "natdex": 310,
+      "points": 2,
+      "spots": [
+        {
+          "location": "route118",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "pikachu",
+      "natdex": 25,
+      "points": 2,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "electrode",
+      "natdex": 101,
+      "points": 2,
+      "spots": [
+        {
+          "location": "newmauville",
+          "method": "grass",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "magikarp",
+      "natdex": 129,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route104",
+          "method": "old-rod",
+          "rate": 100
+        },
+        {
+          "location": "route104",
+          "method": "good-rod",
+          "rate": 100
+        },
+        {
+          "location": "route104",
+          "method": "super-rod",
+          "rate": 100
+        },
+        {
+          "location": "sootopoliscity",
+          "method": "surf",
+          "rate": 100
+        },
+        {
+          "location": "sootopoliscity",
+          "method": "good-rod",
+          "rate": 100
+        },
+        {
+          "location": "sootopoliscity",
+          "method": "super-rod",
+          "rate": 80
+        },
+        {
+          "location": "route102",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route103",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route105",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route106",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route107",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route108",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route109",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route110",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route111",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route114",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route115",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route117",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route118",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route119",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route120",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route121",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route122",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route123",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route124",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route125",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route126",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route127",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route128",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route129",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route130",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route131",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route132",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route133",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route134",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "abandonedship",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "dewfordtown",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "evergrandecity",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "lilycovecity",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "meteorfalls",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "petalburgcity",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "safarizone",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "shoalcave",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "slateportcity",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "sootopoliscity",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "victoryroad",
+          "method": "old-rod",
+          "rate": 70
+        },
+        {
+          "location": "route102",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route103",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route105",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route106",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route107",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route108",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route109",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route110",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route111",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route114",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route115",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route117",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route118",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route119",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route120",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route121",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route122",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route123",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route124",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route125",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route126",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route127",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route128",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route129",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route130",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route131",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route132",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route133",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "route134",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "abandonedship",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "dewfordtown",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "evergrandecity",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "lilycovecity",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "meteorfalls",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "petalburgcity",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "safarizone",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "shoalcave",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "slateportcity",
+          "method": "good-rod",
+          "rate": 60
+        },
+        {
+          "location": "victoryroad",
+          "method": "good-rod",
+          "rate": 60
+        }
+      ]
+    },
+    {
+      "pokemon": "wingull",
+      "natdex": 278,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route104",
+          "method": "surf",
+          "rate": 95
+        },
+        {
+          "location": "route103",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route105",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route106",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route107",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route108",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route109",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route110",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route115",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route118",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route119",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route121",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route122",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route123",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route124",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route125",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route126",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route127",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route128",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route129",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route130",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route131",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route132",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route133",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route134",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "evergrandecity",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "lilycovecity",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "mossdeepcity",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "pacifidlogtown",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "slateportcity",
+          "method": "surf",
+          "rate": 35
+        },
+        {
+          "location": "route118",
+          "method": "grass",
+          "rate": 19
+        },
+        {
+          "location": "route103",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "route104",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "route115",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 9
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 9
+        },
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 8
+        }
+      ]
+    },
+    {
+      "pokemon": "zubat",
+      "natdex": 41,
+      "points": 1,
+      "spots": [
+        {
+          "location": "caveoforigin",
+          "method": "grass",
+          "rate": 90
+        },
+        {
+          "location": "meteorfalls",
+          "method": "grass",
+          "rate": 80
+        },
+        {
+          "location": "shoalcave",
+          "method": "grass",
+          "rate": 45
+        },
+        {
+          "location": "granitecave",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "shoalcave",
+          "method": "surf",
+          "rate": 30
+        },
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 10
+        }
+      ]
+    },
+    {
+      "pokemon": "zigzagoon",
+      "natdex": 263,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route103",
+          "method": "grass",
+          "rate": 60
+        },
+        {
+          "location": "route104",
+          "method": "grass",
+          "rate": 50
+        },
+        {
+          "location": "route101",
+          "method": "grass",
+          "rate": 45
+        },
+        {
+          "location": "route102",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route118",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route119",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route116",
+          "method": "grass",
+          "rate": 28
+        },
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "route121",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "route123",
+          "method": "grass",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "voltorb",
+      "natdex": 100,
+      "points": 1,
+      "spots": [
+        {
+          "location": "newmauville",
+          "method": "grass",
+          "rate": 50
+        }
+      ]
+    },
+    {
+      "pokemon": "taillow",
+      "natdex": 276,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route115",
+          "method": "grass",
+          "rate": 40
+        },
+        {
+          "location": "route116",
+          "method": "grass",
+          "rate": 20
+        },
+        {
+          "location": "route104",
+          "method": "grass",
+          "rate": 10
+        },
+        {
+          "location": "petalburgwoods",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "luvdisc",
+      "natdex": 370,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route128",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "evergrandecity",
+          "method": "super-rod",
+          "rate": 40
+        },
+        {
+          "location": "route128",
+          "method": "good-rod",
+          "rate": 20
+        },
+        {
+          "location": "evergrandecity",
+          "method": "good-rod",
+          "rate": 20
+        }
+      ]
+    },
+    {
+      "pokemon": "electrike",
+      "natdex": 309,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 30
+        },
+        {
+          "location": "route118",
+          "method": "grass",
+          "rate": 30
+        }
+      ]
+    },
+    {
+      "pokemon": "illumise",
+      "natdex": 314,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 18
+        }
+      ]
+    },
+    {
+      "pokemon": "staryu",
+      "natdex": 120,
+      "points": 1,
+      "spots": [
+        {
+          "location": "lilycovecity",
+          "method": "super-rod",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "minun",
+      "natdex": 312,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 15
+        }
+      ]
+    },
+    {
+      "pokemon": "xatu",
+      "natdex": 178,
+      "points": 1,
+      "spots": [
+        {
+          "location": "safarizone",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "meditite",
+      "natdex": 307,
+      "points": 1,
+      "spots": [
+        {
+          "location": "victoryroad",
+          "method": "grass",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route116",
+          "method": "grass",
+          "rate": 2
+        }
+      ]
+    },
+    {
+      "pokemon": "plusle",
+      "natdex": 311,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route110",
+          "method": "grass",
+          "rate": 2
+        }
+      ]
+    },
+    {
+      "pokemon": "surskit",
+      "natdex": 283,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route102",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route102",
+          "method": "surf",
+          "rate": 1
+        },
+        {
+          "location": "route111",
+          "method": "surf",
+          "rate": 1
+        },
+        {
+          "location": "route114",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route114",
+          "method": "surf",
+          "rate": 1
+        },
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route117",
+          "method": "surf",
+          "rate": 1
+        },
+        {
+          "location": "route120",
+          "method": "grass",
+          "rate": 1
+        },
+        {
+          "location": "route120",
+          "method": "surf",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "volbeat",
+      "natdex": 313,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route117",
+          "method": "grass",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "pokemon": "feebas",
+      "natdex": 349,
+      "points": 1,
+      "spots": [
+        {
+          "location": "route119",
+          "method": "super-rod",
+          "rate": null
+        }
+      ]
+    }
+  ]
+}

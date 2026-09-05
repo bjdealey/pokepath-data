@@ -12,11 +12,13 @@ const monSlug = (name: string) =>
   name.toLowerCase().replace(/['.]/g, "").replace(/♀/g, "-f").replace(/♂/g, "-m").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const STARTERS = new Set(["treecko", "torchic", "mudkip"]);
 
-export function parseGifts(html: string, location: string): Gift[] {
+export function parseGifts(html: string, location: string, game = "emerald"): Gift[] {
   const $ = cheerio.load(html);
-  // The Emerald gift table is the one whose header cell reads "Gift - Emerald".
+  // Gifts sit in a table headed "Gift - Emerald" or (for R and S, shared)
+  // "Gift - Ruby/Sapphire".
+  const label = game === "emerald" ? "emerald" : "ruby/sapphire";
   const header = $("td, th")
-    .filter((_i, c) => /^gift\s*-\s*emerald$/i.test(clean($(c).text())))
+    .filter((_i, c) => new RegExp(`^gift\\s*-\\s*${label}$`, "i").test(clean($(c).text())))
     .first();
   if (!header.length) return [];
   const table = header.closest("table");

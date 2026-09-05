@@ -5,11 +5,11 @@
 // Emits games/emerald/shiny-targets.json. Run after `gifts` + `legendaries`.
 import { readFileSync, writeFileSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
+import type { Game } from "../games.ts";
 import type { Gift, Legendary, ShinyTarget } from "../types.ts";
 
-const G = `${DATASET}games/emerald/`;
-
-export function deriveShiny() {
+export function deriveShiny(game: Game = "emerald") {
+  const G = `${DATASET}games/${game}/`;
   const gifts = JSON.parse(readFileSync(`${G}gifts.json`, "utf8")) as Gift[];
   const legs = JSON.parse(readFileSync(`${G}legendaries.json`, "utf8")) as Legendary[];
 

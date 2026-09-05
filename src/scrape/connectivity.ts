@@ -7,6 +7,7 @@ import { GEN_DIR as DATASET } from "../paths.ts";
 import * as cheerio from "cheerio";
 import { fetchCached } from "../fetch.ts";
 import { parseExits, parseFieldMoves } from "../parse/connectivity.ts";
+import type { Game } from "../games.ts";
 
 const BASE = "https://www.serebii.net/pokearth/hoenn";
 const orasUrl = (slug: string) => `${BASE}/${slug}.shtml`;
@@ -44,7 +45,7 @@ const SPECIAL_EDGES: Array<{ from: string; to: string; via: string }> = [
   { from: "route115", to: "meteorfalls", via: "north" }, // reverse of meteorfalls.south
 ];
 
-export async function scrapeConnectivity(refresh = false) {
+export async function scrapeConnectivity(game: Game = "emerald", refresh = false) {
   const index = cheerio.load(await fetchCached(`${BASE}/`, { refresh }));
   const queue = seedSlugs(index);
   const seen = new Set<string>();
@@ -90,7 +91,7 @@ export async function scrapeConnectivity(refresh = false) {
   const connections: Record<string, Node> = {};
   for (const [slug, node] of sorted) connections[slug] = node;
 
-  const dir = `${DATASET}games/emerald/`;
+  const dir = `${DATASET}games/${game}/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}connections.json`, JSON.stringify(connections, null, 2));
 

@@ -4,12 +4,13 @@
 // `encounters`.
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
+import type { Game } from "../games.ts";
 import type { EvTrainingEntry, PokemonRecord } from "../types.ts";
 
-const G = `${DATASET}games/emerald/`;
 const STATS = ["hp", "attack", "defense", "spAttack", "spDefense", "speed"];
 
-export function deriveEvTraining() {
+export function deriveEvTraining(game: Game = "emerald") {
+  const G = `${DATASET}games/${game}/`;
   const pdir = `${DATASET}pokemon/`;
   const pokemon = readdirSync(pdir)
     .filter((f) => f.endsWith(".json") && f !== "index.json")

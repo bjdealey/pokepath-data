@@ -5,12 +5,12 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
 import { locationName } from "../parse/pokearth-trainers.ts";
+import type { Game } from "../games.ts";
 import type { LocationRecord } from "../types.ts";
 
-const G = `${DATASET}games/emerald/`;
-const rd = (f: string): any => (existsSync(G + f) ? JSON.parse(readFileSync(G + f, "utf8")) : null);
-
-export function deriveLocations() {
+export function deriveLocations(game: Game = "emerald") {
+  const G = `${DATASET}games/${game}/`;
+  const rd = (f: string): any => (existsSync(G + f) ? JSON.parse(readFileSync(G + f, "utf8")) : null);
   const enc = rd("encounters.json") ?? {};
   const conn = rd("connections.json") ?? {};
   const gitems = rd("items.json") ?? {};

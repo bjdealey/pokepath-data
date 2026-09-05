@@ -4,8 +4,9 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { GEN_DIR as DATASET } from "../paths.ts";
 import { crawlHoenn3rd } from "./hoenn-crawl.ts";
-import { parseEmeraldEncounters } from "../parse/pokearth-encounters.ts";
+import { parseEncounters } from "../parse/pokearth-encounters.ts";
 import { locationName } from "../parse/pokearth-trainers.ts";
+import type { Game } from "../games.ts";
 import type { EmeraldEncounter } from "../types.ts";
 
 const METHOD_ORDER = ["grass", "surf", "rock-smash", "old-rod", "good-rod", "super-rod"];
@@ -16,12 +17,12 @@ interface LocationEncounters {
   encounters: EmeraldEncounter[];
 }
 
-export async function scrapeEncounters(refresh = false) {
+export async function scrapeEncounters(game: Game, refresh = false) {
   const pages = await crawlHoenn3rd(refresh);
   const locations: LocationEncounters[] = [];
 
   for (const { slug, html } of pages) {
-    const encounters = parseEmeraldEncounters(html);
+    const encounters = parseEncounters(html, game);
     if (encounters.length) locations.push({ slug, location: locationName(slug), encounters });
   }
 
@@ -39,7 +40,7 @@ export async function scrapeEncounters(refresh = false) {
   const byslug: Record<string, LocationEncounters> = {};
   for (const l of locations) byslug[l.slug] = l;
 
-  const dir = `${DATASET}games/emerald/`;
+  const dir = `${DATASET}games/${game}/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}encounters.json`, JSON.stringify(byslug, null, 2));
   // locations.json is the canonical location registry, built by `run.ts locations`

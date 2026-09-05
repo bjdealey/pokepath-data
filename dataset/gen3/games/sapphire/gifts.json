@@ -1,0 +1,58 @@
+[
+  {
+    "pokemon": "treecko",
+    "natdex": 252,
+    "method": "starter",
+    "level": 5,
+    "location": "route101"
+  },
+  {
+    "pokemon": "torchic",
+    "natdex": 255,
+    "method": "starter",
+    "level": 5,
+    "location": "route101"
+  },
+  {
+    "pokemon": "mudkip",
+    "natdex": 258,
+    "method": "starter",
+    "level": 5,
+    "location": "route101"
+  },
+  {
+    "pokemon": "wynaut",
+    "natdex": 360,
+    "method": "gift",
+    "level": 5,
+    "location": "lavaridgetown"
+  },
+  {
+    "pokemon": "beldum",
+    "natdex": 374,
+    "method": "gift",
+    "level": 5,
+    "location": "mossdeepcity"
+  },
+  {
+    "pokemon": "castform",
+    "natdex": 351,
+    "method": "gift",
+    "level": 25,
+    "location": "route119"
+  },
+  {
+    "pokemon": "lileep",
+    "natdex": 345,
+    "method": "gift",
+    "level": 30,
+    "location": "rustborocity"
+  },
+  {
+    "pokemon": "anorith",
+    "natdex": 347,
+    "method": "gift",
+    "level": 30,
+    "location": "rustborocity"
+  }
+]

@@ -1,0 +1,4834 @@
+{
+  "route101": {
+    "slug": "route101",
+    "location": "Route 101",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 45,
+        "levelMin": 2,
+        "levelMax": 3
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "grass",
+        "rate": 45,
+        "levelMin": 2,
+        "levelMax": 3
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 2,
+        "levelMax": 3
+      }
+    ]
+  },
+  "route102": {
+    "slug": "route102",
+    "location": "Route 102",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 3,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 3,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "lotad",
+        "natdex": 270,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 3,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 3,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "ralts",
+        "natdex": 280,
+        "method": "grass",
+        "rate": 4,
+        "levelMin": 4,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 3,
+        "levelMax": 3
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf",
+        "rate": 99,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route103": {
+    "slug": "route103",
+    "location": "Route 103",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 60,
+        "levelMin": 2,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "poochyena",
+        "natdex": 261,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 2,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 2,
+        "levelMax": 4
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route104": {
+    "slug": "route104",
+    "location": "Route 104",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 50,
+        "levelMin": 4,
+        "levelMax": 5
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 4,
+        "levelMax": 5
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 4,
+        "levelMax": 5
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 3,
+        "levelMax": 5
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 95,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 100,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route105": {
+    "slug": "route105",
+    "location": "Route 105",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "regice",
+        "natdex": 378,
+        "method": "super-rod",
+        "rate": null,
+        "levelMin": 40,
+        "levelMax": 40
+      }
+    ]
+  },
+  "route106": {
+    "slug": "route106",
+    "location": "Route 106",
+    "encounters": [
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route107": {
+    "slug": "route107",
+    "location": "Route 107",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route108": {
+    "slug": "route108",
+    "location": "Route 108",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route109": {
+    "slug": "route109",
+    "location": "Route 109",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route110": {
+    "slug": "route110",
+    "location": "Route 110",
+    "encounters": [
+      {
+        "pokemon": "electrike",
+        "natdex": 309,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 12,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 12,
+        "levelMax": 12
+      },
+      {
+        "pokemon": "gulpin",
+        "natdex": 316,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 12,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "plusle",
+        "natdex": 311,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 13,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 13,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 8,
+        "levelMin": 12,
+        "levelMax": 12
+      },
+      {
+        "pokemon": "minun",
+        "natdex": 312,
+        "method": "grass",
+        "rate": 2,
+        "levelMin": 12,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route111": {
+    "slug": "route111",
+    "location": "Route 111",
+    "encounters": [
+      {
+        "pokemon": "sandshrew",
+        "natdex": 27,
+        "method": "grass",
+        "rate": 35,
+        "levelMin": 19,
+        "levelMax": 21
+      },
+      {
+        "pokemon": "trapinch",
+        "natdex": 328,
+        "method": "grass",
+        "rate": 35,
+        "levelMin": 19,
+        "levelMax": 21
+      },
+      {
+        "pokemon": "cacnea",
+        "natdex": 331,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 19,
+        "levelMax": 21
+      },
+      {
+        "pokemon": "baltoy",
+        "natdex": 343,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 20,
+        "levelMax": 22
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf",
+        "rate": 99,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 20
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "regirock",
+        "natdex": 377,
+        "method": "super-rod",
+        "rate": null,
+        "levelMin": 40,
+        "levelMax": 40
+      }
+    ]
+  },
+  "route112": {
+    "slug": "route112",
+    "location": "Route 112",
+    "encounters": [
+      {
+        "pokemon": "numel",
+        "natdex": 322,
+        "method": "grass",
+        "rate": 75,
+        "levelMin": 14,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "machop",
+        "natdex": 66,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 14,
+        "levelMax": 16
+      }
+    ]
+  },
+  "route113": {
+    "slug": "route113",
+    "location": "Route 113",
+    "encounters": [
+      {
+        "pokemon": "spinda",
+        "natdex": 327,
+        "method": "grass",
+        "rate": 70,
+        "levelMin": 14,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "sandshrew",
+        "natdex": 27,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 14,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "skarmory",
+        "natdex": 227,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 16,
+        "levelMax": 16
+      }
+    ]
+  },
+  "route114": {
+    "slug": "route114",
+    "location": "Route 114",
+    "encounters": [
+      {
+        "pokemon": "swablu",
+        "natdex": 333,
+        "method": "grass",
+        "rate": 40,
+        "levelMin": 15,
+        "levelMax": 17
+      },
+      {
+        "pokemon": "lotad",
+        "natdex": 270,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 15,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "seviper",
+        "natdex": 336,
+        "method": "grass",
+        "rate": 19,
+        "levelMin": 15,
+        "levelMax": 17
+      },
+      {
+        "pokemon": "lombre",
+        "natdex": 271,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 16,
+        "levelMax": 18
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 15,
+        "levelMax": 15
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf",
+        "rate": 99,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 20
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route115": {
+    "slug": "route115",
+    "location": "Route 115",
+    "encounters": [
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "grass",
+        "rate": 40,
+        "levelMin": 23,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "swablu",
+        "natdex": 333,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 23,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "jigglypuff",
+        "natdex": 39,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 24,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "swellow",
+        "natdex": 277,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 24,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route116": {
+    "slug": "route116",
+    "location": "Route 116",
+    "encounters": [
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 6,
+        "levelMax": 7
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 28,
+        "levelMin": 6,
+        "levelMax": 8
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 6,
+        "levelMax": 8
+      },
+      {
+        "pokemon": "nincada",
+        "natdex": 290,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 6,
+        "levelMax": 7
+      },
+      {
+        "pokemon": "skitty",
+        "natdex": 300,
+        "method": "grass",
+        "rate": 2,
+        "levelMin": 7,
+        "levelMax": 8
+      }
+    ]
+  },
+  "route117": {
+    "slug": "route117",
+    "location": "Route 117",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 13,
+        "levelMax": 14
+      },
+      {
+        "pokemon": "roselia",
+        "natdex": 315,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 13,
+        "levelMax": 14
+      },
+      {
+        "pokemon": "volbeat",
+        "natdex": 313,
+        "method": "grass",
+        "rate": 18,
+        "levelMin": 13,
+        "levelMax": 14
+      },
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 13,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 13,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "illumise",
+        "natdex": 314,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 13,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 13,
+        "levelMax": 13
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf",
+        "rate": 99,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route118": {
+    "slug": "route118",
+    "location": "Route 118",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 24,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "electrike",
+        "natdex": 309,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 24,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 19,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 26,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "manectric",
+        "natdex": 310,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 26,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "carvanha",
+        "natdex": 318,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "carvanha",
+        "natdex": 318,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 20,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 5
+      }
+    ]
+  },
+  "route119": {
+    "slug": "route119",
+    "location": "Route 119",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 24,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "tropius",
+        "natdex": 357,
+        "method": "grass",
+        "rate": 9,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "carvanha",
+        "natdex": 318,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "carvanha",
+        "natdex": 318,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "feebas",
+        "natdex": 349,
+        "method": "super-rod",
+        "rate": null,
+        "levelMin": 5,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route120": {
+    "slug": "route120",
+    "location": "Route 120",
+    "encounters": [
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "absol",
+        "natdex": 359,
+        "method": "grass",
+        "rate": 8,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf",
+        "rate": 99,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "surskit",
+        "natdex": 283,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "registeel",
+        "natdex": 379,
+        "method": "super-rod",
+        "rate": null,
+        "levelMin": 40,
+        "levelMax": 40
+      }
+    ]
+  },
+  "route121": {
+    "slug": "route121",
+    "location": "Route 121",
+    "encounters": [
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 26,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 9,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "gloom",
+        "natdex": 44,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 28,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route122": {
+    "slug": "route122",
+    "location": "Route 122",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route123": {
+    "slug": "route123",
+    "location": "Route 123",
+    "encounters": [
+      {
+        "pokemon": "shuppet",
+        "natdex": 353,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 26,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "linoone",
+        "natdex": 264,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "grass",
+        "rate": 9,
+        "levelMin": 26,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "gloom",
+        "natdex": 44,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 28,
+        "levelMax": 28
+      },
+      {
+        "pokemon": "kecleon",
+        "natdex": 352,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 25,
+        "levelMax": 25
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "route124": {
+    "slug": "route124",
+    "location": "Route 124",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "super-rod",
+        "rate": 65,
+        "levelMin": 20,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "super-rod",
+        "rate": 30,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "super-rod",
+        "rate": 5,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route125": {
+    "slug": "route125",
+    "location": "Route 125",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route126": {
+    "slug": "route126",
+    "location": "Route 126",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "super-rod",
+        "rate": 65,
+        "levelMin": 20,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "super-rod",
+        "rate": 30,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "super-rod",
+        "rate": 5,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route127": {
+    "slug": "route127",
+    "location": "Route 127",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "super-rod",
+        "rate": 65,
+        "levelMin": 20,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "super-rod",
+        "rate": 30,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "super-rod",
+        "rate": 5,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route128": {
+    "slug": "route128",
+    "location": "Route 128",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "luvdisc",
+        "natdex": 370,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "clamperl",
+        "natdex": 366,
+        "method": "super-rod",
+        "rate": 65,
+        "levelMin": 20,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 45,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "luvdisc",
+        "natdex": 370,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "chinchou",
+        "natdex": 170,
+        "method": "super-rod",
+        "rate": 30,
+        "levelMin": 20,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corsola",
+        "natdex": 222,
+        "method": "super-rod",
+        "rate": 15,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "relicanth",
+        "natdex": 369,
+        "method": "super-rod",
+        "rate": 5,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route129": {
+    "slug": "route129",
+    "location": "Route 129",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 4,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailord",
+        "natdex": 321,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 35,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route130": {
+    "slug": "route130",
+    "location": "Route 130",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route131": {
+    "slug": "route131",
+    "location": "Route 131",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "route132": {
+    "slug": "route132",
+    "location": "Route 132",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 45,
+        "levelMin": 30,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "horsea",
+        "natdex": 116,
+        "method": "super-rod",
+        "rate": 15,
+        "levelMin": 25,
+        "levelMax": 30
+      }
+    ]
+  },
+  "route133": {
+    "slug": "route133",
+    "location": "Route 133",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 45,
+        "levelMin": 30,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "horsea",
+        "natdex": 116,
+        "method": "super-rod",
+        "rate": 15,
+        "levelMin": 25,
+        "levelMax": 30
+      }
+    ]
+  },
+  "route134": {
+    "slug": "route134",
+    "location": "Route 134",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 45,
+        "levelMin": 30,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "horsea",
+        "natdex": 116,
+        "method": "super-rod",
+        "rate": 15,
+        "levelMin": 25,
+        "levelMax": 30
+      }
+    ]
+  },
+  "abandonedship": {
+    "slug": "abandonedship",
+    "location": "Abandonedship",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 99,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "tentacruel",
+        "natdex": 73,
+        "method": "surf",
+        "rate": 1,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 40,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "super-rod",
+        "rate": 80,
+        "levelMin": 25,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "tentacruel",
+        "natdex": 73,
+        "method": "super-rod",
+        "rate": 20,
+        "levelMin": 20,
+        "levelMax": 35
+      }
+    ]
+  },
+  "caveoforigin": {
+    "slug": "caveoforigin",
+    "location": "Caveoforigin",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "grass",
+        "rate": 90,
+        "levelMin": 28,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 30,
+        "levelMax": 34
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 33,
+        "levelMax": 36
+      },
+      {
+        "pokemon": "kyogre",
+        "natdex": 382,
+        "method": "grass",
+        "rate": null,
+        "levelMin": 45,
+        "levelMax": 45
+      }
+    ]
+  },
+  "dewfordtown": {
+    "slug": "dewfordtown",
+    "location": "Dewford Town",
+    "encounters": [
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "evergrandecity": {
+    "slug": "evergrandecity",
+    "location": "Evergrande City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "luvdisc",
+        "natdex": 370,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 45,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "luvdisc",
+        "natdex": 370,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "corsola",
+        "natdex": 222,
+        "method": "super-rod",
+        "rate": 15,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "fierypath": {
+    "slug": "fierypath",
+    "location": "Fierypath",
+    "encounters": [
+      {
+        "pokemon": "numel",
+        "natdex": 322,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 15,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "grimer",
+        "natdex": 88,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 15,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "torkoal",
+        "natdex": 324,
+        "method": "grass",
+        "rate": 18,
+        "levelMin": 14,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "machop",
+        "natdex": 66,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 15,
+        "levelMax": 16
+      },
+      {
+        "pokemon": "slugma",
+        "natdex": 218,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 15,
+        "levelMax": 15
+      },
+      {
+        "pokemon": "koffing",
+        "natdex": 109,
+        "method": "grass",
+        "rate": 2,
+        "levelMin": 14,
+        "levelMax": 14
+      }
+    ]
+  },
+  "granitecave": {
+    "slug": "granitecave",
+    "location": "Granite Cave",
+    "encounters": [
+      {
+        "pokemon": "makuhita",
+        "natdex": 296,
+        "method": "grass",
+        "rate": 50,
+        "levelMin": 6,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 7,
+        "levelMax": 8
+      },
+      {
+        "pokemon": "abra",
+        "natdex": 63,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 8,
+        "levelMax": 8
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 6,
+        "levelMax": 9
+      },
+      {
+        "pokemon": "aron",
+        "natdex": 304,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 7,
+        "levelMax": 8
+      },
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 9,
+        "levelMax": 11
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 20
+      },
+      {
+        "pokemon": "nosepass",
+        "natdex": 299,
+        "method": "rock-smash",
+        "rate": 30,
+        "levelMin": 10,
+        "levelMax": 20
+      }
+    ]
+  },
+  "jaggedpass": {
+    "slug": "jaggedpass",
+    "location": "Jagged Pass",
+    "encounters": [
+      {
+        "pokemon": "numel",
+        "natdex": 322,
+        "method": "grass",
+        "rate": 55,
+        "levelMin": 20,
+        "levelMax": 22
+      },
+      {
+        "pokemon": "machop",
+        "natdex": 66,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 20,
+        "levelMax": 22
+      },
+      {
+        "pokemon": "spoink",
+        "natdex": 325,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 20,
+        "levelMax": 22
+      }
+    ]
+  },
+  "lilycovecity": {
+    "slug": "lilycovecity",
+    "location": "Lilycove City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 85,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "staryu",
+        "natdex": 120,
+        "method": "super-rod",
+        "rate": 15,
+        "levelMin": 25,
+        "levelMax": 30
+      }
+    ]
+  },
+  "meteorfalls": {
+    "slug": "meteorfalls",
+    "location": "Meteor Falls",
+    "encounters": [
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "grass",
+        "rate": 80,
+        "levelMin": 14,
+        "levelMax": 20
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "grass",
+        "rate": 65,
+        "levelMin": 33,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "bagon",
+        "natdex": 371,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 25,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "lunatone",
+        "natdex": 337,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 14,
+        "levelMax": 18
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "surf",
+        "rate": 90,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "lunatone",
+        "natdex": 337,
+        "method": "surf",
+        "rate": 10,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "whiscash",
+        "natdex": 340,
+        "method": "super-rod",
+        "rate": 20,
+        "levelMin": 30,
+        "levelMax": 45
+      }
+    ]
+  },
+  "mirageisland": {
+    "slug": "mirageisland",
+    "location": "Mirage Island",
+    "encounters": [
+      {
+        "pokemon": "wynaut",
+        "natdex": 360,
+        "method": "grass",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 50
+      }
+    ]
+  },
+  "mossdeepcity": {
+    "slug": "mossdeepcity",
+    "location": "Mossdeep City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 25,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "newmauville": {
+    "slug": "newmauville",
+    "location": "Newmauville",
+    "encounters": [
+      {
+        "pokemon": "magnemite",
+        "natdex": 81,
+        "method": "grass",
+        "rate": 50,
+        "levelMin": 22,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "voltorb",
+        "natdex": 100,
+        "method": "grass",
+        "rate": 50,
+        "levelMin": 22,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "magneton",
+        "natdex": 82,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 26,
+        "levelMax": 26
+      },
+      {
+        "pokemon": "electrode",
+        "natdex": 101,
+        "method": "grass",
+        "rate": 1,
+        "levelMin": 26,
+        "levelMax": 26
+      }
+    ]
+  },
+  "pacifidlogtown": {
+    "slug": "pacifidlogtown",
+    "location": "Pacifidlog Town",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 60,
+        "levelMin": 30,
+        "levelMax": 45
+      },
+      {
+        "pokemon": "sharpedo",
+        "natdex": 319,
+        "method": "super-rod",
+        "rate": 40,
+        "levelMin": 30,
+        "levelMax": 35
+      }
+    ]
+  },
+  "petalburgcity": {
+    "slug": "petalburgcity",
+    "location": "Petalburg City",
+    "encounters": [
+      {
+        "pokemon": "marill",
+        "natdex": 183,
+        "method": "surf",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "corphish",
+        "natdex": 341,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "petalburgwoods": {
+    "slug": "petalburgwoods",
+    "location": "Petalburg Woods",
+    "encounters": [
+      {
+        "pokemon": "zigzagoon",
+        "natdex": 263,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 6
+      },
+      {
+        "pokemon": "wurmple",
+        "natdex": 265,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 5,
+        "levelMax": 6
+      },
+      {
+        "pokemon": "shroomish",
+        "natdex": 285,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 5,
+        "levelMax": 6
+      },
+      {
+        "pokemon": "silcoon",
+        "natdex": 266,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 5,
+        "levelMax": 5
+      },
+      {
+        "pokemon": "cascoon",
+        "natdex": 268,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 5,
+        "levelMax": 5
+      },
+      {
+        "pokemon": "taillow",
+        "natdex": 276,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 5,
+        "levelMax": 6
+      },
+      {
+        "pokemon": "slakoth",
+        "natdex": 287,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 5,
+        "levelMax": 6
+      }
+    ]
+  },
+  "rusturftunnel": {
+    "slug": "rusturftunnel",
+    "location": "Rusturf Tunnel",
+    "encounters": [
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "grass",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 8
+      }
+    ]
+  },
+  "safarizone": {
+    "slug": "safarizone",
+    "location": "Safarizone",
+    "encounters": [
+      {
+        "pokemon": "oddish",
+        "natdex": 43,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "phanpy",
+        "natdex": 231,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "rhyhorn",
+        "natdex": 111,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "girafarig",
+        "natdex": 203,
+        "method": "grass",
+        "rate": 20,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "gloom",
+        "natdex": 44,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 29,
+        "levelMax": 31
+      },
+      {
+        "pokemon": "natu",
+        "natdex": 177,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "doduo",
+        "natdex": 84,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "wobbuffet",
+        "natdex": 202,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "xatu",
+        "natdex": 178,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 29,
+        "levelMax": 31
+      },
+      {
+        "pokemon": "heracross",
+        "natdex": 214,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "dodrio",
+        "natdex": 85,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 29,
+        "levelMax": 31
+      },
+      {
+        "pokemon": "pinsir",
+        "natdex": 127,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 27,
+        "levelMax": 29
+      },
+      {
+        "pokemon": "pikachu",
+        "natdex": 25,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 27
+      },
+      {
+        "pokemon": "psyduck",
+        "natdex": 54,
+        "method": "surf",
+        "rate": 95,
+        "levelMin": 20,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "golduck",
+        "natdex": 55,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 40,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "super-rod",
+        "rate": 80,
+        "levelMin": 25,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "seaking",
+        "natdex": 119,
+        "method": "super-rod",
+        "rate": 20,
+        "levelMin": 25,
+        "levelMax": 40
+      }
+    ]
+  },
+  "shoalcave": {
+    "slug": "shoalcave",
+    "location": "Shoal Cave",
+    "encounters": [
+      {
+        "pokemon": "spheal",
+        "natdex": 363,
+        "method": "grass",
+        "rate": 50,
+        "levelMin": 26,
+        "levelMax": 32
+      },
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "grass",
+        "rate": 45,
+        "levelMin": 26,
+        "levelMax": 32
+      },
+      {
+        "pokemon": "snorunt",
+        "natdex": 361,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 26,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 32,
+        "levelMax": 32
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "surf",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "spheal",
+        "natdex": 363,
+        "method": "surf",
+        "rate": 10,
+        "levelMin": 25,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "skypillar": {
+    "slug": "skypillar",
+    "location": "Skypillar",
+    "encounters": [
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 48,
+        "levelMax": 50
+      },
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "grass",
+        "rate": 30,
+        "levelMin": 48,
+        "levelMax": 50
+      },
+      {
+        "pokemon": "claydol",
+        "natdex": 344,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 47,
+        "levelMax": 50
+      },
+      {
+        "pokemon": "banette",
+        "natdex": 354,
+        "method": "grass",
+        "rate": 15,
+        "levelMin": 48,
+        "levelMax": 50
+      },
+      {
+        "pokemon": "altaria",
+        "natdex": 334,
+        "method": "grass",
+        "rate": 6,
+        "levelMin": 54,
+        "levelMax": 60
+      },
+      {
+        "pokemon": "rayquaza",
+        "natdex": 384,
+        "method": "grass",
+        "rate": null,
+        "levelMin": 70,
+        "levelMax": 70
+      }
+    ]
+  },
+  "slateportcity": {
+    "slug": "slateportcity",
+    "location": "Slateport City",
+    "encounters": [
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "surf",
+        "rate": 60,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "wingull",
+        "natdex": 278,
+        "method": "surf",
+        "rate": 35,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "pelipper",
+        "natdex": 279,
+        "method": "surf",
+        "rate": 5,
+        "levelMin": 25,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "wailmer",
+        "natdex": 320,
+        "method": "super-rod",
+        "rate": 100,
+        "levelMin": 20,
+        "levelMax": 45
+      }
+    ]
+  },
+  "sootopoliscity": {
+    "slug": "sootopoliscity",
+    "location": "Sootopolis City",
+    "encounters": [
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "surf",
+        "rate": 100,
+        "levelMin": 5,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "tentacool",
+        "natdex": 72,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 100,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "super-rod",
+        "rate": 80,
+        "levelMin": 30,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "gyarados",
+        "natdex": 130,
+        "method": "super-rod",
+        "rate": 20,
+        "levelMin": 5,
+        "levelMax": 45
+      }
+    ]
+  },
+  "victoryroad": {
+    "slug": "victoryroad",
+    "location": "Victory Road",
+    "encounters": [
+      {
+        "pokemon": "sableye",
+        "natdex": 302,
+        "method": "grass",
+        "rate": 35,
+        "levelMin": 40,
+        "levelMax": 44
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 38,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "hariyama",
+        "natdex": 297,
+        "method": "grass",
+        "rate": 25,
+        "levelMin": 38,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "zubat",
+        "natdex": 41,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 36,
+        "levelMax": 36
+      },
+      {
+        "pokemon": "loudred",
+        "natdex": 294,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 40,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "makuhita",
+        "natdex": 296,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 36,
+        "levelMax": 36
+      },
+      {
+        "pokemon": "lairon",
+        "natdex": 305,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 40,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "medicham",
+        "natdex": 308,
+        "method": "grass",
+        "rate": 10,
+        "levelMin": 40,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "whismur",
+        "natdex": 293,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 36,
+        "levelMax": 36
+      },
+      {
+        "pokemon": "aron",
+        "natdex": 304,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 36,
+        "levelMax": 36
+      },
+      {
+        "pokemon": "meditite",
+        "natdex": 307,
+        "method": "grass",
+        "rate": 5,
+        "levelMin": 38,
+        "levelMax": 38
+      },
+      {
+        "pokemon": "golbat",
+        "natdex": 42,
+        "method": "surf",
+        "rate": 100,
+        "levelMin": 25,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "geodude",
+        "natdex": 74,
+        "method": "rock-smash",
+        "rate": 70,
+        "levelMin": 30,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "graveler",
+        "natdex": 75,
+        "method": "rock-smash",
+        "rate": 30,
+        "levelMin": 30,
+        "levelMax": 40
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "old-rod",
+        "rate": 70,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "old-rod",
+        "rate": 30,
+        "levelMin": 5,
+        "levelMax": 10
+      },
+      {
+        "pokemon": "magikarp",
+        "natdex": 129,
+        "method": "good-rod",
+        "rate": 60,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "goldeen",
+        "natdex": 118,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "good-rod",
+        "rate": 20,
+        "levelMin": 10,
+        "levelMax": 30
+      },
+      {
+        "pokemon": "barboach",
+        "natdex": 339,
+        "method": "super-rod",
+        "rate": 80,
+        "levelMin": 25,
+        "levelMax": 35
+      },
+      {
+        "pokemon": "whiscash",
+        "natdex": 340,
+        "method": "super-rod",
+        "rate": 20,
+        "levelMin": 30,
+        "levelMax": 45
+      }
+    ]
+  }
+}

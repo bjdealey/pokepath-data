@@ -43,6 +43,19 @@ its generation. Adding a generation later is a new subtree, not a schema change.
 This scraper targets Gen 3 (Serebii's `pokedex-rs` / `attackdex` / pokearth);
 the generation is set once in [`src/paths.ts`](src/paths.ts).
 
+**Three Gen-3 games: `emerald`, `ruby`, `sapphire`** (`dataset/gen3/games/<slug>/`).
+Canonical data is shared across all three; the game-scoped data is produced per
+game (each `run.ts` game command loops over all three — [`src/games.ts`](src/games.ts)
+holds the per-game Serebii sources). Version differences are faithful: wild
+encounters split correctly (Ruby→Zangoose, Sapphire→Seviper), the box legendary
+is version-exclusive (**Ruby→Groudon, Sapphire→Kyogre**), and gym/E4 teams come
+from the `/rubysapphire/` pages (Ruby's Roxanne has 2 Pokémon, Emerald's 3).
+Two documented approximations: route/villain/rival trainers come from the shared
+pokearth crawl (so R/S carry Emerald's route trainers + villain structure — the
+gym/E4/champion spine is version-accurate), and R/S in-game **trades** aren't
+parsed yet (their page uses a different layout), so `ruby`/`sapphire` `trades.json`
+are empty.
+
 ```
 dataset/
   manifest.json                                  # generations available + games + counts

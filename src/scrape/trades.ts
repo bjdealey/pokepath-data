@@ -6,12 +6,15 @@ import { existsSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
 import { fetchCached } from "../fetch.ts";
 import { parseTrades } from "../parse/emerald-trades.ts";
+import { GAMES, type Game } from "../games.ts";
 import type { InGameTrade } from "../types.ts";
 
-const TRADE_URL = "https://www.serebii.net/emerald/trade.shtml";
-
-export async function scrapeTrades(refresh = false) {
-  const html = await fetchCached(TRADE_URL, { refresh });
+// NOTE: only Emerald's trade page (/emerald/trade.shtml) uses the dextable
+// structure `parseTrades` reads. The R/S page (/rubysapphire/trades.shtml) is a
+// different per-trade narrative layout, so R/S currently yield an empty list —
+// a documented limitation on this minor dataset (not yet parsed).
+export async function scrapeTrades(game: Game = "emerald", refresh = false) {
+  const html = await fetchCached(GAMES[game].tradeUrl, { refresh });
   const raw = parseTrades(html);
 
   const indexPath = `${DATASET}pokemon/index.json`;
@@ -28,7 +31,7 @@ export async function scrapeTrades(refresh = false) {
     trades.push({ give: { pokemon: give, natdex: t.giveNatdex }, receive: { pokemon: receive, natdex: t.receiveNatdex, heldItem: t.heldItem } });
   }
 
-  const dir = `${DATASET}games/emerald/`;
+  const dir = `${DATASET}games/${game}/`;
   await mkdir(dir, { recursive: true });
   await writeFile(`${dir}trades.json`, JSON.stringify(trades, null, 2));
   return { trades: trades.length, unresolved };

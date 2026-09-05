@@ -1,0 +1,1828 @@
+{
+  "route102": {
+    "slug": "route102",
+    "location": "Route 102",
+    "items": [
+      {
+        "item": "Potion",
+        "slug": "potion",
+        "method": "Floor"
+      },
+      {
+        "item": "Oran Berry",
+        "slug": "oranberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pecha Berry",
+        "slug": "pechaberry",
+        "method": "Berry Tree"
+      }
+    ]
+  },
+  "route103": {
+    "slug": "route103",
+    "location": "Route 103",
+    "items": [
+      {
+        "item": "Cheri Berry",
+        "slug": "cheriberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Leppa Berry",
+        "slug": "leppaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Guard Spec.",
+        "slug": "guard-spec",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route104": {
+    "slug": "route104",
+    "location": "Route 104",
+    "items": [
+      {
+        "item": "Dire Hit",
+        "slug": "direhit",
+        "method": "Floor"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Floor"
+      },
+      {
+        "item": "Potion",
+        "slug": "potion",
+        "method": "Floor"
+      },
+      {
+        "item": "PP Up",
+        "slug": "ppup",
+        "method": "Floor"
+      },
+      {
+        "item": "White Herb",
+        "slug": "whiteherb",
+        "method": "Gift from Woman"
+      },
+      {
+        "item": "TM09",
+        "slug": "tm09",
+        "method": "Gift from Man"
+      },
+      {
+        "item": "Chesto Berry",
+        "slug": "chestoberry",
+        "method": "Gift"
+      },
+      {
+        "item": "Cheri Berry",
+        "slug": "cheriberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Leppa Berry",
+        "slug": "leppaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Oran Berry",
+        "slug": "oranberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Potion",
+        "slug": "potion",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Antidote",
+        "slug": "antidote",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Super Potion",
+        "slug": "superpotion",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Wailmer Pail",
+        "slug": "wailmerpail",
+        "method": "Gift from Flower Shop"
+      }
+    ]
+  },
+  "route105": {
+    "slug": "route105",
+    "location": "Route 105",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Big Pearl",
+        "slug": "bigpearl",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Iron",
+        "slug": "iron",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route106": {
+    "slug": "route106",
+    "location": "Route 106",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Stardust",
+        "slug": "stardust",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Protein",
+        "slug": "protein",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route108": {
+    "slug": "route108",
+    "location": "Route 108",
+    "items": [
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "route109": {
+    "slug": "route109",
+    "location": "Route 109",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Ether",
+        "slug": "ether",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "PP Up",
+        "slug": "ppup",
+        "method": "Floor"
+      },
+      {
+        "item": "Soft Sand",
+        "slug": "softsand",
+        "method": "Gift from Youngster"
+      }
+    ]
+  },
+  "route110": {
+    "slug": "route110",
+    "location": "Route 110",
+    "items": [
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Gift from Trick House 1"
+      },
+      {
+        "item": "Timer Ball",
+        "slug": "timerball",
+        "method": "Gift from Trick House 2"
+      },
+      {
+        "item": "Hard Stone",
+        "slug": "hardstone",
+        "method": "Gift from Trick House 3"
+      },
+      {
+        "item": "Smoke Ball",
+        "slug": "smokeball",
+        "method": "Gift from Trick House 4"
+      },
+      {
+        "item": "TM12",
+        "slug": "tm12",
+        "method": "Gift from Trick House 5"
+      },
+      {
+        "item": "Magnet",
+        "slug": "magnet",
+        "method": "Gift from Trick House 6"
+      },
+      {
+        "item": "PP Max",
+        "slug": "ppmax",
+        "method": "Gift from Trick House 7"
+      },
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Revive",
+        "slug": "revive",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Itemfinder",
+        "slug": "itemfinder",
+        "method": "Gift"
+      }
+    ]
+  },
+  "route111": {
+    "slug": "route111",
+    "location": "Route 111",
+    "items": [
+      {
+        "item": "HP Up",
+        "slug": "hpup",
+        "method": "Floor"
+      },
+      {
+        "item": "Macho Brace",
+        "slug": "machobrace",
+        "method": "Floor"
+      },
+      {
+        "item": "TM43",
+        "slug": "tm43",
+        "method": "Gift"
+      },
+      {
+        "item": "Oran Berry",
+        "slug": "oranberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Razz Berry",
+        "slug": "razzberry",
+        "method": "Gift"
+      },
+      {
+        "item": "Bluk Berry",
+        "slug": "blukberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Nanab Berry",
+        "slug": "nanabberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Wepear Berry",
+        "slug": "wepearberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pinap Berry",
+        "slug": "pinapberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Claw Fossil",
+        "slug": "clawfossil",
+        "method": "Floor"
+      },
+      {
+        "item": "Root Fossil",
+        "slug": "rootfossil",
+        "method": "Floor"
+      },
+      {
+        "item": "Stardust",
+        "slug": "stardust",
+        "method": "Floor"
+      },
+      {
+        "item": "TM37",
+        "slug": "tm37",
+        "method": "Floor"
+      },
+      {
+        "item": "Protein",
+        "slug": "protein",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "route112": {
+    "slug": "route112",
+    "location": "Route 112",
+    "items": [
+      {
+        "item": "Pecha Berry",
+        "slug": "pechaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Rawst Berry",
+        "slug": "rawstberry",
+        "method": "Berry Tree"
+      }
+    ]
+  },
+  "route113": {
+    "slug": "route113",
+    "location": "Route 113",
+    "items": [
+      {
+        "item": "Soot Sack",
+        "slug": "sootsack",
+        "method": "Gift"
+      },
+      {
+        "item": "Ether",
+        "slug": "ether",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Nugget",
+        "slug": "nugget",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "TM32",
+        "slug": "tm32",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "route114": {
+    "slug": "route114",
+    "location": "Route 114",
+    "items": [
+      {
+        "item": "Revive",
+        "slug": "revive",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Carbos",
+        "slug": "carbos",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "TM05",
+        "slug": "tm05",
+        "method": "Gift"
+      },
+      {
+        "item": "Persim Berry",
+        "slug": "persimberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Razz Berry",
+        "slug": "razzberry",
+        "method": "Gift from Daily Berry"
+      },
+      {
+        "item": "Bluk Berry",
+        "slug": "blukberry",
+        "method": "Gift from Daily Berry"
+      },
+      {
+        "item": "Nanab Berry",
+        "slug": "nanabberry",
+        "method": "Gift from Daily Berry"
+      },
+      {
+        "item": "Wepear Berry",
+        "slug": "wepearberry",
+        "method": "Gift from Daily Berry"
+      },
+      {
+        "item": "Pinap Berry",
+        "slug": "pinapberry",
+        "method": "Gift from Daily Berry"
+      },
+      {
+        "item": "TM28",
+        "slug": "tm28",
+        "method": "Gift"
+      },
+      {
+        "item": "Protein",
+        "slug": "protein",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route115": {
+    "slug": "route115",
+    "location": "Route 115",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Super Potion",
+        "slug": "superpotion",
+        "method": "Floor"
+      },
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Floor"
+      },
+      {
+        "item": "PP Up",
+        "slug": "ppup",
+        "method": "Floor"
+      },
+      {
+        "item": "Heal Powder",
+        "slug": "healpowder",
+        "method": "Floor"
+      },
+      {
+        "item": "Iron",
+        "slug": "iron",
+        "method": "Floor"
+      },
+      {
+        "item": "TM01",
+        "slug": "tm01",
+        "method": "Floor"
+      },
+      {
+        "item": "Bluk Berry",
+        "slug": "blukberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Kelpsy Berry",
+        "slug": "kelpsyberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Black Belt",
+        "slug": "blackbelt",
+        "method": "Gift from Thief from Blackbelt Nob"
+      }
+    ]
+  },
+  "route116": {
+    "slug": "route116",
+    "location": "Route 116",
+    "items": [
+      {
+        "item": "Repel",
+        "slug": "repel",
+        "method": "Floor"
+      },
+      {
+        "item": "Potion",
+        "slug": "potion",
+        "method": "Floor"
+      },
+      {
+        "item": "HP Up",
+        "slug": "hpup",
+        "method": "Floor"
+      },
+      {
+        "item": "Ether",
+        "slug": "ether",
+        "method": "Floor"
+      },
+      {
+        "item": "X Special",
+        "slug": "xspecial",
+        "method": "Floor"
+      },
+      {
+        "item": "Repeat Ball",
+        "slug": "repeatball",
+        "method": "Gift from Devon Employee"
+      },
+      {
+        "item": "Chesto Berry",
+        "slug": "chestoberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pinap Berry",
+        "slug": "pinapberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Super Potion",
+        "slug": "superpotion",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "BlackGlasses",
+        "slug": "blackglasses",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "route117": {
+    "slug": "route117",
+    "location": "Route 117",
+    "items": [
+      {
+        "item": "Repel",
+        "slug": "repel",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Floor"
+      },
+      {
+        "item": "Revive",
+        "slug": "revive",
+        "method": "Floor"
+      },
+      {
+        "item": "Wepear Berry",
+        "slug": "wepearberry",
+        "method": "Berry Tree"
+      }
+    ]
+  },
+  "route118": {
+    "slug": "route118",
+    "location": "Route 118",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Iron",
+        "slug": "iron",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Good Rod",
+        "slug": "goodrod",
+        "method": "Gift from Fisherman"
+      },
+      {
+        "item": "Hyper Potion",
+        "slug": "hyperpotion",
+        "method": "Floor"
+      },
+      {
+        "item": "Sitrus Berry",
+        "slug": "sitrusberry",
+        "method": "Berry Tree"
+      }
+    ]
+  },
+  "route119": {
+    "slug": "route119",
+    "location": "Route 119",
+    "items": [
+      {
+        "item": "Ultra Ball",
+        "slug": "ultraball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Calcium",
+        "slug": "calcium",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Max Ether",
+        "slug": "maxether",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Leppa Berry",
+        "slug": "leppaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Hondew Berry",
+        "slug": "hondewberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pomeg Berry",
+        "slug": "pomegberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Sitrus Berry",
+        "slug": "sitrusberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Elixir",
+        "slug": "elixir",
+        "method": "Floor"
+      },
+      {
+        "item": "Leaf Stone",
+        "slug": "leafstone",
+        "method": "Floor"
+      },
+      {
+        "item": "Hyper Potion",
+        "slug": "hyperpotion",
+        "method": "Floor"
+      },
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Floor"
+      },
+      {
+        "item": "Zinc",
+        "slug": "zinc",
+        "method": "Floor"
+      },
+      {
+        "item": "Super Repel",
+        "slug": "superrepel",
+        "method": "Floor"
+      },
+      {
+        "item": "HM02",
+        "slug": "hm02",
+        "method": "Gift from Rival"
+      }
+    ]
+  },
+  "route120": {
+    "slug": "route120",
+    "location": "Route 120",
+    "items": [
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Zinc",
+        "slug": "zinc",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Revive",
+        "slug": "revive",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Aspear Berry",
+        "slug": "aspearberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Nanab Berry",
+        "slug": "nanabberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pecha Berry",
+        "slug": "pechaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pinap Berry",
+        "slug": "pinapberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Razz Berry",
+        "slug": "razzberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Wepear Berry",
+        "slug": "wepearberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Devon Scope",
+        "slug": "devonscope",
+        "method": "Gift from Steven"
+      },
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Floor"
+      },
+      {
+        "item": "Hyper Potion",
+        "slug": "hyperpotion",
+        "method": "Floor"
+      },
+      {
+        "item": "Nest Ball",
+        "slug": "nestball",
+        "method": "Floor"
+      },
+      {
+        "item": "Nugget",
+        "slug": "nugget",
+        "method": "Floor"
+      },
+      {
+        "item": "Revive",
+        "slug": "revive",
+        "method": "Floor"
+      },
+      {
+        "item": "SilverPowder",
+        "slug": "silverpowder",
+        "method": "Gift from Thief from Bug Maniac Brandon"
+      }
+    ]
+  },
+  "route121": {
+    "slug": "route121",
+    "location": "Route 121",
+    "items": [
+      {
+        "item": "HP Up",
+        "slug": "hpup",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Nugget",
+        "slug": "nugget",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Max Revive",
+        "slug": "maxrevive",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Aspear Berry",
+        "slug": "aspearberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Chesto Berry",
+        "slug": "chestoberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Nanab Berry",
+        "slug": "nanabberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Persim Berry",
+        "slug": "persimberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Rawst Berry",
+        "slug": "rawstberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Carbos",
+        "slug": "carbos",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route123": {
+    "slug": "route123",
+    "location": "Route 123",
+    "items": [
+      {
+        "item": "Hyper Potion",
+        "slug": "hyperpotion",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Revive",
+        "slug": "revive",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Super Repel",
+        "slug": "superrepel",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Grepa Berry",
+        "slug": "grepaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Leppa Berry",
+        "slug": "leppaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pecha Berry",
+        "slug": "pechaberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Pomeg Berry",
+        "slug": "pomegberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Qualot Berry",
+        "slug": "qualotberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Rawst Berry",
+        "slug": "rawstberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Sitrus Berry",
+        "slug": "sitrusberry",
+        "method": "Berry Tree"
+      },
+      {
+        "item": "Calcium",
+        "slug": "calcium",
+        "method": "Floor"
+      },
+      {
+        "item": "Elixir",
+        "slug": "elixir",
+        "method": "Floor"
+      },
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Floor"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Floor"
+      },
+      {
+        "item": "TM19",
+        "slug": "tm19",
+        "method": "Gift"
+      },
+      {
+        "item": "Persim Berry",
+        "slug": "persimberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Lum Berry",
+        "slug": "lumberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Sitrus Berry",
+        "slug": "sitrusberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Tamato Berry",
+        "slug": "tamatoberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Cornn Berry",
+        "slug": "cornnberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Magost Berry",
+        "slug": "magostberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Rabuta Berry",
+        "slug": "rabutaberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Nomel Berry",
+        "slug": "nomelberry",
+        "method": "Gift from Berry Master"
+      },
+      {
+        "item": "Spelon Berry",
+        "slug": "spelonberry",
+        "method": "Gift from Berry Master's Wife"
+      },
+      {
+        "item": "Pamtre Berry",
+        "slug": "pamtreberry",
+        "method": "Gift from Berry Master's Wife"
+      },
+      {
+        "item": "Watmel Berry",
+        "slug": "watmelberry",
+        "method": "Gift from Berry Master's Wife"
+      },
+      {
+        "item": "Durin Berry",
+        "slug": "durinberry",
+        "method": "Gift from Berry Master's Wife"
+      },
+      {
+        "item": "Belue Berry",
+        "slug": "belueberry",
+        "method": "Gift from Berry Master's Wife"
+      },
+      {
+        "item": "Occa Berry",
+        "slug": "occaberry",
+        "method": "Gift from Berry Master's Wife"
+      }
+    ]
+  },
+  "route124": {
+    "slug": "route124",
+    "location": "Route 124",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Carbos",
+        "slug": "carbos",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Calcium",
+        "slug": "calcium",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Pearl",
+        "slug": "pearl",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Big Pearl",
+        "slug": "bigpearl",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Green Shard",
+        "slug": "greenshard",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Fire Stone",
+        "slug": "firestone",
+        "method": "Gift from Trade for Red Shard"
+      },
+      {
+        "item": "Thunderstone",
+        "slug": "thunderstone",
+        "method": "Gift from Trade for Yellow Shard"
+      },
+      {
+        "item": "Water Stone",
+        "slug": "waterstone",
+        "method": "Gift from Trade for Blue Shard"
+      },
+      {
+        "item": "Leaf Stone",
+        "slug": "leafstone",
+        "method": "Gift from Trade for Green Shard"
+      }
+    ]
+  },
+  "route126": {
+    "slug": "route126",
+    "location": "Route 126",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Pearl",
+        "slug": "pearl",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Big Pearl",
+        "slug": "bigpearl",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Blue Shard",
+        "slug": "blueshard",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Yellow Shard",
+        "slug": "yellowshard",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Stardust",
+        "slug": "stardust",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Iron",
+        "slug": "iron",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "route127": {
+    "slug": "route127",
+    "location": "Route 127",
+    "items": [
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Red Shard",
+        "slug": "redshard",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "HP Up",
+        "slug": "hpup",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Star Piece",
+        "slug": "starpiece",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Carbos",
+        "slug": "carbos",
+        "method": "Floor"
+      },
+      {
+        "item": "Zinc",
+        "slug": "zinc",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route128": {
+    "slug": "route128",
+    "location": "Route 128",
+    "items": [
+      {
+        "item": "Protein",
+        "slug": "protein",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Pearl",
+        "slug": "pearl",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "route132": {
+    "slug": "route132",
+    "location": "Route 132",
+    "items": [
+      {
+        "item": "Rare Candy",
+        "slug": "rarecandy",
+        "method": "Floor"
+      }
+    ]
+  },
+  "route133": {
+    "slug": "route133",
+    "location": "Route 133",
+    "items": [
+      {
+        "item": "Big Pearl",
+        "slug": "bigpearl",
+        "method": "Floor"
+      },
+      {
+        "item": "Star Piece",
+        "slug": "starpiece",
+        "method": "Floor"
+      },
+      {
+        "item": "Max Revive",
+        "slug": "maxrevive",
+        "method": "Floor"
+      }
+    ]
+  },
+  "dewfordtown": {
+    "slug": "dewfordtown",
+    "location": "Dewford Town",
+    "items": [
+      {
+        "item": "Old Rod",
+        "slug": "oldrod",
+        "method": "Gift from Fisherman"
+      },
+      {
+        "item": "Silk Scarf",
+        "slug": "silkscarf",
+        "method": "Gift"
+      },
+      {
+        "item": "TM08",
+        "slug": "tm08",
+        "method": "Gift from Brawly"
+      }
+    ]
+  },
+  "fallarbortown": {
+    "slug": "fallarbortown",
+    "location": "Fallarbor Town",
+    "items": [
+      {
+        "item": "TM27",
+        "slug": "tm27",
+        "method": "Gift from Prof. Cozmo"
+      },
+      {
+        "item": "Nugget",
+        "slug": "nugget",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "fierypath": {
+    "slug": "fierypath",
+    "location": "Fierypath",
+    "items": [
+      {
+        "item": "TM06",
+        "slug": "tm06",
+        "method": "Floor"
+      },
+      {
+        "item": "Fire Stone",
+        "slug": "firestone",
+        "method": "Floor"
+      }
+    ]
+  },
+  "fortreecity": {
+    "slug": "fortreecity",
+    "location": "Fortree City",
+    "items": [
+      {
+        "item": "TM10",
+        "slug": "tm10",
+        "method": "Gift"
+      },
+      {
+        "item": "Mental Herb",
+        "slug": "mentalherb",
+        "method": "Gift"
+      },
+      {
+        "item": "TM40",
+        "slug": "tm40",
+        "method": "Gift from Winona"
+      }
+    ]
+  },
+  "jaggedpass": {
+    "slug": "jaggedpass",
+    "location": "Jagged Pass",
+    "items": [
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "lavaridgetown": {
+    "slug": "lavaridgetown",
+    "location": "Lavaridge Town",
+    "items": [
+      {
+        "item": "Ice Heal",
+        "slug": "iceheal",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Charcoal",
+        "slug": "charcoal",
+        "method": "Gift"
+      },
+      {
+        "item": "Go-Goggles",
+        "slug": "go-goggles",
+        "method": "Gift from Rival"
+      },
+      {
+        "item": "TM50",
+        "slug": "tm50",
+        "method": "Gift from Flannery"
+      }
+    ]
+  },
+  "lilycovecity": {
+    "slug": "lilycovecity",
+    "location": "Lilycove City",
+    "items": [
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Heart Scale",
+        "slug": "heartscale",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "PP Up",
+        "slug": "ppup",
+        "method": "Itemfinder"
+      }
+    ]
+  },
+  "mauvillecity": {
+    "slug": "mauvillecity",
+    "location": "Mauville City",
+    "items": [
+      {
+        "item": "Acro Bike",
+        "slug": "acrobike",
+        "method": "Gift"
+      },
+      {
+        "item": "Mach Bike",
+        "slug": "machbike",
+        "method": "Gift"
+      },
+      {
+        "item": "Coin Case",
+        "slug": "coincase",
+        "method": "Gift"
+      },
+      {
+        "item": "BasementKey",
+        "slug": "basementkey",
+        "method": "Gift"
+      },
+      {
+        "item": "X Speed",
+        "slug": "xspeed",
+        "method": "Floor"
+      },
+      {
+        "item": "TM24",
+        "slug": "tm24",
+        "method": "Gift"
+      },
+      {
+        "item": "TM32",
+        "slug": "tm32",
+        "method": "Gift"
+      },
+      {
+        "item": "HM06",
+        "slug": "hm06",
+        "method": "Gift"
+      },
+      {
+        "item": "TM34",
+        "slug": "tm34",
+        "method": "Gift from Wattson"
+      }
+    ]
+  },
+  "meteorfalls": {
+    "slug": "meteorfalls",
+    "location": "Meteor Falls",
+    "items": [
+      {
+        "item": "Moon Stone",
+        "slug": "moonstone",
+        "method": "Floor"
+      },
+      {
+        "item": "Dragon Fang",
+        "slug": "dragonfang",
+        "method": "Gift from Thief from Dragon Tamer Nicolas"
+      },
+      {
+        "item": "Dragon Fang",
+        "slug": "dragonfang",
+        "method": "Floor"
+      }
+    ]
+  },
+  "mirageisland": {
+    "slug": "mirageisland",
+    "location": "Mirage Island",
+    "items": [
+      {
+        "item": "Liechi Berry",
+        "slug": "liechiberry",
+        "method": "Berry Tree"
+      }
+    ]
+  },
+  "mossdeepcity": {
+    "slug": "mossdeepcity",
+    "location": "Mossdeep City",
+    "items": [
+      {
+        "item": "HM08",
+        "slug": "hm08",
+        "method": "Gift from Steven"
+      },
+      {
+        "item": "Super Rod",
+        "slug": "superrod",
+        "method": "Gift from Fisherman"
+      },
+      {
+        "item": "King’s Rock",
+        "slug": "king-s-rock",
+        "method": "Gift"
+      },
+      {
+        "item": "TM04",
+        "slug": "tm04",
+        "method": "Gift from Tate & Liza"
+      }
+    ]
+  },
+  "newmauville": {
+    "slug": "newmauville",
+    "location": "Newmauville",
+    "items": [
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Floor"
+      },
+      {
+        "item": "Parlyz Heal",
+        "slug": "parlyzheal",
+        "method": "Floor"
+      },
+      {
+        "item": "Escape Rope",
+        "slug": "escaperope",
+        "method": "Floor"
+      },
+      {
+        "item": "Ultra Ball",
+        "slug": "ultraball",
+        "method": "Floor"
+      },
+      {
+        "item": "Thunderstone",
+        "slug": "thunderstone",
+        "method": "Floor"
+      }
+    ]
+  },
+  "oldaletown": {
+    "slug": "oldaletown",
+    "location": "Oldale Town",
+    "items": [
+      {
+        "item": "Potion",
+        "slug": "potion",
+        "method": "Gift"
+      }
+    ]
+  },
+  "pacifidlogtown": {
+    "slug": "pacifidlogtown",
+    "location": "Pacifidlog Town",
+    "items": [
+      {
+        "item": "TM27",
+        "slug": "tm27",
+        "method": "Gift from Gentleman"
+      },
+      {
+        "item": "TM21",
+        "slug": "tm21",
+        "method": "Gift"
+      }
+    ]
+  },
+  "petalburgcity": {
+    "slug": "petalburgcity",
+    "location": "Petalburg City",
+    "items": [
+      {
+        "item": "HM03",
+        "slug": "hm03",
+        "method": "Gift from Wally's Family"
+      },
+      {
+        "item": "Max Revive",
+        "slug": "maxrevive",
+        "method": "Floor"
+      },
+      {
+        "item": "Ether",
+        "slug": "ether",
+        "method": "Floor"
+      },
+      {
+        "item": "TM42",
+        "slug": "tm42",
+        "method": "Gift from Norman"
+      }
+    ]
+  },
+  "petalburgwoods": {
+    "slug": "petalburgwoods",
+    "location": "Petalburg Woods",
+    "items": [
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Gift from Man"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "TinyMushroom",
+        "slug": "tinymushroom",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Potion",
+        "slug": "potion",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Miracle Seed",
+        "slug": "miracleseed",
+        "method": "Floor"
+      },
+      {
+        "item": "Parlyz Heal",
+        "slug": "parlyzheal",
+        "method": "Floor"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Floor"
+      },
+      {
+        "item": "Ether",
+        "slug": "ether",
+        "method": "Floor"
+      }
+    ]
+  },
+  "rustborocity": {
+    "slug": "rustborocity",
+    "location": "Rustboro City",
+    "items": [
+      {
+        "item": "HM01",
+        "slug": "hm01",
+        "method": "Gift"
+      },
+      {
+        "item": "Great Ball",
+        "slug": "greatball",
+        "method": "Gift"
+      },
+      {
+        "item": "Premier Ball",
+        "slug": "premierball",
+        "method": "Gift"
+      },
+      {
+        "item": "Exp. Share",
+        "slug": "exp-share",
+        "method": "Gift"
+      },
+      {
+        "item": "Quick Claw",
+        "slug": "quickclaw",
+        "method": "Gift"
+      },
+      {
+        "item": "X Defend",
+        "slug": "xdefend",
+        "method": "Gift"
+      },
+      {
+        "item": "TM39",
+        "slug": "tm39",
+        "method": "Gift from Roxanne"
+      }
+    ]
+  },
+  "rusturftunnel": {
+    "slug": "rusturftunnel",
+    "location": "Rusturf Tunnel",
+    "items": [
+      {
+        "item": "HM04",
+        "slug": "hm04",
+        "method": "Gift"
+      },
+      {
+        "item": "Devon Goods",
+        "slug": "devongoods",
+        "method": "Gift"
+      },
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Floor"
+      },
+      {
+        "item": "Max Ether",
+        "slug": "maxether",
+        "method": "Floor"
+      }
+    ]
+  },
+  "scorchedslab": {
+    "slug": "scorchedslab",
+    "location": "Scorchedslab",
+    "items": [
+      {
+        "item": "TM11",
+        "slug": "tm11",
+        "method": "Floor"
+      }
+    ]
+  },
+  "shoalcave": {
+    "slug": "shoalcave",
+    "location": "Shoal Cave",
+    "items": [
+      {
+        "item": "Shoal Shell",
+        "slug": "shoalshell",
+        "method": "Floor"
+      },
+      {
+        "item": "Hyper Potion",
+        "slug": "hyperpotion",
+        "method": "Floor"
+      },
+      {
+        "item": "Shoal Salt",
+        "slug": "shoalsalt",
+        "method": "Floor"
+      },
+      {
+        "item": "NeverMeltIce",
+        "slug": "nevermeltice",
+        "method": "Floor"
+      },
+      {
+        "item": "TM07",
+        "slug": "tm07",
+        "method": "Floor"
+      }
+    ]
+  },
+  "slateportcity": {
+    "slug": "slateportcity",
+    "location": "Slateport City",
+    "items": [
+      {
+        "item": "TM46",
+        "slug": "tm46",
+        "method": "Floor"
+      },
+      {
+        "item": "TM41",
+        "slug": "tm41",
+        "method": "Gift from Sailor"
+      },
+      {
+        "item": "PokéBlock Case",
+        "slug": "pokeblockcase",
+        "method": "Gift from Contest House Girl"
+      },
+      {
+        "item": "Soothe Bell",
+        "slug": "soothebell",
+        "method": "Gift"
+      },
+      {
+        "item": "DeepSeaTooth",
+        "slug": "deepseatooth",
+        "method": "Gift from Capt Stern"
+      },
+      {
+        "item": "DeepSeaScale",
+        "slug": "deepseascale",
+        "method": "Gift from Capt Stern"
+      }
+    ]
+  },
+  "sootopoliscity": {
+    "slug": "sootopoliscity",
+    "location": "Sootopolis City",
+    "items": [
+      {
+        "item": "TM31",
+        "slug": "tm31",
+        "method": "Gift"
+      },
+      {
+        "item": "Ether",
+        "slug": "ether",
+        "method": "Gift"
+      },
+      {
+        "item": "Elixir",
+        "slug": "elixir",
+        "method": "Gift"
+      },
+      {
+        "item": "TM03",
+        "slug": "tm03",
+        "method": "Gift from Wallace/Juan"
+      }
+    ]
+  },
+  "sstidal": {
+    "slug": "sstidal",
+    "location": "Sstidal",
+    "items": [
+      {
+        "item": "TM49",
+        "slug": "tm49",
+        "method": "Gift"
+      },
+      {
+        "item": "Leftovers",
+        "slug": "leftovers",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Leftovers",
+        "slug": "leftovers",
+        "method": "Floor"
+      }
+    ]
+  },
+  "verdanturftown": {
+    "slug": "verdanturftown",
+    "location": "Verdanturf Town",
+    "items": [
+      {
+        "item": "Contest Pass",
+        "slug": "contestpass",
+        "method": "Gift"
+      }
+    ]
+  },
+  "victoryroad": {
+    "slug": "victoryroad",
+    "location": "Victory Road",
+    "items": [
+      {
+        "item": "Poké Ball",
+        "slug": "pokeball",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "TM29",
+        "slug": "tm29",
+        "method": "Floor"
+      },
+      {
+        "item": "Full Heal",
+        "slug": "fullheal",
+        "method": "Floor"
+      },
+      {
+        "item": "Full Restore",
+        "slug": "fullrestore",
+        "method": "Floor"
+      },
+      {
+        "item": "Max Elixir",
+        "slug": "maxelixir",
+        "method": "Floor"
+      },
+      {
+        "item": "PP Up",
+        "slug": "ppup",
+        "method": "Floor"
+      },
+      {
+        "item": "Max Repel",
+        "slug": "maxrepel",
+        "method": "Itemfinder"
+      },
+      {
+        "item": "Max Elixir",
+        "slug": "maxelixir",
+        "method": "Itemfinder"
+      }
+    ]
+  }
+}
