@@ -241,6 +241,27 @@ export interface StoryBeat {
   item?: string; // "item" beats: the item slug
   method?: string; // "legendary"/"item" beats: how it's obtained (static/event, or the item's find method)
   optional?: boolean; // progression beat that's side content, not on the mandatory spine
+  required?: boolean; // the definitional mandatory spine — the 8 gym badges + Elite Four + Champion (for speedrun/minimum-route planning)
+}
+
+/** An EV-training entry: a wild species that awards effort points in a stat,
+ * plus where to grind it. Derived (evYield × encounters), game-scoped. */
+export interface EvTrainingEntry {
+  pokemon: string;
+  natdex: number;
+  points: number; // EVs in this stat per KO
+  spots: Array<{ location: string; method: string; rate: number | null }>;
+}
+
+/** A reset-able shiny target: a static/gift encounter you can soft-reset for a
+ * shiny. Gen 3 has no shiny methods/charm (fixed 1/8192 odds), so the practical
+ * targets are the SR-able statics; wild species are hunted via random encounters.
+ * Derived from gifts + static legendaries. */
+export interface ShinyTarget {
+  pokemon: string;
+  natdex: number;
+  method: "starter" | "gift" | "static-legendary";
+  location: string;
 }
 
 export interface Story {

@@ -23,6 +23,8 @@ import { deriveLocations } from "./derive/locations.ts";
 import { deriveStoryPath } from "./derive/storypath.ts";
 import { deriveNatures } from "./derive/natures.ts";
 import { deriveObtainability } from "./derive/obtainability.ts";
+import { deriveEvTraining } from "./derive/evtraining.ts";
+import { deriveShiny } from "./derive/shiny.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeTrades } from "./scrape/trades.ts";
@@ -172,6 +174,14 @@ if (!entity || entity === "pokemon") {
   console.log(`▶ deriving how each species is obtained in Emerald…`);
   const r = deriveObtainability();
   console.log(`✔ ${r.obtainable}/${r.species} obtainable in-game (${r.wildSourced} wild-sourced) → dataset/gen3/games/emerald/obtainability.json`);
+} else if (entity === "evtraining") {
+  console.log(`▶ deriving EV-training spots (evYield × encounters)…`);
+  const r = deriveEvTraining();
+  console.log(`✔ ${r.totalEntries} entries across ${r.stats} stats → dataset/gen3/games/emerald/ev-training.json`);
+} else if (entity === "shiny") {
+  console.log(`▶ deriving reset-able shiny targets (gifts + static legendaries)…`);
+  const r = deriveShiny();
+  console.log(`✔ ${r.targets} shiny targets ${JSON.stringify(r.byMethod)} → dataset/gen3/games/emerald/shiny-targets.json`);
 } else if (entity === "locations") {
   console.log(`▶ building the canonical location registry from the game data…`);
   const r = deriveLocations();
@@ -181,6 +191,6 @@ if (!entity || entity === "pokemon") {
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "natures", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "storypath", "obtainability", "locations", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "natures", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "storypath", "obtainability", "evtraining", "shiny", "locations", or "manifest"`);
   process.exit(1);
 }

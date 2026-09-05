@@ -22,10 +22,14 @@ export function deriveStoryPath() {
     (JSON.parse(readFileSync(`${DATASET}pokemon/index.json`, "utf8")) as Array<{ slug: string; name: string }>).map((p) => [p.slug, p.name]),
   );
 
-  // Keep the battle spine; regenerate every non-battle beat (idempotent).
+  // Keep the battle spine; regenerate every non-battle beat (idempotent). Flag
+  // the definitional mandatory spine (badges + League) `required` for speedrun /
+  // minimum-route planning — finer forced-battle data isn't in Serebii, so
+  // villain/rival beats are left unflagged rather than guessed.
+  const MILESTONE = new Set(["gym", "elite-four", "champion"]);
   const battle = (story.criticalPath as StoryBeat[]).filter((b) => BATTLE.has(b.kind));
   const maxLvl = Math.max(...battle.map((b) => b.levelCap), 0);
-  const beats: Array<Omit<StoryBeat, "order">> = battle.map(({ order, ...b }) => b);
+  const beats: Array<Omit<StoryBeat, "order">> = battle.map(({ order, ...b }) => (MILESTONE.has(b.kind) ? { ...b, required: true } : b));
 
   // --- HM pickups: where you obtain each field move, placed at that area's level.
   const machines = JSON.parse(readFileSync(`${DATASET}machines.json`, "utf8")) as Machine[];

@@ -37,6 +37,8 @@ const legendaries: any[] = readJson("games/emerald/legendaries.json");
 const trades: any[] = readJson("games/emerald/trades.json");
 const natures: any[] = readJson("natures.json");
 const obtainability: any[] = readJson("games/emerald/obtainability.json");
+const evTraining: Record<string, any[]> = readJson("games/emerald/ev-training.json");
+const shinyTargets: any[] = readJson("games/emerald/shiny-targets.json");
 const STAT_KEYS = new Set(["hp", "attack", "defense", "spAttack", "spDefense", "speed"]);
 
 // A move name resolves if it matches a record slug or a record's normalized name.
@@ -257,6 +259,40 @@ test("emerald critical path: ordered, every beat carries its kind's payload", ()
   }
   // The path is genuinely enriched beyond battles.
   for (const k of ["hm", "legendary", "item"]) assert.ok(seenKinds.has(k), `critical path has no ${k} beats`);
+});
+
+test("critical path: `required` marks exactly the gym/E4/champion spine", () => {
+  const cp: any[] = story.criticalPath ?? [];
+  const isMilestone = (b: any) => ["gym", "elite-four", "champion"].includes(b.kind);
+  const req = cp.filter((b) => b.required);
+  assert.equal(req.length, cp.filter(isMilestone).length, "required count != milestone count");
+  for (const b of req) assert.ok(isMilestone(b), `beat ${b.order} required but kind '${b.kind}' is not a milestone`);
+  assert.ok(req.length >= 10, `too few required beats: ${req.length}`);
+});
+
+test("ev-training: entries resolve, points match evYield, spots in registry", () => {
+  const registry = new Set(((readJson("games/emerald/locations.json") as any[]) ?? []).map((l) => l.slug));
+  for (const [stat, entries] of Object.entries(evTraining)) {
+    assert.ok(STAT_KEYS.has(stat), `ev-training bad stat '${stat}'`);
+    for (const e of entries) {
+      const p = pokemon.get(e.pokemon);
+      assert.ok(p, `ev-training '${e.pokemon}' unknown`);
+      assert.equal(p.natdex, e.natdex, `ev-training ${e.pokemon}: natdex mismatch`);
+      assert.equal(e.points, p.evYield[stat], `ev-training ${e.pokemon}: points ${e.points} != evYield.${stat} ${p.evYield[stat]}`);
+      assert.ok(e.spots.length > 0, `ev-training ${e.pokemon}: no spots`);
+      for (const s of e.spots) assert.ok(registry.has(s.location), `ev-training ${e.pokemon}: spot '${s.location}' not in registry`);
+    }
+  }
+});
+
+test("shiny-targets: resolve with matching natdex, valid method", () => {
+  assert.ok(shinyTargets.length >= 10, `too few shiny targets: ${shinyTargets.length}`);
+  for (const t of shinyTargets) {
+    const p = pokemon.get(t.pokemon);
+    assert.ok(p, `shiny target '${t.pokemon}' unknown`);
+    assert.equal(p.natdex, t.natdex, `shiny ${t.pokemon}: natdex mismatch`);
+    assert.ok(["starter", "gift", "static-legendary"].includes(t.method), `shiny ${t.pokemon}: bad method '${t.method}'`);
+  }
 });
 
 test("emerald connections: field-move requirements resolve to moves", () => {

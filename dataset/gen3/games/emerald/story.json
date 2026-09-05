@@ -614,7 +614,8 @@
       "kind": "gym",
       "location": "rustborocity",
       "levelCap": 15,
-      "milestone": "roxanne"
+      "milestone": "roxanne",
+      "required": true
     },
     {
       "order": 10,
@@ -708,7 +709,8 @@
       "kind": "gym",
       "location": "dewfordtown",
       "levelCap": 19,
-      "milestone": "brawly"
+      "milestone": "brawly",
+      "required": true
     },
     {
       "order": 21,
@@ -749,7 +751,8 @@
       "kind": "gym",
       "location": "mauvillecity",
       "levelCap": 24,
-      "milestone": "wattson"
+      "milestone": "wattson",
+      "required": true
     },
     {
       "order": 26,
@@ -818,7 +821,8 @@
       "kind": "gym",
       "location": "lavaridgetown",
       "levelCap": 29,
-      "milestone": "flannery"
+      "milestone": "flannery",
+      "required": true
     },
     {
       "order": 34,
@@ -834,7 +838,8 @@
       "kind": "gym",
       "location": "petalburgcity",
       "levelCap": 31,
-      "milestone": "norman"
+      "milestone": "norman",
+      "required": true
     },
     {
       "order": 36,
@@ -849,7 +854,8 @@
       "kind": "gym",
       "location": "fortreecity",
       "levelCap": 33,
-      "milestone": "winona"
+      "milestone": "winona",
+      "required": true
     },
     {
       "order": 38,
@@ -907,7 +913,8 @@
       "kind": "gym",
       "location": "mossdeepcity",
       "levelCap": 42,
-      "milestone": "tate-and-liza"
+      "milestone": "tate-and-liza",
+      "required": true
     },
     {
       "order": 45,
@@ -922,35 +929,40 @@
       "kind": "gym",
       "location": "sootopoliscity",
       "levelCap": 46,
-      "milestone": "juan"
+      "milestone": "juan",
+      "required": true
     },
     {
       "order": 47,
       "kind": "elite-four",
       "location": "",
       "levelCap": 49,
-      "milestone": "sidney"
+      "milestone": "sidney",
+      "required": true
     },
     {
       "order": 48,
       "kind": "elite-four",
       "location": "",
       "levelCap": 51,
-      "milestone": "phoebe"
+      "milestone": "phoebe",
+      "required": true
     },
     {
       "order": 49,
       "kind": "elite-four",
       "location": "",
       "levelCap": 53,
-      "milestone": "glacia"
+      "milestone": "glacia",
+      "required": true
     },
     {
       "order": 50,
       "kind": "elite-four",
       "location": "",
       "levelCap": 55,
-      "milestone": "drake"
+      "milestone": "drake",
+      "required": true
     },
     {
       "order": 51,
@@ -965,7 +977,8 @@
       "kind": "champion",
       "location": "",
       "levelCap": 58,
-      "milestone": "wallace"
+      "milestone": "wallace",
+      "required": true
     },
     {
       "order": 53,

@@ -29,6 +29,8 @@ node src/run.ts legendaries        # derive catchable legendaries from Pokémon 
 node src/run.ts trades             # scrape Emerald in-game trades (/emerald/trade.shtml)
 node src/run.ts storypath          # enrich criticalPath with HM/legendary/key-item beats (after trainers+machines+legendaries+itemlinks)
 node src/run.ts obtainability      # derive how each species is obtained in Emerald (after pokemon + game data)
+node src/run.ts evtraining         # derive EV-training spots (evYield × encounters)
+node src/run.ts shiny              # derive reset-able shiny targets (gifts + static legendaries)
 node src/run.ts locations          # build the canonical location registry (slug → name) — run last
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
@@ -137,6 +139,13 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   gift/trade/event flags, and a **transitive `obtainable`** (reachable via a direct source, or evolves
   from an obtainable species — e.g. Charizard is `false`, since the Charmander line needs a trade in
   Emerald). 231/386 obtainable in-game. Powers living-dex / completionist planning.
+- ✅ `evtraining` — **EV-training spots** (`games/emerald/ev-training.json`, *derived*): per stat, the
+  wild species that award that EV (`evYield` × encounters) and where to grind them — sorted best-first
+  (points, then encounter rate). 144 entries across the 6 stats. Powers training.
+- ✅ `shiny` — **reset-able shiny targets** (`games/emerald/shiny-targets.json`, *derived*): the
+  static/gift encounters you can soft-reset for a shiny (3 starters + 8 gifts + 6 static legendaries).
+  Gen-3 odds are a fixed 1/8192 (no methods/charm), so wild species are hunted via `encounters`; these
+  are the SR-able ones. Powers shiny hunting.
 - ✅ `encounters` — **Emerald**, scraped from the Hoenn `/pokearth/hoenn/3rd/`
   Emerald encounter tables (`table.dextable` with a `td.emerald` header — distinct
   from the Ruby/Sapphire `table.extradextable`). Per location: mon + **rate% + level
@@ -168,7 +177,9 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   with the non-battle progression** — `hm` beats (where you obtain each field move), `item`
   beats (key items with a findable location), and `legendary` beats (in-Hoenn legendaries,
   all flagged `optional`) — every beat ordered by `levelCap` and tied to a location slug
-  (`storypath` derive, no network). All three are **heuristic** ordering (Serebii has no
+  (`storypath` derive, no network). The 13 gym/E4/champion beats carry **`required: true`** — the
+  definitional mandatory spine (badges + League) for speedrun / minimum-route planning; finer
+  forced-battle data isn't in Serebii, so villain/rival beats are left unflagged. All three are **heuristic** ordering (Serebii has no
   walkthrough page), not canonical — a beat's level is a story-order proxy. Legendaries are the
   exception to level-placement: a static legendary isn't a grass encounter, so its area's wild
   level would misplace it — they're grouped as an **optional cluster after the champion** (their
