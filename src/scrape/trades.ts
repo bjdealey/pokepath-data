@@ -5,17 +5,16 @@ import { mkdir, writeFile, readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
 import { fetchCached } from "../fetch.ts";
-import { parseTrades } from "../parse/emerald-trades.ts";
+import { parseTrades, parseRsTrades } from "../parse/emerald-trades.ts";
 import { GAMES, type Game } from "../games.ts";
 import type { InGameTrade } from "../types.ts";
 
-// NOTE: only Emerald's trade page (/emerald/trade.shtml) uses the dextable
-// structure `parseTrades` reads. The R/S page (/rubysapphire/trades.shtml) is a
-// different per-trade narrative layout, so R/S currently yield an empty list —
-// a documented limitation on this minor dataset (not yet parsed).
+// Emerald and R/S use different trade-page layouts (dextable vs per-trade detail
+// tables), so parse each with its own reader; both yield give/receive national-
+// dex numbers resolved to slugs below.
 export async function scrapeTrades(game: Game = "emerald", refresh = false) {
   const html = await fetchCached(GAMES[game].tradeUrl, { refresh });
-  const raw = parseTrades(html);
+  const raw = game === "emerald" ? parseTrades(html) : parseRsTrades(html);
 
   const indexPath = `${DATASET}pokemon/index.json`;
   if (!existsSync(indexPath)) throw new Error("run `pokemon` first — needs pokemon/index.json to resolve dex numbers");

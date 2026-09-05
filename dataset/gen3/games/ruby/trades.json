@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "give": {
+      "pokemon": "slakoth",
+      "natdex": 287
+    },
+    "receive": {
+      "pokemon": "makuhita",
+      "natdex": 296,
+      "heldItem": "X Attack"
+    }
+  },
+  {
+    "give": {
+      "pokemon": "pikachu",
+      "natdex": 25
+    },
+    "receive": {
+      "pokemon": "skitty",
+      "natdex": 300,
+      "heldItem": "Glitter Mail"
+    }
+  },
+  {
+    "give": {
+      "pokemon": "bellossom",
+      "natdex": 182
+    },
+    "receive": {
+      "pokemon": "corsola",
+      "natdex": 222,
+      "heldItem": "Tropic Mail"
+    }
+  }
+]

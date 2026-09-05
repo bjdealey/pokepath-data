@@ -50,11 +50,11 @@ holds the per-game Serebii sources). Version differences are faithful: wild
 encounters split correctly (Ruby→Zangoose, Sapphire→Seviper), the box legendary
 is version-exclusive (**Ruby→Groudon, Sapphire→Kyogre**), and gym/E4 teams come
 from the `/rubysapphire/` pages (Ruby's Roxanne has 2 Pokémon, Emerald's 3).
-Two documented approximations: route/villain/rival trainers come from the shared
-pokearth crawl (so R/S carry Emerald's route trainers + villain structure — the
-gym/E4/champion spine is version-accurate), and R/S in-game **trades** aren't
-parsed yet (their page uses a different layout), so `ruby`/`sapphire` `trades.json`
-are empty.
+In-game **trades** are parsed per game (R/S use a different page layout than
+Emerald — Slakoth↔Makuhita, Pikachu↔Skitty, Bellossom↔Corsola). One documented
+approximation remains: route/villain/rival trainers come from the shared pokearth
+crawl (so R/S carry Emerald's route trainers + villain structure — the
+gym/E4/champion spine is version-accurate).
 
 ```
 dataset/

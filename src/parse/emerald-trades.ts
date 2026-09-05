@@ -30,3 +30,28 @@ export function parseTrades(html: string): RawTrade[] {
   });
   return out;
 }
+
+// Ruby/Sapphire trades page (/rubysapphire/trades.shtml) uses a different layout:
+// one detail table per trade with a "Trader requests a <X>" line. The received
+// species is the `/pokearth/sprites/rs/NNN.png` sprite; the requested (give)
+// species is the `/pokedex-bw/icon/MMM.png` icon — both national-dex numbers, so
+// they resolve the same way. Held item sits before "<Nature> Nature".
+export function parseRsTrades(html: string): RawTrade[] {
+  const $ = cheerio.load(html);
+  const out: RawTrade[] = [];
+  const seen = new Set<string>();
+  $("table").each((_i, t) => {
+    const $t = $(t);
+    const rs = $t.find('img[src*="/pokearth/sprites/rs/"]');
+    if (rs.length !== 1 || !/Trader requests/i.test($t.text())) return; // one detail table per trade
+    const receiveNatdex = Number(($(rs[0]).attr("src") ?? "").match(/rs\/(\d+)\.png/i)?.[1] ?? 0);
+    const giveNatdex = Number(($t.find('img[src*="/pokedex-bw/icon/"]').first().attr("src") ?? "").match(/icon\/(\d+)\.png/i)?.[1] ?? 0);
+    if (!receiveNatdex || !giveNatdex) return;
+    const key = `${giveNatdex}/${receiveNatdex}`;
+    if (seen.has(key)) return;
+    seen.add(key);
+    const item = clean($t.text()).match(/Hold Item:\s*(.*?)\s*[A-Z][a-zï]+\s+Nature/)?.[1]?.trim() || null;
+    out.push({ giveNatdex, receiveNatdex, heldItem: item && item !== "None" ? item : null });
+  });
+  return out;
+}

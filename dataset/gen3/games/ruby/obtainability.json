@@ -3952,7 +3952,7 @@
     "evolvesFrom": null,
     "breedable": true,
     "gift": false,
-    "trade": false,
+    "trade": true,
     "event": false,
     "obtainable": true
   },
@@ -5391,7 +5391,7 @@
     "evolvesFrom": null,
     "breedable": true,
     "gift": false,
-    "trade": false,
+    "trade": true,
     "event": false,
     "obtainable": true
   },
@@ -5453,7 +5453,7 @@
     "evolvesFrom": null,
     "breedable": true,
     "gift": false,
-    "trade": false,
+    "trade": true,
     "event": false,
     "obtainable": true
   },
