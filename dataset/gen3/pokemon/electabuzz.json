@@ -240,6 +240,19 @@
       "Fire Punch"
     ]
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/125.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/125.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/125.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/125.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/125.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/125.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/125.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/125.shtml",
     "scrapedAt": "2026-09-03T20:31:33.587Z"

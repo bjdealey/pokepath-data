@@ -267,6 +267,19 @@
       "Thunderpunch"
     ]
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/303.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/303.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/303.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/303.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/303.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/303.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/303.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/303.shtml",
     "scrapedAt": "2026-09-03T20:31:34.844Z"

@@ -233,6 +233,19 @@
       "Swift"
     ]
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/117.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/117.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/117.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/117.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/117.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/117.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/117.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/117.shtml",
     "scrapedAt": "2026-09-03T20:31:33.533Z"

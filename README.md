@@ -31,6 +31,7 @@ node src/run.ts storypath          # enrich criticalPath with HM/legendary/key-i
 node src/run.ts obtainability      # derive how each species is obtained in Emerald (after pokemon + game data)
 node src/run.ts evtraining         # derive EV-training spots (evYield × encounters)
 node src/run.ts shiny              # derive reset-able shiny targets (gifts + static legendaries)
+node src/run.ts sprites            # bake Serebii sprite/artwork URLs into pokemon (after pokemon, no network)
 node src/run.ts locations          # build the canonical location registry (slug → name) — run last
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
@@ -104,6 +105,13 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   and **type effectiveness** (`damageTaken` — non-neutral weak/resist/immune multipliers),
   plus **`wildItems`** (held-when-wild) and **`evYield`** (effort points awarded when defeated —
   "Effort Points from Battling it", e.g. Swampert `{attack:3}`), parsed from `/pokedex-rs/NNN.shtml`.
+- ✅ `sprites` — **Serebii sprite/artwork URLs** baked into each Pokémon record's
+  **`sprites`** (`run.ts sprites`, *derived*, no network). Normal + **shiny** in-game
+  battle sprites keyed by game (Ruby/Sapphire share a set, Emerald its own) plus the
+  game-agnostic official **`artwork`** — a pure function of the national-dex number via
+  Serebii's stable URL scheme (`/pokearth/sprites/<set>/NNN.png`, `/Shiny/<Set>/NNN.png`,
+  `/pokemon/art/NNN.png`), **pinned against the committed pokedex-rs fixture**. URLs link
+  to Serebii; images are **not re-hosted** (Serebii ToS). Run after `pokemon`.
 - ✅ `moves` — all **Gen-III moves** (373) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
   effect + rate, contest type. **Category is derived from type** (Gen 3 predates the

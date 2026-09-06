@@ -223,6 +223,19 @@
       "Fury Cutter"
     ]
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/123.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/123.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/123.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/123.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/123.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/123.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/123.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/123.shtml",
     "scrapedAt": "2026-09-03T20:31:33.573Z"
