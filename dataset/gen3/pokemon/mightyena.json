@@ -256,6 +256,19 @@
       "Sleep Talk"
     ]
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/262.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/262.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/262.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/262.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/262.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/262.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/262.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/262.shtml",
     "scrapedAt": "2026-09-03T20:31:34.557Z"

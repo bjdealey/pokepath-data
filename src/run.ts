@@ -25,6 +25,7 @@ import { scrapeNatures } from "./scrape/natures.ts";
 import { deriveObtainability } from "./derive/obtainability.ts";
 import { deriveEvTraining } from "./derive/evtraining.ts";
 import { deriveShiny } from "./derive/shiny.ts";
+import { deriveSprites } from "./derive/sprites.ts";
 import { deriveManifest } from "./derive/manifest.ts";
 import { scrapeTrainers } from "./scrape/trainers.ts";
 import { scrapeTrades } from "./scrape/trades.ts";
@@ -192,6 +193,10 @@ if (!entity || entity === "pokemon") {
     const r = deriveShiny(game);
     console.log(`✔ ${game}: ${r.targets} shiny targets ${JSON.stringify(r.byMethod)} → games/${game}/shiny-targets.json`);
   }
+} else if (entity === "sprites") {
+  console.log(`▶ baking Serebii sprite URLs into Pokémon records…`);
+  const r = deriveSprites();
+  console.log(`✔ ${r.pokemon} pokemon enriched with sprites (normal+shiny per game + artwork) → dataset/${GEN}/pokemon/`);
 } else if (entity === "locations") {
   for (const game of ALL_GAMES) {
     const r = deriveLocations(game);
@@ -202,6 +207,6 @@ if (!entity || entity === "pokemon") {
   const r = deriveManifest();
   console.log(`✔ ${r.generations} generation(s), ${r.games} game(s) → dataset/manifest.json`);
 } else {
-  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "natures", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "storypath", "obtainability", "evtraining", "shiny", "locations", or "manifest"`);
+  console.error(`unknown entity "${entity}" — use "pokemon", "moves", "learnedby", "machines", "typechart", "abilities", "natures", "encounters", "items", "itemdex", "itemlinks", "connectivity", "trainers", "gifts", "legendaries", "trades", "storypath", "obtainability", "evtraining", "shiny", "sprites", "locations", or "manifest"`);
   process.exit(1);
 }

@@ -280,6 +280,18 @@ export interface EvolutionEdge {
   method: string; // natural-language: "Level 16", "Fire Stone", "Trade holding King's Rock", …
 }
 
+/** Serebii sprite image URLs (not re-hosted — Serebii ToS; these link to
+ * Serebii). Battle sprites are game-family-specific — Ruby/Sapphire share one
+ * set, Emerald another — so `normal`/`shiny` are keyed by game slug (games that
+ * share a set share the URL), matching the `flavorText`/`locations` convention.
+ * `artwork` is the game-agnostic official artwork. Derived from the national-dex
+ * number via Serebii's stable sprite URL scheme (`run.ts sprites`, no network). */
+export interface PokemonSprites {
+  normal: Partial<Record<GameSlug, string>>; // default in-game battle sprite, per game
+  shiny: Partial<Record<GameSlug, string>>; // shiny battle sprite, per game
+  artwork: string; // official artwork (game-agnostic)
+}
+
 export interface PokemonRecord {
   slug: string;
   natdex: number;
@@ -303,5 +315,6 @@ export interface PokemonRecord {
   flavorText: Partial<Record<GameSlug, string>>;
   locations: Partial<Record<GameSlug, string>>;
   learnset: Learnset; // scoped to the scraped game family (RSE for now)
+  sprites?: PokemonSprites; // derived: Serebii sprite/artwork URLs (run.ts sprites)
   source: { url: string; scrapedAt: string };
 }

@@ -231,6 +231,19 @@
       "Defense Curl"
     ]
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/019.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/019.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/019.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/019.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/019.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/019.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/019.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/019.shtml",
     "scrapedAt": "2026-09-03T20:31:32.853Z"

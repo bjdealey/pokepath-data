@@ -98,6 +98,19 @@
     "egg": [],
     "tutor": []
   },
+  "sprites": {
+    "normal": {
+      "ruby": "https://www.serebii.net/pokearth/sprites/rs/014.png",
+      "sapphire": "https://www.serebii.net/pokearth/sprites/rs/014.png",
+      "emerald": "https://www.serebii.net/pokearth/sprites/em/014.png"
+    },
+    "shiny": {
+      "ruby": "https://www.serebii.net/Shiny/RuSa/014.png",
+      "sapphire": "https://www.serebii.net/Shiny/RuSa/014.png",
+      "emerald": "https://www.serebii.net/Shiny/Em/014.png"
+    },
+    "artwork": "https://www.serebii.net/pokemon/art/014.png"
+  },
   "source": {
     "url": "https://www.serebii.net/pokedex-rs/014.shtml",
     "scrapedAt": "2026-09-03T20:31:32.817Z"

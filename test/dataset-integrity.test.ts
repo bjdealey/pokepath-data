@@ -62,6 +62,29 @@ test("pokemon: full dex 1–386, index matches, no unresolved evolution refs", (
   }
 });
 
+test("pokemon: sprites present, per-game normal+shiny + artwork, dex-correct URLs", () => {
+  const games = ["ruby", "sapphire", "emerald"];
+  for (const p of pokemon.values()) {
+    const s = p.sprites;
+    assert.ok(s, `${p.slug}: missing sprites`);
+    const dex = String(p.natdex).padStart(3, "0");
+    for (const g of games) {
+      for (const kind of ["normal", "shiny"] as const) {
+        const url = s[kind]?.[g];
+        assert.ok(url, `${p.slug}: no ${kind} sprite for ${g}`);
+        assert.ok(/^https:\/\/www\.serebii\.net\/.*\.png$/.test(url), `${p.slug}: ${g} ${kind} not a Serebii .png URL (${url})`);
+        assert.ok(url.includes(`/${dex}.png`), `${p.slug}: ${g} ${kind} URL missing dex ${dex} (${url})`);
+      }
+    }
+    // Ruby & Sapphire share one sprite set; Emerald has its own.
+    assert.equal(s.normal.ruby, s.normal.sapphire, `${p.slug}: ruby/sapphire normal sprite differ`);
+    assert.equal(s.shiny.ruby, s.shiny.sapphire, `${p.slug}: ruby/sapphire shiny sprite differ`);
+    assert.notEqual(s.normal.emerald, s.normal.ruby, `${p.slug}: emerald normal sprite should differ from ruby's`);
+    assert.ok(/^https:\/\/www\.serebii\.net\/.*\.png$/.test(s.artwork), `${p.slug}: artwork not a Serebii .png URL (${s.artwork})`);
+    assert.ok(s.artwork.includes(`/${dex}.png`), `${p.slug}: artwork URL missing dex ${dex} (${s.artwork})`);
+  }
+});
+
 test("content quality: eggGroups + level-up populated; no non-Gen-3 leak moves", () => {
   for (const p of pokemon.values()) {
     assert.ok(p.eggGroups?.length, `${p.slug}: empty eggGroups (should be a group or "Cannot Breed")`);
