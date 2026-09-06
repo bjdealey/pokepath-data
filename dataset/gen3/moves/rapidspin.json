@@ -10,6 +10,7 @@
   "secondaryEffect": "User is becomes free from moves like Wrap, Bind and Leech Seed.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/rapidspin.shtml",
     "scrapedAt": "2026-09-03T19:25:11.984Z"

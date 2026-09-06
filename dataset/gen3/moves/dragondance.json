@@ -10,6 +10,7 @@
   "secondaryEffect": "Raises user's ATTACK and SPEED one stage.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/dragondance.shtml",
     "scrapedAt": "2026-09-03T19:21:22.290Z"

@@ -5,6 +5,7 @@
   "effect": "When taken to Devon Corp in Ruby, Sapphire and Emerald, or Oreburgh Museum in Ruby, Sapphire & Emerald but you can obtain many in later games.",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/clawfossil.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/clawfossil.shtml",
     "scrapedAt": "2026-09-04T23:23:34.295Z"

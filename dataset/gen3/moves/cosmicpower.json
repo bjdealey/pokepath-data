@@ -10,6 +10,7 @@
   "secondaryEffect": "Raises user's DEFENSE and SP. DEF one stage.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/cosmicpower.shtml",
     "scrapedAt": "2026-09-03T19:20:46.283Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "May cause opponent to flinch.",
   "effectRate": 30,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/headbutt.shtml",
     "scrapedAt": "2026-09-03T19:22:40.363Z"

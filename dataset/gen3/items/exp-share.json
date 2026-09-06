@@ -5,6 +5,7 @@
   "effect": "This item, when held by a Pokémon, allows it to earn half the EXP gained from defeating a Pokémon, regardless of if it was used in battle or not. In Pokémon X & Y, the item is now a Key Item and can be turned on or off. Doing so results in all Pokémon receiving the EXP. They receive 100% of the EXP if in battle, and 50% of the EXP if they were not in battle.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/exp-share.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/exp-share.shtml",
     "scrapedAt": "2026-09-04T23:23:34.502Z"

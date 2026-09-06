@@ -10,6 +10,7 @@
   "secondaryEffect": "May raise user's DEFENSE one stage.",
   "effectRate": 10,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/steel.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/steelwing.shtml",
     "scrapedAt": "2026-09-03T19:27:21.048Z"

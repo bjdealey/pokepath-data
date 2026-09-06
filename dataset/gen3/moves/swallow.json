@@ -10,6 +10,7 @@
   "secondaryEffect": "Absorbs power from STOCKPILE and recovers HP.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/swallow.shtml",
     "scrapedAt": "2026-09-03T19:27:43.574Z"

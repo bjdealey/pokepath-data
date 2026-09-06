@@ -5,6 +5,7 @@
   "effect": "It may be used or held by a Pokémon to recover from poison.",
   "price": 80,
   "sellPrice": 40,
+  "sprite": "https://www.serebii.net/itemdex/sprites/pechaberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/pechaberry.shtml",
     "scrapedAt": "2026-09-04T23:23:35.565Z"

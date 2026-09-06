@@ -10,6 +10,7 @@
   "secondaryEffect": "May lower opponent's DEFENSE one stage.",
   "effectRate": 50,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/crushclaw.shtml",
     "scrapedAt": "2026-09-03T19:20:56.787Z"

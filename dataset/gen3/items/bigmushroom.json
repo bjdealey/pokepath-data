@@ -5,6 +5,7 @@
   "effect": "An item you can sell for 2500 In FireRed/LeafGreen, you could exchange one to learn a move in your Pokémon's level up list which it has since forgotten at the Move Relearner in Two Island",
   "price": 10000,
   "sellPrice": 5000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/bigmushroom.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/bigmushroom.shtml",
     "scrapedAt": "2026-09-04T23:23:37.050Z"

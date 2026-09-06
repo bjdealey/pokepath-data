@@ -10,6 +10,7 @@
   "secondaryEffect": "Stops ability reduction.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ice.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/mist.shtml",
     "scrapedAt": "2026-09-03T19:24:11.900Z"

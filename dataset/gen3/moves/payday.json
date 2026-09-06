@@ -10,6 +10,7 @@
   "secondaryEffect": "User gains coins after battle.",
   "effectRate": 100,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/payday.shtml",
     "scrapedAt": "2026-09-03T19:24:37.428Z"

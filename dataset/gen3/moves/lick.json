@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce paralysis.",
   "effectRate": 30,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ghost.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/lick.shtml",
     "scrapedAt": "2026-09-03T19:23:29.902Z"

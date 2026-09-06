@@ -9,6 +9,7 @@
   "effect": "Slams the foe with a long tail, vine, etc.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/slam.shtml",
     "scrapedAt": "2026-09-03T19:26:48.009Z"

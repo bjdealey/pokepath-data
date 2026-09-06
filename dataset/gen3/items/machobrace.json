@@ -5,6 +5,7 @@
   "effect": "This item, when held, doubles the Effort Values the Pokémon earns from each battle. However, it lowers the Pokémon's Speed.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/machobrace.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/machobrace.shtml",
     "scrapedAt": "2026-09-04T23:23:35.161Z"

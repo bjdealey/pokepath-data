@@ -10,6 +10,7 @@
   "secondaryEffect": "User takes recoil damage.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/submission.shtml",
     "scrapedAt": "2026-09-03T19:27:31.541Z"

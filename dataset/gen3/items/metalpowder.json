@@ -5,6 +5,7 @@
   "effect": "When this item is held by a Ditto, the holder's initial Defence & Special Defence stats are increased by 50%",
   "price": 10,
   "sellPrice": 5,
+  "sprite": "https://www.serebii.net/itemdex/sprites/metalpowder.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/metalpowder.shtml",
     "scrapedAt": "2026-09-04T23:23:37.163Z"

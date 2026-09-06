@@ -5,6 +5,7 @@
   "effect": "Heals the Paralysis Status Ailment and awakens the Pokémon.",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/parlyzheal.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/parlyzheal.shtml",
     "scrapedAt": "2026-09-04T23:23:35.514Z"

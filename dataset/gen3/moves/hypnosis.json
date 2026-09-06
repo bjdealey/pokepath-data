@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces sleep.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/hypnosis.shtml",
     "scrapedAt": "2026-09-03T19:23:02.881Z"

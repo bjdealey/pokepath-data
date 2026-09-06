@@ -10,6 +10,7 @@
   "secondaryEffect": "Traps opponent.",
   "effectRate": 100,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/sandtomb.shtml",
     "scrapedAt": "2026-09-03T19:25:47.968Z"

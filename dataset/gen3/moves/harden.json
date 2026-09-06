@@ -10,6 +10,7 @@
   "secondaryEffect": "Raises user's DEFENSE one stage.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/harden.shtml",
     "scrapedAt": "2026-09-03T19:22:37.390Z"

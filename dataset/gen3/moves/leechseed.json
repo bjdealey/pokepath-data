@@ -10,6 +10,7 @@
   "secondaryEffect": "User steals HP from the opponent every turn.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/leechseed.shtml",
     "scrapedAt": "2026-09-03T19:23:26.918Z"

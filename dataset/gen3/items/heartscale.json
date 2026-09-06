@@ -5,6 +5,7 @@
   "effect": "An item with a variety of uses In Ruby, Sapphire & Emerald, give to Move Relearner in Fallabor Town to learn a move in your Pokémon's level up list which it has since forgotten.",
   "price": 100,
   "sellPrice": 50,
+  "sprite": "https://www.serebii.net/itemdex/sprites/heartscale.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/heartscale.shtml",
     "scrapedAt": "2026-09-04T23:23:34.766Z"

@@ -5,6 +5,7 @@
     "number": 1,
     "move": "Cut",
     "moveSlug": "cut",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -20,6 +21,7 @@
     "number": 2,
     "move": "Fly",
     "moveSlug": "fly",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/flying.gif",
     "emerald": {
       "locations": [
         {
@@ -35,6 +37,7 @@
     "number": 3,
     "move": "Surf",
     "moveSlug": "surf",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
     "emerald": {
       "locations": [
         {
@@ -50,6 +53,7 @@
     "number": 4,
     "move": "Strength",
     "moveSlug": "strength",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -65,6 +69,7 @@
     "number": 5,
     "move": "Flash",
     "moveSlug": "flash",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -80,6 +85,7 @@
     "number": 6,
     "move": "Rock Smash",
     "moveSlug": "rocksmash",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
     "emerald": {
       "locations": [
         {
@@ -95,6 +101,7 @@
     "number": 7,
     "move": "Waterfall",
     "moveSlug": "waterfall",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
     "emerald": {
       "locations": [
         {
@@ -110,6 +117,7 @@
     "number": 8,
     "move": "Dive",
     "moveSlug": "dive",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
     "emerald": {
       "locations": [
         {
@@ -125,6 +133,7 @@
     "number": 1,
     "move": "Focus Punch",
     "moveSlug": "focuspunch",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
     "emerald": {
       "locations": [
         {
@@ -140,6 +149,7 @@
     "number": 2,
     "move": "Dragon Claw",
     "moveSlug": "dragonclaw",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
     "emerald": {
       "locations": []
     }
@@ -150,6 +160,7 @@
     "number": 3,
     "move": "Water Pulse",
     "moveSlug": "waterpulse",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
     "emerald": {
       "badge": "Rain Badge",
       "locations": [
@@ -166,6 +177,7 @@
     "number": 4,
     "move": "Calm Mind",
     "moveSlug": "calmmind",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
     "emerald": {
       "badge": "Mind Badge",
       "locations": [
@@ -182,6 +194,7 @@
     "number": 5,
     "move": "Roar",
     "moveSlug": "roar",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -197,6 +210,7 @@
     "number": 6,
     "move": "Toxic",
     "moveSlug": "toxic",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/poison.gif",
     "emerald": {
       "locations": [
         {
@@ -212,6 +226,7 @@
     "number": 7,
     "move": "Hail",
     "moveSlug": "hail",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/ice.gif",
     "emerald": {
       "locations": [
         {
@@ -227,6 +242,7 @@
     "number": 8,
     "move": "Bulk Up",
     "moveSlug": "bulkup",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
     "emerald": {
       "badge": "Knuckle Badge",
       "locations": [
@@ -243,6 +259,7 @@
     "number": 9,
     "move": "Bullet Seed",
     "moveSlug": "bulletseed",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
     "emerald": {
       "locations": [
         {
@@ -258,6 +275,7 @@
     "number": 10,
     "move": "Hidden Power",
     "moveSlug": "hiddenpower",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -273,6 +291,7 @@
     "number": 11,
     "move": "Sunny Day",
     "moveSlug": "sunnyday",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
     "emerald": {
       "locations": [
         {
@@ -288,6 +307,7 @@
     "number": 12,
     "move": "Taunt",
     "moveSlug": "taunt",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
     "emerald": {
       "locations": [
         {
@@ -303,6 +323,7 @@
     "number": 13,
     "move": "Ice Beam",
     "moveSlug": "icebeam",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/ice.gif",
     "emerald": {
       "locations": []
     }
@@ -313,6 +334,7 @@
     "number": 14,
     "move": "Blizzard",
     "moveSlug": "blizzard",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/ice.gif",
     "emerald": {
       "locations": []
     }
@@ -323,6 +345,7 @@
     "number": 15,
     "move": "Hyper Beam",
     "moveSlug": "hyperbeam",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": []
     }
@@ -333,6 +356,7 @@
     "number": 16,
     "move": "Light Screen",
     "moveSlug": "lightscreen",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
     "emerald": {
       "locations": []
     }
@@ -343,6 +367,7 @@
     "number": 17,
     "move": "Protect",
     "moveSlug": "protect",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": []
     }
@@ -353,6 +378,7 @@
     "number": 18,
     "move": "Rain Dance",
     "moveSlug": "raindance",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
     "emerald": {
       "locations": []
     }
@@ -363,6 +389,7 @@
     "number": 19,
     "move": "Giga Drain",
     "moveSlug": "gigadrain",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
     "emerald": {
       "locations": [
         {
@@ -378,6 +405,7 @@
     "number": 20,
     "move": "Safeguard",
     "moveSlug": "safeguard",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": []
     }
@@ -388,6 +416,7 @@
     "number": 21,
     "move": "Frustration",
     "moveSlug": "frustration",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -403,6 +432,7 @@
     "number": 22,
     "move": "Solarbeam",
     "moveSlug": "solarbeam",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
     "emerald": {
       "locations": []
     }
@@ -413,6 +443,7 @@
     "number": 23,
     "move": "Iron Tail",
     "moveSlug": "irontail",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/steel.gif",
     "emerald": {
       "locations": []
     }
@@ -423,6 +454,7 @@
     "number": 24,
     "move": "Thunderbolt",
     "moveSlug": "thunderbolt",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/electric.gif",
     "emerald": {
       "locations": [
         {
@@ -438,6 +470,7 @@
     "number": 25,
     "move": "Thunder",
     "moveSlug": "thunder",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/electric.gif",
     "emerald": {
       "locations": []
     }
@@ -448,6 +481,7 @@
     "number": 26,
     "move": "Earthquake",
     "moveSlug": "earthquake",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
     "emerald": {
       "locations": []
     }
@@ -458,6 +492,7 @@
     "number": 27,
     "move": "Return",
     "moveSlug": "return",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -477,6 +512,7 @@
     "number": 28,
     "move": "Dig",
     "moveSlug": "dig",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
     "emerald": {
       "locations": [
         {
@@ -492,6 +528,7 @@
     "number": 29,
     "move": "Psychic",
     "moveSlug": "psychic",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
     "emerald": {
       "locations": [
         {
@@ -507,6 +544,7 @@
     "number": 30,
     "move": "Shadow Ball",
     "moveSlug": "shadowball",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/ghost.gif",
     "emerald": {
       "locations": []
     }
@@ -517,6 +555,7 @@
     "number": 31,
     "move": "Brick Break",
     "moveSlug": "brickbreak",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
     "emerald": {
       "locations": [
         {
@@ -532,6 +571,7 @@
     "number": 32,
     "move": "Double Team",
     "moveSlug": "doubleteam",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -551,6 +591,7 @@
     "number": 33,
     "move": "Reflect",
     "moveSlug": "reflect",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
     "emerald": {
       "locations": []
     }
@@ -561,6 +602,7 @@
     "number": 34,
     "move": "Shock Wave",
     "moveSlug": "shockwave",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/electric.gif",
     "emerald": {
       "badge": "Dynamo Badge",
       "locations": [
@@ -577,6 +619,7 @@
     "number": 35,
     "move": "Flamethrower",
     "moveSlug": "flamethrower",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
     "emerald": {
       "locations": []
     }
@@ -587,6 +630,7 @@
     "number": 36,
     "move": "Sludge Bomb",
     "moveSlug": "sludgebomb",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/poison.gif",
     "emerald": {
       "locations": []
     }
@@ -597,6 +641,7 @@
     "number": 37,
     "move": "Sandstorm",
     "moveSlug": "sandstorm",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/rock.gif",
     "emerald": {
       "locations": [
         {
@@ -612,6 +657,7 @@
     "number": 38,
     "move": "Fire Blast",
     "moveSlug": "fireblast",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
     "emerald": {
       "locations": []
     }
@@ -622,6 +668,7 @@
     "number": 39,
     "move": "Rock Tomb",
     "moveSlug": "rocktomb",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/rock.gif",
     "emerald": {
       "badge": "Stone Badge",
       "locations": [
@@ -638,6 +685,7 @@
     "number": 40,
     "move": "Aerial Ace",
     "moveSlug": "aerialace",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/flying.gif",
     "emerald": {
       "badge": "Feather Badge",
       "locations": [
@@ -654,6 +702,7 @@
     "number": 41,
     "move": "Torment",
     "moveSlug": "torment",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
     "emerald": {
       "locations": [
         {
@@ -669,6 +718,7 @@
     "number": 42,
     "move": "Facade",
     "moveSlug": "facade",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "badge": "Balance Badge",
       "locations": [
@@ -685,6 +735,7 @@
     "number": 43,
     "move": "Secret Power",
     "moveSlug": "secretpower",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": [
         {
@@ -700,6 +751,7 @@
     "number": 44,
     "move": "Rest",
     "moveSlug": "rest",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
     "emerald": {
       "locations": []
     }
@@ -710,6 +762,7 @@
     "number": 45,
     "move": "Attract",
     "moveSlug": "attract",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
     "emerald": {
       "locations": []
     }
@@ -720,6 +773,7 @@
     "number": 46,
     "move": "Thief",
     "moveSlug": "thief",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
     "emerald": {
       "locations": [
         {
@@ -735,6 +789,7 @@
     "number": 47,
     "move": "Steel Wing",
     "moveSlug": "steelwing",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/steel.gif",
     "emerald": {
       "locations": []
     }
@@ -745,6 +800,7 @@
     "number": 48,
     "move": "Skill Swap",
     "moveSlug": "skillswap",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
     "emerald": {
       "locations": []
     }
@@ -755,6 +811,7 @@
     "number": 49,
     "move": "Snatch",
     "moveSlug": "snatch",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
     "emerald": {
       "locations": [
         {
@@ -770,6 +827,7 @@
     "number": 50,
     "move": "Overheat",
     "moveSlug": "overheat",
+    "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
     "emerald": {
       "badge": "Heat Badge",
       "locations": [

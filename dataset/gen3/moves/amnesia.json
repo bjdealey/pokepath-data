@@ -10,6 +10,7 @@
   "secondaryEffect": "Raises user's SP. DEF two stages.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/amnesia.shtml",
     "scrapedAt": "2026-09-03T19:19:45.939Z"

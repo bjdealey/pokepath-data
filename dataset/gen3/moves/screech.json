@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers opponent's DEFENSE two stages.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/screech.shtml",
     "scrapedAt": "2026-09-03T19:25:52.474Z"

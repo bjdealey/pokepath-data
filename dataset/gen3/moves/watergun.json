@@ -9,6 +9,7 @@
   "effect": "Squirts water to attack the foe.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/watergun.shtml",
     "scrapedAt": "2026-09-03T19:28:36.228Z"

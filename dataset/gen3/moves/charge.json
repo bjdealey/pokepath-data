@@ -10,6 +10,7 @@
   "secondaryEffect": "Increases the power of the next ELECTRIC attack.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/electric.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/charge.shtml",
     "scrapedAt": "2026-09-03T19:20:32.830Z"

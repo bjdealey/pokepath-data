@@ -5,6 +5,7 @@
   "effect": "A stone that evolves the following Pokémon",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/moonstone.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/moonstone.shtml",
     "scrapedAt": "2026-09-04T23:23:35.307Z"

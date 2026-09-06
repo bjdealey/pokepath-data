@@ -9,6 +9,7 @@
   "effect": "A brutal ramming attack using out-thrust horns.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/bug.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/megahorn.shtml",
     "scrapedAt": "2026-09-03T19:23:49.447Z"

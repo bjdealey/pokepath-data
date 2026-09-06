@@ -10,6 +10,7 @@
   "secondaryEffect": "User changes type into an own move's type.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/conversion.shtml",
     "scrapedAt": "2026-09-03T19:20:43.327Z"

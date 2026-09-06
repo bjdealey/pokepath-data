@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces burn.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/will-o-wisp.shtml",
     "scrapedAt": "2026-09-03T19:28:46.620Z"

@@ -5,6 +5,7 @@
   "effect": "The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm29.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm29.shtml",
     "scrapedAt": "2026-09-04T23:23:36.616Z"

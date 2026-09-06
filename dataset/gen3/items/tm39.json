@@ -5,6 +5,7 @@
   "effect": "Large boulders are hurled at the foe to inflict damage. It lowers the foe's Speed.",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm39.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm39.shtml",
     "scrapedAt": "2026-09-04T23:23:36.690Z"

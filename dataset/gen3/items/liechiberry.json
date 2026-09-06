@@ -5,6 +5,7 @@
   "effect": "If held by a Pokémon, it raises its Attack stat in a pinch.",
   "price": 80,
   "sellPrice": 40,
+  "sprite": "https://www.serebii.net/itemdex/sprites/liechiberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/liechiberry.shtml",
     "scrapedAt": "2026-09-04T23:23:35.105Z"

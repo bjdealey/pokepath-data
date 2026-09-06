@@ -10,6 +10,7 @@
   "secondaryEffect": "User changes type depending on the location.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/camouflage.shtml",
     "scrapedAt": "2026-09-03T19:20:31.265Z"

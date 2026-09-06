@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces CONFUSE. Raises opponent's ATTACK two stages.",
   "effectRate": 100,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/swagger.shtml",
     "scrapedAt": "2026-09-03T19:27:42.119Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "Raises user's DEFENSE one stage.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/withdraw.shtml",
     "scrapedAt": "2026-09-03T19:28:51.155Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "May lower opponent's ACCURACY one stage.",
   "effectRate": 50,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/octazooka.shtml",
     "scrapedAt": "2026-09-03T19:24:29.879Z"

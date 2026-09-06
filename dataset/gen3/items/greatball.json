@@ -5,6 +5,7 @@
   "effect": "The Great Ball is a standard PokéBall you can obtain. It has a 1.5x Capture rate that increases the likelihood of capturing a Pokémon.CatchValue = ((( 3 * Max HP - 2 * HP ) * (Catch Rate * 1.5 ) / (3 * Max HP) ) * Status Modifier",
   "price": 600,
   "sellPrice": 300,
+  "sprite": "https://www.serebii.net/itemdex/sprites/greatball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/greatball.shtml",
     "scrapedAt": "2026-09-04T23:23:34.597Z"

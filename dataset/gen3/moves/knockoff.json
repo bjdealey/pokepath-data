@@ -10,6 +10,7 @@
   "secondaryEffect": "Knocks down opponent's held item to prevent its use.",
   "effectRate": 100,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/knockoff.shtml",
     "scrapedAt": "2026-09-03T19:23:22.449Z"

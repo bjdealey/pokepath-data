@@ -5,6 +5,7 @@
   "effect": "Teleports you to the entrance of the cave. Only usable in caves.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/escaperope.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/escaperope.shtml",
     "scrapedAt": "2026-09-04T23:23:34.473Z"

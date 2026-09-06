@@ -10,6 +10,7 @@
   "secondaryEffect": "Has high critical hit ratio.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/karatechop.shtml",
     "scrapedAt": "2026-09-03T19:23:19.385Z"

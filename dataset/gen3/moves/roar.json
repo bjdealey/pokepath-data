@@ -10,6 +10,7 @@
   "secondaryEffect": "Ends battle. Switches the opponent Pokémon in a trainer battle.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/roar.shtml",
     "scrapedAt": "2026-09-03T19:25:28.546Z"

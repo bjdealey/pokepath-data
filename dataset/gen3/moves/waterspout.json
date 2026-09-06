@@ -10,6 +10,7 @@
   "secondaryEffect": "Inflicts more damage when the user's HP is high.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/waterspout.shtml",
     "scrapedAt": "2026-09-03T19:28:40.690Z"

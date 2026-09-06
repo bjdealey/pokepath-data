@@ -5,6 +5,7 @@
   "effect": "If held by a Pokémon, it weakens a foe's supereffective Fire-type attack.",
   "price": 80,
   "sellPrice": 40,
+  "sprite": "https://www.serebii.net/itemdex/sprites/occaberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/occaberry.shtml",
     "scrapedAt": "2026-09-04T23:23:35.446Z"

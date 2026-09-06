@@ -10,6 +10,7 @@
   "secondaryEffect": "May lower opponent's SPEED one stage.",
   "effectRate": 100,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/mudshot.shtml",
     "scrapedAt": "2026-09-03T19:24:20.951Z"

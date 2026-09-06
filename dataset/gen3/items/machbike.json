@@ -5,6 +5,7 @@
   "effect": "This item increases the speed you can travel on the overworld. It has multiple speed settings which you can toggle with the B-button. The fastest speed will allow you to ride up certain cliffs.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/machbike.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/machbike.shtml",
     "scrapedAt": "2026-09-04T23:23:35.145Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "Inflicts damage equal to the user's level.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/seismictoss.shtml",
     "scrapedAt": "2026-09-03T19:25:55.588Z"

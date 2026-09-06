@@ -9,6 +9,7 @@
   "effect": "Slashes the foe with sharp claws.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/dragonclaw.shtml",
     "scrapedAt": "2026-09-03T19:21:20.773Z"

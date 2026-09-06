@@ -5,6 +5,7 @@
   "effect": "Heals a Pokémon by 20HP",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/potion.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/potion.shtml",
     "scrapedAt": "2026-09-04T23:23:35.689Z"

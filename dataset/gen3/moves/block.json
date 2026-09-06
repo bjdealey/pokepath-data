@@ -10,6 +10,7 @@
   "secondaryEffect": "Prevents the opponent from escaping.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/block.shtml",
     "scrapedAt": "2026-09-03T19:20:13.240Z"

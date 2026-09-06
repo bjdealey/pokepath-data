@@ -9,6 +9,7 @@
   "effect": "Cuts the foe with sharp scythes, claws, etc.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/cut.shtml",
     "scrapedAt": "2026-09-03T19:20:59.854Z"

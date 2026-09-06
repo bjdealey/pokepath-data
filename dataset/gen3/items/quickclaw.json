@@ -5,6 +5,7 @@
   "effect": "When this item is held, the user has a 18.75% (Gen 3 & 4), or 20% (Gen 5 & beyond) chance of attacking first if the moves all Pokémon use are within the same Speed Priority level.",
   "price": 8000,
   "sellPrice": 4000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/quickclaw.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/quickclaw.shtml",
     "scrapedAt": "2026-09-04T23:23:35.805Z"

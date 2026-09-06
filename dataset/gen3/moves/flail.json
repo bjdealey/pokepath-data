@@ -10,6 +10,7 @@
   "secondaryEffect": "Inflicts more damage when the user's HP is down.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/flail.shtml",
     "scrapedAt": "2026-09-03T19:21:59.887Z"

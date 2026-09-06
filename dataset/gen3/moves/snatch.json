@@ -10,6 +10,7 @@
   "secondaryEffect": "Steals the effects of opponent's next move.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/snatch.shtml",
     "scrapedAt": "2026-09-03T19:27:01.583Z"

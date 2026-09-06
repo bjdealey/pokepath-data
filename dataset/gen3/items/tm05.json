@@ -5,6 +5,7 @@
   "effect": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm05.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm05.shtml",
     "scrapedAt": "2026-09-04T23:23:36.434Z"

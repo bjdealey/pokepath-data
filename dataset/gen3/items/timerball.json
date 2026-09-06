@@ -5,6 +5,7 @@
   "effect": "The Timer Ball is a PokéBall that works best on Pokémon as the duration of battle increases. If up to 10 turns have taken place, the Capture Rate is 1. If between 11 & 20 turns have taken place then the Capture Rate is 2. If between 21 & 30 turns have taken place then the Capture Rate is 3. Finally, if over 30 turns have taken place, the Capture Rate is 4.",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/timerball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/timerball.shtml",
     "scrapedAt": "2026-09-04T23:23:36.316Z"

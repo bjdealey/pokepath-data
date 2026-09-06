@@ -5,6 +5,7 @@
   "effect": "It swamps the entire battlefield with a giant wave. It can also be used to cross water.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/hm03.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/hm03.shtml",
     "scrapedAt": "2026-09-04T23:23:34.813Z"

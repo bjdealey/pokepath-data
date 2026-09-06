@@ -10,6 +10,7 @@
   "secondaryEffect": "Causes Sunshine for 5 rounds.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/sunnyday.shtml",
     "scrapedAt": "2026-09-03T19:27:34.668Z"

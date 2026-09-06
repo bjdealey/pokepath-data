@@ -10,6 +10,7 @@
   "secondaryEffect": "Causes Hailstorm for 5 rounds.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ice.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/hail.shtml",
     "scrapedAt": "2026-09-03T19:22:35.827Z"

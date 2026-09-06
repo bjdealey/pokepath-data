@@ -5,6 +5,7 @@
   "effect": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.",
   "price": 1500,
   "sellPrice": 750,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm08.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm08.shtml",
     "scrapedAt": "2026-09-04T23:23:36.476Z"

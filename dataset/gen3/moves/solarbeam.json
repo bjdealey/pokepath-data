@@ -10,6 +10,7 @@
   "secondaryEffect": "Wait for a turn and attacks the next.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/solarbeam.shtml",
     "scrapedAt": "2026-09-03T19:27:06.058Z"

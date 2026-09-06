@@ -10,6 +10,7 @@
   "secondaryEffect": "Leaves the foe with at least 1 HP.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/falseswipe.shtml",
     "scrapedAt": "2026-09-03T19:21:50.814Z"

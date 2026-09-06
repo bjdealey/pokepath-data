@@ -10,6 +10,7 @@
   "secondaryEffect": "Prevents all status problems.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/safeguard.shtml",
     "scrapedAt": "2026-09-03T19:25:43.512Z"

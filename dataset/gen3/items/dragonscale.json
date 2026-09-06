@@ -5,6 +5,7 @@
   "effect": "In Gold, Silver & Crystal, this hold item boosts Dragon-type moves by 10%. This item, when attached to a Pokémon and traded, evolves the following Pokémon",
   "price": 2100,
   "sellPrice": 1050,
+  "sprite": "https://www.serebii.net/itemdex/sprites/dragonscale.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/dragonscale.shtml",
     "scrapedAt": "2026-09-04T23:23:37.073Z"

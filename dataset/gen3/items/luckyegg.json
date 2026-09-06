@@ -5,6 +5,7 @@
   "effect": "When the Pokémon holding this item gains EXP, the EXP gained is increased by 50%.",
   "price": 10000,
   "sellPrice": 5000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/luckyegg.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/luckyegg.shtml",
     "scrapedAt": "2026-09-04T23:23:37.125Z"

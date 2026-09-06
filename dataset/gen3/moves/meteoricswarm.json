@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers user's SP. ATK two stages.",
   "effectRate": 100,
   "contestType": "na",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/meteoricswarm.shtml",
     "scrapedAt": "2026-09-03T19:23:58.354Z"

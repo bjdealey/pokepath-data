@@ -5,6 +5,7 @@
   "effect": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
   "price": 1500,
   "sellPrice": 750,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm04.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm04.shtml",
     "scrapedAt": "2026-09-04T23:23:36.419Z"

@@ -9,6 +9,7 @@
   "effect": "Jabs the foe with sharp horns.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/hornattack.shtml",
     "scrapedAt": "2026-09-03T19:22:50.883Z"

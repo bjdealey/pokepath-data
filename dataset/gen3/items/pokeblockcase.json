@@ -5,6 +5,7 @@
   "effect": "This item allows you to store PokéBlocks. You have the ability of accessing the PokéBlocks and feeding them to your Pokémon with this item. This item is required for entry to the Safari Zone in Hoenn This item is necessary for entry into the Pokémon Contest in Pokémon Emerald",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/pokeblockcase.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/pokeblockcase.shtml",
     "scrapedAt": "2026-09-04T23:23:35.629Z"

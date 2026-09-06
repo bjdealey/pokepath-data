@@ -5,6 +5,7 @@
   "effect": "If this item is held by a Pokémon and you try to run away, you will be guaranteed to run.",
   "price": 15000,
   "sellPrice": 7500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/smokeball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/smokeball.shtml",
     "scrapedAt": "2026-09-04T23:23:36.085Z"

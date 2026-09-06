@@ -10,6 +10,7 @@
   "secondaryEffect": "If hit by a physical attack, deals double the damage received.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/counter.shtml",
     "scrapedAt": "2026-09-03T19:20:49.388Z"

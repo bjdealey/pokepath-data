@@ -10,6 +10,7 @@
   "secondaryEffect": "User cannot attack on the next turn.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/hyperbeam.shtml",
     "scrapedAt": "2026-09-03T19:22:58.389Z"

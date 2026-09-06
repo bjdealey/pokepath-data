@@ -10,6 +10,7 @@
   "secondaryEffect": "Inflicts 20 HP damage.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/sonicboom.shtml",
     "scrapedAt": "2026-09-03T19:27:07.626Z"

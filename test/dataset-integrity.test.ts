@@ -85,6 +85,32 @@ test("pokemon: sprites present, per-game normal+shiny + artwork, dex-correct URL
   }
 });
 
+test("items/moves/machines/type-icons: image URLs present and well-formed", () => {
+  const isSerebii = (u: string) => /^https:\/\/www\.serebii\.net\/.+\.(png|gif)$/.test(u);
+  // Items: a unique ItemDex icon whose filename is the item slug.
+  for (const i of items.values()) {
+    assert.ok(i.sprite, `item ${i.slug}: missing sprite`);
+    assert.ok(isSerebii(i.sprite), `item ${i.slug}: sprite not a Serebii image URL (${i.sprite})`);
+    assert.ok(String(i.sprite).endsWith(`/itemdex/sprites/${i.slug}.png`), `item ${i.slug}: sprite filename != slug (${i.sprite})`);
+  }
+  // Moves: a type badge for the move's type.
+  for (const m of moves.values()) {
+    assert.ok(m.typeIcon && isSerebii(m.typeIcon), `move ${m.slug}: missing/invalid typeIcon (${m.typeIcon})`);
+    assert.ok(String(m.typeIcon).includes("/type/"), `move ${m.slug}: typeIcon not a type badge (${m.typeIcon})`);
+  }
+  // Machines: a type badge, for every machine whose move resolves.
+  for (const mc of machines) {
+    if (!mc.moveSlug) continue;
+    assert.ok(mc.typeIcon && isSerebii(mc.typeIcon), `machine ${mc.machine}: missing/invalid typeIcon (${mc.typeIcon})`);
+  }
+  // type-icons.json mirrors the type chart exactly, one badge per type.
+  const typeIcons = readJson("type-icons.json") as Record<string, string>;
+  assert.deepEqual(Object.keys(typeIcons).sort(), Object.keys(typechart).sort(), "type-icons keys != typechart types");
+  for (const [t, url] of Object.entries(typeIcons)) {
+    assert.ok(isSerebii(url) && url.includes(`/type/${t}.gif`), `type-icon ${t}: bad URL ${url}`);
+  }
+});
+
 test("content quality: eggGroups + level-up populated; no non-Gen-3 leak moves", () => {
   for (const p of pokemon.values()) {
     assert.ok(p.eggGroups?.length, `${p.slug}: empty eggGroups (should be a group or "Cannot Breed")`);

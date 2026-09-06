@@ -10,6 +10,7 @@
   "secondaryEffect": "Evades opponents next attack; the move's accuracy drops.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/protect.shtml",
     "scrapedAt": "2026-09-03T19:24:57.098Z"

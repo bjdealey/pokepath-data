@@ -10,6 +10,7 @@
   "secondaryEffect": "Move power is random: 10/30/50/70/90/110/150.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/magnitude.shtml",
     "scrapedAt": "2026-09-03T19:23:43.445Z"

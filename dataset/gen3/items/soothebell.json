@@ -5,6 +5,7 @@
   "effect": "When this item is held by a Pokémon, the Happiness earned by the Pokémon is doubled.",
   "price": 5000,
   "sellPrice": 2500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/soothebell.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/soothebell.shtml",
     "scrapedAt": "2026-09-04T23:23:36.117Z"

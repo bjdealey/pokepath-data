@@ -5,6 +5,7 @@
   "effect": "The PokéBall is the standard PokéBall you can obtain. It has a 1x Capture rate that doesn't increase the chances of capturing a Pokémon.CatchValue = ((( 3 * Max HP - 2 * HP ) * (Catch Rate * 1 ) / (3 * Max HP) ) * Status Modifier",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/pokeball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/pokeball.shtml",
     "scrapedAt": "2026-09-04T23:23:35.615Z"

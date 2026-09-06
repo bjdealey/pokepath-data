@@ -9,6 +9,7 @@
   "effect": "Blasts water at high power to strike the foe.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/hydropump.shtml",
     "scrapedAt": "2026-09-03T19:22:56.878Z"

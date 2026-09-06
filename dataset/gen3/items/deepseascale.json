@@ -5,6 +5,7 @@
   "effect": "If the DeepSeaScale is held by Clamperl, the holder's Special Defence is doubled. This item, when held by a Pokémon and the Pokémon is traded evolves the following Pokémon",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/deepseascale.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/deepseascale.shtml",
     "scrapedAt": "2026-09-04T23:23:34.354Z"
