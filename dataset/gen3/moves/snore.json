@@ -10,6 +10,7 @@
   "secondaryEffect": "Can only be used while asleep.",
   "effectRate": 30,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/snore.shtml",
     "scrapedAt": "2026-09-03T19:27:03.081Z"

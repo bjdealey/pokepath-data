@@ -5,6 +5,7 @@
   "effect": "The user torments and enrages the foe, making it incapable of using the same move twice in a row.",
   "price": 1500,
   "sellPrice": 750,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm41.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm41.shtml",
     "scrapedAt": "2026-09-04T23:23:36.719Z"

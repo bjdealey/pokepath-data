@@ -5,6 +5,7 @@
   "effect": "The Ultra Ball is a standard PokéBall you can obtain. It has a 2x Capture rate that increases the likelihood of capturing a Pokémon.CatchValue = ((( 3 * Max HP - 2 * HP ) * (Catch Rate * 2 ) / (3 * Max HP) ) * Status Modifier",
   "price": 800,
   "sellPrice": 400,
+  "sprite": "https://www.serebii.net/itemdex/sprites/ultraball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/ultraball.shtml",
     "scrapedAt": "2026-09-04T23:23:36.805Z"

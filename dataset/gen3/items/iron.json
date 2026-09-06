@@ -5,6 +5,7 @@
   "effect": "Increases the Effort Values for the Pokémon's Defence stat up by 10EVs until the Pokémon hits 100EVs in this stat.",
   "price": 10000,
   "sellPrice": 5000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/iron.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/iron.shtml",
     "scrapedAt": "2026-09-04T23:23:34.964Z"

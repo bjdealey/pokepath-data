@@ -5,6 +5,7 @@
   "effect": "The user steals the effects of any healing or status-changing move the foe attempts to use.",
   "price": 1500,
   "sellPrice": 750,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm49.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm49.shtml",
     "scrapedAt": "2026-09-04T23:23:36.774Z"

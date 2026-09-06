@@ -9,6 +9,7 @@
   "effect": "Strikes the foe with wings spread wide.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/flying.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/wingattack.shtml",
     "scrapedAt": "2026-09-03T19:28:48.134Z"

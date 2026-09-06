@@ -10,6 +10,7 @@
   "secondaryEffect": "Move's power raises if it hits.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/bug.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/furycutter.shtml",
     "scrapedAt": "2026-09-03T19:22:19.401Z"

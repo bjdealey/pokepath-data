@@ -5,6 +5,7 @@
   "effect": "The foe is hit with a pulsing blast of water. It may also confuse the target.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm03.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm03.shtml",
     "scrapedAt": "2026-09-04T23:23:36.407Z"

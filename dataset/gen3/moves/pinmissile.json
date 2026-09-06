@@ -10,6 +10,7 @@
   "secondaryEffect": "Attacks 2-5 times in a row.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/bug.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/pinmissile.shtml",
     "scrapedAt": "2026-09-03T19:24:43.464Z"

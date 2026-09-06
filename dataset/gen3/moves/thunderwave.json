@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces paralysis",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/electric.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/thunderwave.shtml",
     "scrapedAt": "2026-09-03T19:28:12.112Z"

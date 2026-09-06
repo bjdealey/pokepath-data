@@ -5,6 +5,7 @@
   "effect": "Completely restores the PP of one of the Pokémon's moves",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/maxether.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/maxether.shtml",
     "scrapedAt": "2026-09-04T23:23:35.220Z"

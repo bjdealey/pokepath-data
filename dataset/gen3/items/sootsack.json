@@ -5,6 +5,7 @@
   "effect": "This item is used to store Soot collected by walking through Route 113. The soot is gained per step and exchanged in Route 113 for items",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/sootsack.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/sootsack.shtml",
     "scrapedAt": "2026-09-04T23:23:36.131Z"

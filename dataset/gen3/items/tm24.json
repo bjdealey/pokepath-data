@@ -5,6 +5,7 @@
   "effect": "A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm24.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm24.shtml",
     "scrapedAt": "2026-09-04T23:23:36.576Z"

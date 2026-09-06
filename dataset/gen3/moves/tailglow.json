@@ -10,6 +10,7 @@
   "secondaryEffect": "Raises user's SP. ATK two stages.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/bug.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/tailglow.shtml",
     "scrapedAt": "2026-09-03T19:27:54.089Z"

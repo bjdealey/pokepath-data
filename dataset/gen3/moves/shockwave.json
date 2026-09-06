@@ -10,6 +10,7 @@
   "secondaryEffect": "Cannot miss.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/electric.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/shockwave.shtml",
     "scrapedAt": "2026-09-03T19:26:33.052Z"

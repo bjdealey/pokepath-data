@@ -10,6 +10,7 @@
   "secondaryEffect": "Switches out the user but status changes remain.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/batonpass.shtml",
     "scrapedAt": "2026-09-03T19:19:59.695Z"

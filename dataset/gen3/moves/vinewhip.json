@@ -9,6 +9,7 @@
   "effect": "Strikes the foe with slender, whiplike vines.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/vinewhip.shtml",
     "scrapedAt": "2026-09-03T19:28:30.097Z"

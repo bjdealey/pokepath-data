@@ -5,6 +5,7 @@
   "effect": "An item you can sell for 1000",
   "price": 6000,
   "sellPrice": 3000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/stardust.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/stardust.shtml",
     "scrapedAt": "2026-09-04T23:23:36.183Z"

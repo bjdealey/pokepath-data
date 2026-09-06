@@ -9,6 +9,7 @@
   "effect": "Charges the foe with speed to climb waterfalls.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/waterfall.shtml",
     "scrapedAt": "2026-09-03T19:28:34.685Z"

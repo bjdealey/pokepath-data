@@ -5,6 +5,7 @@
   "effect": "Heals all Status Ailments; Poison, Burn, Paralysis, Frozen & Sleep on one Pokémon, but also lowers the Pokémon's Happiness.",
   "price": 300,
   "sellPrice": 150,
+  "sprite": "https://www.serebii.net/itemdex/sprites/healpowder.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/healpowder.shtml",
     "scrapedAt": "2026-09-04T23:23:34.749Z"

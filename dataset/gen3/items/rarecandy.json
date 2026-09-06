@@ -5,6 +5,7 @@
   "effect": "Raises a Pokémon's level by 1. Increases their Happiness.",
   "price": 10000,
   "sellPrice": 5000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/rarecandy.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/rarecandy.shtml",
     "scrapedAt": "2026-09-04T23:23:35.838Z"

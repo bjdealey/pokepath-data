@@ -5,6 +5,7 @@
   "effect": "A broken piece of a bigger plate. In Ruby, Sapphire & Emerald, it can be exchanged in Route 124 for a Fire Stone",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/redshard.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/redshard.shtml",
     "scrapedAt": "2026-09-04T23:23:35.889Z"

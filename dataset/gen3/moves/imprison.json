@@ -10,6 +10,7 @@
   "secondaryEffect": "Opponent cannot use move that user knows.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/imprison.shtml",
     "scrapedAt": "2026-09-03T19:23:11.852Z"

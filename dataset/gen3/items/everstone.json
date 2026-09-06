@@ -5,6 +5,7 @@
   "effect": "When this item is held by a Pokémon, it will be prevented from evolving by Level Up means. In Emerald, Diamond, Pearl, Platinum, HeartGold & SoulSilver, if a Female Pokémon or a Ditto holds this in the Breeding Centre and breeds, there is a 50% chance of the offspring retaining the holder's nature.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/everstone.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/everstone.shtml",
     "scrapedAt": "2026-09-04T23:23:37.089Z"

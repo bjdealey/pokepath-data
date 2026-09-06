@@ -5,6 +5,7 @@
   "effect": "This item allows you to search for items hidden in the overworld. When you use the item, it will beep if you are near a hidden item.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/itemfinder.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/itemfinder.shtml",
     "scrapedAt": "2026-09-04T23:23:34.976Z"

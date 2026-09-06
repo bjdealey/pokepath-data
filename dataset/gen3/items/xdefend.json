@@ -5,6 +5,7 @@
   "effect": "In battle, it raises the Pokémon's Defence by 1 stage until the battle is over or the Pokémon is withdrawn. Increases Pokémon's Happiness.",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/xdefend.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/xdefend.shtml",
     "scrapedAt": "2026-09-04T23:23:36.899Z"

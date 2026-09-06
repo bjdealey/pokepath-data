@@ -5,6 +5,7 @@
   "effect": "This item, once recovered, is to be taken to the president of Devon Corp. You get the Letter to deliver to Steven. Then, later on, you get given it to deliver to Captain Stern.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/devongoods.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/devongoods.shtml",
     "scrapedAt": "2026-09-04T23:23:34.384Z"

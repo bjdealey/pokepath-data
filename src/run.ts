@@ -194,9 +194,9 @@ if (!entity || entity === "pokemon") {
     console.log(`✔ ${game}: ${r.targets} shiny targets ${JSON.stringify(r.byMethod)} → games/${game}/shiny-targets.json`);
   }
 } else if (entity === "sprites") {
-  console.log(`▶ baking Serebii sprite URLs into Pokémon records…`);
+  console.log(`▶ baking Serebii sprite/icon URLs into records…`);
   const r = deriveSprites();
-  console.log(`✔ ${r.pokemon} pokemon enriched with sprites (normal+shiny per game + artwork) → dataset/${GEN}/pokemon/`);
+  console.log(`✔ sprites/icons → dataset/${GEN}/: ${r.pokemon} pokemon, ${r.items} items, ${r.moves} moves, ${r.machines} machines, ${r.types} type icons (type-icons.json)`);
 } else if (entity === "locations") {
   for (const game of ALL_GAMES) {
     const r = deriveLocations(game);

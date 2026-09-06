@@ -10,6 +10,7 @@
   "effectRate": null,
   "contestType": "na",
   "gameExclusive": true,
+  "typeIcon": "https://www.serebii.net/attackdex/type/shadow.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/shadowsky.shtml",
     "scrapedAt": "2026-09-03T19:26:25.517Z"

@@ -5,6 +5,7 @@
   "effect": "Heals a Pokémon by 200HP",
   "price": 1500,
   "sellPrice": 750,
+  "sprite": "https://www.serebii.net/itemdex/sprites/hyperpotion.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/hyperpotion.shtml",
     "scrapedAt": "2026-09-04T23:23:34.919Z"

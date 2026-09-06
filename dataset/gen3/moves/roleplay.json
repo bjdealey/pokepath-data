@@ -10,6 +10,7 @@
   "secondaryEffect": "Copies target's ability.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/roleplay.shtml",
     "scrapedAt": "2026-09-03T19:25:37.450Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "Depends on the weather.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/weatherball.shtml",
     "scrapedAt": "2026-09-03T19:28:42.062Z"

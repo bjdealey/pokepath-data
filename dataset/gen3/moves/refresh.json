@@ -10,6 +10,7 @@
   "secondaryEffect": "Heals poisoning, paralysis, or a burn.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/refresh.shtml",
     "scrapedAt": "2026-09-03T19:25:21.007Z"

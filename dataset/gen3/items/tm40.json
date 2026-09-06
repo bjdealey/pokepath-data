@@ -5,6 +5,7 @@
   "effect": "The user confounds the foe with speed, then strikes. The attack lands without fail.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm40.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm40.shtml",
     "scrapedAt": "2026-09-04T23:23:36.703Z"

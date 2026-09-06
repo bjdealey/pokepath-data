@@ -5,6 +5,7 @@
   "effect": "The Repeat Ball is a PokéBall that works best on Pokémon of a species which you have already captured or obtained. If the Pokémon is already in your Pokédex, the Capture Rate is 3. If however, it is not in the Pokédex, it has a Capture Rate of 1",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/repeatball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/repeatball.shtml",
     "scrapedAt": "2026-09-04T23:23:35.902Z"

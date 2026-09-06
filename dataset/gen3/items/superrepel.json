@@ -5,6 +5,7 @@
   "effect": "Prevents Wild Pokémon of a level lower to the first Pokémon in your party from challenging you for 200 steps.",
   "price": 500,
   "sellPrice": 250,
+  "sprite": "https://www.serebii.net/itemdex/sprites/superrepel.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/superrepel.shtml",
     "scrapedAt": "2026-09-04T23:23:36.251Z"

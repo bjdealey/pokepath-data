@@ -10,6 +10,7 @@
   "secondaryEffect": "Has high critical hit ratio.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/leafblade.shtml",
     "scrapedAt": "2026-09-03T19:23:23.903Z"

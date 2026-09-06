@@ -5,6 +5,7 @@
   "effect": "Completely revives a fainted Pokémon to its maximum Hit Points.",
   "price": 4000,
   "sellPrice": 2000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/maxrevive.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/maxrevive.shtml",
     "scrapedAt": "2026-09-04T23:23:35.252Z"

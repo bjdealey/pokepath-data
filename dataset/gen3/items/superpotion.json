@@ -5,6 +5,7 @@
   "effect": "Heals a Pokémon by 50HP",
   "price": 700,
   "sellPrice": 350,
+  "sprite": "https://www.serebii.net/itemdex/sprites/superpotion.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/superpotion.shtml",
     "scrapedAt": "2026-09-04T23:23:36.237Z"

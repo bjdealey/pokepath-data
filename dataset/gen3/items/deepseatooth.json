@@ -5,6 +5,7 @@
   "effect": "If the DeepSeaTooth is held by Clamperl, the holder's Special Attack is doubled. This item, when held by a Pokémon and the Pokémon is traded evolves the following Pokémon",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/deepseatooth.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/deepseatooth.shtml",
     "scrapedAt": "2026-09-04T23:23:34.368Z"

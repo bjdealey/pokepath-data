@@ -10,6 +10,7 @@
   "secondaryEffect": "If the user faints, deletes the PP of opponent's last move.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ghost.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/grudge.shtml",
     "scrapedAt": "2026-09-03T19:22:31.350Z"

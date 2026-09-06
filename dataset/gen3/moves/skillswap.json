@@ -10,6 +10,7 @@
   "secondaryEffect": "Use and target trade abilities.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/skillswap.shtml",
     "scrapedAt": "2026-09-03T19:26:40.494Z"

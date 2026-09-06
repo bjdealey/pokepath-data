@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces paralysis",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/glare.shtml",
     "scrapedAt": "2026-09-03T19:22:25.323Z"

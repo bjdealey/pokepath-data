@@ -10,6 +10,7 @@
   "secondaryEffect": "Hits even if opponent is using FLY.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/flying.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/gust.shtml",
     "scrapedAt": "2026-09-03T19:22:34.359Z"

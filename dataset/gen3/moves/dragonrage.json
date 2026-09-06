@@ -10,6 +10,7 @@
   "secondaryEffect": "Inflicts 40 HP damage.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/dragonrage.shtml",
     "scrapedAt": "2026-09-03T19:21:23.790Z"

@@ -5,6 +5,7 @@
   "effect": "The user attacks the foe at full power using fiery energy. It also sharply reduces the user's Sp. Atk.",
   "price": 5500,
   "sellPrice": 2750,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm50.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm50.shtml",
     "scrapedAt": "2026-09-04T23:23:36.786Z"

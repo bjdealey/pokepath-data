@@ -10,6 +10,7 @@
   "secondaryEffect": "User takes hits for 2 rounds, then strikes back.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/bide.shtml",
     "scrapedAt": "2026-09-03T19:20:04.227Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "Counters the foe's special attack at double the power.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/mirrorcoat.shtml",
     "scrapedAt": "2026-09-03T19:24:08.916Z"

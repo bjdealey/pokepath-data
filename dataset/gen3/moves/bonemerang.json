@@ -10,6 +10,7 @@
   "secondaryEffect": "Attacks twice in a row.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/bonemerang.shtml",
     "scrapedAt": "2026-09-03T19:20:17.738Z"

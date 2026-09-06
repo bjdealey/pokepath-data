@@ -78,6 +78,7 @@ export interface Machine {
   number: number;
   move: string; // move name (a label); its type/category/effect live in moves/<moveSlug>.json
   moveSlug: string | null;
+  typeIcon?: string; // derived: Serebii type-badge URL for the move's type (run.ts sprites)
   emerald: { badge?: string; locations: Array<{ location: string; method: string }> };
 }
 
@@ -105,6 +106,7 @@ export interface MoveRecord {
   effectRate: number | null; // % chance of the secondary effect
   contestType?: string;
   gameExclusive?: boolean; // true = side-game only (Colosseum/XD Shadow moves), not obtainable in the core Gen-3 games
+  typeIcon?: string; // derived: Serebii type-badge URL for `type` (run.ts sprites)
   learnedBy?: LearnedByEntry[]; // derived: Pokémon that learn this move (level-up + TM/HM)
   source: { url: string; scrapedAt: string };
 }
@@ -150,6 +152,7 @@ export interface ItemRecord {
   effect: string; // "In-Depth Effect"
   price: number | null; // purchase price (Serebii ItemDex; not gen-scoped — latest where prices vary)
   sellPrice: number | null;
+  sprite?: string; // derived: Serebii ItemDex icon URL (run.ts sprites)
   heldBy?: Array<{ pokemon: string; natdex: number; rate: number }>; // derived: wild Pokémon that hold this item
   foundAt?: Array<{ location: string; method: string }>; // derived: Emerald locations where it's found
   source: { url: string; scrapedAt: string };

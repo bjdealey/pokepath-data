@@ -9,6 +9,7 @@
   "effect": "An extremely powerful kick with intense force.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/megakick.shtml",
     "scrapedAt": "2026-09-03T19:23:50.911Z"

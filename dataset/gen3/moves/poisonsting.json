@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce poison.",
   "effectRate": 30,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/poison.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/poisonsting.shtml",
     "scrapedAt": "2026-09-03T19:24:49.478Z"

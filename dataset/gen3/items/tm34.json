@@ -5,6 +5,7 @@
   "effect": "The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm34.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm34.shtml",
     "scrapedAt": "2026-09-04T23:23:36.663Z"

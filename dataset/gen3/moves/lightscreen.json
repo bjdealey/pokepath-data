@@ -10,6 +10,7 @@
   "secondaryEffect": "Halves SP. ATK damage inflicted on user.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/lightscreen.shtml",
     "scrapedAt": "2026-09-03T19:23:31.427Z"

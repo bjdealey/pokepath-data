@@ -5,6 +5,7 @@
   "effect": "A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm19.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm19.shtml",
     "scrapedAt": "2026-09-04T23:23:36.548Z"

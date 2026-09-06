@@ -5,6 +5,7 @@
   "effect": "This item allows you to see and challenge Pokémon in the overworld, specifically Kecleon, whom are hidden but blocking the way.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/devonscope.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/devonscope.shtml",
     "scrapedAt": "2026-09-04T23:23:34.395Z"

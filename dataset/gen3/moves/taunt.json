@@ -10,6 +10,7 @@
   "secondaryEffect": "Opponent can only use attack moves.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/taunt.shtml",
     "scrapedAt": "2026-09-03T19:27:58.570Z"

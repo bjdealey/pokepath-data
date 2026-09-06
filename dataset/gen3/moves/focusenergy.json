@@ -10,6 +10,7 @@
   "secondaryEffect": "Increases user's critical hit rate.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/focusenergy.shtml",
     "scrapedAt": "2026-09-03T19:22:08.876Z"

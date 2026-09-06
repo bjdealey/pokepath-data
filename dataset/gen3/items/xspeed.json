@@ -5,6 +5,7 @@
   "effect": "In battle, it raises the Pokémon's Speed by 1 stage until the battle is over or the Pokémon is withdrawn. Increases Pokémon's Happiness.",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/xspeed.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/xspeed.shtml",
     "scrapedAt": "2026-09-04T23:23:36.927Z"

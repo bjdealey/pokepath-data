@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers opponent's stats. User faints.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/memento.shtml",
     "scrapedAt": "2026-09-03T19:23:53.913Z"

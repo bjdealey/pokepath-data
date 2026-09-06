@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce burn, freeze or paralysis.",
   "effectRate": 20,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/triattack.shtml",
     "scrapedAt": "2026-09-03T19:28:19.574Z"

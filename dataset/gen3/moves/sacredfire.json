@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce burn.",
   "effectRate": 50,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/sacredfire.shtml",
     "scrapedAt": "2026-09-03T19:25:41.965Z"

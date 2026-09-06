@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers the power of ELECTRIC moves.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ground.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/mudsport.shtml",
     "scrapedAt": "2026-09-03T19:24:22.475Z"

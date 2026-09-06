@@ -5,6 +5,7 @@
   "effect": "It may be used or held by a Pokémon to defrost it.",
   "price": 80,
   "sellPrice": 40,
+  "sprite": "https://www.serebii.net/itemdex/sprites/aspearberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/aspearberry.shtml",
     "scrapedAt": "2026-09-04T23:23:34.041Z"

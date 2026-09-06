@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces sleep.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/sleeppowder.shtml",
     "scrapedAt": "2026-09-03T19:26:51.145Z"

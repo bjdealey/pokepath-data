@@ -10,6 +10,7 @@
   "secondaryEffect": "Power rises if user's HP are less than opponent's HP.",
   "effectRate": null,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/endeavor.shtml",
     "scrapedAt": "2026-09-03T19:21:35.786Z"

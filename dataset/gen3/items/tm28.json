@@ -5,6 +5,7 @@
   "effect": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm28.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm28.shtml",
     "scrapedAt": "2026-09-04T23:23:36.604Z"

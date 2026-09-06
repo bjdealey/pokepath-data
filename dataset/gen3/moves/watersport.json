@@ -10,6 +10,7 @@
   "secondaryEffect": "Lowers the power of FIRE moves.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/water.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/watersport.shtml",
     "scrapedAt": "2026-09-03T19:28:39.099Z"

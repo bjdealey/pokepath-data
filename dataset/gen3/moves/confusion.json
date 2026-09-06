@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce CONFUSION.",
   "effectRate": 10,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/confusion.shtml",
     "scrapedAt": "2026-09-03T19:20:40.300Z"

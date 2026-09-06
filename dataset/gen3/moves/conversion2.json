@@ -10,6 +10,7 @@
   "secondaryEffect": "User becomes a type resistant to opponent's last attack.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/conversion2.shtml",
     "scrapedAt": "2026-09-03T19:20:44.733Z"

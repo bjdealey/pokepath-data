@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce burn.",
   "effectRate": 10,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fire.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/flamethrower.shtml",
     "scrapedAt": "2026-09-03T19:22:01.339Z"

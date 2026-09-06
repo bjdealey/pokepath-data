@@ -10,6 +10,7 @@
   "secondaryEffect": "Has high critical hit ratio. May induce poison.",
   "effectRate": 10,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/poison.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/poisontail.shtml",
     "scrapedAt": "2026-09-03T19:24:50.973Z"

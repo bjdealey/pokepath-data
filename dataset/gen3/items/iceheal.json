@@ -5,6 +5,7 @@
   "effect": "Heals the Frozen Status Ailment.",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/iceheal.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/iceheal.shtml",
     "scrapedAt": "2026-09-04T23:23:34.948Z"

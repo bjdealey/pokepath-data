@@ -10,6 +10,7 @@
   "secondaryEffect": "Resets opponent's EVASIVENESS.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/foresight.shtml",
     "scrapedAt": "2026-09-03T19:22:13.337Z"

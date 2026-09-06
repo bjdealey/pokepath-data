@@ -10,6 +10,7 @@
   "secondaryEffect": "Uses a random move.",
   "effectRate": null,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/metronome.shtml",
     "scrapedAt": "2026-09-03T19:24:01.396Z"

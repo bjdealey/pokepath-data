@@ -5,6 +5,7 @@
   "effect": "Completely restores the PP of all of the Pokémon's moves by 10PP.",
   "price": 4500,
   "sellPrice": 2250,
+  "sprite": "https://www.serebii.net/itemdex/sprites/maxelixir.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/maxelixir.shtml",
     "scrapedAt": "2026-09-04T23:23:35.203Z"

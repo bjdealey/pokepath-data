@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces sleep.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/grass.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/spore.shtml",
     "scrapedAt": "2026-09-03T19:27:19.526Z"

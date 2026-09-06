@@ -5,6 +5,7 @@
   "effect": "When this item is held by a Cubone or a Marowak, the holder's Attack stat is doubled.",
   "price": 500,
   "sellPrice": 250,
+  "sprite": "https://www.serebii.net/itemdex/sprites/thickclub.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/thickclub.shtml",
     "scrapedAt": "2026-09-04T23:23:37.408Z"

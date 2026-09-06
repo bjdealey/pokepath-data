@@ -5,6 +5,7 @@
   "effect": "A full-power attack that grows more powerful the more the user likes its Trainer.",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm27.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm27.shtml",
     "scrapedAt": "2026-09-04T23:23:36.588Z"

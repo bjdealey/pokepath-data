@@ -31,7 +31,7 @@ node src/run.ts storypath          # enrich criticalPath with HM/legendary/key-i
 node src/run.ts obtainability      # derive how each species is obtained in Emerald (after pokemon + game data)
 node src/run.ts evtraining         # derive EV-training spots (evYield × encounters)
 node src/run.ts shiny              # derive reset-able shiny targets (gifts + static legendaries)
-node src/run.ts sprites            # bake Serebii sprite/artwork URLs into pokemon (after pokemon, no network)
+node src/run.ts sprites            # bake Serebii image URLs into pokemon/items/moves/machines + type-icons.json (no network)
 node src/run.ts locations          # build the canonical location registry (slug → name) — run last
 node src/run.ts manifest           # scan dataset/ generations → dataset/manifest.json
 npm test                           # parser fixtures + dataset-integrity checks
@@ -63,7 +63,7 @@ dataset/
   manifest.json                                  # generations available + games + counts
   gen3/
     {pokemon,moves,items,abilities}/<slug>.json + index.json    # canonical, per-entity (static-servable)
-    {machines,typechart}.json                         # canonical, Gen-3
+    {machines,typechart,type-icons}.json              # canonical, Gen-3
     games/emerald/{encounters,locations,items,trainers,story,connections}.json
 ```
 
@@ -105,13 +105,21 @@ Serebii layout change fails loudly instead of silently corrupting the dataset.
   and **type effectiveness** (`damageTaken` — non-neutral weak/resist/immune multipliers),
   plus **`wildItems`** (held-when-wild) and **`evYield`** (effort points awarded when defeated —
   "Effort Points from Battling it", e.g. Swampert `{attack:3}`), parsed from `/pokedex-rs/NNN.shtml`.
-- ✅ `sprites` — **Serebii sprite/artwork URLs** baked into each Pokémon record's
-  **`sprites`** (`run.ts sprites`, *derived*, no network). Normal + **shiny** in-game
-  battle sprites keyed by game (Ruby/Sapphire share a set, Emerald its own) plus the
-  game-agnostic official **`artwork`** — a pure function of the national-dex number via
-  Serebii's stable URL scheme (`/pokearth/sprites/<set>/NNN.png`, `/Shiny/<Set>/NNN.png`,
-  `/pokemon/art/NNN.png`), **pinned against the committed pokedex-rs fixture**. URLs link
-  to Serebii; images are **not re-hosted** (Serebii ToS). Run after `pokemon`.
+- ✅ `sprites` — **Serebii image URLs** baked across the canonical collections
+  (`run.ts sprites`, *derived*, no network) — every URL a pure function of data the
+  record already holds, so **no page content and no re-hosting** (Serebii ToS); each
+  scheme is **pinned against a committed fixture**. Covers:
+  - **pokemon `sprites`** — normal + **shiny** battle sprites keyed by game (Ruby/Sapphire
+    share a set, Emerald its own) + game-agnostic official **`artwork`** (from the national-dex
+    number: `/pokearth/sprites/<set>/NNN.png`, `/Shiny/<Set>/NNN.png`, `/pokemon/art/NNN.png`).
+  - **item `sprite`** — the ItemDex icon (`/itemdex/sprites/<slug>.png`; the slug *is* the filename).
+  - **move `typeIcon`** — the Gen-3 battle-type badge for the move's type (`/pokedex-rs/type/<type>.gif`;
+    typeless `???`→`na`, side-game `shadow`→AttackDex badge).
+  - **machine `typeIcon`** — the type badge of each TM/HM's move.
+  - **`type-icons.json`** — a `type → badge` map mirroring the type chart's 17 types.
+  Note: Gen 3 has no per-move *category* icon on Serebii (category is derived from type), so
+  none is fabricated — the `category` value is already a field. Run after the collections it
+  enriches (`pokemon`/`items`/`moves` + `machines` + `typechart`).
 - ✅ `moves` — all **Gen-III moves** (373) from the `/attackdex/` AttackDex (its
   title confirms "Generation III"): type, power, accuracy, PP, effect, secondary
   effect + rate, contest type. **Category is derived from type** (Gen 3 predates the

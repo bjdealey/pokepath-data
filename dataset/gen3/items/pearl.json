@@ -5,6 +5,7 @@
   "effect": "An item you can sell for 700",
   "price": 4000,
   "sellPrice": 2000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/pearl.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/pearl.shtml",
     "scrapedAt": "2026-09-04T23:23:35.544Z"

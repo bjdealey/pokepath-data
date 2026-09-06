@@ -5,6 +5,7 @@
   "effect": "Revives all fainted Pokémon to their maximum Hit Points",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/sacredash.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/sacredash.shtml",
     "scrapedAt": "2026-09-04T23:23:37.304Z"

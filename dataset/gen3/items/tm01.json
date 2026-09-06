@@ -5,6 +5,7 @@
   "effect": "The user focuses its mind before launching this attack. It will fail if the user is hit before it is used.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm01.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm01.shtml",
     "scrapedAt": "2026-09-04T23:23:36.394Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "May cause opponent to flinch.",
   "effectRate": 10,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/extrasensory.shtml",
     "scrapedAt": "2026-09-03T19:21:41.803Z"

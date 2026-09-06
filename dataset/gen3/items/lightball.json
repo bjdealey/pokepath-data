@@ -5,6 +5,7 @@
   "effect": "When this item is held by a Pikachu, the holder's Attack & Special Attack is doubled In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, when held by a Pikachu, the holder's Special Attack was doubled.",
   "price": 1000,
   "sellPrice": 500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/lightball.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/lightball.shtml",
     "scrapedAt": "2026-09-04T23:23:37.107Z"

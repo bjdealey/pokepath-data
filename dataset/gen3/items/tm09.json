@@ -5,6 +5,7 @@
   "effect": "The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm09.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm09.shtml",
     "scrapedAt": "2026-09-04T23:23:36.492Z"

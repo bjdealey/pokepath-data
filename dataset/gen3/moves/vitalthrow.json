@@ -10,6 +10,7 @@
   "secondaryEffect": "Cannot miss. Goes last.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/vitalthrow.shtml",
     "scrapedAt": "2026-09-03T19:28:31.568Z"

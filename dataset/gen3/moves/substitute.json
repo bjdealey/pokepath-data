@@ -10,6 +10,7 @@
   "secondaryEffect": "Creates a decoy using 1/4 of the user's maximum HP.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/substitute.shtml",
     "scrapedAt": "2026-09-03T19:27:33.101Z"

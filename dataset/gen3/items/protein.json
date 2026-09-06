@@ -5,6 +5,7 @@
   "effect": "Increases the Effort Values for the Pokémon's Attack stat up by 10EVs until the Pokémon hits 100EVs in this stat.",
   "price": 10000,
   "sellPrice": 5000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/protein.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/protein.shtml",
     "scrapedAt": "2026-09-04T23:23:35.752Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "Damage delays 2 turns.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/futuresight.shtml",
     "scrapedAt": "2026-09-03T19:22:22.420Z"

@@ -5,6 +5,7 @@
   "effect": "It may be used or held by a Pokémon to recover from sleep.",
   "price": 80,
   "sellPrice": 40,
+  "sprite": "https://www.serebii.net/itemdex/sprites/chestoberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/chestoberry.shtml",
     "scrapedAt": "2026-09-04T23:23:34.282Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces severe poison.",
   "effectRate": 100,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/poison.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/toxic.shtml",
     "scrapedAt": "2026-09-03T19:28:16.637Z"

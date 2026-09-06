@@ -5,6 +5,7 @@
   "effect": "It may be used or held by a Pokémon to heal the user by just 10 HP.",
   "price": 80,
   "sellPrice": 40,
+  "sprite": "https://www.serebii.net/itemdex/sprites/oranberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/oranberry.shtml",
     "scrapedAt": "2026-09-04T23:23:35.484Z"

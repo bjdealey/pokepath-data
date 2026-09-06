@@ -5,6 +5,7 @@
   "effect": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/hm01.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/hm01.shtml",
     "scrapedAt": "2026-09-04T23:23:34.783Z"

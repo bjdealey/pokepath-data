@@ -10,6 +10,7 @@
   "secondaryEffect": "Does additional damage for every Pokémon in trainer's team.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/beatup.shtml",
     "scrapedAt": "2026-09-03T19:20:01.201Z"

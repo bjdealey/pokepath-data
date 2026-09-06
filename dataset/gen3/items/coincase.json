@@ -5,6 +5,7 @@
   "effect": "This item is required for you to access the various gaming machines in the Game Corners across all the regions.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/coincase.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/coincase.shtml",
     "scrapedAt": "2026-09-04T23:23:34.307Z"

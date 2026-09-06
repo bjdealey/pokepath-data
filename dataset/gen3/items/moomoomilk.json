@@ -5,6 +5,7 @@
   "effect": "Heals a Pokémon by 100HP",
   "price": 600,
   "sellPrice": 300,
+  "sprite": "https://www.serebii.net/itemdex/sprites/moomoomilk.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/moomoomilk.shtml",
     "scrapedAt": "2026-09-04T23:23:37.176Z"

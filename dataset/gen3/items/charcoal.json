@@ -5,6 +5,7 @@
   "effect": "When this item is held, any Fire-type move used by the holder has its power increased by 20% In Gold, Silver, Crystal, Ruby, Sapphire, Emerald, FireRed & LeafGreen, the power of Fire-type moves is increased by 10%.",
   "price": 3000,
   "sellPrice": 1500,
+  "sprite": "https://www.serebii.net/itemdex/sprites/charcoal.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/charcoal.shtml",
     "scrapedAt": "2026-09-04T23:23:34.238Z"

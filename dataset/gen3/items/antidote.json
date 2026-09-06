@@ -5,6 +5,7 @@
   "effect": "Heals the Poison Status Ailment.",
   "price": 200,
   "sellPrice": 100,
+  "sprite": "https://www.serebii.net/itemdex/sprites/antidote.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/antidote.shtml",
     "scrapedAt": "2026-09-04T23:23:34.017Z"

@@ -10,6 +10,7 @@
   "secondaryEffect": "May lower opponent's SP. DEF one stage.",
   "effectRate": 10,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/psychic.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/psychic.shtml",
     "scrapedAt": "2026-09-03T19:25:00.025Z"

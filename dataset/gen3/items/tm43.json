@@ -5,6 +5,7 @@
   "effect": "An attack move with effects that vary depending on the user's environment.",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm43.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm43.shtml",
     "scrapedAt": "2026-09-04T23:23:36.746Z"

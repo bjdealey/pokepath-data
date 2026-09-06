@@ -10,6 +10,7 @@
   "secondaryEffect": "May raise all user's stats one stage.",
   "effectRate": 10,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/bug.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/silverwind.shtml",
     "scrapedAt": "2026-09-03T19:26:35.977Z"

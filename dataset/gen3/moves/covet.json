@@ -10,6 +10,7 @@
   "secondaryEffect": "May steal opponent's item (temporarily in trainer battles).",
   "effectRate": 100,
   "contestType": "cute",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/covet.shtml",
     "scrapedAt": "2026-09-03T19:20:50.766Z"

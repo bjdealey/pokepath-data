@@ -10,6 +10,7 @@
   "secondaryEffect": "If attack misses, user takes 1/8 HP of damage.",
   "effectRate": null,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/fighting.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/jumpkick.shtml",
     "scrapedAt": "2026-09-03T19:23:17.842Z"

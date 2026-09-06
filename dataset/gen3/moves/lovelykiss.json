@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces sleep.",
   "effectRate": null,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/normal.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/lovelykiss.shtml",
     "scrapedAt": "2026-09-03T19:23:34.419Z"

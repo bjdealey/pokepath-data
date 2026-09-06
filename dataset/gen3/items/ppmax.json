@@ -5,6 +5,7 @@
   "effect": "Increases the maximum PP of any move to 160% of the original PP. Can be used once per move. Raises the Pokémon's Happiness.",
   "price": 10000,
   "sellPrice": 5000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/ppmax.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/ppmax.shtml",
     "scrapedAt": "2026-09-04T23:23:35.707Z"

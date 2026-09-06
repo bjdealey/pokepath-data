@@ -10,6 +10,7 @@
   "secondaryEffect": "User uses the same attack for 2-3 turns then becomes confused.",
   "effectRate": 100,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/outrage.shtml",
     "scrapedAt": "2026-09-03T19:24:32.955Z"

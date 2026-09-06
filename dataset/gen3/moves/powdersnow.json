@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce freeze.",
   "effectRate": 10,
   "contestType": "beauty",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ice.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/powdersnow.shtml",
     "scrapedAt": "2026-09-03T19:24:54.020Z"

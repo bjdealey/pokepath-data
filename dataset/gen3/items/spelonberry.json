@@ -5,6 +5,7 @@
   "effect": "In the Sinnoh region, they like to make sweets known as Poffins with this Berry and feed them to their Pokémon.",
   "price": 20,
   "sellPrice": 10,
+  "sprite": "https://www.serebii.net/itemdex/sprites/spelonberry.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/spelonberry.shtml",
     "scrapedAt": "2026-09-04T23:23:36.145Z"

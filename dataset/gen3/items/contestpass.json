@@ -5,6 +5,7 @@
   "effect": "This item is programmed into multiple games, but is only obtainable within Ruby & Sapphire. It is required to enter the Pokémon Contests.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/contestpass.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/contestpass.shtml",
     "scrapedAt": "2026-09-04T23:23:34.323Z"

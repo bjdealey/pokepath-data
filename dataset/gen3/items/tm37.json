@@ -5,6 +5,7 @@
   "effect": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
   "price": 2000,
   "sellPrice": 1000,
+  "sprite": "https://www.serebii.net/itemdex/sprites/tm37.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/tm37.shtml",
     "scrapedAt": "2026-09-04T23:23:36.675Z"

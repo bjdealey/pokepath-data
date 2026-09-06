@@ -10,6 +10,7 @@
   "secondaryEffect": "May lower opponent's SP. DEF one stage.",
   "effectRate": 20,
   "contestType": "tough",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/crunch.shtml",
     "scrapedAt": "2026-09-03T19:20:55.263Z"

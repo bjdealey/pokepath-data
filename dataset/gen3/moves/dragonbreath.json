@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce paralysis.",
   "effectRate": 30,
   "contestType": "cool",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dragon.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/dragonbreath.shtml",
     "scrapedAt": "2026-09-03T19:21:19.286Z"

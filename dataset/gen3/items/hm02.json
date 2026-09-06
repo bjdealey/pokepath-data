@@ -5,6 +5,7 @@
   "effect": "The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/hm02.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/hm02.shtml",
     "scrapedAt": "2026-09-04T23:23:34.797Z"

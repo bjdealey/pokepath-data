@@ -5,6 +5,7 @@
   "effect": "This item allows you to water the ground where berries grow. This allows for higher yeilds of Berries on the trees if done often. It also awakens the Sudowoodo in the Battle Frontier",
   "price": null,
   "sellPrice": null,
+  "sprite": "https://www.serebii.net/itemdex/sprites/wailmerpail.png",
   "source": {
     "url": "https://www.serebii.net/itemdex/wailmerpail.shtml",
     "scrapedAt": "2026-09-04T23:23:36.816Z"

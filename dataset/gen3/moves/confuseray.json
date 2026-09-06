@@ -10,6 +10,7 @@
   "secondaryEffect": "May induce CONFUSION.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/ghost.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/confuseray.shtml",
     "scrapedAt": "2026-09-03T19:20:38.758Z"

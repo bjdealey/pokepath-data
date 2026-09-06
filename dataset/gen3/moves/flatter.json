@@ -10,6 +10,7 @@
   "secondaryEffect": "Induces CONFUSE. Raises opponent's SP. ATK two stages.",
   "effectRate": null,
   "contestType": "smart",
+  "typeIcon": "https://www.serebii.net/pokedex-rs/type/dark.gif",
   "source": {
     "url": "https://www.serebii.net/attackdex/flatter.shtml",
     "scrapedAt": "2026-09-03T19:22:05.911Z"
