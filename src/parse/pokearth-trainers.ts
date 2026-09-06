@@ -24,7 +24,26 @@ const MARQUEE = /^(Gym Leader|Elite Four|Champion)\s+(.+)$/i;
 const PLACE_WORDS =
   /(city|town|hideout|pass|tunnel|woods|road|cavern|cave|institute|center|falls|island|forest|tower|frontier|league|underpass|hall)/g;
 
+// Names the slug→name heuristic can't recover: irregular structure ("cave OF
+// origin"), a prefix word ("new mauville"), a suffix PLACE_WORDS doesn't know
+// ("pillar", "tomb", "ruins", "path", "zone", "slab", "ship"), or an initialism
+// ("S.S. Tidal"). Serebii doesn't give these a clean display name anywhere in the
+// scraped pages, so curate them here — the one place slug→name is decided.
+export const LOCATION_NAMES: Record<string, string> = {
+  abandonedship: "Abandoned Ship",
+  ancienttomb: "Ancient Tomb",
+  caveoforigin: "Cave of Origin",
+  desertruins: "Desert Ruins",
+  fierypath: "Fiery Path",
+  newmauville: "New Mauville",
+  safarizone: "Safari Zone",
+  scorchedslab: "Scorched Slab",
+  skypillar: "Sky Pillar",
+  sstidal: "S.S. Tidal",
+};
+
 export function locationName(slug: string): string {
+  if (LOCATION_NAMES[slug]) return LOCATION_NAMES[slug];
   const rm = slug.match(/^route(\d+)$/i);
   if (rm) return `Route ${rm[1]}`;
   return slug

@@ -4,7 +4,7 @@
 // the name lives here once. No network. Run after the game data is built.
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { GEN_DIR as DATASET } from "../paths.ts";
-import { locationName } from "../parse/pokearth-trainers.ts";
+import { locationName, LOCATION_NAMES } from "../parse/pokearth-trainers.ts";
 import type { Game } from "../games.ts";
 import type { LocationRecord } from "../types.ts";
 
@@ -34,10 +34,13 @@ export function deriveLocations(game: Game = "emerald") {
   for (const m of story.milestones ?? []) if (m.location) slugs.add(m.location);
   for (const node of Object.values<any>(conn)) for (const target of Object.values<string>(node?.exits ?? {})) slugs.add(target);
 
+  // A curated name wins even over a scraped one: Serebii's encounter/connection
+  // labels are themselves slug-derived for these places (e.g. "Caveoforigin"), so
+  // the override in locationName() is the authority.
   const records: LocationRecord[] = [...slugs]
     .filter(Boolean)
     .sort()
-    .map((slug) => ({ slug, name: nameOf.get(slug) ?? locationName(slug) }));
+    .map((slug) => ({ slug, name: LOCATION_NAMES[slug] ?? nameOf.get(slug) ?? locationName(slug) }));
 
   writeFileSync(`${G}locations.json`, JSON.stringify(records, null, 2));
   return { locations: records.length, named: records.filter((r) => nameOf.has(r.slug)).length };

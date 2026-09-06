@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { parseRouteTrainers } from "../src/parse/pokearth-trainers.ts";
+import { parseRouteTrainers, locationName } from "../src/parse/pokearth-trainers.ts";
 
 const html = readFileSync(fileURLToPath(new URL("./fixtures/pokearth-route110-3rd.html", import.meta.url)), "utf8");
 const trainers = parseRouteTrainers(html, "route110");
@@ -43,4 +43,19 @@ test("reclassifies pokearth 'Gym Leader/Champion X' rows to their real kind + me
   assert.equal(rox!.trainer, "roxanne"); // honorific stripped → merges with the gym-page Roxanne
   assert.equal(wal!.kind, "champion");
   assert.equal(wal!.trainer, "wallace");
+});
+
+test("locationName gives proper display names, including curated irregular ones", () => {
+  // Algorithmic: routes and PLACE_WORDS suffixes.
+  assert.equal(locationName("route110"), "Route 110");
+  assert.equal(locationName("granitecave"), "Granite Cave");
+  assert.equal(locationName("petalburgwoods"), "Petalburg Woods");
+  // Curated: names the heuristic can't recover (of/prefix/unknown-suffix/initialism).
+  assert.equal(locationName("caveoforigin"), "Cave of Origin");
+  assert.equal(locationName("skypillar"), "Sky Pillar");
+  assert.equal(locationName("newmauville"), "New Mauville");
+  assert.equal(locationName("sstidal"), "S.S. Tidal");
+  // None of the curated names should come back un-spaced.
+  for (const slug of ["ancienttomb", "desertruins", "fierypath", "safarizone", "scorchedslab", "abandonedship"])
+    assert.match(locationName(slug), / /, `${slug} should be de-smashed`);
 });
